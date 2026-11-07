@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T03:20:18.322Z",
+ "generado": "2026-11-07T05:40:18.574Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
+    "enlaces": 150,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -74,8 +74,8 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 2,
-    "errores": 8,
+    "leidas": 0,
+    "errores": 10,
     "robots": 0,
     "ultimoError": "HTTP 502 (https://www.canal9.cl/episodios/2026/11/06/laliga-de-espana-y-china-apuntan-a-reconciliacion-tras-caso-mbappe)"
    }
@@ -125,20 +125,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/lilas-acereros-vecinos-guerra-sexto-puesto.html",
-   "titulo": "Lilas y acereros: vecinos en la guerra por el sexto puesto",
-   "resumen": "Ambos quieren entrar a la Copa Sudamericana 2027 y para ello deben alcanzar a Palestino. ¿Qué les queda en el camino y cómo llegan Deportes Concepción y Huachipato a esta recta final?",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/05/pag-15-Aldrix-Jara-Deportes-Concepcion-vs-Huachipato-foto-carolina-e1793965495179.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/cge-sec-multa-medidores.html",
    "titulo": "SEC Biobío valora fallo contra CGE: retiro de medidores de clientes vulneró la normativa vigente",
    "resumen": "La Superintendencia sancionó a la distribuidora por retirar equipos sin justificación técnica y reemplazarlos sin la certificación exigida. La medida coincide con la polémica sobre la voluntariedad del cambio y las dudas de los usuarios sobre la tecnología…",
@@ -149,6 +135,20 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/lilas-acereros-vecinos-guerra-sexto-puesto.html",
+   "titulo": "Lilas y acereros: vecinos en la guerra por el sexto puesto",
+   "resumen": "Ambos quieren entrar a la Copa Sudamericana 2027 y para ello deben alcanzar a Palestino. ¿Qué les queda en el camino y cómo llegan Deportes Concepción y Huachipato a esta recta final?",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/05/pag-15-Aldrix-Jara-Deportes-Concepcion-vs-Huachipato-foto-carolina-e1793965495179.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
