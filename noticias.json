@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T19:40:19.615Z",
+ "generado": "2026-11-07T20:00:26.384Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 149,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -166,10 +166,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/aumenta-preocupacion-en-concepcion-por-personas-en-situacion-de-calle-descompensadas-por-salud-mental.html",
-   "titulo": "Aumenta preocupación en Concepción por personas en situación de calle descompensadas por salud mental",
+   "url": "https://www.tvu.cl/prensa/2026/11/07/chiguayante-concejales-cuestionan-ante-contraloria-el-incremento-de-gasto-en-personal-a-contrata.html",
+   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el incremento de gasto en personal a contrata",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-6-joven-en-situacion-de-calle-foto-carolina.jpg-850x500.jpeg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-4-fachada-municipalidad-de-chiguayante-foto-diario-concepci%C3%B3n.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:10:19.290Z",
@@ -180,10 +180,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/chiguayante-concejales-cuestionan-ante-contraloria-el-incremento-de-gasto-en-personal-a-contrata.html",
-   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el incremento de gasto en personal a contrata",
+   "url": "https://www.tvu.cl/prensa/2026/11/07/aumenta-preocupacion-en-concepcion-por-personas-en-situacion-de-calle-descompensadas-por-salud-mental.html",
+   "titulo": "Aumenta preocupación en Concepción por personas en situación de calle descompensadas por salud mental",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-4-fachada-municipalidad-de-chiguayante-foto-diario-concepci%C3%B3n.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-6-joven-en-situacion-de-calle-foto-carolina.jpg-850x500.jpeg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:10:19.290Z",
