@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T21:10:20.468Z",
+ "generado": "2026-11-07T21:30:24.365Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 60,
+    "enlaces": 149,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
@@ -474,20 +474,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/caso-puerto-coronel-tc-boris-chamorro.html",
-   "titulo": "Caso Puerto Coronel: TC revisará requerimiento de Boris Chamorro el 11 de noviembre",
-   "resumen": "De esta manera, la sesión de la Primera Sala se realizará dos días antes de la audiencia de preparación del juicio oral.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/requerimiento-chamorro-tribunal-constitucional-e1794000185157.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pastoreo-estrategico-cabras-prevencion-incendios-florida.html",
    "titulo": "FOTOS | Con cabras y manejo comunitario: aplican pastoreo preventivo para frenar el fuego en Florida",
    "resumen": "Familias de Pantanal recibieron ganado caprino entrenado para consumir vegetación seca y crear cortafuegos naturales antes del verano.",
@@ -506,6 +492,20 @@
    "titulo": "Santa Juana: 283 familias de Huallerehue acceden a red de agua potable rural tras años de espera",
    "resumen": "Con una inversión sectorial de $2.630 millones, el proyecto en Huallerehue sumó 172 arranques y proyecta abastecer a 1.556 personas a 20 años.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/agua-potable-rural-huallerehue-santa-juana-e1794012673651.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/caso-puerto-coronel-tc-boris-chamorro.html",
+   "titulo": "Caso Puerto Coronel: TC revisará requerimiento de Boris Chamorro el 11 de noviembre",
+   "resumen": "De esta manera, la sesión de la Primera Sala se realizará dos días antes de la audiencia de preparación del juicio oral.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/requerimiento-chamorro-tribunal-constitucional-e1794000185157.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
