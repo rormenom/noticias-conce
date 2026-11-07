@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T16:20:18.684Z",
+ "generado": "2026-11-07T16:30:24.610Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 20,
-    "leidas": 3,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 57,
+    "enlaces": 148,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -82,10 +82,10 @@
  ],
  "items": [
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
-   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
+   "url": "https://www.tvu.cl/prensa/2026/11/07/alianza-francesa-prepara-detalles-de-una-nueva-version-de-la-fiesta-de-la-musica.html",
+   "titulo": "Alianza Francesa prepara detalles de una nueva versión de la “Fiesta de la Música”",
    "resumen": "",
-   "imagen": "https://www.tvu.cl/_templates/globals/img/placeholder.png",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-14-version-fiesta-de-la-musica-foto-archivo-Fiesta-de-la-M%C3%BAsica-2017.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:20:18.684Z",
@@ -96,10 +96,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/alianza-francesa-prepara-detalles-de-una-nueva-version-de-la-fiesta-de-la-musica.html",
-   "titulo": "Alianza Francesa prepara detalles de una nueva versión de la “Fiesta de la Música”",
+   "url": "https://www.tvu.cl/prensa/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
+   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-14-version-fiesta-de-la-musica-foto-archivo-Fiesta-de-la-M%C3%BAsica-2017.jpg",
+   "imagen": "https://www.tvu.cl/_templates/globals/img/placeholder.png",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:20:18.684Z",
@@ -138,10 +138,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/ministra-parot-sobre-la-discapacidad-una-falta-de-acceso-puede-significar-dejar-de-ejercer-derechos.html",
-   "titulo": "Ministra Parot sobre la discapacidad: “Una falta de acceso puede significar dejar de ejercer derechos”",
+   "url": "https://www.tvu.cl/prensa/2026/11/07/chiguayante-concejales-cuestionan-ante-contraloria-el-incremento-de-gasto-en-personal-a-contrata.html",
+   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el incremento de gasto en personal a contrata",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-4-fachada-municipalidad-de-chiguayante-foto-diario-concepci%C3%B3n.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:10:19.290Z",
@@ -152,10 +152,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/chiguayante-concejales-cuestionan-ante-contraloria-el-incremento-de-gasto-en-personal-a-contrata.html",
-   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el incremento de gasto en personal a contrata",
+   "url": "https://www.tvu.cl/prensa/2026/11/07/ministra-parot-sobre-la-discapacidad-una-falta-de-acceso-puede-significar-dejar-de-ejercer-derechos.html",
+   "titulo": "Ministra Parot sobre la discapacidad: “Una falta de acceso puede significar dejar de ejercer derechos”",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-4-fachada-municipalidad-de-chiguayante-foto-diario-concepci%C3%B3n.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:10:19.290Z",
