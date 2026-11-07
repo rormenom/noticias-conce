@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T16:00:25.145Z",
+ "generado": "2026-11-07T16:10:19.290Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 16,
-    "leidas": 0,
+    "enlaces": 19,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,55 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/07/ministra-parot-sobre-la-discapacidad-una-falta-de-acceso-puede-significar-dejar-de-ejercer-derechos.html",
+   "titulo": "Ministra Parot sobre la discapacidad: “Una falta de acceso puede significar dejar de ejercer derechos”",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-07T16:10:19.290Z",
+   "visto": "2026-11-07T16:10:19.290Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/07/aumenta-preocupacion-en-concepcion-por-personas-en-situacion-de-calle-descompensadas-por-salud-mental.html",
+   "titulo": "Aumenta preocupación en Concepción por personas en situación de calle descompensadas por salud mental",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-6-joven-en-situacion-de-calle-foto-carolina.jpg-850x500.jpeg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-07T16:10:19.290Z",
+   "visto": "2026-11-07T16:10:19.290Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/07/chiguayante-concejales-cuestionan-ante-contraloria-el-incremento-de-gasto-en-personal-a-contrata.html",
+   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el incremento de gasto en personal a contrata",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-4-fachada-municipalidad-de-chiguayante-foto-diario-concepci%C3%B3n.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-07T16:10:19.290Z",
+   "visto": "2026-11-07T16:10:19.290Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/07/motociclista-muere-tras-colision-con-camion-en-ruta-que-une-concepcion-y-pencomotociclista-muere-tras-colision-con-camnion-en-ruta-que-une-concepcion-y-penco",
    "titulo": "Un motociclista fallece al chocar con un camión en la ruta entre Concepción y Penco",
@@ -376,25 +418,24 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
-   "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
-   "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PRESENTACI%C3%93N-ENVIS-2027-43-e1793979438276.jpg",
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/caso-puerto-coronel-tc-boris-chamorro.html",
+   "titulo": "Caso Puerto Coronel: TC revisará requerimiento de Boris Chamorro el 11 de noviembre",
+   "resumen": "De esta manera, la sesión de la Primera Sala se realizará dos días antes de la audiencia de preparación del juicio oral.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/requerimiento-chamorro-tribunal-constitucional-e1794000185157.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
-    "regional",
-    "tecnologia"
+    "regional"
    ],
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/caso-puerto-coronel-tc-boris-chamorro.html",
-   "titulo": "Caso Puerto Coronel: TC revisará requerimiento de Boris Chamorro el 11 de noviembre",
-   "resumen": "De esta manera, la sesión de la Primera Sala se realizará dos días antes de la audiencia de preparación del juicio oral.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/requerimiento-chamorro-tribunal-constitucional-e1794000185157.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/teleton-complejo-penitenciario-biobio-internas-reinsercion.html",
+   "titulo": "Teletón llega a la cárcel del Biobío: destacan actividades de internas como clave para la reinserción social",
+   "resumen": "En honor al espíritu de la Teletón, su mascota oficial fue a visitar a las reclusas del recinto penitenciario del Biobío",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-06-at-12.07.44-e1793990791429.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -475,20 +516,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/teleton-complejo-penitenciario-biobio-internas-reinsercion.html",
-   "titulo": "Teletón llega a la cárcel del Biobío: destacan actividades de internas como clave para la reinserción social",
-   "resumen": "En honor al espíritu de la Teletón, su mascota oficial fue a visitar a las reclusas del recinto penitenciario del Biobío",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-06-at-12.07.44-e1793990791429.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/gobierno-anuncia-recursos-caminos-santa-juana.html",
    "titulo": "Anuncian plan de recuperación de zonas afectadas de Santa Juana tras intensas lluvias",
    "resumen": "El Gobierno destinó más de $346 millones a través de la Subdere para habilitar espacios públicos y mejorar caminos rurales afectados por emergencias climáticas en Santa Juana.",
@@ -513,6 +540,21 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
+   "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
+   "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PRESENTACI%C3%93N-ENVIS-2027-43-e1793979438276.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional",
+    "tecnologia"
    ],
    "local": true
   },
@@ -1497,20 +1539,6 @@
    "fuente": "Radio UdeC",
    "fuenteId": "radioudec",
    "fecha": "2026-11-02T18:39:38.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/talcahuano-reactiva-diagnostico-comunal-de-seguridad-publica/",
-   "titulo": "Talcahuano reactiva diagnóstico comunal de seguridad pública",
-   "resumen": "Con la finalidad de construir una radiografía actualizada sobre las […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/thno-768x574.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-02T16:07:29.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
