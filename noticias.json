@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T22:50:20.082Z",
+ "generado": "2026-11-07T23:10:20.038Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/deportes-concepcion-derrota-a-everton-y-suena-con-america.html",
+   "titulo": "Deportes Concepción derrota a Everton y sueña con América",
+   "resumen": "Los pupilos de Fernando Díaz vencieron a domicilio al cuadro ruletero en un partido de 6 puntos y se metieron de lleno en la lucha por la Copa Sudamericana. Tarde de golazos con Áldrix Jara y Jorge Henríquez como los héroes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-celebracion-gol-de-Aldrix-Jara-deportes-concepcion-vs-everton-fotos-Comunicaciones-Deportes-Concepci%C3%B3n.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T23:10:20.038Z",
+   "visto": "2026-11-07T23:10:20.038Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/07/concepcion-no-se-rinde-supero-a-everton-en-vina-y-sigue-luchando-por-volver-a-copa-internacional",
    "titulo": "Concepción venció a Everton en Viña y mantiene viva la opción de clasificar a una copa internacional",
@@ -1250,20 +1264,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/05/matias-godoy-llegaremos-descansados-norte-partido.html",
-   "titulo": "Matías Godoy: “Llegaremos descansados al norte y ahora será un partido muy distinto”",
-   "resumen": "El \"Mati\" y Diego Fernández anticiparon el partido de Fernández Vial en Mejillones, con antecedente de 0-1 en la ida por el ascenso a Tercera A. Aurinegros confían en dar vuelta esta durísima llave.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/matias-godoy-e1793889622691.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/panoramas-culturales-destacados-gran-concepcion.html",
    "titulo": "Teatro, música, cine y mucho más: estos son los panoramas culturales destacados para los próximos días en el Gran Concepción",
    "resumen": "Como cada semana, la agenda artistica penquista trae una miscelánea cartelera para estos primeros días de noviembre.",
@@ -1330,6 +1330,20 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/05/matias-godoy-llegaremos-descansados-norte-partido.html",
+   "titulo": "Matías Godoy: “Llegaremos descansados al norte y ahora será un partido muy distinto”",
+   "resumen": "El \"Mati\" y Diego Fernández anticiparon el partido de Fernández Vial en Mejillones, con antecedente de 0-1 en la ida por el ascenso a Tercera A. Aurinegros confían en dar vuelta esta durísima llave.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/matias-godoy-e1793889622691.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
