@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T11:50:18.274Z",
+ "generado": "2026-11-07T12:20:19.412Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/07/deuda-publica-chile-megaobras-biobio.html",
+   "titulo": "Deuda pública de Chile: monto equivale a financiar 105 veces cinco megaobras del Biobío",
+   "resumen": "El paquete regional de referencia considera la Costanera Sur de San Pedro de la Paz, la Ruta Pie de Monte, la Red de Hospitales del Biobío, el Nuevo Puente Ferroviario sobre el río Biobío y el Puente Industrial.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-Congreso-de-Chile-foto-cedida.jpg-e1794015575174.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T12:20:19.412Z",
+   "visto": "2026-11-07T12:20:19.412Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
    "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
@@ -363,20 +377,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/cge-sec-multa-medidores.html",
-   "titulo": "SEC Biobío valora fallo contra CGE: retiro de medidores de clientes vulneró la normativa vigente",
-   "resumen": "La Superintendencia sancionó a la distribuidora por retirar equipos sin justificación técnica y reemplazarlos sin la certificación exigida. La medida coincide con la polémica sobre la voluntariedad del cambio y las dudas de los usuarios sobre la tecnología…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-medidores-inteligentes-de-luz-foto-cc.jpg-e1793927471392.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/ecomercado-solidario-chiguayante-fosis.html",
    "titulo": "FOSIS inaugura EcoMercado Solidario en Chiguayante que apoyará a 300 familias",
    "resumen": "La iniciativa recupera alimentos de supermercados y ferias para entregarlos gratuitamente.",
@@ -479,6 +479,20 @@
    "titulo": "Caso Puerto Coronel: Fiscalía alerta riesgo de dilación si más defensas recurren al Tribunal Constitucional",
    "resumen": "Aún se está a la espera de que el TC examine la admisibilidad del requerimiento de la defensa del alcalde Boris Chamorro, proceso que por el momento no figura en tabla.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/fiscalia-regional-biobio-e1793927410744.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/cge-sec-multa-medidores.html",
+   "titulo": "SEC Biobío valora fallo contra CGE: retiro de medidores de clientes vulneró la normativa vigente",
+   "resumen": "La Superintendencia sancionó a la distribuidora por retirar equipos sin justificación técnica y reemplazarlos sin la certificación exigida. La medida coincide con la polémica sobre la voluntariedad del cambio y las dudas de los usuarios sobre la tecnología…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-medidores-inteligentes-de-luz-foto-cc.jpg-e1793927471392.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
