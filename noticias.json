@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T21:30:24.365Z",
+ "generado": "2026-11-07T22:19:15.237Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -292,6 +292,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/morados-deben-bajar-a-everton-para-seguir-por-el-sueno-de-sudamericana.html",
+   "titulo": "Morados deben bajar a Everton para seguir por el sueño de Sudamericana",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Deportes-Concepcion-vs-Everton-foto-Lorena-Vecchio-e1794015944636.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
    "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
    "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
@@ -344,20 +358,6 @@
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/morados-deben-bajar-a-everton-para-seguir-por-el-sueno-de-sudamericana.html",
-   "titulo": "Morados deben bajar a Everton para seguir por el sueño de Sudamericana",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Deportes-Concepcion-vs-Everton-foto-Lorena-Vecchio-e1794015944636.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   },
@@ -460,20 +460,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/vecinos-ruta-160-carta-presidente-kast.html",
-   "titulo": "“El centralismo castigó al Biobío”: treinta juntas de vecinos envían carta a Presidente Kast por freno a obras en Ruta 160",
-   "resumen": "Dirigentes de Coronel, Lota y San Pedro de La Paz exigieron al Mandatario revertir el freno al corredor licitado y acusaron discriminación centralista.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/vecinos-ruta-160-carta-presidente-kast.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pastoreo-estrategico-cabras-prevencion-incendios-florida.html",
    "titulo": "FOTOS | Con cabras y manejo comunitario: aplican pastoreo preventivo para frenar el fuego en Florida",
    "resumen": "Familias de Pantanal recibieron ganado caprino entrenado para consumir vegetación seca y crear cortafuegos naturales antes del verano.",
@@ -506,6 +492,20 @@
    "titulo": "Caso Puerto Coronel: TC revisará requerimiento de Boris Chamorro el 11 de noviembre",
    "resumen": "De esta manera, la sesión de la Primera Sala se realizará dos días antes de la audiencia de preparación del juicio oral.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/requerimiento-chamorro-tribunal-constitucional-e1794000185157.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/vecinos-ruta-160-carta-presidente-kast.html",
+   "titulo": "“El centralismo castigó al Biobío”: treinta juntas de vecinos envían carta a Presidente Kast por freno a obras en Ruta 160",
+   "resumen": "Dirigentes de Coronel, Lota y San Pedro de La Paz exigieron al Mandatario revertir el freno al corredor licitado y acusaron discriminación centralista.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/vecinos-ruta-160-carta-presidente-kast.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
