@@ -192,7 +192,11 @@ export function extractLinks(html, pageUrl, re) {
     const s = u.href.replace(/^http:/, 'https:');
     if (!re.test(s)) continue;
     const text = clean(m[3]);
-    if (!out.has(s) || text.length > out.get(s).length) out.set(s, text);
+    const im = m[3].match(/<img\b[^>]*?(?:data-src|data-lazy-src|src)\s*=\s*["']([^"']+)["']/i);
+    let img = '';
+    if (im && !/^data:/.test(im[1])) { try { img = new URL(decode(im[1]), pageUrl).href; } catch {} }
+    const prev = out.get(s) || { text: '', img: '' };
+    out.set(s, { text: text.length > prev.text.length ? text : prev.text, img: prev.img || img });
   }
   return out;
 }
@@ -253,7 +257,7 @@ const diag = Object.fromEntries(SOURCES.map(s => [s.id, { paginas: 0, enlaces: 0
 async function leerWP(src) {
   const url = `${src.base}/wp-json/wp/v2/posts?per_page=50&_embed=1`;
   if (!(await permitido(url))) throw new Error('robots.txt no permite leer la API');
-  const posts = JSON.parse((await get(url, { accept: 'application/json' })).text);
+  const posts = JSON.parse((await get(url, { accept: 'application/json', timeout: 30000 })).text);
   if (!Array.isArray(posts)) throw new Error('respuesta inesperada de la API');
   const items = [];
   for (const p of posts) {
@@ -290,17 +294,18 @@ async function leerListados(src) {
     const links = extractLinks(html, pg.url, src.linkRe);
     if (src.scanRaw) for (const m of html.replace(/\\\//g, '/').matchAll(/https?:\/\/[^\s"'<>\\]+/g)) {
       const s = m[0].replace(/^http:/, 'https:').split(/[?#]/)[0];
-      if (src.linkRe.test(s) && !links.has(s)) links.set(s, '');
+      if (src.linkRe.test(s) && !links.has(s)) links.set(s, { text: '', img: '' });
     }
     diag[src.id].paginas++;
-    for (const [u, text] of links) {
+    for (const [u, { text, img }] of links) {
       const cls = src.classify ? src.classify(u) : null;
       if (cls === 'skip') continue;
       const cats = new Set(Array.isArray(cls) ? cls : []);
       if (pg.cat && !(Array.isArray(cls) && cls.includes('podcasts'))) cats.add(pg.cat);
       if (!cats.size) continue;
-      const e = found.get(u) || { text: '', cats: new Set(), local: false };
+      const e = found.get(u) || { text: '', img: '', cats: new Set(), local: false };
       if (text.length > e.text.length) e.text = text;
+      if (!e.img && img && !/logo/i.test(img)) e.img = img;
       cats.forEach(c => e.cats.add(c));
       e.local ||= !!(pg.local || src.local);
       found.set(u, e);
@@ -322,6 +327,7 @@ async function leerArticulo(u, e, src) {
   let imagen = meta(head, ['og:image', 'twitter:image', 'twitter:image:src']);
   try { imagen = imagen ? new URL(imagen, u).href : ''; } catch { imagen = ''; }
   if (/logo/i.test(imagen)) imagen = '';
+  if (!imagen) imagen = e.img || '';
   const pub = meta(head, ['article:published_time', 'og:article:published_time', 'datePublished', 'pubdate', 'date']);
   const t = pub && !isNaN(new Date(pub)) ? new Date(pub).toISOString() : null;
   return { url: u, titulo, resumen: cut(resumen), imagen, fecha: t, cats: [...e.cats], local: e.local };
@@ -378,7 +384,7 @@ async function main() {
           const d = urlDate(u);
           if (d && dias(d) > maxDias([...e.cats]) + 1) continue;
           const old = prevMap.get(u);
-          if (old) { agregar({ ...old, cats: [...e.cats], local: e.local || old.local }, src); conocidas++; }
+          if (old) { agregar({ ...old, imagen: old.imagen || e.img || '', cats: [...e.cats], local: e.local || old.local }, src); conocidas++; }
           else pendientes.push({ u, e, src, d: d || '' });
         }
         fuentes.push({ id: src.id, nombre: src.nombre, url: src.home, ok: true });
@@ -393,7 +399,7 @@ async function main() {
   pendientes.sort((a, b) => b.d.localeCompare(a.d));
   const lote = pendientes.slice(0, MAX_NUEVAS_POR_CORRIDA);
   console.log(`→ Leyendo ${lote.length} artículos nuevos (de ${pendientes.length} pendientes)`);
-  await pool(lote, 5, async p => {
+  await pool(lote, 3, async p => {
     const d = diag[p.src.id];
     let it = null;
     try {
@@ -403,7 +409,7 @@ async function main() {
     } catch (err) {
       d.errores++; d.ultimoError = `${err.message} (${p.u})`;
       // Respaldo: si la nota no se deja abrir, se usa el titular del listado
-      if (p.e.text.length > 15) it = { url: p.u, titulo: p.e.text, resumen: '', imagen: '', fecha: null, cats: [...p.e.cats], local: p.e.local };
+      if (p.e.text.length > 15) it = { url: p.u, titulo: p.e.text, resumen: '', imagen: p.e.img || '', fecha: null, cats: [...p.e.cats], local: p.e.local };
     }
     if (it && it.titulo) agregar(it, p.src);
   });
