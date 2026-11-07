@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T16:30:24.610Z",
+ "generado": "2026-11-07T16:50:20.946Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/07/chofer-con-arresto-nocturno-nina-atropello-chiguayante-sigue-en-uci-y-podria-perder-una-pierna.shtml",
+   "titulo": "Chofer con arresto nocturno: niña atropellada en Chiguayante sigue en UCI y podría perder una pierna",
+   "resumen": "Con arresto domiciliario nocturno, arraigo nacional y prohibición de acercarse a las víctimas quedó César Cipriano Mella Mella, conductor del...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011107-nina-atropellada-en-chiguayante-sigue-en-la-uci-y-podria-perder-una-pierna-1200x633.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T16:41:27.000Z",
+   "visto": "2026-11-07T16:50:20.946Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/07/alianza-francesa-prepara-detalles-de-una-nueva-version-de-la-fiesta-de-la-musica.html",
    "titulo": "Alianza Francesa prepara detalles de una nueva versión de la “Fiesta de la Música”",
@@ -432,20 +446,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/udec-logra-triunfo-daniels-saravia.html",
-   "titulo": "UdeC logra el 2-0: destape de Daniels y explosión de Saravia",
-   "resumen": "Básquetbol auricielo se impuso dos veces consecutivas al Ancud de Cooper y Morales gracias a su intensidad y profundidad de plantel. El próximo viernes buscarán entrar a semifinales en la isla.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/francisco-saravia.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/caso-puerto-coronel-tc-boris-chamorro.html",
    "titulo": "Caso Puerto Coronel: TC revisará requerimiento de Boris Chamorro el 11 de noviembre",
    "resumen": "De esta manera, la sesión de la Primera Sala se realizará dos días antes de la audiencia de preparación del juicio oral.",
@@ -478,6 +478,20 @@
    "titulo": "Anuncian plan de recuperación de zonas afectadas de Santa Juana tras intensas lluvias",
    "resumen": "El Gobierno destinó más de $346 millones a través de la Subdere para habilitar espacios públicos y mejorar caminos rurales afectados por emergencias climáticas en Santa Juana.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-5.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/biblioteca-municipal-chiguayante-apertura-noviembre.html",
+   "titulo": "Tras más de 10 años de proceso: Chiguayante inaugurará su nueva Biblioteca Municipal",
+   "resumen": "La nueva Biblioteca Municipal de Chiguayante abrirá sus puertas a la comunidad el próximo lunes 16 de noviembre, tras la habilitación de un espacio que recupera parte de las antiguas bodegas de la fábrica textil Caupolicán y pone en valor el patrimonio…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/images-7.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -534,20 +548,6 @@
    "titulo": "FOTOS | Con cabras y manejo comunitario: aplican pastoreo preventivo para frenar el fuego en Florida",
    "resumen": "Familias de Pantanal recibieron ganado caprino entrenado para consumir vegetación seca y crear cortafuegos naturales antes del verano.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/pastoreo-estrategico-cabras-prevencion-incendios-florida-1-e1794004898461.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/biblioteca-municipal-chiguayante-apertura-noviembre.html",
-   "titulo": "Tras más de 10 años de proceso: Chiguayante inaugurará su nueva Biblioteca Municipal",
-   "resumen": "La nueva Biblioteca Municipal de Chiguayante abrirá sus puertas a la comunidad el próximo lunes 16 de noviembre, tras la habilitación de un espacio que recupera parte de las antiguas bodegas de la fábrica textil Caupolicán y pone en valor el patrimonio…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/images-7.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -626,6 +626,20 @@
    "cats": [
     "regional",
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/udec-logra-triunfo-daniels-saravia.html",
+   "titulo": "UdeC logra el 2-0: destape de Daniels y explosión de Saravia",
+   "resumen": "Básquetbol auricielo se impuso dos veces consecutivas al Ancud de Cooper y Morales gracias a su intensidad y profundidad de plantel. El próximo viernes buscarán entrar a semifinales en la isla.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/francisco-saravia.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
