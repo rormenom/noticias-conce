@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T17:30:25.234Z",
+ "generado": "2026-11-07T18:10:20.442Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -250,10 +250,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
-   "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
-   "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg-e1794015611446.jpeg",
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/07/chiguayante-contraloria-gasto-personal-contrata.html",
+   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el aumento de gasto en personal a contrata",
+   "resumen": "La presentación busca que el organismo examine las operaciones financieras del municipio. Advierten que la proporción de remuneraciones superó el máximo legal.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/municipalidad-chiguayante-e1794015641690.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
@@ -264,10 +264,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/07/chiguayante-contraloria-gasto-personal-contrata.html",
-   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el aumento de gasto en personal a contrata",
-   "resumen": "La presentación busca que el organismo examine las operaciones financieras del municipio. Advierten que la proporción de remuneraciones superó el máximo legal.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/municipalidad-chiguayante-e1794015641690.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
+   "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
+   "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg-e1794015611446.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
@@ -428,20 +428,6 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/fallece-sebastian-lelio-director-oscar-visita-biobio-nuble.html",
-   "titulo": "Luto en el cine chileno: sorpresivamente fallece Sebastián Lelio, director ganador del Oscar que deja huella en Biobío y Ñuble",
-   "resumen": "El cineasta nacional y ganador de un premio de la Academia falleció en su vivienda a los 52 años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fallece-sebastian-lelio-director-oscar-visita-concepcion.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   },
@@ -682,6 +668,20 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/fallece-sebastian-lelio-director-oscar-visita-biobio-nuble.html",
+   "titulo": "Luto en el cine chileno: sorpresivamente fallece Sebastián Lelio, director ganador del Oscar que deja huella en Biobío y Ñuble",
+   "resumen": "El cineasta nacional y ganador de un premio de la Academia falleció en su vivienda a los 52 años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fallece-sebastian-lelio-director-oscar-visita-concepcion.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
