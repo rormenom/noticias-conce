@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T05:40:18.574Z",
+ "generado": "2026-11-07T08:30:22.054Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 60,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -82,6 +82,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/no-es-imposible-vial-va-por-la-gloria-en-mejillones.html",
+   "titulo": "No es imposible: Vial va por la gloria en Mejillones",
+   "resumen": "El local tiene ventaja de 1-0 y no ha perdido en los 13 juegos que jugó este año, pero el plantel ferroviario confía en la remontada y el ascenso a Tercera A. Se espera gran presencia de hinchas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-Fern%C3%A1ndez-Vial-vs-Mejillones-foto-instagram-fernandezvialcd-e1794015891607.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:30:22.054Z",
+   "visto": "2026-11-07T08:30:22.054Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/06/tras-cerca-de-70-anos-de-historia-cierra-emblematica-confiteria-santiago-del-centro-de-concepcion.shtml",
    "titulo": "Tras cerca de 70 años de historia, cierra emblemática Confitería Santiago del centro de Concepción",
