@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T14:10:20.809Z",
+ "generado": "2026-11-07T14:20:20.754Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/07/motociclista-muere-tras-colision-con-camion-en-ruta-que-une-concepcion-y-pencomotociclista-muere-tras-colision-con-camnion-en-ruta-que-une-concepcion-y-penco",
+   "titulo": "Un motociclista fallece al chocar con un camión en la ruta entre Concepción y Penco",
+   "resumen": "Un motociclista perdió la vida esta mañana al chocar con un camión en la ruta 150, cerca de Terrazas de Vilumanque, en Concepción, región del Bío Bío. El siniestro ocurrió en la vía que conduce hacia Penco. Personal del SAMU, Bomberos de Penco y Carabineros…",
+   "imagen": "https://media.canal9.cl/2026/10/ahora-c9-768x405.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-07T14:20:20.754Z",
+   "visto": "2026-11-07T14:20:20.754Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/07/motociclista-muere-tras-colision-con-camion-en-ruta-que-une-concepcion-y-pencomotociclista-muere-tras-colision-con-camnion-en-ruta-que-une-concepcion-y-penco.shtml",
    "titulo": "Motociclista muere tras colisión con camión en ruta que une Concepción y Penco",
@@ -770,20 +784,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/subdere-destinara-mas-de-50-millones-para-reparar-el-cesfam-san-pedro-de-la-costa-tras-las-lluvias",
-   "titulo": "Subdere destinará más de $50 millones para reparar el Cesfam San Pedro de la Costa tras las lluvias",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-05-at-14.28.55-768x576.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/06/pronostican-altas-temperaturas-en-zonas-desde-atacama-a-los-lagos-maximas-rondaran-los-35-c",
    "titulo": "Pronostican hasta 35 °C en varias zonas entre Atacama y Los Lagos",
    "resumen": "",
@@ -816,6 +816,20 @@
    "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/06/subdere-destinara-mas-de-50-millones-para-reparar-el-cesfam-san-pedro-de-la-costa-tras-las-lluvias",
+   "titulo": "Subdere destinará más de $50 millones para reparar el Cesfam San Pedro de la Costa tras las lluvias",
+   "resumen": "",
+   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-05-at-14.28.55-768x576.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
