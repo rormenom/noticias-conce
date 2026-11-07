@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T14:30:23.301Z",
+ "generado": "2026-11-07T14:50:19.180Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 56,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 150,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -313,20 +313,6 @@
    "fuente": "Radio UdeC",
    "fuenteId": "radioudec",
    "fecha": "2026-11-06T16:04:23.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/paro-nacional-camioneros-alza-combustibles.html",
-   "titulo": "Camioneros del Biobío no se sumarán a paro nacional convocado por la Confederación Fuerza del Norte",
-   "resumen": "La Confederación Fuerza del Norte confirmó una paralización nacional a partir del próximo martes 10 de noviembre, acusando que el encarecimiento del diésel y la falta de reajustes en las tarifas de fletes. Sin embargo, la Federación de Camioneros del Sur…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-e1793976409772.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
@@ -820,6 +806,20 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/paro-nacional-camioneros-alza-combustibles.html",
+   "titulo": "Camioneros del Biobío no se sumarán a paro nacional convocado por la Confederación Fuerza del Norte",
+   "resumen": "La Confederación Fuerza del Norte confirmó una paralización nacional a partir del próximo martes 10 de noviembre, acusando que el encarecimiento del diésel y la falta de reajustes en las tarifas de fletes. Sin embargo, la Federación de Camioneros del Sur…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-e1793976409772.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
    ],
