@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-07T02:08:30.847Z",
+ "generado": "2026-11-07T02:17:09.096Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "This operation was aborted",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -36,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 14,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -49,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 16,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -62,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 31,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -75,8 +74,8 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 5,
-    "errores": 19,
+    "leidas": 2,
+    "errores": 8,
     "robots": 0,
     "ultimoError": "HTTP 502 (https://www.canal9.cl/episodios/2026/11/06/laliga-de-espana-y-china-apuntan-a-reconciliacion-tras-caso-mbappe)"
    }
@@ -296,17 +295,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
-   "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
-   "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PRESENTACI%C3%93N-ENVIS-2027-43-e1793979438276.jpg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/ecomercado-solidario-chiguayante-fosis.html",
+   "titulo": "FOSIS inaugura EcoMercado Solidario en Chiguayante que apoyará a 300 familias",
+   "resumen": "La iniciativa recupera alimentos de supermercados y ferias para entregarlos gratuitamente.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO-5-e1793992949544.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
-    "regional",
-    "tecnologia"
+    "regional"
    ],
    "local": true
   },
@@ -367,20 +365,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/ecomercado-solidario-chiguayante-fosis.html",
-   "titulo": "FOSIS inaugura EcoMercado Solidario en Chiguayante que apoyará a 300 familias",
-   "resumen": "La iniciativa recupera alimentos de supermercados y ferias para entregarlos gratuitamente.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO-5-e1793992949544.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/teleton-complejo-penitenciario-biobio-internas-reinsercion.html",
    "titulo": "Teletón llega a la cárcel del Biobío: destacan actividades de internas como clave para la reinserción social",
    "resumen": "En honor al espíritu de la Teletón, su mascota oficial fue a visitar a las reclusas del recinto penitenciario del Biobío",
@@ -405,6 +389,35 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/alejandro-reyes-director-suplente-caj-biobio.html",
+   "titulo": "Alejandro Reyes asume como director general suplente de la CAJ Biobío",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/20261105_2ea8b62626d6.jpg-e1793981738250.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
+   "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
+   "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PRESENTACI%C3%93N-ENVIS-2027-43-e1793979438276.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional",
+    "tecnologia"
    ],
    "local": true
   },
@@ -465,20 +478,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/alejandro-reyes-director-suplente-caj-biobio.html",
-   "titulo": "Alejandro Reyes asume como director general suplente de la CAJ Biobío",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/20261105_2ea8b62626d6.jpg-e1793981738250.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/06/justicia-paraliza-caso-puerto-coronel-mientras-tc-resuelve-recurso-presentado-por-alcalde-chamorro",
    "titulo": "Justicia suspende la causa de Puerto Coronel a la espera de que el TC resuelva el recurso de Chamorro",
    "resumen": "El caso Puerto Coronel quedó suspendido luego de que el Juzgado de Garantía de Coronel ordenara detener todo el procedimiento, a la espera de que el Tribunal Constitucional (TC) resuelva el requerimiento presentado por el alcalde Boris Chamorro, quien…",
@@ -493,10 +492,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/concepcion-trabajadores-del-hospital-traumatologico-marchan-al-centro-penquista-para-exigir-mejoras-laborales-y-transparencia",
-   "titulo": "Trabajadores del Hospital Traumatológico marchan al centro penquista para exigir mejoras laborales y transparencia",
-   "resumen": "Una compleja situación se vive en la red de salud de la provincia de Concepción. Durante la mañana de este viernes, funcionarios agrupados en la Fenpruss, Fenats y Asenf del Hospital Traumatológico de Concepción se congregaron en las afueras del recinto…",
-   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-06-at-08.40.31-e1793965553534-768x446.jpeg",
+   "url": "https://www.canal9.cl/episodios/2026/11/06/leo-mael-y-los-navegantes-una-propuesta-musical-que-une-nostalgia-y-baile",
+   "titulo": "Leo Mael y Los Navegantes: Una propuesta musical que une nostalgia y baile",
+   "resumen": "",
+   "imagen": "https://media.canal9.cl/2026/11/Interpretacion-acustica-en-estudio-768x431.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -521,10 +520,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/leo-mael-y-los-navegantes-una-propuesta-musical-que-une-nostalgia-y-baile",
-   "titulo": "Leo Mael y Los Navegantes: Una propuesta musical que une nostalgia y baile",
+   "url": "https://www.canal9.cl/episodios/2026/11/06/inacap-y-la-cpc-alistan-nueva-version-de-la-feria-laboral-2026-conoce-las-fechas-y-como-participar-en-el-biobio",
+   "titulo": "INACAP y la CPC alistan nueva versión de la Feria Laboral 2026: Conoce las fechas y cómo participar en el Bío Bío",
    "resumen": "",
-   "imagen": "",
+   "imagen": "https://media.canal9.cl/2026/11/el-talento-esta-en-las-regiones-las-oportunidades-siguen-en-santiago-e1793975365680-768x405.webp",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -538,7 +537,7 @@
    "url": "https://www.canal9.cl/episodios/2026/11/06/un-balde-de-agua-fria-madre-de-joven-atropellado-en-penco-cuestiona-a-fiscalia-por-ausencia-de-cautelares-a-conductor",
    "titulo": "\"Un balde de agua fría\": madre de joven atropellado en Penco cuestiona a Fiscalía por ausencia de cautelares a conductor imputado",
    "resumen": "",
-   "imagen": "",
+   "imagen": "https://media.canal9.cl/2026/11/CASO-PENCO-e1793970695472-768x447.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -549,10 +548,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/inacap-y-la-cpc-alistan-nueva-version-de-la-feria-laboral-2026-conoce-las-fechas-y-como-participar-en-el-biobio",
-   "titulo": "INACAP y la CPC alistan nueva versión de la Feria Laboral 2026: Conoce las fechas y cómo participar en el Bío Bío",
-   "resumen": "",
-   "imagen": "",
+   "url": "https://www.canal9.cl/episodios/2026/11/06/concepcion-trabajadores-del-hospital-traumatologico-marchan-al-centro-penquista-para-exigir-mejoras-laborales-y-transparencia",
+   "titulo": "Trabajadores del Hospital Traumatológico marchan al centro penquista para exigir mejoras laborales y transparencia",
+   "resumen": "Una compleja situación se vive en la red de salud de la provincia de Concepción. Durante la mañana de este viernes, funcionarios agrupados en la Fenpruss, Fenats y Asenf del Hospital Traumatológico de Concepción se congregaron en las afueras del recinto…",
+   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-06-at-08.40.31-e1793965553534-768x446.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -566,7 +565,7 @@
    "url": "https://www.canal9.cl/episodios/2026/11/06/servicio-de-salud-concepcion-afirma-que-los-cambios-en-hospitales-son-una-reasignacion-tecnica",
    "titulo": "Servicio de Salud Concepción afirma que los cambios en hospitales son una reasignación técnica",
    "resumen": "",
-   "imagen": "",
+   "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-28-a-las-20.55.34.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -580,7 +579,7 @@
    "url": "https://www.canal9.cl/episodios/2026/11/06/abstencion-de-tres-concejales-impide-aprobar-la-nueva-planta-municipal-de-san-pedro-de-la-paz",
    "titulo": "Abstención de tres concejales impide aprobar la nueva planta municipal de San Pedro de la Paz",
    "resumen": "",
-   "imagen": "",
+   "imagen": "https://media.canal9.cl/2025/12/foto-muni-san-pedro-768x370.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -594,7 +593,7 @@
    "url": "https://www.canal9.cl/episodios/2026/11/06/fundacion-nacurutu-denuncia-maltrato-animal-en-la-pdi-por-la-muerte-de-enrique-el-quique",
    "titulo": "Tras retiro de fundación Ñacurutú: \"hurón chileno\" muere luego de ser decomisado por el SAG",
    "resumen": "",
-   "imagen": "",
+   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-06-a-las-6.12.13%E2%80%AFa.-m-768x469.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -608,7 +607,7 @@
    "url": "https://www.canal9.cl/episodios/2026/11/06/nuevo-cosam-de-hualpen-cuenta-con-18-boxes-y-una-inversion-sobre-los-5-mil-millones-de-pesos",
    "titulo": "Nuevo COSAM de Hualpén cuenta con 18 boxes y una inversión sobre los 5 mil millones de pesos",
    "resumen": "",
-   "imagen": "",
+   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-06-a-las-6.11.30%E2%80%AFa.-m-768x425.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -622,7 +621,7 @@
    "url": "https://www.canal9.cl/episodios/2026/11/06/subdere-destinara-mas-de-50-millones-para-reparar-el-cesfam-san-pedro-de-la-costa-tras-las-lluvias",
    "titulo": "Subdere destinará más de $50 millones para reparar el Cesfam San Pedro de la Costa tras las lluvias",
    "resumen": "",
-   "imagen": "",
+   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-05-at-14.28.55-768x576.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -636,7 +635,7 @@
    "url": "https://www.canal9.cl/episodios/2026/11/06/pronostican-altas-temperaturas-en-zonas-desde-atacama-a-los-lagos-maximas-rondaran-los-35-c",
    "titulo": "Pronostican hasta 35 °C en varias zonas entre Atacama y Los Lagos",
    "resumen": "",
-   "imagen": "",
+   "imagen": "https://media.canal9.cl/2026/11/altas-temperaturas-2-768x405.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -650,7 +649,7 @@
    "url": "https://www.canal9.cl/episodios/2026/11/06/mas-de-3-000-controles-policiales-en-el-bio-bio-dejan-casi-80-detenidos-entre-ellos-tres-extranjeros",
    "titulo": "Más de 3.000 controles policiales en el Bío Bío dejan casi 80 detenidos, entre ellos tres extranjeros",
    "resumen": "",
-   "imagen": "",
+   "imagen": "https://media.canal9.cl/2026/08/cntxt-pdi-por-hombre-muere-baleado-en-san-pedro-de-la-paz-homicidio-768x405.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -664,7 +663,7 @@
    "url": "https://www.canal9.cl/episodios/2026/11/06/comision-de-borde-costero-rechaza-por-unanimidad-proyectos-eolicos-marinos-en-el-golfo-de-arauco",
    "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
    "resumen": "",
-   "imagen": "",
+   "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -775,6 +774,20 @@
    "local": true
   },
   {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/05/salud-abre-sumario-sanitario-por-filtracion-de-aguas-servidas-desde-ducto-de-essbio-en-penco.shtml",
+   "titulo": "Salud abre sumario sanitario por filtración de aguas servidas desde ducto de Essbio en Penco",
+   "resumen": "Un sumario sanitario inició la Seremi de Salud del Bío Bío a raíz de una filtración de aguas servidas...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7008766-salud-abre-sumario-sanitario-por-filtracion-de-aguas-servidas-en-penco-desde-ducto-de-essbio.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-05T19:19:28.000Z",
+   "visto": "2026-11-07T02:17:09.096Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.radioudec.cl/mascotas-recibieron-atencion-veterinaria-gratuita-en-barrios-de-lirquen-afectados-por-los-incendios/",
    "titulo": "Mascotas recibieron atención veterinaria gratuita en barrios de Lirquén afectados por los incendios",
    "resumen": "Cerca de 50 perros y gatos recibieron atención veterinaria gratuita […]",
@@ -783,20 +796,6 @@
    "fuenteId": "radioudec",
    "fecha": "2026-11-05T15:53:28.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/05/consulta-publica-actualizacion-prmc.html",
-   "titulo": "Tras más de 20 años sin cambios: en diciembre someterán a consulta pública la actualización del PRMC",
-   "resumen": "La etapa de participación se desarrollará durante diciembre por un periodo de 30 días.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-edificios-en-el-centro-de-Concepci%C3%B3n-foto-carolina-e1793900346120.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "regional"
    ],
@@ -817,6 +816,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/05/consulta-publica-actualizacion-prmc.html",
+   "titulo": "Tras más de 20 años sin cambios: en diciembre someterán a consulta pública la actualización del PRMC",
+   "resumen": "La etapa de participación se desarrollará durante diciembre por un periodo de 30 días.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-edificios-en-el-centro-de-Concepci%C3%B3n-foto-carolina-e1793900346120.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/05/veto-ley-incendios-alcaldes-biobio.html",
    "titulo": "Alcaldes del Biobío cuestionan veto a Ley de Incendios y advierten riesgo de nueva postergación",
    "resumen": "Los municipios reconocen que la iniciativa requiere recursos y ajustes, pero critican que el Ejecutivo anteponga los costos económicos de las empresas forestales a la protección de la ciudadanía.",
@@ -827,6 +840,21 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/05/fne-aprobo-acuerdo-aza-huachipato.html",
+   "titulo": "Sector público y privado destacan que alianza AZA-Huachipato resguarda la vocación industrial de la zona",
+   "resumen": "FNE dio luz verde al trato entre ambas compañías para desarrollar acero verde en Talcahuano.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-huachipato-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional",
+    "deportes"
    ],
    "local": true
   },
@@ -873,21 +901,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/05/fne-aprobo-acuerdo-aza-huachipato.html",
-   "titulo": "Sector público y privado destacan que alianza AZA-Huachipato resguarda la vocación industrial de la zona",
-   "resumen": "FNE dio luz verde al trato entre ambas compañías para desarrollar acero verde en Talcahuano.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-huachipato-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional",
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/05/impresionantes-numeros-mejillones-imbatible-casa.html",
    "titulo": "Los impresionantes números de este Mejillones que luce imbatible en casa",
    "resumen": "",
@@ -906,6 +919,34 @@
    "titulo": "Teatro, música, cine y mucho más: estos son los panoramas culturales destacados para los próximos días en el Gran Concepción",
    "resumen": "Como cada semana, la agenda artistica penquista trae una miscelánea cartelera para estos primeros días de noviembre.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/VIERNES-e1793893790429.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/banda-penquista-pulso-gaiano-emprende-primera-aventura-internacional-colombia.html",
+   "titulo": "Banda penquista Pulso Gaiano emprende su primera aventura internacional en Colombia",
+   "resumen": "El quinteto local llevará su propuesta de rock y ska a tres diferentes escenarios de la ciudad de Bogotá, propiciando el encuentro con la audiencia y la escena musical colombiana. Periplo que cuenta con el apoyo del Fondo de la Música 2026, gestionado por el…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Pulso-Gaiano.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/ensemble-chromatique-desplegara-repertorio-musica-barroca-iglesia-luterana-penquista.html",
+   "titulo": "Ensemble Chromatique desplegará repertorio de música barroca en Iglesia Luterana penquista",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-05T15:00:00.000Z",
@@ -944,34 +985,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/banda-penquista-pulso-gaiano-emprende-primera-aventura-internacional-colombia.html",
-   "titulo": "Banda penquista Pulso Gaiano emprende su primera aventura internacional en Colombia",
-   "resumen": "El quinteto local llevará su propuesta de rock y ska a tres diferentes escenarios de la ciudad de Bogotá, propiciando el encuentro con la audiencia y la escena musical colombiana. Periplo que cuenta con el apoyo del Fondo de la Música 2026, gestionado por el…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Pulso-Gaiano.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/ensemble-chromatique-desplegara-repertorio-musica-barroca-iglesia-luterana-penquista.html",
-   "titulo": "Ensemble Chromatique desplegará repertorio de música barroca en Iglesia Luterana penquista",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/05/desarrolla-biobio-por-licitacion-trianual-del-festival-rec-permite-proyectarte-y-negociar-buenos-artistas.html",
    "titulo": "Desarrolla Biobío por licitación trianual del Festival REC: “Permite proyectarte y negociar buenos artistas”",
    "resumen": "",
@@ -983,6 +996,20 @@
    "cats": [
     "regional",
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/05/vecinos-protestan-en-subida-la-gloria-de-talcahuano-acusando-demoras-en-reparacion-de-socavon.shtml",
+   "titulo": "Vecinos protestan en subida La Gloria de Talcahuano acusando demoras en reparación de socavón",
+   "resumen": "Vecinos de los cerros de Talcahuano, región del Bío Bío, protestaron en la subida La Gloria por los compromisos que...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7008161-protesta-talcahuano.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-05T10:58:49.000Z",
+   "visto": "2026-11-07T02:17:09.096Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
