@@ -11,7 +11,8 @@ const MAX_NUEVAS_POR_CORRIDA = 70;   // artículos nuevos a leer por ejecución
 const MAX_POR_CATEGORIA = 80;
 const DIAS = { podcasts: 14, otros: 5 }; // antigüedad máxima que se conserva
 
-export const CATS = ['regional', 'nacional', 'internacional', 'deportes', 'cultura', 'tecnologia', 'tendencias', 'podcasts'];
+// Solo Región del Biobío: estas son las únicas secciones que se guardan
+export const CATS = ['regional', 'deportes', 'cultura', 'tecnologia'];
 
 // Palabras que indican que la noticia es "de la zona" (se usan sobre todo en deportes y cultura)
 const LOCAL_RE = new RegExp('(?<!\\p{L})(' + [
@@ -25,6 +26,7 @@ const LOCAL_RE = new RegExp('(?<!\\p{L})(' + [
 
 // Detección de temas para medios locales sin sección propia
 const CULTURA_RE = /(?<!\p{L})(teatro|concierto|festival|cine|microcine|cineteca|película|libro|orquesta|sinfónica|danza|artesan\p{L}*|museo|pinacoteca|recital|exposición|galería|escritor|poeta|cantante|banda)(?!\p{L})/iu;
+const TECNO_RE = /(?<!\p{L})(ciencia|científic\p{L}*|tecnolog\p{L}*|innovaci\p{L}*|investigador\p{L}*|robótica|inteligencia artificial|startups?|emprendimiento|laboratorio|satélite|astronom\p{L}*|software|patente|hidrógeno verde|biotecnolog\p{L}*)(?!\p{L})/iu;
 const DEPORTE_RE = /(?<!\p{L})(fútbol|futbol|básquet\p{L}*|basquet\p{L}*|hockey|tenis|atletismo|triatlón|maratón|campeonato|torneo|liguilla|penales|estadio|hinchas|clásico|huachipato|deportes concepción|fernández vial|ñublense|goles?|club deportivo)(?!\p{L})/iu;
 
 // ---------- Fuentes ----------
@@ -60,7 +62,7 @@ const SOURCES = [
     classify(u) {
       const s = new URL(u).pathname.split('/')[1];
       return { ciudad: ['regional'], politica: ['regional'], economia: ['regional'], deportes: ['deportes'],
-               cultura: ['cultura'], 'ciencia-y-sociedad': ['tendencias'] }[s] || 'skip';
+               cultura: ['cultura'], 'ciencia-y-sociedad': ['tecnologia'] }[s] || 'skip';
     },
     descGenerica: ['Noticias de Concepción y la Región del Bío Bío'],
   },
@@ -77,7 +79,7 @@ const SOURCES = [
     linkRe: /^https:\/\/www\.tvu\.cl\/(?:prensa|programas)\/(?:[a-z0-9-]+\/)*\d{4}\/\d{2}\/\d{2}\/[^/]+\.html$/,
     classify(u) {
       const p = new URL(u).pathname;
-      if (/^\/(prensa\/tvu-noticias|programas)\//.test(p)) return ['podcasts'];
+      if (/^\/(prensa\/tvu-noticias|programas)\//.test(p)) return 'skip';
       if (/^\/prensa\//.test(p)) return ['regional'];
       return 'skip';
     },
@@ -85,9 +87,8 @@ const SOURCES = [
   },
   {
     id: 'biobiochile', nombre: 'BioBioChile', home: 'https://www.biobiochile.cl/',
-    type: 'html',
-    pages: ['/', '/lista/categorias/region-del-bio-bio', '/lista/categorias/nacional', '/lista/categorias/internacional',
-            '/portada/deportes', '/lista/categorias/ciencia-y-tecnologia', '/lista/categorias/tendencias',
+    type: 'html', scanRaw: true,
+    pages: ['/lista/categorias/region-del-bio-bio', '/noticias/nacional/region-del-bio-bio', '/portada/deportes', '/lista/categorias/ciencia-y-tecnologia',
             '/lista/categorias/artes-y-cultura']
       .map(p => ({ url: 'https://www.biobiochile.cl' + p })),
     linkRe: /^https:\/\/www\.biobiochile\.cl\/(?:noticias|especial)\/(?:[a-z0-9-]+\/)*\d{4}\/\d{2}\/\d{2}\/[^/]+\.shtml$/,
@@ -110,16 +111,11 @@ const SOURCES = [
     pages: [
       { url: 'https://www.canal9.cl/secciones/gran-concepcion', cat: 'regional', local: true },
       { url: 'https://www.canal9.cl/secciones/region-biobio', cat: 'regional', local: true },
-      { url: 'https://www.canal9.cl/secciones/chile', cat: 'nacional' },
-      { url: 'https://www.canal9.cl/secciones/mundo', cat: 'internacional' },
       { url: 'https://www.canal9.cl/secciones/deportes', cat: 'deportes' },
-      { url: 'https://www.canal9.cl/programas/frente-regional', cat: 'podcasts' },
-      { url: 'https://www.canal9.cl/programas/comentarios-tomas-mosciatti', cat: 'podcasts' },
-      { url: 'https://www.canal9.cl/programas/la-entrevista-de-tomas-mosciatti', cat: 'podcasts' },
-    ].map(p => ({ ...p, cutAt: 'Te recomendamos' })), // corta los bloques "recomendados" y "más visto"
+    ].map(p => ({ ...p, cutFrom: '/episodios/', cutAt: ['Cargar más noticias', 'Te recomendamos', 'Lo más visto'] })),
     linkRe: /^https:\/\/www\.canal9\.cl\/episodios\/(?:[a-z][a-z0-9-]*\/)?\d{4}\/\d{2}\/\d{2}\/[^/]+$/,
     classify(u) {
-      if (/^\/episodios\/[a-z][a-z0-9-]*\/\d{4}\//.test(new URL(u).pathname)) return ['podcasts'];
+      if (/^\/episodios\/[a-z][a-z0-9-]*\/\d{4}\//.test(new URL(u).pathname)) return 'skip'; // capítulos de programas
       return null; // usa la categoría de la página donde apareció
     },
     descGenerica: ['Te ve mejor'],
@@ -129,7 +125,7 @@ const SOURCES = [
 // ---------- Utilidades ----------
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
-async function get(url, { accept = 'text/html,application/xhtml+xml;q=0.9,*/*;q=0.8', timeout = 20000 } = {}) {
+async function get(url, { accept = 'text/html,application/xhtml+xml;q=0.9,*/*;q=0.8', timeout = 12000 } = {}) {
   for (let intento = 0; intento < 2; intento++) {
     const ctl = new AbortController();
     const t = setTimeout(() => ctl.abort(), timeout);
@@ -252,6 +248,8 @@ async function permitido(url) {
 }
 
 // ---------- Lectores ----------
+const diag = Object.fromEntries(SOURCES.map(s => [s.id, { paginas: 0, enlaces: 0, leidas: 0, errores: 0, robots: 0 }]));
+
 async function leerWP(src) {
   const url = `${src.base}/wp-json/wp/v2/posts?per_page=50&_embed=1`;
   if (!(await permitido(url))) throw new Error('robots.txt no permite leer la API');
@@ -284,8 +282,18 @@ async function leerListados(src) {
     if (!(await permitido(pg.url))) { console.log(`  · ${pg.url}: bloqueado por robots.txt`); continue; }
     let html;
     try { html = (await get(pg.url)).text; leidas++; } catch (e) { console.log(`  · ${pg.url}: ${e.message}`); continue; }
-    if (pg.cutAt) { const i = html.indexOf(pg.cutAt); if (i > 0) html = html.slice(0, i); }
-    for (const [u, text] of extractLinks(html, pg.url, src.linkRe)) {
+    if (pg.cutAt) {
+      const ini = Math.max(0, html.indexOf(pg.cutFrom || ''));
+      const cortes = pg.cutAt.map(c => html.indexOf(c, ini)).filter(i => i > ini);
+      if (cortes.length) html = html.slice(0, Math.min(...cortes));
+    }
+    const links = extractLinks(html, pg.url, src.linkRe);
+    if (src.scanRaw) for (const m of html.replace(/\\\//g, '/').matchAll(/https?:\/\/[^\s"'<>\\]+/g)) {
+      const s = m[0].replace(/^http:/, 'https:').split(/[?#]/)[0];
+      if (src.linkRe.test(s) && !links.has(s)) links.set(s, '');
+    }
+    diag[src.id].paginas++;
+    for (const [u, text] of links) {
       const cls = src.classify ? src.classify(u) : null;
       if (cls === 'skip') continue;
       const cats = new Set(Array.isArray(cls) ? cls : []);
@@ -298,6 +306,7 @@ async function leerListados(src) {
       found.set(u, e);
     }
   }
+  diag[src.id].enlaces = found.size;
   if (!leidas) throw new Error('no se pudo leer ninguna página');
   return found;
 }
@@ -338,10 +347,11 @@ async function main() {
   const agregar = (it, src) => {
     const old = prevMap.get(it.url) || items.get(it.url);
     const cats = [...new Set([...(old?.cats || []), ...it.cats])].filter(c => CATS.includes(c));
-    let local = !!(it.local || old?.local) || LOCAL_RE.test(`${it.titulo} ${it.resumen}`);
-    if (src.autoTemas && local && !cats.includes('podcasts')) {
+    let local = cats.includes('regional') || !!(it.local || old?.local) || LOCAL_RE.test(`${it.titulo} ${it.resumen}`);
+    if (local) {
       if (CULTURA_RE.test(it.titulo) && !cats.includes('cultura')) cats.push('cultura');
       if (DEPORTE_RE.test(it.titulo) && !cats.includes('deportes')) cats.push('deportes');
+      if (TECNO_RE.test(it.titulo) && !cats.includes('tecnologia')) cats.push('tecnologia');
     }
     const visto = old?.visto || ahora;
     let fecha = it.fecha || old?.fecha;
@@ -384,16 +394,27 @@ async function main() {
   const lote = pendientes.slice(0, MAX_NUEVAS_POR_CORRIDA);
   console.log(`→ Leyendo ${lote.length} artículos nuevos (de ${pendientes.length} pendientes)`);
   await pool(lote, 5, async p => {
-    const it = await leerArticulo(p.u, p.e, p.src);
+    const d = diag[p.src.id];
+    let it = null;
+    try {
+      it = await leerArticulo(p.u, p.e, p.src);
+      if (it === null) { d.robots++; return; }
+      d.leidas++;
+    } catch (err) {
+      d.errores++; d.ultimoError = `${err.message} (${p.u})`;
+      // Respaldo: si la nota no se deja abrir, se usa el titular del listado
+      if (p.e.text.length > 15) it = { url: p.u, titulo: p.e.text, resumen: '', imagen: '', fecha: null, cats: [...p.e.cats], local: p.e.local };
+    }
     if (it && it.titulo) agregar(it, p.src);
   });
+  for (const f of fuentes) if (diag[f.id]) f.diag = diag[f.id];
 
   // Conserva noticias anteriores que ya salieron de las portadas pero siguen vigentes
-  for (const it of prev.items || []) if (!items.has(it.url)) items.set(it.url, it);
+  for (const it of prev.items || []) if (!items.has(it.url)) items.set(it.url, { ...it, cats: (it.cats || []).filter(c => CATS.includes(c)) });
 
   // Limpieza: vigencia, orden y tope por categoría
   let lista = [...items.values()]
-    .filter(it => it.titulo && dias(it.fecha) <= maxDias(it.cats) && dias(it.fecha) > -1)
+    .filter(it => it.titulo && it.local && it.cats.length && dias(it.fecha) <= maxDias(it.cats) && dias(it.fecha) > -1)
     .sort((a, b) => b.fecha.localeCompare(a.fecha));
   const cuenta = Object.fromEntries(CATS.map(c => [c, 0]));
   lista = lista.filter(it => {
