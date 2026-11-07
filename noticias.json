@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T12:30:24.520Z",
+ "generado": "2026-11-07T12:50:18.393Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
-    "leidas": 0,
+    "enlaces": 57,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/personas-calle-salud-mental-internacion-concepcion.html",
+   "titulo": "Crece preocupación en Concepción por personas en situación de calle descompensadas por salud mental",
+   "resumen": "Dirigentes vecinales denuncian episodios de agresividad y daños, mientras un académico explica las vías legales para solicitar una hospitalización involuntaria.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/06/Situaci%C3%B3n-de-calle-e1781227012616.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T12:50:18.393Z",
+   "visto": "2026-11-07T12:50:18.393Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/07/deuda-publica-chile-megaobras-biobio.html",
    "titulo": "Deuda pública de Chile: monto equivale a financiar 105 veces cinco megaobras del Biobío",
