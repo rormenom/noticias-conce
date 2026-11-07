@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T08:30:22.054Z",
+ "generado": "2026-11-07T08:40:20.552Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
-    "leidas": 1,
+    "enlaces": 56,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 59,
+    "leidas": 51,
     "errores": 0,
     "robots": 0
    }
@@ -82,6 +82,132 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
+   "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
+   "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg-e1794015611446.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
+   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
+   "resumen": "Especialistas advierten que sacar la lactancia materna exclusiva de las metas APS 2027 podría restarle prioridad, recursos y seguimiento.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-lactancia-materna-foto-cc-e1794015704556.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/07/chiguayante-contraloria-gasto-personal-contrata.html",
+   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el aumento de gasto en personal a contrata",
+   "resumen": "La presentación busca que el organismo examine las operaciones financieras del municipio. Advierten que la proporción de remuneraciones superó el máximo legal.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/municipalidad-chiguayante-e1794015641690.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
+   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
+   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/morados-deben-bajar-a-everton-para-seguir-por-el-sueno-de-sudamericana.html",
+   "titulo": "Morados deben bajar a Everton para seguir por el sueño de Sudamericana",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Deportes-Concepcion-vs-Everton-foto-Lorena-Vecchio-e1794015944636.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/07/sag-controles-carreteros-decomiso-ilegal.html",
+   "titulo": "SAG anuncia tolerancia cero al ingreso ilegal de productos agropecuarios",
+   "resumen": "Operativos coordinados en cuatro regiones buscan cortar el transporte y la distribución de mercancías que pueden introducir plagas y enfermedades ausentes en Chile. La medida se articula con el nuevo Plan Estratégico de Mosca de la Fruta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fisalizaci%C3%B3n-1-e1794016043137.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/sudamericano-de-canotaje-convoca-mas-de-250-deportistas-durante-3-dias-en-quillon.html",
+   "titulo": "Sudamericano de Canotaje convoca más de 250 deportistas durante 3 días en Quillón",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-canotaje-sudamericano-en-quill%C3%B3n-foto-municipalidad-de-quill%C3%B3n-e1794016001323.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
+   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/investigador-local-fue-elegido-presidente-de-la-asociacion-chilena-de-paleontologia.html",
+   "titulo": "Investigador local fue elegido presidente de la Asociación Chilena de Paleontología",
+   "resumen": "El doctor Jaime Villafaña, académico de la Facultad de Ciencias de la Ucsc, recibió el nombramiento en el marco del Congreso Chileno de Paleontología 2026.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-Jaime-Villafa%C3%B1a-nuevo-presidente-Ascociacion-Chilena-de-Paleontologia-foto-cedida-Facultad-de-Ciencias-Ucsc-e1794016089867.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/no-es-imposible-vial-va-por-la-gloria-en-mejillones.html",
    "titulo": "No es imposible: Vial va por la gloria en Mejillones",
@@ -139,20 +265,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/cge-sec-multa-medidores.html",
-   "titulo": "SEC Biobío valora fallo contra CGE: retiro de medidores de clientes vulneró la normativa vigente",
-   "resumen": "La Superintendencia sancionó a la distribuidora por retirar equipos sin justificación técnica y reemplazarlos sin la certificación exigida. La medida coincide con la polémica sobre la voluntariedad del cambio y las dudas de los usuarios sobre la tecnología…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-medidores-inteligentes-de-luz-foto-cc.jpg-e1793927471392.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/lilas-acereros-vecinos-guerra-sexto-puesto.html",
    "titulo": "Lilas y acereros: vecinos en la guerra por el sexto puesto",
    "resumen": "Ambos quieren entrar a la Copa Sudamericana 2027 y para ello deben alcanzar a Palestino. ¿Qué les queda en el camino y cómo llegan Deportes Concepción y Huachipato a esta recta final?",
@@ -167,67 +279,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pescadores-artesanales-biobio-preparacion-eventos-climaticos.html",
-   "titulo": "El Niño y el cambio climático recortan jornadas laborales y encienden las alarmas en la pesca artesanal",
-   "resumen": "Dirigentes del sector señalaron que han reforzado las medidas de resguardo de sus embarcaciones y la coordinación con la autoridad marítima. Sin embargo, alertaron sobre los daños que afectan a las caletas frente a fenómenos como las trombas marinas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Screenshot_20261105_174227_Gallery-e1793911471390.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/puerto-coronel-fiscalia-riesgo-dilacion-tc.html",
-   "titulo": "Caso Puerto Coronel: Fiscalía alerta riesgo de dilación si más defensas recurren al Tribunal Constitucional",
-   "resumen": "Aún se está a la espera de que el TC examine la admisibilidad del requerimiento de la defensa del alcalde Boris Chamorro, proceso que por el momento no figura en tabla.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fiscalia-regional-biobio-e1793927410744.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/tarifas-licencias-conducir-municipios-biobio-2027.html",
-   "titulo": "Hasta $19 mil de diferencia: tarifas de licencias de conducir evidencian fuertes contrastes para 2027",
-   "resumen": "Las comunas presentan ciertas diferencias en los costos de renovación, trámite que actualmente puede hacerse libremente en cualquier Municipalidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-tijera-licencias-de-conducir-foto-diario-concepci%C3%B3n.jpg-e1793927524522.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/paro-nacional-camioneros-alza-combustibles.html",
    "titulo": "Camioneros del Biobío no se sumarán a paro nacional convocado por la Confederación Fuerza del Norte",
    "resumen": "La Confederación Fuerza del Norte confirmó una paralización nacional a partir del próximo martes 10 de noviembre, acusando que el encarecimiento del diésel y la falta de reajustes en las tarifas de fletes. Sin embargo, la Federación de Camioneros del Sur…",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-e1793976409772.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/caso-puerto-coronel-tc-boris-chamorro.html",
-   "titulo": "Caso Puerto Coronel: TC revisará requerimiento de Boris Chamorro el 11 de noviembre",
-   "resumen": "De esta manera, la sesión de la Primera Sala se realizará dos días antes de la audiencia de preparación del juicio oral.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/requerimiento-chamorro-tribunal-constitucional-e1794000185157.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -252,6 +307,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/corridas-noviembre-agenda-horarios-lugares.html",
+   "titulo": "Seis corridas para agendar: dónde y a qué hora acelerar en noviembre",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2022/11/pag-19-corrida-cuatro-lagunas-foto-archivo-carolina-e1793965652649.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/vecinos-ruta-160-carta-presidente-kast.html",
    "titulo": "“El centralismo castigó al Biobío”: treinta juntas de vecinos envían carta a Presidente Kast por freno a obras en Ruta 160",
    "resumen": "Dirigentes de Coronel, Lota y San Pedro de La Paz exigieron al Mandatario revertir el freno al corredor licitado y acusaron discriminación centralista.",
@@ -266,10 +335,53 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pastoreo-estrategico-cabras-prevencion-incendios-florida.html",
-   "titulo": "FOTOS | Con cabras y manejo comunitario: aplican pastoreo preventivo para frenar el fuego en Florida",
-   "resumen": "Familias de Pantanal recibieron ganado caprino entrenado para consumir vegetación seca y crear cortafuegos naturales antes del verano.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pastoreo-estrategico-cabras-prevencion-incendios-florida-1-e1794004898461.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
+   "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
+   "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PRESENTACI%C3%93N-ENVIS-2027-43-e1793979438276.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional",
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/caso-puerto-coronel-tc-boris-chamorro.html",
+   "titulo": "Caso Puerto Coronel: TC revisará requerimiento de Boris Chamorro el 11 de noviembre",
+   "resumen": "De esta manera, la sesión de la Primera Sala se realizará dos días antes de la audiencia de preparación del juicio oral.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/requerimiento-chamorro-tribunal-constitucional-e1794000185157.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/cge-sec-multa-medidores.html",
+   "titulo": "SEC Biobío valora fallo contra CGE: retiro de medidores de clientes vulneró la normativa vigente",
+   "resumen": "La Superintendencia sancionó a la distribuidora por retirar equipos sin justificación técnica y reemplazarlos sin la certificación exigida. La medida coincide con la polémica sobre la voluntariedad del cambio y las dudas de los usuarios sobre la tecnología…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-medidores-inteligentes-de-luz-foto-cc.jpg-e1793927471392.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/ecomercado-solidario-chiguayante-fosis.html",
+   "titulo": "FOSIS inaugura EcoMercado Solidario en Chiguayante que apoyará a 300 familias",
+   "resumen": "La iniciativa recupera alimentos de supermercados y ferias para entregarlos gratuitamente.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO-5-e1793992949544.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -294,35 +406,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/udec-destaca-premios-avonni-2026-hydraterra-cicla.html",
-   "titulo": "De la escasez hídrica al reciclaje de plásticos: tecnologías vinculadas a la UdeC son reconocidas en los Premios Avonni 2026",
-   "resumen": "Los reconocimientos a HydraTerra y CICLA 3D, junto con la nominación de AquaShield Cherry, reflejan el alcance de la investigación aplicada y el apoyo al emprendimiento vinculados a la Universidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-HydraTerra-y-CICLA-3D-tecnolog%C3%ADas-vinculadas-a-la-UdeC-reconocidas-en-los-Premios-Avonni-2026-foto-Dircom-UdeC-e1793927366632.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/ecomercado-solidario-chiguayante-fosis.html",
-   "titulo": "FOSIS inaugura EcoMercado Solidario en Chiguayante que apoyará a 300 familias",
-   "resumen": "La iniciativa recupera alimentos de supermercados y ferias para entregarlos gratuitamente.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO-5-e1793992949544.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/sala-ensayos-comunal-san-rosendo-minvu.html",
    "titulo": "Minvu traspasará más de $336 millones para la construcción de espacio cultural y artístico en San Rosendo",
    "resumen": "Inversión de $336 millones del Minvu permitirá levantar un recinto cultural y multiuso de 228 m² para organizaciones y agrupaciones locales.",
@@ -337,30 +420,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/corridas-noviembre-agenda-horarios-lugares.html",
-   "titulo": "Seis corridas para agendar: dónde y a qué hora acelerar en noviembre",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2022/11/pag-19-corrida-cuatro-lagunas-foto-archivo-carolina-e1793965652649.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pastoreo-estrategico-cabras-prevencion-incendios-florida.html",
+   "titulo": "FOTOS | Con cabras y manejo comunitario: aplican pastoreo preventivo para frenar el fuego en Florida",
+   "resumen": "Familias de Pantanal recibieron ganado caprino entrenado para consumir vegetación seca y crear cortafuegos naturales antes del verano.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pastoreo-estrategico-cabras-prevencion-incendios-florida-1-e1794004898461.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/udec-logra-triunfo-daniels-saravia.html",
-   "titulo": "UdeC logra el 2-0: destape de Daniels y explosión de Saravia",
-   "resumen": "Básquetbol auricielo se impuso dos veces consecutivas al Ancud de Cooper y Morales gracias a su intensidad y profundidad de plantel. El próximo viernes buscarán entrar a semifinales en la isla.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/francisco-saravia.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "deportes"
+    "regional"
    ],
    "local": true
   },
@@ -421,10 +490,24 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
-   "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
-   "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PRESENTACI%C3%93N-ENVIS-2027-43-e1793979438276.jpg",
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/puerto-coronel-fiscalia-riesgo-dilacion-tc.html",
+   "titulo": "Caso Puerto Coronel: Fiscalía alerta riesgo de dilación si más defensas recurren al Tribunal Constitucional",
+   "resumen": "Aún se está a la espera de que el TC examine la admisibilidad del requerimiento de la defensa del alcalde Boris Chamorro, proceso que por el momento no figura en tabla.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fiscalia-regional-biobio-e1793927410744.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/udec-destaca-premios-avonni-2026-hydraterra-cicla.html",
+   "titulo": "De la escasez hídrica al reciclaje de plásticos: tecnologías vinculadas a la UdeC son reconocidas en los Premios Avonni 2026",
+   "resumen": "Los reconocimientos a HydraTerra y CICLA 3D, junto con la nominación de AquaShield Cherry, reflejan el alcance de la investigación aplicada y el apoyo al emprendimiento vinculados a la Universidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-HydraTerra-y-CICLA-3D-tecnolog%C3%ADas-vinculadas-a-la-UdeC-reconocidas-en-los-Premios-Avonni-2026-foto-Dircom-UdeC-e1793927366632.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -432,6 +515,20 @@
    "cats": [
     "regional",
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/udec-logra-triunfo-daniels-saravia.html",
+   "titulo": "UdeC logra el 2-0: destape de Daniels y explosión de Saravia",
+   "resumen": "Básquetbol auricielo se impuso dos veces consecutivas al Ancud de Cooper y Morales gracias a su intensidad y profundidad de plantel. El próximo viernes buscarán entrar a semifinales en la isla.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/francisco-saravia.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -464,10 +561,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/06/ciencia-robotica-e-innovacion-concepcion-recibira-nueva-version-de-first-lego-league.html",
-   "titulo": "Ciencia, robótica e innovación: Concepción recibirá nueva versión de First Lego League",
-   "resumen": "Este sábado 7 de noviembre se desarrollará el evento que acerca diversas áreas y herramientas STEM a escolares.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/breve-1-e1793927737289.png",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/06/biobio-mar-evacuacion-proteccion-alerta.html",
+   "titulo": "Biobío frente al mar: la evacuación y protección no pueden comenzar con una alerta",
+   "resumen": "Ante un terremoto esperar una sirena o mensaje puede tener consecuencias fatales. Por eso la educación y preparación son la clave vital.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-borde-costero-bahia-de-talcahuano-foto-carolina-e1793927704442.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -478,10 +575,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/06/biobio-mar-evacuacion-proteccion-alerta.html",
-   "titulo": "Biobío frente al mar: la evacuación y protección no pueden comenzar con una alerta",
-   "resumen": "Ante un terremoto esperar una sirena o mensaje puede tener consecuencias fatales. Por eso la educación y preparación son la clave vital.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-borde-costero-bahia-de-talcahuano-foto-carolina-e1793927704442.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/06/ciencia-robotica-e-innovacion-concepcion-recibira-nueva-version-de-first-lego-league.html",
+   "titulo": "Ciencia, robótica e innovación: Concepción recibirá nueva versión de First Lego League",
+   "resumen": "Este sábado 7 de noviembre se desarrollará el evento que acerca diversas áreas y herramientas STEM a escolares.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/breve-1-e1793927737289.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -682,6 +779,35 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pescadores-artesanales-biobio-preparacion-eventos-climaticos.html",
+   "titulo": "El Niño y el cambio climático recortan jornadas laborales y encienden las alarmas en la pesca artesanal",
+   "resumen": "Dirigentes del sector señalaron que han reforzado las medidas de resguardo de sus embarcaciones y la coordinación con la autoridad marítima. Sin embargo, alertaron sobre los daños que afectan a las caletas frente a fenómenos como las trombas marinas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Screenshot_20261105_174227_Gallery-e1793911471390.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/tarifas-licencias-conducir-municipios-biobio-2027.html",
+   "titulo": "Hasta $19 mil de diferencia: tarifas de licencias de conducir evidencian fuertes contrastes para 2027",
+   "resumen": "Las comunas presentan ciertas diferencias en los costos de renovación, trámite que actualmente puede hacerse libremente en cualquier Municipalidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-tijera-licencias-de-conducir-foto-diario-concepci%C3%B3n.jpg-e1793927524522.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
    ],
@@ -915,20 +1041,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/05/impresionantes-numeros-mejillones-imbatible-casa.html",
-   "titulo": "Los impresionantes números de este Mejillones que luce imbatible en casa",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/vial-mejillones-e1793890620990.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/panoramas-culturales-destacados-gran-concepcion.html",
    "titulo": "Teatro, música, cine y mucho más: estos son los panoramas culturales destacados para los próximos días en el Gran Concepción",
    "resumen": "Como cada semana, la agenda artistica penquista trae una miscelánea cartelera para estos primeros días de noviembre.",
@@ -971,10 +1083,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/05/escolares-de-santa-juana-y-los-angeles-llevaran-sus-trabajos-cientificos-a-congreso-nacional-explora.html",
-   "titulo": "Escolares de Santa Juana y Los Ángeles llevarán sus trabajos científicos a Congreso Nacional Explora",
-   "resumen": "Del 16 al 18 de noviembre se realizará el evento en Santiago, cuando equipos presentarán proyectos desarrollados en la iniciativa de Investigación e Innovación Escolar.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/primera-p%C3%A1gina.png",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/05/concepcion-sera-protagonista-de-la-semana-de-las-invasiones-biologicas-2026.html",
+   "titulo": "Concepción será protagonista de la Semana de las Invasiones Biológicas 2026",
+   "resumen": "Del 9 al 14 noviembre se desarrollará el programa en Concepción, con diversas actividades abiertas a todo público con la UdeC como escenario.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/breve.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-05T15:00:00.000Z",
@@ -985,10 +1097,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/05/concepcion-sera-protagonista-de-la-semana-de-las-invasiones-biologicas-2026.html",
-   "titulo": "Concepción será protagonista de la Semana de las Invasiones Biológicas 2026",
-   "resumen": "Del 9 al 14 noviembre se desarrollará el programa en Concepción, con diversas actividades abiertas a todo público con la UdeC como escenario.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/breve.png",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/05/escolares-de-santa-juana-y-los-angeles-llevaran-sus-trabajos-cientificos-a-congreso-nacional-explora.html",
+   "titulo": "Escolares de Santa Juana y Los Ángeles llevarán sus trabajos científicos a Congreso Nacional Explora",
+   "resumen": "Del 16 al 18 de noviembre se realizará el evento en Santiago, cuando equipos presentarán proyectos desarrollados en la iniciativa de Investigación e Innovación Escolar.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/primera-p%C3%A1gina.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-05T15:00:00.000Z",
@@ -1010,6 +1122,20 @@
    "cats": [
     "regional",
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/05/impresionantes-numeros-mejillones-imbatible-casa.html",
+   "titulo": "Los impresionantes números de este Mejillones que luce imbatible en casa",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/vial-mejillones-e1793890620990.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
