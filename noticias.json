@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T17:20:20.976Z",
+ "generado": "2026-11-07T17:30:25.234Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 59,
+    "enlaces": 149,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/07/chofer-con-arresto-nocturno-nina-atropello-chiguayante-sigue-en-uci-y-podria-perder-una-pierna",
+   "titulo": "Conductor quedó con arresto nocturno tras atropello de niña en Chiguayante, que sigue en UCI y podría perder una pierna",
+   "resumen": "César Cipriano Mella Mella, el conductor del camión que atropelló a una niña de tres años en Chiguayante, quedó sujeto a arresto domiciliario nocturno, arraigo nacional y prohibición de acercarse a las víctimas. La menor está sedada y conectada a ventilación…",
+   "imagen": "https://media.canal9.cl/2026/11/nina-atropellada-en-chiguayante-sigue-en-la-uci-y-podria-perder-una-pierna-768x404.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-07T17:30:25.234Z",
+   "visto": "2026-11-07T17:30:25.234Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/07/chofer-con-arresto-nocturno-nina-atropello-chiguayante-sigue-en-uci-y-podria-perder-una-pierna.shtml",
    "titulo": "Chofer con arresto nocturno: niña atropellada en Chiguayante sigue en UCI y podría perder una pierna",
@@ -854,20 +868,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/nuevo-cosam-de-hualpen-cuenta-con-18-boxes-y-una-inversion-sobre-los-5-mil-millones-de-pesos",
-   "titulo": "Nuevo COSAM de Hualpén cuenta con 18 boxes y una inversión sobre los 5 mil millones de pesos",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-06-a-las-6.11.30%E2%80%AFa.-m-768x425.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/06/pronostican-altas-temperaturas-en-zonas-desde-atacama-a-los-lagos-maximas-rondaran-los-35-c",
    "titulo": "Pronostican hasta 35 °C en varias zonas entre Atacama y Los Lagos",
    "resumen": "",
@@ -900,6 +900,20 @@
    "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/06/nuevo-cosam-de-hualpen-cuenta-con-18-boxes-y-una-inversion-sobre-los-5-mil-millones-de-pesos",
+   "titulo": "Nuevo COSAM de Hualpén cuenta con 18 boxes y una inversión sobre los 5 mil millones de pesos",
+   "resumen": "",
+   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-06-a-las-6.11.30%E2%80%AFa.-m-768x425.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -1581,20 +1595,6 @@
    "fuente": "El Conquistador",
    "fuenteId": "conquistador",
    "fecha": "2026-11-02T20:45:23.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/biobio-reporta-18-menos-de-victimas-de-homicidios-en-comparacion-a-2025/",
-   "titulo": "Biobío reporta 18% menos de víctimas de homicidios en comparación a 2025",
-   "resumen": "Una disminución del 18% en las víctimas de homicidios respecto […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/7-768x512.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-02T18:39:38.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
