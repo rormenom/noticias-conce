@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T14:50:19.180Z",
+ "generado": "2026-11-07T15:20:21.486Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -1511,20 +1511,6 @@
    "fuente": "Radio UdeC",
    "fuenteId": "radioudec",
    "fecha": "2026-11-02T16:07:29.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/seremi-de-gobierno-y-oficialismo-local-siempre-hay-diferencias-pero-lo-importante-es-proyectarse/",
-   "titulo": "Seremi de Gobierno y oficialismo local: “Siempre hay diferencias, pero lo importante es proyectarse”",
-   "resumen": "El seremi de Gobierno, Daniel Pacheco, se refirió al trabajo […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/05/daniel-pacheco-768x576.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-02T15:11:47.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
