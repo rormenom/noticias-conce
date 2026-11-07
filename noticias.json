@@ -1,0 +1,1840 @@
+{
+ "generado": "2026-11-07T01:09:47.326Z",
+ "fuentes": [
+  {
+   "id": "conquistador",
+   "nombre": "El Conquistador",
+   "url": "https://www.elconquistadorconcepcion.cl/",
+   "ok": true
+  },
+  {
+   "id": "radioudec",
+   "nombre": "Radio UdeC",
+   "url": "https://www.radioudec.cl/",
+   "ok": true
+  },
+  {
+   "id": "diarioconcepcion",
+   "nombre": "Diario Concepción",
+   "url": "https://www.diarioconcepcion.cl/",
+   "ok": true
+  },
+  {
+   "id": "tvu",
+   "nombre": "TVU",
+   "url": "https://www.tvu.cl/",
+   "ok": true
+  },
+  {
+   "id": "biobiochile",
+   "nombre": "BioBioChile",
+   "url": "https://www.biobiochile.cl/",
+   "ok": true
+  },
+  {
+   "id": "canal9",
+   "nombre": "Canal 9",
+   "url": "https://www.canal9.cl/",
+   "ok": true
+  }
+ ],
+ "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/06/top-level-cup-abren-las-inscripciones-del-que-espera-ser-el-torneo-de-padel-mas-grande-del-mundo.shtml",
+   "titulo": "Top Level Cup: abren las inscripciones del que aspira ser el torneo de pádel más grande del Mundo",
+   "resumen": "La Top Level Cup, el que espera ser el torneo de pádel más grande del mundo, abre las puertas de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010808-top-level-cup-padel-espera-ser-torneo-mas-grande-del-mundo.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T01:00:58.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/06/martin-carcamo-tras-la-muerte-de-sebastian-lelio-siempre-admire-tu-talento.shtml",
+   "titulo": "Martín Cárcamo tras la muerte de Sebastián Lelio: \"Siempre admiré tu talento\"",
+   "resumen": "Martín Cárcamo publicó unas palabras tras la partida de Sebastián Lelio, reconocido cineasta que falleció este viernes a los 52...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010801-carcamo-y-sebastian-lelio-1.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T01:00:20.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/11/06/que-fue-de-mitzi-bustos-la-exesposa-de-francisco-huaiquipan-tras-salir-de-volverias-con-tu-ex.shtml",
+   "titulo": "Qué fue de Mitzi Bustos, la exesposa de Francisco Huaiquipán, tras salir de \"Volverías con tu ex?\"",
+   "resumen": "Mitzi Bustos, exesposa del exfutbolista Francisco Huaiquipán, se dedica hoy al comercio de ropa y productos con licencia oficial de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010795-sin-nombre-22-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T00:58:34.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/denuncia-de-acoso-a-carabinera-con-tea-en-los-lagos-confirman-sumario-y-contraloria-exige-respuesta.shtml",
+   "titulo": "Denuncia de acoso a carabinera con TEA en Los Lagos: confirman sumario y Contraloría exige respuesta",
+   "resumen": "El nuevo jefe de Carabineros en la Región de Los Lagos, general Francisco Aravena, confirmó la existencia de un...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010788-carabinera-tea.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T00:47:44.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/06/muerte-de-basty-barber-enluta-a-jugadores-del-futbol-chileno-hoy-estas-en-el-cielo.shtml",
+   "titulo": "Muerte de ’Basty Barber’ enluta a jugadores del fútbol chileno: \"Hoy estás en el cielo\"",
+   "resumen": "La muerte de un reconocido barbero, Bastián Jesús -más conocido como ‘Basty Barber’-, impactó a importantes actores del fútbol chileno.\nY...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010791-basty-barber-muerte-enluta-futbolistas-chilenos.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T00:43:41.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/06/solo-queda-el-amor-amalia-kassai-pareja-de-sebastian-lelio-lo-despide-con-emotivas-palabras.shtml",
+   "titulo": "\"Solo queda el amor\": Amalia Kassai, pareja de Sebastián Lelio, lo despide con emotivas palabras",
+   "resumen": "Amalia Kassai despidió con emotivas palabras a su pareja, el cineasta Sebastián Lelio, que falleció este viernes a los 52 años.",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010787-sebastian-lelio-y-su-pareja.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T00:31:11.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/06/policia-de-paraguay-detiene-al-expresidente-santiago-pena-tras-su-destitucion.shtml",
+   "titulo": "Policía de Paraguay detiene al expresidente Santiago Peña tras su destitución",
+   "resumen": "La Policía Nacional de Paraguay informó este viernes que el expresidente Santiago Peña, destituido horas antes por el Senado...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010792-policia-de-paraguay-detiene-al-expresidente-santiago-pena-tras-su-destitucion.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T00:29:10.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/11/06/amalia-kassai-la-actriz-y-pareja-de-sebastian-lelio-que-colaboro-con-el-hasta-su-muerte.shtml",
+   "titulo": "Amalia Kassai, la actriz y pareja de Sebastián Lelio que colaboró con él hasta su muerte",
+   "resumen": "El cineasta chileno Sebastián Lelio murió a los 52 años “por motivos de salud”. La noticia se conoció la tarde...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010779-amalia-kassai-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T00:22:47.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-magallanes/2026/11/06/formalizan-a-6-sujetos-sorprendidos-faenando-a-un-guanaco-al-interior-de-parque-en-tierra-del-fuego.shtml",
+   "titulo": "Formalizan a 6 sujetos sorprendidos faenando a un guanaco al interior de parque en Tierra del Fuego",
+   "resumen": "La Fiscalía de Tierra del Fuego formalizó a seis personas por infracción a la Ley de Caza y por maltrato...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010768-sorprenden-y-detienen-a-6-sujetos-faenando-a-un-guanaco-al-interior-de-parque-en-tierra-del-fuego.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T00:12:14.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/captaba-a-victimas-fuera-de-discotecas-cae-conductor-de-aplicacion-acusado-de-violaciones-en-temuco.shtml",
+   "titulo": "Captaba a víctimas fuera de discotecas: cae conductor de aplicación acusado de violaciones en Temuco",
+   "resumen": "Un ciudadano haitiano fue detenido por la Policía de Investigaciones (PDI) en Temuco, en el marco de una investigación por...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010764-haitiano-temuco.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T00:04:24.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/chilenos-en-el-exterior/2026/11/06/con-gabriel-suazo-protagonista-sevilla-lucho-pero-no-pudo-con-la-resistencia-de-alaves-por-la-liga.shtml",
+   "titulo": "Con Gabriel Suazo protagonista: Sevilla luchó pero no pudo con la resistencia de Alavés por La Liga",
+   "resumen": "El futbolista chileno Gabriel Suazo fue titular y protagonista en el empate de Sevilla ante Alavés, este viernes, por La...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010771-gabriel-suazo-sevilla-alaves-la-liga.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T00:01:42.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/06/cual-es-la-meta-de-la-teleton-2026-y-cuales-fueron-los-unicos-anos-en-que-no-se-llego-al-monto.shtml",
+   "titulo": "Cuál es la meta de la Teletón 2026 y cuáles fueron los únicos años en que no se llegó al monto",
+   "resumen": "Una nueva cruzada solidaria de la Teletón comienza este viernes. Como siempre, durante 27 horas de amor, famosos y rostros...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010763-meta-teleton-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T00:01:24.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/11/06/trump-afirma-que-iran-necesitara-25-anos-para-reconstruirse-y-que-pronto-decidira-si-destruye-el-resto.shtml",
+   "titulo": "Trump afirma que Irán necesitará 25 años para reconstruirse y que pronto decidirá si destruye el resto",
+   "resumen": "El presidente estadounidense, Donald Trump, ha asegurado que Irán necesitará 25 años para \"reconstruir\" el país tras la ofensiva lanzada...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010532-trump-afirma-que-iran-necesitara-25-anos-para-reconstruirse-y-que-pronto-decidir-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-07T00:00:43.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/cine-y-series/2026/11/06/adam-driver-confirma-que-no-volvera-a-ser-kylo-ren-en-star-wars-si-se-acabo.shtml",
+   "titulo": "Adam Driver confirma que no volverá a ser Kylo Ren en Star Wars: \"Sí, se acabó\"",
+   "resumen": "El actor confirmó que no habrá una nueva película centrada en Ben Solo, personaje que interpretó en la última trilogía de 'Star Wars'.",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010756-kylo-ren.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T23:49:47.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/06/deudas-traiciones-y-querellas-aseguran-que-arturo-vidal-enfrenta-demandas-por-951-millones-de-pesos.shtml",
+   "titulo": "Deudas, traiciones y querellas: aseguran que Arturo Vidal enfrenta demandas por 951 millones de pesos",
+   "resumen": "Arturo Vidal, volante de Colo Colo y leyenda de La Roja, estaría enfrentando un complejo momento marcado por querellas en...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010746-arturo-vidal-ocho-demandas-querellas-951-millones-pesos.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T23:42:31.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/11/06/mando-en-mexico-y-laboratorio-clandestino-en-chile-condenan-a-dos-mexicanos-por-red-de-metanfetaminas.shtml",
+   "titulo": "Mando en México y laboratorio clandestino en Chile: Condenan a dos mexicanos por red de metanfetaminas",
+   "resumen": "La jornada de este viernes, el Tribunal de Juicio Oral en lo Penal de Antofagasta condenó a dos ciudadanos...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010751-mando-en-mexico-y-laboratorio-clandestino-en-chile_-condenan-a-dos-mexicanos-por-red-de-metanfetamina.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T23:33:22.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/justicia-paraliza-caso-puerto-coronel-mientras-tc-resuelve-recurso-presentado-por-alcalde-chamorro.shtml",
+   "titulo": "Justicia paraliza caso Puerto Coronel mientras TC resuelve recurso presentado por alcalde Chamorro",
+   "resumen": "El caso Puerto Coronel quedó paralizado, luego de que el Juzgado de Garantía de Coronel resolviera suspender la totalidad del...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010757-caso-puerto-coronel.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T23:33:13.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/corte-deja-fuera-a-mario-carrera-de-competencia-por-la-fiscalia-regional-de-valparaiso.shtml",
+   "titulo": "Corte deja a Mario Carrera fuera de competencia por la Fiscalía Regional de Valparaíso",
+   "resumen": "El próximo lunes la Corte de Apelaciones de Valparaíso realizará la audiencia pública en que los seis candidatos habilitados expondrán...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010745-fiscal-valparaiso.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T23:12:18.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/gabriel-boric-despide-a-sebastian-lelio-a-traves-de-su-arte-seguira-aqui.shtml",
+   "titulo": "Gabriel Boric despide a Sebastián Lelio: \"A través de su arte seguirá aquí\"",
+   "resumen": "El expresidente Gabriel Boric se refirió al fallecimiento de Sebastián Lelio por medio de su cuenta de X. “Que dolor...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010738-diseno-sin-titulo-2026-11-06t200143-306.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T23:03:04.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/06/secretario-de-guerra-de-eeuu-responde-con-video-desafiante-ante-amenaza-de-juicio-politico.shtml",
+   "titulo": "Secretario de Guerra de EEUU responde con video desafiante ante amenaza de juicio político",
+   "resumen": "\"Se trata de una política de destrucción personal. No funcionó contra el presidente Trump, y no funcionará conmigo\". Con esas...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010627-restore-pete-hegseth-1200x633-1.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T23:00:03.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/06/millaray-viera-despide-emocionada-a-su-amigo-sebastian-lelio-yo-tambien-lo-quiero-mucho.shtml",
+   "titulo": "Millaray Viera despide emocionada a su amigo Sebastián Lelio: \"Yo también lo quiero mucho\"",
+   "resumen": "Millaray Viera utilizó los últimos minutos del programa Alfombra Roja para despedir a Sebastián Lelio, destacado cineasta chileno, ganador del...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010729-sebastian-lelio-1.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T22:40:39.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/a-la-caza-de-quien-filtro-los-decretos-gobierno-abre-sumario-mientras-rabat-sigue-firme-en-justicia.shtml",
+   "titulo": "A la caza de quien filtró los decretos: Gobierno abre sumario mientras Rabat sigue firme en Justicia",
+   "resumen": "El Gobierno confirmó la apertura de un sumario administrativo en el Ministerio de Justicia para esclarecer cómo se difundieron...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010708-sumario-rabat.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T22:39:23.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/06/tras-protestas-de-funcionarios-y-toledo-gobierno-reinstala-carabineros-en-cesfam-de-bajos-de-mena.shtml",
+   "titulo": "Tras protestas de funcionarios y Toledo: Gobierno reinstala carabineros en cesfam de Bajos de Mena",
+   "resumen": "Luego de una reunión llevada a cabo este viernes, el alcalde de Puente Alto, Matías Toledo, y el delegado presidencial...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010685-tras-protestas-de-funcionarios-y-toledo_-gobierno-reinstala-carabineros-en-cesfam-de-bajos-de-mena.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T22:29:35.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/06/senado-de-paraguay-destituye-a-santiago-pena-en-juicio-politico-en-ausencia.shtml",
+   "titulo": "Congreso de Paraguay destituye a Santiago Peña en juicio político en ausencia por escándalo Ueno Bank",
+   "resumen": "El ahora expresidente de la República, Santiago Peña Palacios (ANR) fue destituido por el Congreso Nacional de Paraguay tras un...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010722-diseno-sin-titulo-2026-11-06t193126-378.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T22:04:53.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/presidente-kast-designa-a-patricio-fernandez-como-nuevo-superintendente-de-seguridad-social.shtml",
+   "titulo": "Presidente Kast designa a Patricio Fernández como nuevo superintendente de Seguridad Social",
+   "resumen": "El presidente de la República, José Antonio Kast, designó este viernes al abogado Patricio Fernández Pérez como nuevo superintendente...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010697-bbcl-1200-x-633-px-2026-11-06t185547-435.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T21:57:21.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/mirosevic-declina-invitar-a-rabat-a-comision-de-constitucion-sigue-sin-transparentar-decretos.shtml",
+   "titulo": "Mirosevic declina invitar a Rabat a Comisión de Constitución: \"Sigue sin transparentar decretos\"",
+   "resumen": "El presidente de la Comisión de Constitución del Senado, Vlado Mirosevic (PL), declinó invitar al ministro de Justicia, Fernando Rabat,...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010710-mirosevic-comision-constitucion.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T21:52:25.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/06/sebastian-alveal-promesa-del-canotaje-chileno-ojala-llegar-a-una-version-mia-que-nunca-he-mostrado.shtml",
+   "titulo": "Sebastián Alveal, promesa del canotaje chileno: \"Ojalá llegar a una versión mía que nunca he mostrado\"",
+   "resumen": "Sebastián Alveal, una de las grandes promesas del canotaje en Chile, habló con BBCL en la primera fecha del Sudamericano...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7009333-sebastian-alveal-triple-medallista-en-quillon_-_ojala-llegar-a-una-version-mia-que-nunca-he-mostrado_.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T21:47:30.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/expertos-ponen-en-duda-denuncia-contra-comite-que-evaluo-rebajas-de-condenas-a-abusadores-sexuales.shtml",
+   "titulo": "Expertos ponen en duda denuncia contra comité que evaluó rebajas de condenas a abusadores sexuales",
+   "resumen": "La denuncia por eventual prevaricación judicial contra los integrantes del comité que evaluó las rebajas de condenas a abusadores sexuales...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010650-comite-rebajas-condenas.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T21:42:40.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/06/la-promesa-entre-lagrimas-del-dueno-de-tenerife-a-miguel-de-jesus-a-su-nina-no-le-va-a-faltar-nada.shtml",
+   "titulo": "La promesa entre lágrimas del dueño de Tenerife a Miguel de Jesús: \"A su niña no le va a faltar nada\"",
+   "resumen": "El máximo accionista del Tenerife, Rayco García, emocionó al plantel del club y los trabajadores del club tras realizar una...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010293-jesus-de-miguel-promesa-dueno-tenerife-entre-lagrimas.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T21:34:53.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/06/opinion-de-javier-fernandez-por-dichos-de-patricia-maldonado-saco-chispas-ella-representa-a-chile.shtml",
+   "titulo": "Opinión de Javier Fernández por dichos de Patricia Maldonado sacó chispas: \"Ella representa a Chile\"",
+   "resumen": "Un tenso momento se vivió la tarde de este viernes en el programa Zona de Estrellas, cuando el panel discutía...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010612-j-fernandez.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T21:22:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/sociedad/debate/2026/11/06/acosaba-a-nina-de-12-anos-en-redes-y-viajo-a-su-ciudad-para-secuestrarla-desde-su-colegio-en-argentina.shtml",
+   "titulo": "Acosaba a niña de 12 años en redes y viajó a su ciudad para secuestrarla desde su colegio en Argentina",
+   "resumen": "Un joven de 22 años viajó desde Buenos Aires hasta Ushuaia, en Tierra del Fuego, e intentó raptar a una...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010613-sujeto-que-intentor-raptar-a-nina.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T20:53:10.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/06/movilh-e-iguales-denunciaran-ante-el-cntv-dichos-de-paty-maldonado-sobre-ninos-trans-en-vertigo.shtml",
+   "titulo": "Movilh e Iguales denunciarán ante el CNTV dichos de Paty Maldonado sobre niños trans en ’Vértigo’",
+   "resumen": "El Movimiento de Integración y Liberación Homosexual (Movilh) y la Fundación Iguales anunciaron que denunciarán ante el Consejo Nacional de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010580-paty-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T20:43:29.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/06/las-claves-de-la-caida-de-ueno-bank-que-deja-en-vilo-a-millones-de-personas-en-paraguay.shtml",
+   "titulo": "Las claves de la caída de Ueno Bank que deja en vilo a millones de personas en Paraguay",
+   "resumen": "El cierre de Ueno Bank, una de las entidades financieras más populares de Paraguay, con 2,9 millones de clientes y...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010575-paraguay.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T20:42:48.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/06/una-conversacion-que-jamas-debio-pasar-cris-de-masterchef-explica-su-expulsion-del-programa.shtml",
+   "titulo": "\"Una conversación que jamás debió pasar\": Cris de ’MasterChef’ explica su expulsión del programa",
+   "resumen": "Cris Olivares, el concursante conocido como la ‘Soa de Chile’, ahondó en su polémica expulsión de ‘MasterChef’.\nTal como se vio...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7009857-cris-de-masterchef.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T20:37:57.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/06/paraguay-defensa-de-pena-sostiene-que-juicio-politico-es-nulo-porque-el-mandatario-renuncio.shtml",
+   "titulo": "Paraguay: defensa de Peña sostiene que juicio político es nulo porque el mandatario renunció",
+   "resumen": "Los abogados del presidente paraguayo, Santiago Peña, afirmaron este viernes que el juicio político que enfrenta el mandatario en el...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010552-pena-stgo.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T20:15:31.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/06/corte-suprema-condena-a-enel-a-compensar-a-127-mil-clientes-por-prolongados-cortes-de-luz-en-la-rm.shtml",
+   "titulo": "Corte Suprema condena a Enel a compensar a 127 mil clientes por prolongados cortes de luz en la RM",
+   "resumen": "La Corte Suprema condenó tanto a Enel Distribución como a Enel Colina al pago de compensaciones por daño moral...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010474-corte-suprema-condena-a-enel-a-compensar-a-127-mil-clientes-por-prolongados-cortes-de-luz-en-la-rm.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T20:04:41.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/06/papa-leon-xiv-llega-a-uruguay-para-su-gira-por-latinoamerica-viajara-tambien-a-argentina-y-peru.shtml",
+   "titulo": "Papa León XIV llega a Uruguay para su gira por Latinoamérica: viajará también a Argentina y Perú",
+   "resumen": "El papa León XIV llegó este viernes a Uruguay en un vuelo que aterrizó a las 16:20 hora local (y...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010473-papa-leon.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T19:48:57.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/economia/mercado-automotriz/2026/11/06/representante-de-lamborghini-en-chile-recomienda-combustibles-copec-y-lubricantes-mobil-1.shtml",
+   "titulo": "Representante de Lamborghini en Chile recomienda combustibles Copec y lubricantes Mobil 1",
+   "resumen": "El regreso de Lamborghini a Chile vendrá acompañado de una recomendación técnica clave para sus futuros propietarios. El representante oficial...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7006927-lamborghini-copec.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T19:02:15.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/06/el-desempleo-en-estados-unidos-bajo-hasta-el-41-mientras-se-crearon-165-mil-empleos-en-octubre.shtml",
+   "titulo": "El desempleo en Estados Unidos bajó hasta el 4,1% mientras se crearon 165 mil empleos en octubre",
+   "resumen": "La tasa de desempleo en Estados Unidos bajó apenas una décima hasta situarse en el 4,1% en octubre, cuando la...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010380-el-desempleo-en-estados-unidos-bajo-hasta-el-41-mientras-se-crearon-165-mil-empleos-en-octubre.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T18:41:02.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/06/aventureras-al-aire-06-de-noviembre-de-2026/",
+   "titulo": "AVENTURERAS AL AIRE 06 DE NOVIEMBRE DE 2026",
+   "resumen": "",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/08/BANNER-AVENTURERAS-768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-06T18:19:12.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "podcasts"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/cine-y-series/2026/11/06/la-pelicula-que-sebastian-lelio-no-alcanzo-a-terminar-adaptaria-una-reconocida-novela-chilena.shtml",
+   "titulo": "La película que Sebastián Lelio no alcanzó a terminar: adaptaría una reconocida novela chilena",
+   "resumen": "La muerte del cineasta chileno Sebastián Lelio, ocurrida este viernes 6 de noviembre, dejó inconcluso uno de los proyectos más...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010294-sebastian-lelio-poeta-chileno-1.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T18:01:21.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/06/terrible-el-mundo-del-cine-conmocionado-tras-muerte-de-sebastian-lelio-a-los-52-anos.shtml",
+   "titulo": "\"Terrible\": el mundo del cine conmocionado tras muerte de Sebastián Lelio a los 52 años",
+   "resumen": "A los 52 años y con un proyecto inconcluso, falleció el director de cine chileno Sebastián Lelio, quien ganó el...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010290-lelio-3.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T17:47:01.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/11/06/muere-sebastian-lelio-director-de-cine-ganador-del-oscar-por-una-mujer-fantastica.shtml",
+   "titulo": "Muere Sebastián Lelio, director chileno ganador del Oscar por \"Una mujer fantástica\"",
+   "resumen": "Este viernes 6 de noviembre se informó la muerte del reconocido cineasta chileno Sebastián Lelio, a los 52 años, director...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010150-sebastian-lelio-.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T17:14:39.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/economia/mercado-automotriz/2026/11/06/elon-musk-revela-que-reduciran-produccion-de-la-cybertruck-para-enfocarse-en-el-taxi-autonomo-cybercab.shtml",
+   "titulo": "¿Fin de la camioneta estrella de Tesla? Elon Musk revela que reducirán la producción de la Cybertruck",
+   "resumen": "El consejero delegado de Tesla, Elon Musk, anunció este viernes que la compañía comenzará a reducir la producción de su...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7009924-elon-musk-revela-que-reduciran-la-produccion-de-la-cybertruck-para-enfocarse-al-taxi-autonomo-cybercab.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T16:36:55.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.radioudec.cl/gobierno-prepara-nueva-consulta-indigena-con-despliegue-previo-en-cuatro-regiones-del-pais/",
+   "titulo": "Gobierno prepara nueva Consulta Indígena con despliegue previo en cuatro regiones del país",
+   "resumen": "El subsecretario de Servicios Sociales, Alejandro Fernández, recorrió las regiones […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-12.57.03-PM-768x512.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-06T16:07:44.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/facultad-de-medicina-udec-acredito-todos-sus-programas-de-especialidades-medicas/",
+   "titulo": "Facultad de Medicina UdeC acreditó todos sus programas de especialidades médicas",
+   "resumen": "Un importante hito para la formación de especialistas en salud […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/estudiantes-medicina-udec-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-06T16:04:23.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias",
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/06/rupaul-debutara-en-chile-con-un-dj-set-en-el-teatro-caupolican/",
+   "titulo": "RuPaul debutará en Chile con un DJ set en el Teatro Caupolicán",
+   "resumen": "Por Florencia Muñoz Perez",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/rupaul-emmy-awards-winner-.jpg-768x538.webp",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-06T15:04:33.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/puerto-coronel-fiscalia-riesgo-dilacion-tc.html",
+   "titulo": "Caso Puerto Coronel: Fiscalía alerta riesgo de dilación si más defensas recurren al Tribunal Constitucional",
+   "resumen": "Aún se está a la espera de que el TC examine la admisibilidad del requerimiento de la defensa del alcalde Boris Chamorro, proceso que por el momento no figura en tabla.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fiscalia-regional-biobio-e1793927410744.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pescadores-artesanales-biobio-preparacion-eventos-climaticos.html",
+   "titulo": "El Niño y el cambio climático recortan jornadas laborales y encienden las alarmas en la pesca artesanal",
+   "resumen": "Dirigentes del sector señalaron que han reforzado las medidas de resguardo de sus embarcaciones y la coordinación con la autoridad marítima. Sin embargo, alertaron sobre los daños que afectan a las caletas frente a fenómenos como las trombas marinas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Screenshot_20261105_174227_Gallery-e1793911471390.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/cge-sec-multa-medidores.html",
+   "titulo": "SEC Biobío valora fallo contra CGE: retiro de medidores de clientes vulneró la normativa vigente",
+   "resumen": "La Superintendencia sancionó a la distribuidora por retirar equipos sin justificación técnica y reemplazarlos sin la certificación exigida. La medida coincide con la polémica sobre la voluntariedad del cambio y las dudas de los usuarios sobre la tecnología…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-medidores-inteligentes-de-luz-foto-cc.jpg-e1793927471392.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/lilas-acereros-vecinos-guerra-sexto-puesto.html",
+   "titulo": "Lilas y acereros: vecinos en la guerra por el sexto puesto",
+   "resumen": "Ambos quieren entrar a la Copa Sudamericana 2027 y para ello deben alcanzar a Palestino. ¿Qué les queda en el camino y cómo llegan Deportes Concepción y Huachipato a esta recta final?",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/05/pag-15-Aldrix-Jara-Deportes-Concepcion-vs-Huachipato-foto-carolina-e1793965495179.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/tarifas-licencias-conducir-municipios-biobio-2027.html",
+   "titulo": "Hasta $19 mil de diferencia: tarifas de licencias de conducir evidencian fuertes contrastes para 2027",
+   "resumen": "Las comunas presentan ciertas diferencias en los costos de renovación, trámite que actualmente puede hacerse libremente en cualquier Municipalidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-tijera-licencias-de-conducir-foto-diario-concepci%C3%B3n.jpg-e1793927524522.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/paro-nacional-camioneros-alza-combustibles.html",
+   "titulo": "Camioneros del Biobío no se sumarán a paro nacional convocado por la Confederación Fuerza del Norte",
+   "resumen": "La Confederación Fuerza del Norte confirmó una paralización nacional a partir del próximo martes 10 de noviembre, acusando que el encarecimiento del diésel y la falta de reajustes en las tarifas de fletes. Sin embargo, la Federación de Camioneros del Sur…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-e1793976409772.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/caso-puerto-coronel-tc-boris-chamorro.html",
+   "titulo": "Caso Puerto Coronel: TC revisará requerimiento de Boris Chamorro el 11 de noviembre",
+   "resumen": "De esta manera, la sesión de la Primera Sala se realizará dos días antes de la audiencia de preparación del juicio oral.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/requerimiento-chamorro-tribunal-constitucional-e1794000185157.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/fallece-sebastian-lelio-director-oscar-visita-biobio-nuble.html",
+   "titulo": "Luto en el cine chileno: sorpresivamente fallece Sebastián Lelio, director ganador del Oscar que deja huella en Biobío y Ñuble",
+   "resumen": "El cineasta nacional y ganador de un premio de la Academia falleció en su vivienda a los 52 años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fallece-sebastian-lelio-director-oscar-visita-concepcion.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/vecinos-ruta-160-carta-presidente-kast.html",
+   "titulo": "“El centralismo castigó al Biobío”: treinta juntas de vecinos envían carta a Presidente Kast por freno a obras en Ruta 160",
+   "resumen": "Dirigentes de Coronel, Lota y San Pedro de La Paz exigieron al Mandatario revertir el freno al corredor licitado y acusaron discriminación centralista.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/vecinos-ruta-160-carta-presidente-kast.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pastoreo-estrategico-cabras-prevencion-incendios-florida.html",
+   "titulo": "FOTOS | Con cabras y manejo comunitario: aplican pastoreo preventivo para frenar el fuego en Florida",
+   "resumen": "Familias de Pantanal recibieron ganado caprino entrenado para consumir vegetación seca y crear cortafuegos naturales antes del verano.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pastoreo-estrategico-cabras-prevencion-incendios-florida-1-e1794004898461.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/agua-potable-rural-huallerehue-santa-juana.html",
+   "titulo": "Santa Juana: 283 familias de Huallerehue acceden a red de agua potable rural tras años de espera",
+   "resumen": "Con una inversión sectorial de $2.630 millones, el proyecto en Huallerehue sumó 172 arranques y proyecta abastecer a 1.556 personas a 20 años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/agua-potable-rural-huallerehue-santa-juana-e1794012673651.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/udec-destaca-premios-avonni-2026-hydraterra-cicla.html",
+   "titulo": "De la escasez hídrica al reciclaje de plásticos: tecnologías vinculadas a la UdeC son reconocidas en los Premios Avonni 2026",
+   "resumen": "Los reconocimientos a HydraTerra y CICLA 3D, junto con la nominación de AquaShield Cherry, reflejan el alcance de la investigación aplicada y el apoyo al emprendimiento vinculados a la Universidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-HydraTerra-y-CICLA-3D-tecnolog%C3%ADas-vinculadas-a-la-UdeC-reconocidas-en-los-Premios-Avonni-2026-foto-Dircom-UdeC-e1793927366632.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
+   "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
+   "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PRESENTACI%C3%93N-ENVIS-2027-43-e1793979438276.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/corridas-noviembre-agenda-horarios-lugares.html",
+   "titulo": "Seis corridas para agendar: dónde y a qué hora acelerar en noviembre",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2022/11/pag-19-corrida-cuatro-lagunas-foto-archivo-carolina-e1793965652649.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/udec-logra-triunfo-daniels-saravia.html",
+   "titulo": "UdeC logra el 2-0: destape de Daniels y explosión de Saravia",
+   "resumen": "Básquetbol auricielo se impuso dos veces consecutivas al Ancud de Cooper y Morales gracias a su intensidad y profundidad de plantel. El próximo viernes buscarán entrar a semifinales en la isla.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/francisco-saravia.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/sala-ensayos-comunal-san-rosendo-minvu.html",
+   "titulo": "Minvu traspasará más de $336 millones para la construcción de espacio cultural y artístico en San Rosendo",
+   "resumen": "Inversión de $336 millones del Minvu permitirá levantar un recinto cultural y multiuso de 228 m² para organizaciones y agrupaciones locales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Sala-de-Ensayos-San-Rosendo-e1794007516553.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/biblioteca-municipal-chiguayante-apertura-noviembre.html",
+   "titulo": "Tras más de 10 años de proceso: Chiguayante inaugurará su nueva Biblioteca Municipal",
+   "resumen": "La nueva Biblioteca Municipal de Chiguayante abrirá sus puertas a la comunidad el próximo lunes 16 de noviembre, tras la habilitación de un espacio que recupera parte de las antiguas bodegas de la fábrica textil Caupolicán y pone en valor el patrimonio…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/images-7.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/ecomercado-solidario-chiguayante-fosis.html",
+   "titulo": "FOSIS inaugura EcoMercado Solidario en Chiguayante que apoyará a 300 familias",
+   "resumen": "La iniciativa recupera alimentos de supermercados y ferias para entregarlos gratuitamente.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO-5-e1793992949544.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/gobierno-anuncia-recursos-caminos-santa-juana.html",
+   "titulo": "Anuncian plan de recuperación de zonas afectadas de Santa Juana tras intensas lluvias",
+   "resumen": "El Gobierno destinó más de $346 millones a través de la Subdere para habilitar espacios públicos y mejorar caminos rurales afectados por emergencias climáticas en Santa Juana.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-5.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/teleton-complejo-penitenciario-biobio-internas-reinsercion.html",
+   "titulo": "Teletón llega a la cárcel del Biobío: destacan actividades de internas como clave para la reinserción social",
+   "resumen": "En honor al espíritu de la Teletón, su mascota oficial fue a visitar a las reclusas del recinto penitenciario del Biobío",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-06-at-12.07.44-e1793990791429.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/alan-gonzalez-rendira-homenaje-cantautores-regionales-concierto-el-canto-del-biobio.html",
+   "titulo": "Alan González rendirá homenaje a cantautores regionales con concierto “El canto del Biobío”",
+   "resumen": "El músico y escritor penquista se presentará en la Corporación Cultural San Pedro de la Paz -Los Fresnos 1640- con un espectáculo íntimo de guitarra y voz que rescata la obra de destacados compositores y compositoras del territorio. Hoy a las 19.00 horas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-Alan-Gonz%C3%A1lez.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/youngers-presenta-encuentros-con-kramer-50-este-fin-de-semana-teatro-udec.html",
+   "titulo": "Youngers presenta “Encuentros con Kramer 50+” este fin de semana en el Teatro UdeC",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-1-e1793927854656.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/06/biobio-mar-evacuacion-proteccion-alerta.html",
+   "titulo": "Biobío frente al mar: la evacuación y protección no pueden comenzar con una alerta",
+   "resumen": "Ante un terremoto esperar una sirena o mensaje puede tener consecuencias fatales. Por eso la educación y preparación son la clave vital.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-borde-costero-bahia-de-talcahuano-foto-carolina-e1793927704442.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/06/ciencia-robotica-e-innovacion-concepcion-recibira-nueva-version-de-first-lego-league.html",
+   "titulo": "Ciencia, robótica e innovación: Concepción recibirá nueva versión de First Lego League",
+   "resumen": "Este sábado 7 de noviembre se desarrollará el evento que acerca diversas áreas y herramientas STEM a escolares.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/breve-1-e1793927737289.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tendencias"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/consumo-vampiro-puede-representar-hasta-un-9-de-la-cuenta-electrica/",
+   "titulo": "«Consumo vampiro» puede representar hasta un 9% de la cuenta eléctrica",
+   "resumen": "Televisores, computadores, impresoras, consolas de videojuegos, microondas, equipos de sonido […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/FOTO-4-768x512.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-06T14:59:35.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/06/bolsas-de-asia-sufren-su-peor-desplome-desde-2020-lastradas-por-ventas-de-acciones-de-ia.shtml",
+   "titulo": "Bolsas de Asia sufren su peor desplome desde 2020 lastradas por ventas de acciones de IA",
+   "resumen": "Las principales bolsas de Asia sufrieron este viernes el que analistas consideran el peor desplome desde 2020, con pérdidas que...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7009881-bolsas-de-asia-sufren-su-peor-desplome-desde-2020-lastradas-por-ventas-de-acciones-de-ia.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T14:31:11.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.radioudec.cl/tras-detenciones-por-mensajes-escritos-en-meta-ong-amaranta-recomienda-utilizar-aplicaciones-de-mensajeria-mas-seguras/",
+   "titulo": "Tras detenciones por mensajes escritos en Meta: ONG Amaranta recomienda utilizar aplicaciones más seguras",
+   "resumen": "En Chile, varias personas han sido detenidas por presuntas amenazas […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/instagram-whatsapp-and-facebook-768x512.webp",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-06T14:27:39.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional",
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/felix-de-vicente-baja-candidatura-a-la-cpc-tras-polemicos-dichos-sobre-baja-de-condenas-a-pederastas.shtml",
+   "titulo": "Félix de Vicente baja candidatura a la CPC tras polémicos dichos sobre baja de condenas a pederastas",
+   "resumen": "El exministro de Economía, Félix de Vicente, decidió bajar su candidatura a la presidencia de la Confederación de la Producción...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7009850-bbcl-23.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T14:19:15.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/06/chile-brindara-apoyo-a-colombia-con-tecnologia-nuclear-para-evaluar-inmuebles-tras-sismo/",
+   "titulo": "Chile brindará apoyo a Colombia con tecnología nuclear para evaluar inmuebles tras sismo",
+   "resumen": "Por Florencia Muñoz Pérez",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/chile-tecnologa-nuclear-768x512.webp",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-06T14:10:52.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.radioudec.cl/renuncia-presidencial-de-santiago-pena-la-crisis-financiera-y-politica-que-remece-a-paraguay/",
+   "titulo": "Renuncia presidencial de Santiago Peña: La crisis financiera y política que remece a Paraguay",
+   "resumen": "El Presidente de Paraguay, Santiago Peña, presentó su renuncia el […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/santiago-pena-768x576.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-06T14:06:08.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/lota-fortalece-su-camino-hacia-la-unesco-autoridades-impulsan-la-recuperacion-del-patrimonio-minero-y-su-memoria-historica/",
+   "titulo": "Lota fortalece su camino hacia la UNESCO: autoridades impulsan la recuperación del patrimonio minero y su memoria histórica",
+   "resumen": "El pasado 3 de noviembre se convocó la sesión N.º […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Lota-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-06T12:23:46.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "cultura",
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/06/mesa-de-noticias-06-de-noviembre-de-2026/",
+   "titulo": "MESA DE NOTICIAS 06 DE NOVIEMBRE DE 2026",
+   "resumen": "",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/09/BANNER-MESA-DE-NOTICIAS-768x432.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-06T10:00:15.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "podcasts"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/articulos/2026/11/06/hay-dos-firmas-vinculadas-entre-si-las-empresas-que-se-disputan-millonaria-licitacion-de-carabineros.shtml",
+   "titulo": "Las dudas por los invitados a la licitación confidencial de Carabineros por $339 mil millones",
+   "resumen": "Dos empresas constituidas con apenas $1 millón de capital cada una y dedicadas al negocio de las telecomunicaciones están consideradas...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-6992555-licitacion-carabineros-empresas-radios.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T08:55:21.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/05/tras-la-crisis-bancaria-santiago-pena-renuncia-como-presidente-de-paraguay/",
+   "titulo": "Tras la crisis bancaria, Santiago Peña renuncia como Presidente de Paraguay",
+   "resumen": "El anuncio se realizó en redes sociales.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/ex-presidente-de-paraguay--768x436.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-05T17:24:34.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.radioudec.cl/mascotas-recibieron-atencion-veterinaria-gratuita-en-barrios-de-lirquen-afectados-por-los-incendios/",
+   "titulo": "Mascotas recibieron atención veterinaria gratuita en barrios de Lirquén afectados por los incendios",
+   "resumen": "Cerca de 50 perros y gatos recibieron atención veterinaria gratuita […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/3b9ed28c-af30-4d1e-ad8e-520d4be51c45-768x576.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-05T15:53:28.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/05/china-descarta-freno-al-cable-transoceanico-y-confirma-reunion-entre-kast-y-xi-jinping/",
+   "titulo": "China descarta freno al cable transoceánico y confirma reunión entre Kast y Xi Jinping",
+   "resumen": "El representante diplomático en Santiago destacó que la cita presencial profundizará los lazos comerciales y descartó que la actual administración frene el cuestionado cable de fibra óptica submarino.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/embajador-chino--300x200.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-05T14:34:11.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/05/caballo-salvaje-9-la-satira-politica-que-une-a-hollywood-con-los-paisajes-de-rapa-nui/",
+   "titulo": "“Caballo salvaje 9”: La sátira política que une a Hollywood con los paisajes de Rapa Nui",
+   "resumen": "El reconocido cineasta británico aterriza en la cartelera nacional con una sátira política protagonizada por John Malkovich y Sam Rockwell, ambientada en Chile en medio tensión política del 1973.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/wild-horse-nine-5-768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-05T13:34:19.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/05/cristiano-ronaldo-anuncia-su-retiro-definitivo-de-la-seleccion-de-portugal/",
+   "titulo": "Cristiano Ronaldo anuncia su retiro definitivo de la selección de Portugal",
+   "resumen": "Por Camilo Bravo Ortiz.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/retiro-cristiano-ronaldo-768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-05T12:17:39.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/05/mesa-de-noticias-05-de-noviembre-de-2026/",
+   "titulo": "MESA DE NOTICIAS 05 DE NOVIEMBRE DE 2026",
+   "resumen": "",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/09/BANNER-MESA-DE-NOTICIAS-768x432.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-05T10:00:28.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "podcasts"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/05/gobierno-pide-a-camioneros-de-san-antonio-levantar-el-bloqueo-y-a-generadores-de-carga-actualizar-tarifas/",
+   "titulo": "Gobierno pide a camioneros de San Antonio levantar el bloqueo y a generadores de carga actualizar tarifas",
+   "resumen": "El Gobierno llamó a los camioneros independientes de San Antonio a desbloquear los recintos extraportuarios que mantienen cerrados desde el 28 de octubre. Al mismo tiempo, instó a los generadores de carga a actualizar las tarifas de los fletes para que…",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/paro-camioneros-san-antonio--768x431.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-05T08:01:08.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/05/fiscalia-nacional-economica-aprobo-operacion-entre-aceros-aza-y-grupo-cap/",
+   "titulo": "Fiscalía Nacional Económica aprobó operación entre Aceros AZA y grupo CAP",
+   "resumen": "Para la adquisición de 91 hectáreas de Huachipato.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/frontis-huachipato-cap-768x464.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-05T07:30:39.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/05/bomberos-de-nuble-podra-contar-con-tag-gratuitos-por-las-autopistas/",
+   "titulo": "Bomberos de Ñuble podrá contar con TAG gratuitos por las autopistas",
+   "resumen": "Y padrón único.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/bomberos-pagando-peajes--768x509.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-05T07:19:45.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/campana-busca-familias-de-acogida-en-biobio-para-ninos-y-ninas-que-requieren-proteccion/",
+   "titulo": "Campaña busca familias de acogida en Biobío para niños y niñas que requieren protección",
+   "resumen": "Por quinto año consecutivo, la Dirección de Servicios Estudiantiles (DISE) […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-4.39.43-PM-768x576.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-04T19:42:33.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/conaf-destina-25-570-millones-para-enfrentar-incendios-forestales-en-la-region-del-biobio/",
+   "titulo": "CONAF destina $25.570 millones para enfrentar incendios forestales en la Región del Biobío",
+   "resumen": "La Corporación Nacional Forestal (CONAF) presentó este miércoles el Plan […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Plan-Incendios-2026-2027-768x512.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-04T19:38:24.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/municipio-de-arauco-evalua-crear-feria-ganadera-para-impulsar-el-comercio-local/",
+   "titulo": "Municipio de Arauco evalúa crear feria ganadera para impulsar el comercio local",
+   "resumen": "Junto a la Seremi de Agricultura: La implementación requiere conocer el interés del sector y definir un recinto que reúna las condiciones adecuadas.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/muni-arauco-seremi-agricultira-feria-ganadera-768x428.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T19:33:30.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/ministro-quiroz-y-caida-del-dolar-tras-elecciones-en-ee-uu-ayuda-a-bajar-la-inflacion-a-futuro/",
+   "titulo": "Ministro Quiroz y caída del dólar tras elecciones en EE.UU.: “Ayuda a bajar la inflación a futuro”",
+   "resumen": "El titular de Hacienda también abordó el paro indefinido de camioneros en el Puerto de San Antonio ante las demandas de los transportistas por el encarecimiento de los combustibles.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/05/ministro-hacienda-quiroz--768x428.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T18:20:19.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/salud-inicia-muestreo-de-aguas-en-playas-del-biobio-con-miras-a-la-temporada-estival/",
+   "titulo": "Salud inicia muestreo de aguas en playas del Biobío con miras a la temporada estival",
+   "resumen": "Las evaluaciones permitirán determinar que balnearios estarán habilitados para el baño.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/muestras-aguas-calera-lenga--768x432.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T17:03:26.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/la-moneda-acuso-a-la-oposicion-de-montar-un-circo-politico-con-la-acusacion-constitucional-contra-rabat/",
+   "titulo": "La Moneda acusó a la oposición de montar un “circo político” con la AC contra Rabat",
+   "resumen": "“Cada día que pasa sin presentarse esa acusación constitucional es un argumento más para creer que la oposición con esto solo busca montar una teleserie política”, dijo el vocero, Gonzalo Arenas.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/gonzalo-arenas-vocero-pto-prensa-300x169.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T16:23:25.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/vecinos-de-charrua-ya-cuentan-con-su-primer-box-para-atencion-dental/",
+   "titulo": "Vecinos de Charrúa ya cuentan con su primer box para atención dental",
+   "resumen": "Gracias a la alianza entre el municipio, 3 empresas eléctricas que operan en el sector y los propios vecinos, la posta de salud suma desde ahora un servicio profesional de salud dental.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/box-dental-charrua-cabrero-colbun--300x225.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T16:04:20.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional",
+    "tendencias"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/servicio-nacional-de-reinsercion-social-juvenil-invita-a-responder-consulta-ciudadana-para-fortalecer-trabajo-institucional/",
+   "titulo": "Servicio Nacional de Reinserción Social Juvenil invita a responder consulta ciudadana para fortalecer trabajo institucional",
+   "resumen": "El Servicio Nacional de Reinserción Social Juvenil se encuentra realizando […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Consulta_Ciudadana_reinsercion-social-juvenil-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-04T15:27:47.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/ecosistemassalud-e-innovacion-04-de-noviembre-de-2026/",
+   "titulo": "ECOSISTEMAS,SALUD E INNOVACIÓN 04 DE NOVIEMBRE DE 2026",
+   "resumen": "",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Rodrigo-Gonzalez-768x432.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T15:00:21.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "podcasts"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/whatsapp-ya-prueba-los-mensajes-programados/",
+   "titulo": "WhatsApp ya prueba los mensajes programados:",
+   "resumen": "Cómo enviarlos y cuándo estarán disponibles en todos los celulares.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/WhatsApp-mensajes-programados--768x432.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T14:23:28.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.radioudec.cl/nuevo-subsidio-del-minvu-entregara-hasta-16-millones-477-a-familias-de-sectores-medios-para-comprar-viviendas/",
+   "titulo": "Nuevo subsidio del MINVU entregará hasta $16 millones a familias para comprar viviendas",
+   "resumen": "Hasta a $16 millones 477 mil podrán acceder las familias […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/tramooo-300x200.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-04T13:48:23.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/la-derrota-de-trump-la-aplastante-victoria-de-los-democratas-en-ee-uu-en-cifras/",
+   "titulo": "La derrota de Trump: La aplastante victoria de los demócratas en EE. UU. en cifras",
+   "resumen": "La alta participación en la votación anticipada, los miles de millones recaudados y los avances entre los jóvenes y los latinos marcaron el resultado; los demócratas obtuvieron victorias en estados tradicionalmente republicanos.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/camara-senado-usa--768x453.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T13:00:10.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/elon-musk-bromea-sobre-la-derrota-republicana-tras-gastar-millones-en-el-partido/",
+   "titulo": "Elon Musk bromea sobre la derrota republicana tras gastar millones en el partido",
+   "resumen": "Los demócratas obtuvieron el control del Congreso, con mayoría en el Senado y la Cámara de Representantes.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/elon-musk-se-burla-derrota-parlamentaria--300x209.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T11:17:41.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/mesa-de-noticias-04-de-noviembre-2026/",
+   "titulo": "MESA DE NOTICIAS 04 DE NOVIEMBRE DE 2026",
+   "resumen": "",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/09/BANNER-MESA-DE-NOTICIAS-768x432.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T10:00:56.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "podcasts"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/dpr-s-biobio-expuso-celeridad-en-designacion-de-nueva-autoridad/",
+   "titulo": "DPR (s) Biobío expuso celeridad en designación de nueva autoridad",
+   "resumen": "“Debemos contar con todos y no desperdiciar a ningún elemento.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/juan-pablo-mellado-dpr-biobio-768x426.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T07:33:06.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/desarrolla-biobio-abre-la-licitacion-para-las-proximas-tres-ediciones-del-festival-rec/",
+   "titulo": "Desarrolla Biobío abre la licitación para las próximas tres ediciones del Festival REC",
+   "resumen": "Presupuesto basal supera los $3 mil millones y el objetivo es que la versión 2027 sea en marzo",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/festival-rec-2026-768x428.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T07:04:02.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/declaran-zona-de-riesgo-sanitario-en-arauco-por-afectacion-de-temporales/",
+   "titulo": "Declaran zona de riesgo sanitario en Arauco por afectación de temporales",
+   "resumen": "Resolución de la Seremi de Salud busca facilitar la intervención en sectores complejos",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/arauco-declarada-zona-de-riesgo-sanitario-768x407.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-04T07:00:17.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/oposicion-mantiene-ac-contra-rabat-sin-fecha-de-presentacion-tras-emplazamiento-de-presidente-kast/",
+   "titulo": "Oposición mantiene AC contra Rabat sin fecha de presentación tras emplazamiento de Presidente Kast",
+   "resumen": "“Como oposición no vamos a pisar el palito, no vamos a caer en esta provocación del presidente”, replicaron.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/ac-oposicion-ministro-rabat-768x432.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-03T22:02:52.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/varios-paises-europeos-se-ven-afectados-por-ciberataques-a-los-supermercados/",
+   "titulo": "Varios países europeos se ven afectados por ciberataques a los supermercados",
+   "resumen": "Hasta el momento nadie se ha reivindicado por estos ataques, que obligaron a desechar grandes cantidades de productos.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/bandera-union-europea--768x450.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-03T19:58:05.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/seremi-midesof-informa-como-identificar-a-encuestadores-oficiales-de-la-casen-2026-en-biobio/",
+   "titulo": "MIDESOF informa cómo identificar a encuestadores oficiales de la CASEN 2026",
+   "resumen": "En Pedro del Río y con 156 encuestadores desplegados en la región.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/encuestadores-casen-2026--768x512.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-03T19:38:51.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/kast-reafirmo-apoyo-a-rabat-y-desafio-a-la-oposicion-por-acusacion-constitucional/",
+   "titulo": "Kast reafirmó apoyo a Rabat y desafió a la oposición por acusación constitucional",
+   "resumen": "“Que la presenten y que se vote”. Presidente dijo que el ministro de Justicia cuenta con su confianza, luego de las rebajas de condenas a culpables de abusos sexuales a menores. “La responsabilidad que es política, no de derecho, la asumí yo”, dijo.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/gira-pdte-kast-europa--768x432.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-03T18:44:25.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.radioudec.cl/ley-de-incendios-avanza-al-senado-diputados-rivas-bassa-gonzalez-y-caceres-exigen-al-gobierno-acelerar-su-tramitacion/",
+   "titulo": "Ley de Incendios avanza al Senado: diputados Rivas, Bassa, González y Cáceres exigen al Gobierno acelerar su tramitación",
+   "resumen": "La Sala de la Cámara despachó el informe de la […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-2.23.33-PM-768x453.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-03T18:34:34.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/senales-del-futuro-03-de-noviembre-2026/",
+   "titulo": "SEÑALES DEL FUTURO 03 DE NOVIEMBRE 2026",
+   "resumen": "",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Martin-Jacques-Coper-768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-03T15:00:20.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "podcasts"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.radioudec.cl/coaniquem-entrega-nueva-version-de-su-manual-de-quemaduras-a-equipos-de-salud-publica-en-biobio/",
+   "titulo": "Coaniquem entrega nueva versión de Manual de Quemaduras a equipos de salud pública en Biobío",
+   "resumen": "En medio de la gira nacional que realiza Coaniquem, el […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/manual-coaniquem-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-03T14:58:48.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional",
+    "tendencias"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/trump-anuncia-un-recorte-anual-de-3-800-millones-de-dolares-en-ayuda-a-israel/",
+   "titulo": "Trump anuncia un recorte anual de 3.800 millones de dólares en ayuda a Israel",
+   "resumen": "El presidente estadounidense afirmó que el país está de acuerdo con poner fin al programa.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/trump-netanyahu-mantienen-estrecha-alianza-768x326.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-03T14:50:30.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "internacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/este-jueves-comienza-la-feria-regional-de-artesanias-2026-en-quillon/",
+   "titulo": "Este jueves comienza la Feria Regional de Artesanías 2026 en Quillón",
+   "resumen": "Con más de 40 expositores de Ñuble: La iniciativa, organizada y financiada por la Seremi de las Culturas, las Artes y el Patrimonio de Ñuble, se desarrollará los días 5, 6 y 7 de noviembre en la Costanera de la Laguna Avendaño, en el marco del Campeonato…",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/artesania-quillon-feria-300x199.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-03T14:09:15.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/m8zart-ensamble-de-la-orquesta-sinfonica-udec-explora-el-lado-mas-ludico-y-popular-del-compositor/",
+   "titulo": "M8ZART: Ensamble de la Orquesta Sinfónica UdeC explora el lado más lúdico y popular del compositor",
+   "resumen": "El Ensamble de la Orquesta Sinfónica de la Universidad de […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Ensamble-Orquesta-Sinfonica-UdeC-768x431.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-03T13:12:38.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/municipalidades-refuerzan-medidas-por-alza-de-zancudos-en-el-gran-concepcion/",
+   "titulo": "Municipalidades refuerzan medidas por alza de zancudos en el Gran Concepción",
+   "resumen": "Ante las denuncias, las comunas de Talcahuano, Hualpén y Concepción han preparado distintas estrategias. Estas consideran el aplicar larvicidas no tóxicos para disminuir su presencia.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/zancudos-en-ccp--768x364.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-03T12:50:35.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/biobio-finalizo-en-el-segundo-lugar-de-los-juegos-de-la-araucania/",
+   "titulo": "Biobío finalizó en el segundo lugar de los Juegos de La Araucanía",
+   "resumen": "Una destacada actuación cumplió la delegación de la región del […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/IMG_9891-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-03T12:34:43.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/mesa-de-noticias-03-de-noviembe-de-2026/",
+   "titulo": "MESA DE NOTICIAS 03 DE NOVIEMBE DE 2026",
+   "resumen": "",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/09/BANNER-MESA-DE-NOTICIAS-768x432.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-03T10:00:16.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "podcasts"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/biobio-finalizo-en-el-segundo-lugar-de-los-juegos-de-la-araucania/",
+   "titulo": "Biobío finalizó en el segundo lugar de los Juegos de la Araucanía",
+   "resumen": "Delegación regional se instaló en el podio en los Binacionales Los Ríos 2026 con gran actuación de los deportes colectivos.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/deportistas.biobio-juegos-binacionales--300x197.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-03T07:18:11.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/02/camara-aprueba-admisibilidad-de-proyecto-que-busca-que-las-afp-respondan-por-perdidas/",
+   "titulo": "Cámara aprueba admisibilidad de proyecto que busca que las AFP respondan por pérdidas",
+   "resumen": "La iniciativa, impulsada por el diputado Luis Cuello y el senador Daniel Núñez, apunta a que las administradoras restituyan con su propio patrimonio las pérdidas registradas entre enero y septiembre de 2026.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/camara-diputados-chile--768x432.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-02T23:07:41.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/02/autoridades-llaman-a-la-prevencion-ante-pronostico-de-tormentas-electricas-y-vientos-en-nuble/",
+   "titulo": "Ñuble: Autoridades llaman a prevenir ante pronóstico de tormentas y fuertes vientos",
+   "resumen": "SENAPRED declaró Alerta Temprana Preventiva Regional ante el pronóstico de tormentas eléctricas para este lunes 2 y martes 3 de noviembre en sectores precordilleranos y cordilleranos, además de vientos con rachas de hasta 50 km/h en el litoral de Ñuble para…",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/10/tormenta-electrica-rm--768x438.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-02T20:45:23.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/biobio-reporta-18-menos-de-victimas-de-homicidios-en-comparacion-a-2025/",
+   "titulo": "Biobío reporta 18% menos de víctimas de homicidios en comparación a 2025",
+   "resumen": "Una disminución del 18% en las víctimas de homicidios respecto […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/7-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-02T18:39:38.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/talcahuano-reactiva-diagnostico-comunal-de-seguridad-publica/",
+   "titulo": "Talcahuano reactiva diagnóstico comunal de seguridad pública",
+   "resumen": "Con la finalidad de construir una radiografía actualizada sobre las […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/thno-768x574.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-02T16:07:29.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/seremi-de-gobierno-y-oficialismo-local-siempre-hay-diferencias-pero-lo-importante-es-proyectarse/",
+   "titulo": "Seremi de Gobierno y oficialismo local: “Siempre hay diferencias, pero lo importante es proyectarse”",
+   "resumen": "El seremi de Gobierno, Daniel Pacheco, se refirió al trabajo […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/05/daniel-pacheco-768x576.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-02T15:11:47.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/ley-ricarte-soto-proyecto-de-presupuesto-2027-reduce-el-fondo-para-diagnosticos-y-tratamientos-de-alto-costo-en-14/",
+   "titulo": "Ley Ricarte Soto: Proyecto de Presupuesto 2027 reduce el Fondo para Diagnósticos y Tratamientos de Alto Costo en 14%",
+   "resumen": "En menos de 10 días, más de 10 mil personas […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/ricarte-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-02T14:43:17.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "nacional"
+   ],
+   "local": false
+  },
+  {
+   "url": "https://www.radioudec.cl/morgan-pearson-y-marta-pintanel-fueron-los-grandes-ganadores-de-la-copa-mundial-de-triatlon-san-pedro-de-la-paz-2026/",
+   "titulo": "Morgan Pearson y Marta Pintanel fueron los grandes ganadores de la Copa Mundial de Triatlón San Pedro de la Paz 2026",
+   "resumen": "El estadounidense Morgan Pearson y la española Marta Pintanel se […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/triatlon-7-768x512.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-02T14:03:01.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/del-04-al-07-de-noviembre-festival-de-todas-las-aguas-reunira-ciencia-arte-y-comunidad-en-concepcion/",
+   "titulo": "Del 04 al 07 de noviembre: Festival de Todas las Aguas reunirá ciencia, arte y comunidad en Concepción",
+   "resumen": "Desde el 4 al 7 de noviembre se realizará el […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/DJI_0397-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-02T13:50:10.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  }
+ ]
+}
