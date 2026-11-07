@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T13:50:19.674Z",
+ "generado": "2026-11-07T14:10:20.809Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
+    "enlaces": 149,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -1514,20 +1514,6 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/morgan-pearson-y-marta-pintanel-fueron-los-grandes-ganadores-de-la-copa-mundial-de-triatlon-san-pedro-de-la-paz-2026/",
-   "titulo": "Morgan Pearson y Marta Pintanel fueron los grandes ganadores de la Copa Mundial de Triatlón San Pedro de la Paz 2026",
-   "resumen": "El estadounidense Morgan Pearson y la española Marta Pintanel se […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/triatlon-7-768x512.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-02T14:03:01.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
