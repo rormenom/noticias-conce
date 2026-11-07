@@ -255,9 +255,10 @@ async function permitido(url) {
 const diag = Object.fromEntries(SOURCES.map(s => [s.id, { paginas: 0, enlaces: 0, leidas: 0, errores: 0, robots: 0 }]));
 
 async function leerWP(src) {
-  const url = `${src.base}/wp-json/wp/v2/posts?per_page=50&_embed=1`;
+  // Pedido liviano: 30 notas y solo foto + secciones (El Conquistador se demoraba con el pedido completo)
+  const url = `${src.base}/wp-json/wp/v2/posts?per_page=30&_embed=wp:featuredmedia,wp:term&_fields=link,title,excerpt,date,date_gmt,_links,_embedded`;
   if (!(await permitido(url))) throw new Error('robots.txt no permite leer la API');
-  const posts = JSON.parse((await get(url, { accept: 'application/json', timeout: 30000 })).text);
+  const posts = JSON.parse((await get(url, { accept: 'application/json', timeout: 45000 })).text);
   if (!Array.isArray(posts)) throw new Error('respuesta inesperada de la API');
   const items = [];
   for (const p of posts) {
