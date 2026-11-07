@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T20:00:26.384Z",
+ "generado": "2026-11-07T20:10:21.912Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 59,
+    "enlaces": 150,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/07/joven-de-18-anos-es-asesinado-en-nacimiento-y-presunto-autor-se-entrega-a-carabineros",
+   "titulo": "Joven de 18 años muere asesinado en Nacimiento; presunto responsable se entrega a Carabineros",
+   "resumen": "Un joven de 18 años murió tras recibir disparos en la comuna de Nacimiento. El homicidio se produjo durante la madrugada de este sábado en villa Los Presidentes. El Ministerio Público confirmó que el fiscal Rodrigo García y el Equipo Contra el Crimen…",
+   "imagen": "https://media.canal9.cl/2026/11/joven-de-18-anos-es-asesinado-a-disparos-en-nacimiento-presunto-culpable-se-entrego-a-carabineros-768x405.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-07T20:10:21.912Z",
+   "visto": "2026-11-07T20:10:21.912Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/07/joven-de-18-anos-es-asesinado-en-nacimiento-y-presunto-autor-se-entrega-a-carabineros.shtml",
    "titulo": "Joven de 18 años es asesinado en Nacimiento y presunto autor se entrega a Carabineros",
@@ -166,10 +180,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/chiguayante-concejales-cuestionan-ante-contraloria-el-incremento-de-gasto-en-personal-a-contrata.html",
-   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el incremento de gasto en personal a contrata",
+   "url": "https://www.tvu.cl/prensa/2026/11/07/aumenta-preocupacion-en-concepcion-por-personas-en-situacion-de-calle-descompensadas-por-salud-mental.html",
+   "titulo": "Aumenta preocupación en Concepción por personas en situación de calle descompensadas por salud mental",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-4-fachada-municipalidad-de-chiguayante-foto-diario-concepci%C3%B3n.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-6-joven-en-situacion-de-calle-foto-carolina.jpg-850x500.jpeg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:10:19.290Z",
@@ -180,10 +194,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/aumenta-preocupacion-en-concepcion-por-personas-en-situacion-de-calle-descompensadas-por-salud-mental.html",
-   "titulo": "Aumenta preocupación en Concepción por personas en situación de calle descompensadas por salud mental",
+   "url": "https://www.tvu.cl/prensa/2026/11/07/chiguayante-concejales-cuestionan-ante-contraloria-el-incremento-de-gasto-en-personal-a-contrata.html",
+   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el incremento de gasto en personal a contrata",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-6-joven-en-situacion-de-calle-foto-carolina.jpg-850x500.jpeg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-4-fachada-municipalidad-de-chiguayante-foto-diario-concepci%C3%B3n.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:10:19.290Z",
@@ -278,20 +292,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/morados-deben-bajar-a-everton-para-seguir-por-el-sueno-de-sudamericana.html",
-   "titulo": "Morados deben bajar a Everton para seguir por el sueño de Sudamericana",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Deportes-Concepcion-vs-Everton-foto-Lorena-Vecchio-e1794015944636.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
    "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
    "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
@@ -344,6 +344,20 @@
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/morados-deben-bajar-a-everton-para-seguir-por-el-sueno-de-sudamericana.html",
+   "titulo": "Morados deben bajar a Everton para seguir por el sueño de Sudamericana",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Deportes-Concepcion-vs-Everton-foto-Lorena-Vecchio-e1794015944636.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -488,10 +502,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/ecomercado-solidario-chiguayante-fosis.html",
-   "titulo": "FOSIS inaugura EcoMercado Solidario en Chiguayante que apoyará a 300 familias",
-   "resumen": "La iniciativa recupera alimentos de supermercados y ferias para entregarlos gratuitamente.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO-5-e1793992949544.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/agua-potable-rural-huallerehue-santa-juana.html",
+   "titulo": "Santa Juana: 283 familias de Huallerehue acceden a red de agua potable rural tras años de espera",
+   "resumen": "Con una inversión sectorial de $2.630 millones, el proyecto en Huallerehue sumó 172 arranques y proyecta abastecer a 1.556 personas a 20 años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/agua-potable-rural-huallerehue-santa-juana-e1794012673651.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -502,10 +516,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/agua-potable-rural-huallerehue-santa-juana.html",
-   "titulo": "Santa Juana: 283 familias de Huallerehue acceden a red de agua potable rural tras años de espera",
-   "resumen": "Con una inversión sectorial de $2.630 millones, el proyecto en Huallerehue sumó 172 arranques y proyecta abastecer a 1.556 personas a 20 años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/agua-potable-rural-huallerehue-santa-juana-e1794012673651.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/ecomercado-solidario-chiguayante-fosis.html",
+   "titulo": "FOSIS inaugura EcoMercado Solidario en Chiguayante que apoyará a 300 familias",
+   "resumen": "La iniciativa recupera alimentos de supermercados y ferias para entregarlos gratuitamente.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO-5-e1793992949544.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -1556,20 +1570,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/municipalidades-refuerzan-medidas-por-alza-de-zancudos-en-el-gran-concepcion/",
-   "titulo": "Municipalidades refuerzan medidas por alza de zancudos en el Gran Concepción",
-   "resumen": "Ante las denuncias, las comunas de Talcahuano, Hualpén y Concepción han preparado distintas estrategias. Estas consideran el aplicar larvicidas no tóxicos para disminuir su presencia.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/zancudos-en-ccp--768x364.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-03T12:50:35.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
