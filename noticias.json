@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T16:10:19.290Z",
+ "generado": "2026-11-07T16:20:18.684Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -47,7 +47,7 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 19,
+    "enlaces": 20,
     "leidas": 3,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 149,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -82,14 +82,42 @@
  ],
  "items": [
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/ministra-parot-sobre-la-discapacidad-una-falta-de-acceso-puede-significar-dejar-de-ejercer-derechos.html",
-   "titulo": "Ministra Parot sobre la discapacidad: “Una falta de acceso puede significar dejar de ejercer derechos”",
+   "url": "https://www.tvu.cl/prensa/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
+   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg",
+   "imagen": "https://www.tvu.cl/_templates/globals/img/placeholder.png",
    "fuente": "TVU",
    "fuenteId": "tvu",
-   "fecha": "2026-11-07T16:10:19.290Z",
-   "visto": "2026-11-07T16:10:19.290Z",
+   "fecha": "2026-11-07T16:20:18.684Z",
+   "visto": "2026-11-07T16:20:18.684Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/07/alianza-francesa-prepara-detalles-de-una-nueva-version-de-la-fiesta-de-la-musica.html",
+   "titulo": "Alianza Francesa prepara detalles de una nueva versión de la “Fiesta de la Música”",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-14-version-fiesta-de-la-musica-foto-archivo-Fiesta-de-la-M%C3%BAsica-2017.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-07T16:20:18.684Z",
+   "visto": "2026-11-07T16:20:18.684Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps-2.html",
+   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-lactancia-materna-foto-cc.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-07T16:20:18.684Z",
+   "visto": "2026-11-07T16:20:18.684Z",
    "cats": [
     "regional"
    ],
@@ -100,6 +128,20 @@
    "titulo": "Aumenta preocupación en Concepción por personas en situación de calle descompensadas por salud mental",
    "resumen": "",
    "imagen": "https://assets.tvu.cl/2026/11/pag-6-joven-en-situacion-de-calle-foto-carolina.jpg-850x500.jpeg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-07T16:10:19.290Z",
+   "visto": "2026-11-07T16:10:19.290Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/07/ministra-parot-sobre-la-discapacidad-una-falta-de-acceso-puede-significar-dejar-de-ejercer-derechos.html",
+   "titulo": "Ministra Parot sobre la discapacidad: “Una falta de acceso puede significar dejar de ejercer derechos”",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:10:19.290Z",
@@ -390,20 +432,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/alejandro-reyes-director-suplente-caj-biobio.html",
-   "titulo": "Alejandro Reyes asume como director general suplente de la CAJ Biobío",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/20261105_2ea8b62626d6.jpg-e1793981738250.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/udec-logra-triunfo-daniels-saravia.html",
    "titulo": "UdeC logra el 2-0: destape de Daniels y explosión de Saravia",
    "resumen": "Básquetbol auricielo se impuso dos veces consecutivas al Ancud de Cooper y Morales gracias a su intensidad y profundidad de plantel. El próximo viernes buscarán entrar a semifinales en la isla.",
@@ -436,6 +464,20 @@
    "titulo": "Teletón llega a la cárcel del Biobío: destacan actividades de internas como clave para la reinserción social",
    "resumen": "En honor al espíritu de la Teletón, su mascota oficial fue a visitar a las reclusas del recinto penitenciario del Biobío",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-06-at-12.07.44-e1793990791429.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/gobierno-anuncia-recursos-caminos-santa-juana.html",
+   "titulo": "Anuncian plan de recuperación de zonas afectadas de Santa Juana tras intensas lluvias",
+   "resumen": "El Gobierno destinó más de $346 millones a través de la Subdere para habilitar espacios públicos y mejorar caminos rurales afectados por emergencias climáticas en Santa Juana.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-5.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -516,14 +558,14 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/gobierno-anuncia-recursos-caminos-santa-juana.html",
-   "titulo": "Anuncian plan de recuperación de zonas afectadas de Santa Juana tras intensas lluvias",
-   "resumen": "El Gobierno destinó más de $346 millones a través de la Subdere para habilitar espacios públicos y mejorar caminos rurales afectados por emergencias climáticas en Santa Juana.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-5.png",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/alejandro-reyes-director-suplente-caj-biobio.html",
+   "titulo": "Alejandro Reyes asume como director general suplente de la CAJ Biobío",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/20261105_2ea8b62626d6.jpg-e1793981738250.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
+   "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "regional"
    ],
