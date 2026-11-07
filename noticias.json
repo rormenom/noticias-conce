@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07T22:40:18.865Z",
+ "generado": "2026-11-07T22:50:20.082Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 61,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/07/concepcion-no-se-rinde-supero-a-everton-en-vina-y-sigue-luchando-por-volver-a-copa-internacional",
+   "titulo": "Concepción venció a Everton en Viña y mantiene viva la opción de clasificar a una copa internacional",
+   "resumen": "Deportes Concepción mantiene viva su ilusión. Este sábado, el conjunto que conduce el ‘Nano’ Díaz logró un triunfo clave frente a Everton en Viña del Mar y se instaló de lleno en la lucha por clasificar a un torneo internacional. El ‘León de Collao’ se impuso…",
+   "imagen": "https://media.canal9.cl/2026/11/everton-concepcion-la-liga-de-primera-768x405.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-07T22:50:20.082Z",
+   "visto": "2026-11-07T22:50:20.082Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/07/concepcion-no-se-rinde-supero-a-everton-en-vina-y-sigue-luchando-por-volver-a-copa-internacional.shtml",
    "titulo": "Concepción no se rinde: superó a Everton en Viña y sigue luchando por volver a copa internacional",
@@ -320,6 +334,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
+   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
+   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
    "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
    "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
@@ -344,20 +372,6 @@
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
-   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
-   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   },
@@ -474,20 +488,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pastoreo-estrategico-cabras-prevencion-incendios-florida.html",
-   "titulo": "FOTOS | Con cabras y manejo comunitario: aplican pastoreo preventivo para frenar el fuego en Florida",
-   "resumen": "Familias de Pantanal recibieron ganado caprino entrenado para consumir vegetación seca y crear cortafuegos naturales antes del verano.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pastoreo-estrategico-cabras-prevencion-incendios-florida-1-e1794004898461.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/agua-potable-rural-huallerehue-santa-juana.html",
    "titulo": "Santa Juana: 283 familias de Huallerehue acceden a red de agua potable rural tras años de espera",
    "resumen": "Con una inversión sectorial de $2.630 millones, el proyecto en Huallerehue sumó 172 arranques y proyecta abastecer a 1.556 personas a 20 años.",
@@ -548,6 +548,20 @@
    "titulo": "Minvu traspasará más de $336 millones para la construcción de espacio cultural y artístico en San Rosendo",
    "resumen": "Inversión de $336 millones del Minvu permitirá levantar un recinto cultural y multiuso de 228 m² para organizaciones y agrupaciones locales.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/Sala-de-Ensayos-San-Rosendo-e1794007516553.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pastoreo-estrategico-cabras-prevencion-incendios-florida.html",
+   "titulo": "FOTOS | Con cabras y manejo comunitario: aplican pastoreo preventivo para frenar el fuego en Florida",
+   "resumen": "Familias de Pantanal recibieron ganado caprino entrenado para consumir vegetación seca y crear cortafuegos naturales antes del verano.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pastoreo-estrategico-cabras-prevencion-incendios-florida-1-e1794004898461.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
