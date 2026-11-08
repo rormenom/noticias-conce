@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T22:50:19.800Z",
+ "generado": "2026-11-08T23:00:26.265Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 144,
-    "leidas": 61,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/lota-sumo-quinto-triunfo-consecutivo-y-es-lider-exclusivo-fuera-de-todo-peligro.html",
+   "titulo": "Lota sumó quinto triunfo consecutivo y es líder exclusivo fuera de todo peligro",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/lota-colina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T23:00:26.265Z",
+   "visto": "2026-11-08T23:00:26.265Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/union-la-calera-derroto-con-lo-justo-a-huachipato-sale-del-fondo-y-sigue-sonando-con-la-salvacion.shtml",
    "titulo": "Unión La Calera derrotó con lo justo a Huachipato, sale del fondo y sigue soñando con la salvación",
@@ -124,20 +138,6 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
-   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-08T22:20:20.870Z",
-   "visto": "2026-11-08T22:20:20.870Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/08/hacienda-juntas-el-latido-historico-que-une-el-biobio-con-el-desierto-renace-como-icono-de-lujo-y-sostenibilidad-en-el-valle-del-limari.html",
    "titulo": "Hacienda Juntas: El latido histórico que une el Biobío con el desierto renace como ícono de lujo y sostenibilidad en el Valle del Limarí",
    "resumen": "",
@@ -149,6 +149,20 @@
    "cats": [
     "regional",
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
+   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-08T22:20:20.870Z",
+   "visto": "2026-11-08T22:20:20.870Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1172,20 +1186,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/lilas-acereros-vecinos-guerra-sexto-puesto.html",
-   "titulo": "Lilas y acereros: vecinos en la guerra por el sexto puesto",
-   "resumen": "Ambos quieren entrar a la Copa Sudamericana 2027 y para ello deben alcanzar a Palestino. ¿Qué les queda en el camino y cómo llegan Deportes Concepción y Huachipato a esta recta final?",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/05/pag-15-Aldrix-Jara-Deportes-Concepcion-vs-Huachipato-foto-carolina-e1793965495179.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/fallece-sebastian-lelio-director-oscar-visita-biobio-nuble.html",
    "titulo": "Luto en el cine chileno: sorpresivamente fallece Sebastián Lelio, director ganador del Oscar que deja huella en Biobío y Ñuble",
    "resumen": "El cineasta nacional y ganador de un premio de la Academia falleció en su vivienda a los 52 años.",
@@ -1336,6 +1336,20 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/lilas-acereros-vecinos-guerra-sexto-puesto.html",
+   "titulo": "Lilas y acereros: vecinos en la guerra por el sexto puesto",
+   "resumen": "Ambos quieren entrar a la Copa Sudamericana 2027 y para ello deben alcanzar a Palestino. ¿Qué les queda en el camino y cómo llegan Deportes Concepción y Huachipato a esta recta final?",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/05/pag-15-Aldrix-Jara-Deportes-Concepcion-vs-Huachipato-foto-carolina-e1793965495179.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
