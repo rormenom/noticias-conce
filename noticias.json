@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T22:10:20.491Z",
+ "generado": "2026-11-08T22:20:20.870Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 20,
-    "leidas": 0,
+    "enlaces": 19,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,70 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 13,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
+   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-08T22:20:20.870Z",
+   "visto": "2026-11-08T22:20:20.870Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/08/banco-bci-concepcion-mas-de-3-mil-millones-robados-desde-las-bovedas-a-3-cuadras-de-carabineros.html",
+   "titulo": "Banco BCI Concepción: Más de $3 mil millones robados desde las bóvedas a 3 cuadras de Carabineros",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-9-850x500.png",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-08T22:20:20.870Z",
+   "visto": "2026-11-08T22:20:20.870Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/08/hacienda-juntas-el-latido-historico-que-une-el-biobio-con-el-desierto-renace-como-icono-de-lujo-y-sostenibilidad-en-el-valle-del-limari.html",
+   "titulo": "Hacienda Juntas: El latido histórico que une el Biobío con el desierto renace como ícono de lujo y sostenibilidad en el Valle del Limarí",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-9-hacienda-juntas-foto-cedida.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-08T22:20:20.870Z",
+   "visto": "2026-11-08T22:20:20.870Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/08/es-ridiculo-que-los-insumos-esten-ahi-exdirectivo-del-ssc-cuestiona-gestion-del-hospital-traumatologico.html",
+   "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-4-dependencia-hospital-traumatologico-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-08T22:20:20.870Z",
+   "visto": "2026-11-08T22:20:20.870Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/08/choque-entre-camioneta-y-motocicleta-en-alto-bio-bio-deja-un-fallecido",
    "titulo": "Un accidente entre una camioneta y una moto en Alto Bío Bío termina con una víctima fatal",
@@ -110,10 +167,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/puede-valer-un-titulo-el-golazo-de-arturo-vidal-a-nublense-que-esta-consagrando-a-colo-colo-en-liga",
-   "titulo": "Colo Colo derrotó a Ñublense con un gol en el cierre y conquistó su título número 35 en la Liga de Primera 2026",
-   "resumen": "Colo Colo conquistó este domingo el título de la Liga de Primera 2026, tras vencer por 2-1 a Ñublense con un tanto en los minutos finales. El encuentro, correspondiente a la fecha 27 del torneo, se disputó en el Estadio Bicentenario ‘Nelson Oyarzún’ de…",
-   "imagen": "https://media.canal9.cl/2026/11/colo-colo-campeon-liga-de-primera-768x405.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/08/el-desahogo-del-tano-ortiz-logro-su-primer-titulo-como-dt-y-termino-empapado-en-plena-entrevista",
+   "titulo": "Ortiz celebró su primer título como técnico y acabó empapado durante una entrevista",
+   "resumen": "La emoción invadió a Fernando Ortiz cuando Colo Colo aseguró el título de la Liga de Primera 2026. El gol de Marcos Bolados en los minutos finales ante Ñublense encendió los festejos de los albos y, además, ayudó al técnico argentino a dejar atrás una…",
+   "imagen": "https://media.canal9.cl/2026/11/colo-colo-fernando-ortiz-campeon-1-768x405.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-08T22:10:20.491Z",
@@ -124,10 +181,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/el-desahogo-del-tano-ortiz-logro-su-primer-titulo-como-dt-y-termino-empapado-en-plena-entrevista",
-   "titulo": "Ortiz celebró su primer título como técnico y acabó empapado durante una entrevista",
-   "resumen": "La emoción invadió a Fernando Ortiz cuando Colo Colo aseguró el título de la Liga de Primera 2026. El gol de Marcos Bolados en los minutos finales ante Ñublense encendió los festejos de los albos y, además, ayudó al técnico argentino a dejar atrás una…",
-   "imagen": "https://media.canal9.cl/2026/11/colo-colo-fernando-ortiz-campeon-1-768x405.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/08/puede-valer-un-titulo-el-golazo-de-arturo-vidal-a-nublense-que-esta-consagrando-a-colo-colo-en-liga",
+   "titulo": "Colo Colo derrotó a Ñublense con un gol en el cierre y conquistó su título número 35 en la Liga de Primera 2026",
+   "resumen": "Colo Colo conquistó este domingo el título de la Liga de Primera 2026, tras vencer por 2-1 a Ñublense con un tanto en los minutos finales. El encuentro, correspondiente a la fecha 27 del torneo, se disputó en el Estadio Bicentenario ‘Nelson Oyarzún’ de…",
+   "imagen": "https://media.canal9.cl/2026/11/colo-colo-campeon-liga-de-primera-768x405.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-08T22:10:20.491Z",
@@ -1576,20 +1633,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-05T19:19:28.000Z",
    "visto": "2026-11-07T02:17:09.096Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/mascotas-recibieron-atencion-veterinaria-gratuita-en-barrios-de-lirquen-afectados-por-los-incendios/",
-   "titulo": "Mascotas recibieron atención veterinaria gratuita en barrios de Lirquén afectados por los incendios",
-   "resumen": "Cerca de 50 perros y gatos recibieron atención veterinaria gratuita […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/3b9ed28c-af30-4d1e-ad8e-520d4be51c45-768x576.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-05T15:53:28.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
    ],
