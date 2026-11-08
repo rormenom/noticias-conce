@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T23:30:23.883Z",
+ "generado": "2026-11-08T23:40:18.796Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 144,
-    "leidas": 60,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/union-la-calera-derroto-con-lo-justo-a-huachipato-sale-del-fondo-y-sigue-sonando-con-la-salvacion",
+   "titulo": "Unión La Calera vence por la mínima a Huachipato y mantiene viva su lucha por la permanencia",
+   "resumen": "Unión La Calera dio este domingo un paso clave en su objetivo de seguir en la Primera División del fútbol chileno. En el estadio Nicolás Chahuán, el equipo cementero venció 1-0 a Huachipato por la fecha 27 de la Liga de Primera 2026. El conjunto dirigido por…",
+   "imagen": "https://media.canal9.cl/2026/11/la-calera-huachipato-liga-de-primera-768x405.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T23:40:18.796Z",
+   "visto": "2026-11-08T23:40:18.796Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/irreconocible-huachipato-se-farrea-entrar-en-zona-de-copa.html",
    "titulo": "Irreconocible Huachipato se farrea entrar en zona de copa",
@@ -152,20 +166,6 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/es-ridiculo-que-los-insumos-esten-ahi-exdirectivo-del-ssc-cuestiona-gestion-del-hospital-traumatologico.html",
-   "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-4-dependencia-hospital-traumatologico-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-08T22:20:20.870Z",
-   "visto": "2026-11-08T22:20:20.870Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/08/hacienda-juntas-el-latido-historico-que-une-el-biobio-con-el-desierto-renace-como-icono-de-lujo-y-sostenibilidad-en-el-valle-del-limari.html",
    "titulo": "Hacienda Juntas: El latido histórico que une el Biobío con el desierto renace como ícono de lujo y sostenibilidad en el Valle del Limarí",
    "resumen": "",
@@ -177,6 +177,20 @@
    "cats": [
     "regional",
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/08/es-ridiculo-que-los-insumos-esten-ahi-exdirectivo-del-ssc-cuestiona-gestion-del-hospital-traumatologico.html",
+   "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-4-dependencia-hospital-traumatologico-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-08T22:20:20.870Z",
+   "visto": "2026-11-08T22:20:20.870Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
