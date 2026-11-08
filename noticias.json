@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T14:10:19.216Z",
+ "generado": "2026-11-08T14:30:22.350Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
-    "leidas": 60,
+    "enlaces": 148,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/aumenta-a-3-mil-millones-de-pesos-la-cifra-robada-desde-banco-en-centro-de-concepcion",
+   "titulo": "El monto de lo robado desde un banco en el centro de Concepción asciende a lo menos a $3 mil millones",
+   "resumen": "La Fiscalía dio a conocer nuevos antecedentes sobre el millonario asalto perpetrado la madrugada de este domingo en una sucursal del Banco BCI, en el centro de Concepción, región del Bío Bío. Según informó, el monto robado ascendería a -como mínimo- 3.000 mil…",
+   "imagen": "https://media.canal9.cl/2026/10/ahora-c9-768x405.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T14:30:22.350Z",
+   "visto": "2026-11-08T14:30:22.350Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/aumenta-a-3-mil-millones-de-pesos-la-cifra-robada-desde-banco-en-centro-de-concepcion.shtml",
    "titulo": "Aumenta a 3 mil millones de pesos la cifra robada desde banco en centro de Concepción",
@@ -1073,20 +1087,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/servicio-de-salud-concepcion-afirma-que-los-cambios-en-hospitales-son-una-reasignacion-tecnica",
-   "titulo": "Servicio de Salud Concepción afirma que los cambios en hospitales son una reasignación técnica",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-28-a-las-20.55.34.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/06/pronostican-altas-temperaturas-en-zonas-desde-atacama-a-los-lagos-maximas-rondaran-los-35-c",
    "titulo": "Pronostican hasta 35 °C en varias zonas entre Atacama y Los Lagos",
    "resumen": "",
@@ -1119,6 +1119,20 @@
    "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/06/servicio-de-salud-concepcion-afirma-que-los-cambios-en-hospitales-son-una-reasignacion-tecnica",
+   "titulo": "Servicio de Salud Concepción afirma que los cambios en hospitales son una reasignación técnica",
+   "resumen": "",
+   "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-28-a-las-20.55.34.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
