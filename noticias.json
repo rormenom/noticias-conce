@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T10:01:24.606Z",
+ "generado": "2026-11-08T10:30:56.743Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 61,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/fernandez-vial-gano-revancha-pero-no-el-ascenso-mejillones-se-impuso-en-penales-y-subio-a-tercera-a",
+   "titulo": "Fernández Vial ganó el partido de vuelta, pero Mejillones logró el ascenso a Tercera A tras imponerse en penales.",
+   "resumen": "Arturo Fernández Vial cayó este sábado y dejó escapar su primera opción de subir a la Tercera A, cuarta división del fútbol chileno, luego de perder en una dramática definición por penales ante Municipal Mejillones. Después de caer 0-1 en el partido de ida,…",
+   "imagen": "https://media.canal9.cl/2026/11/fernandez-vial-mejillones-ascenso-tercera-a-768x405.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T10:30:56.743Z",
+   "visto": "2026-11-08T10:30:56.743Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/08/exdirectivo-cuestiona-gestion-hospital-traumatologico.html",
    "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
