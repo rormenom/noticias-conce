@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T20:10:18.079Z",
+ "generado": "2026-11-08T20:20:20.242Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/choque-entre-camioneta-y-motocicleta-en-alto-bio-bio-deja-un-fallecido.shtml",
+   "titulo": "Choque entre camioneta y motocicleta en Alto Bío Bío deja un fallecido",
+   "resumen": "Una camioneta y una motocicleta protagonizaron un choque en la Ruta Q-61-R en Alto Bío Bío, región...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011824-choque-entre-camioneta-y-motocicleta-en-alto-bio-bio-deja-un-fallecido.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-08T20:13:57.000Z",
+   "visto": "2026-11-08T20:20:20.242Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/08/puede-valer-un-titulo-el-golazo-de-arturo-vidal-a-nublense-que-esta-consagrando-a-colo-colo-en-liga.shtml",
    "titulo": "Puede valer un título: el golazo de Arturo Vidal a Ñublense que ilusiona a Colo Colo en Liga",
@@ -1695,20 +1709,6 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/05/vecinos-protestan-en-subida-la-gloria-de-talcahuano-acusando-demoras-en-reparacion-de-socavon.shtml",
-   "titulo": "Vecinos protestan en subida La Gloria de Talcahuano acusando demoras en reparación de socavón",
-   "resumen": "Vecinos de los cerros de Talcahuano, región del Bío Bío, protestaron en la subida La Gloria por los compromisos que...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7008161-protesta-talcahuano.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-05T10:58:49.000Z",
-   "visto": "2026-11-07T02:17:09.096Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
