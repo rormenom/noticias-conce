@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T13:30:23.218Z",
+ "generado": "2026-11-08T13:40:19.976Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 60,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/hacienda-juntas-el-latido-historico-que-une-el-biobio-con-el-desierto-renace-como-icono-de-lujo-y-sostenibilidad-en-el-valle-del-limari.html",
+   "titulo": "Hacienda Juntas: El latido histórico que une el Biobío con el desierto renace como ícono de lujo y sostenibilidad en el Valle del Limarí",
+   "resumen": "Durante más de un siglo, el predio de Monte Patria funcionó como la gran despensa de engorda de animales para la minería del Norte Grande con animales traídos desde el Sur, particularmente desde Concepción. Hoy, tras sobrevivir a la Reforma Agraria y…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-hacienda-juntas-foto-cedida.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T13:40:19.976Z",
+   "visto": "2026-11-08T13:40:19.976Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/delincuentes-logran-millonario-robo-en-el-centro-de-concepcion-ingresaron-a-la-boveda-por-forado-del-banco.html",
    "titulo": "Delincuentes logran millonario robo en el centro de Concepción: ingresaron a la bóveda por forado del banco",
@@ -488,20 +502,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/07/chiguayante-contraloria-gasto-personal-contrata.html",
-   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el aumento de gasto en personal a contrata",
-   "resumen": "La presentación busca que el organismo examine las operaciones financieras del municipio. Advierten que la proporción de remuneraciones superó el máximo legal.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/municipalidad-chiguayante-e1794015641690.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/07/sag-controles-carreteros-decomiso-ilegal.html",
    "titulo": "SAG anuncia tolerancia cero al ingreso ilegal de productos agropecuarios",
    "resumen": "Operativos coordinados en cuatro regiones buscan cortar el transporte y la distribución de mercancías que pueden introducir plagas y enfermedades ausentes en Chile. La medida se articula con el nuevo Plan Estratégico de Mosca de la Fruta.",
@@ -516,30 +516,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
-   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/07/chiguayante-contraloria-gasto-personal-contrata.html",
+   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el aumento de gasto en personal a contrata",
+   "resumen": "La presentación busca que el organismo examine las operaciones financieras del municipio. Advierten que la proporción de remuneraciones superó el máximo legal.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/municipalidad-chiguayante-e1794015641690.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
-   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
-   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "cultura"
+    "regional"
    ],
    "local": true
   },
@@ -582,6 +568,34 @@
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
+   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
+   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
+   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -712,10 +726,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/agua-potable-rural-huallerehue-santa-juana.html",
-   "titulo": "Santa Juana: 283 familias de Huallerehue acceden a red de agua potable rural tras años de espera",
-   "resumen": "Con una inversión sectorial de $2.630 millones, el proyecto en Huallerehue sumó 172 arranques y proyecta abastecer a 1.556 personas a 20 años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/agua-potable-rural-huallerehue-santa-juana-e1794012673651.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/sala-ensayos-comunal-san-rosendo-minvu.html",
+   "titulo": "Minvu traspasará más de $336 millones para la construcción de espacio cultural y artístico en San Rosendo",
+   "resumen": "Inversión de $336 millones del Minvu permitirá levantar un recinto cultural y multiuso de 228 m² para organizaciones y agrupaciones locales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Sala-de-Ensayos-San-Rosendo-e1794007516553.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -726,10 +740,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/sala-ensayos-comunal-san-rosendo-minvu.html",
-   "titulo": "Minvu traspasará más de $336 millones para la construcción de espacio cultural y artístico en San Rosendo",
-   "resumen": "Inversión de $336 millones del Minvu permitirá levantar un recinto cultural y multiuso de 228 m² para organizaciones y agrupaciones locales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Sala-de-Ensayos-San-Rosendo-e1794007516553.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/agua-potable-rural-huallerehue-santa-juana.html",
+   "titulo": "Santa Juana: 283 familias de Huallerehue acceden a red de agua potable rural tras años de espera",
+   "resumen": "Con una inversión sectorial de $2.630 millones, el proyecto en Huallerehue sumó 172 arranques y proyecta abastecer a 1.556 personas a 20 años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/agua-potable-rural-huallerehue-santa-juana-e1794012673651.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -758,20 +772,6 @@
    "titulo": "Tras más de 10 años de proceso: Chiguayante inaugurará su nueva Biblioteca Municipal",
    "resumen": "La nueva Biblioteca Municipal de Chiguayante abrirá sus puertas a la comunidad el próximo lunes 16 de noviembre, tras la habilitación de un espacio que recupera parte de las antiguas bodegas de la fábrica textil Caupolicán y pone en valor el patrimonio…",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/images-7.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/teleton-complejo-penitenciario-biobio-internas-reinsercion.html",
-   "titulo": "Teletón llega a la cárcel del Biobío: destacan actividades de internas como clave para la reinserción social",
-   "resumen": "En honor al espíritu de la Teletón, su mascota oficial fue a visitar a las reclusas del recinto penitenciario del Biobío",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-06-at-12.07.44-e1793990791429.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -1086,6 +1086,20 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/teleton-complejo-penitenciario-biobio-internas-reinsercion.html",
+   "titulo": "Teletón llega a la cárcel del Biobío: destacan actividades de internas como clave para la reinserción social",
+   "resumen": "En honor al espíritu de la Teletón, su mascota oficial fue a visitar a las reclusas del recinto penitenciario del Biobío",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-06-at-12.07.44-e1793990791429.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
    ],
@@ -1636,20 +1650,6 @@
    "fuente": "El Conquistador",
    "fuenteId": "conquistador",
    "fecha": "2026-11-04T17:03:26.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/vecinos-de-charrua-ya-cuentan-con-su-primer-box-para-atencion-dental/",
-   "titulo": "Vecinos de Charrúa ya cuentan con su primer box para atención dental",
-   "resumen": "Gracias a la alianza entre el municipio, 3 empresas eléctricas que operan en el sector y los propios vecinos, la posta de salud suma desde ahora un servicio profesional de salud dental.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/box-dental-charrua-cabrero-colbun--300x225.jpeg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-04T16:04:20.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
