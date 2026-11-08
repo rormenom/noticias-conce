@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T12:50:18.242Z",
+ "generado": "2026-11-08T13:20:20.551Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 150,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/delincuentes-logran-millonario-robo-en-el-centro-de-concepcion-ingresaron-a-la-boveda-por-forado-del-banco.html",
+   "titulo": "Delincuentes logran millonario robo en el centro de Concepción: ingresaron a la bóveda por forado del banco",
+   "resumen": "El siniestro afectó a una sucursal del Banco BCI en O’Higgins con Lincoyán. Según informó BioBío Chile, fueron cerca de $2.000 millones de pesos los robados.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pdi-descarta-terceros-joven-fallecida-concepcion-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T13:20:20.551Z",
+   "visto": "2026-11-08T13:20:20.551Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/08/nina-podria-perder-pierna-padres-de-menor-atropellada-pediran-que-camion-de-acusado-no-sea-vendido",
    "titulo": "Padres de niña atropellada solicitarán que camión del acusado no sea vendido ante el riesgo de que la menor pierda una pierna",
@@ -502,20 +516,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
-   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
    "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
    "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
@@ -554,6 +554,20 @@
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
+   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -758,20 +772,6 @@
    "titulo": "Teletón llega a la cárcel del Biobío: destacan actividades de internas como clave para la reinserción social",
    "resumen": "En honor al espíritu de la Teletón, su mascota oficial fue a visitar a las reclusas del recinto penitenciario del Biobío",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-06-at-12.07.44-e1793990791429.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/gobierno-anuncia-recursos-caminos-santa-juana.html",
-   "titulo": "Anuncian plan de recuperación de zonas afectadas de Santa Juana tras intensas lluvias",
-   "resumen": "El Gobierno destinó más de $346 millones a través de la Subdere para habilitar espacios públicos y mejorar caminos rurales afectados por emergencias climáticas en Santa Juana.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-5.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -1086,6 +1086,20 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/gobierno-anuncia-recursos-caminos-santa-juana.html",
+   "titulo": "Anuncian plan de recuperación de zonas afectadas de Santa Juana tras intensas lluvias",
+   "resumen": "El Gobierno destinó más de $346 millones a través de la Subdere para habilitar espacios públicos y mejorar caminos rurales afectados por emergencias climáticas en Santa Juana.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-5.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
    ],
@@ -1643,20 +1657,6 @@
    "local": true
   },
   {
-   "url": "https://www.radioudec.cl/servicio-nacional-de-reinsercion-social-juvenil-invita-a-responder-consulta-ciudadana-para-fortalecer-trabajo-institucional/",
-   "titulo": "Servicio Nacional de Reinserción Social Juvenil invita a responder consulta ciudadana para fortalecer trabajo institucional",
-   "resumen": "El Servicio Nacional de Reinserción Social Juvenil se encuentra realizando […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Consulta_Ciudadana_reinsercion-social-juvenil-768x512.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-04T15:27:47.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/desarrolla-biobio-abre-la-licitacion-para-las-proximas-tres-ediciones-del-festival-rec/",
    "titulo": "Desarrolla Biobío abre la licitación para las próximas tres ediciones del Festival REC",
    "resumen": "Presupuesto basal supera los $3 mil millones y el objetivo es que la versión 2027 sea en marzo",
@@ -1680,21 +1680,6 @@
    "fecha": "2026-11-03T14:09:15.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/m8zart-ensamble-de-la-orquesta-sinfonica-udec-explora-el-lado-mas-ludico-y-popular-del-compositor/",
-   "titulo": "M8ZART: Ensamble de la Orquesta Sinfónica UdeC explora el lado más lúdico y popular del compositor",
-   "resumen": "El Ensamble de la Orquesta Sinfónica de la Universidad de […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Ensamble-Orquesta-Sinfonica-UdeC-768x431.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-03T13:12:38.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
     "cultura"
    ],
    "local": true
