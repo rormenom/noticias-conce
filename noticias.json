@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T13:20:20.551Z",
+ "generado": "2026-11-08T13:30:23.218Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 59,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -488,6 +488,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/07/chiguayante-contraloria-gasto-personal-contrata.html",
+   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el aumento de gasto en personal a contrata",
+   "resumen": "La presentación busca que el organismo examine las operaciones financieras del municipio. Advierten que la proporción de remuneraciones superó el máximo legal.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/municipalidad-chiguayante-e1794015641690.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/07/sag-controles-carreteros-decomiso-ilegal.html",
    "titulo": "SAG anuncia tolerancia cero al ingreso ilegal de productos agropecuarios",
    "resumen": "Operativos coordinados en cuatro regiones buscan cortar el transporte y la distribución de mercancías que pueden introducir plagas y enfermedades ausentes en Chile. La medida se articula con el nuevo Plan Estratégico de Mosca de la Fruta.",
@@ -502,16 +516,30 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/07/chiguayante-contraloria-gasto-personal-contrata.html",
-   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el aumento de gasto en personal a contrata",
-   "resumen": "La presentación busca que el organismo examine las operaciones financieras del municipio. Advierten que la proporción de remuneraciones superó el máximo legal.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/municipalidad-chiguayante-e1794015641690.jpeg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
+   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
-    "regional"
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
+   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
+   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -554,34 +582,6 @@
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
-   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
-   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
-   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   },
