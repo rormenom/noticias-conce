@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T22:00:25.934Z",
+ "generado": "2026-11-08T22:10:20.491Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 143,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,69 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/choque-entre-camioneta-y-motocicleta-en-alto-bio-bio-deja-un-fallecido",
+   "titulo": "Un accidente entre una camioneta y una moto en Alto Bío Bío termina con una víctima fatal",
+   "resumen": "Una camioneta y una moto colisionaron en la Ruta Q-61-R, en Alto Bío Bío. El motociclista murió debido a la gravedad de sus lesiones. El mayor de Carabineros y comisario de la Cuarta Comisaría de Santa Bárbara, Manuel Escalona, ratificó el fatal accidente.…",
+   "imagen": "https://media.canal9.cl/2026/11/choque-entre-camioneta-y-motocicleta-en-alto-bio-bio-deja-un-fallecido-768x405.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T22:10:20.491Z",
+   "visto": "2026-11-08T22:10:20.491Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/tapadon-clave-titulo-albo-y-dedicatoria-a-cabo-verde-la-tarde-inolvidable-de-vozinha-en-chillan",
+   "titulo": "Vozinha fue decisivo en Chillán: brilló con una atajada clave y dedicó el título albo a Cabo Verde",
+   "resumen": "Vozinha, el experimentado arquero caboverdiano, respondió en el momento más apremiante para Colo Colo y, con una atajada decisiva en el último minuto, impidió que los albos perdieran un título que ya empezaban a festejar en Chillán. El guardameta, quien…",
+   "imagen": "https://media.canal9.cl/2026/11/vozinha-colo-colo-campeon-768x405.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T22:10:20.491Z",
+   "visto": "2026-11-08T22:10:20.491Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/puede-valer-un-titulo-el-golazo-de-arturo-vidal-a-nublense-que-esta-consagrando-a-colo-colo-en-liga",
+   "titulo": "Colo Colo derrotó a Ñublense con un gol en el cierre y conquistó su título número 35 en la Liga de Primera 2026",
+   "resumen": "Colo Colo conquistó este domingo el título de la Liga de Primera 2026, tras vencer por 2-1 a Ñublense con un tanto en los minutos finales. El encuentro, correspondiente a la fecha 27 del torneo, se disputó en el Estadio Bicentenario ‘Nelson Oyarzún’ de…",
+   "imagen": "https://media.canal9.cl/2026/11/colo-colo-campeon-liga-de-primera-768x405.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T22:10:20.491Z",
+   "visto": "2026-11-08T22:10:20.491Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/el-desahogo-del-tano-ortiz-logro-su-primer-titulo-como-dt-y-termino-empapado-en-plena-entrevista",
+   "titulo": "Ortiz celebró su primer título como técnico y acabó empapado durante una entrevista",
+   "resumen": "La emoción invadió a Fernando Ortiz cuando Colo Colo aseguró el título de la Liga de Primera 2026. El gol de Marcos Bolados en los minutos finales ante Ñublense encendió los festejos de los albos y, además, ayudó al técnico argentino a dejar atrás una…",
+   "imagen": "https://media.canal9.cl/2026/11/colo-colo-fernando-ortiz-campeon-1-768x405.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T22:10:20.491Z",
+   "visto": "2026-11-08T22:10:20.491Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/08/forado-en-muro-y-oxicorte-para-entrar-a-boveda-lo-que-se-sabe-de-millonario-robo-a-banco-penquista",
    "titulo": "Robo millonario en banco de Concepción: perforaron un muro y usaron oxicorte para llegar a la bóveda",
