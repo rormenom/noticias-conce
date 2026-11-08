@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T01:50:19.245Z",
+ "generado": "2026-11-08T04:00:25.279Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -404,20 +404,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
-   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
-   "resumen": "Especialistas advierten que sacar la lactancia materna exclusiva de las metas APS 2027 podría restarle prioridad, recursos y seguimiento.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-lactancia-materna-foto-cc-e1794015704556.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/07/sag-controles-carreteros-decomiso-ilegal.html",
    "titulo": "SAG anuncia tolerancia cero al ingreso ilegal de productos agropecuarios",
    "resumen": "Operativos coordinados en cuatro regiones buscan cortar el transporte y la distribución de mercancías que pueden introducir plagas y enfermedades ausentes en Chile. La medida se articula con el nuevo Plan Estratégico de Mosca de la Fruta.",
@@ -456,6 +442,20 @@
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
+   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
+   "resumen": "Especialistas advierten que sacar la lactancia materna exclusiva de las metas APS 2027 podría restarle prioridad, recursos y seguimiento.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-lactancia-materna-foto-cc-e1794015704556.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
