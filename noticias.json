@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T11:40:19.683Z",
+ "generado": "2026-11-08T12:10:18.698Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
+    "enlaces": 147,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/delincuentes-ingresan-por-forado-a-banco-y-protagonizan-millonario-robo-en-centro-de-concepcion.shtml",
+   "titulo": "Delincuentes ingresan por forado a banco y protagonizan millonario robo en centro de Concepción",
+   "resumen": "Un millonario robo se registró la madrugada de este domingo en las bóvedas de un banco en el centro de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011575-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-08T12:09:16.000Z",
+   "visto": "2026-11-08T12:10:18.698Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/nina-podria-perder-pierna-padres-de-menor-atropellada-pediran-que-camion-de-acusado-no-sea-vendido.shtml",
    "titulo": "Niña podría perder pierna: padres de menor atropellada pedirán que camión de acusado no sea vendido",
@@ -1653,20 +1667,6 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/declaran-zona-de-riesgo-sanitario-en-arauco-por-afectacion-de-temporales/",
-   "titulo": "Declaran zona de riesgo sanitario en Arauco por afectación de temporales",
-   "resumen": "Resolución de la Seremi de Salud busca facilitar la intervención en sectores complejos",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/arauco-declarada-zona-de-riesgo-sanitario-768x407.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-04T07:00:17.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
