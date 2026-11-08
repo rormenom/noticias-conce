@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T23:20:20.119Z",
+ "generado": "2026-11-08T23:30:23.883Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 144,
-    "leidas": 61,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/irreconocible-huachipato-se-farrea-entrar-en-zona-de-copa.html",
+   "titulo": "Irreconocible Huachipato se farrea entrar en zona de copa",
+   "resumen": "Amenazó poco al arco rival y La Calera, que llegaba como colista, lo desbordó varias veces para derrotarlo con justicia y salir del último puesto. El acero desperdició una oportunidad de oro para pensar en Sudamericana.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/mario-brice%C3%B1o.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T23:30:23.883Z",
+   "visto": "2026-11-08T23:30:23.883Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tras-ser-campeon-con-boca-palacios-alento-a-colo-colo-en-chillan-y-celebro-con-abrazo-junto-a-correa.shtml",
    "titulo": "Tras ser campeón con Boca: Palacios alentó a Colo Colo en Chillán y celebró con abrazo junto a Correa",
@@ -124,6 +138,20 @@
    "local": true
   },
   {
+   "url": "https://www.tvu.cl/prensa/2026/11/08/banco-bci-concepcion-mas-de-3-mil-millones-robados-desde-las-bovedas-a-3-cuadras-de-carabineros.html",
+   "titulo": "Banco BCI Concepción: Más de $3 mil millones robados desde las bóvedas a 3 cuadras de Carabineros",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-9-850x500.png",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-08T22:20:20.870Z",
+   "visto": "2026-11-08T22:20:20.870Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.tvu.cl/prensa/2026/11/08/es-ridiculo-que-los-insumos-esten-ahi-exdirectivo-del-ssc-cuestiona-gestion-del-hospital-traumatologico.html",
    "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
    "resumen": "",
@@ -149,20 +177,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/banco-bci-concepcion-mas-de-3-mil-millones-robados-desde-las-bovedas-a-3-cuadras-de-carabineros.html",
-   "titulo": "Banco BCI Concepción: Más de $3 mil millones robados desde las bóvedas a 3 cuadras de Carabineros",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-9-850x500.png",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-08T22:20:20.870Z",
-   "visto": "2026-11-08T22:20:20.870Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1186,20 +1200,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/corridas-noviembre-agenda-horarios-lugares.html",
-   "titulo": "Seis corridas para agendar: dónde y a qué hora acelerar en noviembre",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2022/11/pag-19-corrida-cuatro-lagunas-foto-archivo-carolina-e1793965652649.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/fallece-sebastian-lelio-director-oscar-visita-biobio-nuble.html",
    "titulo": "Luto en el cine chileno: sorpresivamente fallece Sebastián Lelio, director ganador del Oscar que deja huella en Biobío y Ñuble",
    "resumen": "El cineasta nacional y ganador de un premio de la Academia falleció en su vivienda a los 52 años.",
@@ -1350,6 +1350,20 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/corridas-noviembre-agenda-horarios-lugares.html",
+   "titulo": "Seis corridas para agendar: dónde y a qué hora acelerar en noviembre",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2022/11/pag-19-corrida-cuatro-lagunas-foto-archivo-carolina-e1793965652649.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
