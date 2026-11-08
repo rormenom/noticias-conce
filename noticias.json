@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T21:40:19.079Z",
+ "generado": "2026-11-08T22:00:25.934Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 143,
-    "leidas": 60,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/forado-en-muro-y-oxicorte-para-entrar-a-boveda-lo-que-se-sabe-de-millonario-robo-a-banco-penquista",
+   "titulo": "Robo millonario en banco de Concepción: perforaron un muro y usaron oxicorte para llegar a la bóveda",
+   "resumen": "Al menos cinco delincuentes protagonizaron durante la madrugada de este domingo un robo de película en la sucursal del Banco BCI, ubicada en pleno centro de Concepción, región del Bío Bío. Desde el recinto sustrajeron más de 3 mil millones de pesos. Según los…",
+   "imagen": "https://media.canal9.cl/2026/11/robo-banco-768x405.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T22:00:25.934Z",
+   "visto": "2026-11-08T22:00:25.934Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tapadon-clave-titulo-albo-y-dedicatoria-a-cabo-verde-la-tarde-inolvidable-de-vozinha-en-chillan.shtml",
    "titulo": "Tapadón clave, título albo y dedicatoria a Cabo Verde: la tarde inolvidable de Vozinha en Chillán",
@@ -1157,20 +1171,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/inacap-y-la-cpc-alistan-nueva-version-de-la-feria-laboral-2026-conoce-las-fechas-y-como-participar-en-el-biobio",
-   "titulo": "INACAP y la CPC alistan nueva versión de la Feria Laboral 2026: Conoce las fechas y cómo participar en el Bío Bío",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/11/el-talento-esta-en-las-regiones-las-oportunidades-siguen-en-santiago-e1793975365680-768x405.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/06/pronostican-altas-temperaturas-en-zonas-desde-atacama-a-los-lagos-maximas-rondaran-los-35-c",
    "titulo": "Pronostican hasta 35 °C en varias zonas entre Atacama y Los Lagos",
    "resumen": "",
@@ -1203,6 +1203,20 @@
    "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/06/inacap-y-la-cpc-alistan-nueva-version-de-la-feria-laboral-2026-conoce-las-fechas-y-como-participar-en-el-biobio",
+   "titulo": "INACAP y la CPC alistan nueva versión de la Feria Laboral 2026: Conoce las fechas y cómo participar en el Bío Bío",
+   "resumen": "",
+   "imagen": "https://media.canal9.cl/2026/11/el-talento-esta-en-las-regiones-las-oportunidades-siguen-en-santiago-e1793975365680-768x405.webp",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
