@@ -12,7 +12,7 @@ const MAX_POR_CATEGORIA = 80;
 const DIAS = { podcasts: 14, otros: 5 }; // antigüedad máxima que se conserva
 
 // Solo Región del Biobío: estas son las únicas secciones que se guardan
-export const CATS = ['regional', 'deportes', 'cultura', 'tecnologia'];
+export const CATS = ['regional', 'politica', 'deportes', 'cultura', 'tecnologia'];
 
 // Palabras que indican que la noticia es "de la zona" (se usan sobre todo en deportes y cultura)
 const LOCAL_RE = new RegExp('(?<!\\p{L})(' + [
@@ -26,6 +26,7 @@ const LOCAL_RE = new RegExp('(?<!\\p{L})(' + [
 
 // Detección de temas para medios locales sin sección propia
 const CULTURA_RE = /(?<!\p{L})(teatro|concierto|festival|cine|microcine|cineteca|película|libro|orquesta|sinfónica|danza|artesan\p{L}*|museo|pinacoteca|recital|exposición|galería|escritor|poeta|cantante|banda)(?!\p{L})/iu;
+const POLITICA_RE = /(?<!\p{L})(gobernador\p{L}*|gobierno regional|gore|consejo regional|consejer[oa]s? regional\p{L}*|core|delegad[oa] presidencial|delegación presidencial|seremi|intendente|alcalde\p{L}*|alcaldía|concejo municipal|concejal\p{L}*|municipio|diputad[oa]s?|senador\p{L}*|parlamentari\p{L}*|ministr[oa]s?|subsecretari[oa]|candidat\p{L}*|elecci\p{L}*|electoral|votaci\p{L}*|partidos? políticos?|presupuesto|contralor\p{L}*|acusación constitucional|gobierno|la moneda|kast)(?!\p{L})/iu;
 const TECNO_RE = /(?<!\p{L})(ciencia|científic\p{L}*|tecnolog\p{L}*|innovaci\p{L}*|investigador\p{L}*|robótica|inteligencia artificial|startups?|emprendimiento|laboratorio|satélite|astronom\p{L}*|software|patente|hidrógeno verde|biotecnolog\p{L}*)(?!\p{L})/iu;
 const DEPORTE_RE = /(?<!\p{L})(fútbol|futbol|básquet\p{L}*|basquet\p{L}*|hockey|tenis|atletismo|triatlón|maratón|campeonato|torneo|liguilla|penales|estadio|hinchas|clásico|huachipato|deportes concepción|fernández vial|ñublense|goles?|club deportivo)(?!\p{L})/iu;
 
@@ -36,7 +37,7 @@ const SOURCES = [
     type: 'wp', base: 'https://www.elconquistadorconcepcion.cl',
     mapCat(slug) {
       if (/podcast|programa|mesa-de-noticias|nuevo-dia|pasado-meridiano/.test(slug)) return 'podcasts';
-      return { regional: 'regional', nacional: 'nacional', internacional: 'internacional', deportes: 'deportes',
+      return { regional: 'regional', nacional: 'nacional', internacional: 'internacional', deportes: 'deportes', politica: 'politica',
                cultura: 'cultura', tecnologia: 'tecnologia', tendencias: 'tendencias' }[slug];
     },
     // Las emisiones de sus programas vienen con títulos tipo "MESA DE NOTICIAS 04 DE NOVIEMBRE DE 2026"
@@ -47,7 +48,7 @@ const SOURCES = [
     type: 'wp', base: 'https://www.radioudec.cl',
     mapCat(slug) {
       if (slug.includes('podcast')) return 'podcasts';
-      return { regional: 'regional', udec: 'regional', nacional: 'nacional', internacional: 'internacional',
+      return { regional: 'regional', udec: 'regional', politica: 'politica', nacional: 'nacional', internacional: 'internacional',
                deportes: 'deportes', cultura: 'cultura', 'musica-clasica': 'cultura', ciencia: 'tecnologia',
                tecnologia: 'tecnologia', innovacion: 'tecnologia', salud: 'tendencias' }[slug];
     },
@@ -61,7 +62,7 @@ const SOURCES = [
     linkRe: /^https:\/\/www\.diarioconcepcion\.cl\/[a-z-]+\/\d{4}\/\d{2}\/\d{2}\/[^/]+\.html$/,
     classify(u) {
       const s = new URL(u).pathname.split('/')[1];
-      return { ciudad: ['regional'], politica: ['regional'], economia: ['regional'], deportes: ['deportes'],
+      return { ciudad: ['regional'], politica: ['politica'], economia: ['regional'], deportes: ['deportes'],
                cultura: ['cultura'], 'ciencia-y-sociedad': ['tecnologia'] }[s] || 'skip';
     },
     descGenerica: ['Noticias de Concepción y la Región del Bío Bío'],
@@ -359,6 +360,7 @@ async function main() {
       if (CULTURA_RE.test(it.titulo) && !cats.includes('cultura')) cats.push('cultura');
       if (DEPORTE_RE.test(it.titulo) && !cats.includes('deportes')) cats.push('deportes');
       if (TECNO_RE.test(it.titulo) && !cats.includes('tecnologia')) cats.push('tecnologia');
+      if (POLITICA_RE.test(it.titulo) && !cats.includes('politica')) cats.push('politica');
     }
     const visto = old?.visto || ahora;
     let fecha = it.fecha || old?.fecha;
