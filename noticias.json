@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T04:00:25.279Z",
+ "generado": "2026-11-08T05:00:25.752Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -376,20 +376,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/morados-deben-bajar-a-everton-para-seguir-por-el-sueno-de-sudamericana.html",
-   "titulo": "Morados deben bajar a Everton para seguir por el sueño de Sudamericana",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Deportes-Concepcion-vs-Everton-foto-Lorena-Vecchio-e1794015944636.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
    "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
    "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
@@ -400,6 +386,20 @@
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/morados-deben-bajar-a-everton-para-seguir-por-el-sueno-de-sudamericana.html",
+   "titulo": "Morados deben bajar a Everton para seguir por el sueño de Sudamericana",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Deportes-Concepcion-vs-Everton-foto-Lorena-Vecchio-e1794015944636.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
