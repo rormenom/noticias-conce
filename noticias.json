@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T12:40:20.015Z",
+ "generado": "2026-11-08T12:50:18.242Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/nina-podria-perder-pierna-padres-de-menor-atropellada-pediran-que-camion-de-acusado-no-sea-vendido",
+   "titulo": "Padres de niña atropellada solicitarán que camión del acusado no sea vendido ante el riesgo de que la menor pierda una pierna",
+   "resumen": "Los padres de la niña atropellada el martes pasado en Chiguayante, región del Bío Bío, quien permanece grave y podría sufrir secuelas permanentes, pedirán que se dicte una cautela real sobre el camión 3/4 que manejaba el imputado, en el marco de la…",
+   "imagen": "https://media.canal9.cl/2026/11/atropello-chiguayante-768x405.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T12:50:18.242Z",
+   "visto": "2026-11-08T12:50:18.242Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/08/delincuentes-ingresan-por-forado-a-banco-y-protagonizan-millonario-robo-en-centro-de-concepcion",
    "titulo": "Delincuentes entran por forado y roban al menos $2 mil millones desde banco en centro de Concepción",
@@ -1036,20 +1050,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/abstencion-de-tres-concejales-impide-aprobar-la-nueva-planta-municipal-de-san-pedro-de-la-paz",
-   "titulo": "Abstención de tres concejales impide aprobar la nueva planta municipal de San Pedro de la Paz",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2025/12/foto-muni-san-pedro-768x370.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/06/pronostican-altas-temperaturas-en-zonas-desde-atacama-a-los-lagos-maximas-rondaran-los-35-c",
    "titulo": "Pronostican hasta 35 °C en varias zonas entre Atacama y Los Lagos",
    "resumen": "",
@@ -1082,6 +1082,20 @@
    "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/06/abstencion-de-tres-concejales-impide-aprobar-la-nueva-planta-municipal-de-san-pedro-de-la-paz",
+   "titulo": "Abstención de tres concejales impide aprobar la nueva planta municipal de San Pedro de la Paz",
+   "resumen": "",
+   "imagen": "https://media.canal9.cl/2025/12/foto-muni-san-pedro-768x370.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -1636,20 +1650,6 @@
    "fuente": "Radio UdeC",
    "fuenteId": "radioudec",
    "fecha": "2026-11-04T15:27:47.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/nuevo-subsidio-del-minvu-entregara-hasta-16-millones-477-a-familias-de-sectores-medios-para-comprar-viviendas/",
-   "titulo": "Nuevo subsidio del MINVU entregará hasta $16 millones a familias para comprar viviendas",
-   "resumen": "Hasta a $16 millones 477 mil podrán acceder las familias […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/tramooo-300x200.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-04T13:48:23.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
