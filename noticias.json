@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T14:40:20.033Z",
+ "generado": "2026-11-08T15:20:19.341Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 145,
-    "leidas": 59,
+    "enlaces": 146,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -222,6 +222,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/terminal-rural-concepcion-demanda-seguridad-espacio.html",
+   "titulo": "Terminal rural en Concepción: una demanda pendiente ante problemas de seguridad y espacio",
+   "resumen": "La iniciativa cuenta con el respaldo de usuarios y del municipio, que advierten problemas de seguridad y falta de espacios de espera. Aunque se ha manifestado interés de privados, no existe una propuesta concreta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-micros-rurales-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T08:40:18.789Z",
+   "visto": "2026-11-08T08:40:18.789Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/08/exdirectivo-cuestiona-gestion-hospital-traumatologico.html",
    "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
    "resumen": "Renato Medina, exdirector (s) del Servicio de Salud Concepción, pidió investigar las eventuales responsabilidades administrativas en el recinto. Además, advirtió que, si se llegase a comprobar el uso de insumos contaminados, incluso podría decretarse su…",
@@ -237,16 +251,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/terminal-rural-concepcion-demanda-seguridad-espacio.html",
-   "titulo": "Terminal rural en Concepción: una demanda pendiente ante problemas de seguridad y espacio",
-   "resumen": "La iniciativa cuenta con el respaldo de usuarios y del municipio, que advierten problemas de seguridad y falta de espacios de espera. Aunque se ha manifestado interés de privados, no existe una propuesta concreta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-micros-rurales-foto-carolina.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/udec-acerco-el-basquetbol-de-alto-nivel-a-jovenes-deportistas-con-clinica-en-la-casa-del-deporte.html",
+   "titulo": "UdeC acercó el básquetbol de alto nivel a jóvenes deportistas con clínica en la Casa del Deporte",
+   "resumen": "Jóvenes participantes del torneo interescolar de básquetbol participaron del evento junto a los planteles de honor femeninos y masculinos del Campanil.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-17-clinica-de-basket-foto-carolina-1.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-08T08:40:18.789Z",
    "visto": "2026-11-08T08:40:18.789Z",
    "cats": [
-    "regional"
+    "deportes"
    ],
    "local": true
   },
@@ -261,20 +275,6 @@
    "visto": "2026-11-08T08:40:18.789Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/udec-acerco-el-basquetbol-de-alto-nivel-a-jovenes-deportistas-con-clinica-en-la-casa-del-deporte.html",
-   "titulo": "UdeC acercó el básquetbol de alto nivel a jóvenes deportistas con clínica en la Casa del Deporte",
-   "resumen": "Jóvenes participantes del torneo interescolar de básquetbol participaron del evento junto a los planteles de honor femeninos y masculinos del Campanil.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-17-clinica-de-basket-foto-carolina-1.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T08:40:18.789Z",
-   "visto": "2026-11-08T08:40:18.789Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   },
