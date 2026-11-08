@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T05:00:25.752Z",
+ "generado": "2026-11-08T07:20:19.551Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -1651,20 +1651,6 @@
    "fuente": "Radio UdeC",
    "fuenteId": "radioudec",
    "fecha": "2026-11-03T12:34:43.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/biobio-finalizo-en-el-segundo-lugar-de-los-juegos-de-la-araucania/",
-   "titulo": "Biobío finalizó en el segundo lugar de los Juegos de la Araucanía",
-   "resumen": "Delegación regional se instaló en el podio en los Binacionales Los Ríos 2026 con gran actuación de los deportes colectivos.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/deportistas.biobio-juegos-binacionales--300x197.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-03T07:18:11.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "deportes"
