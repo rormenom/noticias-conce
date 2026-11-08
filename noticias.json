@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T15:20:19.341Z",
+ "generado": "2026-11-08T15:30:24.066Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 146,
-    "leidas": 60,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/cabras-para-prevenir-incendios-forestales-comunidad-de-florida-recibe-rebano-de-10-animales",
+   "titulo": "Cabras para prevenir incendios forestales: comunidad de Florida recibe rebaño de 10 animales",
+   "resumen": "Una alternativa poco convencional para prevenir incendios forestales llegó a Florida: el uso de cabras para controlar la vegetación y reducir el material combustible. La iniciativa forma parte del proyecto GEF Restauración de Paisajes, ejecutado por el…",
+   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-06-at-13.24.49-768x576.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T15:30:24.066Z",
+   "visto": "2026-11-08T15:30:24.066Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/08/rio-biobio-con-drogas-ciencia-alerta-que-sustancias-consumidas-por-la-poblacion-llegan-a-su-caudal.html",
    "titulo": "Río Biobío con drogas: ciencia alerta que sustancias consumidas por la población llegan a su caudal",
@@ -1678,20 +1692,6 @@
    "fuente": "Radio UdeC",
    "fuenteId": "radioudec",
    "fecha": "2026-11-04T19:42:33.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/conaf-destina-25-570-millones-para-enfrentar-incendios-forestales-en-la-region-del-biobio/",
-   "titulo": "CONAF destina $25.570 millones para enfrentar incendios forestales en la Región del Biobío",
-   "resumen": "La Corporación Nacional Forestal (CONAF) presentó este miércoles el Plan […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Plan-Incendios-2026-2027-768x512.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-04T19:38:24.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
