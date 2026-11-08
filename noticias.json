@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T15:40:19.485Z",
+ "generado": "2026-11-08T15:50:19.348Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
+    "enlaces": 147,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/cinco-formalizados-por-abigeato-en-aguapie-dos-quedaron-en-prision-preventiva",
+   "titulo": "Cinco formalizados por abigeato en Aguapié: dos quedaron en prisión preventiva",
+   "resumen": "Cinco personas fueron formalizadas por el robo de cinco terneros en Aguapié, sector rural de la comuna de Arauco, un caso que comenzó cuando los dueños del ganado vieron que dos sujetos subían parte de los animales a una camioneta y alertaron a Carabineros.…",
+   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-08-a-las-12.12.23%E2%80%AFp.-m-768x448.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T15:50:19.348Z",
+   "visto": "2026-11-08T15:50:19.348Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/08/vecinos-de-collao-denuncian-al-menos-dos-robos-por-semana-y-piden-un-punto-fijo-de-presencia-policial",
    "titulo": "Vecinos de Collao denuncian al menos dos robos por semana y piden un punto fijo de presencia policial",
@@ -1678,20 +1692,6 @@
    "fuente": "El Conquistador",
    "fuenteId": "conquistador",
    "fecha": "2026-11-05T07:30:39.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/05/bomberos-de-nuble-podra-contar-con-tag-gratuitos-por-las-autopistas/",
-   "titulo": "Bomberos de Ñuble podrá contar con TAG gratuitos por las autopistas",
-   "resumen": "Y padrón único.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/bomberos-pagando-peajes--768x509.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-05T07:19:45.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
