@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T15:30:24.066Z",
+ "generado": "2026-11-08T15:40:19.485Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/vecinos-de-collao-denuncian-al-menos-dos-robos-por-semana-y-piden-un-punto-fijo-de-presencia-policial",
+   "titulo": "Vecinos de Collao denuncian al menos dos robos por semana y piden un punto fijo de presencia policial",
+   "resumen": "Vecinos del sector de Collao denunciaron una seguidilla de robos a vehículos y viviendas que mantiene atemorizados a los residentes, según relataron ellos mismos en conversación con Canal 9. El hecho más reciente ocurrió el 4 de noviembre, cuando una casa…",
+   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-08-a-las-12.11.47%E2%80%AFp.-m-768x485.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T15:40:19.485Z",
+   "visto": "2026-11-08T15:40:19.485Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/08/cabras-para-prevenir-incendios-forestales-comunidad-de-florida-recibe-rebano-de-10-animales",
    "titulo": "Cabras para prevenir incendios forestales: comunidad de Florida recibe rebaño de 10 animales",
@@ -1087,34 +1101,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/un-balde-de-agua-fria-madre-de-joven-atropellado-en-penco-cuestiona-a-fiscalia-por-ausencia-de-cautelares-a-conductor",
-   "titulo": "\"Un balde de agua fría\": madre de joven atropellado en Penco cuestiona a Fiscalía por ausencia de cautelares a conductor imputado",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/11/CASO-PENCO-e1793970695472-768x447.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/concepcion-trabajadores-del-hospital-traumatologico-marchan-al-centro-penquista-para-exigir-mejoras-laborales-y-transparencia",
-   "titulo": "Trabajadores del Hospital Traumatológico marchan al centro penquista para exigir mejoras laborales y transparencia",
-   "resumen": "Una compleja situación se vive en la red de salud de la provincia de Concepción. Durante la mañana de este viernes, funcionarios agrupados en la Fenpruss, Fenats y Asenf del Hospital Traumatológico de Concepción se congregaron en las afueras del recinto…",
-   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-06-at-08.40.31-e1793965553534-768x446.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/06/pronostican-altas-temperaturas-en-zonas-desde-atacama-a-los-lagos-maximas-rondaran-los-35-c",
    "titulo": "Pronostican hasta 35 °C en varias zonas entre Atacama y Los Lagos",
    "resumen": "",
@@ -1147,6 +1133,34 @@
    "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/06/un-balde-de-agua-fria-madre-de-joven-atropellado-en-penco-cuestiona-a-fiscalia-por-ausencia-de-cautelares-a-conductor",
+   "titulo": "\"Un balde de agua fría\": madre de joven atropellado en Penco cuestiona a Fiscalía por ausencia de cautelares a conductor imputado",
+   "resumen": "",
+   "imagen": "https://media.canal9.cl/2026/11/CASO-PENCO-e1793970695472-768x447.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/06/concepcion-trabajadores-del-hospital-traumatologico-marchan-al-centro-penquista-para-exigir-mejoras-laborales-y-transparencia",
+   "titulo": "Trabajadores del Hospital Traumatológico marchan al centro penquista para exigir mejoras laborales y transparencia",
+   "resumen": "Una compleja situación se vive en la red de salud de la provincia de Concepción. Durante la mañana de este viernes, funcionarios agrupados en la Fenpruss, Fenats y Asenf del Hospital Traumatológico de Concepción se congregaron en las afueras del recinto…",
+   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-06-at-08.40.31-e1793965553534-768x446.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -1678,20 +1692,6 @@
    "fuente": "El Conquistador",
    "fuenteId": "conquistador",
    "fecha": "2026-11-05T07:19:45.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/campana-busca-familias-de-acogida-en-biobio-para-ninos-y-ninas-que-requieren-proteccion/",
-   "titulo": "Campaña busca familias de acogida en Biobío para niños y niñas que requieren protección",
-   "resumen": "Por quinto año consecutivo, la Dirección de Servicios Estudiantiles (DISE) […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-4.39.43-PM-768x576.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-04T19:42:33.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
