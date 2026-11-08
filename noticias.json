@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T13:50:20.396Z",
+ "generado": "2026-11-08T14:00:27.573Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -203,7 +203,8 @@
    "fecha": "2026-11-08T08:40:18.789Z",
    "visto": "2026-11-08T08:40:18.789Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -427,7 +428,8 @@
    "fecha": "2026-11-07T16:10:19.290Z",
    "visto": "2026-11-07T16:10:19.290Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -441,7 +443,8 @@
    "fecha": "2026-11-07T16:10:19.290Z",
    "visto": "2026-11-07T16:10:19.290Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -539,7 +542,8 @@
    "fecha": "2026-11-07T08:40:20.552Z",
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -553,7 +557,8 @@
    "fecha": "2026-11-07T08:40:20.552Z",
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -656,6 +661,20 @@
    "local": true
   },
   {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/justicia-paraliza-caso-puerto-coronel-mientras-tc-resuelve-recurso-presentado-por-alcalde-chamorro.shtml",
+   "titulo": "Justicia paraliza caso Puerto Coronel mientras TC resuelve recurso presentado por alcalde Chamorro",
+   "resumen": "El caso Puerto Coronel quedó paralizado, luego de que el Juzgado de Garantía de Coronel resolviera suspender la totalidad del...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010757-caso-puerto-coronel.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-06T23:33:13.000Z",
+   "visto": "2026-11-08T14:00:27.573Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/06/tras-cerca-de-70-anos-de-historia-cierra-emblematica-confiteria-santiago-del-centro-de-concepcion.shtml",
    "titulo": "Tras cerca de 70 años de historia, cierra emblemática Confitería Santiago del centro de Concepción",
    "resumen": "La Confitería Santiago, uno de los antiguos negocios del centro de Concepción, en la región del Bío Bío, anunció su...",
@@ -679,7 +698,8 @@
    "fecha": "2026-11-06T16:07:44.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -707,7 +727,8 @@
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -721,7 +742,8 @@
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -805,7 +827,8 @@
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -1285,7 +1308,8 @@
    "fecha": "2026-11-06T14:06:08.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -1342,7 +1366,8 @@
    "fecha": "2026-11-06T03:16:02.000Z",
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -1384,7 +1409,8 @@
    "fecha": "2026-11-05T15:00:00.000Z",
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -1398,7 +1424,8 @@
    "fecha": "2026-11-05T15:00:00.000Z",
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -1412,7 +1439,8 @@
    "fecha": "2026-11-05T15:00:00.000Z",
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -1652,7 +1680,8 @@
    "fecha": "2026-11-04T19:33:30.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
-    "regional"
+    "regional",
+    "politica"
    ],
    "local": true
   },
