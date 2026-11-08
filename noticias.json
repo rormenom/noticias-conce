@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T16:10:20.462Z",
+ "generado": "2026-11-08T16:20:19.164Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
+    "enlaces": 148,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -433,6 +433,20 @@
    "local": true
   },
   {
+   "url": "https://www.tvu.cl/prensa/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps-2.html",
+   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-lactancia-materna-foto-cc.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-07T16:20:18.684Z",
+   "visto": "2026-11-07T16:20:18.684Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.tvu.cl/prensa/2026/11/07/alianza-francesa-prepara-detalles-de-una-nueva-version-de-la-fiesta-de-la-musica.html",
    "titulo": "Alianza Francesa prepara detalles de una nueva versión de la “Fiesta de la Música”",
    "resumen": "",
@@ -451,20 +465,6 @@
    "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
    "resumen": "",
    "imagen": "https://www.tvu.cl/_templates/globals/img/placeholder.png",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-07T16:20:18.684Z",
-   "visto": "2026-11-07T16:20:18.684Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps-2.html",
-   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-lactancia-materna-foto-cc.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:20:18.684Z",
