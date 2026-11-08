@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T13:40:19.976Z",
+ "generado": "2026-11-08T13:50:20.396Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 59,
+    "enlaces": 147,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/aumenta-a-3-mil-millones-de-pesos-la-cifra-robada-desde-banco-en-centro-de-concepcion.shtml",
+   "titulo": "Aumenta a 3 mil millones de pesos la cifra robada desde banco en centro de Concepción",
+   "resumen": "La Fiscalía entregó nuevos detalles del millonario robo ocurrido la madrugada de este domingo en una sucursal del Banco...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011630-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-08T13:48:53.000Z",
+   "visto": "2026-11-08T13:50:20.396Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/hacienda-juntas-el-latido-historico-que-une-el-biobio-con-el-desierto-renace-como-icono-de-lujo-y-sostenibilidad-en-el-valle-del-limari.html",
    "titulo": "Hacienda Juntas: El latido histórico que une el Biobío con el desierto renace como ícono de lujo y sostenibilidad en el Valle del Limarí",
@@ -1636,20 +1650,6 @@
    "fuente": "El Conquistador",
    "fuenteId": "conquistador",
    "fecha": "2026-11-04T19:33:30.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/salud-inicia-muestreo-de-aguas-en-playas-del-biobio-con-miras-a-la-temporada-estival/",
-   "titulo": "Salud inicia muestreo de aguas en playas del Biobío con miras a la temporada estival",
-   "resumen": "Las evaluaciones permitirán determinar que balnearios estarán habilitados para el baño.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/muestras-aguas-calera-lenga--768x432.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-04T17:03:26.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
