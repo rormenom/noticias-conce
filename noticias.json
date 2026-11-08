@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T01:30:22.528Z",
+ "generado": "2026-11-08T01:36:19.998Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 60,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/07/fernandez-vial-gano-revancha-pero-no-el-ascenso-mejillones-se-impuso-en-penales-y-subio-a-tercera-a.shtml",
+   "titulo": "Fernández Vial ganó revancha, pero no el ascenso: Mejillones se impuso en penales y subió a Tercera A",
+   "resumen": "Arturo Fernández Vial cayó este sábado y perdió su primera oportunidad de ascender a la Tercera A, cuarta categoría del...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011401-fernandez-vial-mejillones-ascenso-tercera-a-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-08T01:31:51.000Z",
+   "visto": "2026-11-08T01:36:19.998Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/deportes-concepcion-derrota-a-everton-y-suena-con-america.html",
    "titulo": "Deportes Concepción derrota a Everton y sueña con América",
