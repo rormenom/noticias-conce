@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T18:00:26.303Z",
+ "generado": "2026-11-08T18:30:22.874Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 145,
+    "enlaces": 144,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/08/puede-valer-un-titulo-el-golazo-de-arturo-vidal-a-nublense-que-esta-consagrando-a-colo-colo-en-liga.shtml",
+   "titulo": "Puede valer un título: el golazo de Arturo Vidal a Ñublense que ilusiona a Colo Colo en Liga",
+   "resumen": "Tenía que aparecer el King. Colo Colo se adelantó ante Ñublense en la definición del título de la Liga de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011797-golazo-de-arturo-vidal-a-nublense-con-colo-colo.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-08T18:29:44.000Z",
+   "visto": "2026-11-08T18:30:22.874Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/forado-en-muro-y-oxicorte-para-entrar-a-boveda-lo-que-se-sabe-de-millonario-robo-a-banco-penquista.shtml",
    "titulo": "Forado en muro y oxicorte para entrar a bóveda: lo que se sabe de millonario robo a banco penquista",
