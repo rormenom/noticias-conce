@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T12:10:18.698Z",
+ "generado": "2026-11-08T12:40:20.015Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
-    "leidas": 60,
+    "enlaces": 149,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/delincuentes-ingresan-por-forado-a-banco-y-protagonizan-millonario-robo-en-centro-de-concepcion",
+   "titulo": "Delincuentes entran por forado y roban al menos $2 mil millones desde banco en centro de Concepción",
+   "resumen": "Un robo de al menos dos mil millones de pesos ocurrió durante la madrugada de este domingo en las bóvedas de una sucursal bancaria del centro de Concepción. De acuerdo con información recopilada por Bío Bío, los delincuentes habrían entrado por un forado a…",
+   "imagen": "https://media.canal9.cl/2026/10/ahora-c9-768x405.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T12:40:20.015Z",
+   "visto": "2026-11-08T12:40:20.015Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/delincuentes-ingresan-por-forado-a-banco-y-protagonizan-millonario-robo-en-centro-de-concepcion.shtml",
    "titulo": "Delincuentes ingresan por forado a banco y protagonizan millonario robo en centro de Concepción",
@@ -1036,20 +1050,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/fundacion-nacurutu-denuncia-maltrato-animal-en-la-pdi-por-la-muerte-de-enrique-el-quique",
-   "titulo": "Tras retiro de fundación Ñacurutú: \"hurón chileno\" muere luego de ser decomisado por el SAG",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-06-a-las-6.12.13%E2%80%AFa.-m-768x469.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/06/pronostican-altas-temperaturas-en-zonas-desde-atacama-a-los-lagos-maximas-rondaran-los-35-c",
    "titulo": "Pronostican hasta 35 °C en varias zonas entre Atacama y Los Lagos",
    "resumen": "",
@@ -1082,6 +1082,20 @@
    "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/06/fundacion-nacurutu-denuncia-maltrato-animal-en-la-pdi-por-la-muerte-de-enrique-el-quique",
+   "titulo": "Tras retiro de fundación Ñacurutú: \"hurón chileno\" muere luego de ser decomisado por el SAG",
+   "resumen": "",
+   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-06-a-las-6.12.13%E2%80%AFa.-m-768x469.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -1643,20 +1657,6 @@
    "local": true
   },
   {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/dpr-s-biobio-expuso-celeridad-en-designacion-de-nueva-autoridad/",
-   "titulo": "DPR (s) Biobío expuso celeridad en designación de nueva autoridad",
-   "resumen": "“Debemos contar con todos y no desperdiciar a ningún elemento.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/juan-pablo-mellado-dpr-biobio-768x426.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-04T07:33:06.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/desarrolla-biobio-abre-la-licitacion-para-las-proximas-tres-ediciones-del-festival-rec/",
    "titulo": "Desarrolla Biobío abre la licitación para las próximas tres ediciones del Festival REC",
    "resumen": "Presupuesto basal supera los $3 mil millones y el objetivo es que la versión 2027 sea en marzo",
@@ -1696,20 +1696,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/biobio-finalizo-en-el-segundo-lugar-de-los-juegos-de-la-araucania/",
-   "titulo": "Biobío finalizó en el segundo lugar de los Juegos de La Araucanía",
-   "resumen": "Una destacada actuación cumplió la delegación de la región del […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/IMG_9891-768x512.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-03T12:34:43.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
