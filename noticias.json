@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T15:50:19.348Z",
+ "generado": "2026-11-08T16:10:20.462Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 147,
-    "leidas": 59,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -264,20 +264,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/terminal-rural-concepcion-demanda-seguridad-espacio.html",
-   "titulo": "Terminal rural en Concepción: una demanda pendiente ante problemas de seguridad y espacio",
-   "resumen": "La iniciativa cuenta con el respaldo de usuarios y del municipio, que advierten problemas de seguridad y falta de espacios de espera. Aunque se ha manifestado interés de privados, no existe una propuesta concreta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-micros-rurales-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T08:40:18.789Z",
-   "visto": "2026-11-08T08:40:18.789Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/08/exdirectivo-cuestiona-gestion-hospital-traumatologico.html",
    "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
    "resumen": "Renato Medina, exdirector (s) del Servicio de Salud Concepción, pidió investigar las eventuales responsabilidades administrativas en el recinto. Además, advirtió que, si se llegase a comprobar el uso de insumos contaminados, incluso podría decretarse su…",
@@ -289,6 +275,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/terminal-rural-concepcion-demanda-seguridad-espacio.html",
+   "titulo": "Terminal rural en Concepción: una demanda pendiente ante problemas de seguridad y espacio",
+   "resumen": "La iniciativa cuenta con el respaldo de usuarios y del municipio, que advierten problemas de seguridad y falta de espacios de espera. Aunque se ha manifestado interés de privados, no existe una propuesta concreta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-micros-rurales-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T08:40:18.789Z",
+   "visto": "2026-11-08T08:40:18.789Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -489,10 +489,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/chiguayante-concejales-cuestionan-ante-contraloria-el-incremento-de-gasto-en-personal-a-contrata.html",
-   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el incremento de gasto en personal a contrata",
+   "url": "https://www.tvu.cl/prensa/2026/11/07/ministra-parot-sobre-la-discapacidad-una-falta-de-acceso-puede-significar-dejar-de-ejercer-derechos.html",
+   "titulo": "Ministra Parot sobre la discapacidad: “Una falta de acceso puede significar dejar de ejercer derechos”",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-4-fachada-municipalidad-de-chiguayante-foto-diario-concepci%C3%B3n.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:10:19.290Z",
@@ -504,10 +504,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/ministra-parot-sobre-la-discapacidad-una-falta-de-acceso-puede-significar-dejar-de-ejercer-derechos.html",
-   "titulo": "Ministra Parot sobre la discapacidad: “Una falta de acceso puede significar dejar de ejercer derechos”",
+   "url": "https://www.tvu.cl/prensa/2026/11/07/chiguayante-concejales-cuestionan-ante-contraloria-el-incremento-de-gasto-en-personal-a-contrata.html",
+   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el incremento de gasto en personal a contrata",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-4-fachada-municipalidad-de-chiguayante-foto-diario-concepci%C3%B3n.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:10:19.290Z",
