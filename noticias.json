@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T10:30:56.743Z",
+ "generado": "2026-11-08T11:40:19.683Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 59,
+    "enlaces": 148,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/nina-podria-perder-pierna-padres-de-menor-atropellada-pediran-que-camion-de-acusado-no-sea-vendido.shtml",
+   "titulo": "Niña podría perder pierna: padres de menor atropellada pedirán que camión de acusado no sea vendido",
+   "resumen": "Los padres de la menor atropellada el pasado martes en Chiguayante, región del Bío Bío, la que se encuentra...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011549-atropello-chiguayante.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-08T11:32:35.000Z",
+   "visto": "2026-11-08T11:40:19.683Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/08/fernandez-vial-gano-revancha-pero-no-el-ascenso-mejillones-se-impuso-en-penales-y-subio-a-tercera-a",
    "titulo": "Fernández Vial ganó el partido de vuelta, pero Mejillones logró el ascenso a Tercera A tras imponerse en penales.",
@@ -1650,20 +1664,6 @@
    "fuente": "El Conquistador",
    "fuenteId": "conquistador",
    "fecha": "2026-11-04T07:00:17.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/03/seremi-midesof-informa-como-identificar-a-encuestadores-oficiales-de-la-casen-2026-en-biobio/",
-   "titulo": "MIDESOF informa cómo identificar a encuestadores oficiales de la CASEN 2026",
-   "resumen": "En Pedro del Río y con 156 encuestadores desplegados en la región.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/encuestadores-casen-2026--768x512.jpeg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-03T19:38:51.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
