@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T23:00:26.265Z",
+ "generado": "2026-11-08T23:10:07.746Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 144,
-    "leidas": 60,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tras-ser-campeon-con-boca-palacios-alento-a-colo-colo-en-chillan-y-celebro-con-abrazo-junto-a-correa.shtml",
+   "titulo": "Tras ser campeón con Boca: Palacios alentó a Colo Colo en Chillán y celebró con abrazo junto a Correa",
+   "resumen": "Carlos Palacios sorprendió al aparecer este domingo en el Estadio ‘Nelson Oyarzún’ de Chillán para alentar a Colo Colo, apenas...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011949-carlos-palacios-colo-colo--campeon.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-08T23:09:57.000Z",
+   "visto": "2026-11-08T23:10:07.746Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/lota-sumo-quinto-triunfo-consecutivo-y-es-lider-exclusivo-fuera-de-todo-peligro.html",
    "titulo": "Lota sumó quinto triunfo consecutivo y es líder exclusivo fuera de todo peligro",
