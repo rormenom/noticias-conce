@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T21:20:19.853Z",
+ "generado": "2026-11-08T21:40:19.079Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tapadon-clave-titulo-albo-y-dedicatoria-a-cabo-verde-la-tarde-inolvidable-de-vozinha-en-chillan.shtml",
+   "titulo": "Tapadón clave, título albo y dedicatoria a Cabo Verde: la tarde inolvidable de Vozinha en Chillán",
+   "resumen": "Vozinha, experimentado arquero caboverdiano, apareció cuando más lo necesitaba Colo Colo y, con una intervención determinante en el último minuto,...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011887-vozinha-colo-colo-campeon.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-08T21:35:03.000Z",
+   "visto": "2026-11-08T21:40:19.079Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/choque-entre-camioneta-y-motocicleta-en-alto-bio-bio-deja-un-fallecido.shtml",
    "titulo": "Choque entre camioneta y motocicleta en Alto Bío Bío deja un fallecido",
