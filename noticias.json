@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T14:30:22.350Z",
+ "generado": "2026-11-08T14:40:20.033Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
+    "enlaces": 145,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/08/rio-biobio-con-drogas-ciencia-alerta-que-sustancias-consumidas-por-la-poblacion-llegan-a-su-caudal.html",
+   "titulo": "Río Biobío con drogas: ciencia alerta que sustancias consumidas por la población llegan a su caudal",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-r%C3%ADo-Biob%C3%ADo-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T14:40:20.033Z",
+   "visto": "2026-11-08T14:40:20.033Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/08/aumenta-a-3-mil-millones-de-pesos-la-cifra-robada-desde-banco-en-centro-de-concepcion",
    "titulo": "El monto de lo robado desde un banco en el centro de Concepción asciende a lo menos a $3 mil millones",
@@ -547,10 +561,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/07/chiguayante-contraloria-gasto-personal-contrata.html",
-   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el aumento de gasto en personal a contrata",
-   "resumen": "La presentación busca que el organismo examine las operaciones financieras del municipio. Advierten que la proporción de remuneraciones superó el máximo legal.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/municipalidad-chiguayante-e1794015641690.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
+   "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
+   "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg-e1794015611446.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
@@ -562,10 +576,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
-   "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
-   "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg-e1794015611446.jpeg",
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/07/chiguayante-contraloria-gasto-personal-contrata.html",
+   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el aumento de gasto en personal a contrata",
+   "resumen": "La presentación busca que el organismo examine las operaciones financieras del municipio. Advierten que la proporción de remuneraciones superó el máximo legal.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/municipalidad-chiguayante-e1794015641690.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
