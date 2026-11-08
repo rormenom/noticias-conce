@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08T01:10:18.490Z",
+ "generado": "2026-11-08T01:30:22.528Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 61,
+    "enlaces": 149,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -260,6 +260,20 @@
    "visto": "2026-11-07T16:10:19.290Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/fernandez-vial-dio-tremenda-lucha-pero-no-pudo-con-mejillones-en-los-penales-y-jugara-la-promocion-por-el-ascenso.html",
+   "titulo": "Fernández Vial dio tremenda lucha, pero no pudo con Mejillones en los penales y jugará la promoción por el ascenso",
+   "resumen": "El aurinegro fue de menos a más y jugó un gran partido, pero cayó dignamente Mejillones. Logró el 1-2 al minuto 88, pero el local fue más en los penales. El aurinegro ahora va al repechaje.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-Mejillones-vs-Fern%C3%A1ndez-Vial-foto-Tercera-en-fotos.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T15:00:00.000Z",
+   "visto": "2026-11-08T01:30:22.528Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1250,20 +1264,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/05/basquet-udec-busca-segunda-bofetada-ancud.html",
-   "titulo": "Basquet UdeC busca la segunda bofetada contra Ancud",
-   "resumen": "Elenco de Santiago Gómez abrió la serie con un claro 89-80 y repetirá acción esta tarde en la Casa del Deporte.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sebastian-pereira.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/panoramas-culturales-destacados-gran-concepcion.html",
    "titulo": "Teatro, música, cine y mucho más: estos son los panoramas culturales destacados para los próximos días en el Gran Concepción",
    "resumen": "Como cada semana, la agenda artistica penquista trae una miscelánea cartelera para estos primeros días de noviembre.",
@@ -1330,6 +1330,20 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/05/basquet-udec-busca-segunda-bofetada-ancud.html",
+   "titulo": "Basquet UdeC busca la segunda bofetada contra Ancud",
+   "resumen": "Elenco de Santiago Gómez abrió la serie con un claro 89-80 y repetirá acción esta tarde en la Casa del Deporte.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sebastian-pereira.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
