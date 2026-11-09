@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T16:30:25.509Z",
+ "generado": "2026-11-09T16:50:20.467Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 152,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/gobierno-anuncia-alza-combustibles-proyecto-contencion.html",
+   "titulo": "Presidente Kast anunció alza de $40 en combustibles y proyecto que limitará futuras variaciones a $20",
+   "resumen": "El Ejecutivo confirmó un incremento de $40 por litro en bencinas y diésel para este jueves, al tiempo que ingresará un proyecto con discusión inmediata para limitar las variaciones a un máximo de $20 durante los próximos 90 días.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/49f3BkZQ-1-1-e1794242669817.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T16:50:20.467Z",
+   "visto": "2026-11-09T16:50:20.467Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/robo-bci-concepcion-sabotaje-camaras-escape-parque-ecuador.html",
    "titulo": "VIDEO | Sabotaje a cámaras y huida al Parque Ecuador marcan investigación por millonario robo a Banco BCI",
@@ -1055,6 +1069,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/terminal-rural-concepcion-demanda-seguridad-espacio.html",
+   "titulo": "Terminal rural en Concepción: una demanda pendiente ante problemas de seguridad y espacio",
+   "resumen": "La iniciativa cuenta con el respaldo de usuarios y del municipio, que advierten problemas de seguridad y falta de espacios de espera. Aunque se ha manifestado interés de privados, no existe una propuesta concreta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-micros-rurales-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T08:40:18.789Z",
+   "visto": "2026-11-08T08:40:18.789Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/08/exdirectivo-cuestiona-gestion-hospital-traumatologico.html",
    "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
    "resumen": "Renato Medina, exdirector (s) del Servicio de Salud Concepción, pidió investigar las eventuales responsabilidades administrativas en el recinto. Además, advirtió que, si se llegase a comprobar el uso de insumos contaminados, incluso podría decretarse su…",
@@ -1066,20 +1094,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/terminal-rural-concepcion-demanda-seguridad-espacio.html",
-   "titulo": "Terminal rural en Concepción: una demanda pendiente ante problemas de seguridad y espacio",
-   "resumen": "La iniciativa cuenta con el respaldo de usuarios y del municipio, que advierten problemas de seguridad y falta de espacios de espera. Aunque se ha manifestado interés de privados, no existe una propuesta concreta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-micros-rurales-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T08:40:18.789Z",
-   "visto": "2026-11-08T08:40:18.789Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1983,21 +1997,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/05/veto-ley-incendios-alcaldes-biobio.html",
-   "titulo": "Alcaldes del Biobío cuestionan veto a Ley de Incendios y advierten riesgo de nueva postergación",
-   "resumen": "Los municipios reconocen que la iniciativa requiere recursos y ajustes, pero critican que el Ejecutivo anteponga los costos económicos de las empresas forestales a la protección de la ciudadanía.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/incendio-forestal.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/05/fne-aprobo-acuerdo-aza-huachipato.html",
    "titulo": "Sector público y privado destacan que alianza AZA-Huachipato resguarda la vocación industrial de la zona",
    "resumen": "FNE dio luz verde al trato entre ambas compañías para desarrollar acero verde en Talcahuano.",
@@ -2065,6 +2064,21 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/05/veto-ley-incendios-alcaldes-biobio.html",
+   "titulo": "Alcaldes del Biobío cuestionan veto a Ley de Incendios y advierten riesgo de nueva postergación",
+   "resumen": "Los municipios reconocen que la iniciativa requiere recursos y ajustes, pero critican que el Ejecutivo anteponga los costos económicos de las empresas forestales a la protección de la ciudadanía.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/incendio-forestal.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
