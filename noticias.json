@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T15:40:22.310Z",
+ "generado": "2026-11-09T16:00:28.398Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
+    "enlaces": 150,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -2040,20 +2040,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/ensemble-chromatique-desplegara-repertorio-musica-barroca-iglesia-luterana-penquista.html",
-   "titulo": "Ensemble Chromatique desplegará repertorio de música barroca en Iglesia Luterana penquista",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/05/concepcion-sera-protagonista-de-la-semana-de-las-invasiones-biologicas-2026.html",
    "titulo": "Concepción será protagonista de la Semana de las Invasiones Biológicas 2026",
    "resumen": "Del 9 al 14 noviembre se desarrollará el programa en Concepción, con diversas actividades abiertas a todo público con la UdeC como escenario.",
@@ -2078,6 +2064,20 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/ensemble-chromatique-desplegara-repertorio-musica-barroca-iglesia-luterana-penquista.html",
+   "titulo": "Ensemble Chromatique desplegará repertorio de música barroca en Iglesia Luterana penquista",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
