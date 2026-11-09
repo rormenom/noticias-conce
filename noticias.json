@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T11:10:20.079Z",
+ "generado": "2026-11-09T11:30:23.302Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 61,
+    "enlaces": 148,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
@@ -153,6 +153,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/robo-banco-bci-fallas-seguridad-concepcion.html",
+   "titulo": "A tres cuadras de Carabineros: Forado, oxicorte y ausencia de guardias. Millonario robo a banco expone fallas en protocolos de seguridad",
+   "resumen": "El seremi de Seguridad anunció que se revisarán los protocolos de vigilancia del banco.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-9.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T08:40:19.027Z",
+   "visto": "2026-11-09T08:40:19.027Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/09/biobio-apuesta-por-la-reforestacion-de-150-mil-hectareas-clave-ante-nueva-agenda-del-gobierno.html",
    "titulo": "Biobío apuesta por la reforestación de 150 mil hectáreas clave ante nueva agenda del Gobierno",
    "resumen": "Frente a la reducción del patrimonio maderero y los daños por incendios, el Ministerio de Agricultura, Corma, PymeMad y el Gore concuerdan en la necesidad de una política de Estado de largo plazo.",
@@ -178,20 +192,6 @@
    "visto": "2026-11-09T08:40:19.027Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/robo-banco-bci-fallas-seguridad-concepcion.html",
-   "titulo": "A tres cuadras de Carabineros: Forado, oxicorte y ausencia de guardias. Millonario robo a banco expone fallas en protocolos de seguridad",
-   "resumen": "El seremi de Seguridad anunció que se revisarán los protocolos de vigilancia del banco.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-9.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T08:40:19.027Z",
-   "visto": "2026-11-09T08:40:19.027Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -394,10 +394,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/banco-bci-concepcion-mas-de-3-mil-millones-robados-desde-las-bovedas-a-3-cuadras-de-carabineros.html",
-   "titulo": "Banco BCI Concepción: Más de $3 mil millones robados desde las bóvedas a 3 cuadras de Carabineros",
+   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
+   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-9-850x500.png",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-08T22:20:20.870Z",
@@ -408,10 +408,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
-   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
+   "url": "https://www.tvu.cl/prensa/2026/11/08/banco-bci-concepcion-mas-de-3-mil-millones-robados-desde-las-bovedas-a-3-cuadras-de-carabineros.html",
+   "titulo": "Banco BCI Concepción: Más de $3 mil millones robados desde las bóvedas a 3 cuadras de Carabineros",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-9-850x500.png",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-08T22:20:20.870Z",
