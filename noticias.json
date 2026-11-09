@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T20:59:45.756Z",
+ "generado": "2026-11-09T21:20:22.644Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 147,
-    "leidas": 62,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/balacera-a-plena-luz-del-dia-en-playa-de-penco-deja-cinco-lesionados-tres-recibieron-impactos-de-bala",
+   "titulo": "Enfrentamiento en una playa de Penco deja cinco heridos, tres de ellos por impactos de bala",
+   "resumen": "Una balacera ocurrida este fin de semana en la playa de Penco, dejó cinco personas heridas. El tiroteo se produjo a plena luz del día, frente a los visitantes que se encontraban en el balneario. El incidente tuvo lugar en la zona costera, entre el Fuerte La…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-73.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T21:20:22.644Z",
+   "visto": "2026-11-09T21:20:22.644Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/fajos-de-20-mil-10-mil-y-euros-robo-a-banco-en-concepcion-podria-superar-los-5-mil-millones",
+   "titulo": "El robo a un banco en Concepción podría superar los $5 mil millones e incluyó fajos de $20 mil, $10 mil y euros",
+   "resumen": "El botín del millonario asalto a una sucursal del Banco BCI en Concepción podría superar los $5 mil millones. Según las autoridades, cerca de 10 personas habrían participado en el delito y, además, fueron cortados los cables de una cámara de seguridad ubicada…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/fajos-de-20-mil-10-mil-y-euros_-robo-a-banco-en-concepcion-podria-superar-los-5-mil-millones.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T21:20:22.644Z",
+   "visto": "2026-11-09T21:20:22.644Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/camioneros-ruta-5-sur-recoleccion-basura-santa-barbara.html",
    "titulo": "Paro de camioneros impacta retiro de basura en Santa Bárbara por cortes en la Ruta 5 Sur",
