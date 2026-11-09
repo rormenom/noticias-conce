@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T22:30:23.304Z",
+ "generado": "2026-11-09T22:40:19.254Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 61,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 8,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/09/udec-triunfo-ohiggins-lucha-permanencia.html",
+   "titulo": "La “Nona” Muñoz: “Este triunfo debe ser el oxígeno que el equipo necesita”",
+   "resumen": "Tras superar a O'Higgins, Universidad de Concepción quedó a una unidad de Cobresal, su inmediato antecesor, y alista tres fechas decisivas para asegurar la permanencia en Primera.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/harol-salgado-e1794263756422.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T22:40:19.254Z",
+   "visto": "2026-11-09T22:40:19.254Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/09/huachipato-derrota-calera-jaime-garcia.html",
    "titulo": "Jaime García: “Si seguimos haciendo este tipo de desorden se nos complicará clasificar”",
