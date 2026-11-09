@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T22:40:19.254Z",
+ "generado": "2026-11-09T22:50:20.997Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/camara-aprueba-en-general-presupuesto-2027.html",
+   "titulo": "Cámara de Diputados aprueba en general el Presupuesto 2027 en medio de una áspera sesión",
+   "resumen": "Con 80 votos a favor y 63 en contra, la Sala visó el proyecto tras un tenso debate marcado por la suspensión de la sesión e impasses con Hacienda.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camara-aprueba-en-general-presupuesto-2027-e1794264016754.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T22:50:20.997Z",
+   "visto": "2026-11-09T22:50:20.997Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/09/udec-triunfo-ohiggins-lucha-permanencia.html",
    "titulo": "La “Nona” Muñoz: “Este triunfo debe ser el oxígeno que el equipo necesita”",
@@ -286,6 +300,20 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-09T20:00:57.000Z",
    "visto": "2026-11-09T20:10:21.342Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/teatro-lectura-y-salud-mental-reconocen-experiencias-que-estan-transformando-la-forma-de-ensenar/",
+   "titulo": "Teatro, lectura y salud mental: reconocen experiencias que están transformando la forma de enseñar",
+   "resumen": "Fundación Educacional Arauco, que hace 37 años acompaña a la educación pública en regiones, reconocerá a cinco profesoras y cinco escuelas del Maule, Ñuble, Biobío y Los Ríos que encontraron su propia fórmula para que ningún estudiante se quede atrás.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/reconocimiento-formacion-fundación-educacional-Arauco-768x501.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-09T19:57:50.000Z",
+   "visto": "2026-11-09T22:50:20.997Z",
    "cats": [
     "cultura"
    ],
@@ -1989,21 +2017,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/caso-puerto-coronel-tc-boris-chamorro.html",
-   "titulo": "Caso Puerto Coronel: TC revisará requerimiento de Boris Chamorro el 11 de noviembre",
-   "resumen": "De esta manera, la sesión de la Primera Sala se realizará dos días antes de la audiencia de preparación del juicio oral.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/requerimiento-chamorro-tribunal-constitucional-e1794000185157.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
    "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
    "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
@@ -2086,6 +2099,21 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/caso-puerto-coronel-tc-boris-chamorro.html",
+   "titulo": "Caso Puerto Coronel: TC revisará requerimiento de Boris Chamorro el 11 de noviembre",
+   "resumen": "De esta manera, la sesión de la Primera Sala se realizará dos días antes de la audiencia de preparación del juicio oral.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/requerimiento-chamorro-tribunal-constitucional-e1794000185157.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
