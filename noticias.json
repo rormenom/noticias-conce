@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T07:30:33.704Z",
+ "generado": "2026-11-09T08:30:25.325Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -587,6 +587,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/08/m8zart-ensamble-sinfonica-udec-cierra-temporada-2026-d-camara.html",
+   "titulo": "Con “M8zart” Ensamble de Sinfónica UdeC cierra temporada 2026 D-Cámara",
+   "resumen": "Con la batuta del músico Ramiro Vera, los conciertos en esta modalidad bajarán el telón por este año, de la mano de las composiciones  “Cinco contradanzas” y “Serenata en Re mayor” , de  Wolfgang Amadeus Mozart, y “Concierto para violín en Sol mayor”, de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-tema-domingo-Cultura-8-de-noviembre.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T08:40:18.789Z",
+   "visto": "2026-11-08T08:40:18.789Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/terminal-rural-concepcion-demanda-seguridad-espacio.html",
    "titulo": "Terminal rural en Concepción: una demanda pendiente ante problemas de seguridad y espacio",
    "resumen": "La iniciativa cuenta con el respaldo de usuarios y del municipio, que advierten problemas de seguridad y falta de espacios de espera. Aunque se ha manifestado interés de privados, no existe una propuesta concreta.",
@@ -612,20 +626,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/08/m8zart-ensamble-sinfonica-udec-cierra-temporada-2026-d-camara.html",
-   "titulo": "Con “M8zart” Ensamble de Sinfónica UdeC cierra temporada 2026 D-Cámara",
-   "resumen": "Con la batuta del músico Ramiro Vera, los conciertos en esta modalidad bajarán el telón por este año, de la mano de las composiciones  “Cinco contradanzas” y “Serenata en Re mayor” , de  Wolfgang Amadeus Mozart, y “Concierto para violín en Sol mayor”, de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-tema-domingo-Cultura-8-de-noviembre.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T08:40:18.789Z",
-   "visto": "2026-11-08T08:40:18.789Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   },
