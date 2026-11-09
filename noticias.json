@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T00:20:19.789Z",
+ "generado": "2026-11-09T01:00:27.402Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
+    "enlaces": 145,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/08/reportan-enfrentamientos-entre-carabineros-e-hinchas-de-colo-colo-en-santiago-y-puerto-montt.shtml",
+   "titulo": "Reportan enfrentamientos entre Carabineros e hinchas de Colo Colo en Santiago y Puerto Montt",
+   "resumen": "Durante la tarde de este domingo, Colo Colo venció a Ñublense en Chillán y logró obtener su título número 35...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012019-reportan-enfrentamientos-entre-carabineros-e-hinchas-de-colo-colo-en-santiago-y-puerto-montt-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T00:52:54.000Z",
+   "visto": "2026-11-09T01:00:27.402Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/08/sophia-correa-joven-canoista-que-promete-en-el-team-chile-lo-unico-que-quiero-es-competir.shtml",
    "titulo": "Sophia Correa, joven canoista que promete en el Team Chile: \"Lo único que quiero es competir\"",
