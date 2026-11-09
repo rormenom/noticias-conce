@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T12:50:23.595Z",
+ "generado": "2026-11-09T13:00:28.120Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/avance-soluciones-habitacionales-biobio-minvu.html",
+   "titulo": "Avance alcanza el 9,33% en soluciones habitacionales en el Biobío",
+   "resumen": "La iniciativa del ministerio es integral, ya que aborda metas no solo en entrega de viviendas, sino también en infraestructura urbana y mejoramientos de condominios y conjuntos habitacionales. El seremi de Vivienda y Urbanismo, Anselmo Villagra Cabello,…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/07/WhatsApp-Image-2026-07-23-at-4.49.31-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T13:00:28.120Z",
+   "visto": "2026-11-09T13:00:28.120Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/demolicion-casona-tome-criticas-patrimonio.html",
    "titulo": "Demolición de casona en Tomé genera críticas por falta de protección de inmuebles históricos",
@@ -252,20 +266,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/avance-alcanza-el-933-en-soluciones-habitacionales-en-el-biobio.html",
-   "titulo": "Avance alcanza el 9,33% en soluciones habitacionales en el Biobío",
-   "resumen": "La iniciativa del ministerio es integral, ya que aborda metas no solo en entrega de viviendas, sino también en infraestructura urbana y mejoramientos de condominios y conjuntos habitacionales. El seremi de Vivienda y Urbanismo, Anselmo Villagra Cabello,…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/07/WhatsApp-Image-2026-07-23-at-4.49.31-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T08:40:19.027Z",
-   "visto": "2026-11-09T08:40:19.027Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/09/lluvias-impacto-agro-forestal-biobio.html",
    "titulo": "Lluvias e incertidumbre climática complican al agro y la actividad forestal en la Región del Biobío",
    "resumen": "Gremios alertan por daños en cosechas, retrasos y paralizaciones de faenas durante el verano.",
@@ -276,6 +276,20 @@
    "visto": "2026-11-09T08:40:19.027Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/avance-alcanza-el-933-en-soluciones-habitacionales-en-el-biobio.html",
+   "titulo": "Avance alcanza el 9,33% en soluciones habitacionales en el Biobío",
+   "resumen": "La iniciativa del ministerio es integral, ya que aborda metas no solo en entrega de viviendas, sino también en infraestructura urbana y mejoramientos de condominios y conjuntos habitacionales. El seremi de Vivienda y Urbanismo, Anselmo Villagra Cabello,…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/07/WhatsApp-Image-2026-07-23-at-4.49.31-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T08:40:19.027Z",
+   "visto": "2026-11-09T08:40:19.027Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
