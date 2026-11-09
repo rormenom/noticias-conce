@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T12:40:21.579Z",
+ "generado": "2026-11-09T12:50:23.595Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
-    "leidas": 63,
+    "enlaces": 146,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/demolicion-casona-tome-criticas-patrimonio.html",
+   "titulo": "Demolición de casona en Tomé genera críticas por falta de protección de inmuebles históricos",
+   "resumen": "Organizaciones culturales cuestionan la pérdida de construcciones antiguas y la falta de apoyo municipal. El alcalde anunció un catastro y sostuvo que la propiedad demolida no contaba con protección oficiaL",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/02/Tome%CC%81-e1794228305202.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T12:50:23.595Z",
+   "visto": "2026-11-09T12:50:23.595Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/fiscalia-lleva-a-juicio-litigio-familiar-por-propiedad-de-complejo-la-pequena-escandinavia-en-tome.shtml",
    "titulo": "Fiscalía lleva a juicio litigio familiar por propiedad de complejo \"La Pequeña Escandinavia\" en Tomé",
@@ -238,20 +252,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/demolicion-de-casona-en-tome-genera-criticas-por-falta-de-proteccion-de-inmuebles-historicos.html",
-   "titulo": "Demolición de casona en Tomé genera críticas por falta de protección de inmuebles históricos",
-   "resumen": "Organizaciones culturales cuestionan la pérdida de construcciones antiguas y la falta de apoyo municipal. El alcalde anunció un catastro y sostuvo que la propiedad demolida no contaba con protección oficiaL",
-   "imagen": "https://assets.diarioconcepcion.cl/2025/02/Tome%CC%81-e1739995700910.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T08:40:19.027Z",
-   "visto": "2026-11-09T08:40:19.027Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/avance-alcanza-el-933-en-soluciones-habitacionales-en-el-biobio.html",
    "titulo": "Avance alcanza el 9,33% en soluciones habitacionales en el Biobío",
    "resumen": "La iniciativa del ministerio es integral, ya que aborda metas no solo en entrega de viviendas, sino también en infraestructura urbana y mejoramientos de condominios y conjuntos habitacionales. El seremi de Vivienda y Urbanismo, Anselmo Villagra Cabello,…",
@@ -270,6 +270,20 @@
    "titulo": "Lluvias e incertidumbre climática complican al agro y la actividad forestal en la Región del Biobío",
    "resumen": "Gremios alertan por daños en cosechas, retrasos y paralizaciones de faenas durante el verano.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/07/Sistema-frontal-mejora-las-reservas-de-agua-y-abre-mejores-perspectivas-para-el-agro-del-Biob%C3%ADo-2.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T08:40:19.027Z",
+   "visto": "2026-11-09T08:40:19.027Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/demolicion-de-casona-en-tome-genera-criticas-por-falta-de-proteccion-de-inmuebles-historicos.html",
+   "titulo": "Demolición de casona en Tomé genera críticas por falta de protección de inmuebles históricos",
+   "resumen": "Organizaciones culturales cuestionan la pérdida de construcciones antiguas y la falta de apoyo municipal. El alcalde anunció un catastro y sostuvo que la propiedad demolida no contaba con protección oficiaL",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/02/Tome%CC%81-e1739995700910.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-09T08:40:19.027Z",
@@ -1813,20 +1827,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/abstencion-de-tres-concejales-impide-aprobar-la-nueva-planta-municipal-de-san-pedro-de-la-paz",
-   "titulo": "Abstención de tres concejales impide aprobar la nueva planta municipal de San Pedro de la Paz",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2025/12/foto-muni-san-pedro-768x370.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "regional"
    ],
