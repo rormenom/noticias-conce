@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T12:20:19.183Z",
+ "generado": "2026-11-09T12:40:21.579Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -209,6 +209,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/robo-banco-bci-fallas-seguridad-concepcion.html",
+   "titulo": "A tres cuadras de Carabineros: Forado, oxicorte y ausencia de guardias. Millonario robo a banco expone fallas en protocolos de seguridad",
+   "resumen": "El seremi de Seguridad anunció que se revisarán los protocolos de vigilancia del banco.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-9.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T08:40:19.027Z",
+   "visto": "2026-11-09T08:40:19.027Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/09/biobio-apuesta-por-la-reforestacion-de-150-mil-hectareas-clave-ante-nueva-agenda-del-gobierno.html",
    "titulo": "Biobío apuesta por la reforestación de 150 mil hectáreas clave ante nueva agenda del Gobierno",
    "resumen": "Frente a la reducción del patrimonio maderero y los daños por incendios, el Ministerio de Agricultura, Corma, PymeMad y el Gore concuerdan en la necesidad de una política de Estado de largo plazo.",
@@ -220,20 +234,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/robo-banco-bci-fallas-seguridad-concepcion.html",
-   "titulo": "A tres cuadras de Carabineros: Forado, oxicorte y ausencia de guardias. Millonario robo a banco expone fallas en protocolos de seguridad",
-   "resumen": "El seremi de Seguridad anunció que se revisarán los protocolos de vigilancia del banco.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-9.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T08:40:19.027Z",
-   "visto": "2026-11-09T08:40:19.027Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
