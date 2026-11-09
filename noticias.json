@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T22:20:20.977Z",
+ "generado": "2026-11-09T22:30:23.304Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 62,
+    "enlaces": 153,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/09/huachipato-derrota-calera-jaime-garcia.html",
+   "titulo": "Jaime García: “Si seguimos haciendo este tipo de desorden se nos complicará clasificar”",
+   "resumen": "Técnico de Huachipato analizó la pálida presentación acerera que cortó una racha de 6 juegos sin derrotas y les impidió meterse en zona de Copa Sudamericana a falta de 3 fechas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Huachipato-vs-D.-Concepci%C3%B3n-e1794262721395.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T22:30:23.304Z",
+   "visto": "2026-11-09T22:30:23.304Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/reacciones-biobio-ley-frenazo-combustibles-camioneros.html",
    "titulo": "Parlamentarios del Biobío confrontan respuesta de La Moneda ante movilización de camioneros",
@@ -1804,20 +1818,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/morados-deben-bajar-a-everton-para-seguir-por-el-sueno-de-sudamericana.html",
-   "titulo": "Morados deben bajar a Everton para seguir por el sueño de Sudamericana",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Deportes-Concepcion-vs-Everton-foto-Lorena-Vecchio-e1794015944636.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
    "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
    "resumen": "",
@@ -1870,6 +1870,20 @@
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/morados-deben-bajar-a-everton-para-seguir-por-el-sueno-de-sudamericana.html",
+   "titulo": "Morados deben bajar a Everton para seguir por el sueño de Sudamericana",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Deportes-Concepcion-vs-Everton-foto-Lorena-Vecchio-e1794015944636.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
