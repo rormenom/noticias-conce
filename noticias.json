@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T08:30:25.325Z",
+ "generado": "2026-11-09T08:40:19.027Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 62,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,77 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/avance-alcanza-el-933-en-soluciones-habitacionales-en-el-biobio.html",
+   "titulo": "Avance alcanza el 9,33% en soluciones habitacionales en el Biobío",
+   "resumen": "La iniciativa del ministerio es integral, ya que aborda metas no solo en entrega de viviendas, sino también en infraestructura urbana y mejoramientos de condominios y conjuntos habitacionales. El seremi de Vivienda y Urbanismo, Anselmo Villagra Cabello,…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/07/WhatsApp-Image-2026-07-23-at-4.49.31-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T08:40:19.027Z",
+   "visto": "2026-11-09T08:40:19.027Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/robo-banco-bci-fallas-seguridad-concepcion.html",
+   "titulo": "A tres cuadras de Carabineros: Forado, oxicorte y ausencia de guardias. Millonario robo a banco expone fallas en protocolos de seguridad",
+   "resumen": "El seremi de Seguridad anunció que se revisarán los protocolos de vigilancia del banco.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-9.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T08:40:19.027Z",
+   "visto": "2026-11-09T08:40:19.027Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/demolicion-de-casona-en-tome-genera-criticas-por-falta-de-proteccion-de-inmuebles-historicos.html",
+   "titulo": "Demolición de casona en Tomé genera críticas por falta de protección de inmuebles históricos",
+   "resumen": "Organizaciones culturales cuestionan la pérdida de construcciones antiguas y la falta de apoyo municipal. El alcalde anunció un catastro y sostuvo que la propiedad demolida no contaba con protección oficiaL",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/02/Tome%CC%81-e1739995700910.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T08:40:19.027Z",
+   "visto": "2026-11-09T08:40:19.027Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/09/biobio-apuesta-por-la-reforestacion-de-150-mil-hectareas-clave-ante-nueva-agenda-del-gobierno.html",
+   "titulo": "Biobío apuesta por la reforestación de 150 mil hectáreas clave ante nueva agenda del Gobierno",
+   "resumen": "Frente a la reducción del patrimonio maderero y los daños por incendios, el Ministerio de Agricultura, Corma, PymeMad y el Gore concuerdan en la necesidad de una política de Estado de largo plazo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/09/Bosque-Mediterraneo-1-e1756766620513.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T08:40:19.027Z",
+   "visto": "2026-11-09T08:40:19.027Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/09/lluvias-impacto-agro-forestal-biobio.html",
+   "titulo": "Lluvias e incertidumbre climática complican al agro y la actividad forestal en la Región del Biobío",
+   "resumen": "Gremios alertan por daños en cosechas, retrasos y paralizaciones de faenas durante el verano.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/07/Sistema-frontal-mejora-las-reservas-de-agua-y-abre-mejores-perspectivas-para-el-agro-del-Biob%C3%ADo-2.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T08:40:19.027Z",
+   "visto": "2026-11-09T08:40:19.027Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/u-de-concepcion-vencio-en-la-agonia-a-ohiggins-deja-el-fondo-y-se-ilusiona-con-seguir-en-primera.shtml",
    "titulo": "U. de Concepción venció en la agonía a O’Higgins, deja el fondo y se ilusiona con seguir en Primera",
@@ -209,10 +280,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/banco-bci-concepcion-mas-de-3-mil-millones-robados-desde-las-bovedas-a-3-cuadras-de-carabineros.html",
-   "titulo": "Banco BCI Concepción: Más de $3 mil millones robados desde las bóvedas a 3 cuadras de Carabineros",
+   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
+   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-9-850x500.png",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-08T22:20:20.870Z",
@@ -223,10 +294,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
-   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
+   "url": "https://www.tvu.cl/prensa/2026/11/08/banco-bci-concepcion-mas-de-3-mil-millones-robados-desde-las-bovedas-a-3-cuadras-de-carabineros.html",
+   "titulo": "Banco BCI Concepción: Más de $3 mil millones robados desde las bóvedas a 3 cuadras de Carabineros",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-9-850x500.png",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-08T22:20:20.870Z",
@@ -587,16 +658,17 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/08/m8zart-ensamble-sinfonica-udec-cierra-temporada-2026-d-camara.html",
-   "titulo": "Con “M8zart” Ensamble de Sinfónica UdeC cierra temporada 2026 D-Cámara",
-   "resumen": "Con la batuta del músico Ramiro Vera, los conciertos en esta modalidad bajarán el telón por este año, de la mano de las composiciones  “Cinco contradanzas” y “Serenata en Re mayor” , de  Wolfgang Amadeus Mozart, y “Concierto para violín en Sol mayor”, de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-tema-domingo-Cultura-8-de-noviembre.jpg",
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/08/exdirectivo-cuestiona-gestion-hospital-traumatologico.html",
+   "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
+   "resumen": "Renato Medina, exdirector (s) del Servicio de Salud Concepción, pidió investigar las eventuales responsabilidades administrativas en el recinto. Además, advirtió que, si se llegase a comprobar el uso de insumos contaminados, incluso podría decretarse su…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-dependencia-hospital-traumatologico-foto-carolina.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-08T08:40:18.789Z",
    "visto": "2026-11-08T08:40:18.789Z",
    "cats": [
-    "cultura"
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -615,21 +687,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/08/exdirectivo-cuestiona-gestion-hospital-traumatologico.html",
-   "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
-   "resumen": "Renato Medina, exdirector (s) del Servicio de Salud Concepción, pidió investigar las eventuales responsabilidades administrativas en el recinto. Además, advirtió que, si se llegase a comprobar el uso de insumos contaminados, incluso podría decretarse su…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-dependencia-hospital-traumatologico-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T08:40:18.789Z",
-   "visto": "2026-11-08T08:40:18.789Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/udec-acerco-el-basquetbol-de-alto-nivel-a-jovenes-deportistas-con-clinica-en-la-casa-del-deporte.html",
    "titulo": "UdeC acercó el básquetbol de alto nivel a jóvenes deportistas con clínica en la Casa del Deporte",
    "resumen": "Jóvenes participantes del torneo interescolar de básquetbol participaron del evento junto a los planteles de honor femeninos y masculinos del Campanil.",
@@ -640,6 +697,20 @@
    "visto": "2026-11-08T08:40:18.789Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/08/m8zart-ensamble-sinfonica-udec-cierra-temporada-2026-d-camara.html",
+   "titulo": "Con “M8zart” Ensamble de Sinfónica UdeC cierra temporada 2026 D-Cámara",
+   "resumen": "Con la batuta del músico Ramiro Vera, los conciertos en esta modalidad bajarán el telón por este año, de la mano de las composiciones  “Cinco contradanzas” y “Serenata en Re mayor” , de  Wolfgang Amadeus Mozart, y “Concierto para violín en Sol mayor”, de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-tema-domingo-Cultura-8-de-noviembre.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T08:40:18.789Z",
+   "visto": "2026-11-08T08:40:18.789Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -912,20 +983,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/07/sag-controles-carreteros-decomiso-ilegal.html",
-   "titulo": "SAG anuncia tolerancia cero al ingreso ilegal de productos agropecuarios",
-   "resumen": "Operativos coordinados en cuatro regiones buscan cortar el transporte y la distribución de mercancías que pueden introducir plagas y enfermedades ausentes en Chile. La medida se articula con el nuevo Plan Estratégico de Mosca de la Fruta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fisalizaci%C3%B3n-1-e1794016043137.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
    "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
    "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
@@ -952,6 +1009,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/07/sag-controles-carreteros-decomiso-ilegal.html",
+   "titulo": "SAG anuncia tolerancia cero al ingreso ilegal de productos agropecuarios",
+   "resumen": "Operativos coordinados en cuatro regiones buscan cortar el transporte y la distribución de mercancías que pueden introducir plagas y enfermedades ausentes en Chile. La medida se articula con el nuevo Plan Estratégico de Mosca de la Fruta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fisalizaci%C3%B3n-1-e1794016043137.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1155,20 +1226,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/sala-ensayos-comunal-san-rosendo-minvu.html",
-   "titulo": "Minvu traspasará más de $336 millones para la construcción de espacio cultural y artístico en San Rosendo",
-   "resumen": "Inversión de $336 millones del Minvu permitirá levantar un recinto cultural y multiuso de 228 m² para organizaciones y agrupaciones locales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Sala-de-Ensayos-San-Rosendo-e1794007516553.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/agua-potable-rural-huallerehue-santa-juana.html",
    "titulo": "Santa Juana: 283 familias de Huallerehue acceden a red de agua potable rural tras años de espera",
    "resumen": "Con una inversión sectorial de $2.630 millones, el proyecto en Huallerehue sumó 172 arranques y proyecta abastecer a 1.556 personas a 20 años.",
@@ -1183,24 +1240,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pastoreo-estrategico-cabras-prevencion-incendios-florida.html",
-   "titulo": "FOTOS | Con cabras y manejo comunitario: aplican pastoreo preventivo para frenar el fuego en Florida",
-   "resumen": "Familias de Pantanal recibieron ganado caprino entrenado para consumir vegetación seca y crear cortafuegos naturales antes del verano.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pastoreo-estrategico-cabras-prevencion-incendios-florida-1-e1794004898461.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/biblioteca-municipal-chiguayante-apertura-noviembre.html",
-   "titulo": "Tras más de 10 años de proceso: Chiguayante inaugurará su nueva Biblioteca Municipal",
-   "resumen": "La nueva Biblioteca Municipal de Chiguayante abrirá sus puertas a la comunidad el próximo lunes 16 de noviembre, tras la habilitación de un espacio que recupera parte de las antiguas bodegas de la fábrica textil Caupolicán y pone en valor el patrimonio…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/images-7.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/sala-ensayos-comunal-san-rosendo-minvu.html",
+   "titulo": "Minvu traspasará más de $336 millones para la construcción de espacio cultural y artístico en San Rosendo",
+   "resumen": "Inversión de $336 millones del Minvu permitirá levantar un recinto cultural y multiuso de 228 m² para organizaciones y agrupaciones locales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Sala-de-Ensayos-San-Rosendo-e1794007516553.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -1418,6 +1461,34 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pastoreo-estrategico-cabras-prevencion-incendios-florida.html",
+   "titulo": "FOTOS | Con cabras y manejo comunitario: aplican pastoreo preventivo para frenar el fuego en Florida",
+   "resumen": "Familias de Pantanal recibieron ganado caprino entrenado para consumir vegetación seca y crear cortafuegos naturales antes del verano.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pastoreo-estrategico-cabras-prevencion-incendios-florida-1-e1794004898461.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/biblioteca-municipal-chiguayante-apertura-noviembre.html",
+   "titulo": "Tras más de 10 años de proceso: Chiguayante inaugurará su nueva Biblioteca Municipal",
+   "resumen": "La nueva Biblioteca Municipal de Chiguayante abrirá sus puertas a la comunidad el próximo lunes 16 de noviembre, tras la habilitación de un espacio que recupera parte de las antiguas bodegas de la fábrica textil Caupolicán y pone en valor el patrimonio…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/images-7.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
    ],
@@ -1707,20 +1778,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/06/servicio-de-salud-concepcion-descarta-motivaciones-politicas-en-cambios-de-jefaturas-de-hospitales.shtml",
-   "titulo": "Servicio de Salud Concepción descarta motivaciones políticas en cambios de jefaturas de hospitales",
-   "resumen": "El Servicio de Salud Concepción, región del Bío Bío, descartó motivaciones políticas detrás de los últimos cambios en las jefaturas...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7009776-servicio-de-salud-concepcion.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-06T14:02:53.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.radioudec.cl/lota-fortalece-su-camino-hacia-la-unesco-autoridades-impulsan-la-recuperacion-del-patrimonio-minero-y-su-memoria-historica/",
    "titulo": "Lota fortalece su camino hacia la UNESCO: autoridades impulsan la recuperación del patrimonio minero y su memoria histórica",
    "resumen": "El pasado 3 de noviembre se convocó la sesión N.º […]",
@@ -1731,20 +1788,6 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "cultura",
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/06/polemica-tras-muerte-de-quique-que-fallecio-tras-ser-decomisado-desde-centro-de-rehabilitacion-en-tome.shtml",
-   "titulo": "Polémica tras muerte de quique que falleció tras ser decomisado desde centro de rehabilitación en Tomé",
-   "resumen": "Polémica ha causado la muerte de un quique, conocido también como hurón chileno, que falleció tras ser decomisado por...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7009559-quique.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-06T10:47:08.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
     "regional"
    ],
    "local": true
