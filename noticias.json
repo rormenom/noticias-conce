@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T19:30:24.760Z",
+ "generado": "2026-11-09T19:40:19.752Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 61,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 9,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/bypass-penco-lirquen-cierre.html",
+   "titulo": "Bypass Penco-Lirquén: cierre por trabajos de conservación se realizará este sábado",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2018/04/Bypass-Penco-Lirquen-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T19:40:19.752Z",
+   "visto": "2026-11-09T19:40:19.752Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/09/revelan-que-delincuentes-cortaron-camara-2-dias-antes-de-robo-de-3mil-millones-a-banco-en-concepcion",
    "titulo": "Delincuentes desactivaron una cámara dos días antes del robo de $3 mil millones a un banco de Concepción",
@@ -1226,20 +1240,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/terminal-rural-concepcion-demanda-seguridad-espacio.html",
-   "titulo": "Terminal rural en Concepción: una demanda pendiente ante problemas de seguridad y espacio",
-   "resumen": "La iniciativa cuenta con el respaldo de usuarios y del municipio, que advierten problemas de seguridad y falta de espacios de espera. Aunque se ha manifestado interés de privados, no existe una propuesta concreta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-micros-rurales-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T08:40:18.789Z",
-   "visto": "2026-11-08T08:40:18.789Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/08/exdirectivo-cuestiona-gestion-hospital-traumatologico.html",
    "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
    "resumen": "Renato Medina, exdirector (s) del Servicio de Salud Concepción, pidió investigar las eventuales responsabilidades administrativas en el recinto. Además, advirtió que, si se llegase a comprobar el uso de insumos contaminados, incluso podría decretarse su…",
@@ -1279,6 +1279,20 @@
    "visto": "2026-11-08T08:40:18.789Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/terminal-rural-concepcion-demanda-seguridad-espacio.html",
+   "titulo": "Terminal rural en Concepción: una demanda pendiente ante problemas de seguridad y espacio",
+   "resumen": "La iniciativa cuenta con el respaldo de usuarios y del municipio, que advierten problemas de seguridad y falta de espacios de espera. Aunque se ha manifestado interés de privados, no existe una propuesta concreta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-micros-rurales-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T08:40:18.789Z",
+   "visto": "2026-11-08T08:40:18.789Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1824,20 +1838,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/cge-sec-multa-medidores.html",
-   "titulo": "SEC Biobío valora fallo contra CGE: retiro de medidores de clientes vulneró la normativa vigente",
-   "resumen": "La Superintendencia sancionó a la distribuidora por retirar equipos sin justificación técnica y reemplazarlos sin la certificación exigida. La medida coincide con la polémica sobre la voluntariedad del cambio y las dudas de los usuarios sobre la tecnología…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-medidores-inteligentes-de-luz-foto-cc.jpg-e1793927471392.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/udec-destaca-premios-avonni-2026-hydraterra-cicla.html",
    "titulo": "De la escasez hídrica al reciclaje de plásticos: tecnologías vinculadas a la UdeC son reconocidas en los Premios Avonni 2026",
    "resumen": "Los reconocimientos a HydraTerra y CICLA 3D, junto con la nominación de AquaShield Cherry, reflejan el alcance de la investigación aplicada y el apoyo al emprendimiento vinculados a la Universidad.",
@@ -2237,21 +2237,6 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/municipio-de-arauco-evalua-crear-feria-ganadera-para-impulsar-el-comercio-local/",
-   "titulo": "Municipio de Arauco evalúa crear feria ganadera para impulsar el comercio local",
-   "resumen": "Junto a la Seremi de Agricultura: La implementación requiere conocer el interés del sector y definir un recinto que reúna las condiciones adecuadas.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/muni-arauco-seremi-agricultira-feria-ganadera-768x428.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-04T19:33:30.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
