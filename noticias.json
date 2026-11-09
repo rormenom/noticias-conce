@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T23:00:30.218Z",
+ "generado": "2026-11-09T23:20:19.600Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 60,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -529,6 +529,20 @@
    "visto": "2026-11-09T16:50:20.467Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/millonario-robo-concepcion-recopilan-antecedentes-sobre-sistemas-de-seguridad-internos/",
+   "titulo": "Millonario robo Concepción: recopilan antecedentes sobre sistemas de seguridad internos",
+   "resumen": "El seremi de Seguridad del Biobío, Richard Soto indicó que se está revisando el funcionamiento y utilización de las cámaras de vigilancia.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/diligencias-pdi-ccp-robo-banco-forado--768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-09T16:49:26.000Z",
+   "visto": "2026-11-09T23:20:19.600Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1839,20 +1853,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T12:50:18.393Z",
    "visto": "2026-11-07T12:50:18.393Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/07/deuda-publica-chile-megaobras-biobio.html",
-   "titulo": "Deuda pública de Chile: monto equivale a financiar 105 veces cinco megaobras del Biobío",
-   "resumen": "El paquete regional de referencia considera la Costanera Sur de San Pedro de la Paz, la Ruta Pie de Monte, la Red de Hospitales del Biobío, el Nuevo Puente Ferroviario sobre el río Biobío y el Puente Industrial.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-Congreso-de-Chile-foto-cedida.jpg-e1794015575174.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T12:20:19.412Z",
-   "visto": "2026-11-07T12:20:19.412Z",
    "cats": [
     "regional"
    ],
