@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T17:00:29.473Z",
+ "generado": "2026-11-09T17:10:22.629Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 62,
+    "enlaces": 155,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -901,6 +901,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/08/convocatoria-cuarta-version-expo-de-mar-a-cordillera-recta-final.html",
+   "titulo": "Convocatoria de cuarta versión de Expo De Mar a Cordillera entra en su recta final",
+   "resumen": "Hasta este 10 de noviembre podrán postular agrupaciones de artistas, artesanos, diseñadores y creadores de la región. La muestra se realizará a mediados de diciembre en el centro de Concepción y proyecta reunir a más de 300 expositores, poniendo en valor la…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Expo25.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T15:00:00.000Z",
+   "visto": "2026-11-09T17:00:29.473Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.tvu.cl/prensa/2026/11/08/moises-abre-camino-en-el-mar-la-udec-sigue-con-vida.html",
    "titulo": "Moisés abre camino en el mar: la UdeC sigue con vida",
    "resumen": "",
@@ -925,20 +939,6 @@
    "visto": "2026-11-09T11:10:20.079Z",
    "cats": [
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/08/convocatoria-cuarta-version-expo-de-mar-a-cordillera-recta-final.html",
-   "titulo": "Convocatoria de cuarta versión de Expo De Mar a Cordillera entra en su recta final",
-   "resumen": "Hasta este 10 de noviembre podrán postular agrupaciones de artistas, artesanos, diseñadores y creadores de la región. La muestra se realizará a mediados de diciembre en el centro de Concepción y proyecta reunir a más de 300 expositores, poniendo en valor la…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Expo25.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T15:00:00.000Z",
-   "visto": "2026-11-09T17:00:29.473Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   },
