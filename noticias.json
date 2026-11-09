@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T16:10:23.731Z",
+ "generado": "2026-11-09T16:30:25.509Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 151,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/robo-bci-concepcion-sabotaje-camaras-escape-parque-ecuador.html",
+   "titulo": "VIDEO | Sabotaje a cámaras y huida al Parque Ecuador marcan investigación por millonario robo a Banco BCI",
+   "resumen": "Cámaras municipales captaron a sujetos saboteando el tendido el viernes a las 19:36 horas y registraron su posterior huida hacia el Parque Ecuador.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/robo-bci-concepcion-sabotaje-camaras-escape-parque-ecuador.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T16:30:25.509Z",
+   "visto": "2026-11-09T16:30:25.509Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/09/gobierno-alerta-que-delincuentes-estaban-muy-organizados-para-millonario-robo-a-banco-en-concepcion",
    "titulo": "Gobierno advierte que autores del millonario asalto bancario en Concepción actuaron con gran organización",
@@ -1816,20 +1830,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/leo-mael-y-los-navegantes-una-propuesta-musical-que-une-nostalgia-y-baile",
-   "titulo": "Leo Mael y Los Navegantes: Una propuesta musical que une nostalgia y baile",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/11/Interpretacion-acustica-en-estudio-768x431.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "regional"
    ],
