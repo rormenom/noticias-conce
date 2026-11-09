@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T08:40:19.027Z",
+ "generado": "2026-11-09T09:10:20.169Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 5,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 57,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/u-de-concepcion-vencio-en-la-agonia-a-ohiggins-deja-el-fondo-y-se-ilusiona-con-seguir-en-primera",
+   "titulo": "Universidad de Concepción derrotó a O’Higgins en el final y salió del último lugar de la tabla",
+   "resumen": "Universidad de Concepción logró una agónica y valiosa victoria en su objetivo de alejarse del descenso. Este domingo venció por 3-2 a O’Higgins en un emocionante partido jugado en el estadio Ester Roa, por la fecha 27 de la Liga de Primera 2026. El resultado…",
+   "imagen": "https://media.canal9.cl/2026/11/udec-ohiggins-liga-de-primera-1-768x405.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T09:10:20.169Z",
+   "visto": "2026-11-09T09:10:20.169Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/avance-alcanza-el-933-en-soluciones-habitacionales-en-el-biobio.html",
    "titulo": "Avance alcanza el 9,33% en soluciones habitacionales en el Biobío",
