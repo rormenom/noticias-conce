@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T06:30:26.587Z",
+ "generado": "2026-11-09T07:10:20.585Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -1977,20 +1977,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/04/desarrolla-biobio-abre-la-licitacion-para-las-proximas-tres-ediciones-del-festival-rec/",
-   "titulo": "Desarrolla Biobío abre la licitación para las próximas tres ediciones del Festival REC",
-   "resumen": "Presupuesto basal supera los $3 mil millones y el objetivo es que la versión 2027 sea en marzo",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/festival-rec-2026-768x428.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-04T07:04:02.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   }
