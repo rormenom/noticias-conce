@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T03:40:18.686Z",
+ "generado": "2026-11-09T04:10:19.312Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -222,20 +222,6 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/es-ridiculo-que-los-insumos-esten-ahi-exdirectivo-del-ssc-cuestiona-gestion-del-hospital-traumatologico.html",
-   "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-4-dependencia-hospital-traumatologico-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-08T22:20:20.870Z",
-   "visto": "2026-11-08T22:20:20.870Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/08/hacienda-juntas-el-latido-historico-que-une-el-biobio-con-el-desierto-renace-como-icono-de-lujo-y-sostenibilidad-en-el-valle-del-limari.html",
    "titulo": "Hacienda Juntas: El latido histórico que une el Biobío con el desierto renace como ícono de lujo y sostenibilidad en el Valle del Limarí",
    "resumen": "",
@@ -247,6 +233,20 @@
    "cats": [
     "regional",
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/08/es-ridiculo-que-los-insumos-esten-ahi-exdirectivo-del-ssc-cuestiona-gestion-del-hospital-traumatologico.html",
+   "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-4-dependencia-hospital-traumatologico-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-08T22:20:20.870Z",
+   "visto": "2026-11-08T22:20:20.870Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
