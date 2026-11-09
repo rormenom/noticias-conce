@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T19:40:19.752Z",
+ "generado": "2026-11-09T19:50:21.125Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 62,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/transportistas-escolares-de-concepcion-anuncian-movilizacion-para-este-martes-por-alza-de-combustibles.shtml",
+   "titulo": "Transportistas escolares de Concepción anuncian movilización para este martes por alza de combustibles",
+   "resumen": "Los transportistas escolares anunciaron una movilización ante una nueva alza en el precio de los combustibles, situación que podría derivar...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013007-a_uno_1558734-1200x633-1.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T19:45:38.000Z",
+   "visto": "2026-11-09T19:50:21.125Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/bypass-penco-lirquen-cierre.html",
    "titulo": "Bypass Penco-Lirquén: cierre por trabajos de conservación se realizará este sábado",
