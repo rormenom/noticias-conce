@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T19:50:21.125Z",
+ "generado": "2026-11-09T20:00:30.186Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/tres-detenidos-por-robo-de-herramientas-a-constructora-en-hualpen-hicieron-un-forado-para-ingresar.shtml",
+   "titulo": "Tres detenidos por robo de herramientas a constructora en Hualpén: hicieron un forado para ingresar",
+   "resumen": "Este lunes, se registró un robo que afectó a la constructora Pacal, ubicada en la avenida Colón de Hualpén, ...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012866-captura-de-pantalla.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T19:56:47.000Z",
+   "visto": "2026-11-09T20:00:30.186Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/transportistas-escolares-de-concepcion-anuncian-movilizacion-para-este-martes-por-alza-de-combustibles.shtml",
    "titulo": "Transportistas escolares de Concepción anuncian movilización para este martes por alza de combustibles",
@@ -1819,20 +1833,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/ecomercado-solidario-chiguayante-fosis.html",
-   "titulo": "FOSIS inaugura EcoMercado Solidario en Chiguayante que apoyará a 300 familias",
-   "resumen": "La iniciativa recupera alimentos de supermercados y ferias para entregarlos gratuitamente.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO-5-e1793992949544.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
