@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T10:26:13.532Z",
+ "generado": "2026-11-09T10:50:20.284Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 63,
+    "enlaces": 152,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/municipio-de-concepcion-retoma-obras-de-plaza-peru-tras-salida-de-la-empresa-a-cargo",
+   "titulo": "Municipio de Concepción retoma obras de Plaza Perú tras salida de la empresa a cargo",
+   "resumen": "La empresa Tromen no logró terminar los trabajos en la Plaza Perú de Concepción y se retiró de la obra, que se inició hace más de un año y quedó con un 95% de avance. Fernando Nova, subdirector de Construcciones de la Municipalidad, explicó cómo el municipio…",
+   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-05-at-08.40.56-768x576.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T10:50:20.284Z",
+   "visto": "2026-11-09T10:50:20.284Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/camioneros-de-los-angeles-inician-movilizacion-en-la-ruta-5-sur-por-alza-de-combustibles.shtml",
+   "titulo": "Camioneros de Los Ángeles inician movilización en la Ruta 5 Sur por alza de combustibles",
+   "resumen": "Una movilización iniciaron este lunes los camioneros de Los Ángeles, en la región del Bío Bío, en la Ruta...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012118-camioneros-movilizacion-los-angeles.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T10:49:58.000Z",
+   "visto": "2026-11-09T10:50:20.284Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/09/u-de-concepcion-vencio-en-la-agonia-a-ohiggins-deja-el-fondo-y-se-ilusiona-con-seguir-en-primera",
    "titulo": "Universidad de Concepción derrotó a O’Higgins en el final y salió del último lugar de la tabla",
@@ -178,6 +207,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/inauguran-nuevo-sistema-de-agua-potable-rural-en-santa-juana/",
+   "titulo": "Inauguran nuevo sistema de agua potable rural en Santa Juana",
+   "resumen": "Más de 1.000 vecinos serán beneficiados.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Huallerehue-768x576.webp",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-09T07:00:36.000Z",
+   "visto": "2026-11-09T10:50:20.284Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1440,20 +1483,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/el-fin-de-una-era-historica-libreria-el-gallo-y-confiteria-santiago-cierran-sus-puertas-en-centro-penquista",
-   "titulo": "El fin de una era: histórica librería El Gallo y Confitería Santiago cierran sus puertas en centro penquista",
-   "resumen": "Dos locales emblemáticos y arraigados en la memoria colectiva penquista, la librería El Gallo y Confitería Santiago, ubicados en plena calle Aníbal Pinto, anunciaron el cese definitivo de sus operaciones y la baja de sus cortinas para este mes de noviembre.…",
-   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-06-at-11.39.11-e1793976986698-768x425.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/06/pronostican-altas-temperaturas-en-zonas-desde-atacama-a-los-lagos-maximas-rondaran-los-35-c",
    "titulo": "Pronostican hasta 35 °C en varias zonas entre Atacama y Los Lagos",
    "resumen": "",
@@ -1486,6 +1515,20 @@
    "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/06/el-fin-de-una-era-historica-libreria-el-gallo-y-confiteria-santiago-cierran-sus-puertas-en-centro-penquista",
+   "titulo": "El fin de una era: histórica librería El Gallo y Confitería Santiago cierran sus puertas en centro penquista",
+   "resumen": "Dos locales emblemáticos y arraigados en la memoria colectiva penquista, la librería El Gallo y Confitería Santiago, ubicados en plena calle Aníbal Pinto, anunciaron el cese definitivo de sus operaciones y la baja de sus cortinas para este mes de noviembre.…",
+   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-06-at-11.39.11-e1793976986698-768x425.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -1745,34 +1788,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/tarifas-licencias-conducir-municipios-biobio-2027.html",
-   "titulo": "Hasta $19 mil de diferencia: tarifas de licencias de conducir evidencian fuertes contrastes para 2027",
-   "resumen": "Las comunas presentan ciertas diferencias en los costos de renovación, trámite que actualmente puede hacerse libremente en cualquier Municipalidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-tijera-licencias-de-conducir-foto-diario-concepci%C3%B3n.jpg-e1793927524522.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/consumo-vampiro-puede-representar-hasta-un-9-de-la-cuenta-electrica/",
-   "titulo": "«Consumo vampiro» puede representar hasta un 9% de la cuenta eléctrica",
-   "resumen": "Televisores, computadores, impresoras, consolas de videojuegos, microondas, equipos de sonido […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/FOTO-4-768x512.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-06T14:59:35.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
