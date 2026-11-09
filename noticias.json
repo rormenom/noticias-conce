@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T04:10:19.312Z",
+ "generado": "2026-11-09T04:40:18.761Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -194,10 +194,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
-   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
+   "url": "https://www.tvu.cl/prensa/2026/11/08/banco-bci-concepcion-mas-de-3-mil-millones-robados-desde-las-bovedas-a-3-cuadras-de-carabineros.html",
+   "titulo": "Banco BCI Concepción: Más de $3 mil millones robados desde las bóvedas a 3 cuadras de Carabineros",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-9-850x500.png",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-08T22:20:20.870Z",
@@ -208,10 +208,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/banco-bci-concepcion-mas-de-3-mil-millones-robados-desde-las-bovedas-a-3-cuadras-de-carabineros.html",
-   "titulo": "Banco BCI Concepción: Más de $3 mil millones robados desde las bóvedas a 3 cuadras de Carabineros",
+   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
+   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-9-850x500.png",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-08T22:20:20.870Z",
