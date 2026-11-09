@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T01:00:27.402Z",
+ "generado": "2026-11-09T01:10:21.608Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 145,
-    "leidas": 62,
+    "enlaces": 146,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/u-de-concepcion-vencio-en-la-agonia-a-ohiggins-deja-el-fondo-y-se-ilusiona-con-seguir-en-primera.shtml",
+   "titulo": "U. de Concepción venció en la agonía a O’Higgins, deja el fondo y se ilusiona con seguir en Primera",
+   "resumen": "Universidad de Concepción consiguió un triunfo agónico y revitalizador en su lucha por escapar del descenso, luego de imponerse por...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012005-udec-ohiggins-liga-de-primera-1.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T01:03:17.000Z",
+   "visto": "2026-11-09T01:10:21.608Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/08/reportan-enfrentamientos-entre-carabineros-e-hinchas-de-colo-colo-en-santiago-y-puerto-montt.shtml",
    "titulo": "Reportan enfrentamientos entre Carabineros e hinchas de Colo Colo en Santiago y Puerto Montt",
@@ -208,6 +222,20 @@
    "local": true
   },
   {
+   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
+   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-08T22:20:20.870Z",
+   "visto": "2026-11-08T22:20:20.870Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.tvu.cl/prensa/2026/11/08/hacienda-juntas-el-latido-historico-que-une-el-biobio-con-el-desierto-renace-como-icono-de-lujo-y-sostenibilidad-en-el-valle-del-limari.html",
    "titulo": "Hacienda Juntas: El latido histórico que une el Biobío con el desierto renace como ícono de lujo y sostenibilidad en el Valle del Limarí",
    "resumen": "",
@@ -219,20 +247,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
-   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-08T22:20:20.870Z",
-   "visto": "2026-11-08T22:20:20.870Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -401,6 +415,20 @@
    "visto": "2026-11-08T15:30:24.066Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/moises-abre-camino-en-el-mar-la-udec-sigue-con-vida.html",
+   "titulo": "Moisés abre camino en el mar: la UdeC sigue con vida",
+   "resumen": "González marcó milagroso gol que significó el 3-2 sobre O'Higgins. El Campanil está a un punto de puestos de salvación, con 3 fechas por delante.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/funes-mori.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T15:00:00.000Z",
+   "visto": "2026-11-09T01:10:21.608Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -574,20 +602,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/udec-acerco-el-basquetbol-de-alto-nivel-a-jovenes-deportistas-con-clinica-en-la-casa-del-deporte.html",
-   "titulo": "UdeC acercó el básquetbol de alto nivel a jóvenes deportistas con clínica en la Casa del Deporte",
-   "resumen": "Jóvenes participantes del torneo interescolar de básquetbol participaron del evento junto a los planteles de honor femeninos y masculinos del Campanil.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-17-clinica-de-basket-foto-carolina-1.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T08:40:18.789Z",
-   "visto": "2026-11-08T08:40:18.789Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/08/m8zart-ensamble-sinfonica-udec-cierra-temporada-2026-d-camara.html",
    "titulo": "Con “M8zart” Ensamble de Sinfónica UdeC cierra temporada 2026 D-Cámara",
    "resumen": "Con la batuta del músico Ramiro Vera, los conciertos en esta modalidad bajarán el telón por este año, de la mano de las composiciones  “Cinco contradanzas” y “Serenata en Re mayor” , de  Wolfgang Amadeus Mozart, y “Concierto para violín en Sol mayor”, de…",
@@ -598,6 +612,20 @@
    "visto": "2026-11-08T08:40:18.789Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/udec-acerco-el-basquetbol-de-alto-nivel-a-jovenes-deportistas-con-clinica-en-la-casa-del-deporte.html",
+   "titulo": "UdeC acercó el básquetbol de alto nivel a jóvenes deportistas con clínica en la Casa del Deporte",
+   "resumen": "Jóvenes participantes del torneo interescolar de básquetbol participaron del evento junto a los planteles de honor femeninos y masculinos del Campanil.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-17-clinica-de-basket-foto-carolina-1.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T08:40:18.789Z",
+   "visto": "2026-11-08T08:40:18.789Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1228,20 +1256,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/udec-logra-triunfo-daniels-saravia.html",
-   "titulo": "UdeC logra el 2-0: destape de Daniels y explosión de Saravia",
-   "resumen": "Básquetbol auricielo se impuso dos veces consecutivas al Ancud de Cooper y Morales gracias a su intensidad y profundidad de plantel. El próximo viernes buscarán entrar a semifinales en la isla.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/francisco-saravia.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/fallece-sebastian-lelio-director-oscar-visita-biobio-nuble.html",
    "titulo": "Luto en el cine chileno: sorpresivamente fallece Sebastián Lelio, director ganador del Oscar que deja huella en Biobío y Ñuble",
    "resumen": "El cineasta nacional y ganador de un premio de la Academia falleció en su vivienda a los 52 años.",
@@ -1392,6 +1406,20 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/udec-logra-triunfo-daniels-saravia.html",
+   "titulo": "UdeC logra el 2-0: destape de Daniels y explosión de Saravia",
+   "resumen": "Básquetbol auricielo se impuso dos veces consecutivas al Ancud de Cooper y Morales gracias a su intensidad y profundidad de plantel. El próximo viernes buscarán entrar a semifinales en la isla.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/francisco-saravia.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
