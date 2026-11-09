@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T11:50:20.298Z",
+ "generado": "2026-11-09T12:00:27.200Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 63,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/09/sofia-rodriguez-judo-hualpen-biobio.html",
+   "titulo": "Sofía Rodríguez: ir al combate como una forma de hacer amigos",
+   "resumen": "Estudiante del Colegio Montaner, de Hualpén, fue la mejor del judo regional en -57 kilos, representó a Biobío en el Nacional y sigue mejorando día a día. A los 14 años, su vida deportiva está llena de sueños.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-46.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T12:00:27.200Z",
+   "visto": "2026-11-09T12:00:27.200Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/09/copa-udec-definio-los-cuatro-mejores-del-basquetbol-escolar.html",
+   "titulo": "Copa UdeC definió los cuatro mejores del básquetbol escolar",
+   "resumen": "Colegio Creación y AJC jugarán la final de damas, mientras que La Asunción y el colegio San Ignacio disputarán el título en varones. La Casa del Deporte prepara otra gran fiesta con juegos de altísimo nivel.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/asuncion-salesiano.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T12:00:27.200Z",
+   "visto": "2026-11-09T12:00:27.200Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/movilizacion-camioneros-los-angeles.html",
    "titulo": "Los Ángeles: camioneros inician movilización en la Ruta 5 Sur",
@@ -277,6 +305,20 @@
    "visto": "2026-11-09T10:50:20.284Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/colo-colo-se-corona-como-el-nuevo-campeon-del-futbol-chileno/",
+   "titulo": "Colo Colo se corona como el nuevo campeón del fútbol chileno",
+   "resumen": "El Cacique gritó campeón en una dramática definición en Chillán.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/colo-colo-campeon-2026-768x512.webp",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-09T07:00:03.000Z",
+   "visto": "2026-11-09T12:00:27.200Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1183,20 +1225,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/sudamericano-de-canotaje-convoca-mas-de-250-deportistas-durante-3-dias-en-quillon.html",
-   "titulo": "Sudamericano de Canotaje convoca más de 250 deportistas durante 3 días en Quillón",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-canotaje-sudamericano-en-quill%C3%B3n-foto-municipalidad-de-quill%C3%B3n-e1794016001323.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
    "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
    "resumen": "",
@@ -1249,6 +1277,20 @@
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/sudamericano-de-canotaje-convoca-mas-de-250-deportistas-durante-3-dias-en-quillon.html",
+   "titulo": "Sudamericano de Canotaje convoca más de 250 deportistas durante 3 días en Quillón",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-canotaje-sudamericano-en-quill%C3%B3n-foto-municipalidad-de-quill%C3%B3n-e1794016001323.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
