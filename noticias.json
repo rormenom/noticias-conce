@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T23:30:22.244Z",
+ "generado": "2026-11-09T23:50:18.288Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 61,
+    "enlaces": 154,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/camioneros-transporte-escolar-protesta-autopista.html",
+   "titulo": "Tras bloqueos en Ruta 5 Sur: camioneros y transporte escolar confirman protestas en la autopista Concepción-Talcahuano",
+   "resumen": "Tras bloqueos en Ruta 5 Sur, camioneros y transporte escolar coincidirán con protestas paralelas en la autopista por el alza de combustibles.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-transporte-escolar-protesta-autopista.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T23:50:18.288Z",
+   "visto": "2026-11-09T23:50:18.288Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/cortes-de-agua-essbio-biobio-fechas-horarios.html",
    "titulo": "Essbio anuncia cortes de agua para esta semana en Concepción, Los Ángeles y Talcahuano",
@@ -1839,20 +1853,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-07T14:20:20.754Z",
    "visto": "2026-11-07T14:20:20.754Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/07/motociclista-muere-tras-colision-con-camion-en-ruta-que-une-concepcion-y-pencomotociclista-muere-tras-colision-con-camnion-en-ruta-que-une-concepcion-y-penco.shtml",
-   "titulo": "Motociclista muere tras colisión con camión en ruta que une Concepción y Penco",
-   "resumen": "Un motociclista murió esta mañana tras una colisión con un camión en la ruta 150, a la altura de Terrazas...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011027-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-07T13:48:58.000Z",
-   "visto": "2026-11-07T13:50:19.674Z",
    "cats": [
     "regional"
    ],
