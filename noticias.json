@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T17:30:24.374Z",
+ "generado": "2026-11-09T17:50:23.084Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 62,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/alcalde-y-vecinos-de-coronel-denuncian-contaminacion-en-sector-patagual-piden-investigacion-a-la-sma.shtml",
+   "titulo": "Alcalde y vecinos de Coronel denuncian contaminación en sector Patagual: piden investigación a la SMA",
+   "resumen": "Una denuncia por el ilegal depósito de desechos pesqueros y material orgánico en el sector de Patagual hizo Boris Chamorro,...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012820-sma.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T17:47:48.000Z",
+   "visto": "2026-11-09T17:50:23.084Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/camioneros-insuficiente-anuncio-kast-combustibles-movilizacion.html",
    "titulo": "Camioneros catalogan de “insuficiente” anuncio de Presidente Kast y exigen congelar el precio de los combustibles",
@@ -1855,20 +1870,6 @@
    "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/justicia-paraliza-caso-puerto-coronel-mientras-tc-resuelve-recurso-presentado-por-alcalde-chamorro",
-   "titulo": "Justicia suspende la causa de Puerto Coronel a la espera de que el TC resuelva el recurso de Chamorro",
-   "resumen": "El caso Puerto Coronel quedó suspendido luego de que el Juzgado de Garantía de Coronel ordenara detener todo el procedimiento, a la espera de que el Tribunal Constitucional (TC) resuelva el requerimiento presentado por el alcalde Boris Chamorro, quien…",
-   "imagen": "https://media.canal9.cl/2026/11/caso-puerto-coronel-768x405.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
