@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T14:20:23.913Z",
+ "generado": "2026-11-09T14:40:22.252Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
-    "leidas": 62,
+    "enlaces": 147,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/municipio-de-chiguayante-debe-pagar-10-millones-por-acoso-laboral-realizado-por-funcionario-de-la-das.shtml",
+   "titulo": "Municipio de Chiguayante debe pagar $10 millones por acoso laboral realizado por funcionario de la DAS",
+   "resumen": "La justicia condenó a la Municipalidad de Chiguayante, región del Bío Bío, al pago de 10 millones de pesos por...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012438-municipalidad-de-chiguayante.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T14:35:23.000Z",
+   "visto": "2026-11-09T14:40:22.252Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/penco-balacera-playa-heridos.html",
    "titulo": "Penco: balacera en playa deja cinco heridos, dos de ellos en situación de gravedad",
@@ -1837,20 +1852,6 @@
    "titulo": "INACAP y la CPC alistan nueva versión de la Feria Laboral 2026: Conoce las fechas y cómo participar en el Bío Bío",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2026/11/el-talento-esta-en-las-regiones-las-oportunidades-siguen-en-santiago-e1793975365680-768x405.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/un-balde-de-agua-fria-madre-de-joven-atropellado-en-penco-cuestiona-a-fiscalia-por-ausencia-de-cautelares-a-conductor",
-   "titulo": "\"Un balde de agua fría\": madre de joven atropellado en Penco cuestiona a Fiscalía por ausencia de cautelares a conductor imputado",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/11/CASO-PENCO-e1793970695472-768x447.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
