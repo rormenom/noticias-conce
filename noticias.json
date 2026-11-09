@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T15:10:20.984Z",
+ "generado": "2026-11-09T15:30:24.350Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 147,
-    "leidas": 61,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/gobierno-alerta-que-delincuentes-estaban-muy-organizados-para-millonario-robo-a-banco-en-concepcion.shtml",
+   "titulo": "Gobierno alerta que delincuentes \"estaban muy organizados\" para millonario robo a banco en Concepción",
+   "resumen": "Autoridades de Gobierno y regionales reaccionaron ante el millonario robo registrado durante la madrugada de este domingo en una sucursal...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012467-gobierno-alerta-que-delincuentes-habrian-aprovechado-jornada-de-teleton-para-robar-banco-en-concepcion.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T15:15:18.000Z",
+   "visto": "2026-11-09T15:30:24.350Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/postular-tarjeta-banco-materiales-minvu.html",
    "titulo": "Ya puedes postular: conoce cómo acceder a la Tarjeta Banco de Materiales 2.0 para reparar tu hogar",
@@ -1800,20 +1815,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pastoreo-estrategico-cabras-prevencion-incendios-florida.html",
-   "titulo": "FOTOS | Con cabras y manejo comunitario: aplican pastoreo preventivo para frenar el fuego en Florida",
-   "resumen": "Familias de Pantanal recibieron ganado caprino entrenado para consumir vegetación seca y crear cortafuegos naturales antes del verano.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pastoreo-estrategico-cabras-prevencion-incendios-florida-1-e1794004898461.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
    ],
