@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T22:50:20.997Z",
+ "generado": "2026-11-09T23:00:30.218Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/cortes-de-agua-essbio-biobio-fechas-horarios.html",
+   "titulo": "Essbio anuncia cortes de agua para esta semana en Concepción, Los Ángeles y Talcahuano",
+   "resumen": "Este martes, miércoles y jueves habrá cortes de agua por parte de Essbio. Las comunas consideradas son Concepción, Talcahuano, Los Ángeles, Lota y Laja, con interrupciones del servicio desde 3 hasta 12 horas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-18.03.21-e1794259797214.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T23:00:30.218Z",
+   "visto": "2026-11-09T23:00:30.218Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/camara-aprueba-en-general-presupuesto-2027.html",
    "titulo": "Cámara de Diputados aprueba en general el Presupuesto 2027 en medio de una áspera sesión",
@@ -658,6 +672,20 @@
    "visto": "2026-11-09T14:10:21.944Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/tras-imponerse-en-los-90-minutos-y-caer-en-penales-fernandez-vial-desperdicia-su-primera-opcion-de-ascenso/",
+   "titulo": "Tras imponerse en los 90 minutos y caer en penales: Fernández Vial desperdicia su primera opción de ascenso",
+   "resumen": "Por Camilo Bravo Ortiz",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Foto-Ascenso-Fernández-Vial-768x512.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-09T13:27:20.000Z",
+   "visto": "2026-11-09T23:00:30.218Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1825,20 +1853,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T12:20:19.412Z",
    "visto": "2026-11-07T12:20:19.412Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/07/sag-controles-carreteros-decomiso-ilegal.html",
-   "titulo": "SAG anuncia tolerancia cero al ingreso ilegal de productos agropecuarios",
-   "resumen": "Operativos coordinados en cuatro regiones buscan cortar el transporte y la distribución de mercancías que pueden introducir plagas y enfermedades ausentes en Chile. La medida se articula con el nuevo Plan Estratégico de Mosca de la Fruta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fisalizaci%C3%B3n-1-e1794016043137.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "regional"
    ],
