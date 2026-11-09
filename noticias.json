@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T17:20:23.895Z",
+ "generado": "2026-11-09T17:30:24.374Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 153,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/camioneros-insuficiente-anuncio-kast-combustibles-movilizacion.html",
+   "titulo": "Camioneros catalogan de “insuficiente” anuncio de Presidente Kast y exigen congelar el precio de los combustibles",
+   "resumen": "Freddy Martínez valoró la apertura de La Moneda pero insistió en congelar tarifas y recortar impuestos ante la pérdida de solvencia en el rubro.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-insuficiente-anuncio-kast-combustibles-movilizacion.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T17:30:24.374Z",
+   "visto": "2026-11-09T17:30:24.374Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/revelan-que-delincuentes-cortaron-camara-2-dias-antes-de-robo-de-3mil-millones-a-banco-en-concepcion.shtml",
+   "titulo": "Revelan que delincuentes cortaron cámara 2 días antes de robo de $3 mil millones a banco en Concepción",
+   "resumen": "La Municipalidad de Concepción reveló imágenes captadas durante los días previos al robo de más de $3 mil millones a...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012655-revelan-que-sujetos-cortaron-camara-dos-dias-antes-de-robo-de-3-mil-millones-a-banco-en-concepcion.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T17:23:30.000Z",
+   "visto": "2026-11-09T17:30:24.374Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/09/penquistas-podran-disfrutar-de-la-tradicioj-india-con-la-celebracion-del-diwali-festival-de-las-luces",
    "titulo": "Penquistas podrán disfrutar de la tradiciój india con la celebración del \"Diwali, Festival de las Luces\"",
@@ -1851,20 +1879,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/agua-potable-rural-huallerehue-santa-juana.html",
-   "titulo": "Santa Juana: 283 familias de Huallerehue acceden a red de agua potable rural tras años de espera",
-   "resumen": "Con una inversión sectorial de $2.630 millones, el proyecto en Huallerehue sumó 172 arranques y proyecta abastecer a 1.556 personas a 20 años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/agua-potable-rural-huallerehue-santa-juana-e1794012673651.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/udec-logra-triunfo-daniels-saravia.html",
    "titulo": "UdeC logra el 2-0: destape de Daniels y explosión de Saravia",
    "resumen": "Básquetbol auricielo se impuso dos veces consecutivas al Ancud de Cooper y Morales gracias a su intensidad y profundidad de plantel. El próximo viernes buscarán entrar a semifinales en la isla.",
@@ -1997,21 +2011,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/05/consulta-publica-actualizacion-prmc.html",
-   "titulo": "Tras más de 20 años sin cambios: en diciembre someterán a consulta pública la actualización del PRMC",
-   "resumen": "La etapa de participación se desarrollará durante diciembre por un periodo de 30 días.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-edificios-en-el-centro-de-Concepci%C3%B3n-foto-carolina-e1793900346120.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/05/fne-aprobo-acuerdo-aza-huachipato.html",
    "titulo": "Sector público y privado destacan que alianza AZA-Huachipato resguarda la vocación industrial de la zona",
    "resumen": "FNE dio luz verde al trato entre ambas compañías para desarrollar acero verde en Talcahuano.",
@@ -2065,6 +2064,21 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/05/consulta-publica-actualizacion-prmc.html",
+   "titulo": "Tras más de 20 años sin cambios: en diciembre someterán a consulta pública la actualización del PRMC",
+   "resumen": "La etapa de participación se desarrollará durante diciembre por un periodo de 30 días.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-edificios-en-el-centro-de-Concepci%C3%B3n-foto-carolina-e1793900346120.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
