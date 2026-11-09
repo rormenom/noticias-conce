@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T17:50:23.084Z",
+ "generado": "2026-11-09T18:00:34.736Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 19,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 63,
+    "enlaces": 152,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/09/camioneros-insuficiente-anuncio-kast-combustibles-movilizacion.html",
+   "titulo": "\"No es suficiente\": gremio de camioneros responde a propuesta del Ejecutivo por costo de combustibles",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/camioneros-insuficiente-anuncio-kast-combustibles-movilizacion.png",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-09T18:00:34.736Z",
+   "visto": "2026-11-09T18:00:34.736Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/alcalde-y-vecinos-de-coronel-denuncian-contaminacion-en-sector-patagual-piden-investigacion-a-la-sma.shtml",
    "titulo": "Alcalde y vecinos de Coronel denuncian contaminación en sector Patagual: piden investigación a la SMA",
@@ -1856,20 +1870,6 @@
    "titulo": "Más de 3.000 controles policiales en el Bío Bío dejan casi 80 detenidos, entre ellos tres extranjeros",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2026/08/cntxt-pdi-por-hombre-muere-baleado-en-san-pedro-de-la-paz-homicidio-768x405.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/comision-de-borde-costero-rechaza-por-unanimidad-proyectos-eolicos-marinos-en-el-golfo-de-arauco",
-   "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
