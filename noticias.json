@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T18:50:22.271Z",
+ "generado": "2026-11-09T19:30:24.760Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 63,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 6,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/revelan-que-delincuentes-cortaron-camara-2-dias-antes-de-robo-de-3mil-millones-a-banco-en-concepcion",
+   "titulo": "Delincuentes desactivaron una cámara dos días antes del robo de $3 mil millones a un banco de Concepción",
+   "resumen": "La Municipalidad de Concepción dio a conocer imágenes registradas en los días anteriores al robo de más de $3 mil millones desde una sucursal del Banco BCI, situada en el centro de la ciudad. En ellas, se observa a personas cortando los cables de una cámara…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/revelan-que-sujetos-cortaron-camara-dos-dias-antes-de-robo-de-3-mil-millones-a-banco-en-concepcion.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T19:30:24.760Z",
+   "visto": "2026-11-09T19:30:24.760Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/charles-aranguiz-evidencio-el-golpe-en-la-u-por-titulo-35-de-colo-colo-para-que-vamos-hablar",
+   "titulo": "Aránguiz reflejó el impacto en la U por el título 35 de Colo Colo: «¿Para qué vamos a hablar?»",
+   "resumen": "La U cumplió en Rancagua al vencer 2-1 a Cobresal en la jornada 27 de la Liga de Primera 2026. Aun así, el triunfo no bastó para conservar sus opciones de ser campeón: Colo Colo ganó por el mismo marcador a Ñublense en Chillán y conquistó su estrella número…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/charles-aranguiz-la-u-autocritica.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T19:30:24.760Z",
+   "visto": "2026-11-09T19:30:24.760Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/09/premios-regionales-arte-y-cultura-biobio-nomina-ganadores-ganadoras-2026.html",
    "titulo": "Premios Regionales de Arte y Cultura del Biobío dan a conocer a sus ganadores 2026",
