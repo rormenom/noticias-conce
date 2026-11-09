@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T20:10:21.342Z",
+ "generado": "2026-11-09T20:50:21.069Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 63,
+    "enlaces": 146,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,97 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/gobierno-suspende-todas-rebajas-condena-excepciones.html",
+   "titulo": "Gobierno anuncia suspensión total de rebajas de condena y derogará la Ley 19.856",
+   "resumen": "El Ejecutivo anunció la suspensión de todos los decretos de rebaja de condena tras revelarse un beneficio otorgado a un homicida.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-11.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T20:50:21.069Z",
+   "visto": "2026-11-09T20:50:21.069Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/tres-detenidos-por-robo-de-herramientas-a-constructora-en-hualpen-hicieron-un-forado-para-ingresar",
+   "titulo": "Tres personas fueron detenidas tras abrir un forado para robar herramientas de una constructora en Hualpén",
+   "resumen": "Este lunes se produjo un robo en la constructora Pacal, situada en avenida Colón, en Hualpén. Los autores abrieron un forado para entrar al recinto y se llevaron especies cuyo valor fue estimado en $20 millones. El delito se cometió desde un terreno…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/captura-de-pantalla.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T20:50:21.069Z",
+   "visto": "2026-11-09T20:50:21.069Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/transportistas-escolares-de-concepcion-anuncian-movilizacion-para-este-martes-por-alza-de-combustibles",
+   "titulo": "Transportistas escolares de Concepción protestarán este martes contra el alza de los combustibles",
+   "resumen": "Los transportistas escolares convocaron a una movilización tras una nueva subida en el valor de los combustibles, un escenario que podría llevarlos a aumentar sus tarifas el próximo año. Durante esta semana, el precio de los combustibles subirá $40 por litro.…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a_uno_1558734-1200x633-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T20:50:21.069Z",
+   "visto": "2026-11-09T20:50:21.069Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/anuncian-corte-de-transito-en-salida-del-bypass-penco-lirquen-para-el-sabado-revisa-los-desvios",
+   "titulo": "Este sábado habrá corte de tránsito en la salida del bypass Penco-Lirquén: conoce los desvíos",
+   "resumen": "La Sociedad Concesionaria Bosques del Itata comunicó que el próximo sábado 14 de noviembre se interrumpirá temporalmente la circulación en una de las salidas del bypass Penco-Lirquén. Según lo informado, el cierre afectará el kilómetro 74,4 de la Ruta 152,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/corte-de-transito-bypass-penco-lirquen.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T20:50:21.069Z",
+   "visto": "2026-11-09T20:50:21.069Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/pasillo-para-el-campeon-revelan-que-catolica-ya-tomo-decision-para-el-clasico-con-colo-colo-en-macul",
+   "titulo": "¿Pasillo para el campeón? Revelan que Católica ya tomó decisión para el clásico con Colo Colo en Macul",
+   "resumen": "La coronación de Colo Colo en la Liga de Primera 2026 puso el foco en el clásico del 22 de noviembre ante Universidad Católica. Después de conquistar su estrella 35 al vencer por 2-1 a Ñublense, el ‘Cacique’ se prepara para festejar con sus hinchas y aguarda…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/colo-colo-catolica-pasillo-campeon.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T20:50:21.069Z",
+   "visto": "2026-11-09T20:50:21.069Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/fajos-de-20-mil-10-mil-y-euros-robo-a-banco-en-concepcion-podria-superar-los-5-mil-millones.shtml",
+   "titulo": "Fajos de $20 mil, $10 mil y euros: robo a banco en Concepción podría superar los $5 mil millones",
+   "resumen": "A más de $5 mil millones podría ascender el monto sustraído en el millonario robo a una sucursal del...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013078-fajos-de-20-mil-10-mil-y-euros_-robo-a-banco-en-concepcion-podria-superar-los-5-mil-millones.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T20:47:12.000Z",
+   "visto": "2026-11-09T20:50:21.069Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/09/leon-gieco-y-su-vinculo-con-chile-hay-entre-nuestros-pueblos-una-hermandad-que-no-todos-entienden.shtml",
    "titulo": "León Gieco y su vínculo con Chile: \"Hay entre nuestros pueblos una hermandad que no todos entienden\"",
@@ -1607,6 +1691,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/07/sag-controles-carreteros-decomiso-ilegal.html",
+   "titulo": "SAG anuncia tolerancia cero al ingreso ilegal de productos agropecuarios",
+   "resumen": "Operativos coordinados en cuatro regiones buscan cortar el transporte y la distribución de mercancías que pueden introducir plagas y enfermedades ausentes en Chile. La medida se articula con el nuevo Plan Estratégico de Mosca de la Fruta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fisalizaci%C3%B3n-1-e1794016043137.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/07/chiguayante-contraloria-gasto-personal-contrata.html",
    "titulo": "Chiguayante: concejales cuestionan ante Contraloría el aumento de gasto en personal a contrata",
    "resumen": "La presentación busca que el organismo examine las operaciones financieras del municipio. Advierten que la proporción de remuneraciones superó el máximo legal.",
@@ -1618,20 +1716,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/07/sag-controles-carreteros-decomiso-ilegal.html",
-   "titulo": "SAG anuncia tolerancia cero al ingreso ilegal de productos agropecuarios",
-   "resumen": "Operativos coordinados en cuatro regiones buscan cortar el transporte y la distribución de mercancías que pueden introducir plagas y enfermedades ausentes en Chile. La medida se articula con el nuevo Plan Estratégico de Mosca de la Fruta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fisalizaci%C3%B3n-1-e1794016043137.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1788,20 +1872,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/facultad-de-medicina-udec-acredito-todos-sus-programas-de-especialidades-medicas/",
-   "titulo": "Facultad de Medicina UdeC acreditó todos sus programas de especialidades médicas",
-   "resumen": "Un importante hito para la formación de especialistas en salud […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/estudiantes-medicina-udec-768x512.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-06T16:04:23.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2068,21 +2138,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/05/biobio-rechaza-parques-eolicos-marinos-golfo-arauco.html",
-   "titulo": "Freno a eólicas en el Golfo de Arauco: CRUBC rechaza concesiones y empresa retira tercer proyecto",
-   "resumen": "La Comisión Regional de Uso de Borde Costero (CRUBC) acordó emitir un pronunciamiento desfavorable a las solicitudes de concesión marítima para los proyectos flotantes “Brisas Marinas” y “Espejo de Agua”. El tercer titular, a cargo del parque “Santa María”,…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/crubc-biobio-rechaza-concesiones-parques-eolicos-marinos-golfo-arauco-e1793918788754.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/05/fne-aprobo-acuerdo-aza-huachipato.html",
    "titulo": "Sector público y privado destacan que alianza AZA-Huachipato resguarda la vocación industrial de la zona",
    "resumen": "FNE dio luz verde al trato entre ambas compañías para desarrollar acero verde en Talcahuano.",
@@ -2122,6 +2177,21 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/05/biobio-rechaza-parques-eolicos-marinos-golfo-arauco.html",
+   "titulo": "Freno a eólicas en el Golfo de Arauco: CRUBC rechaza concesiones y empresa retira tercer proyecto",
+   "resumen": "La Comisión Regional de Uso de Borde Costero (CRUBC) acordó emitir un pronunciamiento desfavorable a las solicitudes de concesión marítima para los proyectos flotantes “Brisas Marinas” y “Espejo de Agua”. El tercer titular, a cargo del parque “Santa María”,…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/crubc-biobio-rechaza-concesiones-parques-eolicos-marinos-golfo-arauco-e1793918788754.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
