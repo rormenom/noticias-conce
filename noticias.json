@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T20:00:30.186Z",
+ "generado": "2026-11-09T20:10:21.342Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 148,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/09/leon-gieco-y-su-vinculo-con-chile-hay-entre-nuestros-pueblos-una-hermandad-que-no-todos-entienden.shtml",
+   "titulo": "León Gieco y su vínculo con Chile: \"Hay entre nuestros pueblos una hermandad que no todos entienden\"",
+   "resumen": "El cantautor argentino regresa al país con tres conciertos en Santiago, Viña del Mar y Concepción. En conversación con BioBioChile, recuerda su relación con la música chilena, revela cómo \"Solo le pido a Dios\" estuvo cerca de quedar fuera de un disco y aborda…",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013065-bbcl-1200-x-633-px-2026-11-09t165745-443.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T20:00:57.000Z",
+   "visto": "2026-11-09T20:10:21.342Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/tres-detenidos-por-robo-de-herramientas-a-constructora-en-hualpen-hicieron-un-forado-para-ingresar.shtml",
    "titulo": "Tres detenidos por robo de herramientas a constructora en Hualpén: hicieron un forado para ingresar",
