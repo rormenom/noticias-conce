@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-09T21:30:23.856Z",
+ "generado": "2026-11-09T21:40:21.687Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "HTTP 507",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -36,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -62,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 63,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -75,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/09/ciclo-cine-irani-microcine-molina-concepcion.html",
+   "titulo": "El Microcine Molina presenta un nuevo ciclo de cine Iraní en Concepción",
+   "resumen": "Continúan las obras cinematográficas del cine Iraní para promover la cultura en los penquistas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Captura-de-pantalla-2026-11-09-181847-e1794260192590.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T21:40:21.687Z",
+   "visto": "2026-11-09T21:40:21.687Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/09/balacera-a-plena-luz-del-dia-en-playa-de-penco-deja-cinco-lesionados-tres-recibieron-impactos-de-bala",
    "titulo": "Enfrentamiento en una playa de Penco deja cinco heridos, tres de ellos por impactos de bala",
@@ -2022,20 +2035,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/youngers-presenta-encuentros-con-kramer-50-este-fin-de-semana-teatro-udec.html",
-   "titulo": "Youngers presenta “Encuentros con Kramer 50+” este fin de semana en el Teatro UdeC",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-1-e1793927854656.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/06/biobio-mar-evacuacion-proteccion-alerta.html",
    "titulo": "Biobío frente al mar: la evacuación y protección no pueden comenzar con una alerta",
    "resumen": "Ante un terremoto esperar una sirena o mensaje puede tener consecuencias fatales. Por eso la educación y preparación son la clave vital.",
@@ -2060,6 +2059,20 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/youngers-presenta-encuentros-con-kramer-50-este-fin-de-semana-teatro-udec.html",
+   "titulo": "Youngers presenta “Encuentros con Kramer 50+” este fin de semana en el Teatro UdeC",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-1-e1793927854656.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
