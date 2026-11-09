@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T14:10:21.944Z",
+ "generado": "2026-11-09T14:20:23.913Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
-    "leidas": 63,
+    "enlaces": 146,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/penco-balacera-playa-heridos.html",
+   "titulo": "Penco: balacera en playa deja cinco heridos, dos de ellos en situación de gravedad",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pdi-detiene-presunto-autor-homicidio-futbol-concepcion.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T14:20:23.913Z",
+   "visto": "2026-11-09T14:20:23.913Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/chiguayante-pone-en-marcha-el-tercer-ecomercado-solidario-de-la-region/",
+   "titulo": "Chiguayante pone en marcha el tercer Ecomercado Solidario de la región",
+   "resumen": "Ante un escenario económico complejo, con altos niveles de cesantía […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Ecomercado-768x512.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-09T14:20:15.000Z",
+   "visto": "2026-11-09T14:20:23.913Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/teleton-concepcion-recibio-equipo-unico-en-latinoamerica/",
    "titulo": "Teletón Concepción recibió equipo único en Latinoamérica",
@@ -1450,20 +1478,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/agua-potable-rural-huallerehue-santa-juana.html",
-   "titulo": "Santa Juana: 283 familias de Huallerehue acceden a red de agua potable rural tras años de espera",
-   "resumen": "Con una inversión sectorial de $2.630 millones, el proyecto en Huallerehue sumó 172 arranques y proyecta abastecer a 1.556 personas a 20 años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/agua-potable-rural-huallerehue-santa-juana-e1794012673651.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/vecinos-ruta-160-carta-presidente-kast.html",
    "titulo": "“El centralismo castigó al Biobío”: treinta juntas de vecinos envían carta a Presidente Kast por freno a obras en Ruta 160",
    "resumen": "Dirigentes de Coronel, Lota y San Pedro de La Paz exigieron al Mandatario revertir el freno al corredor licitado y acusaron discriminación centralista.",
@@ -1693,6 +1707,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/agua-potable-rural-huallerehue-santa-juana.html",
+   "titulo": "Santa Juana: 283 familias de Huallerehue acceden a red de agua potable rural tras años de espera",
+   "resumen": "Con una inversión sectorial de $2.630 millones, el proyecto en Huallerehue sumó 172 arranques y proyecta abastecer a 1.556 personas a 20 años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/agua-potable-rural-huallerehue-santa-juana-e1794012673651.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/sala-ensayos-comunal-san-rosendo-minvu.html",
    "titulo": "Minvu traspasará más de $336 millones para la construcción de espacio cultural y artístico en San Rosendo",
    "resumen": "Inversión de $336 millones del Minvu permitirá levantar un recinto cultural y multiuso de 228 m² para organizaciones y agrupaciones locales.",
@@ -1823,34 +1851,6 @@
    "titulo": "\"Un balde de agua fría\": madre de joven atropellado en Penco cuestiona a Fiscalía por ausencia de cautelares a conductor imputado",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2026/11/CASO-PENCO-e1793970695472-768x447.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/concepcion-trabajadores-del-hospital-traumatologico-marchan-al-centro-penquista-para-exigir-mejoras-laborales-y-transparencia",
-   "titulo": "Trabajadores del Hospital Traumatológico marchan al centro penquista para exigir mejoras laborales y transparencia",
-   "resumen": "Una compleja situación se vive en la red de salud de la provincia de Concepción. Durante la mañana de este viernes, funcionarios agrupados en la Fenpruss, Fenats y Asenf del Hospital Traumatológico de Concepción se congregaron en las afueras del recinto…",
-   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-06-at-08.40.31-e1793965553534-768x446.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/servicio-de-salud-concepcion-afirma-que-los-cambios-en-hospitales-son-una-reasignacion-tecnica",
-   "titulo": "Servicio de Salud Concepción afirma que los cambios en hospitales son una reasignación técnica",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-28-a-las-20.55.34.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
