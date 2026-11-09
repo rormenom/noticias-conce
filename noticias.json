@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T20:50:21.069Z",
+ "generado": "2026-11-09T20:59:45.756Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
-    "leidas": 58,
+    "enlaces": 147,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 11,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/camioneros-ruta-5-sur-recoleccion-basura-santa-barbara.html",
+   "titulo": "Paro de camioneros impacta retiro de basura en Santa Bárbara por cortes en la Ruta 5 Sur",
+   "resumen": "El bloqueo en la Ruta 5 Sur frenó el paso de camiones al relleno Laguna Verde, obligando a suspender el servicio rural y reprogramar el área urbana.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/paro-camioneros-ruta-5-sur-recoleccion-basura-santa-barbara.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T20:59:45.756Z",
+   "visto": "2026-11-09T20:59:45.756Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/balacera-a-plena-luz-del-dia-en-playa-de-penco-deja-cinco-lesionados-tres-recibieron-impactos-de-bala.shtml",
+   "titulo": "Pelea a plena luz del día en playa de Penco deja cinco lesionados: tres recibieron impactos de bala",
+   "resumen": "Una balacera registrada en la playa de Penco, en la región del Bío Bío, dejó a cinco personas lesionadas durante...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013139-foto-contexto-nota-bbcl-73.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T20:56:31.000Z",
+   "visto": "2026-11-09T20:59:45.756Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/gobierno-suspende-todas-rebajas-condena-excepciones.html",
    "titulo": "Gobierno anuncia suspensión total de rebajas de condena y derogará la Ley 19.856",
@@ -1843,20 +1871,6 @@
    "visto": "2026-11-08T14:00:27.573Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/06/tras-cerca-de-70-anos-de-historia-cierra-emblematica-confiteria-santiago-del-centro-de-concepcion.shtml",
-   "titulo": "Tras cerca de 70 años de historia, cierra emblemática Confitería Santiago del centro de Concepción",
-   "resumen": "La Confitería Santiago, uno de los antiguos negocios del centro de Concepción, en la región del Bío Bío, anunció su...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010213-confiteria-santiago-.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-06T17:18:12.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
