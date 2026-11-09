@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T14:40:22.252Z",
+ "generado": "2026-11-09T15:10:20.984Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 147,
-    "leidas": 63,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/postular-tarjeta-banco-materiales-minvu.html",
+   "titulo": "Ya puedes postular: conoce cómo acceder a la Tarjeta Banco de Materiales 2.0 para reparar tu hogar",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/requisitos-fechas-tarjeta-banco-materiales-minvu-biobio.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T15:10:20.984Z",
+   "visto": "2026-11-09T15:10:20.984Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/municipio-de-chiguayante-debe-pagar-10-millones-por-acoso-laboral-realizado-por-funcionario-de-la-das",
+   "titulo": "Chiguayante deberá pagar $10 millones por acoso laboral cometido por un funcionario de la DAS",
+   "resumen": "La justicia ordenó a la Municipalidad de Chiguayante pagar 10 millones de pesos por el acoso laboral cometido por un trabajador de la Dirección de Salud (DAS). El funcionario, quien también es dirigente gremial, habría sido apartado de sus funciones durante…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/municipalidad-de-chiguayante.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T15:10:20.984Z",
+   "visto": "2026-11-09T15:10:20.984Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/municipio-de-chiguayante-debe-pagar-10-millones-por-acoso-laboral-realizado-por-funcionario-de-la-das.shtml",
    "titulo": "Municipio de Chiguayante debe pagar $10 millones por acoso laboral realizado por funcionario de la DAS",
@@ -1323,21 +1351,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
-   "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
-   "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg-e1794015611446.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/07/morados-deben-bajar-a-everton-para-seguir-por-el-sueno-de-sudamericana.html",
    "titulo": "Morados deben bajar a Everton para seguir por el sueño de Sudamericana",
    "resumen": "",
@@ -1404,6 +1417,21 @@
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/catalina-parot-discapacidad-inclusion-teleton.html",
+   "titulo": "“Una falta de acceso puede significar dejar de ejercer derechos”: Ministra Parot sobre la discapacidad",
+   "resumen": "En el marco de la Teletón, la titular de Bienes Nacionales llamó a avanzar hacia ciudades más inclusivas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg-e1794015611446.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -1666,20 +1694,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/justicia-paraliza-caso-puerto-coronel-mientras-tc-resuelve-recurso-presentado-por-alcalde-chamorro",
-   "titulo": "Justicia suspende la causa de Puerto Coronel a la espera de que el TC resuelva el recurso de Chamorro",
-   "resumen": "El caso Puerto Coronel quedó suspendido luego de que el Juzgado de Garantía de Coronel ordenara detener todo el procedimiento, a la espera de que el Tribunal Constitucional (TC) resuelva el requerimiento presentado por el alcalde Boris Chamorro, quien…",
-   "imagen": "https://media.canal9.cl/2026/11/caso-puerto-coronel-768x405.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/06/pronostican-altas-temperaturas-en-zonas-desde-atacama-a-los-lagos-maximas-rondaran-los-35-c",
    "titulo": "Pronostican hasta 35 °C en varias zonas entre Atacama y Los Lagos",
    "resumen": "",
@@ -1712,6 +1726,20 @@
    "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/06/justicia-paraliza-caso-puerto-coronel-mientras-tc-resuelve-recurso-presentado-por-alcalde-chamorro",
+   "titulo": "Justicia suspende la causa de Puerto Coronel a la espera de que el TC resuelva el recurso de Chamorro",
+   "resumen": "El caso Puerto Coronel quedó suspendido luego de que el Juzgado de Garantía de Coronel ordenara detener todo el procedimiento, a la espera de que el Tribunal Constitucional (TC) resuelva el requerimiento presentado por el alcalde Boris Chamorro, quien…",
+   "imagen": "https://media.canal9.cl/2026/11/caso-puerto-coronel-768x405.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -1792,20 +1820,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/biblioteca-municipal-chiguayante-apertura-noviembre.html",
-   "titulo": "Tras más de 10 años de proceso: Chiguayante inaugurará su nueva Biblioteca Municipal",
-   "resumen": "La nueva Biblioteca Municipal de Chiguayante abrirá sus puertas a la comunidad el próximo lunes 16 de noviembre, tras la habilitación de un espacio que recupera parte de las antiguas bodegas de la fábrica textil Caupolicán y pone en valor el patrimonio…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/images-7.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/udec-logra-triunfo-daniels-saravia.html",
    "titulo": "UdeC logra el 2-0: destape de Daniels y explosión de Saravia",
    "resumen": "Básquetbol auricielo se impuso dos veces consecutivas al Ancud de Cooper y Morales gracias a su intensidad y profundidad de plantel. El próximo viernes buscarán entrar a semifinales en la isla.",
@@ -1844,20 +1858,6 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/inacap-y-la-cpc-alistan-nueva-version-de-la-feria-laboral-2026-conoce-las-fechas-y-como-participar-en-el-biobio",
-   "titulo": "INACAP y la CPC alistan nueva versión de la Feria Laboral 2026: Conoce las fechas y cómo participar en el Bío Bío",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/11/el-talento-esta-en-las-regiones-las-oportunidades-siguen-en-santiago-e1793975365680-768x405.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
