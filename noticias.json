@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T16:50:20.467Z",
+ "generado": "2026-11-09T17:00:29.473Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -925,6 +925,20 @@
    "visto": "2026-11-09T11:10:20.079Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/08/convocatoria-cuarta-version-expo-de-mar-a-cordillera-recta-final.html",
+   "titulo": "Convocatoria de cuarta versión de Expo De Mar a Cordillera entra en su recta final",
+   "resumen": "Hasta este 10 de noviembre podrán postular agrupaciones de artistas, artesanos, diseñadores y creadores de la región. La muestra se realizará a mediados de diciembre en el centro de Concepción y proyecta reunir a más de 300 expositores, poniendo en valor la…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Expo25.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T15:00:00.000Z",
+   "visto": "2026-11-09T17:00:29.473Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -2026,20 +2040,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/banda-penquista-pulso-gaiano-emprende-primera-aventura-internacional-colombia.html",
-   "titulo": "Banda penquista Pulso Gaiano emprende su primera aventura internacional en Colombia",
-   "resumen": "El quinteto local llevará su propuesta de rock y ska a tres diferentes escenarios de la ciudad de Bogotá, propiciando el encuentro con la audiencia y la escena musical colombiana. Periplo que cuenta con el apoyo del Fondo de la Música 2026, gestionado por el…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Pulso-Gaiano.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/05/concepcion-sera-protagonista-de-la-semana-de-las-invasiones-biologicas-2026.html",
    "titulo": "Concepción será protagonista de la Semana de las Invasiones Biológicas 2026",
    "resumen": "Del 9 al 14 noviembre se desarrollará el programa en Concepción, con diversas actividades abiertas a todo público con la UdeC como escenario.",
@@ -2064,6 +2064,20 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/banda-penquista-pulso-gaiano-emprende-primera-aventura-internacional-colombia.html",
+   "titulo": "Banda penquista Pulso Gaiano emprende su primera aventura internacional en Colombia",
+   "resumen": "El quinteto local llevará su propuesta de rock y ska a tres diferentes escenarios de la ciudad de Bogotá, propiciando el encuentro con la audiencia y la escena musical colombiana. Periplo que cuenta con el apoyo del Fondo de la Música 2026, gestionado por el…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Pulso-Gaiano.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
