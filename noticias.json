@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T18:00:34.736Z",
+ "generado": "2026-11-09T18:40:21.336Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 19,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/alcalde-y-vecinos-de-coronel-denuncian-contaminacion-en-sector-patagual-piden-investigacion-a-la-sma",
+   "titulo": "Alcalde y residentes de Coronel solicitan a la SMA investigar presunta contaminación en Patagual",
+   "resumen": "Boris Chamorro, alcalde de Coronel, y residentes del sector de Patagual denunciaron el vertido ilegal de residuos pesqueros y materia orgánica en el lugar, en la región del Bío Bío. Por ello, solicitaron a la Superintendencia del Medio Ambiente que investigue…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/sma.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T18:40:21.336Z",
+   "visto": "2026-11-09T18:40:21.336Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/09/camioneros-insuficiente-anuncio-kast-combustibles-movilizacion.html",
    "titulo": "\"No es suficiente\": gremio de camioneros responde a propuesta del Ejecutivo por costo de combustibles",
@@ -1856,20 +1871,6 @@
    "titulo": "Pronostican hasta 35 °C en varias zonas entre Atacama y Los Lagos",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2026/11/altas-temperaturas-2-768x405.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/mas-de-3-000-controles-policiales-en-el-bio-bio-dejan-casi-80-detenidos-entre-ellos-tres-extranjeros",
-   "titulo": "Más de 3.000 controles policiales en el Bío Bío dejan casi 80 detenidos, entre ellos tres extranjeros",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/08/cntxt-pdi-por-hombre-muere-baleado-en-san-pedro-de-la-paz-homicidio-768x405.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
