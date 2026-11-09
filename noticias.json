@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T01:10:21.608Z",
+ "generado": "2026-11-09T01:40:19.899Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 19,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
+    "enlaces": 147,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -429,6 +429,20 @@
    "visto": "2026-11-09T01:10:21.608Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/08/moises-abre-camino-en-el-mar-la-udec-sigue-con-vida.html",
+   "titulo": "Moisés abre camino en el mar: la UdeC sigue con vida",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/funes-mori-850x500.jpeg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-08T15:00:00.000Z",
+   "visto": "2026-11-09T01:40:19.899Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1747,20 +1761,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/05/salud-abre-sumario-sanitario-por-filtracion-de-aguas-servidas-desde-ducto-de-essbio-en-penco.shtml",
-   "titulo": "Salud abre sumario sanitario por filtración de aguas servidas desde ducto de Essbio en Penco",
-   "resumen": "Un sumario sanitario inició la Seremi de Salud del Bío Bío a raíz de una filtración de aguas servidas...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7008766-salud-abre-sumario-sanitario-por-filtracion-de-aguas-servidas-en-penco-desde-ducto-de-essbio.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-05T19:19:28.000Z",
-   "visto": "2026-11-07T02:17:09.096Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
