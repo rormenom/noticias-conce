@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T15:30:24.350Z",
+ "generado": "2026-11-09T15:40:22.310Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
+    "enlaces": 148,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/tedxchillan-confirma-su-primera-edicion-en-nuble-bajo-el-lema-raices-del-futuro/",
+   "titulo": "TEDxChillán confirma su primera edición en Ñuble bajo el lema “Raíces del Futuro”",
+   "resumen": "TEDxChillán, evento de ideas organizado de manera independiente bajo licencia […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/oSrNIaKyQH6RycnJvFg5-768x429.png",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-09T15:39:34.000Z",
+   "visto": "2026-11-09T15:40:22.310Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/gobierno-alerta-que-delincuentes-estaban-muy-organizados-para-millonario-robo-a-banco-en-concepcion.shtml",
    "titulo": "Gobierno alerta que delincuentes \"estaban muy organizados\" para millonario robo a banco en Concepción",
