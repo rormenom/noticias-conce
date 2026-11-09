@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T12:00:27.200Z",
+ "generado": "2026-11-09T12:20:19.183Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 61,
+    "enlaces": 147,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/fiscalia-lleva-a-juicio-litigio-familiar-por-propiedad-de-complejo-la-pequena-escandinavia-en-tome.shtml",
+   "titulo": "Fiscalía lleva a juicio litigio familiar por propiedad de complejo \"La Pequeña Escandinavia\" en Tomé",
+   "resumen": "Penas de hasta ocho años de cárcel enfrenta una pareja denunciada por administración desleal y la apropiación indebida de un...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012157-la-pequena-escandinavia-.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T12:17:26.000Z",
+   "visto": "2026-11-09T12:20:19.183Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/09/sofia-rodriguez-judo-hualpen-biobio.html",
    "titulo": "Sofía Rodríguez: ir al combate como una forma de hacer amigos",
@@ -224,20 +238,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/avance-alcanza-el-933-en-soluciones-habitacionales-en-el-biobio.html",
-   "titulo": "Avance alcanza el 9,33% en soluciones habitacionales en el Biobío",
-   "resumen": "La iniciativa del ministerio es integral, ya que aborda metas no solo en entrega de viviendas, sino también en infraestructura urbana y mejoramientos de condominios y conjuntos habitacionales. El seremi de Vivienda y Urbanismo, Anselmo Villagra Cabello,…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/07/WhatsApp-Image-2026-07-23-at-4.49.31-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T08:40:19.027Z",
-   "visto": "2026-11-09T08:40:19.027Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/demolicion-de-casona-en-tome-genera-criticas-por-falta-de-proteccion-de-inmuebles-historicos.html",
    "titulo": "Demolición de casona en Tomé genera críticas por falta de protección de inmuebles históricos",
    "resumen": "Organizaciones culturales cuestionan la pérdida de construcciones antiguas y la falta de apoyo municipal. El alcalde anunció un catastro y sostuvo que la propiedad demolida no contaba con protección oficiaL",
@@ -248,6 +248,20 @@
    "visto": "2026-11-09T08:40:19.027Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/avance-alcanza-el-933-en-soluciones-habitacionales-en-el-biobio.html",
+   "titulo": "Avance alcanza el 9,33% en soluciones habitacionales en el Biobío",
+   "resumen": "La iniciativa del ministerio es integral, ya que aborda metas no solo en entrega de viviendas, sino también en infraestructura urbana y mejoramientos de condominios y conjuntos habitacionales. El seremi de Vivienda y Urbanismo, Anselmo Villagra Cabello,…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/07/WhatsApp-Image-2026-07-23-at-4.49.31-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T08:40:19.027Z",
+   "visto": "2026-11-09T08:40:19.027Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1809,20 +1823,6 @@
    "titulo": "Abstención de tres concejales impide aprobar la nueva planta municipal de San Pedro de la Paz",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2025/12/foto-muni-san-pedro-768x370.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/fundacion-nacurutu-denuncia-maltrato-animal-en-la-pdi-por-la-muerte-de-enrique-el-quique",
-   "titulo": "Tras retiro de fundación Ñacurutú: \"hurón chileno\" muere luego de ser decomisado por el SAG",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-06-a-las-6.12.13%E2%80%AFa.-m-768x469.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
