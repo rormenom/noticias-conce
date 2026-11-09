@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T21:40:21.687Z",
+ "generado": "2026-11-09T22:10:20.196Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 152,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/reacciones-biobio-ley-frenazo-combustibles-camioneros.html",
+   "titulo": "Parlamentarios del Biobío confrontan respuesta de La Moneda ante movilización de camioneros",
+   "resumen": "Medidas de La Moneda para topar alzas en $20 por 90 días abrieron el cruce entre parlamentarios del Biobío ante el paro de camioneros.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/exigencias-camioneros-alza-combustibles-avda-diagonal-pedro-aguirre-cerda-en-san-pedro-de-la-paz-foto-isidoro-e1790796106719-850x500-1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T22:10:20.196Z",
+   "visto": "2026-11-09T22:10:20.196Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/09/ciclo-cine-irani-microcine-molina-concepcion.html",
    "titulo": "El Microcine Molina presenta un nuevo ciclo de cine Iraní en Concepción",
@@ -1962,21 +1976,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/puerto-coronel-fiscalia-riesgo-dilacion-tc.html",
-   "titulo": "Caso Puerto Coronel: Fiscalía alerta riesgo de dilación si más defensas recurren al Tribunal Constitucional",
-   "resumen": "Aún se está a la espera de que el TC examine la admisibilidad del requerimiento de la defensa del alcalde Boris Chamorro, proceso que por el momento no figura en tabla.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fiscalia-regional-biobio-e1793927410744.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
    "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
    "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
@@ -2059,6 +2058,21 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/puerto-coronel-fiscalia-riesgo-dilacion-tc.html",
+   "titulo": "Caso Puerto Coronel: Fiscalía alerta riesgo de dilación si más defensas recurren al Tribunal Constitucional",
+   "resumen": "Aún se está a la espera de que el TC examine la admisibilidad del requerimiento de la defensa del alcalde Boris Chamorro, proceso que por el momento no figura en tabla.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fiscalia-regional-biobio-e1793927410744.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
