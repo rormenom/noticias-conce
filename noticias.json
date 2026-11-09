@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T13:00:28.120Z",
+ "generado": "2026-11-09T13:10:21.396Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
+    "enlaces": 147,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -73,14 +73,42 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
-    "leidas": 7,
+    "enlaces": 34,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/fiscalia-lleva-a-juicio-litigio-familiar-por-propiedad-de-complejo-la-pequena-escandinavia-en-tome",
+   "titulo": "Fiscalía lleva a juicio litigio familiar por propiedad de complejo \"La Pequeña Escandinavia\" en Tomé",
+   "resumen": "Una pareja podría recibir condenas de hasta ocho años de prisión tras ser acusada de administración desleal y apropiación indebida de un complejo turístico en Tomé. La Fiscalía formalizó la acusación luego de reunir antecedentes que respaldan la denuncia de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/la-pequena-escandinavia-.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T13:10:21.396Z",
+   "visto": "2026-11-09T13:10:21.396Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/09/con-imagenes-de-vero-bianchi-colo-colo-celebro-titulo-dedicando-video-en-redes-tras-criticas.shtml",
+   "titulo": "Con imágenes de Vero Bianchi: Colo Colo celebró título dedicando video en redes tras críticas",
+   "resumen": "Colo-Colo celebró su título número 35 en el fútbol chileno tras vencer a Ñublense por 2 goles a 1 en...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012262-con-imagenes-de-vero-bianchi_-colo-colo-celebro-titulo-dedicando-video-en-redes-tras-criticas.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-09T13:05:10.000Z",
+   "visto": "2026-11-09T13:10:21.396Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/avance-soluciones-habitacionales-biobio-minvu.html",
    "titulo": "Avance alcanza el 9,33% en soluciones habitacionales en el Biobío",
@@ -1823,20 +1851,6 @@
    "titulo": "Teletón llega a la cárcel del Biobío: destacan actividades de internas como clave para la reinserción social",
    "resumen": "En honor al espíritu de la Teletón, su mascota oficial fue a visitar a las reclusas del recinto penitenciario del Biobío",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-06-at-12.07.44-e1793990791429.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/gobierno-anuncia-recursos-caminos-santa-juana.html",
-   "titulo": "Anuncian plan de recuperación de zonas afectadas de Santa Juana tras intensas lluvias",
-   "resumen": "El Gobierno destinó más de $346 millones a través de la Subdere para habilitar espacios públicos y mejorar caminos rurales afectados por emergencias climáticas en Santa Juana.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-5.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-06T15:00:00.000Z",
