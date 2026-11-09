@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T23:20:19.600Z",
+ "generado": "2026-11-09T23:30:22.244Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -987,6 +987,20 @@
    "local": true
   },
   {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/roban-3-mil-millones-de-pesos-desde-una-sucursal-bancaria-en-concepcion/",
+   "titulo": "Roban 3 mil millones de pesos desde una sucursal bancaria en Concepción",
+   "resumen": "Desconocidos realizaron un forado en un edificio aledaño para ingresar a la bóveda del recinto.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/forado-robo-banco-bci-ccp--768x435.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-09T07:00:50.000Z",
+   "visto": "2026-11-09T23:30:22.244Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/inauguran-nuevo-sistema-de-agua-potable-rural-en-santa-juana/",
    "titulo": "Inauguran nuevo sistema de agua potable rural en Santa Juana",
    "resumen": "Más de 1.000 vecinos serán beneficiados.",
@@ -1839,20 +1853,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-07T13:48:58.000Z",
    "visto": "2026-11-07T13:50:19.674Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/07/personas-calle-salud-mental-internacion-concepcion.html",
-   "titulo": "Crece preocupación en Concepción por personas en situación de calle descompensadas por salud mental",
-   "resumen": "Dirigentes vecinales denuncian episodios de agresividad y daños, mientras un académico explica las vías legales para solicitar una hospitalización involuntaria.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/06/Situaci%C3%B3n-de-calle-e1781227012616.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T12:50:18.393Z",
-   "visto": "2026-11-07T12:50:18.393Z",
    "cats": [
     "regional"
    ],
