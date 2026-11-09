@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T13:10:21.396Z",
+ "generado": "2026-11-09T14:10:21.944Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 147,
-    "leidas": 62,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/teleton-concepcion-recibio-equipo-unico-en-latinoamerica/",
+   "titulo": "Teletón Concepción recibió equipo único en Latinoamérica",
+   "resumen": "En la previa de la Teletón 2026, se oficializó la […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-13.03.50-2-768x512.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-09T14:08:15.000Z",
+   "visto": "2026-11-09T14:10:21.944Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/09/fiscalia-lleva-a-juicio-litigio-familiar-por-propiedad-de-complejo-la-pequena-escandinavia-en-tome",
    "titulo": "Fiscalía lleva a juicio litigio familiar por propiedad de complejo \"La Pequeña Escandinavia\" en Tomé",
@@ -1841,20 +1855,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/teleton-complejo-penitenciario-biobio-internas-reinsercion.html",
-   "titulo": "Teletón llega a la cárcel del Biobío: destacan actividades de internas como clave para la reinserción social",
-   "resumen": "En honor al espíritu de la Teletón, su mascota oficial fue a visitar a las reclusas del recinto penitenciario del Biobío",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-06-at-12.07.44-e1793990791429.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "regional"
    ],
