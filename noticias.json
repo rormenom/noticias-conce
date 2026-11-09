@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T11:00:29.182Z",
+ "generado": "2026-11-09T11:10:20.079Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 62,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 8,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/cone-sobrino-de-condorito-se-suma-a-la-plaza-de-la-cultura-de-concepcion-tras-voto-del-concejo",
+   "titulo": "Coné, sobrino de Condorito, se suma a la Plaza de la Cultura de Concepción tras voto del Concejo",
+   "resumen": "La familia de Condorito seguirá creciendo en Concepción con la llegada de Coné, sobrino del personaje, a la Plaza de la Cultura, como parte del homenaje a su creador, Pepo. El alcalde de la comuna, Héctor Muñoz explicó cómo se tomó la decisión y qué contempla…",
+   "imagen": "https://media.canal9.cl/2026/10/cone-yayita-u-otro-penquistas-podran-elegir-nuevo-personaje-para-acompanar-a-estatua-de-condorito-768x405.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T11:10:20.079Z",
+   "visto": "2026-11-09T11:10:20.079Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/09/camioneros-de-los-angeles-inician-movilizacion-en-la-ruta-5-sur-por-alza-de-combustibles",
    "titulo": "Transportistas de Los Ángeles protestan en la Ruta 5 Sur por el aumento del precio de los combustibles",
@@ -221,6 +235,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/aprueban-inversion-de-2-384-millones-para-calles-de-chiguayante/",
+   "titulo": "Aprueban inversión de $2.384 millones para calles de Chiguayante",
+   "resumen": "Estos recursos permitirán intervenir 19 kilómetros de vías.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/infraestructura-vial-chiguayante--768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-09T07:21:08.000Z",
+   "visto": "2026-11-09T11:10:20.079Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -366,10 +394,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
-   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
+   "url": "https://www.tvu.cl/prensa/2026/11/08/banco-bci-concepcion-mas-de-3-mil-millones-robados-desde-las-bovedas-a-3-cuadras-de-carabineros.html",
+   "titulo": "Banco BCI Concepción: Más de $3 mil millones robados desde las bóvedas a 3 cuadras de Carabineros",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-9-850x500.png",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-08T22:20:20.870Z",
@@ -380,10 +408,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/banco-bci-concepcion-mas-de-3-mil-millones-robados-desde-las-bovedas-a-3-cuadras-de-carabineros.html",
-   "titulo": "Banco BCI Concepción: Más de $3 mil millones robados desde las bóvedas a 3 cuadras de Carabineros",
+   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
+   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-9-850x500.png",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-08T22:20:20.870Z",
@@ -598,6 +626,20 @@
    "fuenteId": "tvu",
    "fecha": "2026-11-08T15:00:00.000Z",
    "visto": "2026-11-09T01:40:19.899Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/08/vecinos-de-michimalonco-denuncian-un-rio-en-la-avenida-por-ruptura-de-matriz-hace-dias",
+   "titulo": "Vecinos de Michimalonco denuncian \"un río\" en la avenida por ruptura de matriz hace días",
+   "resumen": "Vecinos del sector Michimalonco denunciaron a Radio Bío Bío el anegamiento de la avenida del mismo nombre, provocado por la ruptura de una matriz de agua potable. Los efectos para los vecinos El presidente de la Junta de Vecinos Laguna Llacolén, Carlos Díaz…",
+   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-09-a-las-8.01.08%E2%80%AFa.-m-768x402.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-08T15:00:00.000Z",
+   "visto": "2026-11-09T11:10:20.079Z",
    "cats": [
     "regional"
    ],
@@ -1483,20 +1525,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/leo-mael-y-los-navegantes-una-propuesta-musical-que-une-nostalgia-y-baile",
-   "titulo": "Leo Mael y Los Navegantes: Una propuesta musical que une nostalgia y baile",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/11/Interpretacion-acustica-en-estudio-768x431.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/06/pronostican-altas-temperaturas-en-zonas-desde-atacama-a-los-lagos-maximas-rondaran-los-35-c",
    "titulo": "Pronostican hasta 35 °C en varias zonas entre Atacama y Los Lagos",
    "resumen": "",
@@ -1529,6 +1557,20 @@
    "titulo": "Comisión de Borde Costero rechaza por unanimidad proyectos eólicos marinos en el Golfo de Arauco",
    "resumen": "",
    "imagen": "https://media.canal9.cl/2022/07/Captura-de-Pantalla-2022-07-05-a-las-07.04.14.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/06/leo-mael-y-los-navegantes-una-propuesta-musical-que-une-nostalgia-y-baile",
+   "titulo": "Leo Mael y Los Navegantes: Una propuesta musical que une nostalgia y baile",
+   "resumen": "",
+   "imagen": "https://media.canal9.cl/2026/11/Interpretacion-acustica-en-estudio-768x431.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
@@ -1741,48 +1783,6 @@
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/20261105_2ea8b62626d6.jpg-e1793981738250.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/nuevo-cosam-de-hualpen-cuenta-con-18-boxes-y-una-inversion-sobre-los-5-mil-millones-de-pesos",
-   "titulo": "Nuevo COSAM de Hualpén cuenta con 18 boxes y una inversión sobre los 5 mil millones de pesos",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-06-a-las-6.11.30%E2%80%AFa.-m-768x425.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/paro-nacional-camioneros-alza-combustibles.html",
-   "titulo": "Camioneros del Biobío no se sumarán a paro nacional convocado por la Confederación Fuerza del Norte",
-   "resumen": "La Confederación Fuerza del Norte confirmó una paralización nacional a partir del próximo martes 10 de noviembre, acusando que el encarecimiento del diésel y la falta de reajustes en las tarifas de fletes. Sin embargo, la Federación de Camioneros del Sur…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-e1793976409772.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/06/subdere-destinara-mas-de-50-millones-para-reparar-el-cesfam-san-pedro-de-la-costa-tras-las-lluvias",
-   "titulo": "Subdere destinará más de $50 millones para reparar el Cesfam San Pedro de la Costa tras las lluvias",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-05-at-14.28.55-768x576.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
