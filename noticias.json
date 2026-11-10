@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T20:00:26.407Z",
+ "generado": "2026-11-10T20:10:22.265Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 61,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/ips-aporte-familiar-permanente-cobro-plazos.html",
+   "titulo": "Más de 180 mil familias han cobrado el Aporte Familiar Permanente en la Región del Biobío",
+   "resumen": "La gran mayoría de las personas ya cobró su Aporte Familiar Permanente. Para quienes tienen pago presencial y aún no han retirado el beneficio, el IPS hace un llamado a revisar el sitio www.chileatiende.cl. El plazo de cobro comienza a vencer a mediados de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IPS-e1794341136845.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T20:10:22.265Z",
+   "visto": "2026-11-10T20:10:22.265Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/10/amiga-date-cuenta-chiguayante-teatro-gratis.html",
    "titulo": "“Amiga, date cuenta” llega gratis y al aire libre en Chiguayante",
@@ -687,10 +701,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
-   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
-   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/camioneros-biobio-paro-combustibles.html",
+   "titulo": "Paro de camioneros amenaza el inicio de la temporada agrícola del Biobío",
+   "resumen": "Gremio productor advierte impacto directo en las cosechas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-paro-de-camioneros-en-ruta-5-sur-foto-cedida.jpg-e1794273079507.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -701,10 +715,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/camioneros-biobio-paro-combustibles.html",
-   "titulo": "Paro de camioneros amenaza el inicio de la temporada agrícola del Biobío",
-   "resumen": "Gremio productor advierte impacto directo en las cosechas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-paro-de-camioneros-en-ruta-5-sur-foto-cedida.jpg-e1794273079507.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
+   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
+   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -1625,20 +1639,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-09T11:40:20.599Z",
    "visto": "2026-11-09T11:40:20.599Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/cone-sobrino-de-condorito-se-suma-a-la-plaza-de-la-cultura-de-concepcion-tras-voto-del-concejo",
-   "titulo": "Coné, sobrino de Condorito, se suma a la Plaza de la Cultura de Concepción tras voto del Concejo",
-   "resumen": "La familia de Condorito seguirá creciendo en Concepción con la llegada de Coné, sobrino del personaje, a la Plaza de la Cultura, como parte del homenaje a su creador, Pepo. El alcalde de la comuna, Héctor Muñoz explicó cómo se tomó la decisión y qué contempla…",
-   "imagen": "https://media.canal9.cl/2026/10/cone-yayita-u-otro-penquistas-podran-elegir-nuevo-personaje-para-acompanar-a-estatua-de-condorito-768x405.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T11:10:20.079Z",
-   "visto": "2026-11-09T11:10:20.079Z",
    "cats": [
     "regional"
    ],
