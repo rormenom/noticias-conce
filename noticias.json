@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T11:00:28.865Z",
+ "generado": "2026-11-10T12:00:27.338Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 56,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 66,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 4,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/camioneros-del-biobio-inician-movilizacion-en-diferentes-puntos-del-gran-concepcion-por-constante-alza-de-combustibles",
+   "titulo": "Camioneros del Bío Bío se movilizan en diferentes puntos del Gran Concepción por constante alza de combustibles",
+   "resumen": "El gremio de transportistas de carga inició una serie de movilizaciones en la Región del Biobío en protesta por el constante incremento en el precio de los combustibles, afectando diversos puntos neurálgicos del Gran Concepción. La paralización, que comenzó a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-10-at-08.46.32-e1794311620618.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T12:00:27.338Z",
+   "visto": "2026-11-10T12:00:27.338Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/solo-una-asociacion-criminal-detras-del-robo-de-banco-en-concepcion-aumentaria-eventuales-penas",
+   "titulo": "La existencia de una asociación criminal tras el asalto bancario en Concepción podría agravar las penas",
+   "resumen": "Quienes sean responsables de sustraer a lo menos 5 mil millones de pesos desde el Banco BCI de Concepción podrían recibir entre 541 días y cinco años de cárcel, según las penas que enfrentan por el robo. La sanción podría ser mayor únicamente si la Fiscalía…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/robo-banco-concepcion.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T12:00:27.338Z",
+   "visto": "2026-11-10T12:00:27.338Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/10/solo-una-asociacion-criminal-detras-del-robo-de-banco-en-concepcion-aumentaria-eventuales-penas.shtml",
    "titulo": "Sólo una asociación criminal detrás del robo de banco en Concepción aumentaría eventuales penas",
@@ -90,20 +118,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-10T10:51:49.000Z",
    "visto": "2026-11-10T11:00:28.865Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/penalista-asegura-que-hablar-de-asociacion-criminal-por-robo-en-banco-de-concepcion-es-especular",
-   "titulo": "Penalista asegura que hablar de asociación criminal por robo en banco de Concepción es especular",
-   "resumen": "El millonario robo reportado este domingo en el Banco BCI de Concepción abrió el debate entre abogados sobre las penas que arriesgarían los responsables. Penalistas consultados coinciden en que, con los antecedentes conocidos hasta ahora, se trataría de un…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-09-at-08.50.39.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T10:30:25.513Z",
-   "visto": "2026-11-10T10:30:25.513Z",
    "cats": [
     "regional"
    ],
@@ -121,6 +135,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/penalista-asegura-que-hablar-de-asociacion-criminal-por-robo-en-banco-de-concepcion-es-especular",
+   "titulo": "Penalista asegura que hablar de asociación criminal por robo en banco de Concepción es especular",
+   "resumen": "El millonario robo reportado este domingo en el Banco BCI de Concepción abrió el debate entre abogados sobre las penas que arriesgarían los responsables. Penalistas consultados coinciden en que, con los antecedentes conocidos hasta ahora, se trataría de un…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-09-at-08.50.39.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T10:30:25.513Z",
+   "visto": "2026-11-10T10:30:25.513Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1841,20 +1869,6 @@
    "visto": "2026-11-08T08:40:18.789Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/terminal-rural-concepcion-demanda-seguridad-espacio.html",
-   "titulo": "Terminal rural en Concepción: una demanda pendiente ante problemas de seguridad y espacio",
-   "resumen": "La iniciativa cuenta con el respaldo de usuarios y del municipio, que advierten problemas de seguridad y falta de espacios de espera. Aunque se ha manifestado interés de privados, no existe una propuesta concreta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-micros-rurales-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T08:40:18.789Z",
-   "visto": "2026-11-08T08:40:18.789Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
