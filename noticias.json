@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T14:50:21.426Z",
+ "generado": "2026-11-10T15:00:28.659Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 64,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 5,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/pdi-detiene-a-dos-mujeres-acusadas-de-secuestrar-y-agredir-a-adolescente-de-17-anos-en-cabrero",
+   "titulo": "PDI detiene a dos mujeres acusadas de secuestrar y agredir a adolescente de 17 años en Cabrero",
+   "resumen": "Las imputadas, de 21 y 22 años, habrían participado en la retención y agresión de la víctima al interior de un inmueble del sector Jardines del Alto. El adolescente resultó con lesiones graves y habría perdido el conocimiento producto del ataque. Detectives…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/D4-4-e1794322388582.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T15:00:28.659Z",
+   "visto": "2026-11-10T15:00:28.659Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/detienen-coyhaique-abuso-sexual-talcahuano.html",
    "titulo": "Detienen en Coyhaique a imputado por abuso sexual a menor en Talcahuano",
@@ -1775,20 +1789,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/cinco-formalizados-por-abigeato-en-aguapie-dos-quedaron-en-prision-preventiva",
-   "titulo": "Cinco formalizados por abigeato en Aguapié: dos quedaron en prisión preventiva",
-   "resumen": "Cinco personas fueron formalizadas por el robo de cinco terneros en Aguapié, sector rural de la comuna de Arauco, un caso que comenzó cuando los dueños del ganado vieron que dos sujetos subían parte de los animales a una camioneta y alertaron a Carabineros.…",
-   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-08-a-las-12.12.23%E2%80%AFp.-m-768x448.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-08T15:50:19.348Z",
-   "visto": "2026-11-08T15:50:19.348Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/moises-abre-camino-en-el-mar-la-udec-sigue-con-vida.html",
    "titulo": "Moisés abre camino en el mar: la UdeC sigue con vida",
    "resumen": "González marcó milagroso gol que significó el 3-2 sobre O'Higgins. El Campanil está a un punto de puestos de salvación, con 3 fechas por delante.",
@@ -2403,207 +2403,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/05/concepcion-sera-protagonista-de-la-semana-de-las-invasiones-biologicas-2026.html",
-   "titulo": "Concepción será protagonista de la Semana de las Invasiones Biológicas 2026",
-   "resumen": "Del 9 al 14 noviembre se desarrollará el programa en Concepción, con diversas actividades abiertas a todo público con la UdeC como escenario.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/breve.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/05/escolares-de-santa-juana-y-los-angeles-llevaran-sus-trabajos-cientificos-a-congreso-nacional-explora.html",
-   "titulo": "Escolares de Santa Juana y Los Ángeles llevarán sus trabajos científicos a Congreso Nacional Explora",
-   "resumen": "Del 16 al 18 de noviembre se realizará el evento en Santiago, cuando equipos presentarán proyectos desarrollados en la iniciativa de Investigación e Innovación Escolar.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/primera-p%C3%A1gina.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/05/fne-aprobo-acuerdo-aza-huachipato.html",
-   "titulo": "Sector público y privado destacan que alianza AZA-Huachipato resguarda la vocación industrial de la zona",
-   "resumen": "FNE dio luz verde al trato entre ambas compañías para desarrollar acero verde en Talcahuano.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-huachipato-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional",
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/05/biobio-rechaza-parques-eolicos-marinos-golfo-arauco.html",
-   "titulo": "Freno a eólicas en el Golfo de Arauco: CRUBC rechaza concesiones y empresa retira tercer proyecto",
-   "resumen": "La Comisión Regional de Uso de Borde Costero (CRUBC) acordó emitir un pronunciamiento desfavorable a las solicitudes de concesión marítima para los proyectos flotantes “Brisas Marinas” y “Espejo de Agua”. El tercer titular, a cargo del parque “Santa María”,…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/crubc-biobio-rechaza-concesiones-parques-eolicos-marinos-golfo-arauco-e1793918788754.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/panoramas-culturales-destacados-gran-concepcion.html",
-   "titulo": "Teatro, música, cine y mucho más: estos son los panoramas culturales destacados para los próximos días en el Gran Concepción",
-   "resumen": "Como cada semana, la agenda artistica penquista trae una miscelánea cartelera para estos primeros días de noviembre.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/VIERNES-e1793893790429.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/05/consulta-publica-actualizacion-prmc.html",
-   "titulo": "Tras más de 20 años sin cambios: en diciembre someterán a consulta pública la actualización del PRMC",
-   "resumen": "La etapa de participación se desarrollará durante diciembre por un periodo de 30 días.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-edificios-en-el-centro-de-Concepci%C3%B3n-foto-carolina-e1793900346120.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/banda-penquista-pulso-gaiano-emprende-primera-aventura-internacional-colombia.html",
-   "titulo": "Banda penquista Pulso Gaiano emprende su primera aventura internacional en Colombia",
-   "resumen": "El quinteto local llevará su propuesta de rock y ska a tres diferentes escenarios de la ciudad de Bogotá, propiciando el encuentro con la audiencia y la escena musical colombiana. Periplo que cuenta con el apoyo del Fondo de la Música 2026, gestionado por el…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Pulso-Gaiano.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/05/veto-ley-incendios-alcaldes-biobio.html",
-   "titulo": "Alcaldes del Biobío cuestionan veto a Ley de Incendios y advierten riesgo de nueva postergación",
-   "resumen": "Los municipios reconocen que la iniciativa requiere recursos y ajustes, pero critican que el Ejecutivo anteponga los costos económicos de las empresas forestales a la protección de la ciudadanía.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/incendio-forestal.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/05/ensemble-chromatique-desplegara-repertorio-musica-barroca-iglesia-luterana-penquista.html",
-   "titulo": "Ensemble Chromatique desplegará repertorio de música barroca en Iglesia Luterana penquista",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/05/campeonas-lilas-futsal-homenajeadas-ester-roa.html",
-   "titulo": "Campeonas lilas de futsal fueron homenajeadas en el Ester Roa",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/futsal-femenino-D.-Concepcion-e1793886576586.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/05/basquet-udec-busca-segunda-bofetada-ancud.html",
-   "titulo": "Basquet UdeC busca la segunda bofetada contra Ancud",
-   "resumen": "Elenco de Santiago Gómez abrió la serie con un claro 89-80 y repetirá acción esta tarde en la Casa del Deporte.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sebastian-pereira.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/05/matias-godoy-llegaremos-descansados-norte-partido.html",
-   "titulo": "Matías Godoy: “Llegaremos descansados al norte y ahora será un partido muy distinto”",
-   "resumen": "El \"Mati\" y Diego Fernández anticiparon el partido de Fernández Vial en Mejillones, con antecedente de 0-1 en la ida por el ascenso a Tercera A. Aurinegros confían en dar vuelta esta durísima llave.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/matias-godoy-e1793889622691.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/05/desarrolla-biobio-por-licitacion-trianual-del-festival-rec-permite-proyectarte-y-negociar-buenos-artistas.html",
-   "titulo": "Desarrolla Biobío por licitación trianual del Festival REC: “Permite proyectarte y negociar buenos artistas”",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/desarrolla-biobio-detalles-licitacion-festival-rec-2027-2029.png",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/05/impresionantes-numeros-mejillones-imbatible-casa.html",
-   "titulo": "Los impresionantes números de este Mejillones que luce imbatible en casa",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/vial-mejillones-e1793890620990.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
