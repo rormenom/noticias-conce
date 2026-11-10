@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T23:00:29.311Z",
+ "generado": "2026-11-10T23:30:24.072Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/primer-festival-naturaleza-conservacion-laguna-canicura.html",
+   "titulo": "Comunidad y turismo regenerativo: lanzan 1° Festival de Naturaleza y Conservación en Cañicura",
+   "resumen": "El encuentro gratuito reunirá divulgación científica, cine ambiental, video mapping, talleres en terreno y feria local el 28 y 29 de noviembre.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/laguna-ca%C3%B1icura-santa-b%C3%A1rbara-chile-e1794352798659.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T23:30:24.072Z",
+   "visto": "2026-11-10T23:30:24.072Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/10/este-viernes-es-la-noche-de-museos-2026-revisa-actividades-en-todo-el-pais",
    "titulo": "La Noche de Museos 2026 se celebra este viernes con actividades en todo el país",
@@ -1639,20 +1654,6 @@
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-09T14:20:23.913Z",
-   "visto": "2026-11-09T14:20:23.913Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/chiguayante-pone-en-marcha-el-tercer-ecomercado-solidario-de-la-region/",
-   "titulo": "Chiguayante pone en marcha el tercer Ecomercado Solidario de la región",
-   "resumen": "Ante un escenario económico complejo, con altos niveles de cesantía […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Ecomercado-768x512.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-09T14:20:15.000Z",
    "visto": "2026-11-09T14:20:23.913Z",
    "cats": [
     "regional"
