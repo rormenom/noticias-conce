@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-10T12:50:19.697Z",
+ "generado": "2026-11-10T13:00:27.586Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -36,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -62,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 65,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -82,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/no-podemos-seguir-trabajando-camioneros-y-transportistas-se-manifiestan-en-talcahuano.html",
+   "titulo": "“No podemos seguir trabajando”: camioneros y transportistas se manifiestan en Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-10-at-9.48.30-AM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T13:00:27.586Z",
+   "visto": "2026-11-10T13:00:27.586Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/convocatoria-de-expo-de-mar-a-cordillera-entra-en-recta-final-para-reunir-a-creadores-de-todo-el-biobio-en-su-cuarta-version/",
    "titulo": "Convocatoria de Expo De Mar a Cordillera entra en recta final para reunir a creadores de todo el Biobío en su cuarta versión",
@@ -198,20 +211,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/camioneros-biobio-paro-combustibles.html",
-   "titulo": "Paro de camioneros amenaza el inicio de la temporada agrícola del Biobío",
-   "resumen": "Gremio productor advierte impacto directo en las cosechas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-paro-de-camioneros-en-ruta-5-sur-foto-cedida.jpg-e1794273079507.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/sernapesca-advierte-riesgo-de-enfermedades-tras-aparicion-de-pinguino-en-la-costa-de-ramuntcho.html",
    "titulo": "Sernapesca advierte riesgo de enfermedades tras aparición de pingüino en la costa de Ramuntcho",
    "resumen": "Aunque el riesgo de contagio de influenza aviar en personas es bajo, las autoridades advierten que el contacto directo con aves silvestres puede generar exposición.",
@@ -258,6 +257,20 @@
    "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
    "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/camioneros-biobio-paro-combustibles.html",
+   "titulo": "Paro de camioneros amenaza el inicio de la temporada agrícola del Biobío",
+   "resumen": "Gremio productor advierte impacto directo en las cosechas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-paro-de-camioneros-en-ruta-5-sur-foto-cedida.jpg-e1794273079507.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -1199,6 +1212,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/09/lluvias-impacto-agro-forestal-biobio.html",
+   "titulo": "Lluvias e incertidumbre climática complican al agro y la actividad forestal en la Región del Biobío",
+   "resumen": "Gremios alertan por daños en cosechas, retrasos y paralizaciones de faenas durante el verano.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/07/Sistema-frontal-mejora-las-reservas-de-agua-y-abre-mejores-perspectivas-para-el-agro-del-Biob%C3%ADo-2.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T08:40:19.027Z",
+   "visto": "2026-11-09T08:40:19.027Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/09/biobio-apuesta-por-la-reforestacion-de-150-mil-hectareas-clave-ante-nueva-agenda-del-gobierno.html",
    "titulo": "Biobío apuesta por la reforestación de 150 mil hectáreas clave ante nueva agenda del Gobierno",
    "resumen": "Frente a la reducción del patrimonio maderero y los daños por incendios, el Ministerio de Agricultura, Corma, PymeMad y el Gore concuerdan en la necesidad de una política de Estado de largo plazo.",
@@ -1210,20 +1237,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/09/lluvias-impacto-agro-forestal-biobio.html",
-   "titulo": "Lluvias e incertidumbre climática complican al agro y la actividad forestal en la Región del Biobío",
-   "resumen": "Gremios alertan por daños en cosechas, retrasos y paralizaciones de faenas durante el verano.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/07/Sistema-frontal-mejora-las-reservas-de-agua-y-abre-mejores-perspectivas-para-el-agro-del-Biob%C3%ADo-2.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T08:40:19.027Z",
-   "visto": "2026-11-09T08:40:19.027Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1804,20 +1817,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/nina-podria-perder-pierna-padres-de-menor-atropellada-pediran-que-camion-de-acusado-no-sea-vendido",
-   "titulo": "Padres de niña atropellada solicitarán que camión del acusado no sea vendido ante el riesgo de que la menor pierda una pierna",
-   "resumen": "Los padres de la niña atropellada el martes pasado en Chiguayante, región del Bío Bío, quien permanece grave y podría sufrir secuelas permanentes, pedirán que se dicte una cautela real sobre el camión 3/4 que manejaba el imputado, en el marco de la…",
-   "imagen": "https://media.canal9.cl/2026/11/atropello-chiguayante-768x405.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-08T12:50:18.242Z",
-   "visto": "2026-11-08T12:50:18.242Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/08/fernandez-vial-gano-revancha-pero-no-el-ascenso-mejillones-se-impuso-en-penales-y-subio-a-tercera-a",
    "titulo": "Fernández Vial ganó el partido de vuelta, pero Mejillones logró el ascenso a Tercera A tras imponerse en penales.",
    "resumen": "Arturo Fernández Vial cayó este sábado y dejó escapar su primera opción de subir a la Tercera A, cuarta división del fútbol chileno, luego de perder en una dramática definición por penales ante Municipal Mejillones. Después de caer 0-1 en el partido de ida,…",
@@ -2147,21 +2146,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/udec-destaca-premios-avonni-2026-hydraterra-cicla.html",
-   "titulo": "De la escasez hídrica al reciclaje de plásticos: tecnologías vinculadas a la UdeC son reconocidas en los Premios Avonni 2026",
-   "resumen": "Los reconocimientos a HydraTerra y CICLA 3D, junto con la nominación de AquaShield Cherry, reflejan el alcance de la investigación aplicada y el apoyo al emprendimiento vinculados a la Universidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-HydraTerra-y-CICLA-3D-tecnolog%C3%ADas-vinculadas-a-la-UdeC-reconocidas-en-los-Premios-Avonni-2026-foto-Dircom-UdeC-e1793927366632.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/fallece-sebastian-lelio-director-oscar-visita-biobio-nuble.html",
    "titulo": "Luto en el cine chileno: sorpresivamente fallece Sebastián Lelio, director ganador del Oscar que deja huella en Biobío y Ñuble",
    "resumen": "El cineasta nacional y ganador de un premio de la Academia falleció en su vivienda a los 52 años.",
@@ -2199,6 +2183,21 @@
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/udec-destaca-premios-avonni-2026-hydraterra-cicla.html",
+   "titulo": "De la escasez hídrica al reciclaje de plásticos: tecnologías vinculadas a la UdeC son reconocidas en los Premios Avonni 2026",
+   "resumen": "Los reconocimientos a HydraTerra y CICLA 3D, junto con la nominación de AquaShield Cherry, reflejan el alcance de la investigación aplicada y el apoyo al emprendimiento vinculados a la Universidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-HydraTerra-y-CICLA-3D-tecnolog%C3%ADas-vinculadas-a-la-UdeC-reconocidas-en-los-Premios-Avonni-2026-foto-Dircom-UdeC-e1793927366632.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional",
     "tecnologia"
    ],
    "local": true
