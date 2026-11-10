@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T20:40:19.850Z",
+ "generado": "2026-11-10T20:50:20.697Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/lota-robo-instrumentos-musicales-iglesia.html",
+   "titulo": "Lota: detienen a sujeto por robar instrumentos musicales y equipos de una iglesia",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-10-at-5.24.55-PM-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T20:50:20.697Z",
+   "visto": "2026-11-10T20:50:20.697Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/odesur-2030-informe-positivo-candidatura-biobio.html",
    "titulo": "Odesur anticipa informe positivo para Biobío 2030 y proyecta tres recintos clave como legado regional",
@@ -1612,20 +1626,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-09T12:50:23.595Z",
    "visto": "2026-11-09T12:50:23.595Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/fiscalia-lleva-a-juicio-litigio-familiar-por-propiedad-de-complejo-la-pequena-escandinavia-en-tome.shtml",
-   "titulo": "Fiscalía lleva a juicio litigio familiar por propiedad de complejo \"La Pequeña Escandinavia\" en Tomé",
-   "resumen": "Penas de hasta ocho años de cárcel enfrenta una pareja denunciada por administración desleal y la apropiación indebida de un...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012157-la-pequena-escandinavia-.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-09T12:17:26.000Z",
-   "visto": "2026-11-09T12:20:19.183Z",
    "cats": [
     "regional"
    ],
