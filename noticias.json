@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-10T14:40:19.565Z",
+ "generado": "2026-11-10T14:50:21.426Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -36,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -62,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 65,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 34,
+    "enlaces": 33,
     "leidas": 5,
     "errores": 0,
     "robots": 0
@@ -82,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/detienen-coyhaique-abuso-sexual-talcahuano.html",
+   "titulo": "Detienen en Coyhaique a imputado por abuso sexual a menor en Talcahuano",
+   "resumen": "El trabajo coordinado entre las brigadas investigadoras de Delitos Sexuales de Concepción y Coyhaique permitió ubicar y detener al requerido, de 21 años, por hechos ocurridos durante 2024 en la Región del Biobío.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/08/Dos-detenidos-por-homicidios-con-arma-de-fuego-en-Coronel-y-San-Pedro-de-la-Paz-e1786375198714.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T14:50:21.426Z",
+   "visto": "2026-11-10T14:50:21.426Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/minvu-proyecta-para-febrero-la-habilitacion-del-eje-colon-en-hualpen/",
    "titulo": "Minvu proyecta para febrero la habilitación del Eje Colón en Hualpén",
@@ -366,20 +379,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/municipio-concepcion-transparencia-activa-observaciones.html",
-   "titulo": "Concepción registra bajos índices de transparencia: municipio asegura haber subsanado observaciones",
-   "resumen": "La comuna pasó de 91,7% a 73,6% de cumplimiento en dos años. Se atribuye parte de la caída a reestructuraciones internas y a una evaluación que solo refleja un período específico.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-municipalidad-concepcion-e1794273118294.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
    "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
    "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
@@ -390,6 +389,20 @@
    "visto": "2026-11-10T08:40:21.155Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/municipio-concepcion-transparencia-activa-observaciones.html",
+   "titulo": "Concepción registra bajos índices de transparencia: municipio asegura haber subsanado observaciones",
+   "resumen": "La comuna pasó de 91,7% a 73,6% de cumplimiento en dos años. Se atribuye parte de la caída a reestructuraciones internas y a una evaluación que solo refleja un período específico.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-municipalidad-concepcion-e1794273118294.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1770,20 +1783,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-08T15:50:19.348Z",
    "visto": "2026-11-08T15:50:19.348Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/vecinos-de-collao-denuncian-al-menos-dos-robos-por-semana-y-piden-un-punto-fijo-de-presencia-policial",
-   "titulo": "Vecinos de Collao denuncian al menos dos robos por semana y piden un punto fijo de presencia policial",
-   "resumen": "Vecinos del sector de Collao denunciaron una seguidilla de robos a vehículos y viviendas que mantiene atemorizados a los residentes, según relataron ellos mismos en conversación con Canal 9. El hecho más reciente ocurrió el 4 de noviembre, cuando una casa…",
-   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-08-a-las-12.11.47%E2%80%AFp.-m-768x485.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-08T15:40:19.485Z",
-   "visto": "2026-11-08T15:40:19.485Z",
    "cats": [
     "regional"
    ],
