@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T08:50:20.709Z",
+ "generado": "2026-11-10T09:00:28.040Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/camioneros-movilizados-paralizan-la-ruta-5-sur-en-los-angeles-y-generan-taco-kilometrico",
+   "titulo": "Protesta de camioneros bloquea la Ruta 5 Sur en Los Ángeles y genera una extensa congestión",
+   "resumen": "En medio de las protestas convocadas por diversos gremios ante el encarecimiento de los combustibles, la noche de este lunes transportistas mantienen bloqueada la Ruta 5 Sur en Los Ángeles –región del Bío Bío-, lo que ha provocado una extensa congestión. De…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/captura-por-camioneros-movilizados-paralizan-la-ruta-5-sur-en-los-angeles-y-causa-taco-kilometrico.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T09:00:28.040Z",
+   "visto": "2026-11-10T09:00:28.040Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/biobio-candidatura-odesur-2030-visita-comision-udec.html",
    "titulo": "Fernando Ucha, presidente de la delegación Odesur en visita al Biobío: “Lo visto hasta ahora cumple con los requisitos”",
@@ -1893,20 +1907,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-07T16:41:27.000Z",
    "visto": "2026-11-07T16:50:20.946Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps-2.html",
-   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-lactancia-materna-foto-cc.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-07T16:20:18.684Z",
-   "visto": "2026-11-07T16:20:18.684Z",
    "cats": [
     "regional"
    ],
