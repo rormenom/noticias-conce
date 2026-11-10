@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T22:40:20.981Z",
+ "generado": "2026-11-10T22:50:20.954Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
-    "leidas": 12,
+    "enlaces": 34,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/este-viernes-es-la-noche-de-museos-2026-revisa-actividades-en-todo-el-pais",
+   "titulo": "La Noche de Museos 2026 se celebra este viernes con actividades en todo el país",
+   "resumen": "Este viernes 13 de noviembre, desde las 17:00 horas, varios centros culturales ofrecerán actividades especiales en el marco de la Noche de Museos 2026, jornada en que distintos espacios abrirán en un horario en que normalmente permanecen cerrados. Como ocurre…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/noche-de-museos-2026-2.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T22:50:20.954Z",
+   "visto": "2026-11-10T22:50:20.954Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/10/tom-richtler-profesor-emerito-universidad-concepcion.html",
    "titulo": "Dr. Tom Richtler es investido como Profesor Emérito de la Universidad de Concepción por su compromiso académico y trayectoria científica",
@@ -1646,20 +1660,6 @@
    "local": true
   },
   {
-   "url": "https://www.radioudec.cl/teleton-concepcion-recibio-equipo-unico-en-latinoamerica/",
-   "titulo": "Teletón Concepción recibió equipo único en Latinoamérica",
-   "resumen": "En la previa de la Teletón 2026, se oficializó la […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-13.03.50-2-768x512.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-09T14:08:15.000Z",
-   "visto": "2026-11-09T14:10:21.944Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/tras-imponerse-en-los-90-minutos-y-caer-en-penales-fernandez-vial-desperdicia-su-primera-opcion-de-ascenso/",
    "titulo": "Tras imponerse en los 90 minutos y caer en penales: Fernández Vial desperdicia su primera opción de ascenso",
    "resumen": "Por Camilo Bravo Ortiz",
@@ -2213,10 +2213,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
-   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
-   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
+   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
@@ -2227,10 +2227,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
-   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
+   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
+   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
