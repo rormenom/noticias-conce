@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T20:50:20.697Z",
+ "generado": "2026-11-10T22:00:27.752Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 58,
+    "enlaces": 148,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/paro-camioneros-gobierno-no-llegan-acuerdo-alza-combustible.html",
+   "titulo": "“Va a seguir el paro en todo el país”: camioneros y Gobierno no llegan a acuerdo ante el alza del combustible",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-2.jpg-e1794347491423.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T22:00:27.752Z",
+   "visto": "2026-11-10T22:00:27.752Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/lota-robo-instrumentos-musicales-iglesia.html",
    "titulo": "Lota: detienen a sujeto por robar instrumentos musicales y equipos de una iglesia",
@@ -786,20 +800,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/municipio-concepcion-transparencia-activa-observaciones.html",
-   "titulo": "Concepción registra bajos índices de transparencia: municipio asegura haber subsanado observaciones",
-   "resumen": "La comuna pasó de 91,7% a 73,6% de cumplimiento en dos años. Se atribuye parte de la caída a reestructuraciones internas y a una evaluación que solo refleja un período específico.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-municipalidad-concepcion-e1794273118294.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/biobio-candidatura-odesur-2030-visita-comision-udec.html",
    "titulo": "Fernando Ucha, presidente de la delegación Odesur en visita al Biobío: “Lo visto hasta ahora cumple con los requisitos”",
    "resumen": "Dirigente uruguayo preside la Comisión Evaluadora de los Odesur y quedó maravillado en su primera inspección en la Región. La UdeC asoma como sede para deportes de combate y 3x3 del básquetbol.",
@@ -824,6 +824,20 @@
    "visto": "2026-11-10T08:40:21.155Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/municipio-concepcion-transparencia-activa-observaciones.html",
+   "titulo": "Concepción registra bajos índices de transparencia: municipio asegura haber subsanado observaciones",
+   "resumen": "La comuna pasó de 91,7% a 73,6% de cumplimiento en dos años. Se atribuye parte de la caída a reestructuraciones internas y a una evaluación que solo refleja un período específico.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-municipalidad-concepcion-e1794273118294.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
