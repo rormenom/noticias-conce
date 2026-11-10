@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-10T12:30:24.567Z",
+ "generado": "2026-11-10T12:40:20.471Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -61,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 66,
+    "enlaces": 154,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -75,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 4,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
@@ -303,6 +302,20 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-10T07:33:27.000Z",
    "visto": "2026-11-10T12:10:20.117Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/10/obras-del-eje-colon-en-hualpen-alcanzan-un-92-de-avance/",
+   "titulo": "Obras del Eje Colón en Hualpén alcanzan un 92% de avance",
+   "resumen": "Y proyectan habilitarlo en febrero.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/avance-obras-eje-colon-hualpen--768x431.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-10T07:07:04.000Z",
+   "visto": "2026-11-10T12:40:20.471Z",
    "cats": [
     "regional"
    ],
@@ -1803,20 +1816,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/delincuentes-ingresan-por-forado-a-banco-y-protagonizan-millonario-robo-en-centro-de-concepcion.shtml",
-   "titulo": "Delincuentes ingresan por forado a banco y protagonizan millonario robo en centro de Concepción",
-   "resumen": "Un millonario robo se registró la madrugada de este domingo en las bóvedas de un banco en el centro de...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011575-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-08T12:09:16.000Z",
-   "visto": "2026-11-08T12:10:18.698Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/08/fernandez-vial-gano-revancha-pero-no-el-ascenso-mejillones-se-impuso-en-penales-y-subio-a-tercera-a",
    "titulo": "Fernández Vial ganó el partido de vuelta, pero Mejillones logró el ascenso a Tercera A tras imponerse en penales.",
    "resumen": "Arturo Fernández Vial cayó este sábado y dejó escapar su primera opción de subir a la Tercera A, cuarta división del fútbol chileno, luego de perder en una dramática definición por penales ante Municipal Mejillones. Después de caer 0-1 en el partido de ida,…",
@@ -1989,10 +1988,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
-   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
+   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
+   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
@@ -2003,10 +2002,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
-   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
-   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
+   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
