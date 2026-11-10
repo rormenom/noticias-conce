@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T15:00:28.659Z",
+ "generado": "2026-11-10T15:20:20.986Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 63,
+    "enlaces": 156,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 7,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/prochile-biobio-organiza-ruedas-de-negocios-con-empresarios-locales-en-redes-y-expocorma/",
+   "titulo": "ProChile Biobío organiza ruedas de negocios con empresarios locales en «Redes» y «Expocorma»",
+   "resumen": "En el marco de los eventos empresariales que convocan a […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2025/11/redes-2025-768x509.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-10T15:12:42.000Z",
+   "visto": "2026-11-10T15:20:20.986Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/10/pdi-detiene-a-dos-mujeres-acusadas-de-secuestrar-y-agredir-a-adolescente-de-17-anos-en-cabrero",
    "titulo": "PDI detiene a dos mujeres acusadas de secuestrar y agredir a adolescente de 17 años en Cabrero",
@@ -1771,20 +1785,6 @@
    "visto": "2026-11-08T18:30:22.874Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/forado-en-muro-y-oxicorte-para-entrar-a-boveda-lo-que-se-sabe-de-millonario-robo-a-banco-penquista.shtml",
-   "titulo": "Forado en muro y oxicorte para entrar a bóveda: lo que se sabe de millonario robo a banco penquista",
-   "resumen": "Un “cinematográfico” robo fue el que protagonizaron la madrugada de este domingo -al menos- cinco delincuentes en la sucursal del...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011750-robo-banco.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-08T17:52:16.000Z",
-   "visto": "2026-11-08T18:00:26.303Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
