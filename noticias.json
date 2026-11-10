@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T17:30:24.250Z",
+ "generado": "2026-11-10T17:40:21.290Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 153,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/10/corrupcion-judicial-en-los-angeles-exfiscal-presenta-amparo-tras-formalizacion-por-delitos-desechados.shtml",
+   "titulo": "Corrupción judicial en Los Ángeles: exfiscal presenta amparo tras formalización por delitos desechados",
+   "resumen": "Un recurso de amparo presentó el exfiscal Rodrigo Durán, denunciando al juez de Garantía, Bayron Gallardo, por haber permitido...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013900-exfiscal-los-angeles.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-10T17:37:49.000Z",
+   "visto": "2026-11-10T17:40:21.290Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/redes-2026-pymes-biobio-internacionalizacion.html",
    "titulo": "ProChile y ASEM Biobío impulsan oportunidades en China y negocios con importadores de siete mercados en REDES 2026",
@@ -1722,20 +1736,6 @@
    "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
    "resumen": "",
    "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-08T22:20:20.870Z",
-   "visto": "2026-11-08T22:20:20.870Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/es-ridiculo-que-los-insumos-esten-ahi-exdirectivo-del-ssc-cuestiona-gestion-del-hospital-traumatologico.html",
-   "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-4-dependencia-hospital-traumatologico-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-08T22:20:20.870Z",
