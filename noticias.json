@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T16:30:26.213Z",
+ "generado": "2026-11-10T16:50:22.249Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 63,
+    "enlaces": 154,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/10/museo-del-prado-en-las-calles-concepcion-recta-final.html",
+   "titulo": "Con arte participativo y presentaciones en vivo: el Museo del Prado concluye este domingo en Concepción",
+   "resumen": "La muestra al aire libre permanecerá en la Diagonal Pedro Aguirre Cerda hasta el 15 de noviembre, sumando arte participativo, rap y Noche de Museos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Museo-del-Prado-2.jpg-e1794328867334.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T16:50:22.249Z",
+   "visto": "2026-11-10T16:50:22.249Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/transporte-escolar-evaluacion-caravana-autopista-combustibles.html",
    "titulo": "“Fue un éxito”: Transporte escolar califica de positiva caravana por combustibles en la autopista y descarta paro total",
@@ -449,20 +463,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/biobio-candidatura-odesur-2030-visita-comision-udec.html",
-   "titulo": "Fernando Ucha, presidente de la delegación Odesur en visita al Biobío: “Lo visto hasta ahora cumple con los requisitos”",
-   "resumen": "Dirigente uruguayo preside la Comisión Evaluadora de los Odesur y quedó maravillado en su primera inspección en la Región. La UdeC asoma como sede para deportes de combate y 3x3 del básquetbol.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-17-visita-comisi%C3%B3n-Odesur-foto-Eduardo-Fortes-Gore-Biob%C3%ADo-e1794272913584.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/municipio-concepcion-transparencia-activa-observaciones.html",
    "titulo": "Concepción registra bajos índices de transparencia: municipio asegura haber subsanado observaciones",
    "resumen": "La comuna pasó de 91,7% a 73,6% de cumplimiento en dos años. Se atribuye parte de la caída a reestructuraciones internas y a una evaluación que solo refleja un período específico.",
@@ -473,6 +473,20 @@
    "visto": "2026-11-10T08:40:21.155Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/biobio-candidatura-odesur-2030-visita-comision-udec.html",
+   "titulo": "Fernando Ucha, presidente de la delegación Odesur en visita al Biobío: “Lo visto hasta ahora cumple con los requisitos”",
+   "resumen": "Dirigente uruguayo preside la Comisión Evaluadora de los Odesur y quedó maravillado en su primera inspección en la Región. La UdeC asoma como sede para deportes de combate y 3x3 del básquetbol.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-17-visita-comisi%C3%B3n-Odesur-foto-Eduardo-Fortes-Gore-Biob%C3%ADo-e1794272913584.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -2002,10 +2016,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
-   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
-   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
+   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
@@ -2016,10 +2030,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
-   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
+   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
+   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
