@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T15:20:20.986Z",
+ "generado": "2026-11-10T15:30:24.460Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 64,
+    "enlaces": 153,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/kast-combustibles-camioneros-alza-precios-seguridad.html",
+   "titulo": "Kast por tensión con camioneros: contrapone alza de combustibles con avances en seguridad",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-41.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T15:30:24.460Z",
+   "visto": "2026-11-10T15:30:24.460Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/10/convocatoria-de-expo-de-mar-a-cordillera-entra-en-recta-final-para-reunir-a-creadores-de-todo-el-biobio-en-su-cuarta-version/",
+   "titulo": "Convocatoria de Expo De Mar a Cordillera entra en recta final para reunir a creadores de todo el Biobío en su cuarta versión",
+   "resumen": "Para reunir a creadores de todo el Biobío en su cuarta versión.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Expo27-2-768x613.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-10T15:29:11.000Z",
+   "visto": "2026-11-10T15:30:24.460Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/prochile-biobio-organiza-ruedas-de-negocios-con-empresarios-locales-en-redes-y-expocorma/",
    "titulo": "ProChile Biobío organiza ruedas de negocios con empresarios locales en «Redes» y «Expocorma»",
@@ -1761,20 +1789,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/choque-entre-camioneta-y-motocicleta-en-alto-bio-bio-deja-un-fallecido.shtml",
-   "titulo": "Choque entre camioneta y motocicleta en Alto Bío Bío deja un fallecido",
-   "resumen": "Una camioneta y una motocicleta protagonizaron un choque en la Ruta Q-61-R en Alto Bío Bío, región...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011824-choque-entre-camioneta-y-motocicleta-en-alto-bio-bio-deja-un-fallecido.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-08T20:13:57.000Z",
-   "visto": "2026-11-08T20:20:20.242Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/08/puede-valer-un-titulo-el-golazo-de-arturo-vidal-a-nublense-que-esta-consagrando-a-colo-colo-en-liga.shtml",
    "titulo": "Puede valer un título: el golazo de Arturo Vidal a Ñublense que ilusiona a Colo Colo en Liga",
    "resumen": "Tenía que aparecer el King. Colo Colo se adelantó ante Ñublense en la definición del título de la Liga de...",
@@ -1988,21 +2002,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/07/chiguayante-contraloria-gasto-personal-contrata.html",
-   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el aumento de gasto en personal a contrata",
-   "resumen": "La presentación busca que el organismo examine las operaciones financieras del municipio. Advierten que la proporción de remuneraciones superó el máximo legal.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/municipalidad-chiguayante-e1794015641690.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-07T08:40:20.552Z",
-   "visto": "2026-11-07T08:40:20.552Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
    "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
    "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
@@ -2055,6 +2054,21 @@
    "visto": "2026-11-07T08:40:20.552Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/07/chiguayante-contraloria-gasto-personal-contrata.html",
+   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el aumento de gasto en personal a contrata",
+   "resumen": "La presentación busca que el organismo examine las operaciones financieras del municipio. Advierten que la proporción de remuneraciones superó el máximo legal.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/municipalidad-chiguayante-e1794015641690.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-07T08:40:20.552Z",
+   "visto": "2026-11-07T08:40:20.552Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
