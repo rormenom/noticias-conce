@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T18:10:21.847Z",
+ "generado": "2026-11-10T18:20:23.095Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 63,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,97 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 7,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/sernac-ley-fraudes-auditoria-sludge.html",
+   "titulo": "SERNAC realiza auditoría a la Ley de Fraudes y revela “trámites excesivos” a víctimas financieras",
+   "resumen": "El estudio estima que el proceso de reclamación tiene un costo mediano de $21 mil en tiempo y traslado para las víctimas, afectando especialmente a mujeres, jóvenes y personas de menores ingresos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/02/foto_0000000120190102102923.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T18:20:23.095Z",
+   "visto": "2026-11-10T18:20:23.095Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/tc-resolvera-esta-semana-admisibilidad-de-recurso-presentado-por-boris-chamorro-en-caso-puerto-coronel",
+   "titulo": "TC definirá esta semana si admite a trámite el recurso de Boris Chamorro por el caso Puerto Coronel",
+   "resumen": "Durante esta semana, el Tribunal Constitucional (TC) resolverá si admite a trámite el requerimiento presentado por el alcalde Boris Chamorro, quien pretende continuar en el cargo mientras enfrenta el juicio oral por el caso Puerto Coronel. El proceso penal…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/boris-chamorro-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T18:20:23.095Z",
+   "visto": "2026-11-10T18:20:23.095Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/gremios-empresariales-piden-dialogo-por-paro-de-camioneros-y-advierten-temporada-critica-para-el-agro",
+   "titulo": "Gremios empresariales instan al diálogo ante el paro camionero y alertan sobre una etapa crítica para la agricultura",
+   "resumen": "Varios gremios empresariales expresaron inquietud ante los paros de camioneros en distintos lugares del país y las posibles consecuencias para las exportaciones y el funcionamiento de las pequeñas y medianas empresas. El lunes, la Multigremial Nacional había…",
+   "imagen": "",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T18:20:23.095Z",
+   "visto": "2026-11-10T18:20:23.095Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/corrupcion-judicial-en-los-angeles-exfiscal-presenta-amparo-tras-formalizacion-por-delitos-desechados",
+   "titulo": "Exfiscal de Los Ángeles recurre a un amparo tras ser formalizado por delitos que fueron desestimados",
+   "resumen": "El exfiscal exfiscal Rodrigo Durán interpuso un recurso de amparo contra el juez de Garantía Bayron Gallardo. Lo acusa de haber autorizado que la Fiscalía le atribuyera delitos que la Corte Suprema había descartado, luego de que el máximo tribunal resolviera…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/exfiscal-los-angeles.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T18:20:23.095Z",
+   "visto": "2026-11-10T18:20:23.095Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/10/tras-su-incorporacion-olimpica-santiago-squash-club-busca-acercar-la-disciplina-a-nuevos-jugadores.shtml",
+   "titulo": "Tras su incorporación olímpica: Santiago Squash Club busca acercar la disciplina a nuevos jugadores",
+   "resumen": "El 14 de julio de 2028 se encenderá el pebetero de los Juegos Olímpicos de Los Ángeles y, por primera...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7014115-santiago-squash.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-10T18:19:34.000Z",
+   "visto": "2026-11-10T18:20:23.095Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/10/detienen-en-coyhaique-a-hombre-acusado-de-abusar-sexualmente-de-nina-en-concepcion.shtml",
+   "titulo": "Detienen en Coyhaique a hombre acusado de abusar sexualmente de niña en Concepción",
+   "resumen": "Un hombre de 21 años fue detenido en Coyhaique, acusado de cometer abusos sexuales contra una niña menor de 12...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7014269-restore-ocho-detenidos-pdi-1200x633-1-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-10T18:11:33.000Z",
+   "visto": "2026-11-10T18:20:23.095Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/deudas-tributarias-pymes-biobio.html",
    "titulo": "Ley de Reconstrucción: promueven facilidades de pago para deudas fiscales y territoriales de personas y Pymes del Biobío",
@@ -1549,20 +1633,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/robo-banco-bci-fallas-seguridad-concepcion.html",
-   "titulo": "A tres cuadras de Carabineros: Forado, oxicorte y ausencia de guardias. Millonario robo a banco expone fallas en protocolos de seguridad",
-   "resumen": "El seremi de Seguridad anunció que se revisarán los protocolos de vigilancia del banco.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-9.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T08:40:19.027Z",
-   "visto": "2026-11-09T08:40:19.027Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/avance-alcanza-el-933-en-soluciones-habitacionales-en-el-biobio.html",
    "titulo": "Avance alcanza el 9,33% en soluciones habitacionales en el Biobío",
    "resumen": "La iniciativa del ministerio es integral, ya que aborda metas no solo en entrega de viviendas, sino también en infraestructura urbana y mejoramientos de condominios y conjuntos habitacionales. El seremi de Vivienda y Urbanismo, Anselmo Villagra Cabello,…",
@@ -1573,20 +1643,6 @@
    "visto": "2026-11-09T08:40:19.027Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/demolicion-de-casona-en-tome-genera-criticas-por-falta-de-proteccion-de-inmuebles-historicos.html",
-   "titulo": "Demolición de casona en Tomé genera críticas por falta de protección de inmuebles históricos",
-   "resumen": "Organizaciones culturales cuestionan la pérdida de construcciones antiguas y la falta de apoyo municipal. El alcalde anunció un catastro y sostuvo que la propiedad demolida no contaba con protección oficiaL",
-   "imagen": "https://assets.diarioconcepcion.cl/2025/02/Tome%CC%81-e1739995700910.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T08:40:19.027Z",
-   "visto": "2026-11-09T08:40:19.027Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1602,34 +1658,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/aprueban-inversion-de-2-384-millones-para-calles-de-chiguayante/",
-   "titulo": "Aprueban inversión de $2.384 millones para calles de Chiguayante",
-   "resumen": "Estos recursos permitirán intervenir 19 kilómetros de vías.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/infraestructura-vial-chiguayante--768x432.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-09T07:21:08.000Z",
-   "visto": "2026-11-09T11:10:20.079Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/roban-3-mil-millones-de-pesos-desde-una-sucursal-bancaria-en-concepcion/",
-   "titulo": "Roban 3 mil millones de pesos desde una sucursal bancaria en Concepción",
-   "resumen": "Desconocidos realizaron un forado en un edificio aledaño para ingresar a la bóveda del recinto.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/forado-robo-banco-bci-ccp--768x435.jpeg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-09T07:00:50.000Z",
-   "visto": "2026-11-09T23:30:22.244Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
