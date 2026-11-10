@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T20:10:22.265Z",
+ "generado": "2026-11-10T20:20:21.547Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 60,
+    "enlaces": 151,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/juegos-suramericanos-2030-odesur-anticipa-informe-positivo-sobre-candidatura-del-biobio/",
+   "titulo": "Juegos Suramericanos 2030: ODESUR anticipa informe positivo sobre candidatura del Biobío",
+   "resumen": "La Comisión Evaluadora de ODESUR visitó este lunes y martes […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/odesur-biobio-01-768x512.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-10T20:15:13.000Z",
+   "visto": "2026-11-10T20:20:21.547Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/ips-aporte-familiar-permanente-cobro-plazos.html",
    "titulo": "Más de 180 mil familias han cobrado el Aporte Familiar Permanente en la Región del Biobío",
@@ -1627,20 +1642,6 @@
    "visto": "2026-11-09T12:00:27.200Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/movilizacion-camioneros-los-angeles.html",
-   "titulo": "Los Ángeles: camioneros inician movilización en la Ruta 5 Sur",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-32.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T11:40:20.599Z",
-   "visto": "2026-11-09T11:40:20.599Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
