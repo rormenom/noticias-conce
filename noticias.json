@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T18:30:25.464Z",
+ "generado": "2026-11-10T18:40:23.841Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 151,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
@@ -110,20 +110,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/gremios-empresariales-piden-dialogo-por-paro-de-camioneros-y-advierten-temporada-critica-para-el-agro",
-   "titulo": "Gremios empresariales instan al diálogo ante el paro camionero y alertan sobre una etapa crítica para la agricultura",
-   "resumen": "Varios gremios empresariales expresaron inquietud ante los paros de camioneros en distintos lugares del país y las posibles consecuencias para las exportaciones y el funcionamiento de las pequeñas y medianas empresas. El lunes, la Multigremial Nacional había…",
-   "imagen": "",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T18:20:23.095Z",
-   "visto": "2026-11-10T18:20:23.095Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/10/tc-resolvera-esta-semana-admisibilidad-de-recurso-presentado-por-boris-chamorro-en-caso-puerto-coronel",
    "titulo": "TC definirá esta semana si admite a trámite el recurso de Boris Chamorro por el caso Puerto Coronel",
    "resumen": "Durante esta semana, el Tribunal Constitucional (TC) resolverá si admite a trámite el requerimiento presentado por el alcalde Boris Chamorro, quien pretende continuar en el cargo mientras enfrenta el juicio oral por el caso Puerto Coronel. El proceso penal…",
@@ -142,6 +128,20 @@
    "titulo": "Exfiscal de Los Ángeles recurre a un amparo tras ser formalizado por delitos que fueron desestimados",
    "resumen": "El exfiscal exfiscal Rodrigo Durán interpuso un recurso de amparo contra el juez de Garantía Bayron Gallardo. Lo acusa de haber autorizado que la Fiscalía le atribuyera delitos que la Corte Suprema había descartado, luego de que el máximo tribunal resolviera…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/exfiscal-los-angeles.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T18:20:23.095Z",
+   "visto": "2026-11-10T18:20:23.095Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/gremios-empresariales-piden-dialogo-por-paro-de-camioneros-y-advierten-temporada-critica-para-el-agro",
+   "titulo": "Gremios empresariales instan al diálogo ante el paro camionero y alertan sobre una etapa crítica para la agricultura",
+   "resumen": "Varios gremios empresariales expresaron inquietud ante los paros de camioneros en distintos lugares del país y las posibles consecuencias para las exportaciones y el funcionamiento de las pequeñas y medianas empresas. El lunes, la Multigremial Nacional había…",
+   "imagen": "",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-10T18:20:23.095Z",
@@ -631,10 +631,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/sernapesca-advierte-riesgo-de-enfermedades-tras-aparicion-de-pinguino-en-la-costa-de-ramuntcho.html",
-   "titulo": "Sernapesca advierte riesgo de enfermedades tras aparición de pingüino en la costa de Ramuntcho",
-   "resumen": "Aunque el riesgo de contagio de influenza aviar en personas es bajo, las autoridades advierten que el contacto directo con aves silvestres puede generar exposición.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-pinguinos-de-Humbolt-en-pen%C3%ADnsula-de-Hualp%C3%A9n-foto-cedida-e1794271383247.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
+   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
+   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -645,10 +645,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
-   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
-   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/sernapesca-advierte-riesgo-de-enfermedades-tras-aparicion-de-pinguino-en-la-costa-de-ramuntcho.html",
+   "titulo": "Sernapesca advierte riesgo de enfermedades tras aparición de pingüino en la costa de Ramuntcho",
+   "resumen": "Aunque el riesgo de contagio de influenza aviar en personas es bajo, las autoridades advierten que el contacto directo con aves silvestres puede generar exposición.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-pinguinos-de-Humbolt-en-pen%C3%ADnsula-de-Hualp%C3%A9n-foto-cedida-e1794271383247.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -1358,6 +1358,20 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-09T15:00:00.000Z",
    "visto": "2026-11-10T00:30:23.951Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/09/lluvias-impacto-agro-forestal-biobio.html",
+   "titulo": "Lluvias e incertidumbre climática complican al agro y la actividad forestal en la Región del Biobío",
+   "resumen": "Gremios alertan por daños en cosechas, retrasos y paralizaciones de faenas durante el verano.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/07/Sistema-frontal-mejora-las-reservas-de-agua-y-abre-mejores-perspectivas-para-el-agro-del-Biob%C3%ADo-2.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T15:00:00.000Z",
+   "visto": "2026-11-10T18:40:23.841Z",
    "cats": [
     "regional"
    ],
