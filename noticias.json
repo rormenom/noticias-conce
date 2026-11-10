@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T00:30:23.951Z",
+ "generado": "2026-11-10T01:30:23.238Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 60,
+    "enlaces": 153,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 10,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/camioneros-movilizados-paralizan-la-ruta-5-sur-en-los-angeles-y-generan-taco-kilometrico.shtml",
+   "titulo": "Camioneros movilizados paralizan la Ruta 5 Sur en Los Ángeles y generan taco kilométrico",
+   "resumen": "En el marco de las movilizaciones anunciadas por distintos gremios debido al alza de combustibles, la noche de este lunes...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013394-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-10T01:28:25.000Z",
+   "visto": "2026-11-10T01:30:23.238Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/cde-se-querella-contra-carabinero-que-pidio-prestamo-de-20-millones-a-camila-polizzi.shtml",
    "titulo": "CDE se querella contra carabinero que pidió préstamo de $20 millones a Camila Polizzi",
