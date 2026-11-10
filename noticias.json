@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T22:20:19.622Z",
+ "generado": "2026-11-10T22:30:22.669Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
-    "leidas": 56,
+    "enlaces": 146,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -273,6 +273,20 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-10T18:44:43.000Z",
    "visto": "2026-11-10T18:50:21.288Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/10/plan-chile-despega-mop-inicio-el-100-de-las-licitaciones-que-permitiran-crear-mas-de-2-300-empleos/",
+   "titulo": "Plan Chile Despega: MOP inició el 100% de las licitaciones que permitirán crear más de 2.300 empleos",
+   "resumen": "A casi un mes de anunciado el plan de gobierno, el Ministerio de Obras Públicas ya publicó los llamados a licitación de un total de 28 contratos de obras en el Biobío por un monto cercano a los $37 mil millones.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/liceo-canete-2-768x576.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-10T18:36:10.000Z",
+   "visto": "2026-11-10T22:30:22.669Z",
    "cats": [
     "regional"
    ],
@@ -1642,20 +1656,6 @@
    "visto": "2026-11-09T23:00:30.218Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/fiscalia-lleva-a-juicio-litigio-familiar-por-propiedad-de-complejo-la-pequena-escandinavia-en-tome",
-   "titulo": "Fiscalía lleva a juicio litigio familiar por propiedad de complejo \"La Pequeña Escandinavia\" en Tomé",
-   "resumen": "Una pareja podría recibir condenas de hasta ocho años de prisión tras ser acusada de administración desleal y apropiación indebida de un complejo turístico en Tomé. La Fiscalía formalizó la acusación luego de reunir antecedentes que respaldan la denuncia de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/la-pequena-escandinavia-.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T13:10:21.396Z",
-   "visto": "2026-11-09T13:10:21.396Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
