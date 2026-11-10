@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T22:10:20.699Z",
+ "generado": "2026-11-10T22:20:19.622Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 147,
-    "leidas": 57,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/10/tedxbarriouniversitario-women-2026-primera-edicion-biobio.html",
+   "titulo": "TEDxBarrioUniversitario Women 2026 prepara su primera edición en el Biobío con ideas y experiencias que transforman",
+   "resumen": "El encuentro, que se realizará el próximo 4 de diciembre en la Universidad de Concepción, reunirá a ocho expositoras y abordará temáticas relacionadas con el liderazgo femenino, la ciencia, la innovación y el impacto social.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Lanzamiento-TEDxBarrioUniversitario-Women-2026-41-e1794347824346.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T22:20:19.622Z",
+   "visto": "2026-11-10T22:20:19.622Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/pensando-en-odesur-2030-comision-evaluadora-visito-infraestructura-deportiva-de-region-del-bio-bio",
+   "titulo": "Comisión de Odesur 2030 recorrió instalaciones deportivas de la Región del Biobío",
+   "resumen": "Con la vista puesta en 2030, la Comisión Evaluadora de la Organización Deportiva Suramericana (Odesur) llegó al Bío Bío para revisar la candidatura de la región a ser sede de los Juegos Suramericanos dentro de cuatro años. En septiembre de este año, el Comité…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/delegacion-odesur-visito-region-del-bio-bio-postulacion-juegos-2030.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T22:20:19.622Z",
+   "visto": "2026-11-10T22:20:19.622Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/presion-legislativa-combustibles-transportistas.html",
    "titulo": "Paro de camioneros: ofensiva legislativa busca eliminar impuesto específico y blindar contratos de transportistas",
@@ -1656,20 +1684,6 @@
    "visto": "2026-11-09T13:00:28.120Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/demolicion-casona-tome-criticas-patrimonio.html",
-   "titulo": "Demolición de casona en Tomé genera críticas por falta de protección de inmuebles históricos",
-   "resumen": "Organizaciones culturales cuestionan la pérdida de construcciones antiguas y la falta de apoyo municipal. El alcalde anunció un catastro y sostuvo que la propiedad demolida no contaba con protección oficiaL",
-   "imagen": "https://assets.diarioconcepcion.cl/2025/02/Tome%CC%81-e1794228305202.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T12:50:23.595Z",
-   "visto": "2026-11-09T12:50:23.595Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
