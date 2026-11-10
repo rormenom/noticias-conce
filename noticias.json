@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T08:20:19.970Z",
+ "generado": "2026-11-10T08:40:21.155Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 63,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,125 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/sernapesca-advierte-riesgo-de-enfermedades-tras-aparicion-de-pinguino-en-la-costa-de-ramuntcho.html",
+   "titulo": "Sernapesca advierte riesgo de enfermedades tras aparición de pingüino en la costa de Ramuntcho",
+   "resumen": "Aunque el riesgo de contagio de influenza aviar en personas es bajo, las autoridades advierten que el contacto directo con aves silvestres puede generar exposición.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-pinguinos-de-Humbolt-en-pen%C3%ADnsula-de-Hualp%C3%A9n-foto-cedida-e1794271383247.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/biobio-candidatura-odesur-2030-visita-comision-udec.html",
+   "titulo": "Fernando Ucha, presidente de la delegación Odesur en visita al Biobío: “Lo visto hasta ahora cumple con los requisitos”",
+   "resumen": "Dirigente uruguayo preside la Comisión Evaluadora de los Odesur y quedó maravillado en su primera inspección en la Región. La UdeC asoma como sede para deportes de combate y 3x3 del básquetbol.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-17-visita-comisi%C3%B3n-Odesur-foto-Eduardo-Fortes-Gore-Biob%C3%ADo-e1794272913584.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/municipio-concepcion-transparencia-activa-observaciones.html",
+   "titulo": "Concepción registra bajos índices de transparencia: municipio asegura haber subsanado observaciones",
+   "resumen": "La comuna pasó de 91,7% a 73,6% de cumplimiento en dos años. Se atribuye parte de la caída a reestructuraciones internas y a una evaluación que solo refleja un período específico.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-municipalidad-concepcion-e1794273118294.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
+   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
+   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/camioneros-biobio-paro-combustibles.html",
+   "titulo": "Paro de camioneros amenaza el inicio de la temporada agrícola del Biobío",
+   "resumen": "Gremio productor advierte impacto directo en las cosechas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-paro-de-camioneros-en-ruta-5-sur-foto-cedida.jpg-e1794273079507.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/futuro-de-renato-ramos-hoy-no-puedo-anticipar-si-vamos-a-continuar.html",
+   "titulo": "Futuro de Renato Ramos: “Hoy no puedo anticipar si vamos a continuar”",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/renato-ramos-e1794273414205.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/basquetbol-femenino-udec-hizo-doblete-y-se-instala-en-segundo-puesto-de-la-liga.html",
+   "titulo": "Básquetbol femenino UdeC hizo doblete y se instala en segundo puesto de la Liga",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/udec-boston-college-e1794273470461.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/10/decimo-encuentro-poetico-reunira-124-autores-chile-y-otros-16-paises-en-el-gran-concepcion.html",
+   "titulo": "Décimo Encuentro Poético reunirá a 124 autores de Chile y otros 16 países en el Gran Concepción",
+   "resumen": "La iniciativa, organizada por la Universidad del Biobío junto a centros culturales y municipios, se desplegará en diferentes espacios del Gran Concepción. Programación que contempla recitales poéticos, gala universitaria y una sesión preinaugural en la Casa…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-nota-encuentro-cedida-UBB-e1794273521737.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/camioneros-movilizados-paralizan-la-ruta-5-sur-en-los-angeles-y-generan-taco-kilometrico.shtml",
    "titulo": "Camioneros movilizados paralizan la Ruta 5 Sur en Los Ángeles y generan taco kilométrico",
@@ -943,20 +1055,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/robo-banco-bci-fallas-seguridad-concepcion.html",
-   "titulo": "A tres cuadras de Carabineros: Forado, oxicorte y ausencia de guardias. Millonario robo a banco expone fallas en protocolos de seguridad",
-   "resumen": "El seremi de Seguridad anunció que se revisarán los protocolos de vigilancia del banco.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-9.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T08:40:19.027Z",
-   "visto": "2026-11-09T08:40:19.027Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/09/biobio-apuesta-por-la-reforestacion-de-150-mil-hectareas-clave-ante-nueva-agenda-del-gobierno.html",
    "titulo": "Biobío apuesta por la reforestación de 150 mil hectáreas clave ante nueva agenda del Gobierno",
    "resumen": "Frente a la reducción del patrimonio maderero y los daños por incendios, el Ministerio de Agricultura, Corma, PymeMad y el Gore concuerdan en la necesidad de una política de Estado de largo plazo.",
@@ -976,6 +1074,20 @@
    "titulo": "Lluvias e incertidumbre climática complican al agro y la actividad forestal en la Región del Biobío",
    "resumen": "Gremios alertan por daños en cosechas, retrasos y paralizaciones de faenas durante el verano.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/07/Sistema-frontal-mejora-las-reservas-de-agua-y-abre-mejores-perspectivas-para-el-agro-del-Biob%C3%ADo-2.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-09T08:40:19.027Z",
+   "visto": "2026-11-09T08:40:19.027Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/robo-banco-bci-fallas-seguridad-concepcion.html",
+   "titulo": "A tres cuadras de Carabineros: Forado, oxicorte y ausencia de guardias. Millonario robo a banco expone fallas en protocolos de seguridad",
+   "resumen": "El seremi de Seguridad anunció que se revisarán los protocolos de vigilancia del banco.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-9.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-09T08:40:19.027Z",
@@ -1633,20 +1745,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/udec-acerco-el-basquetbol-de-alto-nivel-a-jovenes-deportistas-con-clinica-en-la-casa-del-deporte.html",
-   "titulo": "UdeC acercó el básquetbol de alto nivel a jóvenes deportistas con clínica en la Casa del Deporte",
-   "resumen": "Jóvenes participantes del torneo interescolar de básquetbol participaron del evento junto a los planteles de honor femeninos y masculinos del Campanil.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-17-clinica-de-basket-foto-carolina-1.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T08:40:18.789Z",
-   "visto": "2026-11-08T08:40:18.789Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/08/m8zart-ensamble-sinfonica-udec-cierra-temporada-2026-d-camara.html",
    "titulo": "Con “M8zart” Ensamble de Sinfónica UdeC cierra temporada 2026 D-Cámara",
    "resumen": "Con la batuta del músico Ramiro Vera, los conciertos en esta modalidad bajarán el telón por este año, de la mano de las composiciones  “Cinco contradanzas” y “Serenata en Re mayor” , de  Wolfgang Amadeus Mozart, y “Concierto para violín en Sol mayor”, de…",
@@ -1657,6 +1755,20 @@
    "visto": "2026-11-08T08:40:18.789Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/udec-acerco-el-basquetbol-de-alto-nivel-a-jovenes-deportistas-con-clinica-en-la-casa-del-deporte.html",
+   "titulo": "UdeC acercó el básquetbol de alto nivel a jóvenes deportistas con clínica en la Casa del Deporte",
+   "resumen": "Jóvenes participantes del torneo interescolar de básquetbol participaron del evento junto a los planteles de honor femeninos y masculinos del Campanil.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-17-clinica-de-basket-foto-carolina-1.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-08T08:40:18.789Z",
+   "visto": "2026-11-08T08:40:18.789Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1795,48 +1907,6 @@
    "fuenteId": "tvu",
    "fecha": "2026-11-07T16:20:18.684Z",
    "visto": "2026-11-07T16:20:18.684Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/alianza-francesa-prepara-detalles-de-una-nueva-version-de-la-fiesta-de-la-musica.html",
-   "titulo": "Alianza Francesa prepara detalles de una nueva versión de la “Fiesta de la Música”",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-14-version-fiesta-de-la-musica-foto-archivo-Fiesta-de-la-M%C3%BAsica-2017.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-07T16:20:18.684Z",
-   "visto": "2026-11-07T16:20:18.684Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
-   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
-   "resumen": "",
-   "imagen": "https://www.tvu.cl/_templates/globals/img/placeholder.png",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-07T16:20:18.684Z",
-   "visto": "2026-11-07T16:20:18.684Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/aumenta-preocupacion-en-concepcion-por-personas-en-situacion-de-calle-descompensadas-por-salud-mental.html",
-   "titulo": "Aumenta preocupación en Concepción por personas en situación de calle descompensadas por salud mental",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-6-joven-en-situacion-de-calle-foto-carolina.jpg-850x500.jpeg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-07T16:10:19.290Z",
-   "visto": "2026-11-07T16:10:19.290Z",
    "cats": [
     "regional"
    ],
@@ -2044,21 +2114,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/vecinos-ruta-160-carta-presidente-kast.html",
-   "titulo": "“El centralismo castigó al Biobío”: treinta juntas de vecinos envían carta a Presidente Kast por freno a obras en Ruta 160",
-   "resumen": "Dirigentes de Coronel, Lota y San Pedro de La Paz exigieron al Mandatario revertir el freno al corredor licitado y acusaron discriminación centralista.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/vecinos-ruta-160-carta-presidente-kast.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
    "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
    "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
@@ -2103,20 +2158,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/alan-gonzalez-rendira-homenaje-cantautores-regionales-concierto-el-canto-del-biobio.html",
-   "titulo": "Alan González rendirá homenaje a cantautores regionales con concierto “El canto del Biobío”",
-   "resumen": "El músico y escritor penquista se presentará en la Corporación Cultural San Pedro de la Paz -Los Fresnos 1640- con un espectáculo íntimo de guitarra y voz que rescata la obra de destacados compositores y compositoras del territorio. Hoy a las 19.00 horas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-Alan-Gonz%C3%A1lez.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/06/biobio-mar-evacuacion-proteccion-alerta.html",
    "titulo": "Biobío frente al mar: la evacuación y protección no pueden comenzar con una alerta",
    "resumen": "Ante un terremoto esperar una sirena o mensaje puede tener consecuencias fatales. Por eso la educación y preparación son la clave vital.",
@@ -2141,6 +2182,35 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/vecinos-ruta-160-carta-presidente-kast.html",
+   "titulo": "“El centralismo castigó al Biobío”: treinta juntas de vecinos envían carta a Presidente Kast por freno a obras en Ruta 160",
+   "resumen": "Dirigentes de Coronel, Lota y San Pedro de La Paz exigieron al Mandatario revertir el freno al corredor licitado y acusaron discriminación centralista.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/vecinos-ruta-160-carta-presidente-kast.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/alan-gonzalez-rendira-homenaje-cantautores-regionales-concierto-el-canto-del-biobio.html",
+   "titulo": "Alan González rendirá homenaje a cantautores regionales con concierto “El canto del Biobío”",
+   "resumen": "El músico y escritor penquista se presentará en la Corporación Cultural San Pedro de la Paz -Los Fresnos 1640- con un espectáculo íntimo de guitarra y voz que rescata la obra de destacados compositores y compositoras del territorio. Hoy a las 19.00 horas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-Alan-Gonz%C3%A1lez.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -2306,21 +2376,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/05/fne-aprobo-acuerdo-aza-huachipato.html",
-   "titulo": "Sector público y privado destacan que alianza AZA-Huachipato resguarda la vocación industrial de la zona",
-   "resumen": "FNE dio luz verde al trato entre ambas compañías para desarrollar acero verde en Talcahuano.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-huachipato-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-05T15:00:00.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional",
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/05/concepcion-sera-protagonista-de-la-semana-de-las-invasiones-biologicas-2026.html",
    "titulo": "Concepción será protagonista de la Semana de las Invasiones Biológicas 2026",
    "resumen": "Del 9 al 14 noviembre se desarrollará el programa en Concepción, con diversas actividades abiertas a todo público con la UdeC como escenario.",
@@ -2345,6 +2400,21 @@
    "visto": "2026-11-07T02:08:30.847Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/05/fne-aprobo-acuerdo-aza-huachipato.html",
+   "titulo": "Sector público y privado destacan que alianza AZA-Huachipato resguarda la vocación industrial de la zona",
+   "resumen": "FNE dio luz verde al trato entre ambas compañías para desarrollar acero verde en Talcahuano.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-huachipato-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-05T15:00:00.000Z",
+   "visto": "2026-11-07T02:08:30.847Z",
+   "cats": [
+    "regional",
+    "deportes"
    ],
    "local": true
   },
