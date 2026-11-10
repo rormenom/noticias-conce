@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T09:00:28.040Z",
+ "generado": "2026-11-10T09:20:21.411Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 63,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/seremi-de-vivienda-promete-habilitar-en-febrero-el-corredor-de-avenida-colon-en-hualpen",
+   "titulo": "Seremi de Vivienda promete habilitar en febrero el corredor de avenida Colón en Hualpén",
+   "resumen": "Vecinos de Hualpén reclaman por el lento avance de las obras del corredor de transporte público de avenida Colón, un tramo de unos dos kilómetros entre Los Copihues y Golondrinas, intervenido desde mayo de 2023. Autoridades y residentes se refirieron al…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-10-a-las-6.13.47%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T09:20:21.411Z",
+   "visto": "2026-11-10T09:20:21.411Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/10/camioneros-movilizados-paralizan-la-ruta-5-sur-en-los-angeles-y-generan-taco-kilometrico",
    "titulo": "Protesta de camioneros bloquea la Ruta 5 Sur en Los Ángeles y genera una extensa congestión",
@@ -1893,20 +1908,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-07T17:30:25.234Z",
    "visto": "2026-11-07T17:30:25.234Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/07/chofer-con-arresto-nocturno-nina-atropello-chiguayante-sigue-en-uci-y-podria-perder-una-pierna.shtml",
-   "titulo": "Chofer con arresto nocturno: niña atropellada en Chiguayante sigue en UCI y podría perder una pierna",
-   "resumen": "Con arresto domiciliario nocturno, arraigo nacional y prohibición de acercarse a las víctimas quedó César Cipriano Mella Mella, conductor del...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011107-nina-atropellada-en-chiguayante-sigue-en-la-uci-y-podria-perder-una-pierna-1200x633.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-07T16:41:27.000Z",
-   "visto": "2026-11-07T16:50:20.946Z",
    "cats": [
     "regional"
    ],
