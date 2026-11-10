@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T13:10:20.434Z",
+ "generado": "2026-11-10T13:50:23.140Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 19,
-    "leidas": 0,
+    "enlaces": 20,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 64,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,55 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 6,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/10/paro-camioneros-talcahuano-bloqueo-puertos.html",
+   "titulo": "\"Si no nos apoyan vamos a bloquear depósitos y puertos\": camioneros y transportistas se manifiestan en Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-33.png",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-10T13:50:23.140Z",
+   "visto": "2026-11-10T13:50:23.140Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/10/camioneros-se-movilizan-en-bio-bio-por-alza-de-combustibles-y-advierten-posibles-bloqueos-de-puertos.shtml",
+   "titulo": "Camioneros se movilizan en Bío Bío por alza de combustibles y advierten posibles bloqueos de puertos",
+   "resumen": "Cerca de 30 camiones se congregaron durante la mañana de este martes en la Autopista Concepción-Talcahuano, en el marco de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013782-restore-captura-desde-2026-11-10-10-41-20-1200x633-1.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-10T13:47:48.000Z",
+   "visto": "2026-11-10T13:50:23.140Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/coalivi-y-seremi-de-transportes-y-telecomunicaciones-realizan-prueba-practica-de-validadores-ante-el-nuevo-sistema-de-pago-electronico-del-transporte-publico/",
+   "titulo": "Usuarios de COALIVI realizan prueba práctica de validadores ante el nuevo sistema de pago electrónico del transporte público",
+   "resumen": "Con el objetivo de promover un sistema de transporte público […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/DSC_0881-768x511.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-10T13:47:30.000Z",
+   "visto": "2026-11-10T13:50:23.140Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/10/chiguayante-liceo-obispo-san-miguel-marcha-tras-accidente-de-menor-de-3-anos-exigen-medidas-de-seguridad-vial",
    "titulo": "Chiguayante: Liceo Obispo San Miguel marcha tras accidente de menor de 3 años: exigen medidas de seguridad vial",
@@ -1785,48 +1827,6 @@
    "visto": "2026-11-08T14:40:20.033Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/aumenta-a-3-mil-millones-de-pesos-la-cifra-robada-desde-banco-en-centro-de-concepcion",
-   "titulo": "El monto de lo robado desde un banco en el centro de Concepción asciende a lo menos a $3 mil millones",
-   "resumen": "La Fiscalía dio a conocer nuevos antecedentes sobre el millonario asalto perpetrado la madrugada de este domingo en una sucursal del Banco BCI, en el centro de Concepción, región del Bío Bío. Según informó, el monto robado ascendería a -como mínimo- 3.000 mil…",
-   "imagen": "https://media.canal9.cl/2026/10/ahora-c9-768x405.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-08T14:30:22.350Z",
-   "visto": "2026-11-08T14:30:22.350Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/aumenta-a-3-mil-millones-de-pesos-la-cifra-robada-desde-banco-en-centro-de-concepcion.shtml",
-   "titulo": "Aumenta a 3 mil millones de pesos la cifra robada desde banco en centro de Concepción",
-   "resumen": "La Fiscalía entregó nuevos detalles del millonario robo ocurrido la madrugada de este domingo en una sucursal del Banco...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011630-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-08T13:48:53.000Z",
-   "visto": "2026-11-08T13:50:20.396Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/hacienda-juntas-el-latido-historico-que-une-el-biobio-con-el-desierto-renace-como-icono-de-lujo-y-sostenibilidad-en-el-valle-del-limari.html",
-   "titulo": "Hacienda Juntas: El latido histórico que une el Biobío con el desierto renace como ícono de lujo y sostenibilidad en el Valle del Limarí",
-   "resumen": "Durante más de un siglo, el predio de Monte Patria funcionó como la gran despensa de engorda de animales para la minería del Norte Grande con animales traídos desde el Sur, particularmente desde Concepción. Hoy, tras sobrevivir a la Reforma Agraria y…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-hacienda-juntas-foto-cedida.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T13:40:19.976Z",
-   "visto": "2026-11-08T13:40:19.976Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
