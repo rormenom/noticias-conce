@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T19:20:20.203Z",
+ "generado": "2026-11-10T19:30:25.203Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 61,
+    "enlaces": 152,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/fundacion-en-ti-reprograman-por-sexta-vez-preparacion-de-juicio-oral-contra-camila-polizzi",
+   "titulo": "La preparación del juicio oral por caso Fundación En Ti contra Camila Polizzi se reprograma por sexta vez",
+   "resumen": "Por sexta ocasión se aplazó la preparación del juicio en la arista del caso Convenios que involucra a Camila Polizzi. La audiencia quedó fijada para marzo de 2027. Esta vez, la Defensoría Penal solicitó suspender la audiencia debido a un cambio en la defensa…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/camila-polizzi.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T19:30:25.203Z",
+   "visto": "2026-11-10T19:30:25.203Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/vial-jugara-la-ida-ante-puente-alto-este-sabado-en-collao.html",
    "titulo": "Vial jugará la ida ante Puente Alto este sábado en Collao",
@@ -1611,20 +1625,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-09T11:10:20.079Z",
    "visto": "2026-11-09T11:10:20.079Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/camioneros-de-los-angeles-inician-movilizacion-en-la-ruta-5-sur-por-alza-de-combustibles",
-   "titulo": "Transportistas de Los Ángeles protestan en la Ruta 5 Sur por el aumento del precio de los combustibles",
-   "resumen": "Este lunes, camioneros de Los Ángeles, en la región del Bío Bío, comenzaron una movilización en la Ruta 5 Sur debido al incremento del precio de los combustibles. Los manifestantes se instalaron al norte de la capital provincial, cerca de Salto del Laja, para…",
-   "imagen": "https://media.canal9.cl/2026/11/camioneros-movilizacion-los-angeles-768x405.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T11:00:29.182Z",
-   "visto": "2026-11-09T11:00:29.182Z",
    "cats": [
     "regional"
    ],
