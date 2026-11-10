@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T13:00:27.586Z",
+ "generado": "2026-11-10T13:10:20.434Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 153,
     "leidas": 64,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 5,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/chiguayante-liceo-obispo-san-miguel-marcha-tras-accidente-de-menor-de-3-anos-exigen-medidas-de-seguridad-vial",
+   "titulo": "Chiguayante: Liceo Obispo San Miguel marcha tras accidente de menor de 3 años: exigen medidas de seguridad vial",
+   "resumen": "Estudiantes, docentes y vecinos del Liceo Obispo San Miguel de Chiguayante se movilizaron en una marcha pacífica por la avenida Ocho Oriente. La protesta busca exigir a las autoridades municipales y de vialidad respuestas concretas ante los reiterados…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-10-at-09.16.24-e1794315457301.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T13:10:20.434Z",
+   "visto": "2026-11-10T13:10:20.434Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/10/al-jazeera-destaca-titulo-de-colo-colo-y-atajada-heroica-de-vozinha-ante-nublense-sobre-la-hora.shtml",
+   "titulo": "Al Jazeera destaca título de Colo Colo y \"atajada heroica\" de Vozinha ante Ñublense sobre la hora",
+   "resumen": "Colo Colo llegó hasta la portada deportiva del principal medio árabe del Mundo, Al Jazeera, de la mano de Vozinha.\nY...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013689-al-jazeera-vozinha-colo-colo-titulo-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-10T13:06:15.000Z",
+   "visto": "2026-11-10T13:10:20.434Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/no-podemos-seguir-trabajando-camioneros-y-transportistas-se-manifiestan-en-talcahuano.html",
    "titulo": "“No podemos seguir trabajando”: camioneros y transportistas se manifiestan en Talcahuano",
@@ -1797,20 +1825,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-08T13:40:19.976Z",
    "visto": "2026-11-08T13:40:19.976Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/08/delincuentes-logran-millonario-robo-en-el-centro-de-concepcion-ingresaron-a-la-boveda-por-forado-del-banco.html",
-   "titulo": "Delincuentes logran millonario robo en el centro de Concepción: ingresaron a la bóveda por forado del banco",
-   "resumen": "El siniestro afectó a una sucursal del Banco BCI en O’Higgins con Lincoyán. Según informó BioBío Chile, fueron cerca de $2.000 millones de pesos los robados.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pdi-descarta-terceros-joven-fallecida-concepcion-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T13:20:20.551Z",
-   "visto": "2026-11-08T13:20:20.551Z",
    "cats": [
     "regional"
    ],
