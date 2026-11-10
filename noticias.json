@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T15:30:24.460Z",
+ "generado": "2026-11-10T15:40:21.200Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 152,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 6,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
@@ -97,7 +97,7 @@
   },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/10/convocatoria-de-expo-de-mar-a-cordillera-entra-en-recta-final-para-reunir-a-creadores-de-todo-el-biobio-en-su-cuarta-version/",
-   "titulo": "Convocatoria de Expo De Mar a Cordillera entra en recta final para reunir a creadores de todo el Biobío en su cuarta versión",
+   "titulo": "Convocatoria de Expo De Mar a Cordillera entra en recta final",
    "resumen": "Para reunir a creadores de todo el Biobío en su cuarta versión.",
    "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Expo27-2-768x613.jpg",
    "fuente": "El Conquistador",
