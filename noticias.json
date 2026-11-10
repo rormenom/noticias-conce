@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T18:50:21.288Z",
+ "generado": "2026-11-10T19:00:29.139Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/vial-jugara-la-ida-ante-puente-alto-este-sabado-en-collao.html",
+   "titulo": "Vial jugará la ida ante Puente Alto este sábado en Collao",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/10/fernandez-vial-vs-gasparin-Jaime-Salazar-Dur%C3%A1n.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T19:00:29.139Z",
+   "visto": "2026-11-10T19:00:29.139Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/10/todo-lo-que-debes-saber-sobre-el-pago-electronico-de-las-micros-en-el-gran-concepcion",
    "titulo": "Guía para entender el pago electrónico en las micros del Gran Concepción",
@@ -659,10 +673,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/sernapesca-advierte-riesgo-de-enfermedades-tras-aparicion-de-pinguino-en-la-costa-de-ramuntcho.html",
-   "titulo": "Sernapesca advierte riesgo de enfermedades tras aparición de pingüino en la costa de Ramuntcho",
-   "resumen": "Aunque el riesgo de contagio de influenza aviar en personas es bajo, las autoridades advierten que el contacto directo con aves silvestres puede generar exposición.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-pinguinos-de-Humbolt-en-pen%C3%ADnsula-de-Hualp%C3%A9n-foto-cedida-e1794271383247.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
+   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
+   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -673,10 +687,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
-   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
-   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/sernapesca-advierte-riesgo-de-enfermedades-tras-aparicion-de-pinguino-en-la-costa-de-ramuntcho.html",
+   "titulo": "Sernapesca advierte riesgo de enfermedades tras aparición de pingüino en la costa de Ramuntcho",
+   "resumen": "Aunque el riesgo de contagio de influenza aviar en personas es bajo, las autoridades advierten que el contacto directo con aves silvestres puede generar exposición.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-pinguinos-de-Humbolt-en-pen%C3%ADnsula-de-Hualp%C3%A9n-foto-cedida-e1794271383247.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -715,10 +729,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/futuro-de-renato-ramos-hoy-no-puedo-anticipar-si-vamos-a-continuar.html",
-   "titulo": "Futuro de Renato Ramos: “Hoy no puedo anticipar si vamos a continuar”",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/basquetbol-femenino-udec-hizo-doblete-y-se-instala-en-segundo-puesto-de-la-liga.html",
+   "titulo": "Básquetbol femenino UdeC hizo doblete y se instala en segundo puesto de la Liga",
    "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/renato-ramos-e1794273414205.jpeg",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/udec-boston-college-e1794273470461.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -729,10 +743,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/basquetbol-femenino-udec-hizo-doblete-y-se-instala-en-segundo-puesto-de-la-liga.html",
-   "titulo": "Básquetbol femenino UdeC hizo doblete y se instala en segundo puesto de la Liga",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/futuro-de-renato-ramos-hoy-no-puedo-anticipar-si-vamos-a-continuar.html",
+   "titulo": "Futuro de Renato Ramos: “Hoy no puedo anticipar si vamos a continuar”",
    "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/udec-boston-college-e1794273470461.jpeg",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/renato-ramos-e1794273414205.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
