@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T19:50:21.086Z",
+ "generado": "2026-11-10T20:00:26.407Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 70,
+    "enlaces": 152,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -70,12 +70,11 @@
    "id": "canal9",
    "nombre": "Canal 9",
    "url": "https://www.canal9.cl/",
-   "ok": false,
-   "error": "no se pudo leer ninguna página",
+   "ok": true,
    "diag": {
-    "paginas": 0,
-    "enlaces": 0,
-    "leidas": 0,
+    "paginas": 3,
+    "enlaces": 33,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
