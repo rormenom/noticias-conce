@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T16:50:22.249Z",
+ "generado": "2026-11-10T17:00:26.665Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 62,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/camioneros-bloqueo-parcial-ruta-146-juan-riquelme.html",
+   "titulo": "Camioneros mantienen una sola pista habilitada en la Ruta 146 a la altura de Juan Riquelme",
+   "resumen": "Un convoy de camiones bloqueó parcialmente la Ruta 146 hacia Concepción, dejando una sola pista habilitada por alza de combustibles.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-bloqueo-parcial-ruta-146-juan-riquelme.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T17:00:26.665Z",
+   "visto": "2026-11-10T17:00:26.665Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/feria-laboral-inacap-cpc-2026-busca-impulsar-20-mil-nuevas-contrataciones",
+   "titulo": "Feria Laboral INACAP–CPC 2026 busca impulsar 20 mil nuevas contrataciones",
+   "resumen": "Con cerca de 400 empresas participantes, INACAP lleva a cabo la 18.ª versión de la Feria Laboral INACAP–CPC 2026, iniciativa que este año tiene como principal hito la Cruzada X el Empleo, cuyo objetivo es impulsar 20 mil nuevas contrataciones en Chile. La…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Feria-Laboral-INACAP%E2%80%93CPC-2026.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T17:00:26.665Z",
+   "visto": "2026-11-10T17:00:26.665Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/10/museo-del-prado-en-las-calles-concepcion-recta-final.html",
    "titulo": "Con arte participativo y presentaciones en vivo: el Museo del Prado concluye este domingo en Concepción",
@@ -435,10 +463,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/sernapesca-advierte-riesgo-de-enfermedades-tras-aparicion-de-pinguino-en-la-costa-de-ramuntcho.html",
-   "titulo": "Sernapesca advierte riesgo de enfermedades tras aparición de pingüino en la costa de Ramuntcho",
-   "resumen": "Aunque el riesgo de contagio de influenza aviar en personas es bajo, las autoridades advierten que el contacto directo con aves silvestres puede generar exposición.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-pinguinos-de-Humbolt-en-pen%C3%ADnsula-de-Hualp%C3%A9n-foto-cedida-e1794271383247.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
+   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
+   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -449,10 +477,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
-   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
-   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/sernapesca-advierte-riesgo-de-enfermedades-tras-aparicion-de-pinguino-en-la-costa-de-ramuntcho.html",
+   "titulo": "Sernapesca advierte riesgo de enfermedades tras aparición de pingüino en la costa de Ramuntcho",
+   "resumen": "Aunque el riesgo de contagio de influenza aviar en personas es bajo, las autoridades advierten que el contacto directo con aves silvestres puede generar exposición.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-pinguinos-de-Humbolt-en-pen%C3%ADnsula-de-Hualp%C3%A9n-foto-cedida-e1794271383247.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -785,20 +813,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/anuncian-corte-de-transito-en-salida-del-bypass-penco-lirquen-para-el-sabado-revisa-los-desvios",
-   "titulo": "Este sábado habrá corte de tránsito en la salida del bypass Penco-Lirquén: conoce los desvíos",
-   "resumen": "La Sociedad Concesionaria Bosques del Itata comunicó que el próximo sábado 14 de noviembre se interrumpirá temporalmente la circulación en una de las salidas del bypass Penco-Lirquén. Según lo informado, el cierre afectará el kilómetro 74,4 de la Ruta 152,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/corte-de-transito-bypass-penco-lirquen.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T20:50:21.069Z",
-   "visto": "2026-11-09T20:50:21.069Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/09/pasillo-para-el-campeon-revelan-que-catolica-ya-tomo-decision-para-el-clasico-con-colo-colo-en-macul",
    "titulo": "¿Pasillo para el campeón? Revelan que Católica ya tomó decisión para el clásico con Colo Colo en Macul",
    "resumen": "La coronación de Colo Colo en la Liga de Primera 2026 puso el foco en el clásico del 22 de noviembre ante Universidad Católica. Después de conquistar su estrella 35 al vencer por 2-1 a Ñublense, el ‘Cacique’ se prepara para festejar con sus hinchas y aguarda…",
@@ -809,6 +823,20 @@
    "visto": "2026-11-09T20:50:21.069Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/anuncian-corte-de-transito-en-salida-del-bypass-penco-lirquen-para-el-sabado-revisa-los-desvios",
+   "titulo": "Este sábado habrá corte de tránsito en la salida del bypass Penco-Lirquén: conoce los desvíos",
+   "resumen": "La Sociedad Concesionaria Bosques del Itata comunicó que el próximo sábado 14 de noviembre se interrumpirá temporalmente la circulación en una de las salidas del bypass Penco-Lirquén. Según lo informado, el cierre afectará el kilómetro 74,4 de la Ruta 152,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/corte-de-transito-bypass-penco-lirquen.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T20:50:21.069Z",
+   "visto": "2026-11-09T20:50:21.069Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1719,34 +1747,6 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/banco-bci-concepcion-mas-de-3-mil-millones-robados-desde-las-bovedas-a-3-cuadras-de-carabineros.html",
-   "titulo": "Banco BCI Concepción: Más de $3 mil millones robados desde las bóvedas a 3 cuadras de Carabineros",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/Fotos-para-web-9-850x500.png",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-08T22:20:20.870Z",
-   "visto": "2026-11-08T22:20:20.870Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/choque-entre-camioneta-y-motocicleta-en-alto-bio-bio-deja-un-fallecido",
-   "titulo": "Un accidente entre una camioneta y una moto en Alto Bío Bío termina con una víctima fatal",
-   "resumen": "Una camioneta y una moto colisionaron en la Ruta Q-61-R, en Alto Bío Bío. El motociclista murió debido a la gravedad de sus lesiones. El mayor de Carabineros y comisario de la Cuarta Comisaría de Santa Bárbara, Manuel Escalona, ratificó el fatal accidente.…",
-   "imagen": "https://media.canal9.cl/2026/11/choque-entre-camioneta-y-motocicleta-en-alto-bio-bio-deja-un-fallecido-768x405.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-08T22:10:20.491Z",
-   "visto": "2026-11-08T22:10:20.491Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/08/tapadon-clave-titulo-albo-y-dedicatoria-a-cabo-verde-la-tarde-inolvidable-de-vozinha-en-chillan",
    "titulo": "Vozinha fue decisivo en Chillán: brilló con una atajada clave y dedicó el título albo a Cabo Verde",
    "resumen": "Vozinha, el experimentado arquero caboverdiano, respondió en el momento más apremiante para Colo Colo y, con una atajada decisiva en el último minuto, impidió que los albos perdieran un título que ya empezaban a festejar en Chillán. El guardameta, quien…",
@@ -2016,10 +2016,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
-   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
+   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
+   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
@@ -2030,10 +2030,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
-   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
-   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
+   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
