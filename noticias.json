@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-10T13:50:23.140Z",
+ "generado": "2026-11-10T14:20:21.057Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -48,7 +49,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 20,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +61,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 152,
     "leidas": 64,
     "errores": 0,
     "robots": 0
@@ -74,13 +75,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 5,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/transportistas-escolares-del-gran-concepcion-se-suman-a-manifestaciones-realizan-caravana-ante-sostenidas-alzas-en-los-combustibles",
+   "titulo": "Transportistas escolares del Gran Concepción se suman a manifestaciones: realizan caravana ante sostenidas alzas en los combustibles",
+   "resumen": "Un grupo de conductores y transportistas escolares de la región del Biobío llevó a cabo una caravana vehicular de protesta por las principales calles del Gran Concepción. La movilización responde al descontento generalizado del gremio ante las continuas alzas…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-10-at-10.52.55-2-e1794319598522.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T14:20:21.057Z",
+   "visto": "2026-11-10T14:20:21.057Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/bloqueo-de-rutas-autoridades-regionales-y-nacionales-llaman-a-camioneros-a-dialogar/",
+   "titulo": "Bloqueo de rutas: Autoridades regionales y nacionales llaman a camioneros a dialogar",
+   "resumen": "Desde este lunes distintos gremios de transportistas y camioneros comenzaron […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/camioners-768x432.png",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-10T14:11:42.000Z",
+   "visto": "2026-11-10T14:20:21.057Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/10/paro-camioneros-talcahuano-bloqueo-puertos.html",
    "titulo": "\"Si no nos apoyan vamos a bloquear depósitos y puertos\": camioneros y transportistas se manifiestan en Talcahuano",
@@ -281,6 +310,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/camioneros-biobio-paro-combustibles.html",
+   "titulo": "Paro de camioneros amenaza el inicio de la temporada agrícola del Biobío",
+   "resumen": "Gremio productor advierte impacto directo en las cosechas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-paro-de-camioneros-en-ruta-5-sur-foto-cedida.jpg-e1794273079507.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/sernapesca-advierte-riesgo-de-enfermedades-tras-aparicion-de-pinguino-en-la-costa-de-ramuntcho.html",
    "titulo": "Sernapesca advierte riesgo de enfermedades tras aparición de pingüino en la costa de Ramuntcho",
    "resumen": "Aunque el riesgo de contagio de influenza aviar en personas es bajo, las autoridades advierten que el contacto directo con aves silvestres puede generar exposición.",
@@ -327,20 +370,6 @@
    "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
    "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/camioneros-biobio-paro-combustibles.html",
-   "titulo": "Paro de camioneros amenaza el inicio de la temporada agrícola del Biobío",
-   "resumen": "Gremio productor advierte impacto directo en las cosechas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-paro-de-camioneros-en-ruta-5-sur-foto-cedida.jpg-e1794273079507.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -757,20 +786,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/revelan-que-delincuentes-cortaron-camara-2-dias-antes-de-robo-de-3mil-millones-a-banco-en-concepcion",
-   "titulo": "Delincuentes desactivaron una cámara dos días antes del robo de $3 mil millones a un banco de Concepción",
-   "resumen": "La Municipalidad de Concepción dio a conocer imágenes registradas en los días anteriores al robo de más de $3 mil millones desde una sucursal del Banco BCI, situada en el centro de la ciudad. En ellas, se observa a personas cortando los cables de una cámara…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/revelan-que-sujetos-cortaron-camara-dos-dias-antes-de-robo-de-3-mil-millones-a-banco-en-concepcion.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T19:30:24.760Z",
-   "visto": "2026-11-09T19:30:24.760Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/09/charles-aranguiz-evidencio-el-golpe-en-la-u-por-titulo-35-de-colo-colo-para-que-vamos-hablar",
    "titulo": "Aránguiz reflejó el impacto en la U por el título 35 de Colo Colo: «¿Para qué vamos a hablar?»",
    "resumen": "La U cumplió en Rancagua al vencer 2-1 a Cobresal en la jornada 27 de la Liga de Primera 2026. Aun así, el triunfo no bastó para conservar sus opciones de ser campeón: Colo Colo ganó por el mismo marcador a Ñublense en Chillán y conquistó su estrella número…",
@@ -781,6 +796,20 @@
    "visto": "2026-11-09T19:30:24.760Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/09/revelan-que-delincuentes-cortaron-camara-2-dias-antes-de-robo-de-3mil-millones-a-banco-en-concepcion",
+   "titulo": "Delincuentes desactivaron una cámara dos días antes del robo de $3 mil millones a un banco de Concepción",
+   "resumen": "La Municipalidad de Concepción dio a conocer imágenes registradas en los días anteriores al robo de más de $3 mil millones desde una sucursal del Banco BCI, situada en el centro de la ciudad. En ellas, se observa a personas cortando los cables de una cámara…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/revelan-que-sujetos-cortaron-camara-dos-dias-antes-de-robo-de-3-mil-millones-a-banco-en-concepcion.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-09T19:30:24.760Z",
+   "visto": "2026-11-09T19:30:24.760Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1785,34 +1814,6 @@
    "visto": "2026-11-09T17:00:29.473Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/moises-abre-camino-en-el-mar-la-udec-sigue-con-vida.html",
-   "titulo": "Moisés abre camino en el mar: la UdeC sigue con vida",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/funes-mori-850x500.jpeg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-08T15:00:00.000Z",
-   "visto": "2026-11-09T01:40:19.899Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/vecinos-de-michimalonco-denuncian-un-rio-en-la-avenida-por-ruptura-de-matriz-hace-dias",
-   "titulo": "Vecinos de Michimalonco denuncian \"un río\" en la avenida por ruptura de matriz hace días",
-   "resumen": "Vecinos del sector Michimalonco denunciaron a Radio Bío Bío el anegamiento de la avenida del mismo nombre, provocado por la ruptura de una matriz de agua potable. Los efectos para los vecinos El presidente de la Junta de Vecinos Laguna Llacolén, Carlos Díaz…",
-   "imagen": "https://media.canal9.cl/2026/11/Captura-de-pantalla-2026-11-09-a-las-8.01.08%E2%80%AFa.-m-768x402.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-08T15:00:00.000Z",
-   "visto": "2026-11-09T11:10:20.079Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
