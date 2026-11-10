@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-10T14:30:25.633Z",
+ "generado": "2026-11-10T14:40:19.565Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -81,6 +82,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/minvu-proyecta-para-febrero-la-habilitacion-del-eje-colon-en-hualpen/",
+   "titulo": "Minvu proyecta para febrero la habilitación del Eje Colón en Hualpén",
+   "resumen": "Durante febrero de 2027, el Ministerio de Vivienda y Urbanismo […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-09-at-12.32.28-768x576.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-10T14:31:03.000Z",
+   "visto": "2026-11-10T14:40:19.565Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/10/transportistas-escolares-del-gran-concepcion-se-suman-a-manifestaciones-realizan-caravana-ante-sostenidas-alzas-en-los-combustibles",
    "titulo": "Transportistas escolares del Gran Concepción se suman a manifestaciones: realizan caravana ante sostenidas alzas en los combustibles",
@@ -1775,20 +1790,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/cabras-para-prevenir-incendios-forestales-comunidad-de-florida-recibe-rebano-de-10-animales",
-   "titulo": "Cabras para prevenir incendios forestales: comunidad de Florida recibe rebaño de 10 animales",
-   "resumen": "Una alternativa poco convencional para prevenir incendios forestales llegó a Florida: el uso de cabras para controlar la vegetación y reducir el material combustible. La iniciativa forma parte del proyecto GEF Restauración de Paisajes, ejecutado por el…",
-   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-06-at-13.24.49-768x576.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-08T15:30:24.066Z",
-   "visto": "2026-11-08T15:30:24.066Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/moises-abre-camino-en-el-mar-la-udec-sigue-con-vida.html",
    "titulo": "Moisés abre camino en el mar: la UdeC sigue con vida",
    "resumen": "González marcó milagroso gol que significó el 3-2 sobre O'Higgins. El Campanil está a un punto de puestos de salvación, con 3 fechas por delante.",
@@ -2003,10 +2004,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
-   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
+   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
+   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
@@ -2017,10 +2018,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/alianza-francesa-alista-detalles-nueva-version-fiesta-de-la-musica.html",
-   "titulo": "Alianza Francesa alista detalles de una nueva versión de la “Fiesta de la Música”",
-   "resumen": "Luego de siete años de pausa, esta corporación cultural retomará esta celebración musical ciudadana, para la cual durante octubre realizó una convocatoria abierta a artistas y bandas locales para configurar su programación, la que próximamente se dará a…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-archivo-Fiesta-de-la-M%C3%BAsica-2017-e1794015769404.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/07/estrenan-cinta-documental-sobre-el-bioquimico-eugenio-berrios.html",
+   "titulo": "Estrenan cinta documental sobre el bioquímico Eugenio Berríos",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-documental-e1794016132280.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
