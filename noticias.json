@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T10:30:25.513Z",
+ "generado": "2026-11-10T11:00:28.865Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 65,
+    "enlaces": 154,
+    "leidas": 66,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 5,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/10/solo-una-asociacion-criminal-detras-del-robo-de-banco-en-concepcion-aumentaria-eventuales-penas.shtml",
+   "titulo": "Sólo una asociación criminal detrás del robo de banco en Concepción aumentaría eventuales penas",
+   "resumen": "Una pena de entre 541 días y cinco años de cárcel es lo que enfrentan los responsables del robo...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013513-robo-banco-concepcion.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-10T10:51:49.000Z",
+   "visto": "2026-11-10T11:00:28.865Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/10/penalista-asegura-que-hablar-de-asociacion-criminal-por-robo-en-banco-de-concepcion-es-especular",
    "titulo": "Penalista asegura que hablar de asociación criminal por robo en banco de Concepción es especular",
@@ -1897,20 +1911,6 @@
    "visto": "2026-11-07T22:40:18.865Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/07/joven-de-18-anos-es-asesinado-en-nacimiento-y-presunto-autor-se-entrega-a-carabineros",
-   "titulo": "Joven de 18 años muere asesinado en Nacimiento; presunto responsable se entrega a Carabineros",
-   "resumen": "Un joven de 18 años murió tras recibir disparos en la comuna de Nacimiento. El homicidio se produjo durante la madrugada de este sábado en villa Los Presidentes. El Ministerio Público confirmó que el fiscal Rodrigo García y el Equipo Contra el Crimen…",
-   "imagen": "https://media.canal9.cl/2026/11/joven-de-18-anos-es-asesinado-a-disparos-en-nacimiento-presunto-culpable-se-entrego-a-carabineros-768x405.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-07T20:10:21.912Z",
-   "visto": "2026-11-07T20:10:21.912Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
