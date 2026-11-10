@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T22:30:22.669Z",
+ "generado": "2026-11-10T22:40:20.981Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
-    "leidas": 58,
+    "enlaces": 147,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/10/tom-richtler-profesor-emerito-universidad-concepcion.html",
+   "titulo": "Dr. Tom Richtler es investido como Profesor Emérito de la Universidad de Concepción por su compromiso académico y trayectoria científica",
+   "resumen": "La distinción es un homenaje a quienes destacan por su impacto en la formación de pre y postgrado, la relevancia de su investigación y una calidad académica que engrandece el prestigio y desarrollo de la casa de estudios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Profesor-Emerito-Tom-Richtler-18-1-e1794349303253.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T22:40:20.981Z",
+   "visto": "2026-11-10T22:40:20.981Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/10/tedxbarriouniversitario-women-2026-primera-edicion-biobio.html",
    "titulo": "TEDxBarrioUniversitario Women 2026 prepara su primera edición en el Biobío con ideas y experiencias que transforman",
@@ -280,8 +294,8 @@
   },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/10/plan-chile-despega-mop-inicio-el-100-de-las-licitaciones-que-permitiran-crear-mas-de-2-300-empleos/",
-   "titulo": "Plan Chile Despega: MOP inició el 100% de las licitaciones que permitirán crear más de 2.300 empleos",
-   "resumen": "A casi un mes de anunciado el plan de gobierno, el Ministerio de Obras Públicas ya publicó los llamados a licitación de un total de 28 contratos de obras en el Biobío por un monto cercano a los $37 mil millones.",
+   "titulo": "MOP Biobío inició el 100% de las licitaciones que permitirán crear más de 2.300 empleos",
+   "resumen": "Plan Chile Despega: A casi un mes de anunciado el plan de gobierno, el Ministerio de Obras Públicas ya publicó los llamados a licitación de un total de 28 contratos de obras en el Biobío por un monto cercano a los $37 mil millones.",
    "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/liceo-canete-2-768x576.jpeg",
    "fuente": "El Conquistador",
    "fuenteId": "conquistador",
@@ -2227,10 +2241,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/investigador-local-fue-elegido-presidente-de-la-asociacion-chilena-de-paleontologia.html",
-   "titulo": "Investigador local fue elegido presidente de la Asociación Chilena de Paleontología",
-   "resumen": "El doctor Jaime Villafaña, académico de la Facultad de Ciencias de la Ucsc, recibió el nombramiento en el marco del Congreso Chileno de Paleontología 2026.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-Jaime-Villafa%C3%B1a-nuevo-presidente-Ascociacion-Chilena-de-Paleontologia-foto-cedida-Facultad-de-Ciencias-Ucsc-e1794016089867.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
+   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
+   "resumen": "Especialistas advierten que sacar la lactancia materna exclusiva de las metas APS 2027 podría restarle prioridad, recursos y seguimiento.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-lactancia-materna-foto-cc-e1794015704556.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
@@ -2241,10 +2255,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
-   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
-   "resumen": "Especialistas advierten que sacar la lactancia materna exclusiva de las metas APS 2027 podría restarle prioridad, recursos y seguimiento.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-lactancia-materna-foto-cc-e1794015704556.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/investigador-local-fue-elegido-presidente-de-la-asociacion-chilena-de-paleontologia.html",
+   "titulo": "Investigador local fue elegido presidente de la Asociación Chilena de Paleontología",
+   "resumen": "El doctor Jaime Villafaña, académico de la Facultad de Ciencias de la Ucsc, recibió el nombramiento en el marco del Congreso Chileno de Paleontología 2026.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-Jaime-Villafa%C3%B1a-nuevo-presidente-Ascociacion-Chilena-de-Paleontologia-foto-cedida-Facultad-de-Ciencias-Ucsc-e1794016089867.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
