@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T10:20:22.915Z",
+ "generado": "2026-11-10T10:30:25.513Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 64,
+    "enlaces": 153,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 6,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/penalista-asegura-que-hablar-de-asociacion-criminal-por-robo-en-banco-de-concepcion-es-especular",
+   "titulo": "Penalista asegura que hablar de asociación criminal por robo en banco de Concepción es especular",
+   "resumen": "El millonario robo reportado este domingo en el Banco BCI de Concepción abrió el debate entre abogados sobre las penas que arriesgarían los responsables. Penalistas consultados coinciden en que, con los antecedentes conocidos hasta ahora, se trataría de un…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-09-at-08.50.39.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T10:30:25.513Z",
+   "visto": "2026-11-10T10:30:25.513Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/10/tribunal-constitucional-fija-10-dias-para-decidir-sobre-requerimiento-del-alcalde-boris-chamorro",
+   "titulo": "Tribunal Constitucional fija 10 días para decidir sobre requerimiento del alcalde Boris Chamorro",
+   "resumen": "El Tribunal Constitucional fijó un plazo de 10 días para pronunciarse sobre la admisibilidad del requerimiento presentado por el abogado Fernando Saenger en representación del alcalde Boris Chamorro, quien busca mantenerse en el cargo. La gestión coincide con…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/boris-chamorro-alcalde-formalizacion.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-10T10:30:25.513Z",
+   "visto": "2026-11-10T10:30:25.513Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/10/seremi-de-vivienda-promete-habilitar-en-febrero-el-corredor-de-avenida-colon-en-hualpen",
    "titulo": "Seremi de Vivienda promete habilitar en febrero el corredor de avenida Colón en Hualpén",
@@ -1880,34 +1909,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-07T20:10:21.912Z",
    "visto": "2026-11-07T20:10:21.912Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/07/joven-de-18-anos-es-asesinado-en-nacimiento-y-presunto-autor-se-entrega-a-carabineros.shtml",
-   "titulo": "Joven de 18 años es asesinado en Nacimiento y presunto autor se entrega a Carabineros",
-   "resumen": "Un hombre de 18 años fue asesinado a disparos en la comuna de Nacimiento, región del Bío...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011185-joven-de-18-anos-es-asesinado-a-disparos-en-nacimiento-presunto-culpable-se-entrego-a-carabineros.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-07T18:51:37.000Z",
-   "visto": "2026-11-07T19:00:29.214Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/07/chofer-con-arresto-nocturno-nina-atropello-chiguayante-sigue-en-uci-y-podria-perder-una-pierna",
-   "titulo": "Conductor quedó con arresto nocturno tras atropello de niña en Chiguayante, que sigue en UCI y podría perder una pierna",
-   "resumen": "César Cipriano Mella Mella, el conductor del camión que atropelló a una niña de tres años en Chiguayante, quedó sujeto a arresto domiciliario nocturno, arraigo nacional y prohibición de acercarse a las víctimas. La menor está sedada y conectada a ventilación…",
-   "imagen": "https://media.canal9.cl/2026/11/nina-atropellada-en-chiguayante-sigue-en-la-uci-y-podria-perder-una-pierna-768x404.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-07T17:30:25.234Z",
-   "visto": "2026-11-07T17:30:25.234Z",
    "cats": [
     "regional"
    ],
