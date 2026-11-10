@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-10T12:40:20.471Z",
+ "generado": "2026-11-10T12:50:19.697Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -81,6 +82,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/convocatoria-de-expo-de-mar-a-cordillera-entra-en-recta-final-para-reunir-a-creadores-de-todo-el-biobio-en-su-cuarta-version/",
+   "titulo": "Convocatoria de Expo De Mar a Cordillera entra en recta final para reunir a creadores de todo el Biobío en su cuarta versión",
+   "resumen": "Con el propósito de visibilizar la riqueza creativa de las […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Expo23-768x615.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-10T12:47:16.000Z",
+   "visto": "2026-11-10T12:50:19.697Z",
+   "cats": [
+    "cultura",
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/10/camioneros-del-biobio-inician-movilizacion-en-diferentes-puntos-del-gran-concepcion-por-constante-alza-de-combustibles",
    "titulo": "Camioneros del Bío Bío se movilizan en diferentes puntos del Gran Concepción por constante alza de combustibles",
@@ -1796,20 +1812,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-08T12:50:18.242Z",
    "visto": "2026-11-08T12:50:18.242Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/delincuentes-ingresan-por-forado-a-banco-y-protagonizan-millonario-robo-en-centro-de-concepcion",
-   "titulo": "Delincuentes entran por forado y roban al menos $2 mil millones desde banco en centro de Concepción",
-   "resumen": "Un robo de al menos dos mil millones de pesos ocurrió durante la madrugada de este domingo en las bóvedas de una sucursal bancaria del centro de Concepción. De acuerdo con información recopilada por Bío Bío, los delincuentes habrían entrado por un forado a…",
-   "imagen": "https://media.canal9.cl/2026/10/ahora-c9-768x405.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-08T12:40:20.015Z",
-   "visto": "2026-11-08T12:40:20.015Z",
    "cats": [
     "regional"
    ],
