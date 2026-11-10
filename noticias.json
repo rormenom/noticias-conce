@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T19:30:25.203Z",
+ "generado": "2026-11-10T19:40:21.002Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
+    "enlaces": 150,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/10/amiga-date-cuenta-chiguayante-teatro-gratis.html",
+   "titulo": "“Amiga, date cuenta” llega gratis y al aire libre en Chiguayante",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/amiga-date-cuenta.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T19:40:21.002Z",
+   "visto": "2026-11-10T19:40:21.002Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/10/fundacion-en-ti-reprograman-por-sexta-vez-preparacion-de-juicio-oral-contra-camila-polizzi",
    "titulo": "La preparación del juicio oral por caso Fundación En Ti contra Camila Polizzi se reprograma por sexta vez",
@@ -2271,20 +2285,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/fallece-sebastian-lelio-director-oscar-visita-biobio-nuble.html",
-   "titulo": "Luto en el cine chileno: sorpresivamente fallece Sebastián Lelio, director ganador del Oscar que deja huella en Biobío y Ñuble",
-   "resumen": "El cineasta nacional y ganador de un premio de la Academia falleció en su vivienda a los 52 años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fallece-sebastian-lelio-director-oscar-visita-concepcion.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/06/biobio-mar-evacuacion-proteccion-alerta.html",
    "titulo": "Biobío frente al mar: la evacuación y protección no pueden comenzar con una alerta",
    "resumen": "Ante un terremoto esperar una sirena o mensaje puede tener consecuencias fatales. Por eso la educación y preparación son la clave vital.",
@@ -2309,6 +2309,20 @@
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/fallece-sebastian-lelio-director-oscar-visita-biobio-nuble.html",
+   "titulo": "Luto en el cine chileno: sorpresivamente fallece Sebastián Lelio, director ganador del Oscar que deja huella en Biobío y Ñuble",
+   "resumen": "El cineasta nacional y ganador de un premio de la Academia falleció en su vivienda a los 52 años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fallece-sebastian-lelio-director-oscar-visita-concepcion.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
