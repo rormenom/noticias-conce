@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T17:50:25.286Z",
+ "generado": "2026-11-10T18:00:28.643Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
+    "enlaces": 150,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/deudas-tributarias-pymes-biobio.html",
+   "titulo": "Ley de Reconstrucción: promueven facilidades de pago para deudas fiscales y territoriales de personas y Pymes del Biobío",
+   "resumen": "A un mes de la entrada en vigencia de la Ley de Reconstrucción, cerca de mil contribuyentes de la región ya suscribieron convenios de pago con TGR, comprometiendo más de $600 millones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-10-at-1.41.49-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T18:00:28.643Z",
+   "visto": "2026-11-10T18:00:28.643Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/10/tc-resolvera-esta-semana-admisibilidad-de-recurso-presentado-por-boris-chamorro-en-caso-puerto-coronel.shtml",
+   "titulo": "TC resolverá esta semana admisibilidad de recurso presentado por Boris Chamorro en caso Puerto Coronel",
+   "resumen": "Esta semana el Tribunal Constitucional (TC) decretará si es o no admisible el requerimiento presentado por el alcalde Boris...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7014213-boris-chamorro-1.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-10T18:00:25.000Z",
+   "visto": "2026-11-10T18:00:28.643Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/congreso-despacha-ley-postergacion-slep-2030.html",
    "titulo": "Congreso despacha a ley postergación de los SLEP y faculta a municipios a frenar traspasos escolares",
@@ -1606,20 +1634,6 @@
    "local": true
   },
   {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/inauguran-nuevo-sistema-de-agua-potable-rural-en-santa-juana/",
-   "titulo": "Inauguran nuevo sistema de agua potable rural en Santa Juana",
-   "resumen": "Más de 1.000 vecinos serán beneficiados.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Huallerehue-768x576.webp",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-09T07:00:36.000Z",
-   "visto": "2026-11-09T10:50:20.284Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/colo-colo-se-corona-como-el-nuevo-campeon-del-futbol-chileno/",
    "titulo": "Colo Colo se corona como el nuevo campeón del fútbol chileno",
    "resumen": "El Cacique gritó campeón en una dramática definición en Chillán.",
@@ -1742,20 +1756,6 @@
    "visto": "2026-11-08T22:40:19.618Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/terminal-rural-en-concepcion-una-exigencia-pendiente-ante-problemas-de-seguridad-y-espacio.html",
-   "titulo": "Terminal rural en Concepción: una exigencia pendiente ante problemas de seguridad y espacio",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-buses-rurales-en-calle-colo-colo-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-08T22:20:20.870Z",
-   "visto": "2026-11-08T22:20:20.870Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2201,21 +2201,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
-   "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
-   "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PRESENTACI%C3%93N-ENVIS-2027-43-e1793979438276.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/fallece-sebastian-lelio-director-oscar-visita-biobio-nuble.html",
    "titulo": "Luto en el cine chileno: sorpresivamente fallece Sebastián Lelio, director ganador del Oscar que deja huella en Biobío y Ñuble",
    "resumen": "El cineasta nacional y ganador de un premio de la Academia falleció en su vivienda a los 52 años.",
@@ -2253,6 +2238,21 @@
    "fecha": "2026-11-06T15:00:00.000Z",
    "visto": "2026-11-07T01:09:47.326Z",
    "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
+   "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
+   "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PRESENTACI%C3%93N-ENVIS-2027-43-e1793979438276.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-06T15:00:00.000Z",
+   "visto": "2026-11-07T01:09:47.326Z",
+   "cats": [
+    "regional",
     "tecnologia"
    ],
    "local": true
