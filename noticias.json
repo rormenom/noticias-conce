@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T18:40:21.827Z",
+ "generado": "2026-11-11T18:50:20.914Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 144,
-    "leidas": 61,
+    "enlaces": 146,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/camioneros-asamblea-concepcion-exigen-congelar-diesel.html",
+   "titulo": "¿Se suman al paro? Gremios de camiones se reúnen en Concepción y supeditan movilizaciones a cita con Interior",
+   "resumen": "Tras reunirse en Concepción, la CNDC y CNTC acordaron exigir un congelamiento extendido del combustible antes de definir eventual adhesión al paro.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-1-e1794421945981.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T18:50:20.914Z",
+   "visto": "2026-11-11T18:50:20.914Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/concepcion-es-protagonista-de-la-semana-de-las-invasiones-biologicas-2026-con-ciencia-arte-y-actividades-abiertas-a-la-comunidad/",
    "titulo": "Concepción es protagonista de la Semana de las Invasiones Biológicas 2026 con ciencia, arte y actividades abiertas a la comunidad",
@@ -308,20 +322,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/ministro-quiroz-chile-recesion-privados-codelco.html",
-   "titulo": "Ministro Quiroz reconoce que Chile está en “recesión técnica” y abre puerta a capital privado para Codelco",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-hacienda-jorge-quiroz.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T14:10:22.753Z",
-   "visto": "2026-11-11T14:10:22.753Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/llegan-18-camiones-combustible-talcahuano-araucania.html",
    "titulo": "18 camiones con combustible avastecen a La Araucanía desde Talcahuano ante paro nacional",
    "resumen": "El operativo, coordinado entre las delegaciones del Biobío y La Araucanía junto a Carabineros, busca mitigar los efectos del paro de transportistas en los servicentros locales.",
@@ -332,6 +332,20 @@
    "visto": "2026-11-11T14:10:22.753Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/ministro-quiroz-chile-recesion-privados-codelco.html",
+   "titulo": "Ministro Quiroz reconoce que Chile está en “recesión técnica” y abre puerta a capital privado para Codelco",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-hacienda-jorge-quiroz.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T14:10:22.753Z",
+   "visto": "2026-11-11T14:10:22.753Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
