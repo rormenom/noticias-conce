@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T22:30:24.329Z",
+ "generado": "2026-11-11T22:50:19.385Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 58,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 58,
+    "enlaces": 148,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 11,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/bio-bio-paro-de-camioneros-mantiene-cortes-en-ruta-146-y-se-suma-protesta-estudiantil-en-concepcion",
+   "titulo": "Camioneros bloquean la Ruta 146 en Biobío y estudiantes se movilizan en Concepción",
+   "resumen": "El tránsito en dirección a Concepción volvió a habilitarse la tarde de este miércoles en el sector Juan Riquelme de la Ruta 146, mientras continúa el paro de camioneros en distintos puntos del país. En ese lugar, situado en la ruta que también une con…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/agenciauno-cedida.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T22:50:19.385Z",
+   "visto": "2026-11-11T22:50:19.385Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/bci-fondos-clientes-resguardados-robo-concepcion.html",
    "titulo": "Banco BCI por robo en Concepción: “fondos se encuentran a resguardo”",
@@ -1595,20 +1609,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-10T12:00:27.338Z",
    "visto": "2026-11-10T12:00:27.338Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/10/solo-una-asociacion-criminal-detras-del-robo-de-banco-en-concepcion-aumentaria-eventuales-penas.shtml",
-   "titulo": "Sólo una asociación criminal detrás del robo de banco en Concepción aumentaría eventuales penas",
-   "resumen": "Una pena de entre 541 días y cinco años de cárcel es lo que enfrentan los responsables del robo...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013513-robo-banco-concepcion.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-10T10:51:49.000Z",
-   "visto": "2026-11-10T11:00:28.865Z",
    "cats": [
     "regional"
    ],
