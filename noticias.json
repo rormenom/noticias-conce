@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T16:10:21.200Z",
+ "generado": "2026-11-11T16:30:27.569Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 7,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/obras-mitigacion-plaza-peru-concepcion-reapertura.html",
+   "titulo": "Frente a obras inconclusas: municipio interviene Plaza Perú y proyecta nueva licitación para faenas finales",
+   "resumen": "Cuadrillas municipales ejecutan faenas provisorias en veredas, bandejón de Chacabuco y alumbrado para devolver la circulación peatonal en un mes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/obras-mitigacion-plaza-peru-concepcion-reapertura-e1794413665123.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T16:30:27.569Z",
+   "visto": "2026-11-11T16:30:27.569Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/11/camione-bloquean-ingreso-a-deposito-de-contenedores-del-puerto-de-lirquen-en-medio-de-paro-nacional",
    "titulo": "Camioneros bloquean ingreso a depósito de contenedores de puerto de Lirquén en medio de paro nacional",
@@ -166,20 +181,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/ministro-quiroz-chile-recesion-privados-codelco.html",
-   "titulo": "Ministro Quiroz reconoce que Chile está en “recesión técnica” y abre puerta a capital privado para Codelco",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-hacienda-jorge-quiroz.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T14:10:22.753Z",
-   "visto": "2026-11-11T14:10:22.753Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/llegan-18-camiones-combustible-talcahuano-araucania.html",
    "titulo": "18 camiones con combustible avastecen a La Araucanía desde Talcahuano ante paro nacional",
    "resumen": "El operativo, coordinado entre las delegaciones del Biobío y La Araucanía junto a Carabineros, busca mitigar los efectos del paro de transportistas en los servicentros locales.",
@@ -190,6 +191,20 @@
    "visto": "2026-11-11T14:10:22.753Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/ministro-quiroz-chile-recesion-privados-codelco.html",
+   "titulo": "Ministro Quiroz reconoce que Chile está en “recesión técnica” y abre puerta a capital privado para Codelco",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-hacienda-jorge-quiroz.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T14:10:22.753Z",
+   "visto": "2026-11-11T14:10:22.753Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1647,20 +1662,6 @@
    "titulo": "Tres personas fueron detenidas tras abrir un forado para robar herramientas de una constructora en Hualpén",
    "resumen": "Este lunes se produjo un robo en la constructora Pacal, situada en avenida Colón, en Hualpén. Los autores abrieron un forado para entrar al recinto y se llevaron especies cuyo valor fue estimado en $20 millones. El delito se cometió desde un terreno…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/captura-de-pantalla.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T20:50:21.069Z",
-   "visto": "2026-11-09T20:50:21.069Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/transportistas-escolares-de-concepcion-anuncian-movilizacion-para-este-martes-por-alza-de-combustibles",
-   "titulo": "Transportistas escolares de Concepción protestarán este martes contra el alza de los combustibles",
-   "resumen": "Los transportistas escolares convocaron a una movilización tras una nueva subida en el valor de los combustibles, un escenario que podría llevarlos a aumentar sus tarifas el próximo año. Durante esta semana, el precio de los combustibles subirá $40 por litro.…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a_uno_1558734-1200x633-1.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-09T20:50:21.069Z",
