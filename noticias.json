@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T18:50:20.914Z",
+ "generado": "2026-11-11T19:00:27.345Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
+    "enlaces": 57,
     "leidas": 1,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
+    "enlaces": 147,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/quinta-prorroga-licitacion-buses-lota-coronel.html",
+   "titulo": "Por quinta vez prorrogan licitación de buses alto estándar Lota-Coronel",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/10/pag-4-bus-electrico-foto-isidoro-e1792543706891.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T19:00:27.345Z",
+   "visto": "2026-11-11T19:00:27.345Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/camioneros-asamblea-concepcion-exigen-congelar-diesel.html",
    "titulo": "¿Se suman al paro? Gremios de camiones se reúnen en Concepción y supeditan movilizaciones a cita con Interior",
@@ -1611,20 +1625,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-10T01:28:25.000Z",
    "visto": "2026-11-10T01:30:23.238Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/cde-se-querella-contra-carabinero-que-pidio-prestamo-de-20-millones-a-camila-polizzi.shtml",
-   "titulo": "CDE se querella contra carabinero que pidió préstamo de $20 millones a Camila Polizzi",
-   "resumen": "El Consejo de Defensa del Estado (CDE) se hizo parte, como querellante, en la causa contra el carabinero que...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013351-a-1-archiv-por-cde-se-querella-contra-carabinero-que-pidio-prestamo-de-20-millones-a-camila-polizzi.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-10T00:13:48.000Z",
-   "visto": "2026-11-10T00:20:22.140Z",
    "cats": [
     "regional"
    ],
