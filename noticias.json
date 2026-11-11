@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T18:10:19.901Z",
+ "generado": "2026-11-11T18:20:20.154Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
-    "leidas": 63,
+    "enlaces": 149,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/grandes-gremios-de-camioneros-piden-congelar-precio-del-diesel-pero-siguen-sin-sumarse-al-paro",
+   "titulo": "Confederaciones de dueños de camiones reclaman congelar el precio del diésel, pero descartan sumarse al paro",
+   "resumen": "Luego de acordar una reunión en la región del Bío Bío, las principales confederaciones de camioneros informaron que este jueves se reunirán con el Gobierno para pedir que se congele el precio del diésel, pero sostuvieron que no se incorporarán a las…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/grandes-gremios-de-camioneros-piden-congelar-precio-del-diesel-pero-siguen-sin-sumarse-al-paro.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T18:20:20.154Z",
+   "visto": "2026-11-11T18:20:20.154Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/tome-carabinero-que-habia-sido-condenando-por-causa-de-estallido-social-es-absuelto-en-segundo-juicio.shtml",
    "titulo": "Tomé: carabinero que había sido condenando por causa de estallido social es absuelto en segundo juicio",
@@ -1668,20 +1682,6 @@
    "visto": "2026-11-09T21:40:21.687Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/balacera-a-plena-luz-del-dia-en-playa-de-penco-deja-cinco-lesionados-tres-recibieron-impactos-de-bala",
-   "titulo": "Enfrentamiento en una playa de Penco deja cinco heridos, tres de ellos por impactos de bala",
-   "resumen": "Una balacera ocurrida este fin de semana en la playa de Penco, dejó cinco personas heridas. El tiroteo se produjo a plena luz del día, frente a los visitantes que se encontraban en el balneario. El incidente tuvo lugar en la zona costera, entre el Fuerte La…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-73.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T21:20:22.644Z",
-   "visto": "2026-11-09T21:20:22.644Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
