@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T01:30:24.587Z",
+ "generado": "2026-11-11T01:40:20.705Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 59,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 11,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -941,10 +941,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/basquetbol-femenino-udec-hizo-doblete-y-se-instala-en-segundo-puesto-de-la-liga.html",
-   "titulo": "Básquetbol femenino UdeC hizo doblete y se instala en segundo puesto de la Liga",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/futuro-de-renato-ramos-hoy-no-puedo-anticipar-si-vamos-a-continuar.html",
+   "titulo": "Futuro de Renato Ramos: “Hoy no puedo anticipar si vamos a continuar”",
    "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/udec-boston-college-e1794273470461.jpeg",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/renato-ramos-e1794273414205.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -955,10 +955,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/futuro-de-renato-ramos-hoy-no-puedo-anticipar-si-vamos-a-continuar.html",
-   "titulo": "Futuro de Renato Ramos: “Hoy no puedo anticipar si vamos a continuar”",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/basquetbol-femenino-udec-hizo-doblete-y-se-instala-en-segundo-puesto-de-la-liga.html",
+   "titulo": "Básquetbol femenino UdeC hizo doblete y se instala en segundo puesto de la Liga",
    "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/renato-ramos-e1794273414205.jpeg",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/udec-boston-college-e1794273470461.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
