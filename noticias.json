@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T12:50:19.798Z",
+ "generado": "2026-11-11T13:10:19.751Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 148,
     "leidas": 65,
     "errores": 0,
     "robots": 0
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 34,
+    "enlaces": 35,
     "leidas": 5,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/noche-de-museos-vuelve-a-biobio-con-mas-de-20-espacios-y-37-actividades-gratuitas/",
+   "titulo": "Noche de Museos vuelve a Biobío con más de 20 espacios y 37 actividades gratuitas",
+   "resumen": "La Región del Biobío se prepara para vivir una nueva […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/NM2026-768x576.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-11T13:06:06.000Z",
+   "visto": "2026-11-11T13:10:19.751Z",
+   "cats": [
+    "cultura",
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/11/11/corte-deja-sin-cautelares-a-alcalde-de-chillan-investigado-por-fraude-al-fisco-en-compra-de-medialuna.shtml",
    "titulo": "Corte deja sin cautelares a alcalde de Chillán investigado por fraude al fisco en compra de medialuna",
@@ -1695,20 +1710,6 @@
    "visto": "2026-11-09T17:30:24.374Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/revelan-que-delincuentes-cortaron-camara-2-dias-antes-de-robo-de-3mil-millones-a-banco-en-concepcion.shtml",
-   "titulo": "Revelan que delincuentes cortaron cámara 2 días antes de robo de $3 mil millones a banco en Concepción",
-   "resumen": "La Municipalidad de Concepción reveló imágenes captadas durante los días previos al robo de más de $3 mil millones a...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012655-revelan-que-sujetos-cortaron-camara-dos-dias-antes-de-robo-de-3-mil-millones-a-banco-en-concepcion.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-09T17:23:30.000Z",
-   "visto": "2026-11-09T17:30:24.374Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
