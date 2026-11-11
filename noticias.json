@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T16:50:21.329Z",
+ "generado": "2026-11-11T17:00:27.690Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 64,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 31,
-    "leidas": 6,
+    "enlaces": 30,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/robo-al-bci-en-concepcion-botin-supera-los-8-500-millones-y-se-convierte-en-el-mayor-robo-bancario-en-la-historia-del-pais",
+   "titulo": "El mayor robo a un banco en Chile: monto sustraído a BCI de Concepción asciende a $8.520 millones",
+   "resumen": "El millonario robo que afectó a una sucursal del Banco BCI, en pleno centro de Concepción, alcanzó una cifra considerablemente superior a las primeras estimaciones. La PDI confirmó que se convierte en el mayor robo bancario en la historia del país. Nuevos…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ahora-c9.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T17:00:27.690Z",
+   "visto": "2026-11-11T17:00:27.690Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/mayor-robo-a-un-banco-en-chile-monto-sustraido-a-bci-de-concepcion-asciende-a-8-520-millones.shtml",
    "titulo": "Mayor robo a un banco en Chile: monto sustraído a BCI de Concepción asciende a $8.520 millones",
@@ -1637,20 +1651,6 @@
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-09T20:59:45.756Z",
-   "visto": "2026-11-09T20:59:45.756Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/balacera-a-plena-luz-del-dia-en-playa-de-penco-deja-cinco-lesionados-tres-recibieron-impactos-de-bala.shtml",
-   "titulo": "Pelea a plena luz del día en playa de Penco deja cinco lesionados: tres recibieron impactos de bala",
-   "resumen": "Una balacera registrada en la playa de Penco, en la región del Bío Bío, dejó a cinco personas lesionadas durante...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013139-foto-contexto-nota-bbcl-73.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-09T20:56:31.000Z",
    "visto": "2026-11-09T20:59:45.756Z",
    "cats": [
     "regional"
