@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T17:30:26.317Z",
+ "generado": "2026-11-11T18:00:29.662Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 64,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/yo-elijo-mi-pc-continuacion-programa.html",
+   "titulo": "“Yo Elijo Mi PC”: Gobierno confirma reposición del programa tras críticas transversales",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IEARZ2EHUBAHJGNFVJQAPYKLNM.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T18:00:29.662Z",
+   "visto": "2026-11-11T18:00:29.662Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.html",
    "titulo": "“Uno de los mayores robos a nivel país”: confirman sustracción de más de $8.500 millones tras forado a banco en Concepción",
@@ -1378,20 +1392,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/municipio-concepcion-transparencia-activa-observaciones.html",
-   "titulo": "Concepción registra bajos índices de transparencia: municipio asegura haber subsanado observaciones",
-   "resumen": "La comuna pasó de 91,7% a 73,6% de cumplimiento en dos años. Se atribuye parte de la caída a reestructuraciones internas y a una evaluación que solo refleja un período específico.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-municipalidad-concepcion-e1794273118294.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/camioneros-biobio-paro-combustibles.html",
    "titulo": "Paro de camioneros amenaza el inicio de la temporada agrícola del Biobío",
    "resumen": "Gremio productor advierte impacto directo en las cosechas.",
@@ -1458,6 +1458,20 @@
    "visto": "2026-11-10T08:40:21.155Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/municipio-concepcion-transparencia-activa-observaciones.html",
+   "titulo": "Concepción registra bajos índices de transparencia: municipio asegura haber subsanado observaciones",
+   "resumen": "La comuna pasó de 91,7% a 73,6% de cumplimiento en dos años. Se atribuye parte de la caída a reestructuraciones internas y a una evaluación que solo refleja un período específico.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-municipalidad-concepcion-e1794273118294.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
