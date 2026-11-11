@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T01:40:20.705Z",
+ "generado": "2026-11-11T03:20:18.401Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 60,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 10,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
@@ -2614,21 +2614,6 @@
    "cats": [
     "cultura",
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/06/concejala-pide-indagar-hostigamiento-y-partido-cristiano-alista-querellas-por-corrupcion-en-el-bio-bio.shtml",
-   "titulo": "Concejala pide indagar hostigamiento y Partido Cristiano alista querellas por corrupción en el Bío Bío",
-   "resumen": "Fue presentada una denuncia por parte de la concejala de Talcahuano involucrada en el escándalo que terminó con la salida...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7009438-muni-thno-por-concejala-de-talcahuano-pide-indagar-hostigamiento-y-partido-cristiano-alista-querellas-por-corrupcion.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-06T03:16:02.000Z",
-   "visto": "2026-11-07T02:08:30.847Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
