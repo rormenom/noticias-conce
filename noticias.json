@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T14:30:27.296Z",
+ "generado": "2026-11-11T14:50:22.689Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
-    "leidas": 0,
+    "enlaces": 56,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 64,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/camioneros-bloquean-puerto-san-vicente.html",
+   "titulo": "Camioneros bloquean acceso a Puerto San Vicente en Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/SAN-VICENTE-PUERTO.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T14:50:22.689Z",
+   "visto": "2026-11-11T14:50:22.689Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/11/camioneros-bloquean-parcialmente-la-ruta-160-en-coronel-reportan-incidentes-y-danos-a-vehiculos-de-carga",
    "titulo": "Camioneros bloquean parcialmente la Ruta 160 en Coronel: reportan incidentes y daños a vehículos de carga",
@@ -119,6 +133,21 @@
    "fecha": "2026-11-11T14:10:22.753Z",
    "visto": "2026-11-11T14:10:22.753Z",
    "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/11/con-la-celebracion-de-su-25-aniversario-contulmo-se-prepara-para-cerrar-el-ano-con-la-tradicional-fiesta-de-la-frutilla-blanca/",
+   "titulo": "Contulmo se prepara para cerrar el año con la tradicional Fiesta de la Frutilla Blanca",
+   "resumen": "Con la celebración de su 25° aniversario.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Nota-Fiesta-de-la-Frutilla-Blanca-2026-768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-11T13:54:16.000Z",
+   "visto": "2026-11-11T14:50:22.689Z",
+   "cats": [
+    "cultura",
     "regional"
    ],
    "local": true
@@ -1664,34 +1693,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-09T19:56:47.000Z",
    "visto": "2026-11-09T20:00:30.186Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/transportistas-escolares-de-concepcion-anuncian-movilizacion-para-este-martes-por-alza-de-combustibles.shtml",
-   "titulo": "Transportistas escolares de Concepción anuncian movilización para este martes por alza de combustibles",
-   "resumen": "Los transportistas escolares anunciaron una movilización ante una nueva alza en el precio de los combustibles, situación que podría derivar...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013007-a_uno_1558734-1200x633-1.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-09T19:45:38.000Z",
-   "visto": "2026-11-09T19:50:21.125Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/bypass-penco-lirquen-cierre.html",
-   "titulo": "Bypass Penco-Lirquén: cierre por trabajos de conservación se realizará este sábado",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2018/04/Bypass-Penco-Lirquen-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T19:40:19.752Z",
-   "visto": "2026-11-09T19:40:19.752Z",
    "cats": [
     "regional"
    ],
