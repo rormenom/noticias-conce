@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T13:40:32.171Z",
+ "generado": "2026-11-11T13:50:22.530Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 64,
+    "enlaces": 148,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 6,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/11/cerca-de-100-personas-mayores-recibieron-atencion-podologica-gratuita-en-mulchen/",
+   "titulo": "Cerca de 100 personas mayores recibieron atención podológica gratuita en Mulchén",
+   "resumen": "Pies sanos: Vecinos y vecinas pertenecientes a las localidades Sol de Septiembre, Aguas de Renaico, Mirador de Biobío y otros sectores rurales de la comuna bureana, fueron parte de un operativo para la salud de sus pies, gracias al trabajo conjunto entre las…",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/operativos-podologicos-mulchen-300x169.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-11T13:47:28.000Z",
+   "visto": "2026-11-11T13:50:22.530Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/11/bloquean-acceso-a-puerto-san-vicente-camioneros-extienden-protestas-a-zonas-logisticas-en-talcahuano",
    "titulo": "Bloquean acceso a Puerto San Vicente: camioneros extienden protestas a zonas logísticas en Talcahuano",
