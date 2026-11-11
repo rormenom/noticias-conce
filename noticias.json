@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T16:00:28.786Z",
+ "generado": "2026-11-11T16:10:21.200Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
+    "enlaces": 149,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 32,
-    "leidas": 6,
+    "enlaces": 31,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/camione-bloquean-ingreso-a-deposito-de-contenedores-del-puerto-de-lirquen-en-medio-de-paro-nacional",
+   "titulo": "Camioneros bloquean ingreso a depósito de contenedores de puerto de Lirquén en medio de paro nacional",
+   "resumen": "Los transportistas mantienen interrumpido el acceso de camiones al recinto portuario en Penco, aunque sin cortes de tránsito en las vías aledañas. La movilización se desarrolla en medio del descontento de pequeños empresarios del rubro y tras una nueva…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/lirquen-e1794412773401.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T16:10:21.200Z",
+   "visto": "2026-11-11T16:10:21.200Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/presidente-kast-paro-transportistas.html",
    "titulo": "“Nos jugamos el futuro de Chile”: Presidente Kast por paralización de transportistas",
@@ -1671,20 +1685,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/anuncian-corte-de-transito-en-salida-del-bypass-penco-lirquen-para-el-sabado-revisa-los-desvios",
-   "titulo": "Este sábado habrá corte de tránsito en la salida del bypass Penco-Lirquén: conoce los desvíos",
-   "resumen": "La Sociedad Concesionaria Bosques del Itata comunicó que el próximo sábado 14 de noviembre se interrumpirá temporalmente la circulación en una de las salidas del bypass Penco-Lirquén. Según lo informado, el cierre afectará el kilómetro 74,4 de la Ruta 152,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/corte-de-transito-bypass-penco-lirquen.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T20:50:21.069Z",
-   "visto": "2026-11-09T20:50:21.069Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/09/leon-gieco-y-su-vinculo-con-chile-hay-entre-nuestros-pueblos-una-hermandad-que-no-todos-entienden.shtml",
    "titulo": "León Gieco y su vínculo con Chile: \"Hay entre nuestros pueblos una hermandad que no todos entienden\"",
    "resumen": "El cantautor argentino regresa al país con tres conciertos en Santiago, Viña del Mar y Concepción. En conversación con BioBioChile, recuerda su relación con la música chilena, revela cómo \"Solo le pido a Dios\" estuvo cerca de quedar fuera de un disco y aborda…",
@@ -2563,21 +2563,6 @@
    "fecha": "2026-11-06T23:33:13.000Z",
    "visto": "2026-11-08T14:00:27.573Z",
    "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/gobierno-prepara-nueva-consulta-indigena-con-despliegue-previo-en-cuatro-regiones-del-pais/",
-   "titulo": "Gobierno prepara nueva Consulta Indígena con despliegue previo en cuatro regiones del país",
-   "resumen": "El subsecretario de Servicios Sociales, Alejandro Fernández, recorrió las regiones […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-12.57.03-PM-768x512.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-06T16:07:44.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
     "politica"
    ],
    "local": true
