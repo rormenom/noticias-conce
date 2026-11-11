@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T12:30:24.752Z",
+ "generado": "2026-11-11T12:40:19.430Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 66,
+    "enlaces": 151,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,42 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 35,
-    "leidas": 4,
+    "enlaces": 34,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/camioneros-canete-paro-nacional.html",
+   "titulo": "Cañete: camioneros se suman a manifestación nacional en acceso norte",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PARO-CA%C3%91ETE.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T12:40:19.430Z",
+   "visto": "2026-11-11T12:40:19.430Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/tercera-jornada-de-paro-movilizaciones-de-camioneros-y-cortes-de-ruta-se-mantienen-en-distintas-comunas-del-biobio",
+   "titulo": "Tercera Jornada de paro: movilizaciones de camioneros y cortes de ruta se mantienen en distintas comunas del Biobío",
+   "resumen": "Las movilizaciones y el paro de transportistas continúan este miércoles en varios puntos estratégicos de la Región del Biobío y la Región de La Araucanía. La situación genera congestión y desvíos preventivos, mientras se desarrollan reuniones clave entre los…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-11-at-08.36.44-e1794398332228.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T12:40:19.430Z",
+   "visto": "2026-11-11T12:40:19.430Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/las-falencias-en-monitoreo-de-camaras-de-seguridad-que-dejo-al-descubierto-robo-a-banco-en-concepcion.shtml",
    "titulo": "Las falencias en monitoreo de cámaras de seguridad que dejó al descubierto robo a banco en Concepción",
@@ -180,20 +208,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/11/fernandez-vial-repechaje-puente-alto.html",
-   "titulo": "Matías Soto: “Nos queda la última bala y esa no la vamos a desperdiciar”",
-   "resumen": "Defensor de Fernández Vial analizó el cruce decisivo por la liguilla de promoción frente a Puente Alto tras dejar atrás la dolorosa caída por penales en casa de Mejillones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Matias-Soto-Fernandez-Vial-foto-facebook-C.D.-Arturo-Fern%C3%A1ndez-Vial-e1794357714246.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T08:40:19.390Z",
-   "visto": "2026-11-11T08:40:19.390Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/quintino-cinalli-regresa-concepcion-musica-formacion-nuevas-exploraciones-ritmicas.html",
    "titulo": "Quintino Cinalli regresa a Concepción con música, formación y nuevas exploraciones rítmicas",
    "resumen": "El destacado baterista y percusionista argentino desarrollará una serie de actividades entre el 11 y el 17 de noviembre, que incluyen una clínica abierta a músicos de distintas disciplinas, un conversatorio sobre su discografía y presentaciones en vivo junto…",
@@ -232,6 +246,20 @@
    "visto": "2026-11-11T08:40:19.390Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/11/fernandez-vial-repechaje-puente-alto.html",
+   "titulo": "Matías Soto: “Nos queda la última bala y esa no la vamos a desperdiciar”",
+   "resumen": "Defensor de Fernández Vial analizó el cruce decisivo por la liguilla de promoción frente a Puente Alto tras dejar atrás la dolorosa caída por penales en casa de Mejillones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Matias-Soto-Fernandez-Vial-foto-facebook-C.D.-Arturo-Fern%C3%A1ndez-Vial-e1794357714246.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T08:40:19.390Z",
+   "visto": "2026-11-11T08:40:19.390Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1081,20 +1109,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
-   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
-   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/municipio-concepcion-transparencia-activa-observaciones.html",
    "titulo": "Concepción registra bajos índices de transparencia: municipio asegura haber subsanado observaciones",
    "resumen": "La comuna pasó de 91,7% a 73,6% de cumplimiento en dos años. Se atribuye parte de la caída a reestructuraciones internas y a una evaluación que solo refleja un período específico.",
@@ -1175,6 +1189,20 @@
    "visto": "2026-11-10T08:40:21.155Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
+   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
+   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1696,20 +1724,6 @@
    "visto": "2026-11-09T16:50:20.467Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/millonario-robo-concepcion-recopilan-antecedentes-sobre-sistemas-de-seguridad-internos/",
-   "titulo": "Millonario robo Concepción: recopilan antecedentes sobre sistemas de seguridad internos",
-   "resumen": "El seremi de Seguridad del Biobío, Richard Soto indicó que se está revisando el funcionamiento y utilización de las cámaras de vigilancia.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/diligencias-pdi-ccp-robo-banco-forado--768x432.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-09T16:49:26.000Z",
-   "visto": "2026-11-09T23:20:19.600Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
