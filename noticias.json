@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T21:40:20.013Z",
+ "generado": "2026-11-11T21:50:22.211Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -1348,6 +1348,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/camioneros-biobio-paro-combustibles.html",
+   "titulo": "Paro de camioneros amenaza el inicio de la temporada agrícola del Biobío",
+   "resumen": "Gremio productor advierte impacto directo en las cosechas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-paro-de-camioneros-en-ruta-5-sur-foto-cedida.jpg-e1794273079507.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T15:00:00.000Z",
+   "visto": "2026-11-11T21:50:22.211Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/detienen-coyhaique-abuso-sexual-talcahuano.html",
    "titulo": "Detienen en Coyhaique a imputado por abuso sexual a menor en Talcahuano",
    "resumen": "El trabajo coordinado entre las brigadas investigadoras de Delitos Sexuales de Concepción y Coyhaique permitió ubicar y detener al requerido, de 21 años, por hechos ocurridos durante 2024 en la Región del Biobío.",
@@ -1585,20 +1599,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/camioneros-movilizados-paralizan-la-ruta-5-sur-en-los-angeles-y-generan-taco-kilometrico",
-   "titulo": "Protesta de camioneros bloquea la Ruta 5 Sur en Los Ángeles y genera una extensa congestión",
-   "resumen": "En medio de las protestas convocadas por diversos gremios ante el encarecimiento de los combustibles, la noche de este lunes transportistas mantienen bloqueada la Ruta 5 Sur en Los Ángeles –región del Bío Bío-, lo que ha provocado una extensa congestión. De…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/captura-por-camioneros-movilizados-paralizan-la-ruta-5-sur-en-los-angeles-y-causa-taco-kilometrico.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T09:00:28.040Z",
-   "visto": "2026-11-10T09:00:28.040Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
