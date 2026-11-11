@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T18:20:20.154Z",
+ "generado": "2026-11-11T18:30:25.596Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 62,
+    "enlaces": 148,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 8,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/tome-carabinero-que-habia-sido-condenando-por-causa-de-estallido-social-es-absuelto-en-segundo-juicio",
+   "titulo": "Tomé: absuelven nuevamente a carabinero condenado por hechos del estallido social",
+   "resumen": "El segundo juicio contra un carabinero de Tomé concluyó con un veredicto absolutorio. El Ministerio Público lo acusaba de agredir físicamente en octubre de 2019 a un joven menor de edad, durante las manifestaciones del denominado estallido social. El actual…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/carabinero.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T18:30:25.596Z",
+   "visto": "2026-11-11T18:30:25.596Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/11/grandes-gremios-de-camioneros-piden-congelar-precio-del-diesel-pero-siguen-sin-sumarse-al-paro",
    "titulo": "Confederaciones de dueños de camiones reclaman congelar el precio del diésel, pero descartan sumarse al paro",
@@ -1596,20 +1610,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-09T23:50:18.288Z",
    "visto": "2026-11-09T23:50:18.288Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/cortes-de-agua-essbio-biobio-fechas-horarios.html",
-   "titulo": "Essbio anuncia cortes de agua para esta semana en Concepción, Los Ángeles y Talcahuano",
-   "resumen": "Este martes, miércoles y jueves habrá cortes de agua por parte de Essbio. Las comunas consideradas son Concepción, Talcahuano, Los Ángeles, Lota y Laja, con interrupciones del servicio desde 3 hasta 12 horas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-18.03.21-e1794259797214.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T23:00:30.218Z",
-   "visto": "2026-11-09T23:00:30.218Z",
    "cats": [
     "regional"
    ],
