@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T14:50:22.689Z",
+ "generado": "2026-11-11T15:02:20.214Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 63,
+    "enlaces": 149,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/11/jornada-regional-del-programa-lazos-reune-a-comunas-para-fortalecer-la-prevencion-de-conductas-de-riesgo/",
+   "titulo": "Jornada Regional del Programa Lazos reúne a comunas para fortalecer la prevención de conductas de riesgo",
+   "resumen": "En el Biobío.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/jornada-biobio-lazos-768x576.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-11T14:59:54.000Z",
+   "visto": "2026-11-11T15:02:20.214Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/camioneros-bloquean-puerto-san-vicente.html",
    "titulo": "Camioneros bloquean acceso a Puerto San Vicente en Talcahuano",
@@ -1685,20 +1699,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/tres-detenidos-por-robo-de-herramientas-a-constructora-en-hualpen-hicieron-un-forado-para-ingresar.shtml",
-   "titulo": "Tres detenidos por robo de herramientas a constructora en Hualpén: hicieron un forado para ingresar",
-   "resumen": "Este lunes, se registró un robo que afectó a la constructora Pacal, ubicada en la avenida Colón de Hualpén, ...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012866-captura-de-pantalla.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-09T19:56:47.000Z",
-   "visto": "2026-11-09T20:00:30.186Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/09/charles-aranguiz-evidencio-el-golpe-en-la-u-por-titulo-35-de-colo-colo-para-que-vamos-hablar",
    "titulo": "Aránguiz reflejó el impacto en la U por el título 35 de Colo Colo: «¿Para qué vamos a hablar?»",
    "resumen": "La U cumplió en Rancagua al vencer 2-1 a Cobresal en la jornada 27 de la Liga de Primera 2026. Aun así, el triunfo no bastó para conservar sus opciones de ser campeón: Colo Colo ganó por el mismo marcador a Ñublense en Chillán y conquistó su estrella número…",
@@ -2565,208 +2565,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/06/biobio-mar-evacuacion-proteccion-alerta.html",
-   "titulo": "Biobío frente al mar: la evacuación y protección no pueden comenzar con una alerta",
-   "resumen": "Ante un terremoto esperar una sirena o mensaje puede tener consecuencias fatales. Por eso la educación y preparación son la clave vital.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-borde-costero-bahia-de-talcahuano-foto-carolina-e1793927704442.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/06/ciencia-robotica-e-innovacion-concepcion-recibira-nueva-version-de-first-lego-league.html",
-   "titulo": "Ciencia, robótica e innovación: Concepción recibirá nueva versión de First Lego League",
-   "resumen": "Este sábado 7 de noviembre se desarrollará el evento que acerca diversas áreas y herramientas STEM a escolares.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/breve-1-e1793927737289.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/fallece-sebastian-lelio-director-oscar-visita-biobio-nuble.html",
-   "titulo": "Luto en el cine chileno: sorpresivamente fallece Sebastián Lelio, director ganador del Oscar que deja huella en Biobío y Ñuble",
-   "resumen": "El cineasta nacional y ganador de un premio de la Academia falleció en su vivienda a los 52 años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fallece-sebastian-lelio-director-oscar-visita-concepcion.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/lanzamiento-envis-biobio-2027-encuentro-vinculacion-social.html",
-   "titulo": "Lanzan ENVIS 2027: El Biobío será la sede del gran diálogo sobre innovación y desarrollo social",
-   "resumen": "Líderes de la innovación social lanzaron en Concepción el Encuentro Nacional de Vinculación Social (ENVIS) Biobío 2027. Conoce su hoja de ruta y fechas clave.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PRESENTACI%C3%93N-ENVIS-2027-43-e1793979438276.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/06/udec-destaca-premios-avonni-2026-hydraterra-cicla.html",
-   "titulo": "De la escasez hídrica al reciclaje de plásticos: tecnologías vinculadas a la UdeC son reconocidas en los Premios Avonni 2026",
-   "resumen": "Los reconocimientos a HydraTerra y CICLA 3D, junto con la nominación de AquaShield Cherry, reflejan el alcance de la investigación aplicada y el apoyo al emprendimiento vinculados a la Universidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-HydraTerra-y-CICLA-3D-tecnolog%C3%ADas-vinculadas-a-la-UdeC-reconocidas-en-los-Premios-Avonni-2026-foto-Dircom-UdeC-e1793927366632.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/vecinos-ruta-160-carta-presidente-kast.html",
-   "titulo": "“El centralismo castigó al Biobío”: treinta juntas de vecinos envían carta a Presidente Kast por freno a obras en Ruta 160",
-   "resumen": "Dirigentes de Coronel, Lota y San Pedro de La Paz exigieron al Mandatario revertir el freno al corredor licitado y acusaron discriminación centralista.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/vecinos-ruta-160-carta-presidente-kast.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/alan-gonzalez-rendira-homenaje-cantautores-regionales-concierto-el-canto-del-biobio.html",
-   "titulo": "Alan González rendirá homenaje a cantautores regionales con concierto “El canto del Biobío”",
-   "resumen": "El músico y escritor penquista se presentará en la Corporación Cultural San Pedro de la Paz -Los Fresnos 1640- con un espectáculo íntimo de guitarra y voz que rescata la obra de destacados compositores y compositoras del territorio. Hoy a las 19.00 horas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-Alan-Gonz%C3%A1lez.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/caso-puerto-coronel-tc-boris-chamorro.html",
-   "titulo": "Caso Puerto Coronel: TC revisará requerimiento de Boris Chamorro el 11 de noviembre",
-   "resumen": "De esta manera, la sesión de la Primera Sala se realizará dos días antes de la audiencia de preparación del juicio oral.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/requerimiento-chamorro-tribunal-constitucional-e1794000185157.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/06/puerto-coronel-fiscalia-riesgo-dilacion-tc.html",
-   "titulo": "Caso Puerto Coronel: Fiscalía alerta riesgo de dilación si más defensas recurren al Tribunal Constitucional",
-   "resumen": "Aún se está a la espera de que el TC examine la admisibilidad del requerimiento de la defensa del alcalde Boris Chamorro, proceso que por el momento no figura en tabla.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fiscalia-regional-biobio-e1793927410744.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/06/youngers-presenta-encuentros-con-kramer-50-este-fin-de-semana-teatro-udec.html",
-   "titulo": "Youngers presenta “Encuentros con Kramer 50+” este fin de semana en el Teatro UdeC",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-1-e1793927854656.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/udec-logra-triunfo-daniels-saravia.html",
-   "titulo": "UdeC logra el 2-0: destape de Daniels y explosión de Saravia",
-   "resumen": "Básquetbol auricielo se impuso dos veces consecutivas al Ancud de Cooper y Morales gracias a su intensidad y profundidad de plantel. El próximo viernes buscarán entrar a semifinales en la isla.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/francisco-saravia.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/corridas-noviembre-agenda-horarios-lugares.html",
-   "titulo": "Seis corridas para agendar: dónde y a qué hora acelerar en noviembre",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2022/11/pag-19-corrida-cuatro-lagunas-foto-archivo-carolina-e1793965652649.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/06/lilas-acereros-vecinos-guerra-sexto-puesto.html",
-   "titulo": "Lilas y acereros: vecinos en la guerra por el sexto puesto",
-   "resumen": "Ambos quieren entrar a la Copa Sudamericana 2027 y para ello deben alcanzar a Palestino. ¿Qué les queda en el camino y cómo llegan Deportes Concepción y Huachipato a esta recta final?",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/05/pag-15-Aldrix-Jara-Deportes-Concepcion-vs-Huachipato-foto-carolina-e1793965495179.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/06/pescadores-artesanales-biobio-preparacion-eventos-climaticos.html",
-   "titulo": "El Niño y el cambio climático recortan jornadas laborales y encienden las alarmas en la pesca artesanal",
-   "resumen": "Dirigentes del sector señalaron que han reforzado las medidas de resguardo de sus embarcaciones y la coordinación con la autoridad marítima. Sin embargo, alertaron sobre los daños que afectan a las caletas frente a fenómenos como las trombas marinas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Screenshot_20261105_174227_Gallery-e1793911471390.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-06T15:00:00.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "cultura"
    ],
    "local": true
   }
