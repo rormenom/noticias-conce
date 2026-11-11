@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T12:10:21.396Z",
+ "generado": "2026-11-11T12:30:24.752Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
-    "leidas": 67,
+    "enlaces": 148,
+    "leidas": 66,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 3,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
@@ -1067,10 +1067,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
-   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
-   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/sernapesca-advierte-riesgo-de-enfermedades-tras-aparicion-de-pinguino-en-la-costa-de-ramuntcho.html",
+   "titulo": "Sernapesca advierte riesgo de enfermedades tras aparición de pingüino en la costa de Ramuntcho",
+   "resumen": "Aunque el riesgo de contagio de influenza aviar en personas es bajo, las autoridades advierten que el contacto directo con aves silvestres puede generar exposición.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-pinguinos-de-Humbolt-en-pen%C3%ADnsula-de-Hualp%C3%A9n-foto-cedida-e1794271383247.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -1081,10 +1081,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/sernapesca-advierte-riesgo-de-enfermedades-tras-aparicion-de-pinguino-en-la-costa-de-ramuntcho.html",
-   "titulo": "Sernapesca advierte riesgo de enfermedades tras aparición de pingüino en la costa de Ramuntcho",
-   "resumen": "Aunque el riesgo de contagio de influenza aviar en personas es bajo, las autoridades advierten que el contacto directo con aves silvestres puede generar exposición.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-pinguinos-de-Humbolt-en-pen%C3%ADnsula-de-Hualp%C3%A9n-foto-cedida-e1794271383247.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
+   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
+   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
@@ -2711,21 +2711,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/lota-fortalece-su-camino-hacia-la-unesco-autoridades-impulsan-la-recuperacion-del-patrimonio-minero-y-su-memoria-historica/",
-   "titulo": "Lota fortalece su camino hacia la UNESCO: autoridades impulsan la recuperación del patrimonio minero y su memoria histórica",
-   "resumen": "El pasado 3 de noviembre se convocó la sesión N.º […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Lota-768x512.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-06T12:23:46.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "cultura",
-    "regional"
    ],
    "local": true
   }
