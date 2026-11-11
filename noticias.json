@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T18:30:25.596Z",
+ "generado": "2026-11-11T18:40:21.827Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 60,
+    "enlaces": 144,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/concepcion-es-protagonista-de-la-semana-de-las-invasiones-biologicas-2026-con-ciencia-arte-y-actividades-abiertas-a-la-comunidad/",
+   "titulo": "Concepción es protagonista de la Semana de las Invasiones Biológicas 2026 con ciencia, arte y actividades abiertas a la comunidad",
+   "resumen": "Acercar la ciencia a la ciudadanía, visibilizar los impactos de […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/tortuga-orejas-rojas-engin-akyurt-768x432.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-11T18:37:07.000Z",
+   "visto": "2026-11-11T18:40:21.827Z",
+   "cats": [
+    "regional",
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/11/tome-carabinero-que-habia-sido-condenando-por-causa-de-estallido-social-es-absuelto-en-segundo-juicio",
    "titulo": "Tomé: absuelven nuevamente a carabinero condenado por hechos del estallido social",
@@ -1596,20 +1611,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-10T00:13:48.000Z",
    "visto": "2026-11-10T00:20:22.140Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/camioneros-transporte-escolar-protesta-autopista.html",
-   "titulo": "Tras bloqueos en Ruta 5 Sur: camioneros y transporte escolar confirman protestas en la autopista Concepción-Talcahuano",
-   "resumen": "Tras bloqueos en Ruta 5 Sur, camioneros y transporte escolar coincidirán con protestas paralelas en la autopista por el alza de combustibles.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-transporte-escolar-protesta-autopista.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T23:50:18.288Z",
-   "visto": "2026-11-09T23:50:18.288Z",
    "cats": [
     "regional"
    ],
