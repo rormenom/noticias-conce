@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T13:10:19.751Z",
+ "generado": "2026-11-11T13:30:23.812Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 65,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 35,
+    "enlaces": 34,
     "leidas": 5,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/paro-camioneros-taxis-evaluan-unirse.html",
+   "titulo": "Paro de camioneros: taxis colectivos del Biobío evaluarán unirse a movilizaciones",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2022/09/Imagen-pag-11-colectivos-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T13:30:23.812Z",
+   "visto": "2026-11-11T13:30:23.812Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/noche-de-museos-vuelve-a-biobio-con-mas-de-20-espacios-y-37-actividades-gratuitas/",
    "titulo": "Noche de Museos vuelve a Biobío con más de 20 espacios y 37 actividades gratuitas",
@@ -237,20 +251,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/quintino-cinalli-regresa-concepcion-musica-formacion-nuevas-exploraciones-ritmicas.html",
-   "titulo": "Quintino Cinalli regresa a Concepción con música, formación y nuevas exploraciones rítmicas",
-   "resumen": "El destacado baterista y percusionista argentino desarrollará una serie de actividades entre el 11 y el 17 de noviembre, que incluyen una clínica abierta a músicos de distintas disciplinas, un conversatorio sobre su discografía y presentaciones en vivo junto…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Quintino-Cinalli-e1794357849547.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T08:40:19.390Z",
-   "visto": "2026-11-11T08:40:19.390Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/proyecto-gef-conservacion-aves-humedales-rocuant-andalien.html",
    "titulo": "Elaboran plan de inyección de recursos para salvar aves migratorias en el humedal Rocuant-Andalién",
    "resumen": "La iniciativa contempla una inversión global de US$2,1 millones del Fondo para el Medio Ambiente Mundial.",
@@ -303,6 +303,20 @@
    "visto": "2026-11-11T08:40:19.390Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/quintino-cinalli-regresa-concepcion-musica-formacion-nuevas-exploraciones-ritmicas.html",
+   "titulo": "Quintino Cinalli regresa a Concepción con música, formación y nuevas exploraciones rítmicas",
+   "resumen": "El destacado baterista y percusionista argentino desarrollará una serie de actividades entre el 11 y el 17 de noviembre, que incluyen una clínica abierta a músicos de distintas disciplinas, un conversatorio sobre su discografía y presentaciones en vivo junto…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Quintino-Cinalli-e1794357849547.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T08:40:19.390Z",
+   "visto": "2026-11-11T08:40:19.390Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -1124,20 +1138,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
-   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
-   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/municipio-concepcion-transparencia-activa-observaciones.html",
    "titulo": "Concepción registra bajos índices de transparencia: municipio asegura haber subsanado observaciones",
    "resumen": "La comuna pasó de 91,7% a 73,6% de cumplimiento en dos años. Se atribuye parte de la caída a reestructuraciones internas y a una evaluación que solo refleja un período específico.",
@@ -1218,6 +1218,20 @@
    "visto": "2026-11-10T08:40:21.155Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/robo-banco-bci-concepcion-inmueble-venta-forado.html",
+   "titulo": "En venta hace un año y extienda de moda: los detalles del inmueble clave en el robo al Banco BCI",
+   "resumen": "La Fiscalía encargó a la Policía de Investigaciones las averiguaciones sobre la banda criminal detrás de esta cuantiosa sustracción. Cámara exterior fue desconectada el viernes a las 19 horas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-16.29.23.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
