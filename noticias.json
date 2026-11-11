@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T15:50:20.950Z",
+ "generado": "2026-11-11T16:00:28.786Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/presidente-kast-paro-transportistas.html",
+   "titulo": "“Nos jugamos el futuro de Chile”: Presidente Kast por paralización de transportistas",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/09/kast-anuncia-presupuesto-2027-en-cadena-nacional-e1790811105328.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T16:00:28.786Z",
+   "visto": "2026-11-11T16:00:28.786Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/capacitan-funcionarios-reinsercion-juvenil-coronel.html",
    "titulo": "Capacitan a funcionarios del Servicio de Reinserción Social Juvenil en Coronel para fortalecer seguridad y protocolos de denuncia",
