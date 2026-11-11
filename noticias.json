@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T03:40:19.016Z",
+ "generado": "2026-11-11T04:30:25.585Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 149,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/unos-700-camioneros-se-movilizan-y-causan-cortes-de-ruta-en-bio-bio-hay-reunion-clave-este-miercoles.shtml",
+   "titulo": "Unos 700 camioneros se movilizan y causan cortes de ruta en Bío Bío: hay reunión clave este miércoles",
+   "resumen": "Bloqueos en Cabrero y en la autopista de ingreso a Concepción protagonizan camioneros que se sumaron en la región...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7014911-cntxt-rbb-por-unos-700-camioneros-se-movilizan-y-causan-cortes-de-ruta-en-bio-bio-hay-reunion-clave-este-miercoles.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-11T04:23:19.000Z",
+   "visto": "2026-11-11T04:30:25.585Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/primer-festival-naturaleza-conservacion-laguna-canicura.html",
    "titulo": "Comunidad y turismo regenerativo: lanzan 1° Festival de Naturaleza y Conservación en Cañicura",
@@ -1643,20 +1657,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/penco-balacera-playa-heridos.html",
-   "titulo": "Penco: balacera en playa deja cinco heridos, dos de ellos en situación de gravedad",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pdi-detiene-presunto-autor-homicidio-futbol-concepcion.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T14:20:23.913Z",
-   "visto": "2026-11-09T14:20:23.913Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
