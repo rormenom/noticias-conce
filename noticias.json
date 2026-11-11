@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T13:30:23.812Z",
+ "generado": "2026-11-11T13:40:32.171Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
+    "enlaces": 150,
     "leidas": 64,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 5,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/bloquean-acceso-a-puerto-san-vicente-camioneros-extienden-protestas-a-zonas-logisticas-en-talcahuano",
+   "titulo": "Bloquean acceso a Puerto San Vicente: camioneros extienden protestas a zonas logísticas en Talcahuano",
+   "resumen": "Las movilizaciones del sector de transporte de carga en la Región del Biobío sumaron un nuevo hito estratégico tras el bloqueo registrado en los accesos al Puerto San Vicente, en la comuna de Talcahuano. La acción busca impactar directamente en la cadena…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-11-at-09.11.41-e1794403762301.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T13:40:32.171Z",
+   "visto": "2026-11-11T13:40:32.171Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/paro-camioneros-taxis-evaluan-unirse.html",
    "titulo": "Paro de camioneros: taxis colectivos del Biobío evaluarán unirse a movilizaciones",
@@ -1681,20 +1695,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/09/camioneros-insuficiente-anuncio-kast-combustibles-movilizacion.html",
-   "titulo": "\"No es suficiente\": gremio de camioneros responde a propuesta del Ejecutivo por costo de combustibles",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/camioneros-insuficiente-anuncio-kast-combustibles-movilizacion.png",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-09T18:00:34.736Z",
-   "visto": "2026-11-09T18:00:34.736Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
