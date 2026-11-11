@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T22:20:20.495Z",
+ "generado": "2026-11-11T22:30:24.329Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 58,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/bci-fondos-clientes-resguardados-robo-concepcion.html",
+   "titulo": "Banco BCI por robo en Concepción: “fondos se encuentran a resguardo”",
+   "resumen": "Desde la institución recalcaron que los recursos se encuentran a resguardo y que ningún cliente ni trabajador resultó con lesiones durante el atraco ocurrido en una sucursal del centro penquista.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/robo-bci-concepcion-crisis-seguridad.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T22:30:24.329Z",
+   "visto": "2026-11-11T22:30:24.329Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/bio-bio-paro-de-camioneros-mantiene-cortes-en-ruta-146-y-se-suma-protesta-estudiantil-en-concepcion.shtml",
    "titulo": "Bío Bío: Paro de camioneros mantiene cortes en Ruta 146 y se suma protesta estudiantil en Concepción",
