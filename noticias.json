@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T13:50:22.530Z",
+ "generado": "2026-11-11T14:00:28.225Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
+    "enlaces": 147,
     "leidas": 65,
     "errores": 0,
     "robots": 0
@@ -135,6 +135,20 @@
    "cats": [
     "cultura",
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/11/noche-de-museos-en-el-biobio-panoramas-gratuitos-para-este-viernes/",
+   "titulo": "Noche de Museos en el Biobío: panoramas gratuitos para este viernes",
+   "resumen": "Por Florencia Muñoz Pérez",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/images-8-300x200.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-11T13:04:17.000Z",
+   "visto": "2026-11-11T14:00:28.225Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
