@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T18:00:29.662Z",
+ "generado": "2026-11-11T18:10:19.901Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 147,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 6,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/tome-carabinero-que-habia-sido-condenando-por-causa-de-estallido-social-es-absuelto-en-segundo-juicio.shtml",
+   "titulo": "Tomé: carabinero que había sido condenando por causa de estallido social es absuelto en segundo juicio",
+   "resumen": "En veredicto absolutorio terminó el segundo juicio contra un carabinero de Tomé -en la región del Bío Bío- acusado por...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7015743-carabinero.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-11T18:03:26.000Z",
+   "visto": "2026-11-11T18:10:19.901Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/yo-elijo-mi-pc-continuacion-programa.html",
    "titulo": "“Yo Elijo Mi PC”: Gobierno confirma reposición del programa tras críticas transversales",
@@ -1662,20 +1676,6 @@
    "titulo": "Enfrentamiento en una playa de Penco deja cinco heridos, tres de ellos por impactos de bala",
    "resumen": "Una balacera ocurrida este fin de semana en la playa de Penco, dejó cinco personas heridas. El tiroteo se produjo a plena luz del día, frente a los visitantes que se encontraban en el balneario. El incidente tuvo lugar en la zona costera, entre el Fuerte La…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-73.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T21:20:22.644Z",
-   "visto": "2026-11-09T21:20:22.644Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/fajos-de-20-mil-10-mil-y-euros-robo-a-banco-en-concepcion-podria-superar-los-5-mil-millones",
-   "titulo": "El robo a un banco en Concepción podría superar los $5 mil millones e incluyó fajos de $20 mil, $10 mil y euros",
-   "resumen": "El botín del millonario asalto a una sucursal del Banco BCI en Concepción podría superar los $5 mil millones. Según las autoridades, cerca de 10 personas habrían participado en el delito y, además, fueron cortados los cables de una cámara de seguridad ubicada…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/fajos-de-20-mil-10-mil-y-euros_-robo-a-banco-en-concepcion-podria-superar-los-5-mil-millones.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-09T21:20:22.644Z",
