@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T14:20:22.571Z",
+ "generado": "2026-11-11T14:30:27.296Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 65,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 34,
-    "leidas": 5,
+    "enlaces": 32,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/camioneros-bloquean-parcialmente-la-ruta-160-en-coronel-reportan-incidentes-y-danos-a-vehiculos-de-carga",
+   "titulo": "Camioneros bloquean parcialmente la Ruta 160 en Coronel: reportan incidentes y daños a vehículos de carga",
+   "resumen": "Una nueva jornada de movilizaciones de camioneros se desarrolla este miércoles 11 de noviembre en la Región del Biobío, donde cerca de 30 transportistas mantienen bloqueada una de las dos pistas de circulación de la Ruta 160, a la altura del kilómetro 18,5 en…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/coronel-foto.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T14:30:27.296Z",
+   "visto": "2026-11-11T14:30:27.296Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/ministro-quiroz-chile-recesion-privados-codelco.html",
    "titulo": "Ministro Quiroz reconoce que Chile está en “recesión técnica” y abre puerta a capital privado para Codelco",
@@ -1698,20 +1712,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/revelan-que-delincuentes-cortaron-camara-2-dias-antes-de-robo-de-3mil-millones-a-banco-en-concepcion",
-   "titulo": "Delincuentes desactivaron una cámara dos días antes del robo de $3 mil millones a un banco de Concepción",
-   "resumen": "La Municipalidad de Concepción dio a conocer imágenes registradas en los días anteriores al robo de más de $3 mil millones desde una sucursal del Banco BCI, situada en el centro de la ciudad. En ellas, se observa a personas cortando los cables de una cámara…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/revelan-que-sujetos-cortaron-camara-dos-dias-antes-de-robo-de-3-mil-millones-a-banco-en-concepcion.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T19:30:24.760Z",
-   "visto": "2026-11-09T19:30:24.760Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/09/premios-regionales-arte-y-cultura-biobio-nomina-ganadores-ganadoras-2026.html",
    "titulo": "Premios Regionales de Arte y Cultura del Biobío dan a conocer a sus ganadores 2026",
    "resumen": "Claudia Urbina, Viviana Medina, Sherezade Perdomo, Mario Sánchez, Fabiola González “La Chinganera” y Pablo Gaete fueron reconocidos en la versión 2026, un reconocimiento que distinguen en vida a quienes han realizado un aporte relevante y sostenido al…",
@@ -2766,21 +2766,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/tras-detenciones-por-mensajes-escritos-en-meta-ong-amaranta-recomienda-utilizar-aplicaciones-de-mensajeria-mas-seguras/",
-   "titulo": "Tras detenciones por mensajes escritos en Meta: ONG Amaranta recomienda utilizar aplicaciones más seguras",
-   "resumen": "En Chile, varias personas han sido detenidas por presuntas amenazas […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/instagram-whatsapp-and-facebook-768x512.webp",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-06T14:27:39.000Z",
-   "visto": "2026-11-07T01:09:47.326Z",
-   "cats": [
-    "regional",
-    "tecnologia"
    ],
    "local": true
   }
