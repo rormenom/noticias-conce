@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T21:30:24.475Z",
+ "generado": "2026-11-11T21:40:20.013Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 149,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/camara-aprueba-presupuesto-justicia-rabat.html",
+   "titulo": "Cámara aprueba partida de Justicia en medio de presiones opositoras por salida de Rabat",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camara-diputados-e1794432685821.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T21:40:20.013Z",
+   "visto": "2026-11-11T21:40:20.013Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/bus-con-carabineros-atropella-a-mujer-de-22-anos-en-pleno-centro-de-concepcion.shtml",
+   "titulo": "Bus con carabineros atropella a mujer de 22 años en pleno centro de Concepción",
+   "resumen": "Una mujer fue atropellada la tarde de este miércoles por un bus que transportaba a carabineros en pleno centro...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016095-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-11T21:37:17.000Z",
+   "visto": "2026-11-11T21:40:20.013Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/bci-presentara-querella-robo-sucursal-concepcion.html",
    "titulo": "BCI presentará querella contra responsables de robo a sucursal bancaria",
@@ -1569,20 +1597,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-10T09:00:28.040Z",
    "visto": "2026-11-10T09:00:28.040Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/camioneros-biobio-paro-combustibles.html",
-   "titulo": "Paro de camioneros amenaza el inicio de la temporada agrícola del Biobío",
-   "resumen": "Gremio productor advierte impacto directo en las cosechas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-paro-de-camioneros-en-ruta-5-sur-foto-cedida.jpg-e1794273079507.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
    "cats": [
     "regional"
    ],
