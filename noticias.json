@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T08:40:19.390Z",
+ "generado": "2026-11-11T09:00:27.077Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 8,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 1,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/unos-700-camioneros-se-movilizan-y-causan-cortes-de-ruta-en-bio-bio-hay-reunion-clave-este-miercoles",
+   "titulo": "Cerca de 700 camioneros protestan y generan cortes de ruta en Bío Bío; este miércoles habrá una reunión clave",
+   "resumen": "Camioneros que se unieron en la región del Bío Bío al paro nacional de distintos gremios del sector mantienen bloqueos en Cabrero y en la autopista de acceso a Concepción. Este miércoles se prevé una reunión entre tres agrupaciones gremiales, que podría ser…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cntxt-rbb-por-unos-700-camioneros-se-movilizan-y-causan-cortes-de-ruta-en-bio-bio-hay-reunion-clave-este-miercoles.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T09:00:27.077Z",
+   "visto": "2026-11-11T09:00:27.077Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/11/agro-paro-transportistas-impacto.html",
    "titulo": "Biobío: paro de camiones pone en riesgo cosechas de exportación y la cadena alimentaria",
@@ -1708,20 +1722,6 @@
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/requisitos-fechas-tarjeta-banco-materiales-minvu-biobio.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T15:10:20.984Z",
-   "visto": "2026-11-09T15:10:20.984Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/municipio-de-chiguayante-debe-pagar-10-millones-por-acoso-laboral-realizado-por-funcionario-de-la-das",
-   "titulo": "Chiguayante deberá pagar $10 millones por acoso laboral cometido por un funcionario de la DAS",
-   "resumen": "La justicia ordenó a la Municipalidad de Chiguayante pagar 10 millones de pesos por el acoso laboral cometido por un trabajador de la Dirección de Salud (DAS). El funcionario, quien también es dirigente gremial, habría sido apartado de sus funciones durante…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/municipalidad-de-chiguayante.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
    "fecha": "2026-11-09T15:10:20.984Z",
    "visto": "2026-11-09T15:10:20.984Z",
    "cats": [
