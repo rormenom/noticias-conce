@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T23:30:24.200Z",
+ "generado": "2026-11-11T23:40:20.662Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 58,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 149,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/micreros-de-lota-arauco-y-concepcion-se-suman-al-paro-y-anuncian-movilizacion-para-este-jueves.shtml",
+   "titulo": "Micreros de Lota, Arauco y Concepción se suman al paro y anuncian movilización para este jueves",
+   "resumen": "Micreros que realizan recorridos entre Lota y Concepción anunciaron movilizaciones para este jueves, adhiriéndose al paro nacional que mantienen...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016210-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-11T23:34:28.000Z",
+   "visto": "2026-11-11T23:40:20.662Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/atropello-bus-carabineros-salas-ohiggins-concepcion.html",
    "titulo": "Joven resulta lesionada tras ser atropellada por bus de Carabineros en el centro de Concepción",
@@ -2692,20 +2706,6 @@
    "visto": "2026-11-07T08:30:22.054Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/justicia-paraliza-caso-puerto-coronel-mientras-tc-resuelve-recurso-presentado-por-alcalde-chamorro.shtml",
-   "titulo": "Justicia paraliza caso Puerto Coronel mientras TC resuelve recurso presentado por alcalde Chamorro",
-   "resumen": "El caso Puerto Coronel quedó paralizado, luego de que el Juzgado de Garantía de Coronel resolviera suspender la totalidad del...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7010757-caso-puerto-coronel.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-06T23:33:13.000Z",
-   "visto": "2026-11-08T14:00:27.573Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
