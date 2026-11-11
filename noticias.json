@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T20:10:19.647Z",
+ "generado": "2026-11-11T20:57:13.562Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 60,
+    "enlaces": 149,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,42 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 30,
-    "leidas": 9,
+    "enlaces": 31,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/11/enap-confirma-alza-precios-diesel-bencinas.html",
+   "titulo": "ENAP confirma nueva alza: diésel sube $41,9 por litro desde este jueves",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2022/03/bencinas-mepco.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T20:57:13.562Z",
+   "visto": "2026-11-11T20:57:13.562Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/si-vives-en-una-de-estas-21-comunas-postula-a-un-aire-acondicionado-revisa-los-requisitos-a-cumplir",
+   "titulo": "Postula a un aire acondicionado si vives en alguna de estas 21 comunas: conoce los requisitos",
+   "resumen": "Las postulaciones al programa de recambio de calefactores del Ministerio del Medio Ambiente comenzaron a principios de noviembre. La iniciativa busca disminuir las emisiones contaminantes que produce la combustión residencial a leña. Según las condiciones del…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/recambio-de-calefactores.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T20:57:13.562Z",
+   "visto": "2026-11-11T20:57:13.562Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/bomberos-cerro-lo-galindo-robo-equipos.html",
    "titulo": "Concepción: Bomberos sufren robo de equipos de comunicaciones en Cerro Lo Galindo",
@@ -1617,34 +1645,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/sernapesca-advierte-riesgo-de-enfermedades-tras-aparicion-de-pinguino-en-la-costa-de-ramuntcho.html",
-   "titulo": "Sernapesca advierte riesgo de enfermedades tras aparición de pingüino en la costa de Ramuntcho",
-   "resumen": "Aunque el riesgo de contagio de influenza aviar en personas es bajo, las autoridades advierten que el contacto directo con aves silvestres puede generar exposición.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-pinguinos-de-Humbolt-en-pen%C3%ADnsula-de-Hualp%C3%A9n-foto-cedida-e1794271383247.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/10/embalse-zapallar-inicia-nueva-etapa-de-construccion-con-puesta-en-marcha-de-planta-chancadora/",
-   "titulo": "Embalse Zapallar inicia nueva etapa de construcción con puesta en marcha de planta chancadora",
-   "resumen": "Y perforación de túneles",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/embalse-punilla-planta-chancadora--768x432.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-10T07:33:27.000Z",
-   "visto": "2026-11-10T12:10:20.117Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/camara-aprueba-en-general-presupuesto-2027.html",
    "titulo": "Cámara de Diputados aprueba en general el Presupuesto 2027 en medio de una áspera sesión",
    "resumen": "Con 80 votos a favor y 63 en contra, la Sala visó el proyecto tras un tenso debate marcado por la suspensión de la sesión e impasses con Hacienda.",
@@ -2484,10 +2484,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
-   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
-   "resumen": "Especialistas advierten que sacar la lactancia materna exclusiva de las metas APS 2027 podría restarle prioridad, recursos y seguimiento.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-lactancia-materna-foto-cc-e1794015704556.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/investigador-local-fue-elegido-presidente-de-la-asociacion-chilena-de-paleontologia.html",
+   "titulo": "Investigador local fue elegido presidente de la Asociación Chilena de Paleontología",
+   "resumen": "El doctor Jaime Villafaña, académico de la Facultad de Ciencias de la Ucsc, recibió el nombramiento en el marco del Congreso Chileno de Paleontología 2026.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-Jaime-Villafa%C3%B1a-nuevo-presidente-Ascociacion-Chilena-de-Paleontologia-foto-cedida-Facultad-de-Ciencias-Ucsc-e1794016089867.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
@@ -2498,10 +2498,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/investigador-local-fue-elegido-presidente-de-la-asociacion-chilena-de-paleontologia.html",
-   "titulo": "Investigador local fue elegido presidente de la Asociación Chilena de Paleontología",
-   "resumen": "El doctor Jaime Villafaña, académico de la Facultad de Ciencias de la Ucsc, recibió el nombramiento en el marco del Congreso Chileno de Paleontología 2026.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-Jaime-Villafa%C3%B1a-nuevo-presidente-Ascociacion-Chilena-de-Paleontologia-foto-cedida-Facultad-de-Ciencias-Ucsc-e1794016089867.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
+   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
+   "resumen": "Especialistas advierten que sacar la lactancia materna exclusiva de las metas APS 2027 podría restarle prioridad, recursos y seguimiento.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-lactancia-materna-foto-cc-e1794015704556.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
