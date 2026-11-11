@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T14:10:22.753Z",
+ "generado": "2026-11-11T14:20:22.571Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 2,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
-    "leidas": 63,
+    "enlaces": 148,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -82,20 +82,6 @@
  ],
  "items": [
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/llegan-18-camiones-combustible-talcahuano-araucania.html",
-   "titulo": "18 camiones con combustible avastecen a La Araucanía desde Talcahuano ante paro nacional",
-   "resumen": "El operativo, coordinado entre las delegaciones del Biobío y La Araucanía junto a Carabineros, busca mitigar los efectos del paro de transportistas en los servicentros locales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-3.jpg-e1794405943967.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T14:10:22.753Z",
-   "visto": "2026-11-11T14:10:22.753Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/ministro-quiroz-chile-recesion-privados-codelco.html",
    "titulo": "Ministro Quiroz reconoce que Chile está en “recesión técnica” y abre puerta a capital privado para Codelco",
    "resumen": "",
@@ -106,6 +92,20 @@
    "visto": "2026-11-11T14:10:22.753Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/llegan-18-camiones-combustible-talcahuano-araucania.html",
+   "titulo": "18 camiones con combustible avastecen a La Araucanía desde Talcahuano ante paro nacional",
+   "resumen": "El operativo, coordinado entre las delegaciones del Biobío y La Araucanía junto a Carabineros, busca mitigar los efectos del paro de transportistas en los servicentros locales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-3.jpg-e1794405943967.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T14:10:22.753Z",
+   "visto": "2026-11-11T14:10:22.753Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
