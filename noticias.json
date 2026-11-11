@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T22:10:25.000Z",
+ "generado": "2026-11-11T22:20:20.495Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 58,
+    "enlaces": 149,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/bio-bio-paro-de-camioneros-mantiene-cortes-en-ruta-146-y-se-suma-protesta-estudiantil-en-concepcion.shtml",
+   "titulo": "Bío Bío: Paro de camioneros mantiene cortes en Ruta 146 y se suma protesta estudiantil en Concepción",
+   "resumen": "El tránsito hacia Concepción fue reabierto durante la tarde de este miércoles en el sector Juan Riquelme en la Ruta...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016129-agenciauno-cedida.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-11T22:13:43.000Z",
+   "visto": "2026-11-11T22:20:20.495Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/11/bus-con-carabineros-atropella-a-mujer-de-22-anos-en-pleno-centro-de-concepcion",
    "titulo": "Bus que transportaba a carabineros atropella a una joven de 22 años en el centro de Concepción",
@@ -1602,20 +1616,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/penalista-asegura-que-hablar-de-asociacion-criminal-por-robo-en-banco-de-concepcion-es-especular",
-   "titulo": "Penalista asegura que hablar de asociación criminal por robo en banco de Concepción es especular",
-   "resumen": "El millonario robo reportado este domingo en el Banco BCI de Concepción abrió el debate entre abogados sobre las penas que arriesgarían los responsables. Penalistas consultados coinciden en que, con los antecedentes conocidos hasta ahora, se trataría de un…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-09-at-08.50.39.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T10:30:25.513Z",
-   "visto": "2026-11-10T10:30:25.513Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/10/seremi-de-vivienda-promete-habilitar-en-febrero-el-corredor-de-avenida-colon-en-hualpen",
    "titulo": "Seremi de Vivienda promete habilitar en febrero el corredor de avenida Colón en Hualpén",
    "resumen": "Vecinos de Hualpén reclaman por el lento avance de las obras del corredor de transporte público de avenida Colón, un tramo de unos dos kilómetros entre Los Copihues y Golondrinas, intervenido desde mayo de 2023. Autoridades y residentes se refirieron al…",
@@ -2540,10 +2540,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
-   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
-   "resumen": "Especialistas advierten que sacar la lactancia materna exclusiva de las metas APS 2027 podría restarle prioridad, recursos y seguimiento.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-lactancia-materna-foto-cc-e1794015704556.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/investigador-local-fue-elegido-presidente-de-la-asociacion-chilena-de-paleontologia.html",
+   "titulo": "Investigador local fue elegido presidente de la Asociación Chilena de Paleontología",
+   "resumen": "El doctor Jaime Villafaña, académico de la Facultad de Ciencias de la Ucsc, recibió el nombramiento en el marco del Congreso Chileno de Paleontología 2026.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-Jaime-Villafa%C3%B1a-nuevo-presidente-Ascociacion-Chilena-de-Paleontologia-foto-cedida-Facultad-de-Ciencias-Ucsc-e1794016089867.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
@@ -2554,10 +2554,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/investigador-local-fue-elegido-presidente-de-la-asociacion-chilena-de-paleontologia.html",
-   "titulo": "Investigador local fue elegido presidente de la Asociación Chilena de Paleontología",
-   "resumen": "El doctor Jaime Villafaña, académico de la Facultad de Ciencias de la Ucsc, recibió el nombramiento en el marco del Congreso Chileno de Paleontología 2026.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-Jaime-Villafa%C3%B1a-nuevo-presidente-Ascociacion-Chilena-de-Paleontologia-foto-cedida-Facultad-de-Ciencias-Ucsc-e1794016089867.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/07/de-meta-sanitaria-a-voluntad-de-equipos-alerta-por-cambios-en-lactancia-materna-para-la-aps.html",
+   "titulo": "De meta sanitaria a voluntad de equipos: alerta por cambios en lactancia materna para la APS",
+   "resumen": "Especialistas advierten que sacar la lactancia materna exclusiva de las metas APS 2027 podría restarle prioridad, recursos y seguimiento.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-lactancia-materna-foto-cc-e1794015704556.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T08:40:20.552Z",
