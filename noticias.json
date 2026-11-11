@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T22:50:19.385Z",
+ "generado": "2026-11-11T23:20:26.584Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 57,
+    "enlaces": 151,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 13,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
@@ -204,6 +204,20 @@
    "visto": "2026-11-11T21:08:35.581Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/11/autoridades-comparten-el-triunfo-presupuestario-tras-defensa-conjunta-por-nuble/",
+   "titulo": "Autoridades comparten el triunfo presupuestario tras defensa conjunta por Ñuble",
+   "resumen": "El logro se instala como un ejemplo de articulación política: la defensa coordinada de los fondos demostró que las demandas de Ñuble tienen más peso cuando se presentan en bloque.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/presupuesto-ñuble-gore-alcaldes-consejeros--768x512.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-11T21:08:07.000Z",
+   "visto": "2026-11-11T23:20:26.584Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -866,6 +880,20 @@
    "visto": "2026-11-11T08:40:19.390Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/11/arturo-fernandez-vial-jugara-ante-puente-alto-este-sabado-en-collao/",
+   "titulo": "Arturo Fernández Vial jugará ante Puente Alto este sábado en Collao",
+   "resumen": "Partido de Ida.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/08/afvial-vs-baparral-768x431.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-11T08:17:36.000Z",
+   "visto": "2026-11-11T23:20:26.584Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1591,20 +1619,6 @@
    "titulo": "Camioneros del Bío Bío se movilizan en diferentes puntos del Gran Concepción por constante alza de combustibles",
    "resumen": "El gremio de transportistas de carga inició una serie de movilizaciones en la Región del Biobío en protesta por el constante incremento en el precio de los combustibles, afectando diversos puntos neurálgicos del Gran Concepción. La paralización, que comenzó a…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-10-at-08.46.32-e1794311620618.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T12:00:27.338Z",
-   "visto": "2026-11-10T12:00:27.338Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/solo-una-asociacion-criminal-detras-del-robo-de-banco-en-concepcion-aumentaria-eventuales-penas",
-   "titulo": "La existencia de una asociación criminal tras el asalto bancario en Concepción podría agravar las penas",
-   "resumen": "Quienes sean responsables de sustraer a lo menos 5 mil millones de pesos desde el Banco BCI de Concepción podrían recibir entre 541 días y cinco años de cárcel, según las penas que enfrentan por el robo. La sanción podría ser mayor únicamente si la Fiscalía…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/robo-banco-concepcion.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-10T12:00:27.338Z",
