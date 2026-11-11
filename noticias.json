@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T17:00:27.690Z",
+ "generado": "2026-11-11T17:20:20.301Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 63,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 7,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/noche-museos-biobio-20-espacios-37-actividades.html",
+   "titulo": "Noche de Museos vuelve a Biobío con más de 20 espacios y 37 actividades gratuitas",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/noche-de-museos.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T17:20:20.301Z",
+   "visto": "2026-11-11T17:20:20.301Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.html",
+   "titulo": "“Uno de los mayores robos a nivel país”: confirman sustracción de más de $8.500 millones tras forado a banco en Concepción",
+   "resumen": "El arqueo oficial cifró la sustracción en cerca de $8.520 millones, US$80 mil y 30 mil euros tras un forado de 60 centímetros en un muro colindante.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T17:20:20.301Z",
+   "visto": "2026-11-11T17:20:20.301Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/11/robo-al-bci-en-concepcion-botin-supera-los-8-500-millones-y-se-convierte-en-el-mayor-robo-bancario-en-la-historia-del-pais",
    "titulo": "El mayor robo a un banco en Chile: monto sustraído a BCI de Concepción asciende a $8.520 millones",
@@ -209,20 +237,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/llegan-18-camiones-combustible-talcahuano-araucania.html",
-   "titulo": "18 camiones con combustible avastecen a La Araucanía desde Talcahuano ante paro nacional",
-   "resumen": "El operativo, coordinado entre las delegaciones del Biobío y La Araucanía junto a Carabineros, busca mitigar los efectos del paro de transportistas en los servicentros locales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-3.jpg-e1794405943967.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T14:10:22.753Z",
-   "visto": "2026-11-11T14:10:22.753Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/ministro-quiroz-chile-recesion-privados-codelco.html",
    "titulo": "Ministro Quiroz reconoce que Chile está en “recesión técnica” y abre puerta a capital privado para Codelco",
    "resumen": "",
@@ -233,6 +247,20 @@
    "visto": "2026-11-11T14:10:22.753Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/llegan-18-camiones-combustible-talcahuano-araucania.html",
+   "titulo": "18 camiones con combustible avastecen a La Araucanía desde Talcahuano ante paro nacional",
+   "resumen": "El operativo, coordinado entre las delegaciones del Biobío y La Araucanía junto a Carabineros, busca mitigar los efectos del paro de transportistas en los servicentros locales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-3.jpg-e1794405943967.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T14:10:22.753Z",
+   "visto": "2026-11-11T14:10:22.753Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1638,20 +1666,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-09T21:20:22.644Z",
    "visto": "2026-11-09T21:20:22.644Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/camioneros-ruta-5-sur-recoleccion-basura-santa-barbara.html",
-   "titulo": "Paro de camioneros impacta retiro de basura en Santa Bárbara por cortes en la Ruta 5 Sur",
-   "resumen": "El bloqueo en la Ruta 5 Sur frenó el paso de camiones al relleno Laguna Verde, obligando a suspender el servicio rural y reprogramar el área urbana.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/paro-camioneros-ruta-5-sur-recoleccion-basura-santa-barbara.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T20:59:45.756Z",
-   "visto": "2026-11-09T20:59:45.756Z",
    "cats": [
     "regional"
    ],
