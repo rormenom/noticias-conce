@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T17:20:20.301Z",
+ "generado": "2026-11-11T17:30:26.317Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 62,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -82,20 +82,6 @@
  ],
  "items": [
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/noche-museos-biobio-20-espacios-37-actividades.html",
-   "titulo": "Noche de Museos vuelve a Biobío con más de 20 espacios y 37 actividades gratuitas",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/noche-de-museos.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T17:20:20.301Z",
-   "visto": "2026-11-11T17:20:20.301Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.html",
    "titulo": "“Uno de los mayores robos a nivel país”: confirman sustracción de más de $8.500 millones tras forado a banco en Concepción",
    "resumen": "El arqueo oficial cifró la sustracción en cerca de $8.520 millones, US$80 mil y 30 mil euros tras un forado de 60 centímetros en un muro colindante.",
@@ -106,6 +92,20 @@
    "visto": "2026-11-11T17:20:20.301Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/noche-museos-biobio-20-espacios-37-actividades.html",
+   "titulo": "Noche de Museos vuelve a Biobío con más de 20 espacios y 37 actividades gratuitas",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/noche-de-museos.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T17:20:20.301Z",
+   "visto": "2026-11-11T17:20:20.301Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
