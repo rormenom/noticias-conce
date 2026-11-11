@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T15:10:20.833Z",
+ "generado": "2026-11-11T15:30:25.446Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
+    "enlaces": 149,
     "leidas": 64,
     "errores": 0,
     "robots": 0
@@ -392,20 +392,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/presupuesto-2027-reposiciones-indicaciones-biobio.html",
-   "titulo": "Reposiciones e indicaciones pendientes: los ejes del Presupuesto 2027 para el Biobío",
-   "resumen": "La discusión particular en Sala pondrá a prueba la capacidad de Hacienda para sostener su borrador. Parlamentarios locales advierten que la restitución de recursos no basta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sala-camara-diputados-e1794357603776.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T08:40:19.390Z",
-   "visto": "2026-11-11T08:40:19.390Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/robo-bancos-biobio-concepcion-historial-atracos.html",
    "titulo": "De túneles a forados: los robos bancarios registrados en el Biobío en los últimos 14 años",
    "resumen": "El atraco a la sucursal BCI de Concepción, cuyo botín fue estimado en al menos $4.000 millones, se suma a una serie de delitos consumados y frustrados que han afectado a entidades bancarias de la zona desde 2012.",
@@ -416,6 +402,20 @@
    "visto": "2026-11-11T08:40:19.390Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/presupuesto-2027-reposiciones-indicaciones-biobio.html",
+   "titulo": "Reposiciones e indicaciones pendientes: los ejes del Presupuesto 2027 para el Biobío",
+   "resumen": "La discusión particular en Sala pondrá a prueba la capacidad de Hacienda para sostener su borrador. Parlamentarios locales advierten que la restitución de recursos no basta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sala-camara-diputados-e1794357603776.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T08:40:19.390Z",
+   "visto": "2026-11-11T08:40:19.390Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
