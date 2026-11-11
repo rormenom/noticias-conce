@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T15:30:25.446Z",
+ "generado": "2026-11-11T15:50:20.950Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 64,
+    "enlaces": 148,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/capacitan-funcionarios-reinsercion-juvenil-coronel.html",
+   "titulo": "Capacitan a funcionarios del Servicio de Reinserción Social Juvenil en Coronel para fortalecer seguridad y protocolos de denuncia",
+   "resumen": "La instancia formativa, impulsada por las seremías y el Ministerio Público en el Centro Cerrado de Coronel, buscó unificar criterios de actuación y resguardar la seguridad de trabajadores y jóvenes infractores.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-34-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T15:50:20.950Z",
+   "visto": "2026-11-11T15:50:20.950Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/11/jornada-regional-del-programa-lazos-reune-a-comunas-para-fortalecer-la-prevencion-de-conductas-de-riesgo/",
    "titulo": "Jornada Regional del Programa Lazos reúne a comunas para fortalecer la prevención de conductas de riesgo",
@@ -898,12 +912,12 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/camioneros-bloqueo-parcial-ruta-146-juan-riquelme.html",
-   "titulo": "Camioneros mantienen una sola pista habilitada en la Ruta 146 a la altura de Juan Riquelme",
-   "resumen": "Un convoy de camiones bloqueó parcialmente la Ruta 146 hacia Concepción, dejando una sola pista habilitada por alza de combustibles.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-bloqueo-parcial-ruta-146-juan-riquelme.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
+   "url": "https://www.canal9.cl/episodios/2026/11/10/feria-laboral-inacap-cpc-2026-busca-impulsar-20-mil-nuevas-contrataciones",
+   "titulo": "Feria Laboral INACAP–CPC 2026 busca impulsar 20 mil nuevas contrataciones",
+   "resumen": "Con cerca de 400 empresas participantes, INACAP lleva a cabo la 18.ª versión de la Feria Laboral INACAP–CPC 2026, iniciativa que este año tiene como principal hito la Cruzada X el Empleo, cuyo objetivo es impulsar 20 mil nuevas contrataciones en Chile. La…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Feria-Laboral-INACAP%E2%80%93CPC-2026.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
    "fecha": "2026-11-10T17:00:26.665Z",
    "visto": "2026-11-10T17:00:26.665Z",
    "cats": [
@@ -912,12 +926,12 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/feria-laboral-inacap-cpc-2026-busca-impulsar-20-mil-nuevas-contrataciones",
-   "titulo": "Feria Laboral INACAP–CPC 2026 busca impulsar 20 mil nuevas contrataciones",
-   "resumen": "Con cerca de 400 empresas participantes, INACAP lleva a cabo la 18.ª versión de la Feria Laboral INACAP–CPC 2026, iniciativa que este año tiene como principal hito la Cruzada X el Empleo, cuyo objetivo es impulsar 20 mil nuevas contrataciones en Chile. La…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Feria-Laboral-INACAP%E2%80%93CPC-2026.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/camioneros-bloqueo-parcial-ruta-146-juan-riquelme.html",
+   "titulo": "Camioneros mantienen una sola pista habilitada en la Ruta 146 a la altura de Juan Riquelme",
+   "resumen": "Un convoy de camiones bloqueó parcialmente la Ruta 146 hacia Concepción, dejando una sola pista habilitada por alza de combustibles.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-bloqueo-parcial-ruta-146-juan-riquelme.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T17:00:26.665Z",
    "visto": "2026-11-10T17:00:26.665Z",
    "cats": [
@@ -1650,20 +1664,6 @@
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-09T20:50:21.069Z",
-   "visto": "2026-11-09T20:50:21.069Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/fajos-de-20-mil-10-mil-y-euros-robo-a-banco-en-concepcion-podria-superar-los-5-mil-millones.shtml",
-   "titulo": "Fajos de $20 mil, $10 mil y euros: robo a banco en Concepción podría superar los $5 mil millones",
-   "resumen": "A más de $5 mil millones podría ascender el monto sustraído en el millonario robo a una sucursal del...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013078-fajos-de-20-mil-10-mil-y-euros_-robo-a-banco-en-concepcion-podria-superar-los-5-mil-millones.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-09T20:47:12.000Z",
    "visto": "2026-11-09T20:50:21.069Z",
    "cats": [
     "regional"
