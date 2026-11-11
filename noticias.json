@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T09:10:20.853Z",
+ "generado": "2026-11-11T10:50:20.214Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 61,
+    "enlaces": 146,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 9,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/tension-por-el-paro-grandes-confederaciones-de-camioneros-se-reunen-en-bio-bio-para-definir-postura",
+   "titulo": "Confederaciones de camioneros se reúnen en Bío Bío para fijar postura ante el paro",
+   "resumen": "Este miércoles tendrá lugar una relevante cita gremial en la región del Bío Bío, mientras continúan en varios puntos del país las protestas de camioneros y otros grupos ante el aumento del precio de los combustibles. La convocatoria corresponde a una Asamblea…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-43.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T10:50:20.214Z",
+   "visto": "2026-11-11T10:50:20.214Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/11/robo-a-banco-bci-evidencio-falencias-en-monitoreo-de-camaras-de-seguridad-en-concepcion",
    "titulo": "Robo a banco BCI evidenció falencias en monitoreo de cámaras de seguridad en Concepción",
