@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T09:00:27.077Z",
+ "generado": "2026-11-11T09:10:20.853Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 148,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 34,
+    "enlaces": 35,
     "leidas": 9,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/robo-a-banco-bci-evidencio-falencias-en-monitoreo-de-camaras-de-seguridad-en-concepcion",
+   "titulo": "Robo a banco BCI evidenció falencias en monitoreo de cámaras de seguridad en Concepción",
+   "resumen": "El robo a una sucursal bancaria en el Bío Bío sigue sin detenidos ni rastro del dinero. El fiscal regional Roberto Garrido, el alcalde de Concepción, Héctor Muñoz, y otras autoridades se refirieron al monto sustraído, al corte de una cámara de seguridad y a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-09-at-08.50.39-1.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T09:10:20.853Z",
+   "visto": "2026-11-11T09:10:20.853Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/fiscalia-formalizo-por-homicidio-a-imputados-por-atropello-y-abandono-de-adulto-mayor-en-tirua",
+   "titulo": "Fiscalía formalizó por homicidio a imputados por atropello y abandono de adulto mayor en Tirúa",
+   "resumen": "Dos hombres quedaron en prisión preventiva tras ser imputados por el atropello de un adulto mayor de 73 años en el sector de San Carlos de Tirúa, quien murió en un centro asistencial. El fiscal jefe de Cañete, Danilo Ramos, entregó el detalle de los hechos y…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/imputado.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T09:10:20.853Z",
+   "visto": "2026-11-11T09:10:20.853Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/11/unos-700-camioneros-se-movilizan-y-causan-cortes-de-ruta-en-bio-bio-hay-reunion-clave-este-miercoles",
    "titulo": "Cerca de 700 camioneros protestan y generan cortes de ruta en Bío Bío; este miércoles habrá una reunión clave",
@@ -1712,20 +1740,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/09/postular-tarjeta-banco-materiales-minvu.html",
-   "titulo": "Ya puedes postular: conoce cómo acceder a la Tarjeta Banco de Materiales 2.0 para reparar tu hogar",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/requisitos-fechas-tarjeta-banco-materiales-minvu-biobio.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T15:10:20.984Z",
-   "visto": "2026-11-09T15:10:20.984Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
