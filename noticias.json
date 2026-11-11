@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T21:50:22.211Z",
+ "generado": "2026-11-11T22:00:27.641Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/11/habitar-el-cerebro-cicat-ano-del-cerebro-2026.html",
+   "titulo": "Ciencia interactiva en Biobío: proyecto “Habitar el Cerebro” abrirá sus puertas a escolares y familias",
+   "resumen": "El 20 y 21 de noviembre el CICAT albergará estaciones sobre emociones, memoria y percepción en el marco del Año del Cerebro 2026.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/habitar-el-cerebro-cicat-ano-del-cerebro-2026.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T22:00:27.641Z",
+   "visto": "2026-11-11T22:00:27.641Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/camara-aprueba-presupuesto-justicia-rabat.html",
    "titulo": "Cámara aprueba partida de Justicia en medio de presiones opositoras por salida de Rabat",
