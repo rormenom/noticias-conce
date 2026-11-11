@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T19:10:21.816Z",
+ "generado": "2026-11-11T20:10:19.647Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 58,
     "leidas": 1,
     "errores": 0,
     "robots": 0
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 59,
+    "enlaces": 153,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/bomberos-cerro-lo-galindo-robo-equipos.html",
+   "titulo": "Concepción: Bomberos sufren robo de equipos de comunicaciones en Cerro Lo Galindo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2024/02/WhatsApp-Image-2024-02-03-at-21.33.48.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T20:10:19.647Z",
+   "visto": "2026-11-11T20:10:19.647Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/11/problemas-para-vial-dos-fechas-de-castigo-para-una-de-sus-grandes-figuras.html",
    "titulo": "Problemas para Vial: dos fechas de castigo para una de sus grandes figuras",
@@ -1625,20 +1639,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-10T07:33:27.000Z",
    "visto": "2026-11-10T12:10:20.117Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/10/obras-del-eje-colon-en-hualpen-alcanzan-un-92-de-avance/",
-   "titulo": "Obras del Eje Colón en Hualpén alcanzan un 92% de avance",
-   "resumen": "Y proyectan habilitarlo en febrero.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/avance-obras-eje-colon-hualpen--768x431.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-10T07:07:04.000Z",
-   "visto": "2026-11-10T12:40:20.471Z",
    "cats": [
     "regional"
    ],
