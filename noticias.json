@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T17:10:21.487Z",
+ "generado": "2026-11-12T17:20:21.600Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 58,
-    "leidas": 1,
+    "enlaces": 57,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 18,
-    "leidas": 0,
+    "enlaces": 17,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 152,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 29,
+    "enlaces": 28,
     "leidas": 10,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/12/basurales-en-el-cerro-la-u-vecinos-alertan-riesgo-de-incendio-en-historico-sitio-de-talcahuano.html",
+   "titulo": "Basurales en el cerro La U: vecinos alertan riesgo de incendio en histórico sitio de Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-6-basural-Cerro-U-en-Talcahuano-foto-Enrique-Zamora-e1794503824462.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-12T17:20:21.600Z",
+   "visto": "2026-11-12T17:20:21.600Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/video-muestra-como-conductores-frustran-robo-de-auto-en-penco-delincuente-huyo-a-pie-por-la-autopista.shtml",
+   "titulo": "Video muestra cómo conductores frustran robo de auto en Penco: delincuente huyó a pie por la autopista",
+   "resumen": "Un confuso incidente se registró en la Ruta 150 a la altura del mirador de Lirquén, en la región del...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7017081-foto-contexto-nota-bbcl-95.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-12T17:16:52.000Z",
+   "visto": "2026-11-12T17:20:21.600Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/pdi-detiene-imputados-incendio-los-alamos.html",
    "titulo": "Los Álamos: dos detenidos por quema intencional de bus y camión del Departamento de Educación",
@@ -1157,20 +1185,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.html",
-   "titulo": "“Uno de los mayores robos a nivel país”: confirman sustracción de más de $8.500 millones tras forado a banco en Concepción",
-   "resumen": "El arqueo oficial cifró la sustracción en cerca de $8.520 millones, US$80 mil y 30 mil euros tras un forado de 60 centímetros en un muro colindante.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T17:20:20.301Z",
-   "visto": "2026-11-11T17:20:20.301Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/noche-museos-biobio-20-espacios-37-actividades.html",
    "titulo": "Noche de Museos vuelve a Biobío con más de 20 espacios y 37 actividades gratuitas",
    "resumen": "",
@@ -1181,6 +1195,20 @@
    "visto": "2026-11-11T17:20:20.301Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.html",
+   "titulo": "“Uno de los mayores robos a nivel país”: confirman sustracción de más de $8.500 millones tras forado a banco en Concepción",
+   "resumen": "El arqueo oficial cifró la sustracción en cerca de $8.520 millones, US$80 mil y 30 mil euros tras un forado de 60 centímetros en un muro colindante.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T17:20:20.301Z",
+   "visto": "2026-11-11T17:20:20.301Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1504,34 +1532,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-11T12:40:19.430Z",
    "visto": "2026-11-11T12:40:19.430Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/camioneros-canete-paro-nacional.html",
-   "titulo": "Cañete: camioneros se suman a manifestación nacional en acceso norte",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PARO-CA%C3%91ETE.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T12:40:19.430Z",
-   "visto": "2026-11-11T12:40:19.430Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/las-falencias-en-monitoreo-de-camaras-de-seguridad-que-dejo-al-descubierto-robo-a-banco-en-concepcion.shtml",
-   "titulo": "Las falencias en monitoreo de cámaras de seguridad que dejó al descubierto robo a banco en Concepción",
-   "resumen": "Falencias en el monitoreo de las cámaras de seguridad quedaron al descubierto tras el millonario robo que afectó al Banco...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7014951-robo-banco-concepcion-3.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-11T11:29:22.000Z",
-   "visto": "2026-11-11T11:30:22.977Z",
    "cats": [
     "regional"
    ],
