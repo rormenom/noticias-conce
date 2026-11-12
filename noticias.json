@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T14:20:27.797Z",
+ "generado": "2026-11-12T14:30:23.692Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 62,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 31,
-    "leidas": 8,
+    "enlaces": 32,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/violento-asalto-a-farmacia-comunitaria-en-el-sector-collao-de-concepcion",
+   "titulo": "Violento asalto a farmacia comunitaria en el sector Collao de Concepción",
+   "resumen": "Durante la tarde del día de ayer, pasada las 19:00 horas, al menos dos sujetos encapuchados protagonizaron un violento asalto en una farmacia comunitaria y centro odontológico ubicado en la calle General Novoa, en el sector Collao de Concepción. De acuerdo…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-12-at-10.41.48-e1794493473175.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T14:30:23.692Z",
+   "visto": "2026-11-12T14:30:23.692Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/transporte-escolar-moviliza-talcahuano-alza-combustible.html",
    "titulo": "Más de 46 furgones: transporte escolar se moviliza en Talcahuano por alza del combustible",
@@ -1682,20 +1696,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-10T18:44:43.000Z",
    "visto": "2026-11-10T18:50:21.288Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/10/plan-chile-despega-mop-inicio-el-100-de-las-licitaciones-que-permitiran-crear-mas-de-2-300-empleos/",
-   "titulo": "MOP Biobío inició el 100% de las licitaciones que permitirán crear más de 2.300 empleos",
-   "resumen": "Plan Chile Despega: A casi un mes de anunciado el plan de gobierno, el Ministerio de Obras Públicas ya publicó los llamados a licitación de un total de 28 contratos de obras en el Biobío por un monto cercano a los $37 mil millones.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/liceo-canete-2-768x576.jpeg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-10T18:36:10.000Z",
-   "visto": "2026-11-10T22:30:22.669Z",
    "cats": [
     "regional"
    ],
