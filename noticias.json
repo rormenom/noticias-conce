@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T15:10:23.228Z",
+ "generado": "2026-11-12T15:20:22.245Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 61,
+    "enlaces": 150,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,56 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 9,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/la-golpearon-y-subieron-videos-a-rrss-formalizan-a-2-mujeres-por-secuestro-de-adolescente-en-cabrero",
+   "titulo": "Dos mujeres son formalizadas por secuestrar y agredir a una adolescente en Cabrero; difunden videos en redes sociales",
+   "resumen": "Dos mujeres de 21 y 22 años fueron enviadas a prisión preventiva luego de ser formalizadas por mantener retenida y agredir a una adolescente de 17 años en Cabrero. El incidente ocurrió el 20 de octubre. Ese día, la adolescente llegó a una vivienda del sector…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/formalizacion-imputadas-secuestro-adolescente-cabrero.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T15:20:22.245Z",
+   "visto": "2026-11-12T15:20:22.245Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/corma-asegura-que-paro-de-camiones-obligo-a-pymes-a-suspender-produccion-por-falta-de-materia-prima.shtml",
+   "titulo": "Corma asegura que paro de camiones obligó a pymes a suspender producción por falta de materia prima",
+   "resumen": "La paralización de transportistas y los bloqueos de rutas ya provocan efectos en la pequeña y mediana industria maderera. Algunas...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016811-foto-contexto-nota-bbcl-92.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-12T15:13:04.000Z",
+   "visto": "2026-11-12T15:20:22.245Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/caso-puerto-coronel-tc-acoge-requerimiento-de-alcalde-chamorro-para-evitar-suspension-de-su-cargo.shtml",
+   "titulo": "Caso Puerto Coronel: TC acoge requerimiento de alcalde Chamorro para evitar suspensión de su cargo",
+   "resumen": "El Tribunal Constitucional (TC) dio a lugar el requerimiento presentado por el alcalde de Coronel, Boris Chamorro, quien buscaba evitar...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016771-alcalde-boris-chamorro.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-12T15:12:03.000Z",
+   "visto": "2026-11-12T15:20:22.245Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/12/talcahuano-protesta-en-liceo-a-21-tras-suspension-de-licenciatura-por-amenazas",
    "titulo": "Talcahuano: estudiantes y apoderados protesta en Liceo A-21 tras suspensión de licenciatura por amenazas",
@@ -1576,20 +1619,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/pensando-en-odesur-2030-comision-evaluadora-visito-infraestructura-deportiva-de-region-del-bio-bio",
-   "titulo": "Comisión de Odesur 2030 recorrió instalaciones deportivas de la Región del Biobío",
-   "resumen": "Con la vista puesta en 2030, la Comisión Evaluadora de la Organización Deportiva Suramericana (Odesur) llegó al Bío Bío para revisar la candidatura de la región a ser sede de los Juegos Suramericanos dentro de cuatro años. En septiembre de este año, el Comité…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/delegacion-odesur-visito-region-del-bio-bio-postulacion-juegos-2030.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T22:20:19.622Z",
-   "visto": "2026-11-10T22:20:19.622Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/presion-legislativa-combustibles-transportistas.html",
    "titulo": "Paro de camioneros: ofensiva legislativa busca eliminar impuesto específico y blindar contratos de transportistas",
    "resumen": "Mientras diputados buscan suprimir el impuesto específico, el senador Saavedra urgió despachar la ley que fija pagos a 30 días y tarifas por kilómetro.",
@@ -1628,20 +1657,6 @@
    "visto": "2026-11-10T22:00:27.752Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/lota-robo-instrumentos-musicales-iglesia.html",
-   "titulo": "Lota: detienen a sujeto por robar instrumentos musicales y equipos de una iglesia",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-10-at-5.24.55-PM-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T20:50:20.697Z",
-   "visto": "2026-11-10T20:50:20.697Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
