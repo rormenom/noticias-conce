@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T16:40:22.769Z",
+ "generado": "2026-11-12T17:10:21.487Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 153,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/pdi-detiene-imputados-incendio-los-alamos.html",
+   "titulo": "Los Álamos: dos detenidos por quema intencional de bus y camión del Departamento de Educación",
+   "resumen": "El ataque afectó a un bus y un camión del Departamento de Educación el 9 de noviembre. El adulto quedó en prisión preventiva tras formalización.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pdi-detiene-imputados-incendio-los-alamos.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T17:10:21.487Z",
+   "visto": "2026-11-12T17:10:21.487Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/gobierno-se-reune-con-camioneros-movilizados-en-el-puerto-de-san-vicente-y-aborda-medidas-anunciadas-por-el-ejecutivo/",
    "titulo": "Gobierno se reúne con camioneros movilizados en el Puerto de San Vicente y aborda medidas anunciadas por el Ejecutivo",
@@ -425,12 +439,12 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/coronel-hombre-asesinado-homicidios-biobio.html",
-   "titulo": "Hombre muere tras ser baleado en Coronel: Biobío suma 72 homicidios en el año",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pdi-descarta-terceros-joven-fallecida-concepcion.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
+   "url": "https://www.canal9.cl/episodios/2026/11/12/juan-riquelme-continua-paro-de-camiones-en-tercera-jornada-de-movilizaciones",
+   "titulo": "Juan Riquelme: continúa paro de camiones en tercera jornada de movilizaciones en Bío Bío",
+   "resumen": "Se cumple el tercer día de movilizaciones de camioneros en el Gran Concepción, específicamente en el sector de Juan Riquelme, ruta Concepción-Cabrero, donde cerca de 60 camiones se mantienen apostados a los costados de la calzada. La protesta, originada en…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/MOPNOS-JUAN-RIQUELME-2-e1794484782673.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
    "fecha": "2026-11-12T12:10:23.453Z",
    "visto": "2026-11-12T12:10:23.453Z",
    "cats": [
@@ -439,12 +453,12 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/juan-riquelme-continua-paro-de-camiones-en-tercera-jornada-de-movilizaciones",
-   "titulo": "Juan Riquelme: continúa paro de camiones en tercera jornada de movilizaciones en Bío Bío",
-   "resumen": "Se cumple el tercer día de movilizaciones de camioneros en el Gran Concepción, específicamente en el sector de Juan Riquelme, ruta Concepción-Cabrero, donde cerca de 60 camiones se mantienen apostados a los costados de la calzada. La protesta, originada en…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/MOPNOS-JUAN-RIQUELME-2-e1794484782673.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/coronel-hombre-asesinado-homicidios-biobio.html",
+   "titulo": "Hombre muere tras ser baleado en Coronel: Biobío suma 72 homicidios en el año",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pdi-descarta-terceros-joven-fallecida-concepcion.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T12:10:23.453Z",
    "visto": "2026-11-12T12:10:23.453Z",
    "cats": [
@@ -1518,20 +1532,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-11T11:29:22.000Z",
    "visto": "2026-11-11T11:30:22.977Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/tension-por-el-paro-grandes-confederaciones-de-camioneros-se-reunen-en-bio-bio-para-definir-postura",
-   "titulo": "Confederaciones de camioneros se reúnen en Bío Bío para fijar postura ante el paro",
-   "resumen": "Este miércoles tendrá lugar una relevante cita gremial en la región del Bío Bío, mientras continúan en varios puntos del país las protestas de camioneros y otros grupos ante el aumento del precio de los combustibles. La convocatoria corresponde a una Asamblea…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-43.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T10:50:20.214Z",
-   "visto": "2026-11-11T10:50:20.214Z",
    "cats": [
     "regional"
    ],
