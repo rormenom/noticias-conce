@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T09:30:24.560Z",
+ "generado": "2026-11-12T10:10:20.918Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -757,20 +757,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/gobierno-congela-combustibles-febrero-2027.html",
-   "titulo": "Gobierno anuncia congelamiento de combustibles hasta febrero de 2027 y emplaza a camioneros a deponer paro",
-   "resumen": "El biministro Claudio Alvarado confirmó que se revertirá el alza de $42 en gasolinas y $39 en diésel, mientras gremios consultan a sus bases.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-3.jpg-1-e1794446288328.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T15:00:00.000Z",
-   "visto": "2026-11-12T01:30:24.287Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/micreros-lota-arauco-paro-indefinido-ruta-160.html",
    "titulo": "Conductores de taxibuses de Arauco y Lota se plegarán este jueves a las movilizaciones en el Biobío",
    "resumen": "Conductores autoconvocados de Los Alces y Expresos del Carbón acusaron que sus costos en combustible se duplicaron desde marzo de este año.",
@@ -781,6 +767,20 @@
    "visto": "2026-11-12T01:00:25.446Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/gobierno-congela-combustibles-febrero-2027.html",
+   "titulo": "Gobierno anuncia congelamiento de combustibles hasta febrero de 2027 y emplaza a camioneros a deponer paro",
+   "resumen": "El biministro Claudio Alvarado confirmó que se revertirá el alza de $42 en gasolinas y $39 en diésel, mientras gremios consultan a sus bases.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-3.jpg-1-e1794446288328.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T15:00:00.000Z",
+   "visto": "2026-11-12T01:30:24.287Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
