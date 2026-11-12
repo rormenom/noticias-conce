@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T16:20:21.660Z",
+ "generado": "2026-11-12T16:30:24.375Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 59,
+    "enlaces": 58,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 60,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 10,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/talcahuano-se-prepara-para-una-maraton-de-cuecas-y-musica-en-vivo",
+   "titulo": "Talcahuano se prepara para una maratón de cuecas y música en vivo",
+   "resumen": "El sábado 14 de noviembre, desde las 10:00 AM, la Plaza de Armas de Talcahuano será escenario de una jornada de folclore para conmemorar el aniversario de la comuna, que cumple 262 años. En conversación con el equipo la Mesa Comunal del Folclor de Talcahuano,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/%F0%9F%95%BA%F0%9F%8F%BB-En-la-explanada-de-la-playa-El-Morro-celebramos-nuestro-aniversario-comunal-con-la-chingana.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T16:30:24.375Z",
+   "visto": "2026-11-12T16:30:24.375Z",
+   "cats": [
+    "regional",
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/udec-realiza-tercera-version-de-la-feria-de-reduccion-de-riesgo-de-desastres/",
+   "titulo": "UdeC realiza tercera versión de la Feria de Reducción de Riesgo de Desastres",
+   "resumen": "La Feria de Reducción de Riesgo de Desastres UdeC tuvo […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-1.14.06-PM-768x576.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-12T16:20:45.000Z",
+   "visto": "2026-11-12T16:30:24.375Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/delegado-presidencial-dialoga-trabajadores-san-vicente.html",
    "titulo": "Puerto de San Vicente: delegado presidencial se reúne con trabajadores movilizados y aborda medidas ante alza del combustible",
@@ -1502,34 +1531,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-11T09:10:20.853Z",
    "visto": "2026-11-11T09:10:20.853Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/unos-700-camioneros-se-movilizan-y-causan-cortes-de-ruta-en-bio-bio-hay-reunion-clave-este-miercoles",
-   "titulo": "Cerca de 700 camioneros protestan y generan cortes de ruta en Bío Bío; este miércoles habrá una reunión clave",
-   "resumen": "Camioneros que se unieron en la región del Bío Bío al paro nacional de distintos gremios del sector mantienen bloqueos en Cabrero y en la autopista de acceso a Concepción. Este miércoles se prevé una reunión entre tres agrupaciones gremiales, que podría ser…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cntxt-rbb-por-unos-700-camioneros-se-movilizan-y-causan-cortes-de-ruta-en-bio-bio-hay-reunion-clave-este-miercoles.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T09:00:27.077Z",
-   "visto": "2026-11-11T09:00:27.077Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/11/agro-paro-transportistas-impacto.html",
-   "titulo": "Biobío: paro de camiones pone en riesgo cosechas de exportación y la cadena alimentaria",
-   "resumen": "Los gremios advierten graves pérdidas económicas tras el bloqueo de rutas y el aumento de los combustibles. Autoridades regionales reportan cerca de 700 camiones detenidos y aseguran mantener diálogos para evitar mayores afectaciones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-arandanos-en-Chile-foto-sag.jpg-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T08:40:19.390Z",
-   "visto": "2026-11-11T08:40:19.390Z",
    "cats": [
     "regional"
    ],
