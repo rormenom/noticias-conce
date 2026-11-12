@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T19:10:20.076Z",
+ "generado": "2026-11-12T19:40:25.036Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 2,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -59,9 +59,9 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 4,
-    "enlaces": 155,
-    "leidas": 57,
+    "paginas": 3,
+    "enlaces": 137,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 29,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/biobio-mantiene-abastecimiento-normal-de-combustibles-mientras-autoridades-monitorean-evolucion-de-la-movilizacion-de-camioneros/",
+   "titulo": "Biobío mantiene abastecimiento normal de combustibles mientras autoridades monitorean evolución de la movilización de camioneros",
+   "resumen": "La Secretaría Regional Ministerial de Energía del Biobío informó que […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/7-1-768x512.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-12T19:31:08.000Z",
+   "visto": "2026-11-12T19:40:25.036Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/alergias-primavera-concepcion-pelusas-vilano-arboles.html",
    "titulo": "Vilano: las ‘pelusas’ de los árboles que producen alergias en Concepción",
@@ -238,6 +252,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/penco-reparacion-vial-incendios.html",
+   "titulo": "Destinan 430 millones de pesos permitirán reparar 2.250 metros cuadrados de calzadas y veredas en Penco y Lirquén",
+   "resumen": "Con financiamiento del Gobierno Regional del Biobío, dos proyectos rehabilitarán vías de Penco y Lirquén deterioradas por la emergencia de enero de 2026 y el tránsito de maquinaria pesada. Las obras consideran reposición de pavimentos y reparación de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO_01.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T16:10:23.246Z",
+   "visto": "2026-11-12T16:10:23.246Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/delegado-presidencial-dialoga-trabajadores-san-vicente.html",
    "titulo": "Puerto de San Vicente: delegado presidencial se reúne con trabajadores movilizados y aborda medidas ante alza del combustible",
    "resumen": "",
@@ -249,20 +277,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/penco-reparacion-vial-incendios.html",
-   "titulo": "Destinan 430 millones de pesos permitirán reparar 2.250 metros cuadrados de calzadas y veredas en Penco y Lirquén",
-   "resumen": "Con financiamiento del Gobierno Regional del Biobío, dos proyectos rehabilitarán vías de Penco y Lirquén deterioradas por la emergencia de enero de 2026 y el tránsito de maquinaria pesada. Las obras consideran reposición de pavimentos y reparación de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO_01.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T16:10:23.246Z",
-   "visto": "2026-11-12T16:10:23.246Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1517,20 +1531,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-11T13:47:28.000Z",
    "visto": "2026-11-11T13:50:22.530Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/bloquean-acceso-a-puerto-san-vicente-camioneros-extienden-protestas-a-zonas-logisticas-en-talcahuano",
-   "titulo": "Bloquean acceso a Puerto San Vicente: camioneros extienden protestas a zonas logísticas en Talcahuano",
-   "resumen": "Las movilizaciones del sector de transporte de carga en la Región del Biobío sumaron un nuevo hito estratégico tras el bloqueo registrado en los accesos al Puerto San Vicente, en la comuna de Talcahuano. La acción busca impactar directamente en la cadena…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-11-at-09.11.41-e1794403762301.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T13:40:32.171Z",
-   "visto": "2026-11-11T13:40:32.171Z",
    "cats": [
     "regional"
    ],
