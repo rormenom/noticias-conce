@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T17:20:21.600Z",
+ "generado": "2026-11-12T17:30:24.547Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -47,7 +47,7 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 17,
+    "enlaces": 18,
     "leidas": 1,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/12/noche-de-los-museos-nuestra-pauta-12-de-noviembre-de-2026.html",
+   "titulo": "Noche de los Museos - Nuestra Pauta - 12 de noviembre de 2026",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/10/maxresdefault.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-12T17:30:24.547Z",
+   "visto": "2026-11-12T17:30:24.547Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/12/basurales-en-el-cerro-la-u-vecinos-alertan-riesgo-de-incendio-en-historico-sitio-de-talcahuano.html",
    "titulo": "Basurales en el cerro La U: vecinos alertan riesgo de incendio en histórico sitio de Talcahuano",
@@ -1520,20 +1534,6 @@
    "visto": "2026-11-11T12:50:19.798Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/tercera-jornada-de-paro-movilizaciones-de-camioneros-y-cortes-de-ruta-se-mantienen-en-distintas-comunas-del-biobio",
-   "titulo": "Tercera Jornada de paro: movilizaciones de camioneros y cortes de ruta se mantienen en distintas comunas del Biobío",
-   "resumen": "Las movilizaciones y el paro de transportistas continúan este miércoles en varios puntos estratégicos de la Región del Biobío y la Región de La Araucanía. La situación genera congestión y desvíos preventivos, mientras se desarrollan reuniones clave entre los…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-11-at-08.36.44-e1794398332228.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T12:40:19.430Z",
-   "visto": "2026-11-11T12:40:19.430Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
