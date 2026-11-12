@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T14:00:29.844Z",
+ "generado": "2026-11-12T14:10:21.424Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 58,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 62,
+    "enlaces": 154,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/transporte-escolar-moviliza-talcahuano-alza-combustible.html",
+   "titulo": "Más de 46 furgones: transporte escolar se moviliza en Talcahuano por alza del combustible",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-12-at-10.34.39-1-e1794492102115.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T14:10:21.424Z",
+   "visto": "2026-11-12T14:10:21.424Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/la-golpearon-y-subieron-videos-a-rrss-formalizan-a-2-mujeres-por-secuestro-de-adolescente-en-cabrero.shtml",
+   "titulo": "La golpearon y subieron videos a RRSS: formalizan a 2 mujeres por secuestro de adolescente en Cabrero",
+   "resumen": "Dos mujeres, de 21 y 22 años, quedaron en prisión preventiva tras ser formalizadas por retener y golpear a una...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016614-formalizacion-imputadas-secuestro-adolescente-cabrero.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-12T14:00:30.000Z",
+   "visto": "2026-11-12T14:10:21.424Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/12/gobierno-inicia-en-biobio-dialogos-previos-con-comunidades-mapuche-para-preparar-consulta-indigena-2027/",
    "titulo": "Gobierno inicia en Biobío diálogos previos con comunidades mapuche para preparar Consulta Indígena 2027",
@@ -351,6 +379,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/denuncian-microbasural-cerro-la-u-talcahuano.html",
+   "titulo": "Entre escombros y riesgo industrial: denuncian deterioro de sitio donde O´Higgins proclamó la independencia",
+   "resumen": "A pesar de ser un casco histórico para la historia de Chile, el Cerro La U de Talcahuano presenta una gran contaminación ambiental. Autoridades ya están al tanto de la situación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-basural-Cerro-U-en-Talcahuano-foto-Enrique-Zamora-e1794441231974.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/utilidades-enap-alza-combustibles.html",
    "titulo": "Expertos locales explican los riesgos de destinar utilidades de Enap para enfrentar el alza de combustibles",
    "resumen": "Retiro del proyecto del Gobierno reabrió debate por ganancias de la estatal y subsidios.",
@@ -369,20 +411,6 @@
    "titulo": "Paro de camioneros: taxis colectivos del Biobío evaluarán este jueves unirse a movilizaciones",
    "resumen": "Distintos puntos de la Región del Biobío fueron testigos de las paralizaciones de conductores.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-e1794441376468.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/denuncian-microbasural-cerro-la-u-talcahuano.html",
-   "titulo": "Entre escombros y riesgo industrial: denuncian deterioro de sitio donde O´Higgins proclamó la independencia",
-   "resumen": "A pesar de ser un casco histórico para la historia de Chile, el Cerro La U de Talcahuano presenta una gran contaminación ambiental. Autoridades ya están al tanto de la situación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-basural-Cerro-U-en-Talcahuano-foto-Enrique-Zamora-e1794441231974.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T08:40:19.790Z",
@@ -1668,34 +1696,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-10T18:36:10.000Z",
    "visto": "2026-11-10T22:30:22.669Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/detienen-en-coyhaique-a-hombre-acusado-de-abusar-sexualmente-de-nina-en-concepcion",
-   "titulo": "Detienen en Coyhaique a sospechoso de abuso sexual contra una niña en Concepción",
-   "resumen": "Un hombre de 21 años fue arrestado en Coyhaique, investigado por abusos sexuales contra una niña menor de 12 años. La causa se originó en 2024, luego de que la familia de la víctima denunciara los hechos ante el Ministerio Público en Concepción. El acusado…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/restore-ocho-detenidos-pdi-1200x633-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T18:30:25.464Z",
-   "visto": "2026-11-10T18:30:25.464Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/sernac-ley-fraudes-auditoria-sludge.html",
-   "titulo": "SERNAC realiza auditoría a la Ley de Fraudes y revela “trámites excesivos” a víctimas financieras",
-   "resumen": "El estudio estima que el proceso de reclamación tiene un costo mediano de $21 mil en tiempo y traslado para las víctimas, afectando especialmente a mujeres, jóvenes y personas de menores ingresos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/02/foto_0000000120190102102923.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T18:20:23.095Z",
-   "visto": "2026-11-10T18:20:23.095Z",
    "cats": [
     "regional"
    ],
