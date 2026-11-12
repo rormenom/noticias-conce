@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T10:10:20.918Z",
+ "generado": "2026-11-12T10:30:26.717Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 61,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,43 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 9,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/seremi-de-seguridad-del-bio-bio-homicidios-bajan-184-y-aumentan-los-detenidos",
+   "titulo": "Seremi de Seguridad del Bío Bío: homicidios bajan 18,4% y aumentan los detenidos",
+   "resumen": "El delegado presidencial subrogante del Bío Bío, Juan Pablo Mellado, y el seremi de Seguridad, Richard Soto, entregaron el balance de los delitos de mayor connotación social en la región, con foco en los homicidios. Soto se refirió además al último caso…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/contexto-a-1-por-carabineros-hombre-es-asesinado-a-tiros-en-coronel-es-el-homicidio-72-en-el-bio-bio-en-lo-que-va-del-ano.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T10:30:26.717Z",
+   "visto": "2026-11-12T10:30:26.717Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/gobernador-del-bio-bio-no-tenemos-margen-para-que-nuestros-puertos-esten-paralizados",
+   "titulo": "Gobernador del Bío Bío: \"No tenemos margen para que nuestros puertos estén paralizados\"",
+   "resumen": "En el contexto del paro de camioneros que se desarrolla a lo largo del país, el gobernador de la Región del Bío Bío, Sergio Giacaman, emplazó al gobierno central y sostuvo que con otro tipo de medidas se habría evitado llegar a esta situación. Críticas al…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/08/contexto-agenciauno-13-2.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T10:30:26.717Z",
+   "visto": "2026-11-12T10:30:26.717Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/12/detienen-a-hombre-por-quebrar-vidrio-de-camion-durante-movilizacion-de-camioneros-en-los-angeles",
    "titulo": "Detienen a hombre por quebrar vidrio de camión durante movilización de camioneros en Los Ángeles",
@@ -1671,20 +1701,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/transporte-escolar-evaluacion-caravana-autopista-combustibles.html",
-   "titulo": "“Fue un éxito”: Transporte escolar califica de positiva caravana por combustibles en la autopista y descarta paro total",
-   "resumen": "Tras recorrer la autopista Concepción-Talcahuano, el gremio Tres Lomas calificó de exitosa la jornada, cuestionó la Ley Frenazo y descartó frenar servicios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/transporte-escolar-evaluacion-caravana-autopista-combustibles-e1794326814654.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T16:10:27.866Z",
-   "visto": "2026-11-10T16:10:27.866Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/kast-combustibles-camioneros-alza-precios-seguridad.html",
    "titulo": "Kast por tensión con camioneros: contrapone alza de combustibles con avances en seguridad",
    "resumen": "",
@@ -1695,20 +1711,6 @@
    "visto": "2026-11-10T15:30:24.460Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/10/convocatoria-de-expo-de-mar-a-cordillera-entra-en-recta-final-para-reunir-a-creadores-de-todo-el-biobio-en-su-cuarta-version/",
-   "titulo": "Convocatoria de Expo De Mar a Cordillera entra en recta final",
-   "resumen": "Para reunir a creadores de todo el Biobío en su cuarta versión.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Expo27-2-768x613.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-10T15:29:11.000Z",
-   "visto": "2026-11-10T15:30:24.460Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
