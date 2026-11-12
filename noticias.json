@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T16:10:23.246Z",
+ "generado": "2026-11-12T16:20:21.660Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 59,
-    "leidas": 2,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 58,
+    "enlaces": 154,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -82,20 +82,6 @@
  ],
  "items": [
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/penco-reparacion-vial-incendios.html",
-   "titulo": "Destinan 430 millones de pesos permitirán reparar 2.250 metros cuadrados de calzadas y veredas en Penco y Lirquén",
-   "resumen": "Con financiamiento del Gobierno Regional del Biobío, dos proyectos rehabilitarán vías de Penco y Lirquén deterioradas por la emergencia de enero de 2026 y el tránsito de maquinaria pesada. Las obras consideran reposición de pavimentos y reparación de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO_01.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T16:10:23.246Z",
-   "visto": "2026-11-12T16:10:23.246Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/delegado-presidencial-dialoga-trabajadores-san-vicente.html",
    "titulo": "Puerto de San Vicente: delegado presidencial se reúne con trabajadores movilizados y aborda medidas ante alza del combustible",
    "resumen": "",
@@ -107,6 +93,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/penco-reparacion-vial-incendios.html",
+   "titulo": "Destinan 430 millones de pesos permitirán reparar 2.250 metros cuadrados de calzadas y veredas en Penco y Lirquén",
+   "resumen": "Con financiamiento del Gobierno Regional del Biobío, dos proyectos rehabilitarán vías de Penco y Lirquén deterioradas por la emergencia de enero de 2026 y el tránsito de maquinaria pesada. Las obras consideran reposición de pavimentos y reparación de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO_01.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T16:10:23.246Z",
+   "visto": "2026-11-12T16:10:23.246Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -339,20 +339,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
-   "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/OS9-LIRQU%C3%89N.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T13:20:20.748Z",
-   "visto": "2026-11-12T13:20:20.748Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/zeptoverso-la-escala-mas-pequena-jamas-explorada-que-biobio-observa-desde-lejos.html",
    "titulo": "Zeptoverso: la escala más pequeña jamás explorada que Biobío observa desde lejos",
    "resumen": "Desde la UdeC advierten que la ciencia local no cuenta con la infraestructura requerida para avanzar en estas investigaciones de frontera, sólo a nivel teórico.",
@@ -377,6 +363,20 @@
    "visto": "2026-11-12T13:20:20.748Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
+   "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/OS9-LIRQU%C3%89N.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T13:20:20.748Z",
+   "visto": "2026-11-12T13:20:20.748Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
