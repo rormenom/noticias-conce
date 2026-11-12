@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T08:50:20.053Z",
+ "generado": "2026-11-12T09:10:20.800Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/videos-un-conductor-agredido-y-ataques-con-piedras-dejo-jornada-de-paro-de-camioneros-en-coronel",
+   "titulo": "Videos: paro de camioneros en Coronel dejó un conductor agredido y vehículos atacados con piedras",
+   "resumen": "Camioneros independientes de Coronel realizaron varios incidentes durante la paralización y el bloqueo parcial de la Ruta 160, en medio de la falta de entendimiento entre el Gobierno y los transportistas por el elevado costo de los combustibles. Las protestas…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/capturas-por-videos-un-conductor-agredido-y-ataques-con-piedras-dejo-jornada-de-paro-de-camioneros-en-coronel.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T09:10:20.800Z",
+   "visto": "2026-11-12T09:10:20.800Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/hombre-es-asesinado-a-tiros-en-coronel-es-el-homicidio-72-en-el-bio-bio-en-lo-que-va-del-ano",
+   "titulo": "Asesinan a balazos a un hombre en Coronel: homicidio número 72 del año en el Bío Bío",
+   "resumen": "Un hombre fue ultimado a balazos este miércoles en Coronel, región del Bío Bío. El hombre, de 25 años, falleció tras recibir impactos de bala en distintas partes del cuerpo, informó Radio Bío Bío. Según los primeros antecedentes disponibles, la víctima fue…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-1-cntxt-por-pdi-indaga-hombre-es-asesinado-a-tiros-en-coronel-es-el-homicidio-72-en-el-bio-bio-en-lo-que-va-del-ano.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T09:10:20.800Z",
+   "visto": "2026-11-12T09:10:20.800Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/senadores-biobio-mocion-tarifas-paro-camionero.html",
    "titulo": "Senadores del Biobío presionan por tramitar moción de tarifas en medio del paro camionero",
@@ -1679,34 +1707,6 @@
    "fuenteId": "radioudec",
    "fecha": "2026-11-10T15:12:42.000Z",
    "visto": "2026-11-10T15:20:20.986Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/pdi-detiene-a-dos-mujeres-acusadas-de-secuestrar-y-agredir-a-adolescente-de-17-anos-en-cabrero",
-   "titulo": "PDI detiene a dos mujeres acusadas de secuestrar y agredir a adolescente de 17 años en Cabrero",
-   "resumen": "Las imputadas, de 21 y 22 años, habrían participado en la retención y agresión de la víctima al interior de un inmueble del sector Jardines del Alto. El adolescente resultó con lesiones graves y habría perdido el conocimiento producto del ataque. Detectives…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/D4-4-e1794322388582.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T15:00:28.659Z",
-   "visto": "2026-11-10T15:00:28.659Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/camioneros-biobio-paro-combustibles.html",
-   "titulo": "Paro de camioneros amenaza el inicio de la temporada agrícola del Biobío",
-   "resumen": "Gremio productor advierte impacto directo en las cosechas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-paro-de-camioneros-en-ruta-5-sur-foto-cedida.jpg-e1794273079507.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T15:00:00.000Z",
-   "visto": "2026-11-11T21:50:22.211Z",
    "cats": [
     "regional"
    ],
