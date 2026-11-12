@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T00:20:19.543Z",
+ "generado": "2026-11-12T01:00:25.446Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 58,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 59,
+    "enlaces": 150,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 11,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
@@ -419,20 +419,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.html",
-   "titulo": "“Uno de los mayores robos a nivel país”: confirman sustracción de más de $8.500 millones tras forado a banco en Concepción",
-   "resumen": "El arqueo oficial cifró la sustracción en cerca de $8.520 millones, US$80 mil y 30 mil euros tras un forado de 60 centímetros en un muro colindante.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T17:20:20.301Z",
-   "visto": "2026-11-11T17:20:20.301Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/noche-museos-biobio-20-espacios-37-actividades.html",
    "titulo": "Noche de Museos vuelve a Biobío con más de 20 espacios y 37 actividades gratuitas",
    "resumen": "",
@@ -443,6 +429,20 @@
    "visto": "2026-11-11T17:20:20.301Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.html",
+   "titulo": "“Uno de los mayores robos a nivel país”: confirman sustracción de más de $8.500 millones tras forado a banco en Concepción",
+   "resumen": "El arqueo oficial cifró la sustracción en cerca de $8.520 millones, US$80 mil y 30 mil euros tras un forado de 60 centímetros en un muro colindante.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T17:20:20.301Z",
+   "visto": "2026-11-11T17:20:20.301Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -540,6 +540,20 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-11T15:00:00.000Z",
    "visto": "2026-11-12T00:20:19.543Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/micreros-lota-arauco-paro-indefinido-ruta-160.html",
+   "titulo": "Conductores de taxibuses de Arauco y Lota se plegarán este jueves a las movilizaciones en el Biobío",
+   "resumen": "Conductores autoconvocados de Los Alces y Expresos del Carbón acusaron que sus costos en combustible se duplicaron desde marzo de este año.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Transporte-entre-Arauco-Lota-y-Concepci%C3%B3n-en-alerta-cerca-del-70-de-taxibuses-iniciar%C3%A1-paralizaci%C3%B3n.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T15:00:00.000Z",
+   "visto": "2026-11-12T01:00:25.446Z",
    "cats": [
     "regional"
    ],
@@ -1594,20 +1608,6 @@
    "fuenteId": "radioudec",
    "fecha": "2026-11-10T13:47:30.000Z",
    "visto": "2026-11-10T13:50:23.140Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/chiguayante-liceo-obispo-san-miguel-marcha-tras-accidente-de-menor-de-3-anos-exigen-medidas-de-seguridad-vial",
-   "titulo": "Chiguayante: Liceo Obispo San Miguel marcha tras accidente de menor de 3 años: exigen medidas de seguridad vial",
-   "resumen": "Estudiantes, docentes y vecinos del Liceo Obispo San Miguel de Chiguayante se movilizaron en una marcha pacífica por la avenida Ocho Oriente. La protesta busca exigir a las autoridades municipales y de vialidad respuestas concretas ante los reiterados…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-10-at-09.16.24-e1794315457301.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T13:10:20.434Z",
-   "visto": "2026-11-10T13:10:20.434Z",
    "cats": [
     "regional"
    ],
