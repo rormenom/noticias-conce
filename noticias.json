@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T08:40:19.790Z",
+ "generado": "2026-11-12T08:50:20.053Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 59,
-    "leidas": 11,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 59,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 0,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
@@ -100,6 +100,20 @@
    "titulo": "Paro de camioneros: taxis colectivos del Biobío evaluarán este jueves unirse a movilizaciones",
    "resumen": "Distintos puntos de la Región del Biobío fueron testigos de las paralizaciones de conductores.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-e1794441376468.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/denuncian-microbasural-cerro-la-u-talcahuano.html",
+   "titulo": "Entre escombros y riesgo industrial: denuncian deterioro de sitio donde O´Higgins proclamó la independencia",
+   "resumen": "A pesar de ser un casco histórico para la historia de Chile, el Cerro La U de Talcahuano presenta una gran contaminación ambiental. Autoridades ya están al tanto de la situación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-basural-Cerro-U-en-Talcahuano-foto-Enrique-Zamora-e1794441231974.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T08:40:19.790Z",
@@ -167,20 +181,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/denuncian-microbasural-cerro-la-u-talcahuano.html",
-   "titulo": "Entre escombros y riesgo industrial: denuncian deterioro de sitio donde O´Higgins proclamó la independencia",
-   "resumen": "A pesar de ser un casco histórico para la historia de Chile, el Cerro La U de Talcahuano presenta una gran contaminación ambiental. Autoridades ya están al tanto de la situación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-basural-Cerro-U-en-Talcahuano-foto-Enrique-Zamora-e1794441231974.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/hualpen-mantienen-arresto-domiciliario-imputado-vertedero-humedal-vasco-gama.html",
    "titulo": "Humedal Vasco de Gama: mantienen arresto domiciliario para imputado por presuntos daños al ecosistema",
    "resumen": "El Juzgado de Garantía de Talcahuano rechazó la solicitud de la defensa para sustituir la medida cautelar por firma periódica. El Ministerio Público investiga delitos asociados a un vertedero generado en el lugar e incluso lavado de activos.",
@@ -195,10 +195,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/banda-penquista-saviamente-hace-su-debut-de-la-mano-del-single-vuela.html",
-   "titulo": "Banda penquista Saviamente hace su debut de la mano del single “Vuela”",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-JotaKai-Comunicaciones-e1794444996121.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/creacion-filmica-no-tiene-edad-cinelebu-desarrolla-experiencias-audiovisuales-distintas-generaciones.html",
+   "titulo": "La creación fílmica no tiene edad: Cinelebu desarrolla experiencias audiovisuales para distintas generaciones",
+   "resumen": "Quince niños y un grupo de personas mayores participan en experiencias gratuitas de animación Stop Motion, impulsadas por la sección de Escuela de esta iniciativa cinematográfica lebulense. Las actividades contemplan procesos de creación con plasticina,…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Cinelebu-e1794443460924.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T08:40:19.790Z",
@@ -209,10 +209,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/creacion-filmica-no-tiene-edad-cinelebu-desarrolla-experiencias-audiovisuales-distintas-generaciones.html",
-   "titulo": "La creación fílmica no tiene edad: Cinelebu desarrolla experiencias audiovisuales para distintas generaciones",
-   "resumen": "Quince niños y un grupo de personas mayores participan en experiencias gratuitas de animación Stop Motion, impulsadas por la sección de Escuela de esta iniciativa cinematográfica lebulense. Las actividades contemplan procesos de creación con plasticina,…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Cinelebu-e1794443460924.jpeg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/banda-penquista-saviamente-hace-su-debut-de-la-mano-del-single-vuela.html",
+   "titulo": "Banda penquista Saviamente hace su debut de la mano del single “Vuela”",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-JotaKai-Comunicaciones-e1794444996121.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T08:40:19.790Z",
