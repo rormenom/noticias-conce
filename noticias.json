@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T18:40:20.993Z",
+ "generado": "2026-11-12T19:10:20.076Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 59,
+    "enlaces": 155,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/alergias-primavera-concepcion-pelusas-vilano-arboles.html",
+   "titulo": "Vilano: las ‘pelusas’ de los árboles que producen alergias en Concepción",
+   "resumen": "La llegada de la primavera y el vilano activan las alergias estacionales en Concepción. Conoce los árboles responsables, las zonas críticas y los riesgos de automedicarse.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/C0392.MP4.03_52_34_22.Imagen-fija001.jpg-e1794510411848.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T19:10:20.076Z",
+   "visto": "2026-11-12T19:10:20.076Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/obra-lo-profano-y-lo-santo-acercamiento-a-violeta-parra-funciones-liceo-balmaceda.html",
+   "titulo": "Obra “Lo profano y lo santo. Acercamiento a Violeta Parra” se presentará por partida doble en el Liceo Balmaceda de Concepción",
+   "resumen": "Tras su creación y desarrollo en Barcelona bajo la dirección de Jessica Walker, wl montaje llega por primera vez a Chile y a Concepción, ciudad de origen de su actriz-creadora, Ángela Valeria Chandía. La presentación cuenta con la asistencia de dirección de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/obra-Violeta.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T19:10:20.076Z",
+   "visto": "2026-11-12T19:10:20.076Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/cuartos-medios-sin-licenciatura-liceo-de-talcahuano-suspende-ceremonia-por-amenazas-de-apoderado.shtml",
    "titulo": "Cuartos medios sin licenciatura: Liceo de Talcahuano suspende ceremonia por amenazas de apoderado",
@@ -467,20 +495,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/zeptoverso-la-escala-mas-pequena-jamas-explorada-que-biobio-observa-desde-lejos.html",
-   "titulo": "Zeptoverso: la escala más pequeña jamás explorada que Biobío observa desde lejos",
-   "resumen": "Desde la UdeC advierten que la ciencia local no cuenta con la infraestructura requerida para avanzar en estas investigaciones de frontera, sólo a nivel teórico.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-zeptoverso-foto-cedida.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T13:20:20.748Z",
-   "visto": "2026-11-12T13:20:20.748Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
    "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
    "resumen": "",
@@ -499,6 +513,20 @@
    "titulo": "Quinta edición del Chocolate Científico reunió a más de 220 escolares de Biobío",
    "resumen": "Con las destacadas investigadoras chilenas Dora Altbir y Bárbara Rojas-Ayala se desarrolló este 10 de noviembre la jornada de divulgación científica.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_6638-1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T13:20:20.748Z",
+   "visto": "2026-11-12T13:20:20.748Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/zeptoverso-la-escala-mas-pequena-jamas-explorada-que-biobio-observa-desde-lejos.html",
+   "titulo": "Zeptoverso: la escala más pequeña jamás explorada que Biobío observa desde lejos",
+   "resumen": "Desde la UdeC advierten que la ciencia local no cuenta con la infraestructura requerida para avanzar en estas investigaciones de frontera, sólo a nivel teórico.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-zeptoverso-foto-cedida.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T13:20:20.748Z",
@@ -763,21 +791,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/alex-berg-premios-innovacion-cpc-biobio-udec.html",
-   "titulo": "Exdirector de la UDT de la UdeC recibe reconocimiento de los Premios a la Innovación",
-   "resumen": "Fue distinguido por la CPC Biobío en un espacio que busca visibilizar iniciativas innovadoras y su aporte al desarrollo productivo regional.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-Alex-Berg-premio-UDT-foto-archivo-Esteban-Paredes-Drake-DirCom-UdeC-e1794443153175.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional",
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/evandro-arteaga-con-titulo-de-entrenador-y-la-felicidad-al-formar-ninos.html",
    "titulo": "Evandro Arteaga: con título de entrenador y la felicidad al formar niños",
    "resumen": "Histórico basquetbolista disfruta preparando a los chicos de su academia, no descarta dirigir algún día un equipo profesional y analiza el presente de la UdeC buscando semifinales de la LNB.",
@@ -843,6 +856,21 @@
    "fecha": "2026-11-12T08:40:19.790Z",
    "visto": "2026-11-12T08:40:19.790Z",
    "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/alex-berg-premios-innovacion-cpc-biobio-udec.html",
+   "titulo": "Exdirector de la UDT de la UdeC recibe reconocimiento de los Premios a la Innovación",
+   "resumen": "Fue distinguido por la CPC Biobío en un espacio que busca visibilizar iniciativas innovadoras y su aporte al desarrollo productivo regional.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-Alex-Berg-premio-UDT-foto-archivo-Esteban-Paredes-Drake-DirCom-UdeC-e1794443153175.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "regional",
     "tecnologia"
    ],
    "local": true
@@ -1503,20 +1531,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-11T13:40:32.171Z",
    "visto": "2026-11-11T13:40:32.171Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/paro-camioneros-taxis-evaluan-unirse.html",
-   "titulo": "Paro de camioneros: taxis colectivos del Biobío evaluarán unirse a movilizaciones",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2022/09/Imagen-pag-11-colectivos-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T13:30:23.812Z",
-   "visto": "2026-11-11T13:30:23.812Z",
    "cats": [
     "regional"
    ],
