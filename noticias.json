@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T10:30:26.717Z",
+ "generado": "2026-11-12T10:40:22.224Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 62,
+    "enlaces": 147,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,42 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 31,
-    "leidas": 8,
+    "enlaces": 33,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/asem-bio-bio-cita-desempleo-de-105-e-informalidad-de-273-en-la-region-al-abrir-redes-2026",
+   "titulo": "Asem Bío Bío cita desempleo de 10,5% e informalidad de 27,3% en la región al abrir Redes 2026",
+   "resumen": "En la apertura de la quinta edición de Redes 2026, que se realiza en Suractivo, el presidente de Asem Bío Bío, Humberto Miguel, advirtió sobre la situación económica de la región. El encuentro de negocios, organizado por Asem Bío Bío y ProChile, busca reunir…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-12-a-las-6.08.05%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T10:40:22.224Z",
+   "visto": "2026-11-12T10:40:22.224Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/imputado-por-homicidio-en-nacimiento-quedo-en-prision-preventiva-tras-entregarse-a-carabineros",
+   "titulo": "Imputado por homicidio en Nacimiento quedó en prisión preventiva tras entregarse a Carabineros",
+   "resumen": "El Tribunal de Garantía de Nacimiento decretó la prisión preventiva del imputado por el homicidio de un joven de 18 años, ocurrido en esa comuna. El mismo día del crimen, el ahora formalizado se entregó a Carabineros y asumió su responsabilidad en el hecho.…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/09/hombre-usando-chaleco-imputado-1200x633-1-1.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T10:40:22.224Z",
+   "visto": "2026-11-12T10:40:22.224Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/12/seremi-de-seguridad-del-bio-bio-homicidios-bajan-184-y-aumentan-los-detenidos",
    "titulo": "Seremi de Seguridad del Bío Bío: homicidios bajan 18,4% y aumentan los detenidos",
@@ -1653,34 +1681,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T17:20:22.008Z",
    "visto": "2026-11-10T17:20:22.008Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/feria-laboral-inacap-cpc-2026-busca-impulsar-20-mil-nuevas-contrataciones",
-   "titulo": "Feria Laboral INACAP–CPC 2026 busca impulsar 20 mil nuevas contrataciones",
-   "resumen": "Con cerca de 400 empresas participantes, INACAP lleva a cabo la 18.ª versión de la Feria Laboral INACAP–CPC 2026, iniciativa que este año tiene como principal hito la Cruzada X el Empleo, cuyo objetivo es impulsar 20 mil nuevas contrataciones en Chile. La…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Feria-Laboral-INACAP%E2%80%93CPC-2026.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T17:00:26.665Z",
-   "visto": "2026-11-10T17:00:26.665Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/camioneros-bloqueo-parcial-ruta-146-juan-riquelme.html",
-   "titulo": "Camioneros mantienen una sola pista habilitada en la Ruta 146 a la altura de Juan Riquelme",
-   "resumen": "Un convoy de camiones bloqueó parcialmente la Ruta 146 hacia Concepción, dejando una sola pista habilitada por alza de combustibles.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-bloqueo-parcial-ruta-146-juan-riquelme.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T17:00:26.665Z",
-   "visto": "2026-11-10T17:00:26.665Z",
    "cats": [
     "regional"
    ],
