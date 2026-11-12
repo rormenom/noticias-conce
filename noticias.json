@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T13:20:20.748Z",
+ "generado": "2026-11-12T13:30:28.856Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 59,
-    "leidas": 3,
+    "enlaces": 58,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 59,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -82,20 +82,6 @@
  ],
  "items": [
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/zeptoverso-la-escala-mas-pequena-jamas-explorada-que-biobio-observa-desde-lejos.html",
-   "titulo": "Zeptoverso: la escala más pequeña jamás explorada que Biobío observa desde lejos",
-   "resumen": "Desde la UdeC advierten que la ciencia local no cuenta con la infraestructura requerida para avanzar en estas investigaciones de frontera, sólo a nivel teórico.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-zeptoverso-foto-cedida.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T13:20:20.748Z",
-   "visto": "2026-11-12T13:20:20.748Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
    "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
    "resumen": "",
@@ -106,6 +92,20 @@
    "visto": "2026-11-12T13:20:20.748Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/zeptoverso-la-escala-mas-pequena-jamas-explorada-que-biobio-observa-desde-lejos.html",
+   "titulo": "Zeptoverso: la escala más pequeña jamás explorada que Biobío observa desde lejos",
+   "resumen": "Desde la UdeC advierten que la ciencia local no cuenta con la infraestructura requerida para avanzar en estas investigaciones de frontera, sólo a nivel teórico.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-zeptoverso-foto-cedida.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T13:20:20.748Z",
+   "visto": "2026-11-12T13:20:20.748Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
