@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T11:20:22.284Z",
+ "generado": "2026-11-12T11:30:24.766Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 59,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 65,
+    "enlaces": 149,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 32,
+    "enlaces": 31,
     "leidas": 5,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/golf-en-bellavista-reunira-81-jugadores-y-pedro-bueno-defendera-el-titulo.html",
+   "titulo": "Golf en Bellavista reunirá 81 jugadores y Pedro Bueno defenderá el título",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/golf-bellavista-e1794445044272.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T11:30:24.766Z",
+   "visto": "2026-11-12T11:30:24.766Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/puente-llacolen-bus-detenido-alta-congestion.html",
    "titulo": "Puente Llacolén: bus con desperfecto mecánico provoca alta congestión vehicular",
@@ -1788,20 +1802,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/futuro-de-renato-ramos-hoy-no-puedo-anticipar-si-vamos-a-continuar.html",
-   "titulo": "Futuro de Renato Ramos: “Hoy no puedo anticipar si vamos a continuar”",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/renato-ramos-e1794273414205.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/10/decimo-encuentro-poetico-reunira-124-autores-chile-y-otros-16-paises-en-el-gran-concepcion.html",
    "titulo": "Décimo Encuentro Poético reunirá a 124 autores de Chile y otros 16 países en el Gran Concepción",
    "resumen": "La iniciativa, organizada por la Universidad del Biobío junto a centros culturales y municipios, se desplegará en diferentes espacios del Gran Concepción. Programación que contempla recitales poéticos, gala universitaria y una sesión preinaugural en la Casa…",
@@ -1812,6 +1812,20 @@
    "visto": "2026-11-10T08:40:21.155Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/futuro-de-renato-ramos-hoy-no-puedo-anticipar-si-vamos-a-continuar.html",
+   "titulo": "Futuro de Renato Ramos: “Hoy no puedo anticipar si vamos a continuar”",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/renato-ramos-e1794273414205.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
