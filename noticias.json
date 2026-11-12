@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T21:40:20.389Z",
+ "generado": "2026-11-12T22:40:22.289Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 58,
+    "enlaces": 154,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/plan-seguridad-colo-colo-racing-concepcion.html",
+   "titulo": "Colo-Colo – Rancing en Concepción: fiscal in situ, 40 puntos de control y 280 guardias",
+   "resumen": "El Ester Roa tendrá un perímetro exterior de 1.600 vallas papales, 3 ambulancias, un drone, etc.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Rancing-vs-Colo-Colo-foto-facebook-Colo-Colo.jpg-e1794522382246.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T22:40:22.289Z",
+   "visto": "2026-11-12T22:40:22.289Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/camioneros-agua-gloria-movilizacion-alza-combustibles.html",
    "titulo": "Cerca de 400 camiones mantienen movilización en Agua de la Gloria por alza de combustibles",
@@ -1936,20 +1950,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/basquetbol-femenino-udec-hizo-doblete-y-se-instala-en-segundo-puesto-de-la-liga.html",
-   "titulo": "Básquetbol femenino UdeC hizo doblete y se instala en segundo puesto de la Liga",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/udec-boston-college-e1794273470461.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/10/decimo-encuentro-poetico-reunira-124-autores-chile-y-otros-16-paises-en-el-gran-concepcion.html",
    "titulo": "Décimo Encuentro Poético reunirá a 124 autores de Chile y otros 16 países en el Gran Concepción",
    "resumen": "La iniciativa, organizada por la Universidad del Biobío junto a centros culturales y municipios, se desplegará en diferentes espacios del Gran Concepción. Programación que contempla recitales poéticos, gala universitaria y una sesión preinaugural en la Casa…",
@@ -1960,6 +1960,20 @@
    "visto": "2026-11-10T08:40:21.155Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/basquetbol-femenino-udec-hizo-doblete-y-se-instala-en-segundo-puesto-de-la-liga.html",
+   "titulo": "Básquetbol femenino UdeC hizo doblete y se instala en segundo puesto de la Liga",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/udec-boston-college-e1794273470461.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-10T08:40:21.155Z",
+   "visto": "2026-11-10T08:40:21.155Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -2781,20 +2795,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-07T22:50:20.082Z",
    "visto": "2026-11-07T22:50:20.082Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/07/concepcion-no-se-rinde-supero-a-everton-en-vina-y-sigue-luchando-por-volver-a-copa-internacional.shtml",
-   "titulo": "Concepción no se rinde: superó a Everton en Viña y sigue luchando por volver a copa internacional",
-   "resumen": "Deportes Concepción tiene su ilusión intacta. El elenco dirigido por el ‘Nano’ Díaz consiguió este sábado una vital victoria ante...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011294-everton-concepcion-la-liga-de-primera.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-07T22:32:30.000Z",
-   "visto": "2026-11-07T22:40:18.865Z",
    "cats": [
     "deportes"
    ],
