@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-12T22:40:22.289Z",
+ "generado": "2026-11-12T22:50:20.048Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 507",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -35,7 +36,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +61,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 57,
+    "enlaces": 152,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -2781,20 +2782,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-07T23:10:20.038Z",
    "visto": "2026-11-07T23:10:20.038Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/07/concepcion-no-se-rinde-supero-a-everton-en-vina-y-sigue-luchando-por-volver-a-copa-internacional",
-   "titulo": "Concepción venció a Everton en Viña y mantiene viva la opción de clasificar a una copa internacional",
-   "resumen": "Deportes Concepción mantiene viva su ilusión. Este sábado, el conjunto que conduce el ‘Nano’ Díaz logró un triunfo clave frente a Everton en Viña del Mar y se instaló de lleno en la lucha por clasificar a un torneo internacional. El ‘León de Collao’ se impuso…",
-   "imagen": "https://media.canal9.cl/2026/11/everton-concepcion-la-liga-de-primera-768x405.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-07T22:50:20.082Z",
-   "visto": "2026-11-07T22:50:20.082Z",
    "cats": [
     "deportes"
    ],
