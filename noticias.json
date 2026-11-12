@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T15:20:22.245Z",
+ "generado": "2026-11-12T15:30:25.549Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 60,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,56 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 10,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/caso-puerto-coronel-tc-acoge-requerimiento-de-alcalde-chamorro-para-evitar-suspension-de-su-cargo",
+   "titulo": "Tribunal Constitucional acepta recurso de alcalde Chamorro para impedir que lo suspendan del cargo",
+   "resumen": "El Tribunal Constitucional (TC) acogió el requerimiento del alcalde de Coronel, Boris Chamorro, con el que pretendía impedir que fuera suspendido del cargo durante el juicio oral por el denominado caso Puerto Coronel. El Ministerio Público ya presentó la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/alcalde-boris-chamorro.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T15:30:25.549Z",
+   "visto": "2026-11-12T15:30:25.549Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/corma-asegura-que-paro-de-camiones-obligo-a-pymes-a-suspender-produccion-por-falta-de-materia-prima",
+   "titulo": "Corma afirma que el paro de camiones dejó a pymes sin insumos y forzó la suspensión de su producción.",
+   "resumen": "La detención de los transportistas y los cortes de caminos ya están repercutiendo en las pequeñas y medianas empresas madereras. Algunas firmas han tenido que detener sus actividades por la falta de materia prima, lo que motivó a la Corporación Chilena de la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-92.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T15:30:25.549Z",
+   "visto": "2026-11-12T15:30:25.549Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/11/12/allanan-dependencias-del-municipio-de-chillan-viejo-incautaron-celulares-y-revisaron-computadores.shtml",
+   "titulo": "Allanan dependencias del municipio de Chillán Viejo: incautaron celulares y revisaron computadores",
+   "resumen": "En horas de la mañana de este jueves, la Policía de Investigaciones (PDI), en coordinación con la Fiscalía, realizó un...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016868-noticia-en-desarrollo-47.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-12T15:20:45.000Z",
+   "visto": "2026-11-12T15:30:25.549Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/12/la-golpearon-y-subieron-videos-a-rrss-formalizan-a-2-mujeres-por-secuestro-de-adolescente-en-cabrero",
    "titulo": "Dos mujeres son formalizadas por secuestrar y agredir a una adolescente en Cabrero; difunden videos en redes sociales",
@@ -1573,20 +1616,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/este-viernes-es-la-noche-de-museos-2026-revisa-actividades-en-todo-el-pais",
-   "titulo": "La Noche de Museos 2026 se celebra este viernes con actividades en todo el país",
-   "resumen": "Este viernes 13 de noviembre, desde las 17:00 horas, varios centros culturales ofrecerán actividades especiales en el marco de la Noche de Museos 2026, jornada en que distintos espacios abrirán en un horario en que normalmente permanecen cerrados. Como ocurre…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/noche-de-museos-2026-2.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T22:50:20.954Z",
-   "visto": "2026-11-10T22:50:20.954Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
