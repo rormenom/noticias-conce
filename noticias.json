@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T02:50:18.658Z",
+ "generado": "2026-11-12T03:40:21.308Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 60,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/videos-un-conductor-agredido-y-ataques-con-piedras-dejo-jornada-de-paro-de-camioneros-en-coronel.shtml",
+   "titulo": "VIDEOS | Un conductor agredido y ataques con piedras dejó jornada de paro de camioneros en Coronel",
+   "resumen": "Camioneros independientes de Coronel protagonizaron una serie de incidentes en el marco de la paralización y la toma parcial...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016325-capturas-por-videos-un-conductor-agredido-y-ataques-con-piedras-dejo-jornada-de-paro-de-camioneros-en-coronel.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-12T03:30:52.000Z",
+   "visto": "2026-11-12T03:40:21.308Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/hombre-es-asesinado-a-tiros-en-coronel-es-el-homicidio-72-en-el-bio-bio-en-lo-que-va-del-ano.shtml",
    "titulo": "Hombre es asesinado a tiros en Coronel: es el homicidio 72 en el Bío Bío en lo que va del año",
@@ -1607,20 +1621,6 @@
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-10T13:50:23.140Z",
-   "visto": "2026-11-10T13:50:23.140Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/10/camioneros-se-movilizan-en-bio-bio-por-alza-de-combustibles-y-advierten-posibles-bloqueos-de-puertos.shtml",
-   "titulo": "Camioneros se movilizan en Bío Bío por alza de combustibles y advierten posibles bloqueos de puertos",
-   "resumen": "Cerca de 30 camiones se congregaron durante la mañana de este martes en la Autopista Concepción-Talcahuano, en el marco de...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7013782-restore-captura-desde-2026-11-10-10-41-20-1200x633-1.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-10T13:47:48.000Z",
    "visto": "2026-11-10T13:50:23.140Z",
    "cats": [
     "regional"
