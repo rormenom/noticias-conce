@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T13:30:28.856Z",
+ "generado": "2026-11-12T14:00:29.844Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 155,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/12/gobierno-inicia-en-biobio-dialogos-previos-con-comunidades-mapuche-para-preparar-consulta-indigena-2027/",
+   "titulo": "Gobierno inicia en Biobío diálogos previos con comunidades mapuche para preparar Consulta Indígena 2027",
+   "resumen": "Los Álamos y Contulmo acogieron los primeros encuentros de una etapa preparatoria que contempla cinco localidades de la región y 41 en el sur del país. La consulta abordará una propuesta para ampliar voluntariamente las alternativas de uso de las tierras…",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-09.43.11-768x512.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-12T13:50:38.000Z",
+   "visto": "2026-11-12T14:00:29.844Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
    "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
@@ -1679,20 +1694,6 @@
    "imagen": "https://assets.diarioconcepcion.cl/2026/02/foto_0000000120190102102923.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T18:20:23.095Z",
-   "visto": "2026-11-10T18:20:23.095Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/corrupcion-judicial-en-los-angeles-exfiscal-presenta-amparo-tras-formalizacion-por-delitos-desechados",
-   "titulo": "Exfiscal de Los Ángeles recurre a un amparo tras ser formalizado por delitos que fueron desestimados",
-   "resumen": "El exfiscal exfiscal Rodrigo Durán interpuso un recurso de amparo contra el juez de Garantía Bayron Gallardo. Lo acusa de haber autorizado que la Fiscalía le atribuyera delitos que la Corte Suprema había descartado, luego de que el máximo tribunal resolviera…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/exfiscal-los-angeles.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
    "fecha": "2026-11-10T18:20:23.095Z",
    "visto": "2026-11-10T18:20:23.095Z",
    "cats": [
