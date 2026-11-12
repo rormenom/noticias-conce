@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T17:30:24.547Z",
+ "generado": "2026-11-12T18:30:24.656Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 18,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 59,
+    "enlaces": 154,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 28,
-    "leidas": 10,
+    "enlaces": 29,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/estos-son-los-principales-panoramas-culturales-para-el-gran-concepcion-para-los-proximo-dias.html",
+   "titulo": "Estos son los principales panoramas culturales para el Gran Concepción para los próximo días",
+   "resumen": "Como cada semana, la movida cultural penquista, ofrece una variada y entretenida cartelera de actividades para todos los gustos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/DOMINGO.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T18:30:24.656Z",
+   "visto": "2026-11-12T18:30:24.656Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/12/noche-de-los-museos-nuestra-pauta-12-de-noviembre-de-2026.html",
    "titulo": "Noche de los Museos - Nuestra Pauta - 12 de noviembre de 2026",
@@ -453,20 +467,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/quinta-edicion-del-chocolate-cientifico-reunio-a-mas-de-220-escolares-de-biobio.html",
-   "titulo": "Quinta edición del Chocolate Científico reunió a más de 220 escolares de Biobío",
-   "resumen": "Con las destacadas investigadoras chilenas Dora Altbir y Bárbara Rojas-Ayala se desarrolló este 10 de noviembre la jornada de divulgación científica.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_6638-1.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T13:20:20.748Z",
-   "visto": "2026-11-12T13:20:20.748Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
    "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
    "resumen": "",
@@ -477,6 +477,20 @@
    "visto": "2026-11-12T13:20:20.748Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/quinta-edicion-del-chocolate-cientifico-reunio-a-mas-de-220-escolares-de-biobio.html",
+   "titulo": "Quinta edición del Chocolate Científico reunió a más de 220 escolares de Biobío",
+   "resumen": "Con las destacadas investigadoras chilenas Dora Altbir y Bárbara Rojas-Ayala se desarrolló este 10 de noviembre la jornada de divulgación científica.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_6638-1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T13:20:20.748Z",
+   "visto": "2026-11-12T13:20:20.748Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
