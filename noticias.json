@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T09:20:19.419Z",
+ "generado": "2026-11-12T09:30:24.560Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/detienen-a-hombre-por-quebrar-vidrio-de-camion-durante-movilizacion-de-camioneros-en-los-angeles",
+   "titulo": "Detienen a hombre por quebrar vidrio de camión durante movilización de camioneros en Los Ángeles",
+   "resumen": "Una masiva movilización de camioneros se concentró en el kilómetro 494 de la Ruta 5 Sur, sector Cruce La Mona, en la comuna de Los Ángeles, provincia de Bío Bío. Durante la jornada, Carabineros registró tres detenidos en incidentes distintos. Detenido por…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-12-a-las-6.22.49%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T09:30:24.560Z",
+   "visto": "2026-11-12T09:30:24.560Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/12/videos-un-conductor-agredido-y-ataques-con-piedras-dejo-jornada-de-paro-de-camioneros-en-coronel",
    "titulo": "Videos: paro de camioneros en Coronel dejó un conductor agredido y vehículos atacados con piedras",
@@ -743,20 +757,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/micreros-lota-arauco-paro-indefinido-ruta-160.html",
-   "titulo": "Conductores de taxibuses de Arauco y Lota se plegarán este jueves a las movilizaciones en el Biobío",
-   "resumen": "Conductores autoconvocados de Los Alces y Expresos del Carbón acusaron que sus costos en combustible se duplicaron desde marzo de este año.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Transporte-entre-Arauco-Lota-y-Concepci%C3%B3n-en-alerta-cerca-del-70-de-taxibuses-iniciar%C3%A1-paralizaci%C3%B3n.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T15:00:00.000Z",
-   "visto": "2026-11-12T01:00:25.446Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/gobierno-congela-combustibles-febrero-2027.html",
    "titulo": "Gobierno anuncia congelamiento de combustibles hasta febrero de 2027 y emplaza a camioneros a deponer paro",
    "resumen": "El biministro Claudio Alvarado confirmó que se revertirá el alza de $42 en gasolinas y $39 en diésel, mientras gremios consultan a sus bases.",
@@ -767,6 +767,20 @@
    "visto": "2026-11-12T01:30:24.287Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/micreros-lota-arauco-paro-indefinido-ruta-160.html",
+   "titulo": "Conductores de taxibuses de Arauco y Lota se plegarán este jueves a las movilizaciones en el Biobío",
+   "resumen": "Conductores autoconvocados de Los Alces y Expresos del Carbón acusaron que sus costos en combustible se duplicaron desde marzo de este año.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Transporte-entre-Arauco-Lota-y-Concepci%C3%B3n-en-alerta-cerca-del-70-de-taxibuses-iniciar%C3%A1-paralizaci%C3%B3n.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T15:00:00.000Z",
+   "visto": "2026-11-12T01:00:25.446Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1693,20 +1707,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-10T15:29:11.000Z",
    "visto": "2026-11-10T15:30:24.460Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/prochile-biobio-organiza-ruedas-de-negocios-con-empresarios-locales-en-redes-y-expocorma/",
-   "titulo": "ProChile Biobío organiza ruedas de negocios con empresarios locales en «Redes» y «Expocorma»",
-   "resumen": "En el marco de los eventos empresariales que convocan a […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2025/11/redes-2025-768x509.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-10T15:12:42.000Z",
-   "visto": "2026-11-10T15:20:20.986Z",
    "cats": [
     "regional"
    ],
