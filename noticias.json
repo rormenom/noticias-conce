@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T19:40:25.036Z",
+ "generado": "2026-11-12T19:50:19.973Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -59,9 +59,9 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 3,
-    "enlaces": 137,
-    "leidas": 58,
+    "paginas": 4,
+    "enlaces": 153,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,29 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 29,
-    "leidas": 12,
+    "enlaces": 30,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/paro-de-camioneros-gobierno-llama-a-mantener-el-dialogo-mientras-transito-continua-lento-en-rutas-en-el-biobio",
+   "titulo": "Paro de camioneros: Gobierno llama a mantener el diálogo mientras tránsito continúa lento en rutas en el Biobío",
+   "resumen": "Las movilizaciones de camioneros cumplen este jueves su cuarta jornada en la Región del Biobío, con presencia de transportistas en distintos puntos de la provincia y complicaciones en el desplazamiento de vehículos. En conversación con La Radio desde el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/A_UNO_1780149_10af4.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T19:50:19.973Z",
+   "visto": "2026-11-12T19:50:19.973Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/biobio-mantiene-abastecimiento-normal-de-combustibles-mientras-autoridades-monitorean-evolucion-de-la-movilizacion-de-camioneros/",
    "titulo": "Biobío mantiene abastecimiento normal de combustibles mientras autoridades monitorean evolución de la movilización de camioneros",
@@ -495,7 +510,7 @@
   },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/12/gobierno-inicia-en-biobio-dialogos-previos-con-comunidades-mapuche-para-preparar-consulta-indigena-2027/",
-   "titulo": "Gobierno inicia diálogos previos con comunidades para preparar Consulta Indígena 2027",
+   "titulo": "Gobierno inicia diálogos con comunidades para preparar Consulta Indígena 2027",
    "resumen": "Los Álamos y Contulmo acogieron los primeros encuentros de una etapa preparatoria que contempla cinco localidades de la región y 41 en el sur del país. La consulta abordará una propuesta para ampliar voluntariamente las alternativas de uso de las tierras…",
    "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-09.43.11-768x512.jpeg",
    "fuente": "El Conquistador",
@@ -1518,20 +1533,6 @@
    "visto": "2026-11-11T14:50:22.689Z",
    "cats": [
     "cultura",
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/11/cerca-de-100-personas-mayores-recibieron-atencion-podologica-gratuita-en-mulchen/",
-   "titulo": "Cerca de 100 personas mayores recibieron atención podológica gratuita en Mulchén",
-   "resumen": "Pies sanos: Vecinos y vecinas pertenecientes a las localidades Sol de Septiembre, Aguas de Renaico, Mirador de Biobío y otros sectores rurales de la comuna bureana, fueron parte de un operativo para la salud de sus pies, gracias al trabajo conjunto entre las…",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/operativos-podologicos-mulchen-300x169.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-11T13:47:28.000Z",
-   "visto": "2026-11-11T13:50:22.530Z",
-   "cats": [
     "regional"
    ],
    "local": true
