@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T19:50:19.973Z",
+ "generado": "2026-11-12T20:10:20.912Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 155,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 30,
+    "enlaces": 31,
     "leidas": 13,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/paro-de-camioneros-en-biobio-descartan-desabastecimiento-de-combustibles-en-la-region",
+   "titulo": "Paro de camioneros en Biobío: descartan desabastecimiento de combustibles en la región",
+   "resumen": "La autoridad regional aseguró que el suministro de combustibles se mantiene con normalidad en la mayor parte de las estaciones de servicio del Biobío. Sin embargo, reconoció inconvenientes puntuales en Penco y Los Álamos, mientras la situación continúa bajo…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/516883-oOcY1NnSAbdVYWBG2QSNiTscUltBWs.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T20:10:20.912Z",
+   "visto": "2026-11-12T20:10:20.912Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/12/paro-de-camioneros-gobierno-llama-a-mantener-el-dialogo-mientras-transito-continua-lento-en-rutas-en-el-biobio",
    "titulo": "Paro de camioneros: Gobierno llama a mantener el diálogo mientras tránsito continúa lento en rutas en el Biobío",
