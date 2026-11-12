@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T12:10:23.453Z",
+ "generado": "2026-11-12T13:20:20.748Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 59,
-    "leidas": 1,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 63,
+    "enlaces": 153,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,56 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 32,
-    "leidas": 6,
+    "enlaces": 31,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/zeptoverso-la-escala-mas-pequena-jamas-explorada-que-biobio-observa-desde-lejos.html",
+   "titulo": "Zeptoverso: la escala más pequeña jamás explorada que Biobío observa desde lejos",
+   "resumen": "Desde la UdeC advierten que la ciencia local no cuenta con la infraestructura requerida para avanzar en estas investigaciones de frontera, sólo a nivel teórico.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-zeptoverso-foto-cedida.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T13:20:20.748Z",
+   "visto": "2026-11-12T13:20:20.748Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
+   "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/OS9-LIRQU%C3%89N.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T13:20:20.748Z",
+   "visto": "2026-11-12T13:20:20.748Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/quinta-edicion-del-chocolate-cientifico-reunio-a-mas-de-220-escolares-de-biobio.html",
+   "titulo": "Quinta edición del Chocolate Científico reunió a más de 220 escolares de Biobío",
+   "resumen": "Con las destacadas investigadoras chilenas Dora Altbir y Bárbara Rojas-Ayala se desarrolló este 10 de noviembre la jornada de divulgación científica.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_6638-1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T13:20:20.748Z",
+   "visto": "2026-11-12T13:20:20.748Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/coronel-hombre-asesinado-homicidios-biobio.html",
    "titulo": "Hombre muere tras ser baleado en Coronel: Biobío suma 72 homicidios en el año",
@@ -294,20 +336,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/denuncian-microbasural-cerro-la-u-talcahuano.html",
-   "titulo": "Entre escombros y riesgo industrial: denuncian deterioro de sitio donde O´Higgins proclamó la independencia",
-   "resumen": "A pesar de ser un casco histórico para la historia de Chile, el Cerro La U de Talcahuano presenta una gran contaminación ambiental. Autoridades ya están al tanto de la situación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-basural-Cerro-U-en-Talcahuano-foto-Enrique-Zamora-e1794441231974.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/utilidades-enap-alza-combustibles.html",
    "titulo": "Expertos locales explican los riesgos de destinar utilidades de Enap para enfrentar el alza de combustibles",
    "resumen": "Retiro del proyecto del Gobierno reabrió debate por ganancias de la estatal y subsidios.",
@@ -326,6 +354,20 @@
    "titulo": "Paro de camioneros: taxis colectivos del Biobío evaluarán este jueves unirse a movilizaciones",
    "resumen": "Distintos puntos de la Región del Biobío fueron testigos de las paralizaciones de conductores.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-e1794441376468.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/denuncian-microbasural-cerro-la-u-talcahuano.html",
+   "titulo": "Entre escombros y riesgo industrial: denuncian deterioro de sitio donde O´Higgins proclamó la independencia",
+   "resumen": "A pesar de ser un casco histórico para la historia de Chile, el Cerro La U de Talcahuano presenta una gran contaminación ambiental. Autoridades ya están al tanto de la situación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-basural-Cerro-U-en-Talcahuano-foto-Enrique-Zamora-e1794441231974.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T08:40:19.790Z",
@@ -1649,20 +1691,6 @@
    "titulo": "Exfiscal de Los Ángeles recurre a un amparo tras ser formalizado por delitos que fueron desestimados",
    "resumen": "El exfiscal exfiscal Rodrigo Durán interpuso un recurso de amparo contra el juez de Garantía Bayron Gallardo. Lo acusa de haber autorizado que la Fiscalía le atribuyera delitos que la Corte Suprema había descartado, luego de que el máximo tribunal resolviera…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/exfiscal-los-angeles.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T18:20:23.095Z",
-   "visto": "2026-11-10T18:20:23.095Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/tc-resolvera-esta-semana-admisibilidad-de-recurso-presentado-por-boris-chamorro-en-caso-puerto-coronel",
-   "titulo": "TC definirá esta semana si admite a trámite el recurso de Boris Chamorro por el caso Puerto Coronel",
-   "resumen": "Durante esta semana, el Tribunal Constitucional (TC) resolverá si admite a trámite el requerimiento presentado por el alcalde Boris Chamorro, quien pretende continuar en el cargo mientras enfrenta el juicio oral por el caso Puerto Coronel. El proceso penal…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/boris-chamorro-1.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-10T18:20:23.095Z",
