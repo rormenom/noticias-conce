@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T21:30:24.769Z",
+ "generado": "2026-11-12T21:40:20.389Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 2,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 56,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -82,10 +82,10 @@
  ],
  "items": [
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/inversion-minvu-viviendas-obras-nacimiento.html",
-   "titulo": "Minvu anuncia inversión cercana a los $60 mil millones para construir 700 viviendas en Nacimiento",
-   "resumen": "La cartera destinará recursos para dos comités habitacionales, obras viales y la reposición de cinco viviendas dañadas por termitas en la comuna.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-nacimiento-foto-carolina-e1794518832768.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/camioneros-agua-gloria-movilizacion-alza-combustibles.html",
+   "titulo": "Cerca de 400 camiones mantienen movilización en Agua de la Gloria por alza de combustibles",
+   "resumen": "Vocero de la agrupación Juan Riquelme cifró en 400 las máquinas apostadas en la ruta desde el lunes, exigiendo eliminar el impuesto específico y desconociendo los acuerdos alcanzados por dirigencias nacionales en Santiago.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-4.jpg-e1794518715830.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T21:30:24.769Z",
@@ -96,10 +96,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/camioneros-agua-gloria-movilizacion-alza-combustibles.html",
-   "titulo": "Cerca de 400 camiones mantienen movilización en Agua de la Gloria por alza de combustibles",
-   "resumen": "Vocero de la agrupación Juan Riquelme cifró en 400 las máquinas apostadas en la ruta desde el lunes, exigiendo eliminar el impuesto específico y desconociendo los acuerdos alcanzados por dirigencias nacionales en Santiago.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-4.jpg-e1794518715830.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/inversion-minvu-viviendas-obras-nacimiento.html",
+   "titulo": "Minvu anuncia inversión cercana a los $60 mil millones para construir 700 viviendas en Nacimiento",
+   "resumen": "La cartera destinará recursos para dos comités habitacionales, obras viales y la reposición de cinco viviendas dañadas por termitas en la comuna.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-nacimiento-foto-carolina-e1794518832768.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T21:30:24.769Z",
