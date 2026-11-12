@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T02:30:23.176Z",
+ "generado": "2026-11-12T02:40:19.114Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -18,8 +18,7 @@
    "id": "radioudec",
    "nombre": "Radio UdeC",
    "url": "https://www.radioudec.cl/",
-   "ok": false,
-   "error": "HTTP 522",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
