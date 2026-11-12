@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T14:30:23.692Z",
+ "generado": "2026-11-12T14:40:22.730Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 61,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 9,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
@@ -125,7 +125,7 @@
   },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/12/gobierno-inicia-en-biobio-dialogos-previos-con-comunidades-mapuche-para-preparar-consulta-indigena-2027/",
-   "titulo": "Gobierno inicia en Biobío diálogos previos con comunidades mapuche para preparar Consulta Indígena 2027",
+   "titulo": "Gobierno inicia diálogos previos con comunidades para preparar Consulta Indígena 2027",
    "resumen": "Los Álamos y Contulmo acogieron los primeros encuentros de una etapa preparatoria que contempla cinco localidades de la región y 41 en el sur del país. La consulta abordará una propuesta para ampliar voluntariamente las alternativas de uso de las tierras…",
    "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-09.43.11-768x512.jpeg",
    "fuente": "El Conquistador",
@@ -393,6 +393,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/denuncian-microbasural-cerro-la-u-talcahuano.html",
+   "titulo": "Entre escombros y riesgo industrial: denuncian deterioro de sitio donde O´Higgins proclamó la independencia",
+   "resumen": "A pesar de ser un casco histórico para la historia de Chile, el Cerro La U de Talcahuano presenta una gran contaminación ambiental. Autoridades ya están al tanto de la situación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-basural-Cerro-U-en-Talcahuano-foto-Enrique-Zamora-e1794441231974.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/utilidades-enap-alza-combustibles.html",
    "titulo": "Expertos locales explican los riesgos de destinar utilidades de Enap para enfrentar el alza de combustibles",
    "resumen": "Retiro del proyecto del Gobierno reabrió debate por ganancias de la estatal y subsidios.",
@@ -411,20 +425,6 @@
    "titulo": "Paro de camioneros: taxis colectivos del Biobío evaluarán este jueves unirse a movilizaciones",
    "resumen": "Distintos puntos de la Región del Biobío fueron testigos de las paralizaciones de conductores.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-e1794441376468.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/denuncian-microbasural-cerro-la-u-talcahuano.html",
-   "titulo": "Entre escombros y riesgo industrial: denuncian deterioro de sitio donde O´Higgins proclamó la independencia",
-   "resumen": "A pesar de ser un casco histórico para la historia de Chile, el Cerro La U de Talcahuano presenta una gran contaminación ambiental. Autoridades ya están al tanto de la situación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-basural-Cerro-U-en-Talcahuano-foto-Enrique-Zamora-e1794441231974.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T08:40:19.790Z",
