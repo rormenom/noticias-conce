@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T11:00:28.826Z",
+ "generado": "2026-11-12T11:10:20.524Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 59,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 6,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/puente-llacolen-bus-detenido-alta-congestion.html",
+   "titulo": "Puente Llacolén: bus con desperfecto mecánico provoca alta congestión vehicular",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Puente-Llacolen.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T11:10:20.524Z",
+   "visto": "2026-11-12T11:10:20.524Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/12/gran-concepcion-camioneros-se-manifestaron-bloqueando-acceso-a-depositos-en-puerto-de-san-vicente",
    "titulo": "Camioneros bloquearon los accesos a depósitos del Puerto de San Vicente, en el Gran Concepción",
@@ -1653,20 +1667,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-10T18:11:33.000Z",
    "visto": "2026-11-10T18:20:23.095Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/deudas-tributarias-pymes-biobio.html",
-   "titulo": "Ley de Reconstrucción: promueven facilidades de pago para deudas fiscales y territoriales de personas y Pymes del Biobío",
-   "resumen": "A un mes de la entrada en vigencia de la Ley de Reconstrucción, cerca de mil contribuyentes de la región ya suscribieron convenios de pago con TGR, comprometiendo más de $600 millones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-10-at-1.41.49-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T18:00:28.643Z",
-   "visto": "2026-11-10T18:00:28.643Z",
    "cats": [
     "regional"
    ],
