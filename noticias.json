@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T10:50:20.706Z",
+ "generado": "2026-11-12T11:00:28.826Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 65,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 5,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/gran-concepcion-camioneros-se-manifestaron-bloqueando-acceso-a-depositos-en-puerto-de-san-vicente",
+   "titulo": "Camioneros bloquearon los accesos a depósitos del Puerto de San Vicente, en el Gran Concepción",
+   "resumen": "Los camioneros del Gran Concepción, en la región del Bío Bío, se manifestaron bloqueando el acceso a los depósitos de contenedores del Puerto de San Vicente, en Talcahuano. También se reunieron en otros caminos para expresar su malestar con el Gobierno. Lee…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/camioneros-puerto-san-vicente.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T11:00:28.826Z",
+   "visto": "2026-11-12T11:00:28.826Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/12/bomberos-de-concepcion-denuncia-el-robo-de-equipos-de-comunicacion-por-mas-de-48-millones",
    "titulo": "Bomberos de Concepción denuncia el robo de equipos de comunicación por más de $4,8 millones",
@@ -1652,20 +1666,6 @@
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T18:00:28.643Z",
-   "visto": "2026-11-10T18:00:28.643Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/10/tc-resolvera-esta-semana-admisibilidad-de-recurso-presentado-por-boris-chamorro-en-caso-puerto-coronel.shtml",
-   "titulo": "TC resolverá esta semana admisibilidad de recurso presentado por Boris Chamorro en caso Puerto Coronel",
-   "resumen": "Esta semana el Tribunal Constitucional (TC) decretará si es o no admisible el requerimiento presentado por el alcalde Boris...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7014213-boris-chamorro-1.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-10T18:00:25.000Z",
    "visto": "2026-11-10T18:00:28.643Z",
    "cats": [
     "regional"
