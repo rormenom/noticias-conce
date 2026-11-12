@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T14:40:22.730Z",
+ "generado": "2026-11-12T14:50:21.294Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 58,
-    "leidas": 0,
+    "enlaces": 59,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 62,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,35 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/atropello-peaton-avenida-los-carrera-angol-concepcion.html",
+   "titulo": "Reportan atropello de peatón en el centro de Concepción durante la mañana de este jueves",
+   "resumen": "El hecho ocurrió alrededor de las 10:47 horas de este jueves en el centro de Concepción. Equipos de emergencia trabajan en el lugar y se sugiere acceder a avenida Los Carrera por calle Serrano.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/HW7ddoxXYAAgILg-e1794494473298.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T14:50:21.294Z",
+   "visto": "2026-11-12T14:50:21.294Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/giacaman-critica-al-gobierno-pide-mas-cintura-y-menos-purismo-ante-paro-de-transportistas.shtml",
+   "titulo": "Giacaman critica al Gobierno: pide \"más cintura\" y \"menos purismo\" ante paro de transportistas",
+   "resumen": "Una dura crítica al Gobierno lanzó el gobernador regional del Bío Bío, Sergio Giacaman, en medio de la crisis que...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016727-giacaman-critica-al-gobierno_-pide-_mas-cintura_-y-_menos-purismo_-ante-paro-de-transportistas.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-12T14:49:47.000Z",
+   "visto": "2026-11-12T14:50:21.294Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/12/violento-asalto-a-farmacia-comunitaria-en-el-sector-collao-de-concepcion",
    "titulo": "Violento asalto a farmacia comunitaria en el sector Collao de Concepción",
@@ -1670,34 +1699,6 @@
    "visto": "2026-11-10T19:00:29.139Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/todo-lo-que-debes-saber-sobre-el-pago-electronico-de-las-micros-en-el-gran-concepcion",
-   "titulo": "Guía para entender el pago electrónico en las micros del Gran Concepción",
-   "resumen": "La marcha blanca del pago electrónico en los microbuses del Gran Concepción se iniciará el próximo 1 de diciembre, con una modalidad mixta que permitirá pagar tanto con el nuevo sistema como en efectivo. La iniciativa reemplazará el método de pago vigente por…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/microbuses-pago-electronico-concepcion.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T18:50:21.288Z",
-   "visto": "2026-11-10T18:50:21.288Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/10/fundacion-en-ti-reprograman-por-sexta-vez-preparacion-de-juicio-oral-contra-camila-polizzi.shtml",
-   "titulo": "Fundación En Ti: reprograman por sexta vez preparación de juicio oral contra Camila Polizzi",
-   "resumen": "Por sexta vez fue reprogramada la preparación del juicio en la arista del caso Convenios que involucra a Camila...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7014291-camila-polizzi.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-10T18:44:43.000Z",
-   "visto": "2026-11-10T18:50:21.288Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
