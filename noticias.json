@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T18:30:24.656Z",
+ "generado": "2026-11-12T18:40:20.993Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 58,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/cuartos-medios-sin-licenciatura-liceo-de-talcahuano-suspende-ceremonia-por-amenazas-de-apoderado.shtml",
+   "titulo": "Cuartos medios sin licenciatura: Liceo de Talcahuano suspende ceremonia por amenazas de apoderado",
+   "resumen": "Apoderados y estudiantes protestaron afuera del Liceo A-21 de Talcahuano, en la región del Bío Bío, por la suspensión...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7017165-alumnos-apoderados-liceo-talcahuano.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-12T18:34:28.000Z",
+   "visto": "2026-11-12T18:40:20.993Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/estos-son-los-principales-panoramas-culturales-para-el-gran-concepcion-para-los-proximo-dias.html",
    "titulo": "Estos son los principales panoramas culturales para el Gran Concepción para los próximo días",
