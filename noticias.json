@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T15:40:20.631Z",
+ "generado": "2026-11-12T16:10:23.246Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 59,
-    "leidas": 1,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,35 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/penco-reparacion-vial-incendios.html",
+   "titulo": "Destinan 430 millones de pesos permitirán reparar 2.250 metros cuadrados de calzadas y veredas en Penco y Lirquén",
+   "resumen": "Con financiamiento del Gobierno Regional del Biobío, dos proyectos rehabilitarán vías de Penco y Lirquén deterioradas por la emergencia de enero de 2026 y el tránsito de maquinaria pesada. Las obras consideran reposición de pavimentos y reparación de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO_01.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T16:10:23.246Z",
+   "visto": "2026-11-12T16:10:23.246Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/delegado-presidencial-dialoga-trabajadores-san-vicente.html",
+   "titulo": "Puerto de San Vicente: delegado presidencial se reúne con trabajadores movilizados y aborda medidas ante alza del combustible",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-35-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T16:10:23.246Z",
+   "visto": "2026-11-12T16:10:23.246Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/greenpeace-ley-de-incendios-veto-sustitutivo.html",
    "titulo": "“Su futuro sigue siendo incierto”: Greenpeace sobre Ley de Incendios y veto sustitutivo",
@@ -1563,34 +1592,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/proyecto-gef-conservacion-aves-humedales-rocuant-andalien.html",
-   "titulo": "Elaboran plan de inyección de recursos para salvar aves migratorias en el humedal Rocuant-Andalién",
-   "resumen": "La iniciativa contempla una inversión global de US$2,1 millones del Fondo para el Medio Ambiente Mundial.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-pitotoy-foto-Instagram-katherine-sanhueza.jpg-e1794360046260.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T08:40:19.390Z",
-   "visto": "2026-11-11T08:40:19.390Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/robo-bancos-biobio-concepcion-historial-atracos.html",
-   "titulo": "De túneles a forados: los robos bancarios registrados en el Biobío en los últimos 14 años",
-   "resumen": "El atraco a la sucursal BCI de Concepción, cuyo botín fue estimado en al menos $4.000 millones, se suma a una serie de delitos consumados y frustrados que han afectado a entidades bancarias de la zona desde 2012.",
-   "imagen": "https://assets.diarioconcepcion.cl/2021/01/pag-10-secundario-banco-estado-e1794360772354.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T08:40:19.390Z",
-   "visto": "2026-11-11T08:40:19.390Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/noche-de-museos-vuelve-biobio-mas-de-20-espacios-37-actividades-gratuitas.html",
    "titulo": "Noche de Museos vuelve a Biobío con más de 20 espacios y 37 actividades gratuitas",
    "resumen": "",
@@ -2737,36 +2738,6 @@
    "visto": "2026-11-07T22:40:18.865Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/ministra-parot-sobre-la-discapacidad-una-falta-de-acceso-puede-significar-dejar-de-ejercer-derechos.html",
-   "titulo": "Ministra Parot sobre la discapacidad: “Una falta de acceso puede significar dejar de ejercer derechos”",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-5-Catalina-Parot-Ministra-de-Bienes-Nacionales-foto-isidoro.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-07T16:10:19.290Z",
-   "visto": "2026-11-07T16:10:19.290Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/07/chiguayante-concejales-cuestionan-ante-contraloria-el-incremento-de-gasto-en-personal-a-contrata.html",
-   "titulo": "Chiguayante: concejales cuestionan ante Contraloría el incremento de gasto en personal a contrata",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-4-fachada-municipalidad-de-chiguayante-foto-diario-concepci%C3%B3n.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-07T16:10:19.290Z",
-   "visto": "2026-11-07T16:10:19.290Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
