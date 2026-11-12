@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T20:20:20.236Z",
+ "generado": "2026-11-12T21:30:24.769Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 57,
+    "enlaces": 153,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/inversion-minvu-viviendas-obras-nacimiento.html",
+   "titulo": "Minvu anuncia inversión cercana a los $60 mil millones para construir 700 viviendas en Nacimiento",
+   "resumen": "La cartera destinará recursos para dos comités habitacionales, obras viales y la reposición de cinco viviendas dañadas por termitas en la comuna.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-nacimiento-foto-carolina-e1794518832768.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T21:30:24.769Z",
+   "visto": "2026-11-12T21:30:24.769Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/camioneros-agua-gloria-movilizacion-alza-combustibles.html",
+   "titulo": "Cerca de 400 camiones mantienen movilización en Agua de la Gloria por alza de combustibles",
+   "resumen": "Vocero de la agrupación Juan Riquelme cifró en 400 las máquinas apostadas en la ruta desde el lunes, exigiendo eliminar el impuesto específico y desconociendo los acuerdos alcanzados por dirigencias nacionales en Santiago.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-4.jpg-e1794518715830.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T21:30:24.769Z",
+   "visto": "2026-11-12T21:30:24.769Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/12/transporte-publico-de-concepcion-respalda-paro-de-camioneros-y-llama-a-movilizacion-de-brazos-caidos",
    "titulo": "Transporte público de Concepción respalda paro de camioneros y llama a movilización de brazos caídos",
@@ -552,20 +580,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
-   "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/OS9-LIRQU%C3%89N.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T13:20:20.748Z",
-   "visto": "2026-11-12T13:20:20.748Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/quinta-edicion-del-chocolate-cientifico-reunio-a-mas-de-220-escolares-de-biobio.html",
    "titulo": "Quinta edición del Chocolate Científico reunió a más de 220 escolares de Biobío",
    "resumen": "Con las destacadas investigadoras chilenas Dora Altbir y Bárbara Rojas-Ayala se desarrolló este 10 de noviembre la jornada de divulgación científica.",
@@ -590,6 +604,20 @@
    "visto": "2026-11-12T13:20:20.748Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
+   "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/OS9-LIRQU%C3%89N.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T13:20:20.748Z",
+   "visto": "2026-11-12T13:20:20.748Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1489,34 +1517,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-11T14:59:54.000Z",
    "visto": "2026-11-11T15:02:20.214Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/camioneros-bloquean-puerto-san-vicente.html",
-   "titulo": "Camioneros bloquean acceso a Puerto San Vicente en Talcahuano",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/SAN-VICENTE-PUERTO.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T14:50:22.689Z",
-   "visto": "2026-11-11T14:50:22.689Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/camioneros-bloquean-parcialmente-la-ruta-160-en-coronel-reportan-incidentes-y-danos-a-vehiculos-de-carga",
-   "titulo": "Camioneros bloquean parcialmente la Ruta 160 en Coronel: reportan incidentes y daños a vehículos de carga",
-   "resumen": "Una nueva jornada de movilizaciones de camioneros se desarrolla este miércoles 11 de noviembre en la Región del Biobío, donde cerca de 30 transportistas mantienen bloqueada una de las dos pistas de circulación de la Ruta 160, a la altura del kilómetro 18,5 en…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/coronel-foto.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T14:30:27.296Z",
-   "visto": "2026-11-11T14:30:27.296Z",
    "cats": [
     "regional"
    ],
