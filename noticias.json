@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T23:40:20.662Z",
+ "generado": "2026-11-12T00:20:19.543Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 58,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
@@ -526,6 +526,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-11T15:50:20.950Z",
    "visto": "2026-11-11T15:50:20.950Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/11/micreros-de-lota-arauco-y-concepcion-se-suman-al-paro-y-anuncian-movilizacion-para-este-jueves",
+   "titulo": "Transportistas de Lota, Arauco y Concepción adhieren al paro y convocan a movilizarse este jueves",
+   "resumen": "Conductores independientes de microbuses que cubren la ruta entre Lota y Concepción informaron que se movilizarán este jueves, en adhesión al paro nacional de camioneros que se desarrolla en el país por el incremento en el precio de los combustibles. De…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-11T15:00:00.000Z",
+   "visto": "2026-11-12T00:20:19.543Z",
    "cats": [
     "regional"
    ],
@@ -1610,20 +1624,6 @@
    "visto": "2026-11-10T13:10:20.434Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/no-podemos-seguir-trabajando-camioneros-y-transportistas-se-manifiestan-en-talcahuano.html",
-   "titulo": "“No podemos seguir trabajando”: camioneros y transportistas se manifiestan en Talcahuano",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-10-at-9.48.30-AM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T13:00:27.586Z",
-   "visto": "2026-11-10T13:00:27.586Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
