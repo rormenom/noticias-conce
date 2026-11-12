@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T15:30:25.549Z",
+ "generado": "2026-11-12T15:40:20.631Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 60,
-    "leidas": 0,
+    "enlaces": 59,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 11,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/greenpeace-ley-de-incendios-veto-sustitutivo.html",
+   "titulo": "“Su futuro sigue siendo incierto”: Greenpeace sobre Ley de Incendios y veto sustitutivo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/11/pag-13-helicoptero-incendio-forestal-foto-raphael-e1772642603379.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T15:40:20.631Z",
+   "visto": "2026-11-12T15:40:20.631Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/puerto-de-san-vicente-autoridades-regionales-y-armada-se-reunen-por-bloqueo-de-camioneros",
+   "titulo": "Puerto de San Vicente: Autoridades regionales y Armada se reúnen tras bloqueo de camioneros",
+   "resumen": "Autoridades regionales, representantes de la Armada y ejecutivos portuarios sostienen una reunión de coordinación en la Capitanía de Puerto de San Vicente, en la comuna de Talcahuano, para evaluar el impacto de la tercera jornada de movilizaciones del…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-12-at-11.42.29-e1794497380756.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T15:40:20.631Z",
+   "visto": "2026-11-12T15:40:20.631Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/12/caso-puerto-coronel-tc-acoge-requerimiento-de-alcalde-chamorro-para-evitar-suspension-de-su-cargo",
    "titulo": "Tribunal Constitucional acepta recurso de alcalde Chamorro para impedir que lo suspendan del cargo",
@@ -621,20 +649,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/hualpen-mantienen-arresto-domiciliario-imputado-vertedero-humedal-vasco-gama.html",
-   "titulo": "Humedal Vasco de Gama: mantienen arresto domiciliario para imputado por presuntos daños al ecosistema",
-   "resumen": "El Juzgado de Garantía de Talcahuano rechazó la solicitud de la defensa para sustituir la medida cautelar por firma periódica. El Ministerio Público investiga delitos asociados a un vertedero generado en el lugar e incluso lavado de activos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-vertedero-clandestino-en-humedal-Vasco-de-Gama-foto-archivo-cedida-e1794430167177.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/creacion-filmica-no-tiene-edad-cinelebu-desarrolla-experiencias-audiovisuales-distintas-generaciones.html",
    "titulo": "La creación fílmica no tiene edad: Cinelebu desarrolla experiencias audiovisuales para distintas generaciones",
    "resumen": "Quince niños y un grupo de personas mayores participan en experiencias gratuitas de animación Stop Motion, impulsadas por la sección de Escuela de esta iniciativa cinematográfica lebulense. Las actividades contemplan procesos de creación con plasticina,…",
@@ -673,6 +687,20 @@
    "visto": "2026-11-12T08:40:19.790Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/hualpen-mantienen-arresto-domiciliario-imputado-vertedero-humedal-vasco-gama.html",
+   "titulo": "Humedal Vasco de Gama: mantienen arresto domiciliario para imputado por presuntos daños al ecosistema",
+   "resumen": "El Juzgado de Garantía de Talcahuano rechazó la solicitud de la defensa para sustituir la medida cautelar por firma periódica. El Ministerio Público investiga delitos asociados a un vertedero generado en el lugar e incluso lavado de activos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-vertedero-clandestino-en-humedal-Vasco-de-Gama-foto-archivo-cedida-e1794430167177.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1587,20 +1615,6 @@
    "visto": "2026-11-11T23:20:26.584Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/unos-700-camioneros-se-movilizan-y-causan-cortes-de-ruta-en-bio-bio-hay-reunion-clave-este-miercoles.shtml",
-   "titulo": "Unos 700 camioneros se movilizan y causan cortes de ruta en Bío Bío: hay reunión clave este miércoles",
-   "resumen": "Bloqueos en Cabrero y en la autopista de ingreso a Concepción protagonizan camioneros que se sumaron en la región...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7014911-cntxt-rbb-por-unos-700-camioneros-se-movilizan-y-causan-cortes-de-ruta-en-bio-bio-hay-reunion-clave-este-miercoles.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-11T04:23:19.000Z",
-   "visto": "2026-11-11T04:30:25.585Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
