@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T15:00:29.538Z",
+ "generado": "2026-11-12T15:10:23.228Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 60,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 8,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/talcahuano-protesta-en-liceo-a-21-tras-suspension-de-licenciatura-por-amenazas",
+   "titulo": "Talcahuano: estudiantes y apoderados protesta en Liceo A-21 tras suspensión de licenciatura por amenazas",
+   "resumen": "Molestia se vive a esta hora en la comuna de Talcahuano, específicamente en las afueras del Liceo A-21. Apoderados y estudiantes se han congregado para protestar luego de que el establecimiento educacional decidiera suspender la tradicional licenciatura de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-12-at-11.38.42-e1794495189347.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T15:10:23.228Z",
+   "visto": "2026-11-12T15:10:23.228Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/liceo-a-21-talcahuano-licenciatura-suspendida.html",
    "titulo": "Por amenazas y desmanes: suspenden licenciatura de cuartos medios del Liceo A-21 de Talcahuano",
@@ -1657,20 +1671,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/10/ips-aporte-familiar-permanente-cobro-plazos.html",
-   "titulo": "Más de 180 mil familias han cobrado el Aporte Familiar Permanente en la Región del Biobío",
-   "resumen": "La gran mayoría de las personas ya cobró su Aporte Familiar Permanente. Para quienes tienen pago presencial y aún no han retirado el beneficio, el IPS hace un llamado a revisar el sitio www.chileatiende.cl. El plazo de cobro comienza a vencer a mediados de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IPS-e1794341136845.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T20:10:22.265Z",
-   "visto": "2026-11-10T20:10:22.265Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
