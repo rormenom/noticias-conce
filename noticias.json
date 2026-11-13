@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T20:10:21.076Z",
+ "generado": "2026-11-13T20:20:20.195Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 57,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 29,
-    "leidas": 12,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/udec-conservacion-biodiversidad-festival-ladera-sur.html",
+   "titulo": "Universidad de Concepción lleva su trabajo en conservación y biodiversidad al Festival Ladera Sur",
+   "resumen": "A través de la Facultad de Ciencias Forestales, Campus Naturaleza y el Centro Copas Coastal, la Casa de Estudios penquista participa en el encuentro que se realizará hoy y hasta el domingo en Santiago, donde dará a conocer sus investigaciones e iniciativas…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Universidad-de-Concepci%C3%B3n-lleva-su-trabajo-en-conservaci%C3%B3n-y-biodiversidad-al-Festival-Ladera-Sur.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T20:20:20.195Z",
+   "visto": "2026-11-13T20:20:20.195Z",
+   "cats": [
+    "tecnologia",
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/13/renuncia-julio-friedmann-gerencia-general-enap.html",
    "titulo": "Renuncia gerente general de Enap: Julio Friedmann dejará la compañía petrolera en febrero de 2027",
@@ -110,10 +125,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/agricultor-de-los-angeles-sufre-robo-de-maquinarias-ofrece-recompensa-por-informacion-clave",
-   "titulo": "Agricultor de Los Ángeles ofrece una recompensa tras el robo de su maquinaria: busca información clave",
-   "resumen": "El avalúo preliminar del robo que sufrió un agricultor en el sector rural La Perla, en la comuna de Los Ángeles, supera los 25 millones de pesos. Guillermo Quijada, dueño de las especies, explicó que los tractores y equipos sustraídos de su galpón tienen un…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/post-1.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/13/linea-de-buses-de-concepcion-sorteara-1-000-de-las-nuevas-tarjetas-de-pago-electronico-como-concursar",
+   "titulo": "Buses de Concepción regalarán 1.000 nuevas tarjetas de pago electrónico: conoce cómo participar",
+   "resumen": "La compañía Buses Cóndor SpA, a cargo de la línea 65 del Gran Concepción, informó que en noviembre realizará el sorteo de 1.000 tarjetas para el pago electrónico. La iniciativa se desarrolla mientras la Seremi de Transportes del Bío Bío alista la puesta en…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/sorteo-buses-condor-tarjetas-pago-electronico.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-13T20:10:21.076Z",
@@ -124,10 +139,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/linea-de-buses-de-concepcion-sorteara-1-000-de-las-nuevas-tarjetas-de-pago-electronico-como-concursar",
-   "titulo": "Buses de Concepción regalarán 1.000 nuevas tarjetas de pago electrónico: conoce cómo participar",
-   "resumen": "La compañía Buses Cóndor SpA, a cargo de la línea 65 del Gran Concepción, informó que en noviembre realizará el sorteo de 1.000 tarjetas para el pago electrónico. La iniciativa se desarrolla mientras la Seremi de Transportes del Bío Bío alista la puesta en…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/sorteo-buses-condor-tarjetas-pago-electronico.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/13/agricultor-de-los-angeles-sufre-robo-de-maquinarias-ofrece-recompensa-por-informacion-clave",
+   "titulo": "Agricultor de Los Ángeles ofrece una recompensa tras el robo de su maquinaria: busca información clave",
+   "resumen": "El avalúo preliminar del robo que sufrió un agricultor en el sector rural La Perla, en la comuna de Los Ángeles, supera los 25 millones de pesos. Guillermo Quijada, dueño de las especies, explicó que los tractores y equipos sustraídos de su galpón tienen un…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/post-1.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-13T20:10:21.076Z",
@@ -676,20 +691,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/sociedad-chilena-ciencias-mar-biobio.html",
-   "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
-   "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/13/udec-programa-rescate-legado-teatral.html",
    "titulo": "UdeC impulsa el rescate de su legado teatral con nuevo programa de creación y formación escénica",
    "resumen": "“Escena UdeC” es el nombre de la iniciativa adjudicada por la Universidad de Concepción en el Fondo de las Artes Escénicas 2026, que contempla dos montajes, procesos formativos y actividades de mediación para acercar el teatro a las comunidades del Biobío y…",
@@ -700,6 +701,20 @@
    "visto": "2026-11-13T08:40:18.652Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/sociedad-chilena-ciencias-mar-biobio.html",
+   "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
+   "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
