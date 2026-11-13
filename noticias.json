@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T17:00:28.586Z",
+ "generado": "2026-11-13T17:10:21.554Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/el-cruce-cierra-gira-de-sus-25-anos-de-trayectoria-en-concepcion",
+   "titulo": "El Cruce cierra gira de sus 25 años de trayectoria en Concepción",
+   "resumen": "Tras una serie de prensentaciones en Iquique, La Serena, Valparaíso, Santiago y Temuco, la emblemática banda nacional de blues criollo, El Cruce, regresó a Concepción para presentarse este viernes 13 de noviembre en lo que será el cierre de las celebraciones…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/el-cruce.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T17:10:21.554Z",
+   "visto": "2026-11-13T17:10:21.554Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/13/viaja-a-rapa-nui-sin-salir-del-biobio-festival-gratuito-tendra-bailes-y-tradiciones-polinesias",
    "titulo": "¡Viaja a Rapa Nui sin salir del Biobío! festival gratuito tendrá bailes y tradiciones polinesias",
@@ -1480,20 +1494,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-11T23:30:24.200Z",
    "visto": "2026-11-11T23:30:24.200Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/bio-bio-paro-de-camioneros-mantiene-cortes-en-ruta-146-y-se-suma-protesta-estudiantil-en-concepcion",
-   "titulo": "Camioneros bloquean la Ruta 146 en Biobío y estudiantes se movilizan en Concepción",
-   "resumen": "El tránsito en dirección a Concepción volvió a habilitarse la tarde de este miércoles en el sector Juan Riquelme de la Ruta 146, mientras continúa el paro de camioneros en distintos puntos del país. En ese lugar, situado en la ruta que también une con…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/agenciauno-cedida.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T22:50:19.385Z",
-   "visto": "2026-11-11T22:50:19.385Z",
    "cats": [
     "regional"
    ],
