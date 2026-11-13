@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T01:10:18.958Z",
+ "generado": "2026-11-13T01:20:20.243Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
+    "enlaces": 151,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/acuerdo-del-gobierno-divide-a-gremios-de-transportistas-locales-y-delegado-presidencial-regional-s-llamo-a-volver-a-trabajar/",
+   "titulo": "Acuerdo del Gobierno divide a gremios de transportistas locales y delegado presidencial regional (s) llamó a “volver a trabajar”",
+   "resumen": "En el sector de la Ruta 5 Sur, a la […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/paro-muere-768x432.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-13T01:12:24.000Z",
+   "visto": "2026-11-13T01:20:20.243Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/camioneros-deponen-paro-en-3-puntos-del-gran-concepcion-tras-propuesta-del-gobierno.shtml",
    "titulo": "Camioneros deponen paro en 3 puntos del Gran Concepción tras acuerdo del Gobierno con gremios",
@@ -1535,20 +1550,6 @@
    "visto": "2026-11-12T01:30:24.287Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/11/agro-paro-transportistas-impacto.html",
-   "titulo": "Biobío: paro de camiones pone en riesgo cosechas de exportación y la cadena alimentaria",
-   "resumen": "Los gremios advierten graves pérdidas económicas tras el bloqueo de rutas y el aumento de los combustibles. Autoridades regionales reportan cerca de 700 camiones detenidos y aseguran mantener diálogos para evitar mayores afectaciones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-arandanos-en-Chile-foto-sag.jpg-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T15:00:00.000Z",
-   "visto": "2026-11-12T16:40:22.769Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
