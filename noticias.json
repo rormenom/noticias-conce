@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T11:30:24.807Z",
+ "generado": "2026-11-13T11:35:06.825Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 57,
+    "enlaces": 152,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/dos-heridos-deja-colision-con-posterior-volcamiento-en-puente-esmeralda-de-concepcion.shtml",
+   "titulo": "Dos heridos deja colisión con posterior volcamiento en Puente Esmeralda de Concepción",
+   "resumen": "Dos personas resultaron heridas tras una colisión registrada este viernes en el Puente Esmeralda de Concepción, en la región...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7017888-colision-puente-esmeralda-concepcion-.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-13T11:34:44.000Z",
+   "visto": "2026-11-13T11:35:06.825Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/puente-esmeralda-colision-vehiculos.html",
    "titulo": "Puente Esmeralda: colisión frontal de vehículos provoca alta congestión",
@@ -1534,20 +1548,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-11T18:20:20.154Z",
    "visto": "2026-11-11T18:20:20.154Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/tome-carabinero-que-habia-sido-condenando-por-causa-de-estallido-social-es-absuelto-en-segundo-juicio.shtml",
-   "titulo": "Tomé: carabinero que había sido condenando por causa de estallido social es absuelto en segundo juicio",
-   "resumen": "En veredicto absolutorio terminó el segundo juicio contra un carabinero de Tomé -en la región del Bío Bío- acusado por...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7015743-carabinero.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-11T18:03:26.000Z",
-   "visto": "2026-11-11T18:10:19.901Z",
    "cats": [
     "regional"
    ],
