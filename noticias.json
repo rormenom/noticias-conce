@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T13:20:21.437Z",
+ "generado": "2026-11-13T13:50:20.277Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/penco-lirquen-recupera-sus-calles-danadas-tras-los-incendios-forestales/",
+   "titulo": "Penco Lirquén recupera sus calles dañadas tras los incendios forestales",
+   "resumen": "Con una inversión de 430 millones de pesos, proveniente del […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/FOTO_08-768x428.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-13T13:49:05.000Z",
+   "visto": "2026-11-13T13:50:20.277Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/subida-la-gloria-talcahuano-restablecen-transito.html",
    "titulo": "Talcahuano: restablecen tránsito en ambos sentidos de Subida La Gloria",
