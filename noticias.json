@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T19:30:25.037Z",
+ "generado": "2026-11-13T20:10:21.076Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
-    "leidas": 62,
+    "enlaces": 148,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,69 @@
    "diag": {
     "paginas": 3,
     "enlaces": 29,
-    "leidas": 7,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/13/renuncia-julio-friedmann-gerencia-general-enap.html",
+   "titulo": "Renuncia gerente general de Enap: Julio Friedmann dejará la compañía petrolera en febrero de 2027",
+   "resumen": "El ejecutivo permanecerá en la empresa hasta el próximo 5 de febrero mientras el directorio busca a su sucesor.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Julio-Friedmann-Enap-renuncia-foto-enap-cedida-e1794599991561.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T20:10:21.076Z",
+   "visto": "2026-11-13T20:10:21.076Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/chofer-de-micro-queda-grave-tras-ser-agredido-por-jovenes-que-se-negaron-a-pagar-pasaje-en-concepcion",
+   "titulo": "Concepción: chofer de micro queda grave tras ser agredido por jóvenes que rechazaron pagar el pasaje",
+   "resumen": "Un conductor de la línea de buses Tomé-Concepción permanece hospitalizado con lesiones graves tras ser atacado por dos jóvenes que se rehusaron a pagar el pasaje. La agresión ocurrió el jueves por la tarde en el terminal situado en la intersección de Salas y…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/restore-diseno-sin-titulo-18-600x315-1200x633-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T20:10:21.076Z",
+   "visto": "2026-11-13T20:10:21.076Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/agricultor-de-los-angeles-sufre-robo-de-maquinarias-ofrece-recompensa-por-informacion-clave",
+   "titulo": "Agricultor de Los Ángeles ofrece una recompensa tras el robo de su maquinaria: busca información clave",
+   "resumen": "El avalúo preliminar del robo que sufrió un agricultor en el sector rural La Perla, en la comuna de Los Ángeles, supera los 25 millones de pesos. Guillermo Quijada, dueño de las especies, explicó que los tractores y equipos sustraídos de su galpón tienen un…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/post-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T20:10:21.076Z",
+   "visto": "2026-11-13T20:10:21.076Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/linea-de-buses-de-concepcion-sorteara-1-000-de-las-nuevas-tarjetas-de-pago-electronico-como-concursar",
+   "titulo": "Buses de Concepción regalarán 1.000 nuevas tarjetas de pago electrónico: conoce cómo participar",
+   "resumen": "La compañía Buses Cóndor SpA, a cargo de la línea 65 del Gran Concepción, informó que en noviembre realizará el sorteo de 1.000 tarjetas para el pago electrónico. La iniciativa se desarrolla mientras la Seremi de Transportes del Bío Bío alista la puesta en…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/sorteo-buses-condor-tarjetas-pago-electronico.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T20:10:21.076Z",
+   "visto": "2026-11-13T20:10:21.076Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/desisten-evaluacion-central-hidroelectrica-san-carlos.html",
    "titulo": "A siete días de su ingreso: desisten de tramitación ambiental de central hidroeléctrica en río Biobío",
@@ -1004,6 +1060,20 @@
    "local": true
   },
   {
+   "url": "https://www.canal9.cl/episodios/2026/11/12/corma-asegura-que-paro-de-camiones-obligo-a-pymes-a-suspender-produccion-por-falta-de-materia-prima",
+   "titulo": "Corma afirma que el paro de camiones dejó a pymes sin insumos y forzó la suspensión de su producción.",
+   "resumen": "La detención de los transportistas y los cortes de caminos ya están repercutiendo en las pequeñas y medianas empresas madereras. Algunas firmas han tenido que detener sus actividades por la falta de materia prima, lo que motivó a la Corporación Chilena de la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-92.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-12T15:30:25.549Z",
+   "visto": "2026-11-12T15:30:25.549Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/12/caso-puerto-coronel-tc-acoge-requerimiento-de-alcalde-chamorro-para-evitar-suspension-de-su-cargo",
    "titulo": "Tribunal Constitucional acepta recurso de alcalde Chamorro para impedir que lo suspendan del cargo",
    "resumen": "El Tribunal Constitucional (TC) acogió el requerimiento del alcalde de Coronel, Boris Chamorro, con el que pretendía impedir que fuera suspendido del cargo durante el juicio oral por el denominado caso Puerto Coronel. El Ministerio Público ya presentó la…",
@@ -1015,20 +1085,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/corma-asegura-que-paro-de-camiones-obligo-a-pymes-a-suspender-produccion-por-falta-de-materia-prima",
-   "titulo": "Corma afirma que el paro de camiones dejó a pymes sin insumos y forzó la suspensión de su producción.",
-   "resumen": "La detención de los transportistas y los cortes de caminos ya están repercutiendo en las pequeñas y medianas empresas madereras. Algunas firmas han tenido que detener sus actividades por la falta de materia prima, lo que motivó a la Corporación Chilena de la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-92.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T15:30:25.549Z",
-   "visto": "2026-11-12T15:30:25.549Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1367,48 +1423,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-12T10:50:20.706Z",
    "visto": "2026-11-12T10:50:20.706Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/gran-concepcion-camioneros-se-manifestaron-bloqueando-acceso-a-depositos-en-puerto-de-san-vicente.shtml",
-   "titulo": "Gran Concepción: camioneros se manifestaron bloqueando acceso a depósitos en Puerto de San Vicente",
-   "resumen": "Obstaculizando el paso en el acceso a los depósitos de containers en el Puerto de San Vicente en Talcahuano se...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016393-camioneros-puerto-san-vicente.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-12T10:48:19.000Z",
-   "visto": "2026-11-12T10:50:20.706Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/asem-bio-bio-cita-desempleo-de-105-e-informalidad-de-273-en-la-region-al-abrir-redes-2026",
-   "titulo": "Asem Bío Bío cita desempleo de 10,5% e informalidad de 27,3% en la región al abrir Redes 2026",
-   "resumen": "En la apertura de la quinta edición de Redes 2026, que se realiza en Suractivo, el presidente de Asem Bío Bío, Humberto Miguel, advirtió sobre la situación económica de la región. El encuentro de negocios, organizado por Asem Bío Bío y ProChile, busca reunir…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-12-a-las-6.08.05%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T10:40:22.224Z",
-   "visto": "2026-11-12T10:40:22.224Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/imputado-por-homicidio-en-nacimiento-quedo-en-prision-preventiva-tras-entregarse-a-carabineros",
-   "titulo": "Imputado por homicidio en Nacimiento quedó en prisión preventiva tras entregarse a Carabineros",
-   "resumen": "El Tribunal de Garantía de Nacimiento decretó la prisión preventiva del imputado por el homicidio de un joven de 18 años, ocurrido en esa comuna. El mismo día del crimen, el ahora formalizado se entregó a Carabineros y asumió su responsabilidad en el hecho.…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/09/hombre-usando-chaleco-imputado-1200x633-1-1.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T10:40:22.224Z",
-   "visto": "2026-11-12T10:40:22.224Z",
    "cats": [
     "regional"
    ],
