@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T00:10:22.056Z",
+ "generado": "2026-11-13T00:40:20.634Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 57,
+    "enlaces": 152,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/camioneros-deponen-paro-en-3-puntos-del-gran-concepcion-tras-propuesta-del-gobierno.shtml",
+   "titulo": "Camioneros deponen paro en 3 puntos del Gran Concepción tras acuerdo del Gobierno con gremios",
+   "resumen": "Tras la propuesta presentada este jueves por el Gobierno con gremios de camioneros en Santiago, transportistas anunciaron el levantamiento...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7017709-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-13T00:33:29.000Z",
+   "visto": "2026-11-13T00:40:20.634Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/plan-seguridad-colo-colo-racing-concepcion.html",
    "titulo": "Colo-Colo – Rancing en Concepción: fiscal in situ, 40 puntos de control y 280 guardias",
@@ -1518,20 +1533,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-11T15:00:00.000Z",
    "visto": "2026-11-12T16:40:22.769Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/micreros-de-lota-arauco-y-concepcion-se-suman-al-paro-y-anuncian-movilizacion-para-este-jueves",
-   "titulo": "Transportistas de Lota, Arauco y Concepción adhieren al paro y convocan a movilizarse este jueves",
-   "resumen": "Conductores independientes de microbuses que cubren la ruta entre Lota y Concepción informaron que se movilizarán este jueves, en adhesión al paro nacional de camioneros que se desarrolla en el país por el incremento en el precio de los combustibles. De…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T15:00:00.000Z",
-   "visto": "2026-11-12T00:20:19.543Z",
    "cats": [
     "regional"
    ],
