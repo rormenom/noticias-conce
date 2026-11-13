@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T13:50:20.277Z",
+ "generado": "2026-11-13T14:00:29.421Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 62,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/casa-de-secuestro-y-tortura-en-los-angeles-detenidos-la-modificaron-para-que-no-escucharan-los-gritos.shtml",
+   "titulo": "Casa de secuestro y tortura en Los Ángeles: detenidos la modificaron para que no escucharan los gritos",
+   "resumen": "Una investigación de la Fiscalía permitió descubrir una casa que era usada para torturar y secuestrar personas en Los Ángeles,...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7017990-casa-secuestro-tortura-los-angeles.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-13T13:54:59.000Z",
+   "visto": "2026-11-13T14:00:29.421Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/penco-lirquen-recupera-sus-calles-danadas-tras-los-incendios-forestales/",
    "titulo": "Penco Lirquén recupera sus calles dañadas tras los incendios forestales",
@@ -1519,20 +1533,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-11T19:10:21.816Z",
    "visto": "2026-11-11T19:10:21.816Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/quinta-prorroga-licitacion-buses-lota-coronel.html",
-   "titulo": "Por quinta vez prorrogan licitación de buses alto estándar Lota-Coronel",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/10/pag-4-bus-electrico-foto-isidoro-e1792543706891.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T19:00:27.345Z",
-   "visto": "2026-11-11T19:00:27.345Z",
    "cats": [
     "regional"
    ],
