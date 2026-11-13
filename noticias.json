@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T20:20:20.195Z",
+ "generado": "2026-11-13T20:50:21.907Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 29,
-    "leidas": 9,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/muere-tony-pulguita-mas-de-30-anos-de-humor-y-alegria-que-marcaron-a-la-region-del-biobio",
+   "titulo": "Muere Tony Pulguita: más de 30 años de humor y alegría que marcaron a la región del Biobío",
+   "resumen": "La región del Biobío está de luto tras confirmarse el fallecimiento de Tony Pulguita, querido y reconocido artista que durante más de 30 años llevó humor, alegría y entretención a distintas generaciones. Su deceso se produjo este viernes 13 de noviembre, a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/09/Backstage-Clown-Makeup-Preparation-e1794602533546.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T20:50:21.907Z",
+   "visto": "2026-11-13T20:50:21.907Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/udec-conservacion-biodiversidad-festival-ladera-sur.html",
    "titulo": "Universidad de Concepción lleva su trabajo en conservación y biodiversidad al Festival Ladera Sur",
@@ -1424,20 +1438,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-12T11:00:28.826Z",
    "visto": "2026-11-12T11:00:28.826Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/bomberos-de-concepcion-denuncia-el-robo-de-equipos-de-comunicacion-por-mas-de-48-millones",
-   "titulo": "Bomberos de Concepción denuncia el robo de equipos de comunicación por más de $4,8 millones",
-   "resumen": "Desde el sector del cerro Lo Galindo, en Concepción, sustrajeron un repetidor, un duplexor y dos radios pertenecientes al Cuerpo de Bomberos. El inspector del Departamento de Comunicaciones de la institución, Rodrigo Torres, se refirió al impacto operacional…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/07/bomberos-incendio-tres-muertos-rio-bueno.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T10:50:20.706Z",
-   "visto": "2026-11-12T10:50:20.706Z",
    "cats": [
     "regional"
    ],
