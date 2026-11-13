@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T22:50:21.096Z",
+ "generado": "2026-11-13T23:00:32.388Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -36,7 +36,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 58,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,8 +61,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 58,
+    "enlaces": 151,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -2764,20 +2764,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-08T23:09:57.000Z",
    "visto": "2026-11-08T23:10:07.746Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/lota-sumo-quinto-triunfo-consecutivo-y-es-lider-exclusivo-fuera-de-todo-peligro.html",
-   "titulo": "Lota sumó quinto triunfo consecutivo y es líder exclusivo fuera de todo peligro",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/lota-colina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T23:00:26.265Z",
-   "visto": "2026-11-08T23:00:26.265Z",
    "cats": [
     "deportes"
    ],
