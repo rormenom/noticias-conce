@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T13:10:19.273Z",
+ "generado": "2026-11-13T13:20:21.437Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 58,
-    "leidas": 1,
+    "enlaces": 57,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 61,
+    "enlaces": 149,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -181,20 +181,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
-   "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
-   "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pedro-marileo-dpp-arauco-e1794534128278.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/graves-amenazas-de-apoderado-suspenden-la-licenciatura-de-164-estudiantes-de-liceo-bicentenario-de-talcahuano.html",
    "titulo": "Graves amenazas de apoderado suspenden la licenciatura de 164 estudiantes de liceo bicentenario de Talcahuano",
    "resumen": "La ceremonia del Liceo Almirante Pedro Espina Ritchie estaba programada para este viernes 13 en el Coliseo La Tortuga. La decisión se adoptó luego de que un apoderado amenazara con estrellar su camión contra el establecimiento y el recinto.",
@@ -205,6 +191,20 @@
    "visto": "2026-11-13T08:40:18.652Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
+   "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
+   "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pedro-marileo-dpp-arauco-e1794534128278.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -850,20 +850,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
-   "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/OS9-LIRQU%C3%89N.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T13:20:20.748Z",
-   "visto": "2026-11-12T13:20:20.748Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/zeptoverso-la-escala-mas-pequena-jamas-explorada-que-biobio-observa-desde-lejos.html",
    "titulo": "Zeptoverso: la escala más pequeña jamás explorada que Biobío observa desde lejos",
    "resumen": "Desde la UdeC advierten que la ciencia local no cuenta con la infraestructura requerida para avanzar en estas investigaciones de frontera, sólo a nivel teórico.",
@@ -888,6 +874,20 @@
    "visto": "2026-11-12T13:20:20.748Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
+   "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/OS9-LIRQU%C3%89N.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T13:20:20.748Z",
+   "visto": "2026-11-12T13:20:20.748Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
