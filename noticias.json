@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T21:50:19.080Z",
+ "generado": "2026-11-13T22:00:29.404Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
+    "enlaces": 147,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 11,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/13/biobio-premia-escolares-araucania-sudamericano.html",
+   "titulo": "Reconocimiento para el podio en Araucanía y los Deportivos Escolares",
+   "resumen": "Más de 160 deportistas fueron convocados a la Gobernación Regional, destacando el segundo lugar en Los Ríos y los 6 chicos clasificados a Ecuador.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Ceremonia-Reconocimiento-e1794606555100.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T22:00:29.404Z",
+   "visto": "2026-11-13T22:00:29.404Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/reportan-nuevo-homicidio-en-el-bio-bio-hombre-fue-asesinado-a-tiros-en-hualpen.shtml",
+   "titulo": "Reportan nuevo homicidio en el Bío Bío: hombre fue asesinado a tiros en Hualpén",
+   "resumen": "Un nuevo homicidio se registró este viernes en el Gran Concepción: un hombre fue asesinado a balazos en la...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019078-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-13T21:56:23.000Z",
+   "visto": "2026-11-13T22:00:29.404Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/13/decretan-duelo-comunal-en-concepcion-tras-el-fallecimiento-de-reconocido-payaso-tony-pulguita",
    "titulo": "Concepción decreta duelo comunal por la muerte del querido Tony Pulguita",
@@ -1412,20 +1440,6 @@
    "visto": "2026-11-12T13:20:20.748Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
-   "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/OS9-LIRQU%C3%89N.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T13:20:20.748Z",
-   "visto": "2026-11-12T13:20:20.748Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
