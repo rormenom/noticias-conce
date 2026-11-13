@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T13:00:30.345Z",
+ "generado": "2026-11-13T13:10:19.273Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
-    "leidas": 0,
+    "enlaces": 58,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 62,
+    "enlaces": 148,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/subida-la-gloria-talcahuano-restablecen-transito.html",
+   "titulo": "Talcahuano: restablecen tránsito en ambos sentidos de Subida La Gloria",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/protesta-subida-la-gloria-vecinos-cerros-reparacion-serviu-e1793793174222.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T13:10:19.273Z",
+   "visto": "2026-11-13T13:10:19.273Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/13/con-mas-de-30-anos-de-trayectoria-pablo-gaete-recibira-el-premio-regional-de-arte-y-cultura-del-biobio-2026",
    "titulo": "Con más de 30 años de trayectoria: Pablo Gaete recibirá el Premio Regional de Arte y Cultura del Biobío 2026",
@@ -195,20 +209,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/sociedad-chilena-ciencias-mar-biobio.html",
-   "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
-   "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/13/udec-programa-rescate-legado-teatral.html",
    "titulo": "UdeC impulsa el rescate de su legado teatral con nuevo programa de creación y formación escénica",
    "resumen": "“Escena UdeC” es el nombre de la iniciativa adjudicada por la Universidad de Concepción en el Fondo de las Artes Escénicas 2026, que contempla dos montajes, procesos formativos y actividades de mediación para acercar el teatro a las comunidades del Biobío y…",
@@ -241,6 +241,20 @@
    "titulo": "Feria de ciencia e innovación reunirá 20 proyectos desarrollados por escolares del Biobío",
    "resumen": "La jornada se desarrollará en la USM sede Concepción y visibilizará el trabajo de 70 jóvenes que durante el año participaron en clases y talleres STEM.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/breve-e1794534524274.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/sociedad-chilena-ciencias-mar-biobio.html",
+   "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
+   "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-13T08:40:18.652Z",
@@ -1536,20 +1550,6 @@
    "cats": [
     "regional",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/tome-carabinero-que-habia-sido-condenando-por-causa-de-estallido-social-es-absuelto-en-segundo-juicio",
-   "titulo": "Tomé: absuelven nuevamente a carabinero condenado por hechos del estallido social",
-   "resumen": "El segundo juicio contra un carabinero de Tomé concluyó con un veredicto absolutorio. El Ministerio Público lo acusaba de agredir físicamente en octubre de 2019 a un joven menor de edad, durante las manifestaciones del denominado estallido social. El actual…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/carabinero.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T18:30:25.596Z",
-   "visto": "2026-11-11T18:30:25.596Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
