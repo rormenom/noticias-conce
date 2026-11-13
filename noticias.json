@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T19:10:23.670Z",
+ "generado": "2026-11-13T19:30:25.037Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
+    "enlaces": 57,
     "leidas": 1,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 145,
+    "enlaces": 146,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/desisten-evaluacion-central-hidroelectrica-san-carlos.html",
+   "titulo": "A siete días de su ingreso: desisten de tramitación ambiental de central hidroeléctrica en río Biobío",
+   "resumen": "Mediante una carta ingresada el 10 de noviembre, Inversiones San Carlos SpA solicitó retirar el Estudio de Impacto Ambiental de la iniciativa de US$ 420 millones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/central-hidroelectrica-san-carlos-rio-biobio-sea-3-1-e1794597156583.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T19:30:25.037Z",
+   "visto": "2026-11-13T19:30:25.037Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/agricultor-de-los-angeles-sufre-robo-de-maquinarias-ofrece-recompensa-por-informacion-clave.shtml",
    "titulo": "Agricultor de Los Ángeles sufre robo de maquinarias: ofrece \"recompensa\" por información clave",
