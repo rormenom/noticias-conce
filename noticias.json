@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T18:20:22.393Z",
+ "generado": "2026-11-13T18:30:25.374Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
-    "leidas": 63,
+    "enlaces": 145,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 29,
-    "leidas": 6,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/fotos-videos-asi-es-la-casa-de-secuestro-y-tortura-que-se-descubrio-en-los-angeles",
+   "titulo": "Fotos y video muestran la casa de secuestro y tortura descubierta en Los Ángeles",
+   "resumen": "Se revelaron nuevos registros de la vivienda de secuestro y tortura descubierta en Los Ángeles, en la región del Bío Bío, durante una investigación por tráfico de drogas e infracción a la ley de armas. El operativo culminó con la detención y formalización de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/casa-tortura-secuestro-los-angeles-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T18:30:25.374Z",
+   "visto": "2026-11-13T18:30:25.374Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/nuevo-homicidio-en-san-pedro-de-la-paz-hombre-de-40-anos-murio-tras-ser-baleado-en-una-pierna.shtml",
+   "titulo": "Nuevo homicidio en San Pedro de la Paz: hombre de 40 años murió tras ser baleado en una pierna",
+   "resumen": "Un nuevo homicidio se registró en San Pedro de la Paz, región del Bío Bío, luego de que un hombre...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7018714-foto-contexto-nota-bbcl-2026-11-13t152344-228.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-13T18:25:15.000Z",
+   "visto": "2026-11-13T18:30:25.374Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/ministro-arrau-camioneros-despeje-rutas.html",
    "titulo": "Ministro Arrau advierte a camioneros: Carabineros despejará rutas intervenidas si continúan las movilizaciones",
@@ -1487,34 +1515,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/videos-un-conductor-agredido-y-ataques-con-piedras-dejo-jornada-de-paro-de-camioneros-en-coronel.shtml",
-   "titulo": "VIDEOS | Un conductor agredido y ataques con piedras dejó jornada de paro de camioneros en Coronel",
-   "resumen": "Camioneros independientes de Coronel protagonizaron una serie de incidentes en el marco de la paralización y la toma parcial...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016325-capturas-por-videos-un-conductor-agredido-y-ataques-con-piedras-dejo-jornada-de-paro-de-camioneros-en-coronel.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-12T03:30:52.000Z",
-   "visto": "2026-11-12T03:40:21.308Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/hombre-es-asesinado-a-tiros-en-coronel-es-el-homicidio-72-en-el-bio-bio-en-lo-que-va-del-ano.shtml",
-   "titulo": "Hombre es asesinado a tiros en Coronel: es el homicidio 72 en el Bío Bío en lo que va del año",
-   "resumen": "Un hombre fue asesinado a tiros este miércoles en Coronel, región del Bío Bío.\nLa víctima, un hombre de 25...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016295-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-12T01:46:38.000Z",
-   "visto": "2026-11-12T01:50:18.705Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/11/habitar-el-cerebro-cicat-ano-del-cerebro-2026.html",
    "titulo": "Ciencia interactiva en Biobío: proyecto “Habitar el Cerebro” abrirá sus puertas a escolares y familias",
    "resumen": "El 20 y 21 de noviembre el CICAT albergará estaciones sobre emociones, memoria y percepción en el marco del Año del Cerebro 2026.",
@@ -2774,20 +2774,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-08T21:35:03.000Z",
    "visto": "2026-11-08T21:40:19.079Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/08/puede-valer-un-titulo-el-golazo-de-arturo-vidal-a-nublense-que-esta-consagrando-a-colo-colo-en-liga.shtml",
-   "titulo": "Puede valer un título: el golazo de Arturo Vidal a Ñublense que ilusiona a Colo Colo en Liga",
-   "resumen": "Tenía que aparecer el King. Colo Colo se adelantó ante Ñublense en la definición del título de la Liga de...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011797-golazo-de-arturo-vidal-a-nublense-con-colo-colo.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-08T18:29:44.000Z",
-   "visto": "2026-11-08T18:30:22.874Z",
    "cats": [
     "deportes"
    ],
