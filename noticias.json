@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T21:10:23.248Z",
+ "generado": "2026-11-13T21:40:18.847Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 59,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/decretan-duelo-comunal-en-concepcion-tras-el-fallecimiento-de-reconocido-payaso-tony-pulguita.shtml",
+   "titulo": "Decretan duelo comunal en Concepción tras el fallecimiento de reconocido payaso, Tony Pulguita",
+   "resumen": "José Ramón Arellano Rodríguez, más conocido por su nombre artístico Tony Pulguita, falleció durante la tarde de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019026-tonypulguita-en-instagram.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-13T21:31:59.000Z",
+   "visto": "2026-11-13T21:40:18.847Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/fallece-jose-ramon-arellano-payaso-tony-pulguita.html",
    "titulo": "Luto en el Biobío: fallece José Ramón Arellano, el histórico payaso “Tony Pulguita”",
@@ -1408,20 +1422,6 @@
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/MOPNOS-JUAN-RIQUELME-2-e1794484782673.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
-   "fecha": "2026-11-12T12:10:23.453Z",
-   "visto": "2026-11-12T12:10:23.453Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/coronel-hombre-asesinado-homicidios-biobio.html",
-   "titulo": "Hombre muere tras ser baleado en Coronel: Biobío suma 72 homicidios en el año",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pdi-descarta-terceros-joven-fallecida-concepcion.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T12:10:23.453Z",
    "visto": "2026-11-12T12:10:23.453Z",
    "cats": [
@@ -2818,20 +2818,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-08T22:10:20.491Z",
    "visto": "2026-11-08T22:10:20.491Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tapadon-clave-titulo-albo-y-dedicatoria-a-cabo-verde-la-tarde-inolvidable-de-vozinha-en-chillan.shtml",
-   "titulo": "Tapadón clave, título albo y dedicatoria a Cabo Verde: la tarde inolvidable de Vozinha en Chillán",
-   "resumen": "Vozinha, experimentado arquero caboverdiano, apareció cuando más lo necesitaba Colo Colo y, con una intervención determinante en el último minuto,...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011887-vozinha-colo-colo-campeon.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-08T21:35:03.000Z",
-   "visto": "2026-11-08T21:40:19.079Z",
    "cats": [
     "deportes"
    ],
