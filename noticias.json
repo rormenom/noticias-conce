@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T23:10:19.587Z",
+ "generado": "2026-11-13T23:30:23.858Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 152,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -2735,20 +2735,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-08T23:40:18.796Z",
    "visto": "2026-11-08T23:40:18.796Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/irreconocible-huachipato-se-farrea-entrar-en-zona-de-copa.html",
-   "titulo": "Irreconocible Huachipato se farrea entrar en zona de copa",
-   "resumen": "Amenazó poco al arco rival y La Calera, que llegaba como colista, lo desbordó varias veces para derrotarlo con justicia y salir del último puesto. El acero desperdició una oportunidad de oro para pensar en Sudamericana.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/mario-brice%C3%B1o.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T23:30:23.883Z",
-   "visto": "2026-11-08T23:30:23.883Z",
    "cats": [
     "deportes"
    ],
