@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T01:00:27.513Z",
+ "generado": "2026-11-13T01:10:18.958Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -93,6 +93,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/12/en-los-angeles-culmina-movilizacion-del-principal-punto-de-concentracion-de-camioneros/",
+   "titulo": "En Los Ángeles culmina movilización del principal punto de concentración de camioneros",
+   "resumen": "El delegado presidencial Juan Pablo Mellado, acompañó el cierre de la movilización en la Ruta 5 Sur, luego del acuerdo alcanzado entre el Gobierno y los gremios de transportistas.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/IMG_20261112_194522-768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-12T23:35:36.000Z",
+   "visto": "2026-11-13T01:10:18.958Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1533,20 +1547,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-11T15:00:00.000Z",
    "visto": "2026-11-12T16:40:22.769Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/micreros-lota-arauco-paro-indefinido-ruta-160.html",
-   "titulo": "Conductores de taxibuses de Arauco y Lota se plegarán este jueves a las movilizaciones en el Biobío",
-   "resumen": "Conductores autoconvocados de Los Alces y Expresos del Carbón acusaron que sus costos en combustible se duplicaron desde marzo de este año.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Transporte-entre-Arauco-Lota-y-Concepci%C3%B3n-en-alerta-cerca-del-70-de-taxibuses-iniciar%C3%A1-paralizaci%C3%B3n.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T15:00:00.000Z",
-   "visto": "2026-11-12T01:00:25.446Z",
    "cats": [
     "regional"
    ],
