@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T19:00:30.492Z",
+ "generado": "2026-11-13T19:10:23.670Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
-    "leidas": 61,
+    "enlaces": 145,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 29,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/agricultor-de-los-angeles-sufre-robo-de-maquinarias-ofrece-recompensa-por-informacion-clave.shtml",
+   "titulo": "Agricultor de Los Ángeles sufre robo de maquinarias: ofrece \"recompensa\" por información clave",
+   "resumen": "En más de 25 millones de pesos fue avaluado, de forma preliminar, el robo que afectó a un agricultor en...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7018695-post-1.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-13T19:04:27.000Z",
+   "visto": "2026-11-13T19:10:23.670Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/chofer-de-micro-queda-grave-tras-ser-agredido-por-jovenes-que-se-negaron-a-pagar-pasaje-en-concepcion.shtml",
    "titulo": "Chofer de micro queda grave tras ser agredido por jóvenes que se negaron a pagar pasaje en Concepción",
@@ -1119,6 +1133,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/utilidades-enap-alza-combustibles.html",
+   "titulo": "Expertos locales explican los riesgos de destinar utilidades de Enap para enfrentar el alza de combustibles",
+   "resumen": "Retiro del proyecto del Gobierno reabrió debate por ganancias de la estatal y subsidios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-14-planta-enap-foto-archivo-diario-concepcion.jpg-e1794442924239.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T15:00:00.000Z",
+   "visto": "2026-11-13T19:10:23.670Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/atropello-peaton-avenida-los-carrera-angol-concepcion.html",
    "titulo": "Reportan atropello de peatón en el centro de Concepción durante la mañana de este jueves",
    "resumen": "El hecho ocurrió alrededor de las 10:47 horas de este jueves en el centro de Concepción. Equipos de emergencia trabajan en el lugar y se sugiere acceder a avenida Los Carrera por calle Serrano.",
@@ -1399,34 +1427,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/detienen-a-hombre-por-quebrar-vidrio-de-camion-durante-movilizacion-de-camioneros-en-los-angeles",
-   "titulo": "Detienen a hombre por quebrar vidrio de camión durante movilización de camioneros en Los Ángeles",
-   "resumen": "Una masiva movilización de camioneros se concentró en el kilómetro 494 de la Ruta 5 Sur, sector Cruce La Mona, en la comuna de Los Ángeles, provincia de Bío Bío. Durante la jornada, Carabineros registró tres detenidos en incidentes distintos. Detenido por…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-12-a-las-6.22.49%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T09:30:24.560Z",
-   "visto": "2026-11-12T09:30:24.560Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/videos-un-conductor-agredido-y-ataques-con-piedras-dejo-jornada-de-paro-de-camioneros-en-coronel",
-   "titulo": "Videos: paro de camioneros en Coronel dejó un conductor agredido y vehículos atacados con piedras",
-   "resumen": "Camioneros independientes de Coronel realizaron varios incidentes durante la paralización y el bloqueo parcial de la Ruta 160, en medio de la falta de entendimiento entre el Gobierno y los transportistas por el elevado costo de los combustibles. Las protestas…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/capturas-por-videos-un-conductor-agredido-y-ataques-con-piedras-dejo-jornada-de-paro-de-camioneros-en-coronel.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T09:10:20.800Z",
-   "visto": "2026-11-12T09:10:20.800Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
