@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T22:00:29.404Z",
+ "generado": "2026-11-13T22:10:26.738Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 18,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
-    "leidas": 59,
+    "enlaces": 149,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 10,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/13/desde-el-club-magico-en-tvu-hasta-el-teatro-udec-el-imborrable-legado-televisivo-que-deja-tony-pulguita.html",
+   "titulo": "Desde \"El Club Mágico\" en TVU hasta el Teatro UdeC: el imborrable legado televisivo que deja Tony Pulguita",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/fallece-tony-pulguita-legado-tvu-duelo-comunal-e1794607190950.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-13T22:10:26.738Z",
+   "visto": "2026-11-13T22:10:26.738Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/reportan-nuevo-homicidio-en-el-bio-bio-hombre-fue-asesinado-a-tiros-en-hualpen",
+   "titulo": "Hombre muere baleado en Hualpén en un nuevo homicidio registrado en la región del Bío Bío",
+   "resumen": "Este viernes se produjo otro homicidio en el Gran Concepción: un hombre murió baleado en la comuna de Hualpén, región del Bío Bío. El hombre, de nacionalidad chilena, recibió disparos en las piernas y el tórax, de acuerdo con información de Radio Bío Bío. Las…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T22:10:26.738Z",
+   "visto": "2026-11-13T22:10:26.738Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/13/biobio-premia-escolares-araucania-sudamericano.html",
    "titulo": "Reconocimiento para el podio en Araucanía y los Deportivos Escolares",
@@ -1380,20 +1409,6 @@
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T14:10:21.424Z",
-   "visto": "2026-11-12T14:10:21.424Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/la-golpearon-y-subieron-videos-a-rrss-formalizan-a-2-mujeres-por-secuestro-de-adolescente-en-cabrero.shtml",
-   "titulo": "La golpearon y subieron videos a RRSS: formalizan a 2 mujeres por secuestro de adolescente en Cabrero",
-   "resumen": "Dos mujeres, de 21 y 22 años, quedaron en prisión preventiva tras ser formalizadas por retener y golpear a una...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016614-formalizacion-imputadas-secuestro-adolescente-cabrero.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-12T14:00:30.000Z",
    "visto": "2026-11-12T14:10:21.424Z",
    "cats": [
     "regional"
@@ -2792,48 +2807,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/tapadon-clave-titulo-albo-y-dedicatoria-a-cabo-verde-la-tarde-inolvidable-de-vozinha-en-chillan",
-   "titulo": "Vozinha fue decisivo en Chillán: brilló con una atajada clave y dedicó el título albo a Cabo Verde",
-   "resumen": "Vozinha, el experimentado arquero caboverdiano, respondió en el momento más apremiante para Colo Colo y, con una atajada decisiva en el último minuto, impidió que los albos perdieran un título que ya empezaban a festejar en Chillán. El guardameta, quien…",
-   "imagen": "https://media.canal9.cl/2026/11/vozinha-colo-colo-campeon-768x405.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-08T22:10:20.491Z",
-   "visto": "2026-11-08T22:10:20.491Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/el-desahogo-del-tano-ortiz-logro-su-primer-titulo-como-dt-y-termino-empapado-en-plena-entrevista",
-   "titulo": "Ortiz celebró su primer título como técnico y acabó empapado durante una entrevista",
-   "resumen": "La emoción invadió a Fernando Ortiz cuando Colo Colo aseguró el título de la Liga de Primera 2026. El gol de Marcos Bolados en los minutos finales ante Ñublense encendió los festejos de los albos y, además, ayudó al técnico argentino a dejar atrás una…",
-   "imagen": "https://media.canal9.cl/2026/11/colo-colo-fernando-ortiz-campeon-1-768x405.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-08T22:10:20.491Z",
-   "visto": "2026-11-08T22:10:20.491Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/puede-valer-un-titulo-el-golazo-de-arturo-vidal-a-nublense-que-esta-consagrando-a-colo-colo-en-liga",
-   "titulo": "Colo Colo derrotó a Ñublense con un gol en el cierre y conquistó su título número 35 en la Liga de Primera 2026",
-   "resumen": "Colo Colo conquistó este domingo el título de la Liga de Primera 2026, tras vencer por 2-1 a Ñublense con un tanto en los minutos finales. El encuentro, correspondiente a la fecha 27 del torneo, se disputó en el Estadio Bicentenario ‘Nelson Oyarzún’ de…",
-   "imagen": "https://media.canal9.cl/2026/11/colo-colo-campeon-liga-de-primera-768x405.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-08T22:10:20.491Z",
-   "visto": "2026-11-08T22:10:20.491Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
