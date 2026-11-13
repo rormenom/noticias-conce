@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T14:50:21.136Z",
+ "generado": "2026-11-13T15:00:28.660Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 56,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 146,
-    "leidas": 62,
+    "enlaces": 145,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 8,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
@@ -2757,34 +2757,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-08T18:29:44.000Z",
    "visto": "2026-11-08T18:30:22.874Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/08/convocatoria-cuarta-version-expo-de-mar-a-cordillera-recta-final.html",
-   "titulo": "Convocatoria de cuarta versión de Expo De Mar a Cordillera entra en su recta final",
-   "resumen": "Hasta este 10 de noviembre podrán postular agrupaciones de artistas, artesanos, diseñadores y creadores de la región. La muestra se realizará a mediados de diciembre en el centro de Concepción y proyecta reunir a más de 300 expositores, poniendo en valor la…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Expo25.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T15:00:00.000Z",
-   "visto": "2026-11-09T17:00:29.473Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/moises-abre-camino-en-el-mar-la-udec-sigue-con-vida.html",
-   "titulo": "Moisés abre camino en el mar: la UdeC sigue con vida",
-   "resumen": "González marcó milagroso gol que significó el 3-2 sobre O'Higgins. El Campanil está a un punto de puestos de salvación, con 3 fechas por delante.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/funes-mori.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T15:00:00.000Z",
-   "visto": "2026-11-09T01:10:21.608Z",
    "cats": [
     "deportes"
    ],
