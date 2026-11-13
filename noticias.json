@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T22:10:26.738Z",
+ "generado": "2026-11-13T22:20:20.439Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 58,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 11,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -82,14 +82,14 @@
  ],
  "items": [
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/13/desde-el-club-magico-en-tvu-hasta-el-teatro-udec-el-imborrable-legado-televisivo-que-deja-tony-pulguita.html",
+   "url": "https://www.tvu.cl/prensa/2026/11/13/fallece-tony-pulguita-legado-tvu-duelo-comunal.html",
    "titulo": "Desde \"El Club Mágico\" en TVU hasta el Teatro UdeC: el imborrable legado televisivo que deja Tony Pulguita",
    "resumen": "",
    "imagen": "https://assets.tvu.cl/2026/11/fallece-tony-pulguita-legado-tvu-duelo-comunal-e1794607190950.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
-   "fecha": "2026-11-13T22:10:26.738Z",
-   "visto": "2026-11-13T22:10:26.738Z",
+   "fecha": "2026-11-13T22:20:20.439Z",
+   "visto": "2026-11-13T22:20:20.439Z",
    "cats": [
     "regional",
     "cultura"
@@ -107,6 +107,21 @@
    "visto": "2026-11-13T22:10:26.738Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/13/desde-el-club-magico-en-tvu-hasta-el-teatro-udec-el-imborrable-legado-televisivo-que-deja-tony-pulguita.html",
+   "titulo": "Desde \"El Club Mágico\" en TVU hasta el Teatro UdeC: el imborrable legado televisivo que deja Tony Pulguita",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/fallece-tony-pulguita-legado-tvu-duelo-comunal-e1794607190950.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-13T22:10:26.738Z",
+   "visto": "2026-11-13T22:10:26.738Z",
+   "cats": [
+    "regional",
+    "cultura"
    ],
    "local": true
   },
@@ -1396,20 +1411,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-12T14:30:23.692Z",
    "visto": "2026-11-12T14:30:23.692Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/transporte-escolar-moviliza-talcahuano-alza-combustible.html",
-   "titulo": "Más de 46 furgones: transporte escolar se moviliza en Talcahuano por alza del combustible",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-12-at-10.34.39-1-e1794492102115.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T14:10:21.424Z",
-   "visto": "2026-11-12T14:10:21.424Z",
    "cats": [
     "regional"
    ],
@@ -2792,21 +2793,6 @@
    "visto": "2026-11-08T22:40:19.618Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/08/hacienda-juntas-el-latido-historico-que-une-el-biobio-con-el-desierto-renace-como-icono-de-lujo-y-sostenibilidad-en-el-valle-del-limari.html",
-   "titulo": "Hacienda Juntas: El latido histórico que une el Biobío con el desierto renace como ícono de lujo y sostenibilidad en el Valle del Limarí",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-9-hacienda-juntas-foto-cedida.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-08T22:20:20.870Z",
-   "visto": "2026-11-08T22:20:20.870Z",
-   "cats": [
-    "regional",
-    "cultura"
    ],
    "local": true
   }
