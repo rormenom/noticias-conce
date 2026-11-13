@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T08:50:20.389Z",
+ "generado": "2026-11-13T09:10:19.934Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 57,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/camioneros-deponen-paro-en-3-puntos-del-gran-concepcion-tras-propuesta-del-gobierno",
+   "titulo": "Camioneros levantan paro en cuatro puntos del Gran Concepción tras acuerdo entre Gobierno y gremios",
+   "resumen": "Luego de la propuesta que el Gobierno presentó este jueves a los gremios de camioneros en Santiago, transportistas informaron que levantarán el paro en al menos cuatro lugares del Gran Concepción, en la región del Bío Bío. De acuerdo con antecedentes…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cntxt-rbb-por-camioneros-deponen-paro-en-4-puntos-del-gran-concepcion-tras-acuerdo-del-gobierno-con-gremios.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T09:10:19.934Z",
+   "visto": "2026-11-13T09:10:19.934Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
    "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
