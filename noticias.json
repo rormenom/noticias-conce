@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T18:30:25.374Z",
+ "generado": "2026-11-13T18:40:21.112Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 29,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/patrullajes-policia-maritima-penco-verano.html",
+   "titulo": "Controles de identidad en las playas de Penco aumentan un 294% y bajan infracciones por alcohol",
+   "resumen": "La mayor presencia de la Policía Marítima logró reducir en un 30% las infracciones por consumo de alcohol en las playas de la comuna.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/patrullajes-policia-maritima-penco-verano-1-1-e1794594695122.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T18:40:21.112Z",
+   "visto": "2026-11-13T18:40:21.112Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/13/fotos-videos-asi-es-la-casa-de-secuestro-y-tortura-que-se-descubrio-en-los-angeles",
    "titulo": "Fotos y video muestran la casa de secuestro y tortura descubierta en Los Ángeles",
@@ -376,6 +390,21 @@
    "visto": "2026-11-13T13:00:30.345Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/13/55-fiscalizaciones-a-protocolos-de-exposicion-a-plaguicidas-y-radiacion-uv-a-realizado-la-autoridad-sanitaria/",
+   "titulo": "55 fiscalizaciones a protocolos de exposición a plaguicidas y radiación UV a realizado la autoridad sanitaria",
+   "resumen": "En Biobío,para cuidar salud laboral.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/fiscalizacion-seremi-salud-biobio--768x514.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-13T12:30:43.000Z",
+   "visto": "2026-11-13T18:40:21.112Z",
+   "cats": [
+    "regional",
+    "cultura"
    ],
    "local": true
   },
@@ -678,20 +707,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/alergias-primavera-concepcion-pelusas-vilano-arboles.html",
-   "titulo": "Vilano: las ‘pelusas’ de los árboles que producen alergias en Concepción",
-   "resumen": "La llegada de la primavera y el vilano activan las alergias estacionales en Concepción. Conoce los árboles responsables, las zonas críticas y los riesgos de automedicarse.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/C0392.MP4.03_52_34_22.Imagen-fija001.jpg-e1794510411848.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T19:10:20.076Z",
-   "visto": "2026-11-12T19:10:20.076Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/obra-lo-profano-y-lo-santo-acercamiento-a-violeta-parra-funciones-liceo-balmaceda.html",
    "titulo": "Obra “Lo profano y lo santo. Acercamiento a Violeta Parra” se presentará por partida doble en el Liceo Balmaceda de Concepción",
    "resumen": "Tras su creación y desarrollo en Barcelona bajo la dirección de Jessica Walker, wl montaje llega por primera vez a Chile y a Concepción, ciudad de origen de su actriz-creadora, Ángela Valeria Chandía. La presentación cuenta con la asistencia de dirección de…",
@@ -702,6 +717,20 @@
    "visto": "2026-11-12T19:10:20.076Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/alergias-primavera-concepcion-pelusas-vilano-arboles.html",
+   "titulo": "Vilano: las ‘pelusas’ de los árboles que producen alergias en Concepción",
+   "resumen": "La llegada de la primavera y el vilano activan las alergias estacionales en Concepción. Conoce los árboles responsables, las zonas críticas y los riesgos de automedicarse.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/C0392.MP4.03_52_34_22.Imagen-fija001.jpg-e1794510411848.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T19:10:20.076Z",
+   "visto": "2026-11-12T19:10:20.076Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1497,20 +1526,6 @@
    "cats": [
     "regional",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/hualpen-mantienen-arresto-domiciliario-imputado-vertedero-humedal-vasco-gama.html",
-   "titulo": "Humedal Vasco de Gama: mantienen arresto domiciliario para imputado por presuntos daños al ecosistema",
-   "resumen": "El Juzgado de Garantía de Talcahuano rechazó la solicitud de la defensa para sustituir la medida cautelar por firma periódica. El Ministerio Público investiga delitos asociados a un vertedero generado en el lugar e incluso lavado de activos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-vertedero-clandestino-en-humedal-Vasco-de-Gama-foto-archivo-cedida-e1794430167177.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
