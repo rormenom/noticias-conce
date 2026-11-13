@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T01:40:18.975Z",
+ "generado": "2026-11-13T08:40:18.652Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
-    "leidas": 1,
+    "enlaces": 57,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 57,
+    "enlaces": 152,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,97 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 12,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/graves-amenazas-de-apoderado-suspenden-la-licenciatura-de-164-estudiantes-de-liceo-bicentenario-de-talcahuano.html",
+   "titulo": "Graves amenazas de apoderado suspenden la licenciatura de 164 estudiantes de liceo bicentenario de Talcahuano",
+   "resumen": "La ceremonia del Liceo Almirante Pedro Espina Ritchie estaba programada para este viernes 13 en el Coliseo La Tortuga. La decisión se adoptó luego de que un apoderado amenazara con estrellar su camión contra el establecimiento y el recinto.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-12-at-18.55.37-e1794534205794.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
+   "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
+   "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pedro-marileo-dpp-arauco-e1794534128278.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/13/ampliaciones-sin-regularizar-hipotecarios-biobio.html",
+   "titulo": "Ampliaciones sin regularizar: el problema que puede dejar a compradores sin crédito hipotecario",
+   "resumen": "Los bancos pueden excluir parte de la superficie construida al tasar una propiedad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-edificios-en-el-centro-de-Concepci%C3%B3n-foto-carolina-4-e1794533714385.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/13/udec-programa-rescate-legado-teatral.html",
+   "titulo": "UdeC impulsa el rescate de su legado teatral con nuevo programa de creación y formación escénica",
+   "resumen": "“Escena UdeC” es el nombre de la iniciativa adjudicada por la Universidad de Concepción en el Fondo de las Artes Escénicas 2026, que contempla dos montajes, procesos formativos y actividades de mediación para acercar el teatro a las comunidades del Biobío y…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-nota-cultura-edici%C3%B3n-13-de-noviembre-e1794534593320.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/sociedad-chilena-ciencias-mar-biobio.html",
+   "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
+   "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/feria-de-ciencia-e-innovacion-reunira-20-proyectos-desarrollados-por-escolares-del-biobio.html",
+   "titulo": "Feria de ciencia e innovación reunirá 20 proyectos desarrollados por escolares del Biobío",
+   "resumen": "La jornada se desarrollará en la USM sede Concepción y visibilizará el trabajo de 70 jóvenes que durante el año participaron en clases y talleres STEM.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/breve-e1794534524274.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/acuerdo-del-gobierno-divide-a-gremios-de-transportistas-locales-y-delegado-presidencial-regional-s-llamo-a-volver-a-trabajar/",
    "titulo": "Acuerdo del Gobierno divide a gremios de transportistas locales y delegado presidencial regional (s) llamó a “volver a trabajar”",
@@ -667,16 +751,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/quinta-edicion-del-chocolate-cientifico-reunio-a-mas-de-220-escolares-de-biobio.html",
-   "titulo": "Quinta edición del Chocolate Científico reunió a más de 220 escolares de Biobío",
-   "resumen": "Con las destacadas investigadoras chilenas Dora Altbir y Bárbara Rojas-Ayala se desarrolló este 10 de noviembre la jornada de divulgación científica.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_6638-1.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
+   "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/OS9-LIRQU%C3%89N.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T13:20:20.748Z",
    "visto": "2026-11-12T13:20:20.748Z",
    "cats": [
-    "tecnologia"
+    "regional"
    ],
    "local": true
   },
@@ -695,16 +779,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/lirquen-pasar-por-carabinero-robo-frustrado.html",
-   "titulo": "Lirquén: detienen a sujeto que se hizo pasar por carabinero para intentar robar vehículo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/OS9-LIRQU%C3%89N.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/quinta-edicion-del-chocolate-cientifico-reunio-a-mas-de-220-escolares-de-biobio.html",
+   "titulo": "Quinta edición del Chocolate Científico reunió a más de 220 escolares de Biobío",
+   "resumen": "Con las destacadas investigadoras chilenas Dora Altbir y Bárbara Rojas-Ayala se desarrolló este 10 de noviembre la jornada de divulgación científica.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_6638-1.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T13:20:20.748Z",
    "visto": "2026-11-12T13:20:20.748Z",
    "cats": [
-    "regional"
+    "tecnologia"
    ],
    "local": true
   },
@@ -907,52 +991,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/senadores-biobio-mocion-tarifas-paro-camionero.html",
-   "titulo": "Senadores del Biobío presionan por tramitar moción de tarifas en medio del paro camionero",
-   "resumen": "Se busca regular el cobro por kilómetro, fijar plazos máximos de pago y proteger a los transportistas de menor tamaño. La Comisión de Transportes del Senado acordó priorizar su debate.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sala-senado-e1794442835286.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/denuncian-microbasural-cerro-la-u-talcahuano.html",
-   "titulo": "Entre escombros y riesgo industrial: denuncian deterioro de sitio donde O´Higgins proclamó la independencia",
-   "resumen": "A pesar de ser un casco histórico para la historia de Chile, el Cerro La U de Talcahuano presenta una gran contaminación ambiental. Autoridades ya están al tanto de la situación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-basural-Cerro-U-en-Talcahuano-foto-Enrique-Zamora-e1794441231974.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/utilidades-enap-alza-combustibles.html",
    "titulo": "Expertos locales explican los riesgos de destinar utilidades de Enap para enfrentar el alza de combustibles",
    "resumen": "Retiro del proyecto del Gobierno reabrió debate por ganancias de la estatal y subsidios.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-14-planta-enap-foto-archivo-diario-concepcion.jpg-e1794442924239.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/paro-camioneros-biobio-san-vicente-ruta-160.html",
-   "titulo": "Paro de camioneros: taxis colectivos del Biobío evaluarán este jueves unirse a movilizaciones",
-   "resumen": "Distintos puntos de la Región del Biobío fueron testigos de las paralizaciones de conductores.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-e1794441376468.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T08:40:19.790Z",
@@ -973,6 +1015,20 @@
    "visto": "2026-11-12T08:40:19.790Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/senadores-biobio-mocion-tarifas-paro-camionero.html",
+   "titulo": "Senadores del Biobío presionan por tramitar moción de tarifas en medio del paro camionero",
+   "resumen": "Se busca regular el cobro por kilómetro, fijar plazos máximos de pago y proteger a los transportistas de menor tamaño. La Comisión de Transportes del Senado acordó priorizar su debate.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sala-senado-e1794442835286.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1029,6 +1085,34 @@
    "visto": "2026-11-12T08:40:19.790Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/denuncian-microbasural-cerro-la-u-talcahuano.html",
+   "titulo": "Entre escombros y riesgo industrial: denuncian deterioro de sitio donde O´Higgins proclamó la independencia",
+   "resumen": "A pesar de ser un casco histórico para la historia de Chile, el Cerro La U de Talcahuano presenta una gran contaminación ambiental. Autoridades ya están al tanto de la situación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-basural-Cerro-U-en-Talcahuano-foto-Enrique-Zamora-e1794441231974.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/paro-camioneros-biobio-san-vicente-ruta-160.html",
+   "titulo": "Paro de camioneros: taxis colectivos del Biobío evaluarán este jueves unirse a movilizaciones",
+   "resumen": "Distintos puntos de la Región del Biobío fueron testigos de las paralizaciones de conductores.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-e1794441376468.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1498,20 +1582,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/camione-bloquean-ingreso-a-deposito-de-contenedores-del-puerto-de-lirquen-en-medio-de-paro-nacional",
-   "titulo": "Camioneros bloquean ingreso a depósito de contenedores de puerto de Lirquén en medio de paro nacional",
-   "resumen": "Los transportistas mantienen interrumpido el acceso de camiones al recinto portuario en Penco, aunque sin cortes de tránsito en las vías aledañas. La movilización se desarrolla en medio del descontento de pequeños empresarios del rubro y tras una nueva…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/lirquen-e1794412773401.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T16:10:21.200Z",
-   "visto": "2026-11-11T16:10:21.200Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/presidente-kast-paro-transportistas.html",
    "titulo": "“Nos jugamos el futuro de Chile”: Presidente Kast por paralización de transportistas",
    "resumen": "",
@@ -1522,20 +1592,6 @@
    "visto": "2026-11-11T16:00:28.786Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/capacitan-funcionarios-reinsercion-juvenil-coronel.html",
-   "titulo": "Capacitan a funcionarios del Servicio de Reinserción Social Juvenil en Coronel para fortalecer seguridad y protocolos de denuncia",
-   "resumen": "La instancia formativa, impulsada por las seremías y el Ministerio Público en el Centro Cerrado de Coronel, buscó unificar criterios de actuación y resguardar la seguridad de trabajadores y jóvenes infractores.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-34-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T15:50:20.950Z",
-   "visto": "2026-11-11T15:50:20.950Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2727,49 +2783,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-08T10:30:56.743Z",
    "visto": "2026-11-08T10:30:56.743Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/08/m8zart-ensamble-sinfonica-udec-cierra-temporada-2026-d-camara.html",
-   "titulo": "Con “M8zart” Ensamble de Sinfónica UdeC cierra temporada 2026 D-Cámara",
-   "resumen": "Con la batuta del músico Ramiro Vera, los conciertos en esta modalidad bajarán el telón por este año, de la mano de las composiciones  “Cinco contradanzas” y “Serenata en Re mayor” , de  Wolfgang Amadeus Mozart, y “Concierto para violín en Sol mayor”, de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-tema-domingo-Cultura-8-de-noviembre.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T08:40:18.789Z",
-   "visto": "2026-11-08T08:40:18.789Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/08/exdirectivo-cuestiona-gestion-hospital-traumatologico.html",
-   "titulo": "“Es ridículo que los insumos estén ahí”: Exdirectivo del SSC cuestiona gestión del Hospital Traumatológico",
-   "resumen": "Renato Medina, exdirector (s) del Servicio de Salud Concepción, pidió investigar las eventuales responsabilidades administrativas en el recinto. Además, advirtió que, si se llegase a comprobar el uso de insumos contaminados, incluso podría decretarse su…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-dependencia-hospital-traumatologico-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T08:40:18.789Z",
-   "visto": "2026-11-08T08:40:18.789Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/08/udec-acerco-el-basquetbol-de-alto-nivel-a-jovenes-deportistas-con-clinica-en-la-casa-del-deporte.html",
-   "titulo": "UdeC acercó el básquetbol de alto nivel a jóvenes deportistas con clínica en la Casa del Deporte",
-   "resumen": "Jóvenes participantes del torneo interescolar de básquetbol participaron del evento junto a los planteles de honor femeninos y masculinos del Campanil.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-17-clinica-de-basket-foto-carolina-1.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T08:40:18.789Z",
-   "visto": "2026-11-08T08:40:18.789Z",
    "cats": [
     "deportes"
    ],
