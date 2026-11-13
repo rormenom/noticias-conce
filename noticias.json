@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T08:40:18.652Z",
+ "generado": "2026-11-13T08:50:20.389Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 6,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 55,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 9,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
+   "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
+   "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pedro-marileo-dpp-arauco-e1794534128278.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/graves-amenazas-de-apoderado-suspenden-la-licenciatura-de-164-estudiantes-de-liceo-bicentenario-de-talcahuano.html",
    "titulo": "Graves amenazas de apoderado suspenden la licenciatura de 164 estudiantes de liceo bicentenario de Talcahuano",
@@ -96,16 +110,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
-   "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
-   "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pedro-marileo-dpp-arauco-e1794534128278.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/sociedad-chilena-ciencias-mar-biobio.html",
+   "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
+   "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-13T08:40:18.652Z",
    "visto": "2026-11-13T08:40:18.652Z",
    "cats": [
-    "politica"
+    "tecnologia"
    ],
    "local": true
   },
@@ -134,20 +148,6 @@
    "visto": "2026-11-13T08:40:18.652Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/sociedad-chilena-ciencias-mar-biobio.html",
-   "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
-   "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "tecnologia"
    ],
    "local": true
   },
