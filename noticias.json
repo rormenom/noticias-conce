@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T18:40:21.112Z",
+ "generado": "2026-11-13T18:45:04.299Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 145,
-    "leidas": 62,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -395,8 +395,8 @@
   },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/13/55-fiscalizaciones-a-protocolos-de-exposicion-a-plaguicidas-y-radiacion-uv-a-realizado-la-autoridad-sanitaria/",
-   "titulo": "55 fiscalizaciones a protocolos de exposición a plaguicidas y radiación UV a realizado la autoridad sanitaria",
-   "resumen": "En Biobío,para cuidar salud laboral.",
+   "titulo": "Autoridad Sanitaria realiza 55 fiscalizaciones por exposición a plaguicidas y radiación UV en Biobío",
+   "resumen": "Para cuidar salud laboral.",
    "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/fiscalizacion-seremi-salud-biobio--768x514.png",
    "fuente": "El Conquistador",
    "fuenteId": "conquistador",
