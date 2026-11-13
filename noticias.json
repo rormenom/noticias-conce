@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-13T23:00:32.388Z",
+ "generado": "2026-11-13T23:10:19.587Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -2750,20 +2749,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-08T23:30:23.883Z",
    "visto": "2026-11-08T23:30:23.883Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tras-ser-campeon-con-boca-palacios-alento-a-colo-colo-en-chillan-y-celebro-con-abrazo-junto-a-correa.shtml",
-   "titulo": "Tras ser campeón con Boca: Palacios alentó a Colo Colo en Chillán y celebró con abrazo junto a Correa",
-   "resumen": "Carlos Palacios sorprendió al aparecer este domingo en el Estadio ‘Nelson Oyarzún’ de Chillán para alentar a Colo Colo, apenas...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7011949-carlos-palacios-colo-colo--campeon.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-08T23:09:57.000Z",
-   "visto": "2026-11-08T23:10:07.746Z",
    "cats": [
     "deportes"
    ],
