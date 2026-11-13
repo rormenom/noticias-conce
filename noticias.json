@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T21:40:18.847Z",
+ "generado": "2026-11-13T21:50:19.080Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 61,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 30,
-    "leidas": 9,
+    "enlaces": 31,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/decretan-duelo-comunal-en-concepcion-tras-el-fallecimiento-de-reconocido-payaso-tony-pulguita",
+   "titulo": "Concepción decreta duelo comunal por la muerte del querido Tony Pulguita",
+   "resumen": "José Ramón Arellano Rodríguez, conocido artísticamente como Tony Pulguita, falleció durante la tarde de este viernes. Tras su muerte, la Municipalidad de Concepción estableció duelo comunal por 24 horas para este sábado 14 de noviembre. El alcalde Héctor…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/tonypulguita-en-instagram.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T21:50:19.080Z",
+   "visto": "2026-11-13T21:50:19.080Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/decretan-duelo-comunal-en-concepcion-tras-el-fallecimiento-de-reconocido-payaso-tony-pulguita.shtml",
    "titulo": "Decretan duelo comunal en Concepción tras el fallecimiento de reconocido payaso, Tony Pulguita",
@@ -1410,20 +1424,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T13:20:20.748Z",
    "visto": "2026-11-12T13:20:20.748Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/juan-riquelme-continua-paro-de-camiones-en-tercera-jornada-de-movilizaciones",
-   "titulo": "Juan Riquelme: continúa paro de camiones en tercera jornada de movilizaciones en Bío Bío",
-   "resumen": "Se cumple el tercer día de movilizaciones de camioneros en el Gran Concepción, específicamente en el sector de Juan Riquelme, ruta Concepción-Cabrero, donde cerca de 60 camiones se mantienen apostados a los costados de la calzada. La protesta, originada en…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/MOPNOS-JUAN-RIQUELME-2-e1794484782673.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T12:10:23.453Z",
-   "visto": "2026-11-12T12:10:23.453Z",
    "cats": [
     "regional"
    ],
