@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T15:00:28.660Z",
+ "generado": "2026-11-13T15:10:22.883Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 145,
-    "leidas": 61,
+    "enlaces": 144,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 9,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/casa-de-tortura-los-angeles-secuestros.html",
+   "titulo": "Casa de tortura en Los Ángeles: dos detenidos en prisión preventiva por secuestros y tráfico de drogas",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-36.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T15:10:22.883Z",
+   "visto": "2026-11-13T15:10:22.883Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/de-huertos-solares-sustentables-a-apoyo-en-salud-mental-327-estudiantes-expondran-proyectos-con-impacto-comunitario-en-talentos-udec/",
    "titulo": "De huertos solares sustentables a apoyo en salud mental: 327 estudiantes expondrán proyectos con impacto comunitario en Talentos UdeC",
@@ -280,20 +294,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
-   "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
-   "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pedro-marileo-dpp-arauco-e1794534128278.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/13/udec-programa-rescate-legado-teatral.html",
    "titulo": "UdeC impulsa el rescate de su legado teatral con nuevo programa de creación y formación escénica",
    "resumen": "“Escena UdeC” es el nombre de la iniciativa adjudicada por la Universidad de Concepción en el Fondo de las Artes Escénicas 2026, que contempla dos montajes, procesos formativos y actividades de mediación para acercar el teatro a las comunidades del Biobío y…",
@@ -304,6 +304,20 @@
    "visto": "2026-11-13T08:40:18.652Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
+   "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
+   "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pedro-marileo-dpp-arauco-e1794534128278.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1508,20 +1522,6 @@
    "visto": "2026-11-11T21:08:35.581Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/11/autoridades-comparten-el-triunfo-presupuestario-tras-defensa-conjunta-por-nuble/",
-   "titulo": "Autoridades comparten el triunfo presupuestario tras defensa conjunta por Ñuble",
-   "resumen": "El logro se instala como un ejemplo de articulación política: la defensa coordinada de los fondos demostró que las demandas de Ñuble tienen más peso cuando se presentan en bloque.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/presupuesto-ñuble-gore-alcaldes-consejeros--768x512.jpeg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-11T21:08:07.000Z",
-   "visto": "2026-11-11T23:20:26.584Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
