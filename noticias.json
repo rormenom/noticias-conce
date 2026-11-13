@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T11:35:06.825Z",
+ "generado": "2026-11-13T13:00:30.345Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 59,
+    "enlaces": 150,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 31,
-    "leidas": 11,
+    "enlaces": 30,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/con-mas-de-30-anos-de-trayectoria-pablo-gaete-recibira-el-premio-regional-de-arte-y-cultura-del-biobio-2026",
+   "titulo": "Con más de 30 años de trayectoria: Pablo Gaete recibirá el Premio Regional de Arte y Cultura del Biobío 2026",
+   "resumen": "Con más de tres décadas dedicadas a la gestión cultural, el actual director de Balmaceda Arte Joven en la región del Biobío, Pablo Gaete, recibirá próximamente el Premio Regional de Arte y Cultura 2026 en la categoría Gestión Cultural, reconocimiento que se…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Entrevista-en-estudio-con-hombre-mayor.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T13:00:30.345Z",
+   "visto": "2026-11-13T13:00:30.345Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/dos-heridos-deja-colision-con-posterior-volcamiento-en-puente-esmeralda-de-concepcion.shtml",
    "titulo": "Dos heridos deja colisión con posterior volcamiento en Puente Esmeralda de Concepción",
@@ -1534,20 +1548,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-11T18:30:25.596Z",
    "visto": "2026-11-11T18:30:25.596Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/grandes-gremios-de-camioneros-piden-congelar-precio-del-diesel-pero-siguen-sin-sumarse-al-paro",
-   "titulo": "Confederaciones de dueños de camiones reclaman congelar el precio del diésel, pero descartan sumarse al paro",
-   "resumen": "Luego de acordar una reunión en la región del Bío Bío, las principales confederaciones de camioneros informaron que este jueves se reunirán con el Gobierno para pedir que se congele el precio del diésel, pero sostuvieron que no se incorporarán a las…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/grandes-gremios-de-camioneros-piden-congelar-precio-del-diesel-pero-siguen-sin-sumarse-al-paro.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T18:20:20.154Z",
-   "visto": "2026-11-11T18:20:20.154Z",
    "cats": [
     "regional"
    ],
