@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T10:40:21.587Z",
+ "generado": "2026-11-13T11:30:24.807Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
+    "enlaces": 151,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/puente-esmeralda-colision-vehiculos.html",
+   "titulo": "Puente Esmeralda: colisión frontal de vehículos provoca alta congestión",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/903698482_1434667805451175_7276348624018192833_n.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T11:30:24.807Z",
+   "visto": "2026-11-13T11:30:24.807Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/concepcion-choque-de-alta-intensidad-provoco-volcamiento-en-puente-esmeralda",
+   "titulo": "Concepción: choque de alta energía provocó volcamiento de automovil en Puente Esmeralda",
+   "resumen": "Un choque de alta energía se registró la mañana de este viernes en el Puente Esmeralda, en Concepción, luego de que una camioneta y un automóvil particular colisionaran de manera frontal, dejando a ambos conductores lesionados y provocando un amplio…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-13-at-07.52.17-e1794569225141.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T11:30:24.807Z",
+   "visto": "2026-11-13T11:30:24.807Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/13/prevencion-de-incendios-udec-realizo-tercera-feria-de-reduccion-de-riesgo-de-desastres",
    "titulo": "Prevención de incendios: UdeC realizó tercera feria de Reducción de Riesgo de Desastres",
@@ -153,20 +181,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/13/ampliaciones-sin-regularizar-hipotecarios-biobio.html",
-   "titulo": "Ampliaciones sin regularizar: el problema que puede dejar a compradores sin crédito hipotecario",
-   "resumen": "Los bancos pueden excluir parte de la superficie construida al tasar una propiedad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-edificios-en-el-centro-de-Concepci%C3%B3n-foto-carolina-4-e1794533714385.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/13/udec-programa-rescate-legado-teatral.html",
    "titulo": "UdeC impulsa el rescate de su legado teatral con nuevo programa de creación y formación escénica",
    "resumen": "“Escena UdeC” es el nombre de la iniciativa adjudicada por la Universidad de Concepción en el Fondo de las Artes Escénicas 2026, que contempla dos montajes, procesos formativos y actividades de mediación para acercar el teatro a las comunidades del Biobío y…",
@@ -177,6 +191,20 @@
    "visto": "2026-11-13T08:40:18.652Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/13/ampliaciones-sin-regularizar-hipotecarios-biobio.html",
+   "titulo": "Ampliaciones sin regularizar: el problema que puede dejar a compradores sin crédito hipotecario",
+   "resumen": "Los bancos pueden excluir parte de la superficie construida al tasar una propiedad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-edificios-en-el-centro-de-Concepci%C3%B3n-foto-carolina-4-e1794533714385.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1550,34 +1578,6 @@
    "visto": "2026-11-11T17:20:20.301Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.html",
-   "titulo": "“Uno de los mayores robos a nivel país”: confirman sustracción de más de $8.500 millones tras forado a banco en Concepción",
-   "resumen": "El arqueo oficial cifró la sustracción en cerca de $8.520 millones, US$80 mil y 30 mil euros tras un forado de 60 centímetros en un muro colindante.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/robo-banco-bci-concepcion-millonario-botin-fiscalia-pdi.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T17:20:20.301Z",
-   "visto": "2026-11-11T17:20:20.301Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/robo-al-bci-en-concepcion-botin-supera-los-8-500-millones-y-se-convierte-en-el-mayor-robo-bancario-en-la-historia-del-pais",
-   "titulo": "El mayor robo a un banco en Chile: monto sustraído a BCI de Concepción asciende a $8.520 millones",
-   "resumen": "El millonario robo que afectó a una sucursal del Banco BCI, en pleno centro de Concepción, alcanzó una cifra considerablemente superior a las primeras estimaciones. La PDI confirmó que se convierte en el mayor robo bancario en la historia del país. Nuevos…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ahora-c9.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T17:00:27.690Z",
-   "visto": "2026-11-11T17:00:27.690Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
