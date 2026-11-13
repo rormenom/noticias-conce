@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T00:50:19.160Z",
+ "generado": "2026-11-13T01:00:27.513Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
-    "leidas": 1,
+    "enlaces": 56,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -1511,20 +1511,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/micreros-lota-arauco-paro-indefinido-ruta-160.html",
-   "titulo": "Conductores de taxibuses de Arauco y Lota se plegarán este jueves a las movilizaciones en el Biobío",
-   "resumen": "Conductores autoconvocados de Los Alces y Expresos del Carbón acusaron que sus costos en combustible se duplicaron desde marzo de este año.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Transporte-entre-Arauco-Lota-y-Concepci%C3%B3n-en-alerta-cerca-del-70-de-taxibuses-iniciar%C3%A1-paralizaci%C3%B3n.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T15:00:00.000Z",
-   "visto": "2026-11-12T01:00:25.446Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/gobierno-congela-combustibles-febrero-2027.html",
    "titulo": "Gobierno anuncia congelamiento de combustibles hasta febrero de 2027 y emplaza a camioneros a deponer paro",
    "resumen": "El biministro Claudio Alvarado confirmó que se revertirá el alza de $42 en gasolinas y $39 en diésel, mientras gremios consultan a sus bases.",
@@ -1547,6 +1533,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-11T15:00:00.000Z",
    "visto": "2026-11-12T16:40:22.769Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/micreros-lota-arauco-paro-indefinido-ruta-160.html",
+   "titulo": "Conductores de taxibuses de Arauco y Lota se plegarán este jueves a las movilizaciones en el Biobío",
+   "resumen": "Conductores autoconvocados de Los Alces y Expresos del Carbón acusaron que sus costos en combustible se duplicaron desde marzo de este año.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Transporte-entre-Arauco-Lota-y-Concepci%C3%B3n-en-alerta-cerca-del-70-de-taxibuses-iniciar%C3%A1-paralizaci%C3%B3n.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T15:00:00.000Z",
+   "visto": "2026-11-12T01:00:25.446Z",
    "cats": [
     "regional"
    ],
