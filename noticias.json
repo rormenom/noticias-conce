@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T14:00:29.421Z",
+ "generado": "2026-11-13T14:20:21.879Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 148,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/casa-de-secuestro-y-tortura-en-los-angeles-detenidos-la-modificaron-para-que-no-escucharan-los-gritos",
+   "titulo": "Descubren casa de secuestro y tortura modificada para que no se escucharan los gritos en Los Ángeles",
+   "resumen": "Una pesquisa de la Fiscalía permitió hallar una vivienda en Los Ángeles que habría sido utilizada para secuestrar y torturar. Dos personas fueron enviadas a prisión preventiva por su presunta participación en los hechos, entre ellas quien encabezaría la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/casa-secuestro-tortura-los-angeles.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T14:20:21.879Z",
+   "visto": "2026-11-13T14:20:21.879Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/casa-de-secuestro-y-tortura-en-los-angeles-detenidos-la-modificaron-para-que-no-escucharan-los-gritos.shtml",
    "titulo": "Casa de secuestro y tortura en Los Ángeles: detenidos la modificaron para que no escucharan los gritos",
@@ -1521,20 +1535,6 @@
    "visto": "2026-11-11T19:10:21.816Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/delincuente-se-hizo-pasar-por-carabinero-para-intentar-robar-vehiculo-a-mujer-en-ruta-150-conductores-frustraron-el-asalto",
-   "titulo": "Delincuente se hizo pasar por carabinero para intentar robar vehículo a mujer en Lirquén: conductores frustraron el asalto",
-   "resumen": "Una mujer de 46 años fue víctima de un violento intento de robo de su vehículo en la Ruta 150, a la altura del mirador de Lirquén, en el tramo que conecta las comunas de Tomé y Penco. El hecho ocurrió durante la mañana de este miércoles, cuando un sujeto que…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Diseno-sin-titulo.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T19:10:21.816Z",
-   "visto": "2026-11-11T19:10:21.816Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
