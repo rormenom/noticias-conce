@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-13T22:40:20.721Z",
+ "generado": "2026-11-13T22:50:21.096Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -34,8 +35,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
-    "leidas": 0,
+    "enlaces": 58,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +61,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 59,
+    "enlaces": 150,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +82,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/maquinarias-advierten-protesta-rutas-biobio.html",
+   "titulo": "Camioneros del Biobío advierten que retomarán los bloqueos de rutas y calles",
+   "resumen": "Aunque el paro de camiones se levantó en el Gran Concepción y Los Ángeles, las bases acusan negociaciones a puertas cerradas y advierten una escalada del conflicto.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-5.jpg-e1794609584625.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T22:50:21.096Z",
+   "visto": "2026-11-13T22:50:21.096Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/13/fallece-tony-pulguita-legado-tvu-duelo-comunal.html",
    "titulo": "Desde \"El Club Mágico\" en TVU hasta el Teatro UdeC: el imborrable legado televisivo que deja Tony Pulguita",
@@ -1399,20 +1414,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/violento-asalto-a-farmacia-comunitaria-en-el-sector-collao-de-concepcion",
-   "titulo": "Violento asalto a farmacia comunitaria en el sector Collao de Concepción",
-   "resumen": "Durante la tarde del día de ayer, pasada las 19:00 horas, al menos dos sujetos encapuchados protagonizaron un violento asalto en una farmacia comunitaria y centro odontológico ubicado en la calle General Novoa, en el sector Collao de Concepción. De acuerdo…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-12-at-10.41.48-e1794493473175.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T14:30:23.692Z",
-   "visto": "2026-11-12T14:30:23.692Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
