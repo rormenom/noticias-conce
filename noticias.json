@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T09:10:19.934Z",
+ "generado": "2026-11-13T10:30:25.148Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/prevencion-de-incendios-udec-realizo-tercera-feria-de-reduccion-de-riesgo-de-desastres",
+   "titulo": "Prevención de incendios: UdeC realizó tercera feria de Reducción de Riesgo de Desastres",
+   "resumen": "La Universidad de Concepción desarrolló la tercera edición de la feria Reducción de Riesgo de Desastres UdeC, bajo el lema «Prevenir es cuidar». En la actividad participaron autoridades como el director regional del Servicio Nacional de Prevención y Respuesta…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/04/incendio-forestal.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T10:30:25.148Z",
+   "visto": "2026-11-13T10:30:25.148Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/13/camioneros-deponen-paro-en-3-puntos-del-gran-concepcion-tras-propuesta-del-gobierno",
    "titulo": "Camioneros levantan paro en cuatro puntos del Gran Concepción tras acuerdo entre Gobierno y gremios",
@@ -1562,20 +1576,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-11T17:00:27.690Z",
    "visto": "2026-11-11T17:00:27.690Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/11/mayor-robo-a-un-banco-en-chile-monto-sustraido-a-bci-de-concepcion-asciende-a-8-520-millones.shtml",
-   "titulo": "Mayor robo a un banco en Chile: monto sustraído a BCI de Concepción asciende a $8.520 millones",
-   "resumen": "El robo registrado en una sucursal del Banco BCI en pleno centro de Concepción dejó un botín de $8.520 millones,...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7015658-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-11T16:49:26.000Z",
-   "visto": "2026-11-11T16:50:21.329Z",
    "cats": [
     "regional"
    ],
