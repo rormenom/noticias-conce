@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T14:40:23.501Z",
+ "generado": "2026-11-13T14:50:21.136Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 63,
+    "enlaces": 146,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/de-huertos-solares-sustentables-a-apoyo-en-salud-mental-327-estudiantes-expondran-proyectos-con-impacto-comunitario-en-talentos-udec/",
+   "titulo": "De huertos solares sustentables a apoyo en salud mental: 327 estudiantes expondrán proyectos con impacto comunitario en Talentos UdeC",
+   "resumen": "Diseñar herramientas solares para un huerto comunitario, restaurar documentos patrimoniales […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Participacion_FeriaCienciaEscolar2-768x432.png",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-13T14:43:23.000Z",
+   "visto": "2026-11-13T14:50:21.136Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/13/pago-electronico-en-el-gran-concepcion-asi-funciona-el-unico-punto-de-venta-habilitado-para-adquirir-la-tarjeta",
    "titulo": "Pago electrónico en Gran Concepción: así funciona el único punto de venta habilitado para adquirir la tarjeta",
@@ -1506,20 +1520,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-11T21:08:07.000Z",
    "visto": "2026-11-11T23:20:26.584Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/11/enap-confirma-alza-precios-diesel-bencinas.html",
-   "titulo": "ENAP confirma nueva alza: diésel sube $41,9 por litro desde este jueves",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2022/03/bencinas-mepco.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T20:57:13.562Z",
-   "visto": "2026-11-11T20:57:13.562Z",
    "cats": [
     "regional"
    ],
