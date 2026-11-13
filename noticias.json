@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T20:50:21.907Z",
+ "generado": "2026-11-13T21:10:23.248Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 60,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 29,
+    "enlaces": 30,
     "leidas": 10,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/fallece-jose-ramon-arellano-payaso-tony-pulguita.html",
+   "titulo": "Luto en el Biobío: fallece José Ramón Arellano, el histórico payaso “Tony Pulguita”",
+   "resumen": "El artista falleció este viernes tras luchar contra un cáncer. Tras más de 30 años de trayectoria, se había retirado de los escenarios en marzo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fallece-jose-ramon-arellano-payaso-tony-pulguita.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T21:10:23.248Z",
+   "visto": "2026-11-13T21:10:23.248Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/hombre-muere-tras-ataque-a-balazos-en-hualpen-activan-protocolo-de-seguridad-en-colegio-cercano",
+   "titulo": "Hombre muere tras ataque a balazos en Hualpén: activan protocolo de seguridad en colegio cercano",
+   "resumen": "Un nuevo homicidio se registró en la comuna de Hualpén, en el Gran Concepción, luego de que un hombre joven falleciera tras recibir múltiples impactos balísticos. El ataque ocurrió en las cercanías de la Escuela República del Perú, lo que obligó a activar…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/PHOTO-2026-11-13-16-24-47-e1794603761339.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T21:10:23.248Z",
+   "visto": "2026-11-13T21:10:23.248Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/13/muere-tony-pulguita-mas-de-30-anos-de-humor-y-alegria-que-marcaron-a-la-region-del-biobio",
    "titulo": "Muere Tony Pulguita: más de 30 años de humor y alegría que marcaron a la región del Biobío",
@@ -691,20 +719,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/feria-de-ciencia-e-innovacion-reunira-20-proyectos-desarrollados-por-escolares-del-biobio.html",
-   "titulo": "Feria de ciencia e innovación reunirá 20 proyectos desarrollados por escolares del Biobío",
-   "resumen": "La jornada se desarrollará en la USM sede Concepción y visibilizará el trabajo de 70 jóvenes que durante el año participaron en clases y talleres STEM.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/breve-e1794534524274.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/13/udec-programa-rescate-legado-teatral.html",
    "titulo": "UdeC impulsa el rescate de su legado teatral con nuevo programa de creación y formación escénica",
    "resumen": "“Escena UdeC” es el nombre de la iniciativa adjudicada por la Universidad de Concepción en el Fondo de las Artes Escénicas 2026, que contempla dos montajes, procesos formativos y actividades de mediación para acercar el teatro a las comunidades del Biobío y…",
@@ -723,6 +737,20 @@
    "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
    "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/feria-de-ciencia-e-innovacion-reunira-20-proyectos-desarrollados-por-escolares-del-biobio.html",
+   "titulo": "Feria de ciencia e innovación reunirá 20 proyectos desarrollados por escolares del Biobío",
+   "resumen": "La jornada se desarrollará en la USM sede Concepción y visibilizará el trabajo de 70 jóvenes que durante el año participaron en clases y talleres STEM.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/breve-e1794534524274.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-13T08:40:18.652Z",
@@ -1412,34 +1440,6 @@
    "visto": "2026-11-12T11:30:24.766Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/puente-llacolen-bus-detenido-alta-congestion.html",
-   "titulo": "Puente Llacolén: bus con desperfecto mecánico provoca alta congestión vehicular",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Puente-Llacolen.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T11:10:20.524Z",
-   "visto": "2026-11-12T11:10:20.524Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/gran-concepcion-camioneros-se-manifestaron-bloqueando-acceso-a-depositos-en-puerto-de-san-vicente",
-   "titulo": "Camioneros bloquearon los accesos a depósitos del Puerto de San Vicente, en el Gran Concepción",
-   "resumen": "Los camioneros del Gran Concepción, en la región del Bío Bío, se manifestaron bloqueando el acceso a los depósitos de contenedores del Puerto de San Vicente, en Talcahuano. También se reunieron en otros caminos para expresar su malestar con el Gobierno. Lee…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/camioneros-puerto-san-vicente.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T11:00:28.826Z",
-   "visto": "2026-11-12T11:00:28.826Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
