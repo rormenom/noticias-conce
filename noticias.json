@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T18:45:04.299Z",
+ "generado": "2026-11-13T19:00:30.492Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 145,
-    "leidas": 63,
+    "enlaces": 146,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,69 @@
    "diag": {
     "paginas": 3,
     "enlaces": 29,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/chofer-de-micro-queda-grave-tras-ser-agredido-por-jovenes-que-se-negaron-a-pagar-pasaje-en-concepcion.shtml",
+   "titulo": "Chofer de micro queda grave tras ser agredido por jóvenes que se negaron a pagar pasaje en Concepción",
+   "resumen": "Con lesiones graves e internado permanece un conductor de la línea de buses Tomé-Concepción, quien fue agredido por dos jóvenes...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7018785-restore-diseno-sin-titulo-18-600x315-1200x633-1.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-13T19:00:42.000Z",
+   "visto": "2026-11-13T19:00:30.492Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/homicidio-hombre-baleado-sar-candelaria-san-pedro-paz.html",
+   "titulo": "Nuevo homicidio en San Pedro de la Paz: hombre muere baleado en el SAR de Candelaria tras violenta riña",
+   "resumen": "La víctima fue atacada al interior de una vivienda. Desde el Ejecutivo confirmaron que la Brigada de Homicidios ya lidera las diligencias del caso.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Pistola-Carabineros.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T19:00:30.492Z",
+   "visto": "2026-11-13T19:00:30.492Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/nuevo-homicidio-en-san-pedro-de-la-paz-hombre-de-40-anos-murio-tras-ser-baleado-en-una-pierna",
+   "titulo": "Hombre de 40 años muere tras recibir un disparo en una pierna en San Pedro de la Paz",
+   "resumen": "Un nuevo asesinato ocurrió en San Pedro de la Paz, región del Bío Bío, luego de que un hombre de 40 años falleciera en el SAR de Candelaria. Sus familiares lo habían llevado hasta allí después de que resultara herido en una pelea dentro de una vivienda. Según…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-13t152344-228.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T19:00:30.492Z",
+   "visto": "2026-11-13T19:00:30.492Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/conaf-y-efe-sur-lanzan-campana-de-prevencion-de-incendios-forestales-en-biotren-y-corto-laja/",
+   "titulo": "Conaf y Efe Sur lanzan campaña de prevención de incendios forestales en Biotrén y Corto Laja",
+   "resumen": "La Corporación Nacional Forestal (CONAF) y EFE Sur realizaron el […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/CONAF-EFE-768x576.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-13T18:55:17.000Z",
+   "visto": "2026-11-13T19:00:30.492Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/patrullajes-policia-maritima-penco-verano.html",
    "titulo": "Controles de identidad en las playas de Penco aumentan un 294% y bajan infracciones por alcohol",
@@ -1375,34 +1431,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/hombre-es-asesinado-a-tiros-en-coronel-es-el-homicidio-72-en-el-bio-bio-en-lo-que-va-del-ano",
-   "titulo": "Asesinan a balazos a un hombre en Coronel: homicidio número 72 del año en el Bío Bío",
-   "resumen": "Un hombre fue ultimado a balazos este miércoles en Coronel, región del Bío Bío. El hombre, de 25 años, falleció tras recibir impactos de bala en distintas partes del cuerpo, informó Radio Bío Bío. Según los primeros antecedentes disponibles, la víctima fue…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-1-cntxt-por-pdi-indaga-hombre-es-asesinado-a-tiros-en-coronel-es-el-homicidio-72-en-el-bio-bio-en-lo-que-va-del-ano.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T09:10:20.800Z",
-   "visto": "2026-11-12T09:10:20.800Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/utilidades-enap-alza-combustibles.html",
-   "titulo": "Expertos locales explican los riesgos de destinar utilidades de Enap para enfrentar el alza de combustibles",
-   "resumen": "Retiro del proyecto del Gobierno reabrió debate por ganancias de la estatal y subsidios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-14-planta-enap-foto-archivo-diario-concepcion.jpg-e1794442924239.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/evandro-arteaga-con-titulo-de-entrenador-y-la-felicidad-al-formar-ninos.html",
    "titulo": "Evandro Arteaga: con título de entrenador y la felicidad al formar niños",
    "resumen": "Histórico basquetbolista disfruta preparando a los chicos de su academia, no descarta dirigir algún día un equipo profesional y analiza el presente de la UdeC buscando semifinales de la LNB.",
@@ -1483,34 +1511,6 @@
    "visto": "2026-11-12T08:40:19.790Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/denuncian-microbasural-cerro-la-u-talcahuano.html",
-   "titulo": "Entre escombros y riesgo industrial: denuncian deterioro de sitio donde O´Higgins proclamó la independencia",
-   "resumen": "A pesar de ser un casco histórico para la historia de Chile, el Cerro La U de Talcahuano presenta una gran contaminación ambiental. Autoridades ya están al tanto de la situación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-basural-Cerro-U-en-Talcahuano-foto-Enrique-Zamora-e1794441231974.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/paro-camioneros-biobio-san-vicente-ruta-160.html",
-   "titulo": "Paro de camioneros: taxis colectivos del Biobío evaluarán este jueves unirse a movilizaciones",
-   "resumen": "Distintos puntos de la Región del Biobío fueron testigos de las paralizaciones de conductores.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-e1794441376468.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
