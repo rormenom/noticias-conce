@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-13T17:10:21.554Z",
+ "generado": "2026-11-13T17:40:20.344Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 507",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -60,8 +61,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 63,
+    "enlaces": 146,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +75,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 29,
-    "leidas": 7,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/talcahuano-anuncia-medidas-por-basural-ilegal-y-descarta-que-este-donde-se-firmo-la-independencia.shtml",
+   "titulo": "Talcahuano anuncia medidas por basural ilegal y descarta que esté donde se firmó la independencia",
+   "resumen": "Un basural ubicado en calle 2 de Talcahuano, junto a Cementos Bío Bío, fue visitado por el alcalde de la...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7018516-talcahuano-anuncia-medidas-por-basural-ilegal-y-descarta-que-este-donde-se-firmo-la-independencia.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-13T17:39:40.000Z",
+   "visto": "2026-11-13T17:40:20.344Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/13/el-cruce-cierra-gira-de-sus-25-anos-de-trayectoria-en-concepcion",
    "titulo": "El Cruce cierra gira de sus 25 años de trayectoria en Concepción",
@@ -1480,20 +1495,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-11T23:34:28.000Z",
    "visto": "2026-11-11T23:40:20.662Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/atropello-bus-carabineros-salas-ohiggins-concepcion.html",
-   "titulo": "Joven resulta lesionada tras ser atropellada por bus de Carabineros en el centro de Concepción",
-   "resumen": "El accidente ocurrió en la esquina de Salas con O’Higgins tras servicios por marcha estudiantil. La SIAT indaga la dinámica y el tránsito fue cortado.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/atropello-bus-carabineros-salas-ohiggins-concepcion.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T23:30:24.200Z",
-   "visto": "2026-11-11T23:30:24.200Z",
    "cats": [
     "regional"
    ],
