@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T16:50:20.951Z",
+ "generado": "2026-11-13T17:00:28.586Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 62,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/viaja-a-rapa-nui-sin-salir-del-biobio-festival-gratuito-tendra-bailes-y-tradiciones-polinesias",
+   "titulo": "¡Viaja a Rapa Nui sin salir del Biobío! festival gratuito tendrá bailes y tradiciones polinesias",
+   "resumen": "Este sábado se realizará en Chiguayante la segunda versión del Festival Te Hono, encuentro dedicado a la cultura polinesia y de Rapa Nui. En conversación con Nuestra Casa, la organizadora Karina Ortiz, directora de Mahatu nui Polinesia, y las emprendedoras…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/restore-rapa-nui.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T17:00:28.586Z",
+   "visto": "2026-11-13T17:00:28.586Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/13/invitan-comunidad-del-biobio-tercer-concurso-dramaturgia-monica-perez.html",
    "titulo": "Invitan a la comunidad del Biobío a participar en el tercer concurso de dramaturgia “Mónica Pérez”",
@@ -1479,20 +1494,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-11T22:50:19.385Z",
    "visto": "2026-11-11T22:50:19.385Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/bci-fondos-clientes-resguardados-robo-concepcion.html",
-   "titulo": "Banco BCI por robo en Concepción: “fondos se encuentran a resguardo”",
-   "resumen": "Desde la institución recalcaron que los recursos se encuentran a resguardo y que ningún cliente ni trabajador resultó con lesiones durante el atraco ocurrido en una sucursal del centro penquista.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/robo-bci-concepcion-crisis-seguridad.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T22:30:24.329Z",
-   "visto": "2026-11-11T22:30:24.329Z",
    "cats": [
     "regional"
    ],
