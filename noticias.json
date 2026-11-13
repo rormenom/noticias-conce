@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T23:30:23.858Z",
+ "generado": "2026-11-13T23:40:23.557Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,9 +61,10 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 59,
-    "errores": 0,
-    "robots": 0
+    "leidas": 56,
+    "errores": 3,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/la-golpearon-y-subieron-videos-a-rrss-formalizan-a-2-mujeres-por-secuestro-de-adolescente-en-cabrero.shtml)"
    }
   },
   {
@@ -1382,6 +1383,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T15:00:00.000Z",
    "visto": "2026-11-13T19:10:23.670Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/la-golpearon-y-subieron-videos-a-rrss-formalizan-a-2-mujeres-por-secuestro-de-adolescente-en-cabrero.shtml",
+   "titulo": "La golpearon y subieron videos a RRSS: formalizan a 2 mujeres por secuestro de adolescente en Cabrero",
+   "resumen": "",
+   "imagen": "",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-12T15:00:00.000Z",
+   "visto": "2026-11-13T23:40:23.557Z",
    "cats": [
     "regional"
    ],
@@ -2721,20 +2736,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-09T00:19:48.000Z",
    "visto": "2026-11-09T00:20:19.789Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/08/union-la-calera-derroto-con-lo-justo-a-huachipato-sale-del-fondo-y-sigue-sonando-con-la-salvacion",
-   "titulo": "Unión La Calera vence por la mínima a Huachipato y mantiene viva su lucha por la permanencia",
-   "resumen": "Unión La Calera dio este domingo un paso clave en su objetivo de seguir en la Primera División del fútbol chileno. En el estadio Nicolás Chahuán, el equipo cementero venció 1-0 a Huachipato por la fecha 27 de la Liga de Primera 2026. El conjunto dirigido por…",
-   "imagen": "https://media.canal9.cl/2026/11/la-calera-huachipato-liga-de-primera-768x405.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-08T23:40:18.796Z",
-   "visto": "2026-11-08T23:40:18.796Z",
    "cats": [
     "deportes"
    ],
