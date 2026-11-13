@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T14:30:23.505Z",
+ "generado": "2026-11-13T14:40:23.501Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 64,
+    "enlaces": 148,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 6,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/pago-electronico-en-el-gran-concepcion-asi-funciona-el-unico-punto-de-venta-habilitado-para-adquirir-la-tarjeta",
+   "titulo": "Pago electrónico en Gran Concepción: así funciona el único punto de venta habilitado para adquirir la tarjeta",
+   "resumen": "A pocos días de que comience la marcha blanca del nuevo sistema de recaudo electrónico en el transporte público del Gran Concepción, fijada para el próximo 1 de diciembre, los usuarios ya pueden adquirir las tarjetas en el primer Centro de Atención al Usuario…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-13-at-09.55.18-e1794580378956.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T14:40:23.501Z",
+   "visto": "2026-11-13T14:40:23.501Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/estudio-reviso-las-redes-de-cooperacion-parlamentaria-en-el-biobio/",
    "titulo": "Estudio revisó las redes de cooperación parlamentaria en el Biobío",
@@ -1512,20 +1526,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/11/si-vives-en-una-de-estas-21-comunas-postula-a-un-aire-acondicionado-revisa-los-requisitos-a-cumplir",
-   "titulo": "Postula a un aire acondicionado si vives en alguna de estas 21 comunas: conoce los requisitos",
-   "resumen": "Las postulaciones al programa de recambio de calefactores del Ministerio del Medio Ambiente comenzaron a principios de noviembre. La iniciativa busca disminuir las emisiones contaminantes que produce la combustión residencial a leña. Según las condiciones del…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/recambio-de-calefactores.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-11T20:57:13.562Z",
-   "visto": "2026-11-11T20:57:13.562Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/11/problemas-para-vial-dos-fechas-de-castigo-para-una-de-sus-grandes-figuras.html",
    "titulo": "Problemas para Vial: dos fechas de castigo para una de sus grandes figuras",
    "resumen": "",
@@ -2787,20 +2787,6 @@
    "visto": "2026-11-09T01:10:21.608Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/08/rio-biobio-con-drogas-ciencia-alerta-que-sustancias-consumidas-por-la-poblacion-llegan-a-su-caudal.html",
-   "titulo": "Río Biobío con drogas: ciencia alerta que sustancias consumidas por la población llegan a su caudal",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-r%C3%ADo-Biob%C3%ADo-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-08T14:40:20.033Z",
-   "visto": "2026-11-08T14:40:20.033Z",
-   "cats": [
-    "tecnologia"
    ],
    "local": true
   }
