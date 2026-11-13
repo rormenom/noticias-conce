@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T23:10:19.435Z",
+ "generado": "2026-11-13T00:10:22.056Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 58,
+    "enlaces": 151,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -96,10 +96,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/camioneros-agua-gloria-movilizacion-alza-combustibles.html",
-   "titulo": "Cerca de 400 camiones mantienen movilización en Agua de la Gloria por alza de combustibles",
-   "resumen": "Vocero de la agrupación Juan Riquelme cifró en 400 las máquinas apostadas en la ruta desde el lunes, exigiendo eliminar el impuesto específico y desconociendo los acuerdos alcanzados por dirigencias nacionales en Santiago.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-4.jpg-e1794518715830.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/inversion-minvu-viviendas-obras-nacimiento.html",
+   "titulo": "Minvu anuncia inversión cercana a los $60 mil millones para construir 700 viviendas en Nacimiento",
+   "resumen": "La cartera destinará recursos para dos comités habitacionales, obras viales y la reposición de cinco viviendas dañadas por termitas en la comuna.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-nacimiento-foto-carolina-e1794518832768.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T21:30:24.769Z",
@@ -110,10 +110,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/inversion-minvu-viviendas-obras-nacimiento.html",
-   "titulo": "Minvu anuncia inversión cercana a los $60 mil millones para construir 700 viviendas en Nacimiento",
-   "resumen": "La cartera destinará recursos para dos comités habitacionales, obras viales y la reposición de cinco viviendas dañadas por termitas en la comuna.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-nacimiento-foto-carolina-e1794518832768.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/camioneros-agua-gloria-movilizacion-alza-combustibles.html",
+   "titulo": "Cerca de 400 camiones mantienen movilización en Agua de la Gloria por alza de combustibles",
+   "resumen": "Vocero de la agrupación Juan Riquelme cifró en 400 las máquinas apostadas en la ruta desde el lunes, exigiendo eliminar el impuesto específico y desconociendo los acuerdos alcanzados por dirigencias nacionales en Santiago.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-4.jpg-e1794518715830.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T21:30:24.769Z",
@@ -504,6 +504,21 @@
    "visto": "2026-11-12T15:00:29.538Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/fractura-paro-camioneros-biobio-acuerdo-gobierno.html",
+   "titulo": "“Fue un acuerdo entre cuatro paredes”: camioneros de Coronel y sector Juan Riquelme rechazan pacto con Gobierno",
+   "resumen": "Mientras dirigentes de Los Ángeles y grandes confederaciones aceptaron rebajas de hasta $150 por litro, en Coronel y No + TAG siguen en paro.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-paro-de-camioneros-ruta-160-foto-enrique-zamora-g-e1794527960253.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T15:00:00.000Z",
+   "visto": "2026-11-13T00:10:22.056Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -1517,20 +1532,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-11T15:00:00.000Z",
    "visto": "2026-11-12T00:20:19.543Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/11/jornada-regional-del-programa-lazos-reune-a-comunas-para-fortalecer-la-prevencion-de-conductas-de-riesgo/",
-   "titulo": "Jornada Regional del Programa Lazos reúne a comunas para fortalecer la prevención de conductas de riesgo",
-   "resumen": "En el Biobío.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/jornada-biobio-lazos-768x576.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-11T14:59:54.000Z",
-   "visto": "2026-11-11T15:02:20.214Z",
    "cats": [
     "regional"
    ],
