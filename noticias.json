@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T17:30:25.807Z",
+ "generado": "2026-11-14T17:50:19.765Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -2602,21 +2602,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-09T18:40:21.336Z",
    "visto": "2026-11-09T18:40:21.336Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/alcalde-y-vecinos-de-coronel-denuncian-contaminacion-en-sector-patagual-piden-investigacion-a-la-sma.shtml",
-   "titulo": "Alcalde y vecinos de Coronel denuncian contaminación en sector Patagual: piden investigación a la SMA",
-   "resumen": "Una denuncia por el ilegal depósito de desechos pesqueros y material orgánico en el sector de Patagual hizo Boris Chamorro,...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012820-sma.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-09T17:47:48.000Z",
-   "visto": "2026-11-09T17:50:23.084Z",
    "cats": [
     "regional",
     "politica"
