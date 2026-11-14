@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T02:50:18.712Z",
+ "generado": "2026-11-14T03:00:27.059Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 58,
+    "enlaces": 57,
     "leidas": 1,
     "errores": 0,
     "robots": 0
@@ -1575,20 +1575,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/evandro-arteaga-con-titulo-de-entrenador-y-la-felicidad-al-formar-ninos.html",
-   "titulo": "Evandro Arteaga: con título de entrenador y la felicidad al formar niños",
-   "resumen": "Histórico basquetbolista disfruta preparando a los chicos de su academia, no descarta dirigir algún día un equipo profesional y analiza el presente de la UdeC buscando semifinales de la LNB.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/evandro-arteaga-e1794443313886.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/senadores-biobio-mocion-tarifas-paro-camionero.html",
    "titulo": "Senadores del Biobío presionan por tramitar moción de tarifas en medio del paro camionero",
    "resumen": "Se busca regular el cobro por kilómetro, fijar plazos máximos de pago y proteger a los transportistas de menor tamaño. La Comisión de Transportes del Senado acordó priorizar su debate.",
@@ -1599,6 +1585,20 @@
    "visto": "2026-11-12T08:40:19.790Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/evandro-arteaga-con-titulo-de-entrenador-y-la-felicidad-al-formar-ninos.html",
+   "titulo": "Evandro Arteaga: con título de entrenador y la felicidad al formar niños",
+   "resumen": "Histórico basquetbolista disfruta preparando a los chicos de su academia, no descarta dirigir algún día un equipo profesional y analiza el presente de la UdeC buscando semifinales de la LNB.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/evandro-arteaga-e1794443313886.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
