@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T01:20:20.729Z",
+ "generado": "2026-11-14T01:30:24.145Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -620,6 +620,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/velatorio-tony-pulguita-iglesia-zion-coronel.html",
+   "titulo": "En Coronel será el último adiós a Tony Pulguita: familia confirma coordenadas de su velatorio",
+   "resumen": "Los restos del histórico artista infantil serán velados en la Iglesia Zion, ubicada en la Ruta 160, para quienes deseen acompañarlo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/velatorio-tony-pulguita-iglesia-zion-coronel.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T15:00:00.000Z",
+   "visto": "2026-11-14T01:20:20.729Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/13/hombre-es-asesinado-con-rozon-en-talcahuano-el-tercero-homicidio-en-bio-bio-en-menos-de-24-horas",
    "titulo": "Un hombre muere tras recibir un disparo en Talcahuano, en medio de una seguidilla de homicidios en el Biobío",
    "resumen": "Un nuevo asesinato ocurrió durante las últimas horas en la región del Bío Bío, el tercero en un lapso inferior a 24 horas: un hombre fue ultimado con un rozón en la comuna de Talcahuano. De acuerdo con información de Radio Bío Bío, el hecho tuvo lugar cerca…",
@@ -644,20 +658,6 @@
    "visto": "2026-11-14T00:20:20.222Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/velatorio-tony-pulguita-iglesia-zion-coronel.html",
-   "titulo": "En Coronel será el último adiós a Tony Pulguita: familia confirma coordenadas de su velatorio",
-   "resumen": "Los restos del histórico artista infantil serán velados en la Iglesia Zion, ubicada en la Ruta 160, para quienes deseen acompañarlo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/velatorio-tony-pulguita-iglesia-zion-coronel.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T15:00:00.000Z",
-   "visto": "2026-11-14T01:20:20.729Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
