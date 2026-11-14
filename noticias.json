@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T22:10:17.990Z",
+ "generado": "2026-11-14T22:30:24.814Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 58,
+    "enlaces": 153,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/14/muere-carlos-grollmus-fue-victima-del-ataque-incendiario-a-su-molino-en-contulmo-en-2022.shtml",
+   "titulo": "Muere Carlos Grollmus: fue víctima del ataque incendiario a su molino en Contulmo en 2022",
+   "resumen": "A los 83 años falleció Carlos Grollmus, una de las víctimas del atentado al Molino Grollmus, ocurrido en 2022 en...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019627-muere-carlos-grollmus-fue-victima-del-ataque-incendiario-a-su-molino-en-contulmo-en-2022.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-14T22:29:25.000Z",
+   "visto": "2026-11-14T22:30:24.814Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/14/un-femicidio-frustrado-se-registro-en-hualpen",
    "titulo": "Un femicidio frustrado se registró en Hualpén",
@@ -1439,20 +1453,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/paro-de-camioneros-en-biobio-descartan-desabastecimiento-de-combustibles-en-la-region",
-   "titulo": "Paro de camioneros en Biobío: descartan desabastecimiento de combustibles en la región",
-   "resumen": "La autoridad regional aseguró que el suministro de combustibles se mantiene con normalidad en la mayor parte de las estaciones de servicio del Biobío. Sin embargo, reconoció inconvenientes puntuales en Penco y Los Álamos, mientras la situación continúa bajo…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/516883-oOcY1NnSAbdVYWBG2QSNiTscUltBWs.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T20:10:20.912Z",
-   "visto": "2026-11-12T20:10:20.912Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/12/paro-de-camioneros-gobierno-llama-a-mantener-el-dialogo-mientras-transito-continua-lento-en-rutas-en-el-biobio",
    "titulo": "Paro de camioneros: Gobierno llama a mantener el diálogo mientras tránsito continúa lento en rutas en el Biobío",
    "resumen": "Las movilizaciones de camioneros cumplen este jueves su cuarta jornada en la Región del Biobío, con presencia de transportistas en distintos puntos de la provincia y complicaciones en el desplazamiento de vehículos. En conversación con La Radio desde el…",
@@ -2490,20 +2490,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-09T22:40:19.254Z",
    "visto": "2026-11-09T22:40:19.254Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/09/huachipato-derrota-calera-jaime-garcia.html",
-   "titulo": "Jaime García: “Si seguimos haciendo este tipo de desorden se nos complicará clasificar”",
-   "resumen": "Técnico de Huachipato analizó la pálida presentación acerera que cortó una racha de 6 juegos sin derrotas y les impidió meterse en zona de Copa Sudamericana a falta de 3 fechas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Huachipato-vs-D.-Concepci%C3%B3n-e1794262721395.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T22:30:23.304Z",
-   "visto": "2026-11-09T22:30:23.304Z",
    "cats": [
     "deportes"
    ],
