@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T15:00:28.805Z",
+ "generado": "2026-11-14T15:20:20.228Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
-    "leidas": 1,
+    "enlaces": 56,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 61,
+    "enlaces": 152,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
@@ -2678,21 +2678,6 @@
    "visto": "2026-11-09T15:40:22.310Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/gobierno-alerta-que-delincuentes-estaban-muy-organizados-para-millonario-robo-a-banco-en-concepcion.shtml",
-   "titulo": "Gobierno alerta que delincuentes \"estaban muy organizados\" para millonario robo a banco en Concepción",
-   "resumen": "Autoridades de Gobierno y regionales reaccionaron ante el millonario robo registrado durante la madrugada de este domingo en una sucursal...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012467-gobierno-alerta-que-delincuentes-habrian-aprovechado-jornada-de-teleton-para-robar-banco-en-concepcion.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-09T15:15:18.000Z",
-   "visto": "2026-11-09T15:30:24.350Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
