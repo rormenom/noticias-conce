@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T14:20:19.735Z",
+ "generado": "2026-11-14T14:30:25.089Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 19,
-    "leidas": 1,
+    "enlaces": 20,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,69 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 8,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/14/paro-de-camioneros-genero-retrasos-en-la-logistica-de-los-puertos-de-la-region-pero-no-detuvo-sus-operaciones.html",
+   "titulo": "Paro de camioneros generó retrasos en la logística de los puertos de la Región, pero no detuvo sus operaciones",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-13-entrada-de-camiones-al-puerto-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-14T14:30:25.089Z",
+   "visto": "2026-11-14T14:30:25.089Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/14/tras-acuerdo-con-camioneros-transportistas-descolgados-del-pacto-rechazan-alusiones-al-octubrismo.html",
+   "titulo": "Tras acuerdo con camioneros: transportistas descolgados del pacto rechazan alusiones al octubrismo",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-4-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-14T14:30:25.089Z",
+   "visto": "2026-11-14T14:30:25.089Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/14/diabetes-en-subida-y-cada-vez-mas-precoz-promover-habitos-sanos-para-prevenir-es-un-reto-vital.html",
+   "titulo": "Diabetes en subida y cada vez más precoz: promover hábitos sanos para prevenir es un reto vital",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-11-diabetes-foot-cc.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-14T14:30:25.089Z",
+   "visto": "2026-11-14T14:30:25.089Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/14/catedra-gonzalo-rojas-estrena-nuevo-espacio-de-encuentro-poetico-con-la-primera-edicion-de-cicatrices.html",
+   "titulo": "Cátedra Gonzalo Rojas estrena nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-16-encuentro-poetico-cicatrices-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-14T14:30:25.089Z",
+   "visto": "2026-11-14T14:30:25.089Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/14/merco-salud-hospitales-de-la-region-destacan-en-ranking-nacional-de-centros-con-mejor-reputacion.html",
    "titulo": "Merco Salud: Hospitales de la Región destacan en ranking nacional de centros con mejor reputación",
@@ -1400,34 +1456,6 @@
    "local": true
   },
   {
-   "url": "https://www.radioudec.cl/udec-realiza-tercera-version-de-la-feria-de-reduccion-de-riesgo-de-desastres/",
-   "titulo": "UdeC realiza tercera versión de la Feria de Reducción de Riesgo de Desastres",
-   "resumen": "La Feria de Reducción de Riesgo de Desastres UdeC tuvo […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-1.14.06-PM-768x576.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-12T16:20:45.000Z",
-   "visto": "2026-11-12T16:30:24.375Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/penco-reparacion-vial-incendios.html",
-   "titulo": "Destinan 430 millones de pesos permitirán reparar 2.250 metros cuadrados de calzadas y veredas en Penco y Lirquén",
-   "resumen": "Con financiamiento del Gobierno Regional del Biobío, dos proyectos rehabilitarán vías de Penco y Lirquén deterioradas por la emergencia de enero de 2026 y el tránsito de maquinaria pesada. Las obras consideran reposición de pavimentos y reparación de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO_01.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T16:10:23.246Z",
-   "visto": "2026-11-12T16:10:23.246Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/delegado-presidencial-dialoga-trabajadores-san-vicente.html",
    "titulo": "Puerto de San Vicente: delegado presidencial se reúne con trabajadores movilizados y aborda medidas ante alza del combustible",
    "resumen": "",
@@ -1453,20 +1481,6 @@
    "visto": "2026-11-12T15:40:20.631Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/puerto-de-san-vicente-autoridades-regionales-y-armada-se-reunen-por-bloqueo-de-camioneros",
-   "titulo": "Puerto de San Vicente: Autoridades regionales y Armada se reúnen tras bloqueo de camioneros",
-   "resumen": "Autoridades regionales, representantes de la Armada y ejecutivos portuarios sostienen una reunión de coordinación en la Capitanía de Puerto de San Vicente, en la comuna de Talcahuano, para evaluar el impacto de la tercera jornada de movilizaciones del…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-12-at-11.42.29-e1794497380756.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T15:40:20.631Z",
-   "visto": "2026-11-12T15:40:20.631Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
