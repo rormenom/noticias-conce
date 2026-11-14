@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T20:50:18.925Z",
+ "generado": "2026-11-14T21:00:28.889Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/14/continuan-trabajos-preventivos-ante-incendios-forestales",
+   "titulo": "Continúan trabajos preventivos ante incendios forestales",
+   "resumen": "Más de 500 brigadistas de Conaf se encuentran acuartelados ante el riesgo de incendios forestales en la Región del Biobío. Los trabajos preventivos se concentran en el despeje de fajas de protección y preparación de cortafuegos en sectores críticos, como…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/04/conaf-3.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-14T21:00:28.889Z",
+   "visto": "2026-11-14T21:00:28.889Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/14/energia-recomendaciones-para-evitar-el-consumo-vampiro-eleva-cuenta-de-la-luz",
    "titulo": "Energía: recomendaciones para evitar el consumo vampiro que eleva cuenta de la luz",
@@ -1450,20 +1464,6 @@
    "visto": "2026-11-12T19:10:20.076Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/alergias-primavera-concepcion-pelusas-vilano-arboles.html",
-   "titulo": "Vilano: las ‘pelusas’ de los árboles que producen alergias en Concepción",
-   "resumen": "La llegada de la primavera y el vilano activan las alergias estacionales en Concepción. Conoce los árboles responsables, las zonas críticas y los riesgos de automedicarse.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/C0392.MP4.03_52_34_22.Imagen-fija001.jpg-e1794510411848.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T19:10:20.076Z",
-   "visto": "2026-11-12T19:10:20.076Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
