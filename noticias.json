@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T21:00:28.889Z",
+ "generado": "2026-11-14T21:40:18.574Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 155,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/14/se-declaro-admisible-querella-presentada-por-robo-a-banco-bci",
+   "titulo": "Se declaró admisible querella presentada por robo a Banco BCI",
+   "resumen": "Una serie de diligencias solicitó el Banco de Créditos e Inversiones tras los más de 8.520 millones de pesos robados hace una semana en Concepción. Esto, según la querella presentada ante el Juzgado de Garantía ya declarada admisible. Entre ellas, están las…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/robo-banco-concepcion-2-1.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-14T21:40:18.574Z",
+   "visto": "2026-11-14T21:40:18.574Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/14/continuan-trabajos-preventivos-ante-incendios-forestales",
    "titulo": "Continúan trabajos preventivos ante incendios forestales",
@@ -1440,20 +1454,6 @@
    "local": true
   },
   {
-   "url": "https://www.radioudec.cl/biobio-mantiene-abastecimiento-normal-de-combustibles-mientras-autoridades-monitorean-evolucion-de-la-movilizacion-de-camioneros/",
-   "titulo": "Biobío mantiene abastecimiento normal de combustibles mientras autoridades monitorean evolución de la movilización de camioneros",
-   "resumen": "La Secretaría Regional Ministerial de Energía del Biobío informó que […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/7-1-768x512.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-12T19:31:08.000Z",
-   "visto": "2026-11-12T19:40:25.036Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/obra-lo-profano-y-lo-santo-acercamiento-a-violeta-parra-funciones-liceo-balmaceda.html",
    "titulo": "Obra “Lo profano y lo santo. Acercamiento a Violeta Parra” se presentará por partida doble en el Liceo Balmaceda de Concepción",
    "resumen": "Tras su creación y desarrollo en Barcelona bajo la dirección de Jessica Walker, wl montaje llega por primera vez a Chile y a Concepción, ciudad de origen de su actriz-creadora, Ángela Valeria Chandía. La presentación cuenta con la asistencia de dirección de…",
@@ -2506,20 +2506,6 @@
    "visto": "2026-11-09T22:10:20.196Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/09/ciclo-cine-irani-microcine-molina-concepcion.html",
-   "titulo": "El Microcine Molina presenta un nuevo ciclo de cine Iraní en Concepción",
-   "resumen": "Continúan las obras cinematográficas del cine Iraní para promover la cultura en los penquistas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Captura-de-pantalla-2026-11-09-181847-e1794260192590.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T21:40:21.687Z",
-   "visto": "2026-11-09T21:40:21.687Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   }
