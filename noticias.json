@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T16:40:21.457Z",
+ "generado": "2026-11-14T16:50:19.777Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -2649,20 +2649,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/gobierno-anuncia-alza-combustibles-proyecto-contencion.html",
-   "titulo": "Presidente Kast anunció alza de $40 en combustibles y proyecto que limitará futuras variaciones a $20",
-   "resumen": "El Ejecutivo confirmó un incremento de $40 por litro en bencinas y diésel para este jueves, al tiempo que ingresará un proyecto con discusión inmediata para limitar las variaciones a un máximo de $20 durante los próximos 90 días.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/49f3BkZQ-1-1-e1794242669817.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T16:50:20.467Z",
-   "visto": "2026-11-09T16:50:20.467Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
