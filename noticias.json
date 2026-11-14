@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T00:00:27.711Z",
+ "generado": "2026-11-14T00:10:21.073Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 58,
+    "enlaces": 57,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -833,6 +833,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/sociedad-chilena-ciencias-mar-biobio.html",
+   "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
+   "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
    "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
    "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
@@ -857,20 +871,6 @@
    "visto": "2026-11-13T08:40:18.652Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/sociedad-chilena-ciencias-mar-biobio.html",
-   "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
-   "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "tecnologia"
    ],
    "local": true
   },
@@ -1359,21 +1359,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/fractura-paro-camioneros-biobio-acuerdo-gobierno.html",
-   "titulo": "“Fue un acuerdo entre cuatro paredes”: camioneros de Coronel y sector Juan Riquelme rechazan pacto con Gobierno",
-   "resumen": "Mientras dirigentes de Los Ángeles y grandes confederaciones aceptaron rebajas de hasta $150 por litro, en Coronel y No + TAG siguen en paro.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-paro-de-camioneros-ruta-160-foto-enrique-zamora-g-e1794527960253.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T15:00:00.000Z",
-   "visto": "2026-11-13T00:10:22.056Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/proyecto-ley-gobierno-frenar-alzas-combustibles.html",
    "titulo": "Tras acuerdo con camioneros, Gobierno reingresa proyecto de ley por combustibles: estas son las claves",
    "resumen": "La iniciativa revierte el alza del 11 de noviembre, limita incrementos hasta el 3 de febrero de 2027 y fija nuevos tramos de recuperación tributaria.",
@@ -1412,6 +1397,21 @@
    "visto": "2026-11-13T23:40:23.557Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/fractura-paro-camioneros-biobio-acuerdo-gobierno.html",
+   "titulo": "“Fue un acuerdo entre cuatro paredes”: camioneros de Coronel y sector Juan Riquelme rechazan pacto con Gobierno",
+   "resumen": "Mientras dirigentes de Los Ángeles y grandes confederaciones aceptaron rebajas de hasta $150 por litro, en Coronel y No + TAG siguen en paro.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-paro-de-camioneros-ruta-160-foto-enrique-zamora-g-e1794527960253.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T15:00:00.000Z",
+   "visto": "2026-11-13T00:10:22.056Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
