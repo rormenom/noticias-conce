@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T01:30:24.145Z",
+ "generado": "2026-11-14T01:50:20.097Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -658,6 +658,20 @@
    "visto": "2026-11-14T00:20:20.222Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/paso-meteoro-ilumina-cielo-nuble-biobio-estruendo.html",
+   "titulo": "VIDEO | Bólido ilumina el cielo del Biobío y Ñuble: astrónoma no descarta caída de un objeto artificial",
+   "resumen": "El fenómeno se registró cerca de las 21:30 horas de este viernes. Tras los reportes por el potente ruido, expertos no descartan un impacto.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/paso-meteoro-ilumina-cielo-nuble-biobio-estruendo.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T15:00:00.000Z",
+   "visto": "2026-11-14T01:50:20.097Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
