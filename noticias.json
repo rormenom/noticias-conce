@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T03:00:27.059Z",
+ "generado": "2026-11-14T04:00:28.526Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,29 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 31,
-    "leidas": 10,
+    "enlaces": 32,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/14/camioneros-del-bio-bio-dicen-sentirse-traicionados-por-dirigentes-que-pactaron-acuerdo-con-gobierno",
+   "titulo": "Transportistas del Bío Bío acusan de “traición” a dirigentes que acordaron con el Gobierno",
+   "resumen": "Camioneros del Gran Concepción y la provincia de Arauco dijeron sentirse “traicionados” y disconformes con el pacto suscrito entre dirigentes del transporte y el Gobierno, tras el cual se puso fin a la paralización. Por otra parte, organizaciones de la pesca…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-1-cntxt-por-camioneros-del-bio-bio-dicen-sentirse-traicionados-por-dirigentes-que-pactaron-acuerdo-con-gobierno.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-14T04:00:28.526Z",
+   "visto": "2026-11-14T04:00:28.526Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/camioneros-del-bio-bio-dicen-sentirse-traicionados-por-dirigentes-que-pactaron-acuerdo-con-gobierno.shtml",
    "titulo": "Camioneros del Bío Bío dicen sentirse \"traicionados\" por dirigentes que pactaron acuerdo con Gobierno",
@@ -1426,20 +1441,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/talcahuano-protesta-en-liceo-a-21-tras-suspension-de-licenciatura-por-amenazas",
-   "titulo": "Talcahuano: estudiantes y apoderados protesta en Liceo A-21 tras suspensión de licenciatura por amenazas",
-   "resumen": "Molestia se vive a esta hora en la comuna de Talcahuano, específicamente en las afueras del Liceo A-21. Apoderados y estudiantes se han congregado para protestar luego de que el establecimiento educacional decidiera suspender la tradicional licenciatura de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-12-at-11.38.42-e1794495189347.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T15:10:23.228Z",
-   "visto": "2026-11-12T15:10:23.228Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
