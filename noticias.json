@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T10:50:20.651Z",
+ "generado": "2026-11-14T11:30:25.159Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 56,
     "leidas": 1,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
+    "enlaces": 148,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -932,12 +932,12 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/puente-esmeralda-colision-vehiculos.html",
-   "titulo": "Puente Esmeralda: colisión frontal de vehículos provoca alta congestión",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/903698482_1434667805451175_7276348624018192833_n.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
+   "url": "https://www.canal9.cl/episodios/2026/11/13/concepcion-choque-de-alta-intensidad-provoco-volcamiento-en-puente-esmeralda",
+   "titulo": "Concepción: choque de alta energía provocó volcamiento de automovil en Puente Esmeralda",
+   "resumen": "Un choque de alta energía se registró la mañana de este viernes en el Puente Esmeralda, en Concepción, luego de que una camioneta y un automóvil particular colisionaran de manera frontal, dejando a ambos conductores lesionados y provocando un amplio…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-13-at-07.52.17-e1794569225141.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
    "fecha": "2026-11-13T11:30:24.807Z",
    "visto": "2026-11-13T11:30:24.807Z",
    "cats": [
@@ -946,12 +946,12 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/concepcion-choque-de-alta-intensidad-provoco-volcamiento-en-puente-esmeralda",
-   "titulo": "Concepción: choque de alta energía provocó volcamiento de automovil en Puente Esmeralda",
-   "resumen": "Un choque de alta energía se registró la mañana de este viernes en el Puente Esmeralda, en Concepción, luego de que una camioneta y un automóvil particular colisionaran de manera frontal, dejando a ambos conductores lesionados y provocando un amplio…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-13-at-07.52.17-e1794569225141.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/puente-esmeralda-colision-vehiculos.html",
+   "titulo": "Puente Esmeralda: colisión frontal de vehículos provoca alta congestión",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/903698482_1434667805451175_7276348624018192833_n.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-13T11:30:24.807Z",
    "visto": "2026-11-13T11:30:24.807Z",
    "cats": [
