@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T22:40:19.738Z",
+ "generado": "2026-11-14T22:50:19.770Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 155,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -2462,20 +2462,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T08:40:21.155Z",
    "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/camara-aprueba-en-general-presupuesto-2027.html",
-   "titulo": "Cámara de Diputados aprueba en general el Presupuesto 2027 en medio de una áspera sesión",
-   "resumen": "Con 80 votos a favor y 63 en contra, la Sala visó el proyecto tras un tenso debate marcado por la suspensión de la sesión e impasses con Hacienda.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camara-aprueba-en-general-presupuesto-2027-e1794264016754.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T22:50:20.997Z",
-   "visto": "2026-11-09T22:50:20.997Z",
    "cats": [
     "politica"
    ],
