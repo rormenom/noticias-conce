@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T21:50:19.510Z",
+ "generado": "2026-11-14T22:10:17.990Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 59,
+    "enlaces": 154,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
-    "leidas": 11,
+    "enlaces": 34,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/14/un-femicidio-frustrado-se-registro-en-hualpen",
+   "titulo": "Un femicidio frustrado se registró en Hualpén",
+   "resumen": "Un hombre fue detenido por el femicidio frustrado de su cónyuge en Hualpén. El hecho se registró durante la mañana de este sábado en el sector Curanilahue, donde la víctima recibió golpes de puños en su cabeza y rostro, quedando con heridas de gravedad. El…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/09/carabineros-3.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-14T22:10:17.990Z",
+   "visto": "2026-11-14T22:10:17.990Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/14/se-declaro-admisible-querella-presentada-por-robo-a-banco-bci",
    "titulo": "Se declaró admisible querella presentada por robo a Banco BCI",
@@ -2492,20 +2506,6 @@
    "visto": "2026-11-09T22:30:23.304Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/reacciones-biobio-ley-frenazo-combustibles-camioneros.html",
-   "titulo": "Parlamentarios del Biobío confrontan respuesta de La Moneda ante movilización de camioneros",
-   "resumen": "Medidas de La Moneda para topar alzas en $20 por 90 días abrieron el cruce entre parlamentarios del Biobío ante el paro de camioneros.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/exigencias-camioneros-alza-combustibles-avda-diagonal-pedro-aguirre-cerda-en-san-pedro-de-la-paz-foto-isidoro-e1790796106719-850x500-1.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T22:10:20.196Z",
-   "visto": "2026-11-09T22:10:20.196Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
