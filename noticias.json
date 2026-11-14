@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T09:10:20.197Z",
+ "generado": "2026-11-14T10:50:20.651Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 147,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -2722,21 +2722,6 @@
    "visto": "2026-11-09T12:00:27.200Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/municipio-de-concepcion-retoma-obras-de-plaza-peru-tras-salida-de-la-empresa-a-cargo",
-   "titulo": "Municipio de Concepción retoma obras de Plaza Perú tras salida de la empresa a cargo",
-   "resumen": "La empresa Tromen no logró terminar los trabajos en la Plaza Perú de Concepción y se retiró de la obra, que se inició hace más de un año y quedó con un 95% de avance. Fernando Nova, subdirector de Construcciones de la Municipalidad, explicó cómo el municipio…",
-   "imagen": "https://media.canal9.cl/2026/11/WhatsApp-Image-2026-11-05-at-08.40.56-768x576.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T10:50:20.284Z",
-   "visto": "2026-11-09T10:50:20.284Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
