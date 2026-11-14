@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T20:10:25.319Z",
+ "generado": "2026-11-14T20:40:18.740Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 62,
+    "enlaces": 154,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 8,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/14/energia-recomendaciones-para-evitar-el-consumo-vampiro-eleva-cuenta-de-la-luz",
+   "titulo": "Energía: recomendaciones para evitar el consumo vampiro que eleva cuenta de la luz",
+   "resumen": "Enchufes, televisores y hervidores son parte de los artefactos que aunque estén apagados, continúan consumiendo energía mientras permanecen conectados a la corriente. A esto se le conoce como el consumo vampiro, el cual puede representar hasta un 9% del…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2019/08/corte-de-luz.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-14T20:40:18.740Z",
+   "visto": "2026-11-14T20:40:18.740Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/14/diputada-betancurt-busca-endurecer-sanciones-por-vender-cigarrillos-y-vapeadores-a-menores-de-edad.shtml",
    "titulo": "Diputada Betancurt busca endurecer sanciones por vender cigarrillos y vapeadores a menores de edad",
@@ -1448,20 +1462,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T19:10:20.076Z",
    "visto": "2026-11-12T19:10:20.076Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/cuartos-medios-sin-licenciatura-liceo-de-talcahuano-suspende-ceremonia-por-amenazas-de-apoderado.shtml",
-   "titulo": "Cuartos medios sin licenciatura: Liceo de Talcahuano suspende ceremonia por amenazas de apoderado",
-   "resumen": "Apoderados y estudiantes protestaron afuera del Liceo A-21 de Talcahuano, en la región del Bío Bío, por la suspensión...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7017165-alumnos-apoderados-liceo-talcahuano.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-12T18:34:28.000Z",
-   "visto": "2026-11-12T18:40:20.993Z",
    "cats": [
     "regional"
    ],
