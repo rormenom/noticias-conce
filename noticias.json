@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T01:10:21.443Z",
+ "generado": "2026-11-14T01:20:20.729Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 60,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -644,6 +644,20 @@
    "visto": "2026-11-14T00:20:20.222Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/velatorio-tony-pulguita-iglesia-zion-coronel.html",
+   "titulo": "En Coronel será el último adiós a Tony Pulguita: familia confirma coordenadas de su velatorio",
+   "resumen": "Los restos del histórico artista infantil serán velados en la Iglesia Zion, ubicada en la Ruta 160, para quienes deseen acompañarlo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/velatorio-tony-pulguita-iglesia-zion-coronel.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T15:00:00.000Z",
+   "visto": "2026-11-14T01:20:20.729Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1425,20 +1439,6 @@
    "visto": "2026-11-13T00:50:19.160Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/12/utilidades-enap-alza-combustibles.html",
-   "titulo": "Expertos locales explican los riesgos de destinar utilidades de Enap para enfrentar el alza de combustibles",
-   "resumen": "Retiro del proyecto del Gobierno reabrió debate por ganancias de la estatal y subsidios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-14-planta-enap-foto-archivo-diario-concepcion.jpg-e1794442924239.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T15:00:00.000Z",
-   "visto": "2026-11-13T19:10:23.670Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
