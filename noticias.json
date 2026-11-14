@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T00:20:20.222Z",
+ "generado": "2026-11-14T00:40:19.977Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 56,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 152,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -616,6 +616,20 @@
    "visto": "2026-11-14T00:20:20.222Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/13/hombre-es-asesinado-con-rozon-en-talcahuano-el-tercero-homicidio-en-bio-bio-en-menos-de-24-horas",
+   "titulo": "Un hombre muere tras recibir un disparo en Talcahuano, en medio de una seguidilla de homicidios en el Biobío",
+   "resumen": "Un nuevo asesinato ocurrió durante las últimas horas en la región del Bío Bío, el tercero en un lapso inferior a 24 horas: un hombre fue ultimado con un rozón en la comuna de Talcahuano. De acuerdo con información de Radio Bío Bío, el hecho tuvo lugar cerca…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-13T15:00:00.000Z",
+   "visto": "2026-11-14T00:40:19.977Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
