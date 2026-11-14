@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T05:10:19.921Z",
+ "generado": "2026-11-14T07:00:25.234Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -2739,20 +2739,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/colo-colo-se-corona-como-el-nuevo-campeon-del-futbol-chileno/",
-   "titulo": "Colo Colo se corona como el nuevo campeón del fútbol chileno",
-   "resumen": "El Cacique gritó campeón en una dramática definición en Chillán.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/colo-colo-campeon-2026-768x512.webp",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-09T07:00:03.000Z",
-   "visto": "2026-11-09T12:00:27.200Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
