@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T08:40:21.206Z",
+ "generado": "2026-11-14T08:50:22.656Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 5,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 55,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -82,20 +82,6 @@
  ],
  "items": [
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/14/camioneros-paro-acuerdo-alusiones-octubrismo.html",
-   "titulo": "Tras acuerdo con camioneros: transportistas descolgados del pacto rechazan alusiones al octubrismo",
-   "resumen": "El Ejecutivo endureció el tono hacia quienes persisten en el paro y comparó sus acciones con las del estallido social. Dirigentes del Biobío cuestionaron el trato y aseguraron que sus movilizaciones no responden a intereses políticos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-e1794623555112.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T08:40:21.206Z",
-   "visto": "2026-11-14T08:40:21.206Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/14/hospitales-biobio-ranking-merco-salud-2026.html",
    "titulo": "Merco Salud: Hospitales del Biobío destacan en ranking nacional de centros con mejor reputación",
    "resumen": "El Hospital Las Higueras y el Guillermo Grant Benavente se ubicaron entre los primeros lugares de la clasificación de establecimientos públicos. En el ámbito privado, el Sanatorio Alemán avanzó a nivel nacional.",
@@ -106,6 +92,20 @@
    "visto": "2026-11-14T08:40:21.206Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/14/camioneros-paro-acuerdo-alusiones-octubrismo.html",
+   "titulo": "Tras acuerdo con camioneros: transportistas descolgados del pacto rechazan alusiones al octubrismo",
+   "resumen": "El Ejecutivo endureció el tono hacia quienes persisten en el paro y comparó sus acciones con las del estallido social. Dirigentes del Biobío cuestionaron el trato y aseguraron que sus movilizaciones no responden a intereses políticos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-e1794623555112.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T08:40:21.206Z",
+   "visto": "2026-11-14T08:40:21.206Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
