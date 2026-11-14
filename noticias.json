@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T18:48:47.035Z",
+ "generado": "2026-11-14T18:50:20.735Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -82,6 +82,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/14/diputada-betancurt-busca-endurecer-sanciones-por-vender-cigarrillos-y-vapeadores-a-menores-de-edad.shtml",
+   "titulo": "Diputada Betancurt busca endurecer sanciones por vender cigarrillos y vapeadores a menores de edad",
+   "resumen": "La diputada Lilian Betancurt (PDG), representante del Distrito 21 de la región del Biobío, presentó un proyecto de ley que...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019510-vap-1200x633.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-14T18:49:02.000Z",
+   "visto": "2026-11-14T18:50:20.735Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/14/homicidios-en-biobio-se-ampliaron-detenciones-de-imputados",
    "titulo": "Homicidios en Biobío: se ampliaron detenciones de imputados",
@@ -2577,20 +2591,6 @@
    "visto": "2026-11-09T19:30:24.760Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/09/premios-regionales-arte-y-cultura-biobio-nomina-ganadores-ganadoras-2026.html",
-   "titulo": "Premios Regionales de Arte y Cultura del Biobío dan a conocer a sus ganadores 2026",
-   "resumen": "Claudia Urbina, Viviana Medina, Sherezade Perdomo, Mario Sánchez, Fabiola González “La Chinganera” y Pablo Gaete fueron reconocidos en la versión 2026, un reconocimiento que distinguen en vida a quienes han realizado un aporte relevante y sostenido al…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Premios-Regionales-2026.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T18:50:22.271Z",
-   "visto": "2026-11-09T18:50:22.271Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   }
