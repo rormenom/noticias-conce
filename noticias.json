@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T20:40:18.740Z",
+ "generado": "2026-11-14T20:50:18.925Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 58,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
@@ -2520,34 +2520,6 @@
    "visto": "2026-11-09T21:40:21.687Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/gobierno-suspende-todas-rebajas-condena-excepciones.html",
-   "titulo": "Gobierno anuncia suspensión total de rebajas de condena y derogará la Ley 19.856",
-   "resumen": "El Ejecutivo anunció la suspensión de todos los decretos de rebaja de condena tras revelarse un beneficio otorgado a un homicida.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-11.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T20:50:21.069Z",
-   "visto": "2026-11-09T20:50:21.069Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/pasillo-para-el-campeon-revelan-que-catolica-ya-tomo-decision-para-el-clasico-con-colo-colo-en-macul",
-   "titulo": "¿Pasillo para el campeón? Revelan que Católica ya tomó decisión para el clásico con Colo Colo en Macul",
-   "resumen": "La coronación de Colo Colo en la Liga de Primera 2026 puso el foco en el clásico del 22 de noviembre ante Universidad Católica. Después de conquistar su estrella 35 al vencer por 2-1 a Ñublense, el ‘Cacique’ se prepara para festejar con sus hinchas y aguarda…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/colo-colo-catolica-pasillo-campeon.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T20:50:21.069Z",
-   "visto": "2026-11-09T20:50:21.069Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
