@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T13:10:20.627Z",
+ "generado": "2026-11-14T13:30:23.954Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 150,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/14/detienen-a-hombre-acusado-de-asesinar-a-disparos-a-joven-de-25-anos-en-hualpen.shtml",
+   "titulo": "Detienen a hombre acusado de asesinar a disparos a joven de 25 años en Hualpén",
+   "resumen": "Un hombre de 31 años es detenido por su presunta responsabilidad en un homicidio con arma de fuego registrado en...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019353-detenido-homicidio-joven-hualen.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-14T13:29:58.000Z",
+   "visto": "2026-11-14T13:30:23.954Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/14/hombre-muere-ahogado-en-rio-huaqui-en-los-angeles-velocidad-de-corriente-le-impidio-salir-del-agua.shtml",
    "titulo": "Hombre muere ahogado en río Huaqui en Los Ángeles: velocidad de corriente le impidió salir del agua",
@@ -2652,20 +2666,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/09/tras-imponerse-en-los-90-minutos-y-caer-en-penales-fernandez-vial-desperdicia-su-primera-opcion-de-ascenso/",
-   "titulo": "Tras imponerse en los 90 minutos y caer en penales: Fernández Vial desperdicia su primera opción de ascenso",
-   "resumen": "Por Camilo Bravo Ortiz",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Foto-Ascenso-Fernández-Vial-768x512.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-09T13:27:20.000Z",
-   "visto": "2026-11-09T23:00:30.218Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
