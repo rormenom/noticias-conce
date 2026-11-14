@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T17:00:27.493Z",
+ "generado": "2026-11-14T17:10:20.084Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/14/homicidios-en-biobio-se-ampliaron-detenciones-de-imputados",
+   "titulo": "Homicidios en Biobío: se ampliaron detenciones de imputados",
+   "resumen": "Se ampliaron las detenciones de los sujetos implicados en los últimos homicidios ocurridos en el Biobío. Uno de ellos, quien mató a su víctima con un arma de fuego en Hualpén y otro que utilizó una herramienta agrícola cortante en Talcahuano. En ambos casos…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/DETENIDO-HOMICIDIO.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-14T17:10:20.084Z",
+   "visto": "2026-11-14T17:10:20.084Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/14/proyecto-internacional-busca-rescatar-patrimonio-industrial-de-lota",
    "titulo": "Proyecto internacional busca rescatar patrimonio industrial de Lota",
@@ -1450,20 +1464,6 @@
    "visto": "2026-11-12T18:30:24.656Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/12/noche-de-los-museos-nuestra-pauta-12-de-noviembre-de-2026.html",
-   "titulo": "Noche de los Museos - Nuestra Pauta - 12 de noviembre de 2026",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/10/maxresdefault.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-12T17:30:24.547Z",
-   "visto": "2026-11-12T17:30:24.547Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
