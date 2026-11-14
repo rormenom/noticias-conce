@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T18:20:19.289Z",
+ "generado": "2026-11-14T18:40:19.246Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 152,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -2590,21 +2590,6 @@
    "visto": "2026-11-09T18:50:22.271Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/alcalde-y-vecinos-de-coronel-denuncian-contaminacion-en-sector-patagual-piden-investigacion-a-la-sma",
-   "titulo": "Alcalde y residentes de Coronel solicitan a la SMA investigar presunta contaminación en Patagual",
-   "resumen": "Boris Chamorro, alcalde de Coronel, y residentes del sector de Patagual denunciaron el vertido ilegal de residuos pesqueros y materia orgánica en el lugar, en la región del Bío Bío. Por ello, solicitaron a la Superintendencia del Medio Ambiente que investigue…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/sma.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T18:40:21.336Z",
-   "visto": "2026-11-09T18:40:21.336Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
