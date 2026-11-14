@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T22:50:19.770Z",
+ "generado": "2026-11-14T23:50:20.387Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 59,
+    "enlaces": 154,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/14/empresa-familiar-de-los-angeles-obtiene-reconocimiento-mundial-por-su-carne-wagyu-gano-cinco-medallas-en-competencia-internacional.html",
+   "titulo": "Empresa familiar de Los Ángeles obtiene reconocimiento mundial por su carne Wagyu: ganó cinco medallas en competencia internacional",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pexels-alex-gonzo-1518705084-31313528.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T23:50:20.387Z",
+   "visto": "2026-11-14T23:50:20.387Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/14/muere-carlos-grollmus-fue-victima-del-ataque-incendiario-a-su-molino-en-contulmo-en-2022.shtml",
    "titulo": "Muere Carlos Grollmus: fue víctima del ataque incendiario a su molino en Contulmo en 2022",
@@ -1433,20 +1447,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T21:30:24.769Z",
    "visto": "2026-11-12T21:30:24.769Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/transporte-publico-de-concepcion-respalda-paro-de-camioneros-y-llama-a-movilizacion-de-brazos-caidos",
-   "titulo": "Transporte público de Concepción respalda paro de camioneros y llama a movilización de brazos caídos",
-   "resumen": "El gremio del transporte mayor de pasajeros de Concepción manifestó su apoyo a los camioneros movilizados por el incremento en el precio de los combustibles. Sin embargo, aclaró que no puede sumarse formalmente a la paralización debido a que los conductores…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/trafico-vehicular-3.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T20:20:20.236Z",
-   "visto": "2026-11-12T20:20:20.236Z",
    "cats": [
     "regional"
    ],
