@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T12:00:27.871Z",
+ "generado": "2026-11-14T13:00:26.931Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 62,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/14/hombre-muere-ahogado-en-rio-huaqui-en-los-angeles-velocidad-de-corriente-le-impidio-salir-del-agua.shtml",
+   "titulo": "Hombre muere ahogado en río Huaqui en Los Ángeles: velocidad de corriente le impidió salir del agua",
+   "resumen": "Un hombre de 63 años murió ahogado cuando se bañaba en las aguas del río Huaqui en la región...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019338-hombre-muere-ahogado-rio-huaqui.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-14T12:57:11.000Z",
+   "visto": "2026-11-14T13:00:26.931Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/14/hospitales-biobio-ranking-merco-salud-2026.html",
    "titulo": "Merco Salud: Hospitales del Biobío destacan en ranking nacional de centros con mejor reputación",
@@ -1472,20 +1486,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/la-golpearon-y-subieron-videos-a-rrss-formalizan-a-2-mujeres-por-secuestro-de-adolescente-en-cabrero",
-   "titulo": "Dos mujeres son formalizadas por secuestrar y agredir a una adolescente en Cabrero; difunden videos en redes sociales",
-   "resumen": "Dos mujeres de 21 y 22 años fueron enviadas a prisión preventiva luego de ser formalizadas por mantener retenida y agredir a una adolescente de 17 años en Cabrero. El incidente ocurrió el 20 de octubre. Ese día, la adolescente llegó a una vivienda del sector…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/formalizacion-imputadas-secuestro-adolescente-cabrero.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T15:20:22.245Z",
-   "visto": "2026-11-12T15:20:22.245Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/caso-puerto-coronel-tc-acoge-requerimiento-de-alcalde-chamorro-para-evitar-suspension-de-su-cargo.shtml",
    "titulo": "Caso Puerto Coronel: TC acoge requerimiento de alcalde Chamorro para evitar suspensión de su cargo",
    "resumen": "El Tribunal Constitucional (TC) dio a lugar el requerimiento presentado por el alcalde de Coronel, Boris Chamorro, quien buscaba evitar...",
@@ -2680,20 +2680,6 @@
    "visto": "2026-11-09T13:10:21.396Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/avance-soluciones-habitacionales-biobio-minvu.html",
-   "titulo": "Avance alcanza el 9,33% en soluciones habitacionales en el Biobío",
-   "resumen": "La iniciativa del ministerio es integral, ya que aborda metas no solo en entrega de viviendas, sino también en infraestructura urbana y mejoramientos de condominios y conjuntos habitacionales. El seremi de Vivienda y Urbanismo, Anselmo Villagra Cabello,…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/07/WhatsApp-Image-2026-07-23-at-4.49.31-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T13:00:28.120Z",
-   "visto": "2026-11-09T13:00:28.120Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
