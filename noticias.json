@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T13:30:23.954Z",
+ "generado": "2026-11-14T14:20:19.735Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 18,
-    "leidas": 0,
+    "enlaces": 19,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 62,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/14/merco-salud-hospitales-de-la-region-destacan-en-ranking-nacional-de-centros-con-mejor-reputacion.html",
+   "titulo": "Merco Salud: Hospitales de la Región destacan en ranking nacional de centros con mejor reputación",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-7-fachada-hospital-regional-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-14T14:20:19.735Z",
+   "visto": "2026-11-14T14:20:19.735Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/14/detienen-a-hombre-acusado-de-asesinar-a-disparos-a-joven-de-25-anos-en-hualpen.shtml",
    "titulo": "Detienen a hombre acusado de asesinar a disparos a joven de 25 años en Hualpén",
@@ -1451,20 +1465,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-12T15:40:20.631Z",
    "visto": "2026-11-12T15:40:20.631Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/corma-asegura-que-paro-de-camiones-obligo-a-pymes-a-suspender-produccion-por-falta-de-materia-prima",
-   "titulo": "Corma afirma que el paro de camiones dejó a pymes sin insumos y forzó la suspensión de su producción.",
-   "resumen": "La detención de los transportistas y los cortes de caminos ya están repercutiendo en las pequeñas y medianas empresas madereras. Algunas firmas han tenido que detener sus actividades por la falta de materia prima, lo que motivó a la Corporación Chilena de la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-92.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T15:30:25.549Z",
-   "visto": "2026-11-12T15:30:25.549Z",
    "cats": [
     "regional"
    ],
