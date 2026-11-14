@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T01:00:26.146Z",
+ "generado": "2026-11-14T01:10:21.443Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
+    "enlaces": 151,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/video-paso-de-meteorito-ilumino-cielo-de-regiones-del-bio-bio-y-nuble.shtml",
+   "titulo": "VIDEOS | Paso de meteorito iluminó cielo de regiones del Bío Bío y Ñuble",
+   "resumen": "El paso de un meteorito iluminó el cielo de las regiones del Ñuble y el Bío Bío. De acuerdo...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019181-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-14T01:01:42.000Z",
+   "visto": "2026-11-14T01:10:21.443Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/hombre-es-asesinado-con-rozon-en-talcahuano-el-tercero-homicidio-en-bio-bio-en-menos-de-24-horas.shtml",
    "titulo": "Hombre es asesinado con rozón en Talcahuano, el tercer homicidio en Bío Bío en menos de 24 horas",
@@ -1429,20 +1443,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/la-golpearon-y-subieron-videos-a-rrss-formalizan-a-2-mujeres-por-secuestro-de-adolescente-en-cabrero.shtml",
-   "titulo": "La golpearon y subieron videos a RRSS: formalizan a 2 mujeres por secuestro de adolescente en Cabrero",
-   "resumen": "",
-   "imagen": "",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-12T15:00:00.000Z",
-   "visto": "2026-11-13T23:40:23.557Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/fractura-paro-camioneros-biobio-acuerdo-gobierno.html",
    "titulo": "“Fue un acuerdo entre cuatro paredes”: camioneros de Coronel y sector Juan Riquelme rechazan pacto con Gobierno",
    "resumen": "Mientras dirigentes de Los Ángeles y grandes confederaciones aceptaron rebajas de hasta $150 por litro, en Coronel y No + TAG siguen en paro.",
@@ -2735,20 +2735,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-09T07:00:03.000Z",
    "visto": "2026-11-09T12:00:27.200Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/u-de-concepcion-vencio-en-la-agonia-a-ohiggins-deja-el-fondo-y-se-ilusiona-con-seguir-en-primera.shtml",
-   "titulo": "U. de Concepción venció en la agonía a O’Higgins, deja el fondo y se ilusiona con seguir en Primera",
-   "resumen": "Universidad de Concepción consiguió un triunfo agónico y revitalizador en su lucha por escapar del descenso, luego de imponerse por...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012005-udec-ohiggins-liga-de-primera-1.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-09T01:03:17.000Z",
-   "visto": "2026-11-09T01:10:21.608Z",
    "cats": [
     "deportes"
    ],
