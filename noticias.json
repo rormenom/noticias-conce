@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T13:00:26.931Z",
+ "generado": "2026-11-14T13:10:20.627Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 63,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
@@ -2664,20 +2664,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-09T13:27:20.000Z",
    "visto": "2026-11-09T23:00:30.218Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/09/con-imagenes-de-vero-bianchi-colo-colo-celebro-titulo-dedicando-video-en-redes-tras-criticas.shtml",
-   "titulo": "Con imágenes de Vero Bianchi: Colo Colo celebró título dedicando video en redes tras críticas",
-   "resumen": "Colo-Colo celebró su título número 35 en el fútbol chileno tras vencer a Ñublense por 2 goles a 1 en...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7012262-con-imagenes-de-vero-bianchi_-colo-colo-celebro-titulo-dedicando-video-en-redes-tras-criticas.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-09T13:05:10.000Z",
-   "visto": "2026-11-09T13:10:21.396Z",
    "cats": [
     "deportes"
    ],
