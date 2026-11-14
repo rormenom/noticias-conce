@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T19:10:20.450Z",
+ "generado": "2026-11-14T19:30:24.423Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -2576,20 +2576,6 @@
    "visto": "2026-11-09T22:50:20.997Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/09/charles-aranguiz-evidencio-el-golpe-en-la-u-por-titulo-35-de-colo-colo-para-que-vamos-hablar",
-   "titulo": "Aránguiz reflejó el impacto en la U por el título 35 de Colo Colo: «¿Para qué vamos a hablar?»",
-   "resumen": "La U cumplió en Rancagua al vencer 2-1 a Cobresal en la jornada 27 de la Liga de Primera 2026. Aun así, el triunfo no bastó para conservar sus opciones de ser campeón: Colo Colo ganó por el mismo marcador a Ñublense en Chillán y conquistó su estrella número…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/charles-aranguiz-la-u-autocritica.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-09T19:30:24.760Z",
-   "visto": "2026-11-09T19:30:24.760Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
