@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T14:40:18.737Z",
+ "generado": "2026-11-14T15:00:28.805Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
-    "leidas": 0,
+    "enlaces": 57,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 63,
+    "enlaces": 151,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,56 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 32,
-    "leidas": 7,
+    "enlaces": 33,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/14/inseguridad-en-barrio-norte-vecinos-denuncian-reiterados-robos-en-sede-abandonada-en-el-sector.html",
+   "titulo": "Inseguridad en Barrio Norte: Vecinos denuncian reiterados robos en sede abandonada en el sector",
+   "resumen": "Muebles, electrodomésticos y medidores de agua y luz, son algunos de los objetivos que delincuentes han estado sustrayendo del inmueble. Ocupado en su tiempo como punto de encuentros recreativos para la comunidad vecinal, hoy el escenario es completamente…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-inseguirdad-barrio-norte-foto-enrique-zamora-g.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T15:00:28.805Z",
+   "visto": "2026-11-14T15:00:28.805Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/14/detienen-a-hombre-acusado-de-asesinar-a-disparos-a-joven-de-25-anos-en-hualpen",
+   "titulo": "Detienen a sospechoso de matar a balazos a un joven de 25 años en Hualpén",
+   "resumen": "Un hombre de 31 años fue detenido por su presunta participación en un homicidio cometido con arma de fuego en la comuna de Hualpén, en la región del Bío Bío. El operativo fue realizado por la Brigada de Homicidios de Concepción. El ataque tuvo lugar en la vía…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detenido-homicidio-joven-hualen.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-14T15:00:28.805Z",
+   "visto": "2026-11-14T15:00:28.805Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/14/hombre-muere-ahogado-en-rio-huaqui-en-los-angeles-velocidad-de-corriente-le-impidio-salir-del-agua",
+   "titulo": "Hombre fallece ahogado en el río Huaqui, en Los Ángeles, tras quedar atrapado por la corriente",
+   "resumen": "Un hombre de 63 años perdió la vida ahogado mientras se bañaba en el río Huaqui, en la región del Bío Bío. La emergencia se produjo el viernes por la tarde en la ribera del río, en el sector Laguna Lavandero, en Los Ángeles. El subprefecto Jair Bravo señaló…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/hombre-muere-ahogado-rio-huaqui.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-14T15:00:28.805Z",
+   "visto": "2026-11-14T15:00:28.805Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/14/paro-de-camioneros-genero-retrasos-en-la-logistica-de-los-puertos-de-la-region-pero-no-detuvo-sus-operaciones.html",
    "titulo": "Paro de camioneros generó retrasos en la logística de los puertos de la Región, pero no detuvo sus operaciones",
@@ -1406,20 +1448,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-12T17:16:52.000Z",
    "visto": "2026-11-12T17:20:21.600Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/pdi-detiene-imputados-incendio-los-alamos.html",
-   "titulo": "Los Álamos: dos detenidos por quema intencional de bus y camión del Departamento de Educación",
-   "resumen": "El ataque afectó a un bus y un camión del Departamento de Educación el 9 de noviembre. El adulto quedó en prisión preventiva tras formalización.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pdi-detiene-imputados-incendio-los-alamos.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T17:10:21.487Z",
-   "visto": "2026-11-12T17:10:21.487Z",
    "cats": [
     "regional"
    ],
