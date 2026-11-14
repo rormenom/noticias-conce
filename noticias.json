@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T07:50:20.506Z",
+ "generado": "2026-11-14T08:40:21.206Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 59,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,76 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/14/camioneros-paro-acuerdo-alusiones-octubrismo.html",
+   "titulo": "Tras acuerdo con camioneros: transportistas descolgados del pacto rechazan alusiones al octubrismo",
+   "resumen": "El Ejecutivo endureció el tono hacia quienes persisten en el paro y comparó sus acciones con las del estallido social. Dirigentes del Biobío cuestionaron el trato y aseguraron que sus movilizaciones no responden a intereses políticos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-e1794623555112.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T08:40:21.206Z",
+   "visto": "2026-11-14T08:40:21.206Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/14/hospitales-biobio-ranking-merco-salud-2026.html",
+   "titulo": "Merco Salud: Hospitales del Biobío destacan en ranking nacional de centros con mejor reputación",
+   "resumen": "El Hospital Las Higueras y el Guillermo Grant Benavente se ubicaron entre los primeros lugares de la clasificación de establecimientos públicos. En el ámbito privado, el Sanatorio Alemán avanzó a nivel nacional.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-hospital-las-higueras-de-Talcahuano-foto-isidoro.jpg-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T08:40:21.206Z",
+   "visto": "2026-11-14T08:40:21.206Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/14/paro-camioneros-impacto-puertos-biobio.html",
+   "titulo": "Paro de camioneros generó retrasos en la logística de los puertos del Biobío, pero no detuvo sus operaciones",
+   "resumen": "San Vicente retomó despachos este viernes, mientras Lirquén reportó retrasos de clientes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-entrada-de-camiones-al-puerto-foto-carolina.jpg-e1794623587319.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T08:40:21.206Z",
+   "visto": "2026-11-14T08:40:21.206Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/14/diabetes-al-alza-y-cada-vez-mas-precoz-promover-habitos-sanos-para-prevenir-es-un-reto-vital.html",
+   "titulo": "Diabetes al alza y cada vez más precoz: promover hábitos sanos para prevenir es un reto vital",
+   "resumen": "Casi 1,9 millones de adultos en Chile tiene diabetes, sobre todo tipo 2, que se asocia al exceso de peso y estilos nocivos que prevalecen desde edades jóvenes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-diabetes-foot-cc-e1794623667629.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T08:40:21.206Z",
+   "visto": "2026-11-14T08:40:21.206Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/14/catedra-gonzalo-rojas-inaugura-nuevo-espacio-encuentro-poetico-primera-edicion-cicatrices.html",
+   "titulo": "Cátedra Gonzalo Rojas inaugura nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
+   "resumen": "La iniciativa impulsada por la poeta residente 2026-2027, la argentina Consuelo Iturraspe, junto con un equipo multidisciplinario UdeC, reunió a siete autores de la Región y dos invitadas trasandinas. La propuesta busca proyectarse en el tiempo y abrir nuevas…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T08:40:21.206Z",
+   "visto": "2026-11-14T08:40:21.206Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/14/camioneros-del-bio-bio-dicen-sentirse-traicionados-por-dirigentes-que-pactaron-acuerdo-con-gobierno",
    "titulo": "Transportistas del Bío Bío acusan de “traición” a dirigentes que acordaron con el Gobierno",
@@ -650,20 +720,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/velatorio-tony-pulguita-iglesia-zion-coronel.html",
-   "titulo": "En Coronel será el último adiós a Tony Pulguita: familia confirma coordenadas de su velatorio",
-   "resumen": "Los restos del histórico artista infantil serán velados en la Iglesia Zion, ubicada en la Ruta 160, para quienes deseen acompañarlo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/velatorio-tony-pulguita-iglesia-zion-coronel.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T15:00:00.000Z",
-   "visto": "2026-11-14T01:20:20.729Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/paso-meteoro-ilumina-cielo-nuble-biobio-estruendo.html",
    "titulo": "VIDEO | Bólido ilumina el cielo del Biobío y Ñuble: astrónoma no descarta caída de un objeto artificial",
    "resumen": "El fenómeno se registró cerca de las 21:30 horas de este viernes. Tras los reportes por el potente ruido, expertos no descartan un impacto.",
@@ -674,6 +730,20 @@
    "visto": "2026-11-14T01:50:20.097Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/velatorio-tony-pulguita-iglesia-zion-coronel.html",
+   "titulo": "En Coronel será el último adiós a Tony Pulguita: familia confirma coordenadas de su velatorio",
+   "resumen": "Los restos del histórico artista infantil serán velados en la Iglesia Zion, ubicada en la Ruta 160, para quienes deseen acompañarlo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/velatorio-tony-pulguita-iglesia-zion-coronel.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T15:00:00.000Z",
+   "visto": "2026-11-14T01:20:20.729Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -919,16 +989,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/graves-amenazas-de-apoderado-suspenden-la-licenciatura-de-164-estudiantes-de-liceo-bicentenario-de-talcahuano.html",
-   "titulo": "Graves amenazas de apoderado suspenden la licenciatura de 164 estudiantes de liceo bicentenario de Talcahuano",
-   "resumen": "La ceremonia del Liceo Almirante Pedro Espina Ritchie estaba programada para este viernes 13 en el Coliseo La Tortuga. La decisión se adoptó luego de que un apoderado amenazara con estrellar su camión contra el establecimiento y el recinto.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-12-at-18.55.37-e1794534205794.jpeg",
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
+   "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
+   "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pedro-marileo-dpp-arauco-e1794534128278.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-13T08:40:18.652Z",
    "visto": "2026-11-13T08:40:18.652Z",
    "cats": [
-    "regional"
+    "politica"
    ],
    "local": true
   },
@@ -943,34 +1013,6 @@
    "visto": "2026-11-13T08:40:18.652Z",
    "cats": [
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/sociedad-chilena-ciencias-mar-biobio.html",
-   "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
-   "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
-   "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
-   "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pedro-marileo-dpp-arauco-e1794534128278.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   },
@@ -999,6 +1041,34 @@
    "visto": "2026-11-13T08:40:18.652Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/sociedad-chilena-ciencias-mar-biobio.html",
+   "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
+   "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/graves-amenazas-de-apoderado-suspenden-la-licenciatura-de-164-estudiantes-de-liceo-bicentenario-de-talcahuano.html",
+   "titulo": "Graves amenazas de apoderado suspenden la licenciatura de 164 estudiantes de liceo bicentenario de Talcahuano",
+   "resumen": "La ceremonia del Liceo Almirante Pedro Espina Ritchie estaba programada para este viernes 13 en el Coliseo La Tortuga. La decisión se adoptó luego de que un apoderado amenazara con estrellar su camión contra el establecimiento y el recinto.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-12-at-18.55.37-e1794534205794.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1416,20 +1486,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/corma-asegura-que-paro-de-camiones-obligo-a-pymes-a-suspender-produccion-por-falta-de-materia-prima.shtml",
-   "titulo": "Corma asegura que paro de camiones obligó a pymes a suspender producción por falta de materia prima",
-   "resumen": "La paralización de transportistas y los bloqueos de rutas ya provocan efectos en la pequeña y mediana industria maderera. Algunas...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016811-foto-contexto-nota-bbcl-92.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-12T15:13:04.000Z",
-   "visto": "2026-11-12T15:20:22.245Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/caso-puerto-coronel-tc-acoge-requerimiento-de-alcalde-chamorro-para-evitar-suspension-de-su-cargo.shtml",
    "titulo": "Caso Puerto Coronel: TC acoge requerimiento de alcalde Chamorro para evitar suspensión de su cargo",
    "resumen": "El Tribunal Constitucional (TC) dio a lugar el requerimiento presentado por el alcalde de Coronel, Boris Chamorro, quien buscaba evitar...",
@@ -1576,20 +1632,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/senadores-biobio-mocion-tarifas-paro-camionero.html",
-   "titulo": "Senadores del Biobío presionan por tramitar moción de tarifas en medio del paro camionero",
-   "resumen": "Se busca regular el cobro por kilómetro, fijar plazos máximos de pago y proteger a los transportistas de menor tamaño. La Comisión de Transportes del Senado acordó priorizar su debate.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sala-senado-e1794442835286.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/evandro-arteaga-con-titulo-de-entrenador-y-la-felicidad-al-formar-ninos.html",
    "titulo": "Evandro Arteaga: con título de entrenador y la felicidad al formar niños",
    "resumen": "Histórico basquetbolista disfruta preparando a los chicos de su academia, no descarta dirigir algún día un equipo profesional y analiza el presente de la UdeC buscando semifinales de la LNB.",
@@ -1600,6 +1642,20 @@
    "visto": "2026-11-12T08:40:19.790Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/senadores-biobio-mocion-tarifas-paro-camionero.html",
+   "titulo": "Senadores del Biobío presionan por tramitar moción de tarifas en medio del paro camionero",
+   "resumen": "Se busca regular el cobro por kilómetro, fijar plazos máximos de pago y proteger a los transportistas de menor tamaño. La Comisión de Transportes del Senado acordó priorizar su debate.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sala-senado-e1794442835286.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -2695,35 +2751,6 @@
    "visto": "2026-11-09T09:10:20.169Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/09/biobio-apuesta-por-la-reforestacion-de-150-mil-hectareas-clave-ante-nueva-agenda-del-gobierno.html",
-   "titulo": "Biobío apuesta por la reforestación de 150 mil hectáreas clave ante nueva agenda del Gobierno",
-   "resumen": "Frente a la reducción del patrimonio maderero y los daños por incendios, el Ministerio de Agricultura, Corma, PymeMad y el Gore concuerdan en la necesidad de una política de Estado de largo plazo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2025/09/Bosque-Mediterraneo-1-e1756766620513.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T08:40:19.027Z",
-   "visto": "2026-11-09T08:40:19.027Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/09/avance-alcanza-el-933-en-soluciones-habitacionales-en-el-biobio.html",
-   "titulo": "Avance alcanza el 9,33% en soluciones habitacionales en el Biobío",
-   "resumen": "La iniciativa del ministerio es integral, ya que aborda metas no solo en entrega de viviendas, sino también en infraestructura urbana y mejoramientos de condominios y conjuntos habitacionales. El seremi de Vivienda y Urbanismo, Anselmo Villagra Cabello,…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/07/WhatsApp-Image-2026-07-23-at-4.49.31-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-09T08:40:19.027Z",
-   "visto": "2026-11-09T08:40:19.027Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
