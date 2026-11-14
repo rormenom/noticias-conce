@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T16:10:19.310Z",
+ "generado": "2026-11-14T16:20:20.828Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 64,
+    "enlaces": 154,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 6,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/14/atleta-senior-del-biobio-se-prepara-para-corrida-en-brasil",
+   "titulo": "Atleta senior del Biobío se prepara para corrida en Brasil",
+   "resumen": "A sus 68 años de trayectoria y con más de 400 medallas, Sergio Ramírez destacado atleta e hijo ilustre de Penco, hoy se prepara para un nuevo desafío internacional, la tradicional corrida de San Silvestre, Sao Paulo Brasil. Una corrida que se realizará el 31…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/SERGIO-RAMIREZ.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-14T16:20:20.828Z",
+   "visto": "2026-11-14T16:20:20.828Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/14/inseguridad-en-barrio-norte-vecinos-denuncian-reiterados-robos-en-sede-abandonada-en-el-sector.html",
    "titulo": "Inseguridad en Barrio Norte: Vecinos denuncian reiterados robos en sede abandonada en el sector",
