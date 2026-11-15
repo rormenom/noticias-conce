@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T00:00:27.643Z",
+ "generado": "2026-11-15T00:30:24.079Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -274,6 +274,20 @@
    "visto": "2026-11-14T15:00:28.805Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/14/a-la-vialina-fernandez-vial-sufrio-para-arrancar-la-llave-ante-puente-alto-con-un-triunfo.html",
+   "titulo": "A la vialina: Fernández Vial sufrió para arrancar la llave ante Puente Alto con un triunfo",
+   "resumen": "El Almirante jugó un gran primer tiempo y fue otro equipo completamente en el segundo. De milagro no le empataron. El “Inmortal” está a 90 minutos del ascenso a Tercera División A.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/CEM_8576.JPG.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T15:00:00.000Z",
+   "visto": "2026-11-15T00:30:24.079Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -2071,20 +2085,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/11/fernandez-vial-repechaje-puente-alto.html",
-   "titulo": "Matías Soto: “Nos queda la última bala y esa no la vamos a desperdiciar”",
-   "resumen": "Defensor de Fernández Vial analizó el cruce decisivo por la liguilla de promoción frente a Puente Alto tras dejar atrás la dolorosa caída por penales en casa de Mejillones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Matias-Soto-Fernandez-Vial-foto-facebook-C.D.-Arturo-Fern%C3%A1ndez-Vial-e1794357714246.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T08:40:19.390Z",
-   "visto": "2026-11-11T08:40:19.390Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/quintino-cinalli-regresa-concepcion-musica-formacion-nuevas-exploraciones-ritmicas.html",
    "titulo": "Quintino Cinalli regresa a Concepción con música, formación y nuevas exploraciones rítmicas",
    "resumen": "El destacado baterista y percusionista argentino desarrollará una serie de actividades entre el 11 y el 17 de noviembre, que incluyen una clínica abierta a músicos de distintas disciplinas, un conversatorio sobre su discografía y presentaciones en vivo junto…",
@@ -2095,6 +2095,20 @@
    "visto": "2026-11-11T08:40:19.390Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/11/fernandez-vial-repechaje-puente-alto.html",
+   "titulo": "Matías Soto: “Nos queda la última bala y esa no la vamos a desperdiciar”",
+   "resumen": "Defensor de Fernández Vial analizó el cruce decisivo por la liguilla de promoción frente a Puente Alto tras dejar atrás la dolorosa caída por penales en casa de Mejillones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Matias-Soto-Fernandez-Vial-foto-facebook-C.D.-Arturo-Fern%C3%A1ndez-Vial-e1794357714246.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-11T08:40:19.390Z",
+   "visto": "2026-11-11T08:40:19.390Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
