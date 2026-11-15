@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T10:10:22.169Z",
+ "generado": "2026-11-15T10:30:23.283Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 58,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
@@ -2476,21 +2476,6 @@
    "cats": [
     "cultura",
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/10/tribunal-constitucional-fija-10-dias-para-decidir-sobre-requerimiento-del-alcalde-boris-chamorro",
-   "titulo": "Tribunal Constitucional fija 10 días para decidir sobre requerimiento del alcalde Boris Chamorro",
-   "resumen": "El Tribunal Constitucional fijó un plazo de 10 días para pronunciarse sobre la admisibilidad del requerimiento presentado por el abogado Fernando Saenger en representación del alcalde Boris Chamorro, quien busca mantenerse en el cargo. La gestión coincide con…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/boris-chamorro-alcalde-formalizacion.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-10T10:30:25.513Z",
-   "visto": "2026-11-10T10:30:25.513Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
