@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T22:20:20.113Z",
+ "generado": "2026-11-15T22:40:20.552Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 150,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -2353,20 +2353,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/10/tom-richtler-profesor-emerito-universidad-concepcion.html",
-   "titulo": "Dr. Tom Richtler es investido como Profesor Emérito de la Universidad de Concepción por su compromiso académico y trayectoria científica",
-   "resumen": "La distinción es un homenaje a quienes destacan por su impacto en la formación de pre y postgrado, la relevancia de su investigación y una calidad académica que engrandece el prestigio y desarrollo de la casa de estudios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Profesor-Emerito-Tom-Richtler-18-1-e1794349303253.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T22:40:20.981Z",
-   "visto": "2026-11-10T22:40:20.981Z",
-   "cats": [
-    "tecnologia"
    ],
    "local": true
   }
