@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T18:40:20.612Z",
+ "generado": "2026-11-15T18:50:20.889Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 55,
+    "leidas": 54,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/fallece-a-los-83-anos-carlos-grollmus-sobreviviente-del-ataque-incendiario-al-molino-grollmus-en-contulmo.html",
+   "titulo": "Fallece a los 83 años Carlos Grollmus, sobreviviente del ataque incendiario al Molino Grollmus en Contulmo",
+   "resumen": "La familia aún no ha entregado mayores detalles sobre las causas de fallecimiento.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Carlos-Grollmus.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T18:50:20.889Z",
+   "visto": "2026-11-15T18:50:20.889Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/15/colegio-creacion-y-san-ignacio-se-coronaron-campeones-de-la-copa-interescolar-de-basquetbol-udec.html",
    "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
@@ -1084,12 +1098,12 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/fallece-jose-ramon-arellano-payaso-tony-pulguita.html",
-   "titulo": "Luto en el Biobío: fallece José Ramón Arellano, el histórico payaso “Tony Pulguita”",
-   "resumen": "El artista falleció este viernes tras luchar contra un cáncer. Tras más de 30 años de trayectoria, se había retirado de los escenarios en marzo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fallece-jose-ramon-arellano-payaso-tony-pulguita.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
+   "url": "https://www.canal9.cl/episodios/2026/11/13/hombre-muere-tras-ataque-a-balazos-en-hualpen-activan-protocolo-de-seguridad-en-colegio-cercano",
+   "titulo": "Hombre muere tras ataque a balazos en Hualpén: activan protocolo de seguridad en colegio cercano",
+   "resumen": "Un nuevo homicidio se registró en la comuna de Hualpén, en el Gran Concepción, luego de que un hombre joven falleciera tras recibir múltiples impactos balísticos. El ataque ocurrió en las cercanías de la Escuela República del Perú, lo que obligó a activar…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/PHOTO-2026-11-13-16-24-47-e1794603761339.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
    "fecha": "2026-11-13T21:10:23.248Z",
    "visto": "2026-11-13T21:10:23.248Z",
    "cats": [
@@ -1098,12 +1112,12 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/hombre-muere-tras-ataque-a-balazos-en-hualpen-activan-protocolo-de-seguridad-en-colegio-cercano",
-   "titulo": "Hombre muere tras ataque a balazos en Hualpén: activan protocolo de seguridad en colegio cercano",
-   "resumen": "Un nuevo homicidio se registró en la comuna de Hualpén, en el Gran Concepción, luego de que un hombre joven falleciera tras recibir múltiples impactos balísticos. El ataque ocurrió en las cercanías de la Escuela República del Perú, lo que obligó a activar…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/PHOTO-2026-11-13-16-24-47-e1794603761339.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/fallece-jose-ramon-arellano-payaso-tony-pulguita.html",
+   "titulo": "Luto en el Biobío: fallece José Ramón Arellano, el histórico payaso “Tony Pulguita”",
+   "resumen": "El artista falleció este viernes tras luchar contra un cáncer. Tras más de 30 años de trayectoria, se había retirado de los escenarios en marzo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fallece-jose-ramon-arellano-payaso-tony-pulguita.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-13T21:10:23.248Z",
    "visto": "2026-11-13T21:10:23.248Z",
    "cats": [
