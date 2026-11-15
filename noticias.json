@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T08:50:20.787Z",
+ "generado": "2026-11-15T09:00:26.934Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 58,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -1196,6 +1196,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/13/ampliaciones-sin-regularizar-hipotecarios-biobio.html",
+   "titulo": "Ampliaciones sin regularizar: el problema que puede dejar a compradores sin crédito hipotecario",
+   "resumen": "Los bancos pueden excluir parte de la superficie construida al tasar una propiedad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-edificios-en-el-centro-de-Concepci%C3%B3n-foto-carolina-4-e1794533714385.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T15:00:00.000Z",
+   "visto": "2026-11-15T08:50:20.787Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/paso-meteoro-ilumina-cielo-nuble-biobio-estruendo.html",
    "titulo": "VIDEO | Bólido ilumina el cielo del Biobío y Ñuble: astrónoma no descarta caída de un objeto artificial",
    "resumen": "El fenómeno se registró cerca de las 21:30 horas de este viernes. Tras los reportes por el potente ruido, expertos no descartan un impacto.",
@@ -1218,20 +1232,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-13T15:00:00.000Z",
    "visto": "2026-11-14T00:40:19.977Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/13/ampliaciones-sin-regularizar-hipotecarios-biobio.html",
-   "titulo": "Ampliaciones sin regularizar: el problema que puede dejar a compradores sin crédito hipotecario",
-   "resumen": "Los bancos pueden excluir parte de la superficie construida al tasar una propiedad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-edificios-en-el-centro-de-Concepci%C3%B3n-foto-carolina-4-e1794533714385.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T15:00:00.000Z",
-   "visto": "2026-11-15T08:50:20.787Z",
    "cats": [
     "regional"
    ],
