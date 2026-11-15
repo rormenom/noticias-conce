@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T23:30:23.320Z",
+ "generado": "2026-11-15T23:50:20.671Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 55,
+    "leidas": 54,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/15/familiares-vecinos-y-artistas-circenses-dan-el-ultimo-adios-a-tony-pulguita",
+   "titulo": "Familiares, vecinos y artistas circenses despiden a Tony Pulguita",
+   "resumen": "Familiares, residentes y compañeros del mundo circense se reunieron este domingo para despedir a José Ramón Arellano, conocido por interpretar al querido payaso “Tony Pulguita”, personaje que acompañó a varias generaciones de niños de la región del Bío Bío…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/familiares-vecinos-y-artistas-circenses-dan-el-ultimo-adios-a-_tony-pulguita_.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-15T23:50:20.671Z",
+   "visto": "2026-11-15T23:50:20.671Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/15/familiares-vecinos-y-artistas-circenses-dan-el-ultimo-adios-a-tony-pulguita.shtml",
    "titulo": "Familiares, vecinos y artistas circenses dan el último adiós a \"Tony Pulguita\"",
