@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T16:00:25.763Z",
+ "generado": "2026-11-15T16:10:20.239Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 56,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/bajo-historico-aprobacion-de-jose-antonio-kast-cae-al-18-y-desaprobacion-alcanza-el-72.html",
+   "titulo": "Bajo histórico: aprobación de José Antonio Kast cae al 18% y desaprobación alcanza el 72%",
+   "resumen": "La reciente Encuesta Criteria evidenció el peor resultado de la gestión del actual Presidente de la República.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/08/jose-antonio-kast-e1787678796981.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T16:10:20.239Z",
+   "visto": "2026-11-15T16:10:20.239Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/seremi-mineria-biobio-alianzas-tierras-raras.html",
    "titulo": "Biobío explora oportunidades de la nueva minería junto a los principales gremios de Antofagasta",
@@ -308,20 +322,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/ivan-poduje-reconstruccion-biobio.html",
-   "titulo": "“Superamos las mil viviendas iniciadas en Biobío”: Iván Poduje destaca avance en reconstrucción",
-   "resumen": "En su reciente visita titular del Minvu abordó el debate presupuestario y la reactivación del mercado inmobiliario, entre otros aspectos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ivan-poduje-ministro-vivienda.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
    "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
    "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
@@ -332,6 +332,20 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/ivan-poduje-reconstruccion-biobio.html",
+   "titulo": "“Superamos las mil viviendas iniciadas en Biobío”: Iván Poduje destaca avance en reconstrucción",
+   "resumen": "En su reciente visita titular del Minvu abordó el debate presupuestario y la reactivación del mercado inmobiliario, entre otros aspectos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ivan-poduje-ministro-vivienda.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
