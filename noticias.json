@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T11:30:27.737Z",
+ "generado": "2026-11-15T12:50:20.633Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -2461,21 +2461,6 @@
    "visto": "2026-11-10T13:10:20.434Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/convocatoria-de-expo-de-mar-a-cordillera-entra-en-recta-final-para-reunir-a-creadores-de-todo-el-biobio-en-su-cuarta-version/",
-   "titulo": "Convocatoria de Expo De Mar a Cordillera entra en recta final para reunir a creadores de todo el Biobío en su cuarta versión",
-   "resumen": "Con el propósito de visibilizar la riqueza creativa de las […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Expo23-768x615.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-10T12:47:16.000Z",
-   "visto": "2026-11-10T12:50:19.697Z",
-   "cats": [
-    "cultura",
-    "regional"
    ],
    "local": true
   }
