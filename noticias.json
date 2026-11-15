@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T02:50:18.283Z",
+ "generado": "2026-11-15T03:50:19.283Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/15/militar-habria-sufrido-accidente-en-sierra-velluda-ejercito-anuncia-rescate-para-este-domingo.shtml",
+   "titulo": "Militar habría sufrido accidente en Sierra Velluda: Ejército anuncia rescate para este domingo",
+   "resumen": "Un integrante del Destacamento de Montaña N° 17 “Los Ángeles” habría sufrido un accidente en los faldeos de Sierra Velluda,...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019776-militar-habria-sufrido-accidente-en-sierra-velluda-ejercito-anuncia-rescate-para-este-domingo.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-15T03:42:50.000Z",
+   "visto": "2026-11-15T03:50:19.283Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/14/empresa-familiar-de-los-angeles-obtiene-reconocimiento-mundial-por-su-carne-wagyu-gano-cinco-medallas-en-competencia-internacional.html",
    "titulo": "Empresa familiar de Los Ángeles obtiene reconocimiento mundial por su carne Wagyu: ganó cinco medallas en competencia internacional",
@@ -1449,20 +1463,6 @@
    "visto": "2026-11-12T22:40:22.289Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/inversion-minvu-viviendas-obras-nacimiento.html",
-   "titulo": "Minvu anuncia inversión cercana a los $60 mil millones para construir 700 viviendas en Nacimiento",
-   "resumen": "La cartera destinará recursos para dos comités habitacionales, obras viales y la reposición de cinco viviendas dañadas por termitas en la comuna.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-nacimiento-foto-carolina-e1794518832768.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T21:30:24.769Z",
-   "visto": "2026-11-12T21:30:24.769Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
