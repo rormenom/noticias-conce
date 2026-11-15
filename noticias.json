@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T15:50:19.509Z",
+ "generado": "2026-11-15T16:00:25.763Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 57,
+    "enlaces": 153,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/seremi-mineria-biobio-alianzas-tierras-raras.html",
+   "titulo": "Biobío explora oportunidades de la nueva minería junto a los principales gremios de Antofagasta",
+   "resumen": "En las comunas de Antofagasta y Santiago se abordaron los desafíos de la industria que abre el desarrollo de minerales críticos para el sur de Chile.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Reuniones-Miner%C3%ADa-1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T16:00:25.763Z",
+   "visto": "2026-11-15T16:00:25.763Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/15/cuatro-areas-protegidas-del-bio-bio-reciben-219-millones-para-mejorar-su-infraestructura",
+   "titulo": "Cuatro áreas protegidas del Bío Bío reciben $219 millones para mejorar su infraestructura",
+   "resumen": "Los parques nacionales Nonguén y Laguna de Laja, en la región del Bío Bío, recibirán recursos para mejorar sus condiciones de funcionamiento, en el marco del traspaso de las áreas protegidas desde CONAF al Servicio de Biodiversidad y Áreas Protegidas. El…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2024/08/PARQUE-NONGUEN.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-15T16:00:25.763Z",
+   "visto": "2026-11-15T16:00:25.763Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/15/mineduc-entrega-fondos-de-emergencia-a-escuela-las-dunas-de-los-alamos-y-al-liceo-alonso-de-ercilla-de-canete",
    "titulo": "Mineduc entrega fondos de emergencia a escuela Las Dunas de Los Álamos y al Liceo Alonso de Ercilla de Cañete",
@@ -1433,20 +1461,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/casa-de-secuestro-y-tortura-en-los-angeles-detenidos-la-modificaron-para-que-no-escucharan-los-gritos",
-   "titulo": "Descubren casa de secuestro y tortura modificada para que no se escucharan los gritos en Los Ángeles",
-   "resumen": "Una pesquisa de la Fiscalía permitió hallar una vivienda en Los Ángeles que habría sido utilizada para secuestrar y torturar. Dos personas fueron enviadas a prisión preventiva por su presunta participación en los hechos, entre ellas quien encabezaría la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/casa-secuestro-tortura-los-angeles.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T14:20:21.879Z",
-   "visto": "2026-11-13T14:20:21.879Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
