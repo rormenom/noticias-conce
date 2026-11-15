@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T22:10:19.689Z",
+ "generado": "2026-11-15T22:20:20.113Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 149,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -2365,20 +2365,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T22:40:20.981Z",
    "visto": "2026-11-10T22:40:20.981Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/10/tedxbarriouniversitario-women-2026-primera-edicion-biobio.html",
-   "titulo": "TEDxBarrioUniversitario Women 2026 prepara su primera edición en el Biobío con ideas y experiencias que transforman",
-   "resumen": "El encuentro, que se realizará el próximo 4 de diciembre en la Universidad de Concepción, reunirá a ocho expositoras y abordará temáticas relacionadas con el liderazgo femenino, la ciencia, la innovación y el impacto social.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Lanzamiento-TEDxBarrioUniversitario-Women-2026-41-e1794347824346.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T22:20:19.622Z",
-   "visto": "2026-11-10T22:20:19.622Z",
    "cats": [
     "tecnologia"
    ],
