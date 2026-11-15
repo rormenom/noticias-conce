@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T15:00:26.953Z",
+ "generado": "2026-11-15T15:10:21.025Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/15/expertos-aseguran-que-jurel-migro-al-sur-y-a-mayor-profundidad-por-el-nino-sin-mejoras-hasta-marzo",
+   "titulo": "Expertos aseguran que jurel migró al sur y a mayor profundidad por El Niño, sin mejoras hasta marzo",
+   "resumen": "Encontrar jurel en conserva en los supermercados sigue siendo difícil: hay poca variedad y, en algunos casos, solo se encuentra caballa. Consumidores consultados hablaron de una merma del producto y una de ellas, que viene de Osorno, dijo que allá el jurel ya…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/08/crisis-del-jurel-gobierno-resolucion-flexibilidad-pesca-industrial-artesanal-jurel.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-15T15:10:21.025Z",
+   "visto": "2026-11-15T15:10:21.025Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/15/rescatan-por-tierra-a-dos-oficiales-accidentados-en-volcan-antuco-clima-impide-operativo-aereo",
    "titulo": "El mal tiempo obliga a rescatar por tierra a dos oficiales accidentados en el Volcán Antuco",
@@ -1432,20 +1446,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/dos-heridos-deja-colision-con-posterior-volcamiento-en-puente-esmeralda-de-concepcion.shtml",
-   "titulo": "Dos heridos deja colisión con posterior volcamiento en Puente Esmeralda de Concepción",
-   "resumen": "Dos personas resultaron heridas tras una colisión registrada este viernes en el Puente Esmeralda de Concepción, en la región...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7017888-colision-puente-esmeralda-concepcion-.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-13T11:34:44.000Z",
-   "visto": "2026-11-13T11:35:06.825Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
