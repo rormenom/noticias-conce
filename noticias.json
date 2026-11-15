@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T14:20:19.978Z",
+ "generado": "2026-11-15T14:30:27.290Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -488,20 +488,6 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/14/catedra-gonzalo-rojas-estrena-nuevo-espacio-de-encuentro-poetico-con-la-primera-edicion-de-cicatrices.html",
-   "titulo": "Cátedra Gonzalo Rojas estrena nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-16-encuentro-poetico-cicatrices-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-14T14:30:25.089Z",
-   "visto": "2026-11-14T14:30:25.089Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/14/paro-de-camioneros-genero-retrasos-en-la-logistica-de-los-puertos-de-la-region-pero-no-detuvo-sus-operaciones.html",
    "titulo": "Paro de camioneros generó retrasos en la logística de los puertos de la Región, pero no detuvo sus operaciones",
    "resumen": "",
@@ -520,6 +506,20 @@
    "titulo": "Diabetes en subida y cada vez más precoz: promover hábitos sanos para prevenir es un reto vital",
    "resumen": "",
    "imagen": "https://assets.tvu.cl/2026/11/pag-11-diabetes-foot-cc.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-14T14:30:25.089Z",
+   "visto": "2026-11-14T14:30:25.089Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/14/catedra-gonzalo-rojas-estrena-nuevo-espacio-de-encuentro-poetico-con-la-primera-edicion-de-cicatrices.html",
+   "titulo": "Cátedra Gonzalo Rojas estrena nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-16-encuentro-poetico-cicatrices-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-14T14:30:25.089Z",
