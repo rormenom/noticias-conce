@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T19:30:25.845Z",
+ "generado": "2026-11-15T19:40:20.409Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -2438,20 +2438,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/10/amiga-date-cuenta-chiguayante-teatro-gratis.html",
-   "titulo": "“Amiga, date cuenta” llega gratis y al aire libre en Chiguayante",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/amiga-date-cuenta.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T19:40:21.002Z",
-   "visto": "2026-11-10T19:40:21.002Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   }
