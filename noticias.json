@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T09:00:26.934Z",
+ "generado": "2026-11-15T09:10:21.486Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -96,20 +96,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/gran-concepcion-ranking-global-ciudades.html",
-   "titulo": "Entre 2024 y 2026: Gran Concepción perdió 106 puestos en ranking global de ciudades",
-   "resumen": "El área metropolitana penquista pasó del lugar 322 al 428 en el Oxford Economics Global Cities Index. Mientras economía y gobernanza mejoraron sus posiciones, capital humano, calidad de vida y medioambiente registraron retrocesos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-aerea-de-Concepci%C3%B3n-foto-diario-Concepci%C3%B3n.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/15/nasa-space-apps-challenge-convoco-a-mas-de-un-centenar-de-jovenes-para-solucionar-retos-globales.html",
    "titulo": "NASA Space Apps Challenge convocó a más de un centenar de jóvenes para solucionar retos globales",
    "resumen": "Estos 14 y 15 de noviembre se realizó la mayor hackatón de innovación abierta del planeta en Concepción.",
@@ -120,6 +106,20 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/gran-concepcion-ranking-global-ciudades.html",
+   "titulo": "Entre 2024 y 2026: Gran Concepción perdió 106 puestos en ranking global de ciudades",
+   "resumen": "El área metropolitana penquista pasó del lugar 322 al 428 en el Oxford Economics Global Cities Index. Mientras economía y gobernanza mejoraron sus posiciones, capital humano, calidad de vida y medioambiente registraron retrocesos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-aerea-de-Concepci%C3%B3n-foto-diario-Concepci%C3%B3n.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
