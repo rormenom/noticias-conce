@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T00:50:20.164Z",
+ "generado": "2026-11-15T01:00:27.731Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -73,8 +73,8 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 34,
-    "leidas": 11,
+    "enlaces": 35,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -288,6 +288,20 @@
    "visto": "2026-11-15T00:30:24.079Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/14/muere-carlos-grollmus-fue-victima-del-ataque-incendiario-a-su-molino-en-contulmo-en-2022",
+   "titulo": "Fallece Carlos Grollmus, sobreviviente del incendio que destruyó su molino en Contulmo en 2022",
+   "resumen": "Carlos Grollmus, una de las personas afectadas por el ataque al Molino Grollmus en 2022, murió a los 83 años. El atentado ocurrió en Contulmo, comuna de la provincia de Arauco, en la región del Bío Bío. La familia informó sobre su fallecimiento en redes…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/muere-carlos-grollmus-fue-victima-del-ataque-incendiario-a-su-molino-en-contulmo-en-2022.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-14T15:00:00.000Z",
+   "visto": "2026-11-15T01:00:27.731Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1443,20 +1457,6 @@
    "titulo": "Minvu anuncia inversión cercana a los $60 mil millones para construir 700 viviendas en Nacimiento",
    "resumen": "La cartera destinará recursos para dos comités habitacionales, obras viales y la reposición de cinco viviendas dañadas por termitas en la comuna.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-nacimiento-foto-carolina-e1794518832768.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T21:30:24.769Z",
-   "visto": "2026-11-12T21:30:24.769Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/camioneros-agua-gloria-movilizacion-alza-combustibles.html",
-   "titulo": "Cerca de 400 camiones mantienen movilización en Agua de la Gloria por alza de combustibles",
-   "resumen": "Vocero de la agrupación Juan Riquelme cifró en 400 las máquinas apostadas en la ruta desde el lunes, exigiendo eliminar el impuesto específico y desconociendo los acuerdos alcanzados por dirigencias nacionales en Santiago.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-4.jpg-e1794518715830.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T21:30:24.769Z",
