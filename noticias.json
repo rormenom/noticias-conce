@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T19:50:20.173Z",
+ "generado": "2026-11-15T20:20:20.378Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 153,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -2422,21 +2422,6 @@
    "fecha": "2026-11-10T20:40:19.850Z",
    "visto": "2026-11-10T20:40:19.850Z",
    "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/juegos-suramericanos-2030-odesur-anticipa-informe-positivo-sobre-candidatura-del-biobio/",
-   "titulo": "Juegos Suramericanos 2030: ODESUR anticipa informe positivo sobre candidatura del Biobío",
-   "resumen": "La Comisión Evaluadora de ODESUR visitó este lunes y martes […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/odesur-biobio-01-768x512.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-10T20:15:13.000Z",
-   "visto": "2026-11-10T20:20:21.547Z",
-   "cats": [
-    "regional",
     "politica"
    ],
    "local": true
