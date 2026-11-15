@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T15:20:19.288Z",
+ "generado": "2026-11-15T15:30:23.735Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 55,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 15,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -2449,20 +2449,6 @@
    "visto": "2026-11-10T16:50:22.249Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/kast-combustibles-camioneros-alza-precios-seguridad.html",
-   "titulo": "Kast por tensión con camioneros: contrapone alza de combustibles con avances en seguridad",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-41.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T15:30:24.460Z",
-   "visto": "2026-11-10T15:30:24.460Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
