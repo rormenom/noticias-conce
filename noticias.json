@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T17:50:21.665Z",
+ "generado": "2026-11-15T18:20:20.276Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 20,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 58,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/15/nasa-space-apps-challenge-convoco-a-mas-de-100-jovenes-para-solucionar-retos-globales.html",
+   "titulo": "NASA Space Apps Challenge convocó a más de 100 jóvenes para solucionar retos globales",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-10-desafio-de-la-nasa-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-15T18:20:20.276Z",
+   "visto": "2026-11-15T18:20:20.276Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/15/entre-2024-y-2026-gran-concepcion-bajo-106-puestos-en-ranking-global-de-ciudades.html",
+   "titulo": "Entre 2024 y 2026: Gran Concepción bajó 106 puestos en ranking global de ciudades",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-6-aerea-de-Concepci%C3%B3n-foto-diario-Concepci%C3%B3n.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-15T18:20:20.276Z",
+   "visto": "2026-11-15T18:20:20.276Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/15/corte-de-apelaciones-rechaza-recurso-de-nulidad-contra-sentencia-que-absolvio-a-exalcalde-de-renaico.shtml",
    "titulo": "Corte de Apelaciones rechaza recurso de nulidad contra sentencia que absolvió a exalcalde de Renaico",
@@ -658,20 +686,6 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/14/tras-acuerdo-con-camioneros-transportistas-descolgados-del-pacto-rechazan-alusiones-al-octubrismo.html",
-   "titulo": "Tras acuerdo con camioneros: transportistas descolgados del pacto rechazan alusiones al octubrismo",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-4-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-14T14:30:25.089Z",
-   "visto": "2026-11-14T14:30:25.089Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/14/paro-de-camioneros-genero-retrasos-en-la-logistica-de-los-puertos-de-la-region-pero-no-detuvo-sus-operaciones.html",
    "titulo": "Paro de camioneros generó retrasos en la logística de los puertos de la Región, pero no detuvo sus operaciones",
    "resumen": "",
@@ -704,6 +718,20 @@
    "titulo": "Cátedra Gonzalo Rojas estrena nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
    "resumen": "",
    "imagen": "https://assets.tvu.cl/2026/11/pag-16-encuentro-poetico-cicatrices-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-14T14:30:25.089Z",
+   "visto": "2026-11-14T14:30:25.089Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/14/tras-acuerdo-con-camioneros-transportistas-descolgados-del-pacto-rechazan-alusiones-al-octubrismo.html",
+   "titulo": "Tras acuerdo con camioneros: transportistas descolgados del pacto rechazan alusiones al octubrismo",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-4-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-14T14:30:25.089Z",
@@ -1408,20 +1436,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/13/ampliaciones-sin-regularizar-hipotecarios-biobio.html",
-   "titulo": "Ampliaciones sin regularizar: el problema que puede dejar a compradores sin crédito hipotecario",
-   "resumen": "Los bancos pueden excluir parte de la superficie construida al tasar una propiedad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-edificios-en-el-centro-de-Concepci%C3%B3n-foto-carolina-4-e1794533714385.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T15:00:00.000Z",
-   "visto": "2026-11-15T08:50:20.787Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/paso-meteoro-ilumina-cielo-nuble-biobio-estruendo.html",
    "titulo": "VIDEO | Bólido ilumina el cielo del Biobío y Ñuble: astrónoma no descarta caída de un objeto artificial",
    "resumen": "El fenómeno se registró cerca de las 21:30 horas de este viernes. Tras los reportes por el potente ruido, expertos no descartan un impacto.",
@@ -1432,20 +1446,6 @@
    "visto": "2026-11-14T01:50:20.097Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/hombre-es-asesinado-con-rozon-en-talcahuano-el-tercero-homicidio-en-bio-bio-en-menos-de-24-horas",
-   "titulo": "Un hombre muere tras recibir un disparo en Talcahuano, en medio de una seguidilla de homicidios en el Biobío",
-   "resumen": "Un nuevo asesinato ocurrió durante las últimas horas en la región del Bío Bío, el tercero en un lapso inferior a 24 horas: un hombre fue ultimado con un rozón en la comuna de Talcahuano. De acuerdo con información de Radio Bío Bío, el hecho tuvo lugar cerca…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T15:00:00.000Z",
-   "visto": "2026-11-14T00:40:19.977Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2433,20 +2433,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-10T19:00:29.139Z",
    "visto": "2026-11-10T19:00:29.139Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/10/tras-su-incorporacion-olimpica-santiago-squash-club-busca-acercar-la-disciplina-a-nuevos-jugadores.shtml",
-   "titulo": "Tras su incorporación olímpica: Santiago Squash Club busca acercar la disciplina a nuevos jugadores",
-   "resumen": "El 14 de julio de 2028 se encenderá el pebetero de los Juegos Olímpicos de Los Ángeles y, por primera...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7014115-santiago-squash.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-10T18:19:34.000Z",
-   "visto": "2026-11-10T18:20:23.095Z",
    "cats": [
     "deportes"
    ],
