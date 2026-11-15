@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T16:50:20.325Z",
+ "generado": "2026-11-15T17:00:27.146Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/15/meteorologia-advierte-posible-formacion-de-tornados-en-tres-regiones-del-pais-durante-este-domingo",
+   "titulo": "Meteorología alerta sobre riesgo de tornados en tres regiones del país este domingo",
+   "resumen": "La Dirección Meteorológica de Chile (DMC) modificó este domingo el aviso ante la posible formación de nubes convectivas con características tornádicas en tres regiones de la zona centro-sur del país. El organismo señaló que el tiempo podría propiciar vientos…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-1200-x-633-px-2026-11-15t125153-101.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-15T17:00:27.146Z",
+   "visto": "2026-11-15T17:00:27.146Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/bajo-historico-aprobacion-de-jose-antonio-kast-cae-al-18-y-desaprobacion-alcanza-el-72.html",
    "titulo": "Bajo histórico: aprobación de José Antonio Kast cae al 18% y desaprobación alcanza el 72%",
@@ -1444,20 +1458,6 @@
    "fuenteId": "radioudec",
    "fecha": "2026-11-13T14:43:23.000Z",
    "visto": "2026-11-13T14:50:21.136Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/pago-electronico-en-el-gran-concepcion-asi-funciona-el-unico-punto-de-venta-habilitado-para-adquirir-la-tarjeta",
-   "titulo": "Pago electrónico en Gran Concepción: así funciona el único punto de venta habilitado para adquirir la tarjeta",
-   "resumen": "A pocos días de que comience la marcha blanca del nuevo sistema de recaudo electrónico en el transporte público del Gran Concepción, fijada para el próximo 1 de diciembre, los usuarios ya pueden adquirir las tarjetas en el primer Centro de Atención al Usuario…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-13-at-09.55.18-e1794580378956.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T14:40:23.501Z",
-   "visto": "2026-11-13T14:40:23.501Z",
    "cats": [
     "regional"
    ],
