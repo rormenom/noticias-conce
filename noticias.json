@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T14:30:27.290Z",
+ "generado": "2026-11-15T15:00:26.953Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 59,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 11,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/15/rescatan-por-tierra-a-dos-oficiales-accidentados-en-volcan-antuco-clima-impide-operativo-aereo",
+   "titulo": "El mal tiempo obliga a rescatar por tierra a dos oficiales accidentados en el Volcán Antuco",
+   "resumen": "Dos integrantes del Ejército de Chile, pertenecientes al destacamento 17 de Los Ángeles y accidentados ayer en el volcán Antuco, están siendo evacuados por tierra bajo condiciones meteorológicas adversas. La patrulla Parme, unidad del Ejército especializada…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/volcan-antuco-rescate-militar.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-15T15:00:26.953Z",
+   "visto": "2026-11-15T15:00:26.953Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/15/rescatan-por-tierra-a-dos-oficiales-accidentados-en-volcan-antuco-clima-impide-operativo-aereo.shtml",
    "titulo": "Rescatan por tierra a dos oficiales accidentados en Volcán Antuco: clima impide operativo aéreo",
@@ -1430,20 +1444,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-13T11:34:44.000Z",
    "visto": "2026-11-13T11:35:06.825Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/concepcion-choque-de-alta-intensidad-provoco-volcamiento-en-puente-esmeralda",
-   "titulo": "Concepción: choque de alta energía provocó volcamiento de automovil en Puente Esmeralda",
-   "resumen": "Un choque de alta energía se registró la mañana de este viernes en el Puente Esmeralda, en Concepción, luego de que una camioneta y un automóvil particular colisionaran de manera frontal, dejando a ambos conductores lesionados y provocando un amplio…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-13-at-07.52.17-e1794569225141.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T11:30:24.807Z",
-   "visto": "2026-11-13T11:30:24.807Z",
    "cats": [
     "regional"
    ],
