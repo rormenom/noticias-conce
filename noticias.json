@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T04:20:38.164Z",
+ "generado": "2026-11-15T08:40:23.242Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 59,
+    "leidas": 50,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,132 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/corte-apelaciones-concepcion-pide-mas-recursos.html",
+   "titulo": "Corte de Apelaciones pide más recursos para consolidar nueva sala ante alta carga laboral",
+   "resumen": "El presidente del tribunal de alzada, Pablo Zavala, destacó el trabajo de ministros y funcionarios para enfrentar el aumento de causas, y planteó que la solución pasa por contar con otra sala ordinaria y una mayor dotación hacia 2030.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/08/WhatsApp-Image-2026-08-28-at-17.14.08-e1787967394891.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/gran-concepcion-ranking-global-ciudades.html",
+   "titulo": "Entre 2024 y 2026: Gran Concepción perdió 106 puestos en ranking global de ciudades",
+   "resumen": "El área metropolitana penquista pasó del lugar 322 al 428 en el Oxford Economics Global Cities Index. Mientras economía y gobernanza mejoraron sus posiciones, capital humano, calidad de vida y medioambiente registraron retrocesos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-aerea-de-Concepci%C3%B3n-foto-diario-Concepci%C3%B3n.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/15/nasa-space-apps-challenge-convoco-a-mas-de-un-centenar-de-jovenes-para-solucionar-retos-globales.html",
+   "titulo": "NASA Space Apps Challenge convocó a más de un centenar de jóvenes para solucionar retos globales",
+   "resumen": "Estos 14 y 15 de noviembre se realizó la mayor hackatón de innovación abierta del planeta en Concepción.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-desafio-de-la-nasa-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/15/campeones-copa-interescolar-udec-basquetbol.html",
+   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
+   "resumen": "El Colegio Creación ganó la final femenina por 60-49 ante American Junior College, y San Ignacio se impuso 63-47 frente al Instituto de Humanidades de Concepción en varones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/ivan-poduje-reconstruccion-biobio.html",
+   "titulo": "“Superamos las mil viviendas iniciadas en Biobío”: Iván Poduje destaca avance en reconstrucción",
+   "resumen": "En su reciente visita titular del Minvu abordó el debate presupuestario y la reactivación del mercado inmobiliario, entre otros aspectos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ivan-poduje-ministro-vivienda.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
+   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
+   "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/talentos-udec-feria-proyectos-comunitarios.html",
+   "titulo": "Talentos UdeC: estudiantes de 26 comunas expusieron proyectos con impacto comunitario en Feria de Primavera",
+   "resumen": "327 niños y niñas presentaron trabajos en la instancia que también contó con la participación de organizaciones sociales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-talentos-UdeC-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/slep-andalien-costa-transporte-escolar-denuncias.html",
+   "titulo": "Apoderados del SLEP Andalién Costa exigen fiscalización y transparencia en licitación del transporte escolar",
+   "resumen": "Familias de Lota, Coronel, Santa Juana y San Pedro de la Paz denuncian problemas con los buses que trasladan a sus hijos. Desde el Servicio Local aseguraron que cuentan con un encargado dedicado a inspeccionar las máquinas en terreno.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-micro-transporte-escolar-foto-cedida.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/15/francisco-bruna-revisita-decada-creacion-pictorica-libro-monografia-flexible.html",
+   "titulo": "Francisco Bruna revisita una década de creación pictórica en el libro “Monografía Flexible”",
+   "resumen": "El pintor y docente de la Universidad de Concepción presentó oficialmente esta publicación durante octubre en la Sala David Stitchkin. El volumen, financiado por Fondart Regional, reúne trabajos realizados entre 2015 y 2025, junto a textos críticos y…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-tema-domingo.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/15/militar-habria-sufrido-accidente-en-sierra-velluda-ejercito-anuncia-rescate-para-este-domingo.shtml",
    "titulo": "Militar habría sufrido accidente en Sierra Velluda: Ejército anuncia rescate para este domingo",
@@ -460,20 +586,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/14/diabetes-al-alza-y-cada-vez-mas-precoz-promover-habitos-sanos-para-prevenir-es-un-reto-vital.html",
-   "titulo": "Diabetes al alza y cada vez más precoz: promover hábitos sanos para prevenir es un reto vital",
-   "resumen": "Casi 1,9 millones de adultos en Chile tiene diabetes, sobre todo tipo 2, que se asocia al exceso de peso y estilos nocivos que prevalecen desde edades jóvenes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-diabetes-foot-cc-e1794623667629.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T08:40:21.206Z",
-   "visto": "2026-11-14T08:40:21.206Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/14/catedra-gonzalo-rojas-inaugura-nuevo-espacio-encuentro-poetico-primera-edicion-cicatrices.html",
    "titulo": "Cátedra Gonzalo Rojas inaugura nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
    "resumen": "La iniciativa impulsada por la poeta residente 2026-2027, la argentina Consuelo Iturraspe, junto con un equipo multidisciplinario UdeC, reunió a siete autores de la Región y dos invitadas trasandinas. La propuesta busca proyectarse en el tiempo y abrir nuevas…",
@@ -484,6 +596,20 @@
    "visto": "2026-11-14T08:40:21.206Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/14/diabetes-al-alza-y-cada-vez-mas-precoz-promover-habitos-sanos-para-prevenir-es-un-reto-vital.html",
+   "titulo": "Diabetes al alza y cada vez más precoz: promover hábitos sanos para prevenir es un reto vital",
+   "resumen": "Casi 1,9 millones de adultos en Chile tiene diabetes, sobre todo tipo 2, que se asocia al exceso de peso y estilos nocivos que prevalecen desde edades jóvenes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-diabetes-foot-cc-e1794623667629.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T08:40:21.206Z",
+   "visto": "2026-11-14T08:40:21.206Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
@@ -829,12 +955,12 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/homicidio-hombre-baleado-sar-candelaria-san-pedro-paz.html",
-   "titulo": "Nuevo homicidio en San Pedro de la Paz: hombre muere baleado en el SAR de Candelaria tras violenta riña",
-   "resumen": "La víctima fue atacada al interior de una vivienda. Desde el Ejecutivo confirmaron que la Brigada de Homicidios ya lidera las diligencias del caso.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Pistola-Carabineros.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
+   "url": "https://www.canal9.cl/episodios/2026/11/13/nuevo-homicidio-en-san-pedro-de-la-paz-hombre-de-40-anos-murio-tras-ser-baleado-en-una-pierna",
+   "titulo": "Hombre de 40 años muere tras recibir un disparo en una pierna en San Pedro de la Paz",
+   "resumen": "Un nuevo asesinato ocurrió en San Pedro de la Paz, región del Bío Bío, luego de que un hombre de 40 años falleciera en el SAR de Candelaria. Sus familiares lo habían llevado hasta allí después de que resultara herido en una pelea dentro de una vivienda. Según…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-13t152344-228.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
    "fecha": "2026-11-13T19:00:30.492Z",
    "visto": "2026-11-13T19:00:30.492Z",
    "cats": [
@@ -843,12 +969,12 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/nuevo-homicidio-en-san-pedro-de-la-paz-hombre-de-40-anos-murio-tras-ser-baleado-en-una-pierna",
-   "titulo": "Hombre de 40 años muere tras recibir un disparo en una pierna en San Pedro de la Paz",
-   "resumen": "Un nuevo asesinato ocurrió en San Pedro de la Paz, región del Bío Bío, luego de que un hombre de 40 años falleciera en el SAR de Candelaria. Sus familiares lo habían llevado hasta allí después de que resultara herido en una pelea dentro de una vivienda. Según…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-13t152344-228.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/homicidio-hombre-baleado-sar-candelaria-san-pedro-paz.html",
+   "titulo": "Nuevo homicidio en San Pedro de la Paz: hombre muere baleado en el SAR de Candelaria tras violenta riña",
+   "resumen": "La víctima fue atacada al interior de una vivienda. Desde el Ejecutivo confirmaron que la Brigada de Homicidios ya lidera las diligencias del caso.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Pistola-Carabineros.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-13T19:00:30.492Z",
    "visto": "2026-11-13T19:00:30.492Z",
    "cats": [
@@ -1056,20 +1182,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/paso-meteoro-ilumina-cielo-nuble-biobio-estruendo.html",
-   "titulo": "VIDEO | Bólido ilumina el cielo del Biobío y Ñuble: astrónoma no descarta caída de un objeto artificial",
-   "resumen": "El fenómeno se registró cerca de las 21:30 horas de este viernes. Tras los reportes por el potente ruido, expertos no descartan un impacto.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/paso-meteoro-ilumina-cielo-nuble-biobio-estruendo.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T15:00:00.000Z",
-   "visto": "2026-11-14T01:50:20.097Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/velatorio-tony-pulguita-iglesia-zion-coronel.html",
    "titulo": "En Coronel será el último adiós a Tony Pulguita: familia confirma coordenadas de su velatorio",
    "resumen": "Los restos del histórico artista infantil serán velados en la Iglesia Zion, ubicada en la Ruta 160, para quienes deseen acompañarlo.",
@@ -1080,6 +1192,20 @@
    "visto": "2026-11-14T01:20:20.729Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/paso-meteoro-ilumina-cielo-nuble-biobio-estruendo.html",
+   "titulo": "VIDEO | Bólido ilumina el cielo del Biobío y Ñuble: astrónoma no descarta caída de un objeto artificial",
+   "resumen": "El fenómeno se registró cerca de las 21:30 horas de este viernes. Tras los reportes por el potente ruido, expertos no descartan un impacto.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/paso-meteoro-ilumina-cielo-nuble-biobio-estruendo.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T15:00:00.000Z",
+   "visto": "2026-11-14T01:50:20.097Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
@@ -1339,20 +1465,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/13/ampliaciones-sin-regularizar-hipotecarios-biobio.html",
-   "titulo": "Ampliaciones sin regularizar: el problema que puede dejar a compradores sin crédito hipotecario",
-   "resumen": "Los bancos pueden excluir parte de la superficie construida al tasar una propiedad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-edificios-en-el-centro-de-Concepci%C3%B3n-foto-carolina-4-e1794533714385.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/13/udec-programa-rescate-legado-teatral.html",
    "titulo": "UdeC impulsa el rescate de su legado teatral con nuevo programa de creación y formación escénica",
    "resumen": "“Escena UdeC” es el nombre de la iniciativa adjudicada por la Universidad de Concepción en el Fondo de las Artes Escénicas 2026, que contempla dos montajes, procesos formativos y actividades de mediación para acercar el teatro a las comunidades del Biobío y…",
@@ -1395,20 +1507,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/graves-amenazas-de-apoderado-suspenden-la-licenciatura-de-164-estudiantes-de-liceo-bicentenario-de-talcahuano.html",
-   "titulo": "Graves amenazas de apoderado suspenden la licenciatura de 164 estudiantes de liceo bicentenario de Talcahuano",
-   "resumen": "La ceremonia del Liceo Almirante Pedro Espina Ritchie estaba programada para este viernes 13 en el Coliseo La Tortuga. La decisión se adoptó luego de que un apoderado amenazara con estrellar su camión contra el establecimiento y el recinto.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-12-at-18.55.37-e1794534205794.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.radioudec.cl/acuerdo-del-gobierno-divide-a-gremios-de-transportistas-locales-y-delegado-presidencial-regional-s-llamo-a-volver-a-trabajar/",
    "titulo": "Acuerdo del Gobierno divide a gremios de transportistas locales y delegado presidencial regional (s) llamó a “volver a trabajar”",
    "resumen": "En el sector de la Ruta 5 Sur, a la […]",
@@ -1435,20 +1533,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/12/en-los-angeles-culmina-movilizacion-del-principal-punto-de-concentracion-de-camioneros/",
-   "titulo": "En Los Ángeles culmina movilización del principal punto de concentración de camioneros",
-   "resumen": "El delegado presidencial Juan Pablo Mellado, acompañó el cierre de la movilización en la Ruta 5 Sur, luego del acuerdo alcanzado entre el Gobierno y los gremios de transportistas.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/IMG_20261112_194522-768x432.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-12T23:35:36.000Z",
-   "visto": "2026-11-13T01:10:18.958Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2407,76 +2491,6 @@
    "visto": "2026-11-10T09:20:21.411Z",
    "cats": [
     "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/10/decimo-encuentro-poetico-reunira-124-autores-chile-y-otros-16-paises-en-el-gran-concepcion.html",
-   "titulo": "Décimo Encuentro Poético reunirá a 124 autores de Chile y otros 16 países en el Gran Concepción",
-   "resumen": "La iniciativa, organizada por la Universidad del Biobío junto a centros culturales y municipios, se desplegará en diferentes espacios del Gran Concepción. Programación que contempla recitales poéticos, gala universitaria y una sesión preinaugural en la Casa…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-nota-encuentro-cedida-UBB-e1794273521737.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/basquetbol-femenino-udec-hizo-doblete-y-se-instala-en-segundo-puesto-de-la-liga.html",
-   "titulo": "Básquetbol femenino UdeC hizo doblete y se instala en segundo puesto de la Liga",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/udec-boston-college-e1794273470461.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/futuro-de-renato-ramos-hoy-no-puedo-anticipar-si-vamos-a-continuar.html",
-   "titulo": "Futuro de Renato Ramos: “Hoy no puedo anticipar si vamos a continuar”",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/renato-ramos-e1794273414205.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/biobio-candidatura-odesur-2030-visita-comision-udec.html",
-   "titulo": "Fernando Ucha, presidente de la delegación Odesur en visita al Biobío: “Lo visto hasta ahora cumple con los requisitos”",
-   "resumen": "Dirigente uruguayo preside la Comisión Evaluadora de los Odesur y quedó maravillado en su primera inspección en la Región. La UdeC asoma como sede para deportes de combate y 3x3 del básquetbol.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-17-visita-comisi%C3%B3n-Odesur-foto-Eduardo-Fortes-Gore-Biob%C3%ADo-e1794272913584.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/municipio-concepcion-transparencia-activa-observaciones.html",
-   "titulo": "Concepción registra bajos índices de transparencia: municipio asegura haber subsanado observaciones",
-   "resumen": "La comuna pasó de 91,7% a 73,6% de cumplimiento en dos años. Se atribuye parte de la caída a reestructuraciones internas y a una evaluación que solo refleja un período específico.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-municipalidad-concepcion-e1794273118294.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T08:40:21.155Z",
-   "visto": "2026-11-10T08:40:21.155Z",
-   "cats": [
     "politica"
    ],
    "local": true
