@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T09:20:19.095Z",
+ "generado": "2026-11-15T10:10:22.169Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 35,
-    "leidas": 11,
+    "enlaces": 36,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/15/militar-habria-sufrido-accidente-en-sierra-velluda-ejercito-anuncia-rescate-para-este-domingo",
+   "titulo": "Ejército prepara rescate de militar que habría sufrido un accidente en Sierra Velluda",
+   "resumen": "Un miembro del Destacamento de Montaña N° 17 “Los Ángeles” habría resultado accidentado en las laderas de Sierra Velluda durante una actividad deportiva de montaña realizada fuera de su horario de servicio. El hecho ocurrió en la región del Bío Bío. De…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/militar-habria-sufrido-accidente-en-sierra-velluda-ejercito-anuncia-rescate-para-este-domingo.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-15T10:10:22.169Z",
+   "visto": "2026-11-15T10:10:22.169Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/corte-apelaciones-concepcion-pide-mas-recursos.html",
    "titulo": "Corte de Apelaciones pide más recursos para consolidar nueva sala ante alta carga laboral",
@@ -1430,20 +1444,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-13T11:30:24.807Z",
    "visto": "2026-11-13T11:30:24.807Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/prevencion-de-incendios-udec-realizo-tercera-feria-de-reduccion-de-riesgo-de-desastres",
-   "titulo": "Prevención de incendios: UdeC realizó tercera feria de Reducción de Riesgo de Desastres",
-   "resumen": "La Universidad de Concepción desarrolló la tercera edición de la feria Reducción de Riesgo de Desastres UdeC, bajo el lema «Prevenir es cuidar». En la actividad participaron autoridades como el director regional del Servicio Nacional de Prevención y Respuesta…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/04/incendio-forestal.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T10:30:25.148Z",
-   "visto": "2026-11-13T10:30:25.148Z",
    "cats": [
     "regional"
    ],
