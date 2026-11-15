@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T19:40:20.409Z",
+ "generado": "2026-11-15T19:50:20.173Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -111,6 +111,20 @@
    "local": true
   },
   {
+   "url": "https://www.tvu.cl/prensa/2026/11/15/gran-concepcion-supera-promedio-de-habitantes-por-hogar-advierten-retos-en-planificacion-urbana.html",
+   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos en planificación urbana",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-15T18:30:24.942Z",
+   "visto": "2026-11-15T18:30:24.942Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.tvu.cl/prensa/2026/11/15/colegio-creacion-y-san-ignacio-se-coronaron-campeones-de-la-copa-interescolar-de-basquetbol-udec.html",
    "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
    "resumen": "",
@@ -137,20 +151,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/gran-concepcion-supera-promedio-de-habitantes-por-hogar-advierten-retos-en-planificacion-urbana.html",
-   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos en planificación urbana",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-15T18:30:24.942Z",
-   "visto": "2026-11-15T18:30:24.942Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
