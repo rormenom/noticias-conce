@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T15:30:23.735Z",
+ "generado": "2026-11-15T15:40:19.347Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 58,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/15/atleta-del-bio-bio-de-68-anos-correra-la-san-silvestre-de-sao-paulo-con-mas-de-400-medallas",
+   "titulo": "Atleta del Bío Bío de 68 años correrá la San Silvestre de Sao Paulo con más de 400 medallas",
+   "resumen": "Con 68 años de trayectoria y más de 400 medallas, el atleta penquista e hijo ilustre de Penco se prepara para participar en la tradicional corrida de San Silvestre, en Sao Paulo, Brasil. La competencia se realizará el 31 de diciembre de 2026 y será su última…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-15-a-las-12.34.15%E2%80%AFp.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-15T15:40:19.347Z",
+   "visto": "2026-11-15T15:40:19.347Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/15/inauguran-ampliacion-de-agua-potable-rural-en-santa-juana-pasa-de-113-a-283-familias-beneficiadas",
+   "titulo": "Inauguran ampliación de agua potable rural en Santa Juana: pasa de 113 a 283 familias beneficiadas",
+   "resumen": "Se inauguró la ampliación del Sistema de Agua Potable Rural del sector de Huallerehue, en la comuna de Santa Juana. La iniciativa, que comenzó en 2017, incorpora a más familias y mejora la calidad, la cantidad y la continuidad del suministro. Cobertura e…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-15-a-las-12.30.02%E2%80%AFp.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-15T15:40:19.347Z",
+   "visto": "2026-11-15T15:40:19.347Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/15/fiscalia-aclara-que-el-caso-puerto-coronel-sigue-en-curso-pese-a-requerimiento-del-alcalde-chamorro",
    "titulo": "Fiscalía aclara que el caso Puerto Coronel sigue en curso pese a requerimiento del alcalde Chamorro",
@@ -1417,34 +1445,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-13T14:16:51.000Z",
    "visto": "2026-11-13T18:20:22.393Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/casa-de-secuestro-y-tortura-en-los-angeles-detenidos-la-modificaron-para-que-no-escucharan-los-gritos.shtml",
-   "titulo": "Casa de secuestro y tortura en Los Ángeles: detenidos la modificaron para que no escucharan los gritos",
-   "resumen": "Una investigación de la Fiscalía permitió descubrir una casa que era usada para torturar y secuestrar personas en Los Ángeles,...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7017990-casa-secuestro-tortura-los-angeles.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-13T13:54:59.000Z",
-   "visto": "2026-11-13T14:00:29.421Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/penco-lirquen-recupera-sus-calles-danadas-tras-los-incendios-forestales/",
-   "titulo": "Penco Lirquén recupera sus calles dañadas tras los incendios forestales",
-   "resumen": "Con una inversión de 430 millones de pesos, proveniente del […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/FOTO_08-768x428.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-13T13:49:05.000Z",
-   "visto": "2026-11-13T13:50:20.277Z",
    "cats": [
     "regional"
    ],
