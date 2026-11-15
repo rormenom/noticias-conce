@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T22:00:26.065Z",
+ "generado": "2026-11-15T22:10:19.689Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 150,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/15/familiares-vecinos-y-artistas-circenses-dan-el-ultimo-adios-a-tony-pulguita.shtml",
+   "titulo": "Familiares, vecinos y artistas circenses dan el último adiós a \"Tony Pulguita\"",
+   "resumen": "Familiares, vecinos y artistas circenses despidieron este domingo a José Ramón Arellano, quién dio vida al reconocido payaso “Tony Pulguita”...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020069-familiares-vecinos-y-artistas-circenses-dan-el-ultimo-adios-a-_tony-pulguita_-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-15T22:02:03.000Z",
+   "visto": "2026-11-15T22:10:19.689Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/15/corte-de-apelaciones-rechaza-recurso-de-nulidad-contra-sentencia-que-absolvio-a-exalcalde-de-renaico",
    "titulo": "Corte de Apelaciones desestima intento de anular la absolución del exalcalde de Renaico",
@@ -2367,34 +2381,6 @@
    "visto": "2026-11-10T22:20:19.622Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/10/presion-legislativa-combustibles-transportistas.html",
-   "titulo": "Paro de camioneros: ofensiva legislativa busca eliminar impuesto específico y blindar contratos de transportistas",
-   "resumen": "Mientras diputados buscan suprimir el impuesto específico, el senador Saavedra urgió despachar la ley que fija pagos a 30 días y tarifas por kilómetro.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/presion-legislativa-combustibles-transportistas.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T22:10:20.699Z",
-   "visto": "2026-11-10T22:10:20.699Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/10/pensando-en-odesur-2030-comision-evaluadora-visito-infraestructura-deportiva-de-region-del-bio-bio.shtml",
-   "titulo": "Pensando en Odesur 2030: Comisión Evaluadora visitó infraestructura deportiva de región del Bío Bío",
-   "resumen": "Pensando en 2030. La Comisión Evaluadora de la Organización Deportiva Suramericana (Odesur) visitó el Bío Bío por...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7014674-delegacion-odesur-visito-region-del-bio-bio-postulacion-juegos-2030.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-10T22:09:34.000Z",
-   "visto": "2026-11-10T22:10:20.699Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
