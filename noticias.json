@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T22:40:20.552Z",
+ "generado": "2026-11-15T23:30:23.320Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 151,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -2338,21 +2338,6 @@
    "visto": "2026-11-11T23:20:26.584Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/10/primer-festival-naturaleza-conservacion-laguna-canicura.html",
-   "titulo": "Comunidad y turismo regenerativo: lanzan 1° Festival de Naturaleza y Conservación en Cañicura",
-   "resumen": "El encuentro gratuito reunirá divulgación científica, cine ambiental, video mapping, talleres en terreno y feria local el 28 y 29 de noviembre.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/laguna-ca%C3%B1icura-santa-b%C3%A1rbara-chile-e1794352798659.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T23:30:24.072Z",
-   "visto": "2026-11-10T23:30:24.072Z",
-   "cats": [
-    "regional",
-    "cultura"
    ],
    "local": true
   }
