@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T18:20:20.276Z",
+ "generado": "2026-11-15T18:30:24.942Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 20,
-    "leidas": 2,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 56,
+    "leidas": 54,
     "errores": 0,
     "robots": 0
    }
@@ -82,14 +82,44 @@
  ],
  "items": [
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/nasa-space-apps-challenge-convoco-a-mas-de-100-jovenes-para-solucionar-retos-globales.html",
-   "titulo": "NASA Space Apps Challenge convocó a más de 100 jóvenes para solucionar retos globales",
+   "url": "https://www.tvu.cl/prensa/2026/11/15/bajo-historico-aprobacion-de-jose-antonio-kast-cae-al-18-y-desaprobacion-alcanza-el-72.html",
+   "titulo": "Bajo histórico: aprobación de José Antonio Kast cae al 18% y desaprobación alcanza el 72%",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-10-desafio-de-la-nasa-foto-carolina.jpg",
+   "imagen": "https://assets.tvu.cl/2026/06/Presidente-Kast-de-cara-a-su-primera-Cuenta-Pu%CC%81blica-e1780317588538.png",
    "fuente": "TVU",
    "fuenteId": "tvu",
-   "fecha": "2026-11-15T18:20:20.276Z",
-   "visto": "2026-11-15T18:20:20.276Z",
+   "fecha": "2026-11-15T18:30:24.942Z",
+   "visto": "2026-11-15T18:30:24.942Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/15/colegio-creacion-y-san-ignacio-se-coronaron-campeones-de-la-copa-interescolar-de-basquetbol-udec.html",
+   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-15T18:30:24.942Z",
+   "visto": "2026-11-15T18:30:24.942Z",
+   "cats": [
+    "regional",
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/15/gran-concepcion-supera-promedio-de-habitantes-por-hogar-advierten-retos-en-planificacion-urbana.html",
+   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos en planificación urbana",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-15T18:30:24.942Z",
+   "visto": "2026-11-15T18:30:24.942Z",
    "cats": [
     "regional"
    ],
@@ -100,6 +130,20 @@
    "titulo": "Entre 2024 y 2026: Gran Concepción bajó 106 puestos en ranking global de ciudades",
    "resumen": "",
    "imagen": "https://assets.tvu.cl/2026/11/pag-6-aerea-de-Concepci%C3%B3n-foto-diario-Concepci%C3%B3n.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-15T18:20:20.276Z",
+   "visto": "2026-11-15T18:20:20.276Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/15/nasa-space-apps-challenge-convoco-a-mas-de-100-jovenes-para-solucionar-retos-globales.html",
+   "titulo": "NASA Space Apps Challenge convocó a más de 100 jóvenes para solucionar retos globales",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-10-desafio-de-la-nasa-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-15T18:20:20.276Z",
@@ -686,6 +730,20 @@
    "local": true
   },
   {
+   "url": "https://www.tvu.cl/prensa/2026/11/14/catedra-gonzalo-rojas-estrena-nuevo-espacio-de-encuentro-poetico-con-la-primera-edicion-de-cicatrices.html",
+   "titulo": "Cátedra Gonzalo Rojas estrena nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-16-encuentro-poetico-cicatrices-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-14T14:30:25.089Z",
+   "visto": "2026-11-14T14:30:25.089Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.tvu.cl/prensa/2026/11/14/paro-de-camioneros-genero-retrasos-en-la-logistica-de-los-puertos-de-la-region-pero-no-detuvo-sus-operaciones.html",
    "titulo": "Paro de camioneros generó retrasos en la logística de los puertos de la Región, pero no detuvo sus operaciones",
    "resumen": "",
@@ -704,20 +762,6 @@
    "titulo": "Diabetes en subida y cada vez más precoz: promover hábitos sanos para prevenir es un reto vital",
    "resumen": "",
    "imagen": "https://assets.tvu.cl/2026/11/pag-11-diabetes-foot-cc.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-14T14:30:25.089Z",
-   "visto": "2026-11-14T14:30:25.089Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/14/catedra-gonzalo-rojas-estrena-nuevo-espacio-de-encuentro-poetico-con-la-primera-edicion-de-cicatrices.html",
-   "titulo": "Cátedra Gonzalo Rojas estrena nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-16-encuentro-poetico-cicatrices-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-14T14:30:25.089Z",
@@ -1390,48 +1434,6 @@
    "cats": [
     "regional",
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/13/biobio-caida-empleo-juvenil.html",
-   "titulo": "Empleo juvenil en Biobío cae en 20 mil puestos en menos de un año",
-   "resumen": "Según el informe del Observatorio Laboral Biobío, la disminución del empleo se concentra en la población entre 15 y 34 años, mientras que los grupos de 35 a 54 años y de 55 años o más registraron aumentos en sus niveles de ocupación. Enseñanza, industria…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/empleo-juvenil.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T15:20:22.050Z",
-   "visto": "2026-11-13T15:20:22.050Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/casa-de-tortura-los-angeles-secuestros.html",
-   "titulo": "Casa de tortura en Los Ángeles: dos detenidos en prisión preventiva por secuestros y tráfico de drogas",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-36.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T15:10:22.883Z",
-   "visto": "2026-11-13T15:10:22.883Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/velatorio-tony-pulguita-iglesia-zion-coronel.html",
-   "titulo": "En Coronel será el último adiós a Tony Pulguita: familia confirma coordenadas de su velatorio",
-   "resumen": "Los restos del histórico artista infantil serán velados en la Iglesia Zion, ubicada en la Ruta 160, para quienes deseen acompañarlo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/velatorio-tony-pulguita-iglesia-zion-coronel.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T15:00:00.000Z",
-   "visto": "2026-11-14T01:20:20.729Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
