@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T15:40:19.347Z",
+ "generado": "2026-11-15T15:50:19.509Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 56,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 14,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/15/mineduc-entrega-fondos-de-emergencia-a-escuela-las-dunas-de-los-alamos-y-al-liceo-alonso-de-ercilla-de-canete",
+   "titulo": "Mineduc entrega fondos de emergencia a escuela Las Dunas de Los Álamos y al Liceo Alonso de Ercilla de Cañete",
+   "resumen": "La escuela Las Dunas, en el sector rural de Pangui (comuna de Los Álamos), y el Liceo Técnico Profesional Alonso de Ercilla de Cañete recibieron fondos de emergencia del Ministerio de Educación para reparar los daños que dejaron los sistemas frontales de los…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/a1-archiv-por-suspenden-clases-para-este-viernes-en-colegios-de-6-comunas-del-gran-concepcion-por-sistema-frontal.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-15T15:50:19.509Z",
+   "visto": "2026-11-15T15:50:19.509Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/15/atleta-del-bio-bio-de-68-anos-correra-la-san-silvestre-de-sao-paulo-con-mas-de-400-medallas",
    "titulo": "Atleta del Bío Bío de 68 años correrá la San Silvestre de Sao Paulo con más de 400 medallas",
@@ -1431,20 +1445,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-13T14:20:21.879Z",
    "visto": "2026-11-13T14:20:21.879Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/13/mas-de-500-deportistas-participaron-en-las-olimpiadas-de-personas-mayores-en-concepcion/",
-   "titulo": "Más de 500 deportistas participaron en las olimpiadas de personas mayores en Concepción",
-   "resumen": "Más de 500 personas mayores de distintas comunas de la región del Biobío participaron en las Olimpiadas de Personas Mayores, desarrolladas en el Estadio Ester Roa de Concepción, en una jornada marcada por el deporte, la recreación, el encuentro y la vida…",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/adultos-mayores-deporte-ccp-768x506.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-13T14:16:51.000Z",
-   "visto": "2026-11-13T18:20:22.393Z",
    "cats": [
     "regional"
    ],
