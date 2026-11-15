@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T18:50:20.889Z",
+ "generado": "2026-11-15T19:00:28.842Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -82,6 +82,21 @@
  ],
  "items": [
   {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/15/parque-museo-pedro-del-rio-zanartu-atrae-miradas-en-el-quinto-festival-ladera-sur.html",
+   "titulo": "Parque Museo Pedro del Río Zañartu atrae miradas en el quinto Festival Ladera Sur",
+   "resumen": "Con un stand, la institución ha  buscado promover su patrimonio natural y cultural para poner en valor la riqueza local y atraer nuevos públicos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-14-at-15.54.00.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T19:00:28.842Z",
+   "visto": "2026-11-15T19:00:28.842Z",
+   "cats": [
+    "tecnologia",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/fallece-a-los-83-anos-carlos-grollmus-sobreviviente-del-ataque-incendiario-al-molino-grollmus-en-contulmo.html",
    "titulo": "Fallece a los 83 años Carlos Grollmus, sobreviviente del ataque incendiario al Molino Grollmus en Contulmo",
    "resumen": "La familia aún no ha entregado mayores detalles sobre las causas de fallecimiento.",
@@ -140,10 +155,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/nasa-space-apps-challenge-convoco-a-mas-de-100-jovenes-para-solucionar-retos-globales.html",
-   "titulo": "NASA Space Apps Challenge convocó a más de 100 jóvenes para solucionar retos globales",
+   "url": "https://www.tvu.cl/prensa/2026/11/15/entre-2024-y-2026-gran-concepcion-bajo-106-puestos-en-ranking-global-de-ciudades.html",
+   "titulo": "Entre 2024 y 2026: Gran Concepción bajó 106 puestos en ranking global de ciudades",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-10-desafio-de-la-nasa-foto-carolina.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-6-aerea-de-Concepci%C3%B3n-foto-diario-Concepci%C3%B3n.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-15T18:20:20.276Z",
@@ -154,10 +169,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/entre-2024-y-2026-gran-concepcion-bajo-106-puestos-en-ranking-global-de-ciudades.html",
-   "titulo": "Entre 2024 y 2026: Gran Concepción bajó 106 puestos en ranking global de ciudades",
+   "url": "https://www.tvu.cl/prensa/2026/11/15/nasa-space-apps-challenge-convoco-a-mas-de-100-jovenes-para-solucionar-retos-globales.html",
+   "titulo": "NASA Space Apps Challenge convocó a más de 100 jóvenes para solucionar retos globales",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-6-aerea-de-Concepci%C3%B3n-foto-diario-Concepci%C3%B3n.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-10-desafio-de-la-nasa-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-15T18:20:20.276Z",
@@ -2437,20 +2452,6 @@
    "visto": "2026-11-10T19:40:21.002Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/10/vial-jugara-la-ida-ante-puente-alto-este-sabado-en-collao.html",
-   "titulo": "Vial jugará la ida ante Puente Alto este sábado en Collao",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/10/fernandez-vial-vs-gasparin-Jaime-Salazar-Dur%C3%A1n.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-10T19:00:29.139Z",
-   "visto": "2026-11-10T19:00:29.139Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
