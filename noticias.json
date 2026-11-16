@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T17:20:21.767Z",
+ "generado": "2026-11-16T17:50:21.976Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 56,
+    "enlaces": 154,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 35,
+    "enlaces": 34,
     "leidas": 12,
     "errores": 0,
     "robots": 0
@@ -191,6 +191,20 @@
    "fuenteId": "radioudec",
    "fecha": "2026-11-16T15:35:01.000Z",
    "visto": "2026-11-16T15:40:23.110Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/biobio-registra-12-victimas-de-homicidio-menos-y-refuerza-trabajo-policial-en-las-comunas/",
+   "titulo": "Biobío registra 12 víctimas de homicidio menos y refuerza trabajo policial en las comunas",
+   "resumen": "En el Comité Policial Regional, las autoridades abordaron el trabajo de la PDI para esclarecer el robo al banco BCI, la evolución de los delitos y el fortalecimiento de los servicios policiales en el territorio.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/comité-policial-regional-biobio--768x460.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-16T15:14:42.000Z",
+   "visto": "2026-11-16T17:50:21.976Z",
    "cats": [
     "regional"
    ],
@@ -1429,20 +1443,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-14T17:00:27.493Z",
    "visto": "2026-11-14T17:00:27.493Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/14/hombre-fue-detenido-en-flagrancia-por-el-delito-de-incendio-en-lebu",
-   "titulo": "Hombre fue detenido en flagrancia por el delito de incendio en Lebu",
-   "resumen": "Sin percatarse de que las cámaras de seguridad lo estaban captando, el hombre de 48 años prendió fuego a la maleza y huyó del lugar. El hecho ocurrió en el sector conocido como Las Antenas en la comuna de Lebu, en la Provincia de Arauco, hasta donde concurrió…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/DETENIDO-DELITO-INCENDIO.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-14T16:40:21.457Z",
-   "visto": "2026-11-14T16:40:21.457Z",
    "cats": [
     "regional"
    ],
