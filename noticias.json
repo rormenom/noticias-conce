@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15T23:50:20.671Z",
+ "generado": "2026-11-16T00:11:12.148Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
+    "enlaces": 55,
     "leidas": 3,
     "errores": 0,
     "robots": 0
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 54,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -403,6 +403,20 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-15T15:00:26.953Z",
    "visto": "2026-11-15T15:00:26.953Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/juzgado-de-garantia-de-talcahuano-decreta-la-prision-preventiva-de-imputado-por-homicidio-simple-en-monte-redondo.html",
+   "titulo": "Juzgado de Garantía de Talcahuano decreta la prisión preventiva de imputado por homicidio simple en Monte Redondo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/08/Nf04sBBWx3nO7SnmuPSE.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T15:00:00.000Z",
+   "visto": "2026-11-16T00:11:12.148Z",
    "cats": [
     "regional"
    ],
@@ -1416,20 +1430,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-13T17:39:40.000Z",
    "visto": "2026-11-13T17:40:20.344Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/el-cruce-cierra-gira-de-sus-25-anos-de-trayectoria-en-concepcion",
-   "titulo": "El Cruce cierra gira de sus 25 años de trayectoria en Concepción",
-   "resumen": "Tras una serie de prensentaciones en Iquique, La Serena, Valparaíso, Santiago y Temuco, la emblemática banda nacional de blues criollo, El Cruce, regresó a Concepción para presentarse este viernes 13 de noviembre en lo que será el cierre de las celebraciones…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/el-cruce.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T17:10:21.554Z",
-   "visto": "2026-11-13T17:10:21.554Z",
    "cats": [
     "regional"
    ],
