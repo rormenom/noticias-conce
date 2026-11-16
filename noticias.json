@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-16T15:30:28.892Z",
+ "generado": "2026-11-16T15:40:23.110Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -61,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 158,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -82,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/after-inmobiliario-finco-2026-rebaja-del-iva-abre-una-ventana-para-comprar-vivienda-en-el-gran-concepcion/",
+   "titulo": "After Inmobiliario Finco 2026: rebaja del IVA abre una ventana para comprar vivienda en el Gran Concepción",
+   "resumen": "El próximo 25 de noviembre, a partir de las 17:00 […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/EXPRESO-INMOBILIARIO_17-1-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-16T15:35:01.000Z",
+   "visto": "2026-11-16T15:40:23.110Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/corte-de-concepcion-falla-contra-empresa-del-retail-que-despidio-a-trabajadora-por-atrasos-reiterados-2",
    "titulo": "Corte de Concepción falla contra empresa del retail que despidió a trabajadora por atrasos reiterados",
@@ -1437,20 +1450,6 @@
    "titulo": "Cátedra Gonzalo Rojas estrena nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
    "resumen": "",
    "imagen": "https://assets.tvu.cl/2026/11/pag-16-encuentro-poetico-cicatrices-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-14T14:30:25.089Z",
-   "visto": "2026-11-14T14:30:25.089Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/14/paro-de-camioneros-genero-retrasos-en-la-logistica-de-los-puertos-de-la-region-pero-no-detuvo-sus-operaciones.html",
-   "titulo": "Paro de camioneros generó retrasos en la logística de los puertos de la Región, pero no detuvo sus operaciones",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-13-entrada-de-camiones-al-puerto-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-14T14:30:25.089Z",
