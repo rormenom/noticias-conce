@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T16:30:27.045Z",
+ "generado": "2026-11-16T16:40:21.353Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 20,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
@@ -82,18 +82,16 @@
  ],
  "items": [
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/16/concejo-tome-aprueba-padem-2027.html",
-   "titulo": "Histórico: Concejo Municipal de Tomé aprueba el PADEM 2027 y reafirma su compromiso con la educación pública",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/839960356_1720166456775827_4423210853024290899_n.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-16T16:30:27.045Z",
-   "visto": "2026-11-16T16:30:27.045Z",
+   "url": "https://www.canal9.cl/episodios/2026/11/16/agricultores-del-biobio-advierten-posibles-perdidas-en-cerezas-arandanos-y-granos-por-lluvias-y-altas-temperaturas",
+   "titulo": "Agricultores del Biobío advierten posibles pérdidas en cerezas, arándanos y granos por lluvias y altas temperaturas",
+   "resumen": "La Sociedad Agrícola de Biobío (Socabio) alertó sobre los efectos que podrían generar las precipitaciones y los cambios bruscos de temperatura en los cultivos de la provincia. El aumento de hongos, los daños en la fruta y los mayores costos de producción…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cerezas-maule-158aa57ecaefa640c827dff0000f03a80-e1794846958701.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T16:40:21.353Z",
+   "visto": "2026-11-16T16:40:21.353Z",
    "cats": [
-    "regional",
-    "cultura",
-    "politica"
+    "regional"
    ],
    "local": true
   },
@@ -108,6 +106,22 @@
    "visto": "2026-11-16T16:30:27.045Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/16/concejo-tome-aprueba-padem-2027.html",
+   "titulo": "Histórico: Concejo Municipal de Tomé aprueba el PADEM 2027 y reafirma su compromiso con la educación pública",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/839960356_1720166456775827_4423210853024290899_n.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-16T16:30:27.045Z",
+   "visto": "2026-11-16T16:30:27.045Z",
+   "cats": [
+    "regional",
+    "cultura",
+    "politica"
    ],
    "local": true
   },
@@ -1441,20 +1455,6 @@
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detenido-homicidio-joven-hualen.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
-   "fecha": "2026-11-14T15:00:28.805Z",
-   "visto": "2026-11-14T15:00:28.805Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/14/inseguridad-en-barrio-norte-vecinos-denuncian-reiterados-robos-en-sede-abandonada-en-el-sector.html",
-   "titulo": "Inseguridad en Barrio Norte: Vecinos denuncian reiterados robos en sede abandonada en el sector",
-   "resumen": "Muebles, electrodomésticos y medidores de agua y luz, son algunos de los objetivos que delincuentes han estado sustrayendo del inmueble. Ocupado en su tiempo como punto de encuentros recreativos para la comunidad vecinal, hoy el escenario es completamente…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-inseguirdad-barrio-norte-foto-enrique-zamora-g.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-14T15:00:28.805Z",
    "visto": "2026-11-14T15:00:28.805Z",
    "cats": [
