@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-16T16:20:35.186Z",
+ "generado": "2026-11-16T16:30:27.045Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -36,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 159,
-    "leidas": 57,
+    "enlaces": 161,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -82,6 +81,36 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/16/concejo-tome-aprueba-padem-2027.html",
+   "titulo": "Histórico: Concejo Municipal de Tomé aprueba el PADEM 2027 y reafirma su compromiso con la educación pública",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/839960356_1720166456775827_4423210853024290899_n.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-16T16:30:27.045Z",
+   "visto": "2026-11-16T16:30:27.045Z",
+   "cats": [
+    "regional",
+    "cultura",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/fpa-2027-millon-pesos-proyectos-forjadores-ambientales.html",
+   "titulo": "Fondo de Protección Ambiental 2027: Forjadores Ambientales pueden acceder a $1 millón para iniciativas locales",
+   "resumen": "El concurso del Ministerio del Medio Ambiente financiará proyectos locales. Los grupos interesados deben inscribirse en el registro oficial hasta el 20 de noviembre.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FPA-Forjadores-Ambientales-e1794846209747.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T16:30:27.045Z",
+   "visto": "2026-11-16T16:30:27.045Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/orquesta-sinfonica-udec-despide-la-temporada-2026-con-una-noche-de-gala/",
    "titulo": "Orquesta Sinfónica UdeC despide la Temporada 2026 con una noche de gala",
@@ -1154,20 +1183,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/talentos-udec-feria-proyectos-comunitarios.html",
-   "titulo": "Talentos UdeC: estudiantes de 26 comunas expusieron proyectos con impacto comunitario en Feria de Primavera",
-   "resumen": "327 niños y niñas presentaron trabajos en la instancia que también contó con la participación de organizaciones sociales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-talentos-UdeC-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
    "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
    "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
@@ -1220,6 +1235,20 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/talentos-udec-feria-proyectos-comunitarios.html",
+   "titulo": "Talentos UdeC: estudiantes de 26 comunas expusieron proyectos con impacto comunitario en Feria de Primavera",
+   "resumen": "327 niños y niñas presentaron trabajos en la instancia que también contó con la participación de organizaciones sociales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-talentos-UdeC-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1428,34 +1457,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-14T15:00:28.805Z",
    "visto": "2026-11-14T15:00:28.805Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/14/hombre-muere-ahogado-en-rio-huaqui-en-los-angeles-velocidad-de-corriente-le-impidio-salir-del-agua",
-   "titulo": "Hombre fallece ahogado en el río Huaqui, en Los Ángeles, tras quedar atrapado por la corriente",
-   "resumen": "Un hombre de 63 años perdió la vida ahogado mientras se bañaba en el río Huaqui, en la región del Bío Bío. La emergencia se produjo el viernes por la tarde en la ribera del río, en el sector Laguna Lavandero, en Los Ángeles. El subprefecto Jair Bravo señaló…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/hombre-muere-ahogado-rio-huaqui.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-14T15:00:28.805Z",
-   "visto": "2026-11-14T15:00:28.805Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/14/paro-camioneros-impacto-puertos-biobio.html",
-   "titulo": "Paro de camioneros generó retrasos en la logística de los puertos del Biobío, pero no detuvo sus operaciones",
-   "resumen": "San Vicente retomó despachos este viernes, mientras Lirquén reportó retrasos de clientes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-entrada-de-camiones-al-puerto-foto-carolina.jpg-e1794623587319.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T15:00:00.000Z",
-   "visto": "2026-11-16T14:50:21.603Z",
    "cats": [
     "regional"
    ],
@@ -2352,21 +2353,6 @@
    "visto": "2026-11-11T17:20:20.301Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/11/obras-mitigacion-plaza-peru-concepcion-reapertura.html",
-   "titulo": "Frente a obras inconclusas: municipio interviene Plaza Perú y proyecta nueva licitación para faenas finales",
-   "resumen": "Cuadrillas municipales ejecutan faenas provisorias en veredas, bandejón de Chacabuco y alumbrado para devolver la circulación peatonal en un mes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/obras-mitigacion-plaza-peru-concepcion-reapertura-e1794413665123.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T16:30:27.569Z",
-   "visto": "2026-11-11T16:30:27.569Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
