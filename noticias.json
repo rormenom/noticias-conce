@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T11:40:20.354Z",
+ "generado": "2026-11-16T11:50:25.945Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,10 +60,11 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 57,
-    "errores": 0,
-    "robots": 0
+    "enlaces": 156,
+    "leidas": 56,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/16/un-muerto-y-siete-heridos-a-disparos-deja-balacera-tras-rina-en-discoteca-de-santiago.shtml)"
    }
   },
   {
@@ -81,6 +82,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/tormentas-electricas-superavit-lluvias-senapred-biobio.html",
+   "titulo": "Aviso meteorológico: pronostican tormentas para el Biobío en medio de gran superávit de lluvias",
+   "resumen": "El fenómeno afectará a todos los sectores de la región hasta este martes. A la fecha, la zona supera ampliamente la medida normal anual de precipitaciones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/tormentas-electricas-superavit-lluvias-senapred-biobio-e1794829305895.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T11:50:25.945Z",
+   "visto": "2026-11-16T11:50:25.945Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/municipalidad-de-lota-se-querella-por-incendio-que-arraso-con-exescuela-especial-luis-cousino-squella",
    "titulo": "Lota presenta una querella por el incendio que destruyó la exescuela especial Luis Cousiño Squella",
@@ -162,20 +177,6 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/16/feria-de-reduccion-de-riesgos-de-desastres-invito-a-la-comunidad-a-reflexionar-sobre-prevencion-de-emergencias.html",
-   "titulo": "Feria de Reducción de Riesgos de Desastres invitó a la comunidad a reflexionar sobre prevención de emergencias",
-   "resumen": "La tercera versión de la feria reunió a organismos públicos, privados y de respuesta ante emergencias. La jornada también permitió conocer las medidas que la Universidad implementa en el Campus Concepción para prevenir incendios forestales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/feria-prevenci%C3%B3n-Dircom-UdeC.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "tecnologia"
    ],
    "local": true
   },
@@ -264,6 +265,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/16/feria-de-reduccion-de-riesgos-de-desastres-invito-a-la-comunidad-a-reflexionar-sobre-prevencion-de-emergencias.html",
+   "titulo": "Feria de Reducción de Riesgos de Desastres invitó a la comunidad a reflexionar sobre prevención de emergencias",
+   "resumen": "La tercera versión de la feria reunió a organismos públicos, privados y de respuesta ante emergencias. La jornada también permitió conocer las medidas que la Universidad implementa en el Campus Concepción para prevenir incendios forestales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/feria-prevenci%C3%B3n-Dircom-UdeC.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/destello-se-dejo-ver-en-el-cielo-la-noche-del-viernes-en-la-zona-centro-sur-del-pais/",
    "titulo": "Destello se dejó ver en el cielo la noche del viernes en la zona centro sur del país",
    "resumen": "Expertos indicaron que trató de un “meteorito de origen natural”.",
@@ -272,6 +287,20 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-16T07:10:25.000Z",
    "visto": "2026-11-16T11:20:21.685Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/evacuan-a-dos-oficiales-accidentados-en-antuco/",
+   "titulo": "Evacúan a dos oficiales accidentados en Antuco",
+   "resumen": "Se encontraban realizando ejercicios fuera de su horario de servicio.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/evacuacion-rescate-militares-sierra-velluda-antuco--768x438.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-16T07:07:53.000Z",
+   "visto": "2026-11-16T11:50:25.945Z",
    "cats": [
     "regional"
    ],
@@ -983,12 +1012,12 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/14/inseguridad-en-barrio-norte-vecinos-denuncian-reiterados-robos-en-sede-abandonada-en-el-sector.html",
-   "titulo": "Inseguridad en Barrio Norte: Vecinos denuncian reiterados robos en sede abandonada en el sector",
-   "resumen": "Muebles, electrodomésticos y medidores de agua y luz, son algunos de los objetivos que delincuentes han estado sustrayendo del inmueble. Ocupado en su tiempo como punto de encuentros recreativos para la comunidad vecinal, hoy el escenario es completamente…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-inseguirdad-barrio-norte-foto-enrique-zamora-g.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
+   "url": "https://www.canal9.cl/episodios/2026/11/14/detienen-a-hombre-acusado-de-asesinar-a-disparos-a-joven-de-25-anos-en-hualpen",
+   "titulo": "Detienen a sospechoso de matar a balazos a un joven de 25 años en Hualpén",
+   "resumen": "Un hombre de 31 años fue detenido por su presunta participación en un homicidio cometido con arma de fuego en la comuna de Hualpén, en la región del Bío Bío. El operativo fue realizado por la Brigada de Homicidios de Concepción. El ataque tuvo lugar en la vía…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detenido-homicidio-joven-hualen.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
    "fecha": "2026-11-14T15:00:28.805Z",
    "visto": "2026-11-14T15:00:28.805Z",
    "cats": [
@@ -997,12 +1026,12 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/14/detienen-a-hombre-acusado-de-asesinar-a-disparos-a-joven-de-25-anos-en-hualpen",
-   "titulo": "Detienen a sospechoso de matar a balazos a un joven de 25 años en Hualpén",
-   "resumen": "Un hombre de 31 años fue detenido por su presunta participación en un homicidio cometido con arma de fuego en la comuna de Hualpén, en la región del Bío Bío. El operativo fue realizado por la Brigada de Homicidios de Concepción. El ataque tuvo lugar en la vía…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detenido-homicidio-joven-hualen.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/14/inseguridad-en-barrio-norte-vecinos-denuncian-reiterados-robos-en-sede-abandonada-en-el-sector.html",
+   "titulo": "Inseguridad en Barrio Norte: Vecinos denuncian reiterados robos en sede abandonada en el sector",
+   "resumen": "Muebles, electrodomésticos y medidores de agua y luz, son algunos de los objetivos que delincuentes han estado sustrayendo del inmueble. Ocupado en su tiempo como punto de encuentros recreativos para la comunidad vecinal, hoy el escenario es completamente…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-inseguirdad-barrio-norte-foto-enrique-zamora-g.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-14T15:00:28.805Z",
    "visto": "2026-11-14T15:00:28.805Z",
    "cats": [
@@ -1470,34 +1499,6 @@
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/Julio-Friedmann-Enap-renuncia-foto-enap-cedida-e1794599991561.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T20:10:21.076Z",
-   "visto": "2026-11-13T20:10:21.076Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/chofer-de-micro-queda-grave-tras-ser-agredido-por-jovenes-que-se-negaron-a-pagar-pasaje-en-concepcion",
-   "titulo": "Concepción: chofer de micro queda grave tras ser agredido por jóvenes que rechazaron pagar el pasaje",
-   "resumen": "Un conductor de la línea de buses Tomé-Concepción permanece hospitalizado con lesiones graves tras ser atacado por dos jóvenes que se rehusaron a pagar el pasaje. La agresión ocurrió el jueves por la tarde en el terminal situado en la intersección de Salas y…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/restore-diseno-sin-titulo-18-600x315-1200x633-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T20:10:21.076Z",
-   "visto": "2026-11-13T20:10:21.076Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/agricultor-de-los-angeles-sufre-robo-de-maquinarias-ofrece-recompensa-por-informacion-clave",
-   "titulo": "Agricultor de Los Ángeles ofrece una recompensa tras el robo de su maquinaria: busca información clave",
-   "resumen": "El avalúo preliminar del robo que sufrió un agricultor en el sector rural La Perla, en la comuna de Los Ángeles, supera los 25 millones de pesos. Guillermo Quijada, dueño de las especies, explicó que los tractores y equipos sustraídos de su galpón tienen un…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/post-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
    "fecha": "2026-11-13T20:10:21.076Z",
    "visto": "2026-11-13T20:10:21.076Z",
    "cats": [
