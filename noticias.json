@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T14:40:31.012Z",
+ "generado": "2026-11-16T14:50:21.603Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,10 +61,9 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 56,
-    "errores": 1,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/chile/2026/11/16/ac-presidente-del-ppd-confia-en-votos-del-pdg-y-chile-vamos-para-acusar-a-rabat-los-votos-estan.shtml)"
+    "leidas": 55,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -75,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 13,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/fijan-formalizacion-para-hombre-acusado-de-intentar-envenenar-a-tres-perros-comunitarios-en-concepcion",
+   "titulo": "Concepción: fijan audiencia de formalización para acusado de intentar envenenar a tres perros comunitarios",
+   "resumen": "La audiencia de formalización de Daniel Alfredo Mahn, investigado por su eventual participación en el intento de envenenar a tres perros comunitarios en Concepción, fue programada para el próximo martes 24 de noviembre. El episodio habría tenido lugar hace un…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/contexto-agenciauno-3.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:50:21.603Z",
+   "visto": "2026-11-16T14:50:21.603Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/dos-investigaciones-por-delitos-sexuales-contra-ninas-terminan-con-dos-detenidos-en-penco-y-chiguayant",
+   "titulo": "Detienen a sospechosos en Penco y Chiguayante por investigaciones de delitos sexuales contra niñas",
+   "resumen": "Detectives de la Brigada Investigadora de Delitos Sexuales (Brisex) de la PDI de Concepción arrestaron a dos hombres adultos, acusados de delitos sexuales contra niñas de 6 y 9 años en las comunas de Penco y Chiguayante, respectivamente. El jefe de la Brisex…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-16t113141-267.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:50:21.603Z",
+   "visto": "2026-11-16T14:50:21.603Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/vecinos-de-hualpen-denuncian-proliferacion-de-zancudos-en-canal-price-por-estancamiento-de-aguas",
    "titulo": "Vecinos de Hualpén denuncian proliferación de zancudos en Canal Price por estancamiento de aguas",
@@ -871,10 +898,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/fiscalia-aclara-que-el-caso-puerto-coronel-sigue-en-curso-pese-a-requerimiento-del-alcalde-chamorro",
-   "titulo": "Fiscalía aclara que el caso Puerto Coronel sigue en curso pese a requerimiento del alcalde Chamorro",
-   "resumen": "El Tribunal Constitucional aclaró, a solicitud de la Fiscalía, el alcance de la suspensión decretada mientras resuelve el requerimiento del alcalde Boris Chamorro, quien busca evitar la suspensión de su cargo de cara al juicio oral por el llamado caso Puerto…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/boris-chamorro.png",
+   "url": "https://www.canal9.cl/episodios/2026/11/15/gobierno-anuncia-decreto-para-retirar-arboles-de-la-interfaz-y-cobrar-el-costo-a-quien-no-lo-haga",
+   "titulo": "Gobierno anuncia decreto para retirar árboles de la interfaz y cobrar el costo a quien no lo haga",
+   "resumen": "A 10 meses de los incendios forestales que afectaron a la Región del Bío Bío, se entregaron 14 viviendas en Tomé a familias que perdieron sus casas durante el megaincendio. En la ceremonia participaron el ministro de Vivienda y Urbanismo, Iván Poduje, el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-15-a-las-12.19.25%E2%80%AFp.-m.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-15T15:20:19.288Z",
@@ -886,10 +913,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/gobierno-anuncia-decreto-para-retirar-arboles-de-la-interfaz-y-cobrar-el-costo-a-quien-no-lo-haga",
-   "titulo": "Gobierno anuncia decreto para retirar árboles de la interfaz y cobrar el costo a quien no lo haga",
-   "resumen": "A 10 meses de los incendios forestales que afectaron a la Región del Bío Bío, se entregaron 14 viviendas en Tomé a familias que perdieron sus casas durante el megaincendio. En la ceremonia participaron el ministro de Vivienda y Urbanismo, Iván Poduje, el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-15-a-las-12.19.25%E2%80%AFp.-m.png",
+   "url": "https://www.canal9.cl/episodios/2026/11/15/fiscalia-aclara-que-el-caso-puerto-coronel-sigue-en-curso-pese-a-requerimiento-del-alcalde-chamorro",
+   "titulo": "Fiscalía aclara que el caso Puerto Coronel sigue en curso pese a requerimiento del alcalde Chamorro",
+   "resumen": "El Tribunal Constitucional aclaró, a solicitud de la Fiscalía, el alcance de la suspensión decretada mientras resuelve el requerimiento del alcalde Boris Chamorro, quien busca evitar la suspensión de su cargo de cara al juicio oral por el llamado caso Puerto…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/boris-chamorro.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-15T15:20:19.288Z",
@@ -1363,6 +1390,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/14/paro-camioneros-impacto-puertos-biobio.html",
+   "titulo": "Paro de camioneros generó retrasos en la logística de los puertos del Biobío, pero no detuvo sus operaciones",
+   "resumen": "San Vicente retomó despachos este viernes, mientras Lirquén reportó retrasos de clientes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-entrada-de-camiones-al-puerto-foto-carolina.jpg-e1794623587319.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T15:00:00.000Z",
+   "visto": "2026-11-16T14:50:21.603Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.tvu.cl/prensa/2026/11/14/catedra-gonzalo-rojas-estrena-nuevo-espacio-de-encuentro-poetico-con-la-primera-edicion-de-cicatrices.html",
    "titulo": "Cátedra Gonzalo Rojas estrena nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
    "resumen": "",
@@ -1413,48 +1454,6 @@
    "fuenteId": "tvu",
    "fecha": "2026-11-14T14:30:25.089Z",
    "visto": "2026-11-14T14:30:25.089Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/14/merco-salud-hospitales-de-la-region-destacan-en-ranking-nacional-de-centros-con-mejor-reputacion.html",
-   "titulo": "Merco Salud: Hospitales de la Región destacan en ranking nacional de centros con mejor reputación",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-7-fachada-hospital-regional-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-14T14:20:19.735Z",
-   "visto": "2026-11-14T14:20:19.735Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/14/detienen-a-hombre-acusado-de-asesinar-a-disparos-a-joven-de-25-anos-en-hualpen.shtml",
-   "titulo": "Detienen a hombre acusado de asesinar a disparos a joven de 25 años en Hualpén",
-   "resumen": "Un hombre de 31 años es detenido por su presunta responsabilidad en un homicidio con arma de fuego registrado en...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019353-detenido-homicidio-joven-hualen.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-14T13:29:58.000Z",
-   "visto": "2026-11-14T13:30:23.954Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/14/hombre-muere-ahogado-en-rio-huaqui-en-los-angeles-velocidad-de-corriente-le-impidio-salir-del-agua.shtml",
-   "titulo": "Hombre muere ahogado en río Huaqui en Los Ángeles: velocidad de corriente le impidió salir del agua",
-   "resumen": "Un hombre de 63 años murió ahogado cuando se bañaba en las aguas del río Huaqui en la región...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019338-hombre-muere-ahogado-rio-huaqui.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-14T12:57:11.000Z",
-   "visto": "2026-11-14T13:00:26.931Z",
    "cats": [
     "regional"
    ],
