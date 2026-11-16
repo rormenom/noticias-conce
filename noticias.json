@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T11:10:26.355Z",
+ "generado": "2026-11-16T11:20:21.685Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 155,
     "leidas": 56,
     "errores": 0,
     "robots": 0
@@ -258,6 +258,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T08:40:19.470Z",
    "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/destello-se-dejo-ver-en-el-cielo-la-noche-del-viernes-en-la-zona-centro-sur-del-pais/",
+   "titulo": "Destello se dejó ver en el cielo la noche del viernes en la zona centro sur del país",
+   "resumen": "Expertos indicaron que trató de un “meteorito de origen natural”.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/meteorito-chile-768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-16T07:10:25.000Z",
+   "visto": "2026-11-16T11:20:21.685Z",
    "cats": [
     "regional"
    ],
@@ -1482,20 +1496,6 @@
    "titulo": "Agricultor de Los Ángeles ofrece una recompensa tras el robo de su maquinaria: busca información clave",
    "resumen": "El avalúo preliminar del robo que sufrió un agricultor en el sector rural La Perla, en la comuna de Los Ángeles, supera los 25 millones de pesos. Guillermo Quijada, dueño de las especies, explicó que los tractores y equipos sustraídos de su galpón tienen un…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/post-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T20:10:21.076Z",
-   "visto": "2026-11-13T20:10:21.076Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/linea-de-buses-de-concepcion-sorteara-1-000-de-las-nuevas-tarjetas-de-pago-electronico-como-concursar",
-   "titulo": "Buses de Concepción regalarán 1.000 nuevas tarjetas de pago electrónico: conoce cómo participar",
-   "resumen": "La compañía Buses Cóndor SpA, a cargo de la línea 65 del Gran Concepción, informó que en noviembre realizará el sorteo de 1.000 tarjetas para el pago electrónico. La iniciativa se desarrolla mientras la Seremi de Transportes del Bío Bío alista la puesta en…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/sorteo-buses-condor-tarjetas-pago-electronico.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-13T20:10:21.076Z",
