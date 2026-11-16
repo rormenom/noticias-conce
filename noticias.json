@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T21:00:32.690Z",
+ "generado": "2026-11-16T21:10:23.279Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -2327,20 +2327,6 @@
    "visto": "2026-11-11T21:40:20.013Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/11/futbol-femenino-local-liga-unico.html",
-   "titulo": "Ocho clubes de fútbol femenino local disputarán playoffs de Liga ÚNICO",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-11-at-5.19.11-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T21:08:35.581Z",
-   "visto": "2026-11-11T21:08:35.581Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
