@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T18:10:20.466Z",
+ "generado": "2026-11-16T18:20:22.502Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/estamos-muy-agradecidos-15-iniciativas-sociales-de-contulmo-y-canete-se-adjudican-fondos-de-cmpc",
+   "titulo": "Quince proyectos sociales de Contulmo y Cañete recibirán financiamiento de CMPC",
+   "resumen": "El 10 de noviembre, CMPC dio a conocer los 15 proyectos de organizaciones sociales de Contulmo y Cañete, comunas de la provincia de Arauco (región del Bío Bío), que obtuvieron financiamiento de la compañía. La iniciativa apunta a impulsar propuestas que…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/fondos-cmpc-contulmo-canete.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T18:20:22.502Z",
+   "visto": "2026-11-16T18:20:22.502Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/estamos-muy-agradecidos-15-iniciativas-sociales-de-contulmo-y-canete-se-adjudican-fondos-de-cmpc.shtml",
    "titulo": "\"Estamos muy agradecidos\": 15 iniciativas sociales de Contulmo y Cañete se adjudican fondos de CMPC",
@@ -899,21 +913,6 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/colegio-creacion-y-san-ignacio-se-coronaron-campeones-de-la-copa-interescolar-de-basquetbol-udec.html",
-   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-15T18:30:24.942Z",
-   "visto": "2026-11-15T18:30:24.942Z",
-   "cats": [
-    "regional",
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/15/bajo-historico-aprobacion-de-jose-antonio-kast-cae-al-18-y-desaprobacion-alcanza-el-72.html",
    "titulo": "Bajo histórico: aprobación de José Antonio Kast cae al 18% y desaprobación alcanza el 72%",
    "resumen": "",
@@ -925,6 +924,21 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/15/colegio-creacion-y-san-ignacio-se-coronaron-campeones-de-la-copa-interescolar-de-basquetbol-udec.html",
+   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-15T18:30:24.942Z",
+   "visto": "2026-11-15T18:30:24.942Z",
+   "cats": [
+    "regional",
+    "deportes"
    ],
    "local": true
   },
@@ -1431,20 +1445,6 @@
    "visto": "2026-11-14T18:50:20.735Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/14/homicidios-en-biobio-se-ampliaron-detenciones-de-imputados",
-   "titulo": "Homicidios en Biobío: se ampliaron detenciones de imputados",
-   "resumen": "Se ampliaron las detenciones de los sujetos implicados en los últimos homicidios ocurridos en el Biobío. Uno de ellos, quien mató a su víctima con un arma de fuego en Hualpén y otro que utilizó una herramienta agrícola cortante en Talcahuano. En ambos casos…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/DETENIDO-HOMICIDIO.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-14T17:10:20.084Z",
-   "visto": "2026-11-14T17:10:20.084Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
