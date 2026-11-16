@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T20:50:21.189Z",
+ "generado": "2026-11-16T21:00:32.690Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
+    "enlaces": 157,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,35 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/loest-anillamiento-chorlo-nevado-biobio-islas.html",
+   "titulo": "FOTOS | Anillamiento científico busca conocer los movimientos y amenazas del chorlo nevado en Chile",
+   "resumen": "Una iniciativa del Laboratorio de Ornitología y Ecología Social Territorial contempla expediciones desde Arica hasta Los Lagos. En el Biobío, el trabajo ya permitió marcar cuatro ejemplares en Isla Santa María.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Chorlo-nevado-Katherine-sanhueza_8-e1794860430202.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T21:00:32.690Z",
+   "visto": "2026-11-16T21:00:32.690Z",
+   "cats": [
+    "regional",
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/seremis-denuncian-ante-fiscalia-agresion-a-conductor-de-transportes-tome/",
+   "titulo": "Seremis denuncian ante Fiscalía agresión a conductor de Transportes Tomé",
+   "resumen": "Transportes y Seguridad Pública.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/seremis-fiscalia-denuncia--768x570.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-16T20:55:15.000Z",
+   "visto": "2026-11-16T21:00:32.690Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/concepcion-cupos-licencias-conducir-alta-demanda.html",
    "titulo": "Concepción: 55 cupos para renovar licencias se agotaron en cinco horas",
@@ -1395,20 +1424,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/pdi-detuvo-a-dos-hombres-por-delitos-sexuales-contra-menores-de-14-anos-en-penco-y-chiguayante.html",
-   "titulo": "PDI detuvo a dos hombres por delitos sexuales contra menores de 14 años en Penco y Chiguayante",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pdi-descarta-terceros-joven-fallecida-concepcion-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T15:00:00.000Z",
-   "visto": "2026-11-16T00:20:20.383Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
    "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
    "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
@@ -1417,20 +1432,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-15T15:00:00.000Z",
    "visto": "2026-11-16T20:30:28.579Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/juzgado-de-garantia-de-talcahuano-decreta-la-prision-preventiva-de-imputado-por-homicidio-simple-en-monte-redondo.html",
-   "titulo": "Juzgado de Garantía de Talcahuano decreta la prisión preventiva de imputado por homicidio simple en Monte Redondo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/08/Nf04sBBWx3nO7SnmuPSE.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T15:00:00.000Z",
-   "visto": "2026-11-16T00:11:12.148Z",
    "cats": [
     "regional"
    ],
