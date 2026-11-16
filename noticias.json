@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T20:10:20.710Z",
+ "generado": "2026-11-16T20:20:22.080Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 56,
+    "enlaces": 157,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -585,6 +585,20 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-16T14:30:30.231Z",
    "visto": "2026-11-16T14:30:30.231Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/pdi-investiga-denuncia-de-profanacion-de-tumbas-en-el-cementerio-de-los-angeles/",
+   "titulo": "PDI investiga denuncia de profanación de tumbas en el cementerio de Los Ángeles",
+   "resumen": "Desconocidos habrían sustraído joyas avaluadas en $30 millones: Según lo indicado por la Policía de Investigaciones, los individuos forzaron el acceso a un mausoleo familiar y causaron daños en dos nichos.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/nichos-cementerio-los-angeles-300x225.avif",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-16T14:27:56.000Z",
+   "visto": "2026-11-16T20:20:22.080Z",
    "cats": [
     "regional"
    ],
@@ -1419,20 +1433,6 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
-   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
-   "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
