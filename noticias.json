@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T20:00:32.527Z",
+ "generado": "2026-11-16T20:10:20.710Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 57,
+    "enlaces": 156,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/con-125-votos-a-favor-camara-baja-aprueba-iniciativa-para-contener-el-precio-de-gasolinas.html",
+   "titulo": "Con 125 votos a favor: Cámara Baja aprueba iniciativa para contener el precio de gasolinas",
+   "resumen": "El texto logró superar su trámite con 125 votos a favor y solo 3 en contra. El Ejecutivo valoró que la iniciativa no sufriera modificaciones para acelerar su avance.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/con-125-votos-a-favor-camara-baja-aprueba-iniciativa-para-contener-el-precio-de-gasolinas-2-e1794859355441.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T20:10:20.710Z",
+   "visto": "2026-11-16T20:10:20.710Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/dos-hospitales-del-biobio-destacan-entre-los-cinco-centros-publicos-de-salud-con-mejor-reputacion-de-chile",
+   "titulo": "Dos hospitales del Biobío destacan entre los cinco centros públicos de salud con mejor reputación de Chile",
+   "resumen": "El Hospital Las Higueras de Talcahuano y el Hospital Clínico Regional Guillermo Grant Benavente de Concepción fueron reconocidos entre los cinco hospitales públicos con mejor reputación de Chile, según los resultados del ranking Merco Salud 2026. Ambos…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/hsingenieria-cl-por-alcalde-tilda-de-graves-irregularidades-en-construccion-de-hospital-higueras-de-talcahuano-1.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T20:10:20.710Z",
+   "visto": "2026-11-16T20:10:20.710Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/mas-de-200-aserraderos-cerrados-y-100-mil-hectareas-quemadas-sector-forestal-busca-reactivarse-en-expocorma-2026",
    "titulo": "Más de 200 aserraderos cerrados y 100 mil hectáreas quemadas: sector forestal busca reactivarse en ExpoCorma 2026",
@@ -535,10 +563,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/ola-de-robos-afecta-a-iglesias-de-lota-denuncian-falta-de-vigilancia-policial-y-exigen-medidas-de-seguridad",
-   "titulo": "Ola de robos afecta a iglesias de Lota: denuncian falta de vigilancia policial y exigen medidas de seguridad",
-   "resumen": "Al menos una docena de robos han afectado a iglesias evangélicas y católicas de Lota durante las últimas semanas, principalmente en el sector céntrico de la comuna. La reiteración de estos delitos ha generado preocupación entre las comunidades religiosas, que…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/5555.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/16/salud-del-biobio-realizo-59-fiscalizaciones-a-hogares-de-adultos-mayores-12-terminaron-en-sumarios",
+   "titulo": "Salud del Biobío realizó 59 fiscalizaciones a hogares de adultos mayores: 12 terminaron en sumarios",
+   "resumen": "Un total de 59 fiscalizaciones a Establecimientos de Larga Estadía para Adultos Mayores (ELEAM) ha realizado durante este año la Seremi de Salud del Biobío, procedimientos que han derivado en 12 sumarios sanitarios, según informó la autoridad regional. Las…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.22-AM-e1794839280120.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-16T14:30:30.231Z",
@@ -549,10 +577,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/salud-del-biobio-realizo-59-fiscalizaciones-a-hogares-de-adultos-mayores-12-terminaron-en-sumarios",
-   "titulo": "Salud del Biobío realizó 59 fiscalizaciones a hogares de adultos mayores: 12 terminaron en sumarios",
-   "resumen": "Un total de 59 fiscalizaciones a Establecimientos de Larga Estadía para Adultos Mayores (ELEAM) ha realizado durante este año la Seremi de Salud del Biobío, procedimientos que han derivado en 12 sumarios sanitarios, según informó la autoridad regional. Las…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.22-AM-e1794839280120.jpeg",
+   "url": "https://www.canal9.cl/episodios/2026/11/16/ola-de-robos-afecta-a-iglesias-de-lota-denuncian-falta-de-vigilancia-policial-y-exigen-medidas-de-seguridad",
+   "titulo": "Ola de robos afecta a iglesias de Lota: denuncian falta de vigilancia policial y exigen medidas de seguridad",
+   "resumen": "Al menos una docena de robos han afectado a iglesias evangélicas y católicas de Lota durante las últimas semanas, principalmente en el sector céntrico de la comuna. La reiteración de estos delitos ha generado preocupación entre las comunidades religiosas, que…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/5555.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-16T14:30:30.231Z",
@@ -1447,20 +1475,6 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/gran-concepcion-ranking-global-ciudades.html",
-   "titulo": "Entre 2024 y 2026: Gran Concepción perdió 106 puestos en ranking global de ciudades",
-   "resumen": "El área metropolitana penquista pasó del lugar 322 al 428 en el Oxford Economics Global Cities Index. Mientras economía y gobernanza mejoraron sus posiciones, capital humano, calidad de vida y medioambiente registraron retrocesos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-aerea-de-Concepci%C3%B3n-foto-diario-Concepci%C3%B3n.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
