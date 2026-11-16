@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T00:11:12.148Z",
+ "generado": "2026-11-16T00:20:20.383Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 55,
+    "enlaces": 56,
     "leidas": 3,
     "errores": 0,
     "robots": 0
@@ -417,6 +417,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-15T15:00:00.000Z",
    "visto": "2026-11-16T00:11:12.148Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/pdi-detuvo-a-dos-hombres-por-delitos-sexuales-contra-menores-de-14-anos-en-penco-y-chiguayante.html",
+   "titulo": "PDI detuvo a dos hombres por delitos sexuales contra menores de 14 años en Penco y Chiguayante",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pdi-descarta-terceros-joven-fallecida-concepcion-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T15:00:00.000Z",
+   "visto": "2026-11-16T00:20:20.383Z",
    "cats": [
     "regional"
    ],
@@ -1418,20 +1432,6 @@
    "visto": "2026-11-13T18:20:22.393Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/talcahuano-anuncia-medidas-por-basural-ilegal-y-descarta-que-este-donde-se-firmo-la-independencia.shtml",
-   "titulo": "Talcahuano anuncia medidas por basural ilegal y descarta que esté donde se firmó la independencia",
-   "resumen": "Un basural ubicado en calle 2 de Talcahuano, junto a Cementos Bío Bío, fue visitado por el alcalde de la...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7018516-talcahuano-anuncia-medidas-por-basural-ilegal-y-descarta-que-este-donde-se-firmo-la-independencia.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-13T17:39:40.000Z",
-   "visto": "2026-11-13T17:40:20.344Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
