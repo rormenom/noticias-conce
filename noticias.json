@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T20:40:22.206Z",
+ "generado": "2026-11-16T20:50:21.189Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/concepcion-cupos-licencias-conducir-alta-demanda.html",
+   "titulo": "Concepción: 55 cupos para renovar licencias se agotaron en cinco horas",
+   "resumen": "La Municipalidad habilitó las reservas para la jornada extraordinaria de este sábado 21 de noviembre, pero la alta demanda dejó a numerosos vecinos sin posibilidad de acceder a una hora.",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/07/pag-8-licencias-de-conducir-contexto-foto-diario-la-discusi%C3%B3n-de-chillan-e1753036336382.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T20:50:21.189Z",
+   "visto": "2026-11-16T20:50:21.189Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/municipios-subdere-modernizacion.html",
    "titulo": "Municipios podrán optar a financiamiento para modernización y ciberseguridad",
@@ -928,20 +942,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/habra-revancha-basquetbol-udec-se-medira-en-las-semifinales-contra-leones.html",
-   "titulo": "Habrá revancha: básquetbol UdeC se medirá en las semifinales contra Leones",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/basquet-udec.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/iniciativas-ciencia-comunidades-biobio.html",
    "titulo": "Aprendizaje más allá de las aulas: iniciativas acercan el conocimiento a distintas comunidades del Biobío",
    "resumen": "Según especialistas, experiencias recreativas, la exploración del entorno y la interacción con otros individuos ofrecen oportunidades tanto para aprender y desarrollar habilidades como para fortalecer vínculos.",
@@ -952,6 +952,20 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/habra-revancha-basquetbol-udec-se-medira-en-las-semifinales-contra-leones.html",
+   "titulo": "Habrá revancha: básquetbol UdeC se medirá en las semifinales contra Leones",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/basquet-udec.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1395,20 +1409,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/juzgado-de-garantia-de-talcahuano-decreta-la-prision-preventiva-de-imputado-por-homicidio-simple-en-monte-redondo.html",
-   "titulo": "Juzgado de Garantía de Talcahuano decreta la prisión preventiva de imputado por homicidio simple en Monte Redondo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/08/Nf04sBBWx3nO7SnmuPSE.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T15:00:00.000Z",
-   "visto": "2026-11-16T00:11:12.148Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
    "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
    "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
@@ -1423,14 +1423,14 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/15/rescatan-por-tierra-a-dos-oficiales-accidentados-en-volcan-antuco-clima-impide-operativo-aereo.shtml",
-   "titulo": "Rescatan por tierra a dos oficiales accidentados en Volcán Antuco: clima impide operativo aéreo",
-   "resumen": "Dos oficiales del Ejército de Chile del destacamento 17 de Los Ángeles, accidentados ayer en el volcán Antuco, están siendo...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019865-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-15T13:19:35.000Z",
-   "visto": "2026-11-15T13:20:19.456Z",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/juzgado-de-garantia-de-talcahuano-decreta-la-prision-preventiva-de-imputado-por-homicidio-simple-en-monte-redondo.html",
+   "titulo": "Juzgado de Garantía de Talcahuano decreta la prisión preventiva de imputado por homicidio simple en Monte Redondo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/08/Nf04sBBWx3nO7SnmuPSE.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T15:00:00.000Z",
+   "visto": "2026-11-16T00:11:12.148Z",
    "cats": [
     "regional"
    ],
