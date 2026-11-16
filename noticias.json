@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T12:30:29.984Z",
+ "generado": "2026-11-16T12:40:22.716Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -759,6 +759,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/ivan-poduje-reconstruccion-biobio.html",
+   "titulo": "“Superamos las mil viviendas iniciadas en Biobío”: Iván Poduje destaca avance en reconstrucción",
+   "resumen": "En su reciente visita titular del Minvu abordó el debate presupuestario y la reactivación del mercado inmobiliario, entre otros aspectos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ivan-poduje-ministro-vivienda.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/gran-concepcion-ranking-global-ciudades.html",
    "titulo": "Entre 2024 y 2026: Gran Concepción perdió 106 puestos en ranking global de ciudades",
    "resumen": "El área metropolitana penquista pasó del lugar 322 al 428 en el Oxford Economics Global Cities Index. Mientras economía y gobernanza mejoraron sus posiciones, capital humano, calidad de vida y medioambiente registraron retrocesos.",
@@ -797,20 +811,6 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/ivan-poduje-reconstruccion-biobio.html",
-   "titulo": "“Superamos las mil viviendas iniciadas en Biobío”: Iván Poduje destaca avance en reconstrucción",
-   "resumen": "En su reciente visita titular del Minvu abordó el debate presupuestario y la reactivación del mercado inmobiliario, entre otros aspectos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ivan-poduje-ministro-vivienda.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   },
