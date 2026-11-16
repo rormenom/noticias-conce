@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-16T19:10:21.224Z",
+ "generado": "2026-11-16T19:20:21.187Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "HTTP 507",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -61,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 152,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -82,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/biobio-sigue-sin-delegado-presidencial-titular-a-mas-de-dos-semanas-de-la-renuncia-de-anativia",
+   "titulo": "Biobío sigue sin delegado presidencial titular a más de dos semanas de la renuncia de Anativia",
+   "resumen": "A más de dos semanas de la renuncia de Julio Anativia a la Delegación Presidencial Regional del Biobío, el Gobierno aún no oficializa el nombramiento de su reemplazante. La demora ha generado cuestionamientos políticos, mientras Juan Pablo Mellado continúa…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Delegacion-presidencial-del-Biobio-e1794856240888.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T19:20:21.187Z",
+   "visto": "2026-11-16T19:20:21.187Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/transportistas-del-biobio-llaman-a-rechazar-proyecto-de-ley-por-combustibles-acusan-que-no-responde-a-sus-demandas",
    "titulo": "Transportistas del Biobío llaman a rechazar proyecto de ley por combustibles: acusan que no responde a sus demandas",
@@ -1431,20 +1445,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-15T03:42:50.000Z",
    "visto": "2026-11-15T03:50:19.283Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/14/empresa-familiar-de-los-angeles-obtiene-reconocimiento-mundial-por-su-carne-wagyu-gano-cinco-medallas-en-competencia-internacional.html",
-   "titulo": "Empresa familiar de Los Ángeles obtiene reconocimiento mundial por su carne Wagyu: ganó cinco medallas en competencia internacional",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pexels-alex-gonzo-1518705084-31313528.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T23:50:20.387Z",
-   "visto": "2026-11-14T23:50:20.387Z",
    "cats": [
     "regional"
    ],
