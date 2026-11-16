@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T22:50:22.002Z",
+ "generado": "2026-11-16T23:00:38.004Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
+    "enlaces": 156,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/pequenos-transportistas-del-bio-bio-llaman-a-rechazar-ley-que-congela-alza-de-combustibles.shtml",
+   "titulo": "Pequeños transportistas del Bío Bío llaman a rechazar ley que congela alza de combustibles",
+   "resumen": "Pequeños transportistas de la región del Bío Bío hicieron un llamado a parlamentarios a rechazar la ley para frenar...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7021637-pequenos-transportistas-rechazar-ley-co9ngela-precios-combustibles.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-16T22:52:41.000Z",
+   "visto": "2026-11-16T23:00:38.004Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/supuesto-apagon-mundial-como-detectar-noticias-falsas.html",
    "titulo": "Supuesto apagón masivo: claves para detectar información falsa en redes sociales",
@@ -1447,20 +1461,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-15T15:20:19.288Z",
    "visto": "2026-11-15T15:20:19.288Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/expertos-aseguran-que-jurel-migro-al-sur-y-a-mayor-profundidad-por-el-nino-sin-mejoras-hasta-marzo",
-   "titulo": "Expertos aseguran que jurel migró al sur y a mayor profundidad por El Niño, sin mejoras hasta marzo",
-   "resumen": "Encontrar jurel en conserva en los supermercados sigue siendo difícil: hay poca variedad y, en algunos casos, solo se encuentra caballa. Consumidores consultados hablaron de una merma del producto y una de ellas, que viene de Osorno, dijo que allá el jurel ya…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/08/crisis-del-jurel-gobierno-resolucion-flexibilidad-pesca-industrial-artesanal-jurel.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T15:10:21.025Z",
-   "visto": "2026-11-15T15:10:21.025Z",
    "cats": [
     "regional"
    ],
