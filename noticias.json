@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T11:50:25.945Z",
+ "generado": "2026-11-16T12:10:20.678Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,11 +60,10 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 56,
-    "errores": 1,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/16/un-muerto-y-siete-heridos-a-disparos-deja-balacera-tras-rina-en-discoteca-de-santiago.shtml)"
+    "enlaces": 155,
+    "leidas": 58,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -135,6 +134,20 @@
    "visto": "2026-11-16T09:10:21.163Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/artistas-circenses-dan-ultimo-adios-al-tony-pulguita-con-una-caravana/",
+   "titulo": "Artistas circenses dan último adiós al Tony Pulguita con una caravana",
+   "resumen": "José Ramón Arellano fue recordado por su impacto en la cultura del Gran Concepción.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/muere-tony-pulguita--768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-16T08:44:36.000Z",
+   "visto": "2026-11-16T12:10:20.678Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -275,6 +288,20 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/fernandez-vial-queda-a-un-paso-del-ascenso-a-tercera-a/",
+   "titulo": "Fernández Vial queda a un paso del ascenso a Tercera A",
+   "resumen": "El Almirante buscará sellar su regreso: El cuadro aurinegro consiguió una importante victoria ante Municipal Puente Alto en Concepción y quedó en una posición expectante para definir su futuro en el fútbol nacional. Un empate en la revancha le permitirá…",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/FVial-ascenso-2027.JPG-850x500-1-768x452.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-16T08:04:10.000Z",
+   "visto": "2026-11-16T12:10:20.678Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
