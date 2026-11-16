@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T15:00:34.482Z",
+ "generado": "2026-11-16T15:10:22.152Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/corte-de-concepcion-falla-contra-empresa-del-retail-que-despidio-a-trabajadora-por-atrasos-reiterados-2",
+   "titulo": "Corte de Concepción falla contra empresa del retail que despidió a trabajadora por atrasos reiterados",
+   "resumen": "La Corte de Apelaciones de Concepción rechazó un recurso presentado por una empresa del retail y confirmó la sentencia que declaró indebido el despido de una trabajadora por atrasos reiterados. El tribunal consideró que, si bien existieron incumplimientos en…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/atrasos.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T15:10:22.152Z",
+   "visto": "2026-11-16T15:10:22.152Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/por-18-puestos-de-trabajo-cientos-de-personas-hacen-fila-en-el-centro-de-concepcion",
    "titulo": "Por 18 puestos de trabajo: cientos de personas hacen fila en el centro de Concepción",
@@ -1436,20 +1450,6 @@
    "titulo": "Paro de camioneros generó retrasos en la logística de los puertos de la Región, pero no detuvo sus operaciones",
    "resumen": "",
    "imagen": "https://assets.tvu.cl/2026/11/pag-13-entrada-de-camiones-al-puerto-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-14T14:30:25.089Z",
-   "visto": "2026-11-14T14:30:25.089Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/14/diabetes-en-subida-y-cada-vez-mas-precoz-promover-habitos-sanos-para-prevenir-es-un-reto-vital.html",
-   "titulo": "Diabetes en subida y cada vez más precoz: promover hábitos sanos para prevenir es un reto vital",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-11-diabetes-foot-cc.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-14T14:30:25.089Z",
