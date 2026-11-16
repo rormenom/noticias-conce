@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T18:40:22.330Z",
+ "generado": "2026-11-16T18:50:23.330Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 156,
     "leidas": 56,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 14,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/aprueban-proyecto-freno-alza-combustibles.html",
+   "titulo": "“El precio de las gasolinas baja 40 pesos este jueves”: aprueban en Comisión de Hacienda proyecto que frena alzas hasta 2027",
+   "resumen": "La iniciativa fue visada por unanimidad en la Comisión de Hacienda. El proyecto anula el incremento aplicado a principios de noviembre y modifica el Mepco.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/aprueban-proyecto-freno-alza-combustibles-baja-40-pesos.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T18:50:23.330Z",
+   "visto": "2026-11-16T18:50:23.330Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/biobio-registra-75-homicidios-en-2026-ocho-crimenes-ocurrieron-solo-durante-noviembre",
+   "titulo": "Biobío registra 75 homicidios en 2026: ocho crímenes ocurrieron solo durante noviembre",
+   "resumen": "Un total de 75 homicidios se han registrado en la región del Biobío durante 2026, cifra que representa una disminución de 12 casos respecto al mismo periodo del año anterior. Sin embargo, noviembre acumula ocho víctimas, siendo el caso más reciente el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/tasa-de-victimas-de-homicidios-c.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T18:50:23.330Z",
+   "visto": "2026-11-16T18:50:23.330Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/formalizan-a-hombre-por-femicidio-frustrado-en-hualpen-tenia-orden-de-alejamiento-de-la-victima",
    "titulo": "Formalizan a hombre por femicidio frustrado en Hualpén: tenía orden de alejamiento de la víctima",
@@ -1422,20 +1450,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/14/un-femicidio-frustrado-se-registro-en-hualpen",
-   "titulo": "Un femicidio frustrado se registró en Hualpén",
-   "resumen": "Un hombre fue detenido por el femicidio frustrado de su cónyuge en Hualpén. El hecho se registró durante la mañana de este sábado en el sector Curanilahue, donde la víctima recibió golpes de puños en su cabeza y rostro, quedando con heridas de gravedad. El…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/09/carabineros-3.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-14T22:10:17.990Z",
-   "visto": "2026-11-14T22:10:17.990Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/14/diputada-betancurt-busca-endurecer-sanciones-por-vender-cigarrillos-y-vapeadores-a-menores-de-edad.shtml",
    "titulo": "Diputada Betancurt busca endurecer sanciones por vender cigarrillos y vapeadores a menores de edad",
    "resumen": "La diputada Lilian Betancurt (PDG), representante del Distrito 21 de la región del Biobío, presentó un proyecto de ley que...",
@@ -2297,20 +2311,6 @@
    "visto": "2026-11-11T19:10:21.816Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/camioneros-asamblea-concepcion-exigen-congelar-diesel.html",
-   "titulo": "¿Se suman al paro? Gremios de camiones se reúnen en Concepción y supeditan movilizaciones a cita con Interior",
-   "resumen": "Tras reunirse en Concepción, la CNDC y CNTC acordaron exigir un congelamiento extendido del combustible antes de definir eventual adhesión al paro.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/camioneros-1-e1794421945981.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T18:50:20.914Z",
-   "visto": "2026-11-11T18:50:20.914Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
