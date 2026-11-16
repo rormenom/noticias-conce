@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T19:50:22.315Z",
+ "generado": "2026-11-16T20:00:32.527Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 56,
+    "enlaces": 155,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/mas-de-200-aserraderos-cerrados-y-100-mil-hectareas-quemadas-sector-forestal-busca-reactivarse-en-expocorma-2026",
+   "titulo": "Más de 200 aserraderos cerrados y 100 mil hectáreas quemadas: sector forestal busca reactivarse en ExpoCorma 2026",
+   "resumen": "En medio de un complejo escenario marcado por la pérdida de empleos, el cierre de aserraderos y los daños provocados por los incendios forestales, este miércoles 18 de noviembre comenzará una nueva versión de ExpoCorma 2026 en la región del Biobío. Desde el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/55276126165_4f9ab6fa58_z.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T20:00:32.527Z",
+   "visto": "2026-11-16T20:00:32.527Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/simulacro-erupcion-volcan-antuco-alerta-sae.html",
    "titulo": "Simulacro de erupción del Volcán Antuco: Senapred activará alerta SAE este martes a las 11:00 horas",
@@ -1441,20 +1455,6 @@
    "titulo": "Entre 2024 y 2026: Gran Concepción perdió 106 puestos en ranking global de ciudades",
    "resumen": "El área metropolitana penquista pasó del lugar 322 al 428 en el Oxford Economics Global Cities Index. Mientras economía y gobernanza mejoraron sus posiciones, capital humano, calidad de vida y medioambiente registraron retrocesos.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-aerea-de-Concepci%C3%B3n-foto-diario-Concepci%C3%B3n.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/slep-andalien-costa-transporte-escolar-denuncias.html",
-   "titulo": "Apoderados del SLEP Andalién Costa exigen fiscalización y transparencia en licitación del transporte escolar",
-   "resumen": "Familias de Lota, Coronel, Santa Juana y San Pedro de la Paz denuncian problemas con los buses que trasladan a sus hijos. Desde el Servicio Local aseguraron que cuentan con un encargado dedicado a inspeccionar las máquinas en terreno.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-micro-transporte-escolar-foto-cedida.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-15T08:40:23.242Z",
