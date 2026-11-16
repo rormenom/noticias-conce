@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T13:50:20.688Z",
+ "generado": "2026-11-16T14:00:37.612Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 161,
-    "leidas": 58,
+    "enlaces": 160,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,43 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 36,
-    "leidas": 12,
+    "enlaces": 35,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/concepcion-sera-escenario-del-tercer-foro-hispanoamericano-de-periodismo-de-ciencia-en-la-ucsc",
+   "titulo": "Concepción será escenario del Tercer Foro Hispanoamericano de Periodismo de Ciencia en la UCSC",
+   "resumen": "La Universidad Católica de la Santísima Concepción (UCSC) será sede, este 16 y 17 de noviembre, del Tercer Foro Hispanoamericano de Periodismo Científico, que lleva por lema «El océano en primera plana». En conversación con Matinal Nuestra Casa, el jefe de la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/3-foro-de-periodismo-de-ciencias-ucsc.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:00:37.612Z",
+   "visto": "2026-11-16T14:00:37.612Z",
+   "cats": [
+    "regional",
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/los-angeles-pdi-investiga-millonario-robo-tras-profanacion-de-tumbas-en-cementerio",
+   "titulo": "Los Ángeles: PDI investiga millonario robo tras profanación de tumbas en Cementerio",
+   "resumen": "La Policía de Investigaciones (PDI) desarrolla diversas diligencias para esclarecer un millonario robo ocurrido al interior del Cementerio General de Los Ángeles, en la región del Biobío, luego de que desconocidos profanaran sepulturas pertenecientes…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/17161E5D4C43416D17150F55564941761F121A18504144701112-1024x576-1-e1794837034594.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:00:37.612Z",
+   "visto": "2026-11-16T14:00:37.612Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/preocupacion-por-abandono-de-memorial-27f-en-concepcion-denuncian-insalubridad-robos-y-pernoctacion",
    "titulo": "Preocupación por Memorial 27F en Concepción: denuncian insalubridad, robos y pernoctación",
@@ -1491,34 +1520,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/decretan-duelo-comunal-en-concepcion-tras-el-fallecimiento-de-reconocido-payaso-tony-pulguita.shtml",
-   "titulo": "Decretan duelo comunal en Concepción tras el fallecimiento de reconocido payaso, Tony Pulguita",
-   "resumen": "José Ramón Arellano Rodríguez, más conocido por su nombre artístico Tony Pulguita, falleció durante la tarde de...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019026-tonypulguita-en-instagram.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-13T21:31:59.000Z",
-   "visto": "2026-11-13T21:40:18.847Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/hombre-muere-tras-ataque-a-balazos-en-hualpen-activan-protocolo-de-seguridad-en-colegio-cercano",
-   "titulo": "Hombre muere tras ataque a balazos en Hualpén: activan protocolo de seguridad en colegio cercano",
-   "resumen": "Un nuevo homicidio se registró en la comuna de Hualpén, en el Gran Concepción, luego de que un hombre joven falleciera tras recibir múltiples impactos balísticos. El ataque ocurrió en las cercanías de la Escuela República del Perú, lo que obligó a activar…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/PHOTO-2026-11-13-16-24-47-e1794603761339.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T21:10:23.248Z",
-   "visto": "2026-11-13T21:10:23.248Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/udec-conservacion-biodiversidad-festival-ladera-sur.html",
    "titulo": "Universidad de Concepción lleva su trabajo en conservación y biodiversidad al Festival Ladera Sur",
    "resumen": "A través de la Facultad de Ciencias Forestales, Campus Naturaleza y el Centro Copas Coastal, la Casa de Estudios penquista participa en el encuentro que se realizará hoy y hasta el domingo en Santiago, donde dará a conocer sus investigaciones e iniciativas…",
@@ -2322,21 +2323,6 @@
    "visto": "2026-11-11T14:10:22.753Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/11/con-la-celebracion-de-su-25-aniversario-contulmo-se-prepara-para-cerrar-el-ano-con-la-tradicional-fiesta-de-la-frutilla-blanca/",
-   "titulo": "Contulmo se prepara para cerrar el año con la tradicional Fiesta de la Frutilla Blanca",
-   "resumen": "Con la celebración de su 25° aniversario.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Nota-Fiesta-de-la-Frutilla-Blanca-2026-768x432.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-11T13:54:16.000Z",
-   "visto": "2026-11-11T14:50:22.689Z",
-   "cats": [
-    "cultura",
-    "regional"
    ],
    "local": true
   }
