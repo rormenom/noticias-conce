@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T19:30:27.212Z",
+ "generado": "2026-11-16T19:50:22.315Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 154,
     "leidas": 56,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/simulacro-erupcion-volcan-antuco-alerta-sae.html",
+   "titulo": "Simulacro de erupción del Volcán Antuco: Senapred activará alerta SAE este martes a las 11:00 horas",
+   "resumen": "Este martes a las 11:00 horas se realizará un simulacro de erupción volcánica en Antuco. Conoce los detalles de la alerta SAE y las recomendaciones de Senapred.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-12.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T19:50:22.315Z",
+   "visto": "2026-11-16T19:50:22.315Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/vecinos-de-vipla-y-geochile-en-penco-denuncian-retrasos-en-demolicion-serviu-fija-nueva-fecha-para-diciembre",
+   "titulo": "Vecinos de Vipla y Geochile en Penco denuncian retrasos en demolición: Serviu fija nueva fecha para diciembre",
+   "resumen": "Preocupación existe entre los vecinos de los conjuntos habitacionales Vipla y Geochile, en la comuna de Penco, debido al incumplimiento de los plazos comprometidos para la demolición de sus antiguas viviendas, afectadas por los incendios forestales. Desde el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/FOTO_06-6.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T19:50:22.315Z",
+   "visto": "2026-11-16T19:50:22.315Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/vial-visita-puente-alto-numeros-local.html",
    "titulo": "Vial visitará el sábado a Puente Alto: sus números como local",
@@ -605,6 +633,20 @@
    "local": true
   },
   {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/los-angeles-pdi-investiga-millonario-robo-tras-profanacion-de-tumbas-en-cementerio",
+   "titulo": "Los Ángeles: PDI investiga millonario robo tras profanación de tumbas en Cementerio",
+   "resumen": "La Policía de Investigaciones (PDI) desarrolla diversas diligencias para esclarecer un millonario robo ocurrido al interior del Cementerio General de Los Ángeles, en la región del Biobío, luego de que desconocidos profanaran sepulturas pertenecientes…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/17161E5D4C43416D17150F55564941761F121A18504144701112-1024x576-1-e1794837034594.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:00:37.612Z",
+   "visto": "2026-11-16T14:00:37.612Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/16/concepcion-sera-escenario-del-tercer-foro-hispanoamericano-de-periodismo-de-ciencia-en-la-ucsc",
    "titulo": "Concepción será escenario del Tercer Foro Hispanoamericano de Periodismo de Ciencia en la UCSC",
    "resumen": "La Universidad Católica de la Santísima Concepción (UCSC) será sede, este 16 y 17 de noviembre, del Tercer Foro Hispanoamericano de Periodismo Científico, que lleva por lema «El océano en primera plana». En conversación con Matinal Nuestra Casa, el jefe de la…",
@@ -616,20 +658,6 @@
    "cats": [
     "regional",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/los-angeles-pdi-investiga-millonario-robo-tras-profanacion-de-tumbas-en-cementerio",
-   "titulo": "Los Ángeles: PDI investiga millonario robo tras profanación de tumbas en Cementerio",
-   "resumen": "La Policía de Investigaciones (PDI) desarrolla diversas diligencias para esclarecer un millonario robo ocurrido al interior del Cementerio General de Los Ángeles, en la región del Biobío, luego de que desconocidos profanaran sepulturas pertenecientes…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/17161E5D4C43416D17150F55564941761F121A18504144701112-1024x576-1-e1794837034594.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:00:37.612Z",
-   "visto": "2026-11-16T14:00:37.612Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -802,20 +830,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/iniciativas-ciencia-comunidades-biobio.html",
-   "titulo": "Aprendizaje más allá de las aulas: iniciativas acercan el conocimiento a distintas comunidades del Biobío",
-   "resumen": "Según especialistas, experiencias recreativas, la exploración del entorno y la interacción con otros individuos ofrecen oportunidades tanto para aprender y desarrollar habilidades como para fortalecer vínculos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/bibliomovil.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/guerrero-de-penco-vuelve-con-70-anos-a-la-san-silvestre.html",
    "titulo": "“Guerrero de Penco” vuelve con 70 años a la San Silvestre",
    "resumen": "Sergio Ramírez corrió alguna vez 7 maratones en un año y a fines de este 2026 irá otra vez al calor de Brasil para un nuevo desafío. Quiere seguir en la pista hasta los 80 y reza para que las lesiones no lo alcancen.",
@@ -858,10 +872,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/medios-periodisticos-firman-documento-y-piden-fortalecer-la-proteccion-al-trabajo-frente-a-la-ia.html",
-   "titulo": "Medios periodísticos  firman documento y piden fortalecer la protección al trabajo frente a la IA",
-   "resumen": "En el Encuentro de Diarios Regionales, actores de todo el país fijaron posición frente a temas que definen el presente y futuro del periodismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/9-principal.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/iniciativas-ciencia-comunidades-biobio.html",
+   "titulo": "Aprendizaje más allá de las aulas: iniciativas acercan el conocimiento a distintas comunidades del Biobío",
+   "resumen": "Según especialistas, experiencias recreativas, la exploración del entorno y la interacción con otros individuos ofrecen oportunidades tanto para aprender y desarrollar habilidades como para fortalecer vínculos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/bibliomovil.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T08:40:19.470Z",
@@ -882,6 +896,20 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/medios-periodisticos-firman-documento-y-piden-fortalecer-la-proteccion-al-trabajo-frente-a-la-ia.html",
+   "titulo": "Medios periodísticos  firman documento y piden fortalecer la protección al trabajo frente a la IA",
+   "resumen": "En el Encuentro de Diarios Regionales, actores de todo el país fijaron posición frente a temas que definen el presente y futuro del periodismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/9-principal.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1427,34 +1455,6 @@
    "titulo": "Apoderados del SLEP Andalién Costa exigen fiscalización y transparencia en licitación del transporte escolar",
    "resumen": "Familias de Lota, Coronel, Santa Juana y San Pedro de la Paz denuncian problemas con los buses que trasladan a sus hijos. Desde el Servicio Local aseguraron que cuentan con un encargado dedicado a inspeccionar las máquinas en terreno.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-micro-transporte-escolar-foto-cedida.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/talentos-udec-feria-proyectos-comunitarios.html",
-   "titulo": "Talentos UdeC: estudiantes de 26 comunas expusieron proyectos con impacto comunitario en Feria de Primavera",
-   "resumen": "327 niños y niñas presentaron trabajos en la instancia que también contó con la participación de organizaciones sociales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-talentos-UdeC-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/corte-apelaciones-concepcion-pide-mas-recursos.html",
-   "titulo": "Corte de Apelaciones pide más recursos para consolidar nueva sala ante alta carga laboral",
-   "resumen": "El presidente del tribunal de alzada, Pablo Zavala, destacó el trabajo de ministros y funcionarios para enfrentar el aumento de causas, y planteó que la solución pasa por contar con otra sala ordinaria y una mayor dotación hacia 2030.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/08/WhatsApp-Image-2026-08-28-at-17.14.08-e1787967394891.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-15T08:40:23.242Z",
