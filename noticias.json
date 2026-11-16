@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T11:20:21.685Z",
+ "generado": "2026-11-16T11:40:20.354Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 56,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -124,20 +124,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/presupuesto-2027-senado-discusion-biobio.html",
-   "titulo": "Presupuesto 2027: lo que se juega el Biobío en la próxima discusión del Senado",
-   "resumen": "Siete ministerios llegan sin gastos variables al segundo trámite, mientras en el Biobío siguen pendientes las definiciones sobre el financiamiento del transporte público.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Sala-del-Senado-foto-Claudio-Cavalieri-Senado.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/de-monumento-a-refugio-la-crisis-social-de-la-poblacion-sin-hogar-se-vive-en-el-memorial-27f.html",
    "titulo": "De monumento a refugio: la crisis social de la población sin hogar se vive en el Memorial 27F",
    "resumen": "La obra que conmemora a víctimas del terremoto de 2010 es ocupada por personas en situación de calle, fenómeno creciente, pero transeúntes advierten deterioro e inseguridad.",
@@ -148,6 +134,20 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/presupuesto-2027-senado-discusion-biobio.html",
+   "titulo": "Presupuesto 2027: lo que se juega el Biobío en la próxima discusión del Senado",
+   "resumen": "Siete ministerios llegan sin gastos variables al segundo trámite, mientras en el Biobío siguen pendientes las definiciones sobre el financiamiento del transporte público.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Sala-del-Senado-foto-Claudio-Cavalieri-Senado.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
