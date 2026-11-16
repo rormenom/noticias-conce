@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T12:40:22.716Z",
+ "generado": "2026-11-16T13:00:31.120Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
+    "enlaces": 157,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/seremi-de-justicia-encabezo-constitucion-de-la-comision-de-coordinacion-del-sistema-de-justicia-penal-en-el-biobio/",
+   "titulo": "Biobío: Constituyen Comisión de Coordinación del Sistema de Justicia Penal",
+   "resumen": "Con la participación de las principales instituciones que intervienen en el proceso penal, se constituyó la mesa de la Comisión de Coordinación del Sistema de Justicia Penal, instancia dirigida por el Seremi de Justicia y Derechos Humanos, Robert Contreras…",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/coordinacion-sistema-justicia-penal-Biobio-768x576.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-16T12:52:48.000Z",
+   "visto": "2026-11-16T13:00:31.120Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/exportaciones-biobio-crecen-septiembre-industria-jurel.html",
    "titulo": "Exportaciones del Biobío crecen 12,6% en septiembre impulsadas por la industria y el jurel",
@@ -166,6 +180,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/presupuesto-2027-senado-discusion-biobio.html",
+   "titulo": "Presupuesto 2027: lo que se juega el Biobío en la próxima discusión del Senado",
+   "resumen": "Siete ministerios llegan sin gastos variables al segundo trámite, mientras en el Biobío siguen pendientes las definiciones sobre el financiamiento del transporte público.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Sala-del-Senado-foto-Claudio-Cavalieri-Senado.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/de-monumento-a-refugio-la-crisis-social-de-la-poblacion-sin-hogar-se-vive-en-el-memorial-27f.html",
    "titulo": "De monumento a refugio: la crisis social de la población sin hogar se vive en el Memorial 27F",
    "resumen": "La obra que conmemora a víctimas del terremoto de 2010 es ocupada por personas en situación de calle, fenómeno creciente, pero transeúntes advierten deterioro e inseguridad.",
@@ -180,16 +208,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/presupuesto-2027-senado-discusion-biobio.html",
-   "titulo": "Presupuesto 2027: lo que se juega el Biobío en la próxima discusión del Senado",
-   "resumen": "Siete ministerios llegan sin gastos variables al segundo trámite, mientras en el Biobío siguen pendientes las definiciones sobre el financiamiento del transporte público.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Sala-del-Senado-foto-Claudio-Cavalieri-Senado.jpg",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/fernandez-vial-no-se-confia-hay-que-enfrentar-la-vuelta-como-si-fueramos-0-0.html",
+   "titulo": "Fernández Vial no se confía: “Hay que enfrentar la vuelta como si fuéramos 0-0”",
+   "resumen": "Jeremy Olivares, una de las figuras e improvisado zaguero aurinegro, analizó el 2-1 en la ida ante Puente Alto y lo que viene. Cree que después de Monte Águila y Mejillones están listos para cualquier \"infierno\".",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fern%C3%A1ndez-vial-CD.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T08:40:19.470Z",
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
-    "politica"
+    "deportes"
    ],
    "local": true
   },
@@ -218,20 +246,6 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/fernandez-vial-no-se-confia-hay-que-enfrentar-la-vuelta-como-si-fueramos-0-0.html",
-   "titulo": "Fernández Vial no se confía: “Hay que enfrentar la vuelta como si fuéramos 0-0”",
-   "resumen": "Jeremy Olivares, una de las figuras e improvisado zaguero aurinegro, analizó el 2-1 en la ida ante Puente Alto y lo que viene. Cree que después de Monte Águila y Mejillones están listos para cualquier \"infierno\".",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fern%C3%A1ndez-vial-CD.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   },
@@ -320,6 +334,20 @@
    "local": true
   },
   {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/evacuan-a-dos-oficiales-accidentados-en-antuco/",
+   "titulo": "Evacúan a dos oficiales accidentados en Antuco",
+   "resumen": "Se encontraban realizando ejercicios fuera de su horario de servicio.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/evacuacion-rescate-militares-sierra-velluda-antuco--768x438.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-16T07:19:53.000Z",
+   "visto": "2026-11-16T11:50:25.945Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/destello-se-dejo-ver-en-el-cielo-la-noche-del-viernes-en-la-zona-centro-sur-del-pais/",
    "titulo": "Destello se dejó ver en el cielo la noche del viernes en la zona centro sur del país",
    "resumen": "Expertos indicaron que trató de un “meteorito de origen natural”.",
@@ -328,20 +356,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-16T07:10:25.000Z",
    "visto": "2026-11-16T11:20:21.685Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/evacuan-a-dos-oficiales-accidentados-en-antuco/",
-   "titulo": "Evacúan a dos oficiales accidentados en Antuco",
-   "resumen": "Se encontraban realizando ejercicios fuera de su horario de servicio.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/evacuacion-rescate-militares-sierra-velluda-antuco--768x438.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-16T07:07:53.000Z",
-   "visto": "2026-11-16T11:50:25.945Z",
    "cats": [
     "regional"
    ],
@@ -1505,20 +1519,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/muere-tony-pulguita-mas-de-30-anos-de-humor-y-alegria-que-marcaron-a-la-region-del-biobio",
-   "titulo": "Muere Tony Pulguita: más de 30 años de humor y alegría que marcaron a la región del Biobío",
-   "resumen": "La región del Biobío está de luto tras confirmarse el fallecimiento de Tony Pulguita, querido y reconocido artista que durante más de 30 años llevó humor, alegría y entretención a distintas generaciones. Su deceso se produjo este viernes 13 de noviembre, a…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/09/Backstage-Clown-Makeup-Preparation-e1794602533546.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T20:50:21.907Z",
-   "visto": "2026-11-13T20:50:21.907Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/udec-conservacion-biodiversidad-festival-ladera-sur.html",
    "titulo": "Universidad de Concepción lleva su trabajo en conservación y biodiversidad al Festival Ladera Sur",
    "resumen": "A través de la Facultad de Ciencias Forestales, Campus Naturaleza y el Centro Copas Coastal, la Casa de Estudios penquista participa en el encuentro que se realizará hoy y hasta el domingo en Santiago, donde dará a conocer sus investigaciones e iniciativas…",
@@ -2366,20 +2366,6 @@
    "visto": "2026-11-11T14:00:28.225Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/11/11/corte-deja-sin-cautelares-a-alcalde-de-chillan-investigado-por-fraude-al-fisco-en-compra-de-medialuna.shtml",
-   "titulo": "Corte deja sin cautelares a alcalde de Chillán investigado por fraude al fisco en compra de medialuna",
-   "resumen": "Sin medidas cautelares quedó el alcalde de Chillán, Camilo Francisco Benavente, imputado por el Ministerio Público como autor de dos...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7015006-alcalde-chillan-sin-cautelares-investigacion-fraude-compra-medialuna.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-11T12:46:16.000Z",
-   "visto": "2026-11-11T12:50:19.798Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
