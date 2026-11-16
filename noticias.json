@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T14:00:37.612Z",
+ "generado": "2026-11-16T14:10:22.738Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 160,
-    "leidas": 56,
+    "enlaces": 157,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,70 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 35,
-    "leidas": 14,
+    "enlaces": 36,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/ola-de-robos-afecta-a-iglesias-de-lota-y-pastor-cuestiona-esperan-que-los-civiles-tomemos-las-armas.shtml",
+   "titulo": "Ola de robos afecta a iglesias de Lota y pastor cuestiona: ¿Esperan que los civiles tomemos las armas?",
+   "resumen": "Una docena de robos han afectado a iglesias evangélicas y católicas de Lota, ubicadas principalmente en el sector céntrico...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020557-ola-de-robos-afecta-a-iglesias-de-lota-y-pastor-cuestiona_-esperan-que-los-civiles-tomemos-las-armas_.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-16T14:09:45.000Z",
+   "visto": "2026-11-16T14:10:22.738Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/investigan-millonario-robo-tras-profanacion-de-tumbas-en-cementerio-de-los-angeles.shtml",
+   "titulo": "Investigan millonario robo tras profanación de tumbas en cementerio de Los Ángeles",
+   "resumen": "Un inusual robo se registró en el cementerio general de Los Ángeles, en la región del Bío Bío. Delincuentes...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020633-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-16T14:02:39.000Z",
+   "visto": "2026-11-16T14:10:22.738Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/gran-concepcion-continua-escasez-de-jurel-en-los-supermercados-pese-a-su-recuperacion-en-invierno.shtml",
+   "titulo": "Gran Concepción: continúa escasez de jurel en los supermercados pese a su recuperación en invierno",
+   "resumen": "Sigue escaseando el jurel en las góndolas de los supermercados. Si bien desde el Instituto de Investigación Pesquera de Talcahuano...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020609-capturas-de-pantalla-1.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-16T14:00:50.000Z",
+   "visto": "2026-11-16T14:10:22.738Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/fijan-para-diciembre-nueva-fecha-de-preparacion-de-juicio-oral-del-caso-puerto-coronel.shtml",
+   "titulo": "Fijan para diciembre nueva fecha de preparación de juicio oral del caso Puerto Coronel",
+   "resumen": "Se fijó nueva fecha de preparación de juicio oral en el caso Puerto Coronel, esto mientras el ...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020573-puerto-coronel.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-16T14:00:39.000Z",
+   "visto": "2026-11-16T14:10:22.738Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/concepcion-sera-escenario-del-tercer-foro-hispanoamericano-de-periodismo-de-ciencia-en-la-ucsc",
    "titulo": "Concepción será escenario del Tercer Foro Hispanoamericano de Periodismo de Ciencia en la UCSC",
@@ -1449,20 +1505,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/reportan-nuevo-homicidio-en-el-bio-bio-hombre-fue-asesinado-a-tiros-en-hualpen",
-   "titulo": "Hombre muere baleado en Hualpén en un nuevo homicidio registrado en la región del Bío Bío",
-   "resumen": "Este viernes se produjo otro homicidio en el Gran Concepción: un hombre murió baleado en la comuna de Hualpén, región del Bío Bío. El hombre, de nacionalidad chilena, recibió disparos en las piernas y el tórax, de acuerdo con información de Radio Bío Bío. Las…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T22:10:26.738Z",
-   "visto": "2026-11-13T22:10:26.738Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/13/desde-el-club-magico-en-tvu-hasta-el-teatro-udec-el-imborrable-legado-televisivo-que-deja-tony-pulguita.html",
    "titulo": "Desde \"El Club Mágico\" en TVU hasta el Teatro UdeC: el imborrable legado televisivo que deja Tony Pulguita",
    "resumen": "",
@@ -1488,34 +1530,6 @@
    "visto": "2026-11-13T22:00:29.404Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/reportan-nuevo-homicidio-en-el-bio-bio-hombre-fue-asesinado-a-tiros-en-hualpen.shtml",
-   "titulo": "Reportan nuevo homicidio en el Bío Bío: hombre fue asesinado a tiros en Hualpén",
-   "resumen": "Un nuevo homicidio se registró este viernes en el Gran Concepción: un hombre fue asesinado a balazos en la...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019078-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-13T21:56:23.000Z",
-   "visto": "2026-11-13T22:00:29.404Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/decretan-duelo-comunal-en-concepcion-tras-el-fallecimiento-de-reconocido-payaso-tony-pulguita",
-   "titulo": "Concepción decreta duelo comunal por la muerte del querido Tony Pulguita",
-   "resumen": "José Ramón Arellano Rodríguez, conocido artísticamente como Tony Pulguita, falleció durante la tarde de este viernes. Tras su muerte, la Municipalidad de Concepción estableció duelo comunal por 24 horas para este sábado 14 de noviembre. El alcalde Héctor…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/tonypulguita-en-instagram.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T21:50:19.080Z",
-   "visto": "2026-11-13T21:50:19.080Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2307,20 +2321,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-11T15:00:00.000Z",
    "visto": "2026-11-12T01:30:24.287Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/ministro-quiroz-chile-recesion-privados-codelco.html",
-   "titulo": "Ministro Quiroz reconoce que Chile está en “recesión técnica” y abre puerta a capital privado para Codelco",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-hacienda-jorge-quiroz.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T14:10:22.753Z",
-   "visto": "2026-11-11T14:10:22.753Z",
    "cats": [
     "politica"
    ],
