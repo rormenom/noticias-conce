@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T14:10:22.738Z",
+ "generado": "2026-11-16T14:30:30.231Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 58,
+    "enlaces": 156,
+    "leidas": 53,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,111 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 17,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/gran-concepcion-continua-escasez-de-jurel-en-los-supermercados-pese-a-su-recuperacion-en-invierno",
+   "titulo": "Gran Concepción: persiste la falta de jurel en supermercados, pese a la recuperación invernal en su disponibilidad",
+   "resumen": "El jurel continúa siendo difícil de encontrar en las góndolas de los supermercados. Aunque el Instituto de Investigación Pesquera de Talcahuano informó que las capturas de este recurso repuntaron durante el invierno, algunas empresas suspendieron la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/capturas-de-pantalla-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:30:30.231Z",
+   "visto": "2026-11-16T14:30:30.231Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/ola-de-robos-afecta-a-iglesias-de-lota-denuncian-falta-de-vigilancia-policial-y-exigen-medidas-de-seguridad",
+   "titulo": "Ola de robos afecta a iglesias de Lota: denuncian falta de vigilancia policial y exigen medidas de seguridad",
+   "resumen": "Al menos una docena de robos han afectado a iglesias evangélicas y católicas de Lota durante las últimas semanas, principalmente en el sector céntrico de la comuna. La reiteración de estos delitos ha generado preocupación entre las comunidades religiosas, que…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/5555.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:30:30.231Z",
+   "visto": "2026-11-16T14:30:30.231Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/salud-del-biobio-realizo-59-fiscalizaciones-a-hogares-de-adultos-mayores-12-terminaron-en-sumarios",
+   "titulo": "Salud del Biobío realizó 59 fiscalizaciones a hogares de adultos mayores: 12 terminaron en sumarios",
+   "resumen": "Un total de 59 fiscalizaciones a Establecimientos de Larga Estadía para Adultos Mayores (ELEAM) ha realizado durante este año la Seremi de Salud del Biobío, procedimientos que han derivado en 12 sumarios sanitarios, según informó la autoridad regional. Las…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.22-AM-e1794839280120.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:30:30.231Z",
+   "visto": "2026-11-16T14:30:30.231Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/fijan-para-diciembre-nueva-fecha-de-preparacion-de-juicio-oral-del-caso-puerto-coronel",
+   "titulo": "Puerto Coronel: reprograman para diciembre la preparación del juicio oral",
+   "resumen": "Se estableció una nueva fecha para la preparación del juicio oral en el caso Puerto Coronel, mientras el Tribunal Constitucional analiza un recurso presentado por el alcalde Boris Chamorro. Las audiencias quedaron fijadas para el 7, 9 y 10 de diciembre. En…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/puerto-coronel.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:30:30.231Z",
+   "visto": "2026-11-16T14:30:30.231Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/concepcion-colision-frontal-entre-vehiculo-y-camion-provoca-congestion-vehicular-en-pedro-de-valdivia",
+   "titulo": "Concepción: Colisión frontal entre vehículo y camión provoca congestión vehicular en Pedro de Valdivia",
+   "resumen": "Una colisión frontal entre un vehículo particular tipo SUV y un camión se registró en la intersección de las calles Sargento Aldea y Raúl Méndez, en el sector Pedro de Valdivia de Concepción, a la altura de la Clínica Sanatorio Alemán. A raíz de la magnitud…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/CHOQUE-PEDRO-VALDIVIA.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:30:30.231Z",
+   "visto": "2026-11-16T14:30:30.231Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/fijan-formalizacion-para-hombre-acusado-de-intentar-envenenar-a-tres-perros-comunitarios-en-concepcion.shtml",
+   "titulo": "Fijan formalización para hombre acusado de intentar envenenar a tres perros comunitarios en Concepción",
+   "resumen": "Para el próximo martes 24 de noviembre quedó fijada la audiencia de formalización de Daniel Alfredo Mahn, imputado por su...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020569-contexto-agenciauno-3.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-16T14:24:24.000Z",
+   "visto": "2026-11-16T14:30:30.231Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/astronomia/2026/11/16/astronomos-descubren-el-primer-planeta-gigante-que-desaparecio-mientras-lo-observaban.shtml",
+   "titulo": "Astrónomos descubren el primer planeta gigante que desapareció mientras lo observaban",
+   "resumen": "Astrónomos de la Universidad de California en Los Ángeles (UCLA) descubrieron el primer planeta del que se ha visto desaparecer...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020614-exoplaneta-6.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-16T14:22:20.000Z",
+   "visto": "2026-11-16T14:30:30.231Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/ola-de-robos-afecta-a-iglesias-de-lota-y-pastor-cuestiona-esperan-que-los-civiles-tomemos-las-armas.shtml",
    "titulo": "Ola de robos afecta a iglesias de Lota y pastor cuestiona: ¿Esperan que los civiles tomemos las armas?",
@@ -1434,34 +1532,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/video-paso-de-meteorito-ilumino-cielo-de-regiones-del-bio-bio-y-nuble.shtml",
-   "titulo": "VIDEOS | Paso de meteorito iluminó cielo de regiones del Bío Bío y Ñuble",
-   "resumen": "El paso de un meteorito iluminó el cielo de las regiones del Ñuble y el Bío Bío. De acuerdo...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019181-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-14T01:01:42.000Z",
-   "visto": "2026-11-14T01:10:21.443Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/hombre-es-asesinado-con-rozon-en-talcahuano-el-tercero-homicidio-en-bio-bio-en-menos-de-24-horas.shtml",
-   "titulo": "Hombre es asesinado con rozón en Talcahuano, el tercer homicidio en Bío Bío en menos de 24 horas",
-   "resumen": "Un nuevo homicidio se registró en las últimas horas en la región del Bío Bío, el tercero en menos...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019149-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-14T00:17:40.000Z",
-   "visto": "2026-11-14T00:20:20.222Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/13/colo-colo-gano-a-racing-en-amistoso-concepcion.shtml",
    "titulo": "El ’Cacique’ celebró en Concepción: Colo Colo dominó a Racing y se impuso en duelo amistoso",
    "resumen": "Colo Colo derrotó 2-1 a Racing de Argentina, en duelo amistoso jugado en el Estadio Ester Roa de Rebolledo de...",
@@ -1472,20 +1542,6 @@
    "visto": "2026-11-14T00:00:27.711Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/maquinarias-advierten-protesta-rutas-biobio.html",
-   "titulo": "Camioneros del Biobío advierten que retomarán los bloqueos de rutas y calles",
-   "resumen": "Aunque el paro de camiones se levantó en el Gran Concepción y Los Ángeles, las bases acusan negociaciones a puertas cerradas y advierten una escalada del conflicto.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-5.jpg-e1794609584625.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T22:50:21.096Z",
-   "visto": "2026-11-13T22:50:21.096Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
