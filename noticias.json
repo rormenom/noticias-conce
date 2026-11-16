@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T01:50:19.507Z",
+ "generado": "2026-11-16T04:40:18.563Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 154,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -507,20 +507,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/15/campeones-copa-interescolar-udec-basquetbol.html",
-   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
-   "resumen": "El Colegio Creación ganó la final femenina por 60-49 ante American Junior College, y San Ignacio se impuso 63-47 frente al Instituto de Humanidades de Concepción en varones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/ivan-poduje-reconstruccion-biobio.html",
    "titulo": "“Superamos las mil viviendas iniciadas en Biobío”: Iván Poduje destaca avance en reconstrucción",
    "resumen": "En su reciente visita titular del Minvu abordó el debate presupuestario y la reactivación del mercado inmobiliario, entre otros aspectos.",
@@ -531,6 +517,20 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/15/campeones-copa-interescolar-udec-basquetbol.html",
+   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
+   "resumen": "El Colegio Creación ganó la final femenina por 60-49 ante American Junior College, y San Ignacio se impuso 63-47 frente al Instituto de Humanidades de Concepción en varones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
