@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T18:20:22.502Z",
+ "generado": "2026-11-16T18:27:48.795Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/riviera-bio-bio-boletos-futbol.html",
+   "titulo": "Viajando al ritmo del fútbol: bus de línea Riviera Biobío lanza boletos inspirados en clubes locales",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-16-at-3.08.17-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T18:27:48.795Z",
+   "visto": "2026-11-16T18:27:48.795Z",
+   "cats": [
+    "regional",
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/estamos-muy-agradecidos-15-iniciativas-sociales-de-contulmo-y-canete-se-adjudican-fondos-de-cmpc",
    "titulo": "Quince proyectos sociales de Contulmo y Cañete recibirán financiamiento de CMPC",
@@ -899,16 +914,17 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/gran-concepcion-supera-promedio-de-habitantes-por-hogar-advierten-retos-en-planificacion-urbana.html",
-   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos en planificación urbana",
+   "url": "https://www.tvu.cl/prensa/2026/11/15/colegio-creacion-y-san-ignacio-se-coronaron-campeones-de-la-copa-interescolar-de-basquetbol-udec.html",
+   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-15T18:30:24.942Z",
    "visto": "2026-11-15T18:30:24.942Z",
    "cats": [
-    "regional"
+    "regional",
+    "deportes"
    ],
    "local": true
   },
@@ -928,17 +944,16 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/colegio-creacion-y-san-ignacio-se-coronaron-campeones-de-la-copa-interescolar-de-basquetbol-udec.html",
-   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
+   "url": "https://www.tvu.cl/prensa/2026/11/15/gran-concepcion-supera-promedio-de-habitantes-por-hogar-advierten-retos-en-planificacion-urbana.html",
+   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos en planificación urbana",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-15T18:30:24.942Z",
    "visto": "2026-11-15T18:30:24.942Z",
    "cats": [
-    "regional",
-    "deportes"
+    "regional"
    ],
    "local": true
   },
@@ -1225,20 +1240,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/gran-concepcion-ranking-global-ciudades.html",
-   "titulo": "Entre 2024 y 2026: Gran Concepción perdió 106 puestos en ranking global de ciudades",
-   "resumen": "El área metropolitana penquista pasó del lugar 322 al 428 en el Oxford Economics Global Cities Index. Mientras economía y gobernanza mejoraron sus posiciones, capital humano, calidad de vida y medioambiente registraron retrocesos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-aerea-de-Concepci%C3%B3n-foto-diario-Concepci%C3%B3n.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
    "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
    "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
@@ -1291,6 +1292,20 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/gran-concepcion-ranking-global-ciudades.html",
+   "titulo": "Entre 2024 y 2026: Gran Concepción perdió 106 puestos en ranking global de ciudades",
+   "resumen": "El área metropolitana penquista pasó del lugar 322 al 428 en el Oxford Economics Global Cities Index. Mientras economía y gobernanza mejoraron sus posiciones, capital humano, calidad de vida y medioambiente registraron retrocesos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-aerea-de-Concepci%C3%B3n-foto-diario-Concepci%C3%B3n.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1415,20 +1430,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-14T21:00:28.889Z",
    "visto": "2026-11-14T21:00:28.889Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/14/energia-recomendaciones-para-evitar-el-consumo-vampiro-eleva-cuenta-de-la-luz",
-   "titulo": "Energía: recomendaciones para evitar el consumo vampiro que eleva cuenta de la luz",
-   "resumen": "Enchufes, televisores y hervidores son parte de los artefactos que aunque estén apagados, continúan consumiendo energía mientras permanecen conectados a la corriente. A esto se le conoce como el consumo vampiro, el cual puede representar hasta un 9% del…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2019/08/corte-de-luz.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-14T20:40:18.740Z",
-   "visto": "2026-11-14T20:40:18.740Z",
    "cats": [
     "regional"
    ],
