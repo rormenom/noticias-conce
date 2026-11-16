@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-16T18:50:23.330Z",
+ "generado": "2026-11-16T19:10:21.224Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 507",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -35,7 +36,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +61,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 56,
+    "enlaces": 154,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +82,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/transportistas-del-biobio-llaman-a-rechazar-proyecto-de-ley-por-combustibles-acusan-que-no-responde-a-sus-demandas",
+   "titulo": "Transportistas del Biobío llaman a rechazar proyecto de ley por combustibles: acusan que no responde a sus demandas",
+   "resumen": "Pequeños transportistas de la región del Biobío solicitaron a los parlamentarios rechazar el proyecto de ley que busca contener el alza de los combustibles, argumentando que las medidas acordadas entre el Gobierno y parte de los gremios no representan las…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ARP5ST6S5NDKDID5EDXX56BSXY-scaled.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T19:10:21.224Z",
+   "visto": "2026-11-16T19:10:21.224Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/aprueban-proyecto-freno-alza-combustibles.html",
    "titulo": "“El precio de las gasolinas baja 40 pesos este jueves”: aprueban en Comisión de Hacienda proyecto que frena alzas hasta 2027",
@@ -1436,20 +1451,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/14/muere-carlos-grollmus-fue-victima-del-ataque-incendiario-a-su-molino-en-contulmo-en-2022.shtml",
-   "titulo": "Muere Carlos Grollmus: fue víctima del ataque incendiario a su molino en Contulmo en 2022",
-   "resumen": "A los 83 años falleció Carlos Grollmus, una de las víctimas del atentado al Molino Grollmus, ocurrido en 2022 en...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019627-muere-carlos-grollmus-fue-victima-del-ataque-incendiario-a-su-molino-en-contulmo-en-2022.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-14T22:29:25.000Z",
-   "visto": "2026-11-14T22:30:24.814Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/14/diputada-betancurt-busca-endurecer-sanciones-por-vender-cigarrillos-y-vapeadores-a-menores-de-edad.shtml",
    "titulo": "Diputada Betancurt busca endurecer sanciones por vender cigarrillos y vapeadores a menores de edad",
    "resumen": "La diputada Lilian Betancurt (PDG), representante del Distrito 21 de la región del Biobío, presentó un proyecto de ley que...",
@@ -2295,20 +2296,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-11T21:08:35.581Z",
    "visto": "2026-11-11T21:08:35.581Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/11/problemas-para-vial-dos-fechas-de-castigo-para-una-de-sus-grandes-figuras.html",
-   "titulo": "Problemas para Vial: dos fechas de castigo para una de sus grandes figuras",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/10/Diego-Fern%C3%A1ndez-Fern%C3%A1ndez-Vial-e1790988999791.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T19:10:21.816Z",
-   "visto": "2026-11-11T19:10:21.816Z",
    "cats": [
     "deportes"
    ],
