@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T18:00:30.830Z",
+ "generado": "2026-11-16T18:10:20.466Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 153,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/estamos-muy-agradecidos-15-iniciativas-sociales-de-contulmo-y-canete-se-adjudican-fondos-de-cmpc.shtml",
+   "titulo": "\"Estamos muy agradecidos\": 15 iniciativas sociales de Contulmo y Cañete se adjudican fondos de CMPC",
+   "resumen": "El pasado 10 de noviembre, CMPC reveló los 15 proyectos de organizaciones sociales de las comunas...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7021173-fondos-cmpc-contulmo-canete.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-16T18:05:54.000Z",
+   "visto": "2026-11-16T18:10:20.466Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/concepcion-cicletada-de-las-ninas.html",
    "titulo": "Concepción contará con segunda edición de la “Cicletada de las Niñas”",
@@ -1429,20 +1443,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-14T17:10:20.084Z",
    "visto": "2026-11-14T17:10:20.084Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/14/proyecto-internacional-busca-rescatar-patrimonio-industrial-de-lota",
-   "titulo": "Proyecto internacional busca rescatar patrimonio industrial de Lota",
-   "resumen": "Un proyecto internacional busca rescatar y resignificar el patrimonio industrial de Lota, poniendo en valor las ruinas de su pasado carbonífero. La iniciativa impulsada entre la Universidad San Sebastián y la Universidad de Columbia, también contempla la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/PATRIMONIO-LOTA.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-14T17:00:27.493Z",
-   "visto": "2026-11-14T17:00:27.493Z",
    "cats": [
     "regional"
    ],
