@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T08:59:17.220Z",
+ "generado": "2026-11-16T09:10:21.163Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 56,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/tras-un-primer-intento-de-rescate-terrestre-evacuan-via-aerea-a-militar-accidentado-en-sierra-velluda",
+   "titulo": "Militar herido en Sierra Velluda es evacuado por aire tras fallido rescate terrestre",
+   "resumen": "Un miembro del Destacamento de Montaña N° 17 “Los Ángeles” fue evacuado por vía aérea luego de accidentarse mientras practicaba una actividad deportiva en el sector de Sierra Velluda, en la zona cordillerana de la provincia de Bío Bío. El procedimiento se…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/rescatan-via-aerea-a-militar-accidentado-en-sierra-velluda-y-lo-trasladan-a-hospital-de-los-angeles.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T09:10:21.163Z",
+   "visto": "2026-11-16T09:10:21.163Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/presupuesto-2027-senado-discusion-biobio.html",
    "titulo": "Presupuesto 2027: lo que se juega el Biobío en la próxima discusión del Senado",
@@ -1485,20 +1499,6 @@
    "fuente": "BioBioChile",
    "fuenteId": "biobiochile",
    "fecha": "2026-11-13T19:00:42.000Z",
-   "visto": "2026-11-13T19:00:30.492Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/nuevo-homicidio-en-san-pedro-de-la-paz-hombre-de-40-anos-murio-tras-ser-baleado-en-una-pierna",
-   "titulo": "Hombre de 40 años muere tras recibir un disparo en una pierna en San Pedro de la Paz",
-   "resumen": "Un nuevo asesinato ocurrió en San Pedro de la Paz, región del Bío Bío, luego de que un hombre de 40 años falleciera en el SAR de Candelaria. Sus familiares lo habían llevado hasta allí después de que resultara herido en una pelea dentro de una vivienda. Según…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-13t152344-228.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T19:00:30.492Z",
    "visto": "2026-11-13T19:00:30.492Z",
    "cats": [
     "regional"
