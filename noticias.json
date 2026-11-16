@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T10:50:20.233Z",
+ "generado": "2026-11-16T11:00:26.723Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 56,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/municipalidad-de-lota-se-querella-por-incendio-que-arraso-con-exescuela-especial-luis-cousino-squella",
+   "titulo": "Lota presenta una querella por el incendio que destruyó la exescuela especial Luis Cousiño Squella",
+   "resumen": "La Municipalidad de Lota, en la región del Bío Bío, interpuso una querella criminal a raíz del incendio que destruyó la exescuela especial Luis Cousiño Squella hace una semana. Aunque el inmueble llevaba años deteriorándose debido al abandono, el siniestro…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/incendio-exescuela-lota.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T11:00:26.723Z",
+   "visto": "2026-11-16T11:00:26.723Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/municipalidad-de-lota-se-querella-por-incendio-que-arraso-con-exescuela-especial-luis-cousino-squella.shtml",
    "titulo": "Municipalidad de Lota se querella por incendio que arrasó con exescuela especial Luis Cousiño Squella",
@@ -1486,20 +1500,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-13T19:30:25.037Z",
    "visto": "2026-11-13T19:30:25.037Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/agricultor-de-los-angeles-sufre-robo-de-maquinarias-ofrece-recompensa-por-informacion-clave.shtml",
-   "titulo": "Agricultor de Los Ángeles sufre robo de maquinarias: ofrece \"recompensa\" por información clave",
-   "resumen": "En más de 25 millones de pesos fue avaluado, de forma preliminar, el robo que afectó a un agricultor en...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7018695-post-1.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-13T19:04:27.000Z",
-   "visto": "2026-11-13T19:10:23.670Z",
    "cats": [
     "regional"
    ],
