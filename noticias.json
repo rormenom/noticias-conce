@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T22:00:27.999Z",
+ "generado": "2026-11-16T22:10:26.806Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -59,11 +59,12 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 4,
-    "enlaces": 158,
-    "leidas": 58,
-    "errores": 0,
-    "robots": 0
+    "paginas": 3,
+    "enlaces": 140,
+    "leidas": 53,
+    "errores": 2,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/meteorologia-advierte-posible-formacion-de-tornados-en-tres-regiones-del-pais-durante-este-domingo.shtml)"
    }
   },
   {
@@ -81,6 +82,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/diagnostico-transmision-electrica-2047.html",
+   "titulo": "Proyectan necesidades de transmisión eléctrica para los próximos 20 años en Chile",
+   "resumen": "El diagnóstico considera el crecimiento de la demanda y nuevos proyectos de alto consumo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2020/03/Cables-antenas-.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T22:10:26.806Z",
+   "visto": "2026-11-16T22:10:26.806Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/gastos-traslacion-parlamentarios-biobio-alza-combustibles.html",
    "titulo": "Desde $1,1 millones a $3,7 millones mensuales: lo que gastan en traslado los diputados, diputadas y senadores del Biobío",
@@ -1447,20 +1462,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-15T15:00:26.953Z",
    "visto": "2026-11-15T15:00:26.953Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
-   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
-   "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T15:00:00.000Z",
-   "visto": "2026-11-16T20:30:28.579Z",
    "cats": [
     "regional"
    ],
