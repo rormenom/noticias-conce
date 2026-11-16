@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T19:20:21.187Z",
+ "generado": "2026-11-16T19:30:27.212Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 57,
+    "enlaces": 151,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/vial-visita-puente-alto-numeros-local.html",
+   "titulo": "Vial visitará el sábado a Puente Alto: sus números como local",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fernandez-vial-e1794856829825.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T19:30:27.212Z",
+   "visto": "2026-11-16T19:30:27.212Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/presentan-denuncia-ante-fiscalia-por-brutal-agresion-a-conductor-de-transportes-tome-empresa-anuncia-querella",
+   "titulo": "Presentan denuncia ante Fiscalía por brutal agresión a conductor de Transportes Tomé: empresa anuncia querella",
+   "resumen": "Una denuncia ante el Ministerio Público presentaron las autoridades regionales tras la violenta agresión que sufrió un conductor de 55 años de la línea Transportes Tomé, quien fue golpeado por pasajeros que se negaron a pagar su pasaje. El ataque quedó…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/buses-tome-e1794856998513.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T19:30:27.212Z",
+   "visto": "2026-11-16T19:30:27.212Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/biobio-sigue-sin-delegado-presidencial-titular-a-mas-de-dos-semanas-de-la-renuncia-de-anativia",
    "titulo": "Biobío sigue sin delegado presidencial titular a más de dos semanas de la renuncia de Anativia",
@@ -1437,20 +1465,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/15/militar-habria-sufrido-accidente-en-sierra-velluda-ejercito-anuncia-rescate-para-este-domingo.shtml",
-   "titulo": "Militar habría sufrido accidente en Sierra Velluda: Ejército anuncia rescate para este domingo",
-   "resumen": "Un integrante del Destacamento de Montaña N° 17 “Los Ángeles” habría sufrido un accidente en los faldeos de Sierra Velluda,...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019776-militar-habria-sufrido-accidente-en-sierra-velluda-ejercito-anuncia-rescate-para-este-domingo.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-15T03:42:50.000Z",
-   "visto": "2026-11-15T03:50:19.283Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/14/diputada-betancurt-busca-endurecer-sanciones-por-vender-cigarrillos-y-vapeadores-a-menores-de-edad.shtml",
    "titulo": "Diputada Betancurt busca endurecer sanciones por vender cigarrillos y vapeadores a menores de edad",
    "resumen": "La diputada Lilian Betancurt (PDG), representante del Distrito 21 de la región del Biobío, presentó un proyecto de ley que...",
@@ -2161,20 +2175,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/evandro-arteaga-con-titulo-de-entrenador-y-la-felicidad-al-formar-ninos.html",
-   "titulo": "Evandro Arteaga: con título de entrenador y la felicidad al formar niños",
-   "resumen": "Histórico basquetbolista disfruta preparando a los chicos de su academia, no descarta dirigir algún día un equipo profesional y analiza el presente de la UdeC buscando semifinales de la LNB.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/evandro-arteaga-e1794443313886.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/creacion-filmica-no-tiene-edad-cinelebu-desarrolla-experiencias-audiovisuales-distintas-generaciones.html",
    "titulo": "La creación fílmica no tiene edad: Cinelebu desarrolla experiencias audiovisuales para distintas generaciones",
    "resumen": "Quince niños y un grupo de personas mayores participan en experiencias gratuitas de animación Stop Motion, impulsadas por la sección de Escuela de esta iniciativa cinematográfica lebulense. Las actividades contemplan procesos de creación con plasticina,…",
@@ -2199,6 +2199,20 @@
    "visto": "2026-11-12T08:40:19.790Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/evandro-arteaga-con-titulo-de-entrenador-y-la-felicidad-al-formar-ninos.html",
+   "titulo": "Evandro Arteaga: con título de entrenador y la felicidad al formar niños",
+   "resumen": "Histórico basquetbolista disfruta preparando a los chicos de su academia, no descarta dirigir algún día un equipo profesional y analiza el presente de la UdeC buscando semifinales de la LNB.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/evandro-arteaga-e1794443313886.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
