@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T12:10:20.678Z",
+ "generado": "2026-11-16T12:30:29.984Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 58,
+    "enlaces": 156,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/exportaciones-biobio-crecen-septiembre-industria-jurel.html",
+   "titulo": "Exportaciones del Biobío crecen 12,6% en septiembre impulsadas por la industria y el jurel",
+   "resumen": "El sector industrial fue el motor de este crecimiento mensual. Los envíos al extranjero de jurel entero congelado registraron la mayor incidencia positiva.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/exportaciones-biobio-crecen-septiembre-industria-jurel-e1794832147814.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T12:30:29.984Z",
+   "visto": "2026-11-16T12:30:29.984Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/tormentas-electricas-superavit-lluvias-senapred-biobio.html",
    "titulo": "Aviso meteorológico: pronostican tormentas para el Biobío en medio de gran superávit de lluvias",
@@ -194,20 +208,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/fernandez-vial-no-se-confia-hay-que-enfrentar-la-vuelta-como-si-fueramos-0-0.html",
-   "titulo": "Fernández Vial no se confía: “Hay que enfrentar la vuelta como si fuéramos 0-0”",
-   "resumen": "Jeremy Olivares, una de las figuras e improvisado zaguero aurinegro, analizó el 2-1 en la ida ante Puente Alto y lo que viene. Cree que después de Monte Águila y Mejillones están listos para cualquier \"infierno\".",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fern%C3%A1ndez-vial-CD.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/iniciativas-ciencia-comunidades-biobio.html",
    "titulo": "Aprendizaje más allá de las aulas: iniciativas acercan el conocimiento a distintas comunidades del Biobío",
    "resumen": "Según especialistas, experiencias recreativas, la exploración del entorno y la interacción con otros individuos ofrecen oportunidades tanto para aprender y desarrollar habilidades como para fortalecer vínculos.",
@@ -218,6 +218,20 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/fernandez-vial-no-se-confia-hay-que-enfrentar-la-vuelta-como-si-fueramos-0-0.html",
+   "titulo": "Fernández Vial no se confía: “Hay que enfrentar la vuelta como si fuéramos 0-0”",
+   "resumen": "Jeremy Olivares, una de las figuras e improvisado zaguero aurinegro, analizó el 2-1 en la ida ante Puente Alto y lo que viene. Cree que después de Monte Águila y Mejillones están listos para cualquier \"infierno\".",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fern%C3%A1ndez-vial-CD.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1516,20 +1530,6 @@
    "cats": [
     "tecnologia",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/13/renuncia-julio-friedmann-gerencia-general-enap.html",
-   "titulo": "Renuncia gerente general de Enap: Julio Friedmann dejará la compañía petrolera en febrero de 2027",
-   "resumen": "El ejecutivo permanecerá en la empresa hasta el próximo 5 de febrero mientras el directorio busca a su sucesor.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Julio-Friedmann-Enap-renuncia-foto-enap-cedida-e1794599991561.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T20:10:21.076Z",
-   "visto": "2026-11-13T20:10:21.076Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
