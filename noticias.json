@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T21:10:23.279Z",
+ "generado": "2026-11-16T21:30:27.219Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/16/pelicula-origenes-obreros-fernandez-vial.html",
+   "titulo": "Preparan película sobre los orígenes obreros de Fernández Vial",
+   "resumen": "La futura producción busca rescatar el vínculo histórico entre Vial y los trabajadores.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-16-at-2.14.19-PM-e1794864496359.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T21:30:27.219Z",
+   "visto": "2026-11-16T21:30:27.219Z",
+   "cats": [
+    "cultura",
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/loest-anillamiento-chorlo-nevado-biobio-islas.html",
    "titulo": "FOTOS | Anillamiento científico busca conocer los movimientos y amenazas del chorlo nevado en Chile",
