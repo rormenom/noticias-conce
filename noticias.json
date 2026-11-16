@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T22:10:26.806Z",
+ "generado": "2026-11-16T22:30:24.566Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -59,12 +59,11 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 3,
-    "enlaces": 140,
-    "leidas": 53,
-    "errores": 2,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/chile/2026/11/15/meteorologia-advierte-posible-formacion-de-tornados-en-tres-regiones-del-pais-durante-este-domingo.shtml)"
+    "paginas": 4,
+    "enlaces": 157,
+    "leidas": 56,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -82,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/supuesto-apagon-mundial-como-detectar-noticias-falsas.html",
+   "titulo": "Supuesto apagón masivo: claves para detectar información falsa en redes sociales",
+   "resumen": "La difusión de una publicación sobre un apagón que aprovechó un contexto de incertidumbre, académico de la Universidad de Concepción explicó advierte sobre los efectos de la Fake News en la democracia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/08/pag-5-apagon-en-concepcion-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T22:30:24.566Z",
+   "visto": "2026-11-16T22:30:24.566Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/diagnostico-transmision-electrica-2047.html",
    "titulo": "Proyectan necesidades de transmisión eléctrica para los próximos 20 años en Chile",
@@ -1015,20 +1028,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/iniciativas-ciencia-comunidades-biobio.html",
-   "titulo": "Aprendizaje más allá de las aulas: iniciativas acercan el conocimiento a distintas comunidades del Biobío",
-   "resumen": "Según especialistas, experiencias recreativas, la exploración del entorno y la interacción con otros individuos ofrecen oportunidades tanto para aprender y desarrollar habilidades como para fortalecer vínculos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/bibliomovil.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/habra-revancha-basquetbol-udec-se-medira-en-las-semifinales-contra-leones.html",
    "titulo": "Habrá revancha: básquetbol UdeC se medirá en las semifinales contra Leones",
    "resumen": "",
@@ -1061,6 +1060,20 @@
    "titulo": "Medios periodísticos  firman documento y piden fortalecer la protección al trabajo frente a la IA",
    "resumen": "En el Encuentro de Diarios Regionales, actores de todo el país fijaron posición frente a temas que definen el presente y futuro del periodismo.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/9-principal.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/iniciativas-ciencia-comunidades-biobio.html",
+   "titulo": "Aprendizaje más allá de las aulas: iniciativas acercan el conocimiento a distintas comunidades del Biobío",
+   "resumen": "Según especialistas, experiencias recreativas, la exploración del entorno y la interacción con otros individuos ofrecen oportunidades tanto para aprender y desarrollar habilidades como para fortalecer vínculos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/bibliomovil.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T08:40:19.470Z",
@@ -1448,20 +1461,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-15T15:10:21.025Z",
    "visto": "2026-11-15T15:10:21.025Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/rescatan-por-tierra-a-dos-oficiales-accidentados-en-volcan-antuco-clima-impide-operativo-aereo",
-   "titulo": "El mal tiempo obliga a rescatar por tierra a dos oficiales accidentados en el Volcán Antuco",
-   "resumen": "Dos integrantes del Ejército de Chile, pertenecientes al destacamento 17 de Los Ángeles y accidentados ayer en el volcán Antuco, están siendo evacuados por tierra bajo condiciones meteorológicas adversas. La patrulla Parme, unidad del Ejército especializada…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/volcan-antuco-rescate-militar.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T15:00:26.953Z",
-   "visto": "2026-11-15T15:00:26.953Z",
    "cats": [
     "regional"
    ],
