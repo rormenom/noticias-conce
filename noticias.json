@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-16T16:00:31.406Z",
+ "generado": "2026-11-16T16:20:35.186Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -35,7 +36,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +61,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 160,
-    "leidas": 56,
+    "enlaces": 159,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +82,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/orquesta-sinfonica-udec-despide-la-temporada-2026-con-una-noche-de-gala/",
+   "titulo": "Orquesta Sinfónica UdeC despide la Temporada 2026 con una noche de gala",
+   "resumen": "Una temporada de grandes encuentros, destacados solistas, descubrimientos musicales y […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/IMG_5813-768x431.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-16T16:16:37.000Z",
+   "visto": "2026-11-16T16:20:35.186Z",
+   "cats": [
+    "cultura",
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/kast-justifica-ofrenda-ho-chi-minh.html",
    "titulo": "VIDEO | Presidente Kast justifica ofrenda en Vietnam: “Quien habló en ese momento era el candidato”",
@@ -1456,20 +1472,6 @@
    "visto": "2026-11-15T00:30:24.079Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/14/muere-carlos-grollmus-fue-victima-del-ataque-incendiario-a-su-molino-en-contulmo-en-2022",
-   "titulo": "Fallece Carlos Grollmus, sobreviviente del incendio que destruyó su molino en Contulmo en 2022",
-   "resumen": "Carlos Grollmus, una de las personas afectadas por el ataque al Molino Grollmus en 2022, murió a los 83 años. El atentado ocurrió en Contulmo, comuna de la provincia de Arauco, en la región del Bío Bío. La familia informó sobre su fallecimiento en redes…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/muere-carlos-grollmus-fue-victima-del-ataque-incendiario-a-su-molino-en-contulmo-en-2022.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-14T15:00:00.000Z",
-   "visto": "2026-11-15T01:00:27.731Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
