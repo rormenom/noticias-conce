@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T13:00:31.120Z",
+ "generado": "2026-11-16T13:10:32.717Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -2337,35 +2337,6 @@
    "cats": [
     "cultura",
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/noche-de-museos-vuelve-a-biobio-con-mas-de-20-espacios-y-37-actividades-gratuitas/",
-   "titulo": "Noche de Museos vuelve a Biobío con más de 20 espacios y 37 actividades gratuitas",
-   "resumen": "La Región del Biobío se prepara para vivir una nueva […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/NM2026-768x576.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-11T13:06:06.000Z",
-   "visto": "2026-11-11T13:10:19.751Z",
-   "cats": [
-    "cultura",
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/11/noche-de-museos-en-el-biobio-panoramas-gratuitos-para-este-viernes/",
-   "titulo": "Noche de Museos en el Biobío: panoramas gratuitos para este viernes",
-   "resumen": "Por Florencia Muñoz Pérez",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/images-8-300x200.jpeg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-11T13:04:17.000Z",
-   "visto": "2026-11-11T14:00:28.225Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   }
