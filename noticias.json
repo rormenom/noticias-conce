@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T11:00:26.723Z",
+ "generado": "2026-11-16T11:10:26.355Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 55,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -258,6 +258,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T08:40:19.470Z",
    "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/mop-realiza-limpieza-de-fajas-en-rutas-de-nuble/",
+   "titulo": "MOP realiza limpieza de fajas en rutas de Ñuble",
+   "resumen": "Se han ejecutado más de 200 kilómetros de roce entre Vialidad y concesionarias.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/limpieza-fajas-rutas-Nuble-768x576.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-16T07:07:50.000Z",
+   "visto": "2026-11-16T11:10:26.355Z",
    "cats": [
     "regional"
    ],
@@ -605,20 +619,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/juzgado-de-garantia-de-talcahuano-decreta-la-prision-preventiva-de-imputado-por-homicidio-simple-en-monte-redondo.html",
-   "titulo": "Juzgado de Garantía de Talcahuano decreta la prisión preventiva de imputado por homicidio simple en Monte Redondo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/08/Nf04sBBWx3nO7SnmuPSE.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T15:00:00.000Z",
-   "visto": "2026-11-16T00:11:12.148Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/pdi-detuvo-a-dos-hombres-por-delitos-sexuales-contra-menores-de-14-anos-en-penco-y-chiguayante.html",
    "titulo": "PDI detuvo a dos hombres por delitos sexuales contra menores de 14 años en Penco y Chiguayante",
    "resumen": "",
@@ -627,6 +627,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-15T15:00:00.000Z",
    "visto": "2026-11-16T00:20:20.383Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/juzgado-de-garantia-de-talcahuano-decreta-la-prision-preventiva-de-imputado-por-homicidio-simple-en-monte-redondo.html",
+   "titulo": "Juzgado de Garantía de Talcahuano decreta la prisión preventiva de imputado por homicidio simple en Monte Redondo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/08/Nf04sBBWx3nO7SnmuPSE.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T15:00:00.000Z",
+   "visto": "2026-11-16T00:11:12.148Z",
    "cats": [
     "regional"
    ],
@@ -1486,20 +1500,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-13T20:10:21.076Z",
    "visto": "2026-11-13T20:10:21.076Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/desisten-evaluacion-central-hidroelectrica-san-carlos.html",
-   "titulo": "A siete días de su ingreso: desisten de tramitación ambiental de central hidroeléctrica en río Biobío",
-   "resumen": "Mediante una carta ingresada el 10 de noviembre, Inversiones San Carlos SpA solicitó retirar el Estudio de Impacto Ambiental de la iniciativa de US$ 420 millones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/central-hidroelectrica-san-carlos-rio-biobio-sea-3-1-e1794597156583.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T19:30:25.037Z",
-   "visto": "2026-11-13T19:30:25.037Z",
    "cats": [
     "regional"
    ],
