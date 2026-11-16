@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T08:40:19.470Z",
+ "generado": "2026-11-16T08:59:17.220Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 10,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 50,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 10,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -110,6 +110,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/bioestimulante-agricola-desechos-marinos-biobio.html",
+   "titulo": "Del mar al campo: ex pescador de Talcahuano desarrolló bioestimulante agrícola con residuos marinos",
+   "resumen": "Con una inversión propia de $100 millones y una solicitud de patente en trámite ante Inapi, Tomás Roa logró transformar caparazones de jaiba y conchas de navajuela en un insumo libre de metales pesados que ya se prueba con éxito desde Arica hasta Futaleufú.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cr%C3%A9dito-Tom%C3%A1s-Roa-Caja-principal.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/16/feria-de-reduccion-de-riesgos-de-desastres-invito-a-la-comunidad-a-reflexionar-sobre-prevencion-de-emergencias.html",
    "titulo": "Feria de Reducción de Riesgos de Desastres invitó a la comunidad a reflexionar sobre prevención de emergencias",
    "resumen": "La tercera versión de la feria reunió a organismos públicos, privados y de respuesta ante emergencias. La jornada también permitió conocer las medidas que la Universidad implementa en el Campus Concepción para prevenir incendios forestales.",
@@ -134,20 +148,6 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/bioestimulante-agricola-desechos-marinos-biobio.html",
-   "titulo": "Del mar al campo: ex pescador de Talcahuano desarrolló bioestimulante agrícola con residuos marinos",
-   "resumen": "Con una inversión propia de $100 millones y una solicitud de patente en trámite ante Inapi, Tomás Roa logró transformar caparazones de jaiba y conchas de navajuela en un insumo libre de metales pesados que ya se prueba con éxito desde Arica hasta Futaleufú.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cr%C3%A9dito-Tom%C3%A1s-Roa-Caja-principal.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
