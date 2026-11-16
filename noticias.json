@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T15:50:25.902Z",
+ "generado": "2026-11-16T16:00:31.406Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 20,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 159,
-    "leidas": 58,
+    "enlaces": 160,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/kast-justifica-ofrenda-ho-chi-minh.html",
+   "titulo": "VIDEO | Presidente Kast justifica ofrenda en Vietnam: “Quien habló en ese momento era el candidato”",
+   "resumen": "El Mandatario abordó las críticas por su cambio de postura respecto al régimen vietnamita durante su última jornada en el país asiático.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/kast-justifica-ofrenda-ho-chi-minh-e1794844212802.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T16:00:31.406Z",
+   "visto": "2026-11-16T16:00:31.406Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/villa-miramar-de-lirquen-alcanza-un-75-de-avance-y-entrega-21-nuevas-viviendas-a-familias-afectadas-por-los-incendios-del-verano/",
    "titulo": "Villa Miramar de Lirquén alcanza un 75% de avance y entrega 21 nuevas viviendas a familias afectadas por los incendios del verano",
@@ -2128,20 +2142,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/senadores-biobio-mocion-tarifas-paro-camionero.html",
-   "titulo": "Senadores del Biobío presionan por tramitar moción de tarifas en medio del paro camionero",
-   "resumen": "Se busca regular el cobro por kilómetro, fijar plazos máximos de pago y proteger a los transportistas de menor tamaño. La Comisión de Transportes del Senado acordó priorizar su debate.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sala-senado-e1794442835286.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/evandro-arteaga-con-titulo-de-entrenador-y-la-felicidad-al-formar-ninos.html",
    "titulo": "Evandro Arteaga: con título de entrenador y la felicidad al formar niños",
    "resumen": "Histórico basquetbolista disfruta preparando a los chicos de su academia, no descarta dirigir algún día un equipo profesional y analiza el presente de la UdeC buscando semifinales de la LNB.",
@@ -2180,6 +2180,20 @@
    "visto": "2026-11-12T08:40:19.790Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/senadores-biobio-mocion-tarifas-paro-camionero.html",
+   "titulo": "Senadores del Biobío presionan por tramitar moción de tarifas en medio del paro camionero",
+   "resumen": "Se busca regular el cobro por kilómetro, fijar plazos máximos de pago y proteger a los transportistas de menor tamaño. La Comisión de Transportes del Senado acordó priorizar su debate.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sala-senado-e1794442835286.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -2350,20 +2364,6 @@
    "visto": "2026-11-11T16:30:27.569Z",
    "cats": [
     "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/presidente-kast-paro-transportistas.html",
-   "titulo": "“Nos jugamos el futuro de Chile”: Presidente Kast por paralización de transportistas",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/kast-anuncia-presupuesto-2027-en-cadena-nacional-e1790811105328.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T16:00:28.786Z",
-   "visto": "2026-11-11T16:00:28.786Z",
-   "cats": [
     "politica"
    ],
    "local": true
