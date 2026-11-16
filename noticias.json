@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T09:10:21.163Z",
+ "generado": "2026-11-16T10:50:20.233Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 55,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/municipalidad-de-lota-se-querella-por-incendio-que-arraso-con-exescuela-especial-luis-cousino-squella.shtml",
+   "titulo": "Municipalidad de Lota se querella por incendio que arrasó con exescuela especial Luis Cousiño Squella",
+   "resumen": "La Municipalidad de Lota, en la región del Bío Bío, presentó una querella criminal por el incendio que arrasó...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020341-incendio-exescuela-lota.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-16T10:48:43.000Z",
+   "visto": "2026-11-16T10:50:20.233Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/tras-un-primer-intento-de-rescate-terrestre-evacuan-via-aerea-a-militar-accidentado-en-sierra-velluda",
    "titulo": "Militar herido en Sierra Velluda es evacuado por aire tras fallido rescate terrestre",
@@ -1486,20 +1500,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-13T19:04:27.000Z",
    "visto": "2026-11-13T19:10:23.670Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/chofer-de-micro-queda-grave-tras-ser-agredido-por-jovenes-que-se-negaron-a-pagar-pasaje-en-concepcion.shtml",
-   "titulo": "Chofer de micro queda grave tras ser agredido por jóvenes que se negaron a pagar pasaje en Concepción",
-   "resumen": "Con lesiones graves e internado permanece un conductor de la línea de buses Tomé-Concepción, quien fue agredido por dos jóvenes...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7018785-restore-diseno-sin-titulo-18-600x315-1200x633-1.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-13T19:00:42.000Z",
-   "visto": "2026-11-13T19:00:30.492Z",
    "cats": [
     "regional"
    ],
