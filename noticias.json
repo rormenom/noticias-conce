@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T14:50:21.603Z",
+ "generado": "2026-11-16T15:00:34.482Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 55,
+    "enlaces": 154,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 36,
-    "leidas": 14,
+    "enlaces": 35,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/por-18-puestos-de-trabajo-cientos-de-personas-hacen-fila-en-el-centro-de-concepcion",
+   "titulo": "Por 18 puestos de trabajo: cientos de personas hacen fila en el centro de Concepción",
+   "resumen": "Más de 200 postulantes llegaron desde tempranas horas de este lunes hasta calle Barros Arana, entre Rengo y Maipú, tras difundirse una convocatoria laboral en redes sociales. El fenómeno ocurre en medio de un complejo escenario económico, con una tasa de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.42-e1794840593840.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T15:00:34.482Z",
+   "visto": "2026-11-16T15:00:34.482Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/fijan-formalizacion-para-hombre-acusado-de-intentar-envenenar-a-tres-perros-comunitarios-en-concepcion",
    "titulo": "Concepción: fijan audiencia de formalización para acusado de intentar envenenar a tres perros comunitarios",
@@ -1362,6 +1376,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/14/paro-camioneros-impacto-puertos-biobio.html",
+   "titulo": "Paro de camioneros generó retrasos en la logística de los puertos del Biobío, pero no detuvo sus operaciones",
+   "resumen": "San Vicente retomó despachos este viernes, mientras Lirquén reportó retrasos de clientes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-entrada-de-camiones-al-puerto-foto-carolina.jpg-e1794623587319.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T15:00:00.000Z",
+   "visto": "2026-11-16T14:50:21.603Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/14/a-la-vialina-fernandez-vial-sufrio-para-arrancar-la-llave-ante-puente-alto-con-un-triunfo.html",
    "titulo": "A la vialina: Fernández Vial sufrió para arrancar la llave ante Puente Alto con un triunfo",
    "resumen": "El Almirante jugó un gran primer tiempo y fue otro equipo completamente en el segundo. De milagro no le empataron. El “Inmortal” está a 90 minutos del ascenso a Tercera División A.",
@@ -1384,20 +1412,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-14T15:00:00.000Z",
    "visto": "2026-11-15T01:00:27.731Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/14/paro-camioneros-impacto-puertos-biobio.html",
-   "titulo": "Paro de camioneros generó retrasos en la logística de los puertos del Biobío, pero no detuvo sus operaciones",
-   "resumen": "San Vicente retomó despachos este viernes, mientras Lirquén reportó retrasos de clientes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-entrada-de-camiones-al-puerto-foto-carolina.jpg-e1794623587319.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T15:00:00.000Z",
-   "visto": "2026-11-16T14:50:21.603Z",
    "cats": [
     "regional"
    ],
@@ -1436,20 +1450,6 @@
    "titulo": "Diabetes en subida y cada vez más precoz: promover hábitos sanos para prevenir es un reto vital",
    "resumen": "",
    "imagen": "https://assets.tvu.cl/2026/11/pag-11-diabetes-foot-cc.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-14T14:30:25.089Z",
-   "visto": "2026-11-14T14:30:25.089Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/14/tras-acuerdo-con-camioneros-transportistas-descolgados-del-pacto-rechazan-alusiones-al-octubrismo.html",
-   "titulo": "Tras acuerdo con camioneros: transportistas descolgados del pacto rechazan alusiones al octubrismo",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-4-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-14T14:30:25.089Z",
@@ -2363,20 +2363,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-11T16:00:28.786Z",
    "visto": "2026-11-11T16:00:28.786Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/gobierno-congela-combustibles-febrero-2027.html",
-   "titulo": "Gobierno anuncia congelamiento de combustibles hasta febrero de 2027 y emplaza a camioneros a deponer paro",
-   "resumen": "El biministro Claudio Alvarado confirmó que se revertirá el alza de $42 en gasolinas y $39 en diésel, mientras gremios consultan a sus bases.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-3.jpg-1-e1794446288328.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T15:00:00.000Z",
-   "visto": "2026-11-12T01:30:24.287Z",
    "cats": [
     "politica"
    ],
