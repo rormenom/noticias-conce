@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T20:20:22.080Z",
+ "generado": "2026-11-16T20:30:28.579Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 58,
+    "enlaces": 159,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -1395,6 +1395,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
+   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
+   "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T15:00:00.000Z",
+   "visto": "2026-11-16T20:30:28.579Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/15/rescatan-por-tierra-a-dos-oficiales-accidentados-en-volcan-antuco-clima-impide-operativo-aereo.shtml",
    "titulo": "Rescatan por tierra a dos oficiales accidentados en Volcán Antuco: clima impide operativo aéreo",
    "resumen": "Dos oficiales del Ejército de Chile del destacamento 17 de Los Ángeles, accidentados ayer en el volcán Antuco, están siendo...",
@@ -1403,20 +1417,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-15T13:19:35.000Z",
    "visto": "2026-11-15T13:20:19.456Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/militar-habria-sufrido-accidente-en-sierra-velluda-ejercito-anuncia-rescate-para-este-domingo",
-   "titulo": "Ejército prepara rescate de militar que habría sufrido un accidente en Sierra Velluda",
-   "resumen": "Un miembro del Destacamento de Montaña N° 17 “Los Ángeles” habría resultado accidentado en las laderas de Sierra Velluda durante una actividad deportiva de montaña realizada fuera de su horario de servicio. El hecho ocurrió en la región del Bío Bío. De…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/militar-habria-sufrido-accidente-en-sierra-velluda-ejercito-anuncia-rescate-para-este-domingo.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T10:10:22.169Z",
-   "visto": "2026-11-15T10:10:22.169Z",
    "cats": [
     "regional"
    ],
