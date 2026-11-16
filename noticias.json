@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T13:10:32.717Z",
+ "generado": "2026-11-16T13:30:31.633Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 58,
+    "enlaces": 160,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/preocupacion-por-abandono-de-memorial-27f-en-concepcion-denuncian-insalubridad-robos-y-pernoctacion",
+   "titulo": "Preocupación por Memorial 27F en Concepción: denuncian insalubridad, robos y pernoctación",
+   "resumen": "Un deterioro en materia de seguridad y salubridad enfrenta actualmente el Memorial del 27F, ubicado en el Parque Costanera de Concepción a un costado del Teatro Biobío. Según constató en terreno el equipo, el monumento inaugurado en octubre de 2013 para…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-09.10.18-e1794835735842.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T13:30:31.633Z",
+   "visto": "2026-11-16T13:30:31.633Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/seremi-de-justicia-encabezo-constitucion-de-la-comision-de-coordinacion-del-sistema-de-justicia-penal-en-el-biobio/",
    "titulo": "Biobío: Constituyen Comisión de Coordinación del Sistema de Justicia Penal",
@@ -1497,20 +1511,6 @@
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/PHOTO-2026-11-13-16-24-47-e1794603761339.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
-   "fecha": "2026-11-13T21:10:23.248Z",
-   "visto": "2026-11-13T21:10:23.248Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/fallece-jose-ramon-arellano-payaso-tony-pulguita.html",
-   "titulo": "Luto en el Biobío: fallece José Ramón Arellano, el histórico payaso “Tony Pulguita”",
-   "resumen": "El artista falleció este viernes tras luchar contra un cáncer. Tras más de 30 años de trayectoria, se había retirado de los escenarios en marzo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fallece-jose-ramon-arellano-payaso-tony-pulguita.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-13T21:10:23.248Z",
    "visto": "2026-11-13T21:10:23.248Z",
    "cats": [
