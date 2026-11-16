@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T17:50:21.976Z",
+ "generado": "2026-11-16T18:00:30.830Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -2325,20 +2325,6 @@
    "cats": [
     "regional",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/yo-elijo-mi-pc-continuacion-programa.html",
-   "titulo": "“Yo Elijo Mi PC”: Gobierno confirma reposición del programa tras críticas transversales",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IEARZ2EHUBAHJGNFVJQAPYKLNM.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T18:00:29.662Z",
-   "visto": "2026-11-11T18:00:29.662Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
