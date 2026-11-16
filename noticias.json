@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T20:30:28.579Z",
+ "generado": "2026-11-16T20:40:22.206Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 159,
+    "enlaces": 158,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/municipios-subdere-modernizacion.html",
+   "titulo": "Municipios podrán optar a financiamiento para modernización y ciberseguridad",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-16-at-5.07.42-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T20:40:22.206Z",
+   "visto": "2026-11-16T20:40:22.206Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/con-125-votos-a-favor-camara-baja-aprueba-iniciativa-para-contener-el-precio-de-gasolinas.html",
    "titulo": "Con 125 votos a favor: Cámara Baja aprueba iniciativa para contener el precio de gasolinas",
@@ -1812,20 +1826,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
-   "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
-   "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pedro-marileo-dpp-arauco-e1794534128278.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/13/udec-programa-rescate-legado-teatral.html",
    "titulo": "UdeC impulsa el rescate de su legado teatral con nuevo programa de creación y formación escénica",
    "resumen": "“Escena UdeC” es el nombre de la iniciativa adjudicada por la Universidad de Concepción en el Fondo de las Artes Escénicas 2026, que contempla dos montajes, procesos formativos y actividades de mediación para acercar el teatro a las comunidades del Biobío y…",
@@ -1864,6 +1864,20 @@
    "visto": "2026-11-13T08:40:18.652Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
+   "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
+   "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pedro-marileo-dpp-arauco-e1794534128278.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-13T08:40:18.652Z",
+   "visto": "2026-11-13T08:40:18.652Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
