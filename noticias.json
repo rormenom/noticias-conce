@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T14:30:30.231Z",
+ "generado": "2026-11-16T14:40:31.012Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,10 +60,11 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 53,
-    "errores": 0,
-    "robots": 0
+    "enlaces": 155,
+    "leidas": 56,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/chile/2026/11/16/ac-presidente-del-ppd-confia-en-votos-del-pdg-y-chile-vamos-para-acusar-a-rabat-los-votos-estan.shtml)"
    }
   },
   {
@@ -74,7 +75,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 17,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
@@ -82,38 +83,38 @@
  ],
  "items": [
   {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/vecinos-de-hualpen-denuncian-proliferacion-de-zancudos-en-canal-price-por-estancamiento-de-aguas",
+   "titulo": "Vecinos de Hualpén denuncian proliferación de zancudos en Canal Price por estancamiento de aguas",
+   "resumen": "Plaga de zancudos denuncian los habitantes del sector colindante al Canal Price, en la comuna de Hualpén, a raíz del estancamiento de aguas, la acumulación de basura y el crecimiento descontrolado de maleza en el cauce. Según relatan las familias residentes,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-10.32.44-e1794839266485.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:40:31.012Z",
+   "visto": "2026-11-16T14:40:31.012Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/dos-investigaciones-por-delitos-sexuales-contra-ninas-terminan-con-dos-detenidos-en-penco-y-chiguayant.shtml",
+   "titulo": "Dos investigaciones por delitos sexuales contra niñas terminan con detenidos en Penco y Chiguayante",
+   "resumen": "Dos hombres adultos fueron detenidos por detectives de la Brigada Investigadora de Delitos Sexuales (Brisex) de la PDI de Concepción,acusados...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020674-foto-contexto-nota-bbcl-2026-11-16t113141-267.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-16T14:32:34.000Z",
+   "visto": "2026-11-16T14:40:31.012Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/16/gran-concepcion-continua-escasez-de-jurel-en-los-supermercados-pese-a-su-recuperacion-en-invierno",
    "titulo": "Gran Concepción: persiste la falta de jurel en supermercados, pese a la recuperación invernal en su disponibilidad",
    "resumen": "El jurel continúa siendo difícil de encontrar en las góndolas de los supermercados. Aunque el Instituto de Investigación Pesquera de Talcahuano informó que las capturas de este recurso repuntaron durante el invierno, algunas empresas suspendieron la…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/capturas-de-pantalla-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:30:30.231Z",
-   "visto": "2026-11-16T14:30:30.231Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/ola-de-robos-afecta-a-iglesias-de-lota-denuncian-falta-de-vigilancia-policial-y-exigen-medidas-de-seguridad",
-   "titulo": "Ola de robos afecta a iglesias de Lota: denuncian falta de vigilancia policial y exigen medidas de seguridad",
-   "resumen": "Al menos una docena de robos han afectado a iglesias evangélicas y católicas de Lota durante las últimas semanas, principalmente en el sector céntrico de la comuna. La reiteración de estos delitos ha generado preocupación entre las comunidades religiosas, que…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/5555.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:30:30.231Z",
-   "visto": "2026-11-16T14:30:30.231Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/salud-del-biobio-realizo-59-fiscalizaciones-a-hogares-de-adultos-mayores-12-terminaron-en-sumarios",
-   "titulo": "Salud del Biobío realizó 59 fiscalizaciones a hogares de adultos mayores: 12 terminaron en sumarios",
-   "resumen": "Un total de 59 fiscalizaciones a Establecimientos de Larga Estadía para Adultos Mayores (ELEAM) ha realizado durante este año la Seremi de Salud del Biobío, procedimientos que han derivado en 12 sumarios sanitarios, según informó la autoridad regional. Las…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.22-AM-e1794839280120.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-16T14:30:30.231Z",
@@ -142,6 +143,34 @@
    "titulo": "Concepción: Colisión frontal entre vehículo y camión provoca congestión vehicular en Pedro de Valdivia",
    "resumen": "Una colisión frontal entre un vehículo particular tipo SUV y un camión se registró en la intersección de las calles Sargento Aldea y Raúl Méndez, en el sector Pedro de Valdivia de Concepción, a la altura de la Clínica Sanatorio Alemán. A raíz de la magnitud…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/CHOQUE-PEDRO-VALDIVIA.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:30:30.231Z",
+   "visto": "2026-11-16T14:30:30.231Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/ola-de-robos-afecta-a-iglesias-de-lota-denuncian-falta-de-vigilancia-policial-y-exigen-medidas-de-seguridad",
+   "titulo": "Ola de robos afecta a iglesias de Lota: denuncian falta de vigilancia policial y exigen medidas de seguridad",
+   "resumen": "Al menos una docena de robos han afectado a iglesias evangélicas y católicas de Lota durante las últimas semanas, principalmente en el sector céntrico de la comuna. La reiteración de estos delitos ha generado preocupación entre las comunidades religiosas, que…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/5555.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:30:30.231Z",
+   "visto": "2026-11-16T14:30:30.231Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/salud-del-biobio-realizo-59-fiscalizaciones-a-hogares-de-adultos-mayores-12-terminaron-en-sumarios",
+   "titulo": "Salud del Biobío realizó 59 fiscalizaciones a hogares de adultos mayores: 12 terminaron en sumarios",
+   "resumen": "Un total de 59 fiscalizaciones a Establecimientos de Larga Estadía para Adultos Mayores (ELEAM) ha realizado durante este año la Seremi de Salud del Biobío, procedimientos que han derivado en 12 sumarios sanitarios, según informó la autoridad regional. Las…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.22-AM-e1794839280120.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-16T14:30:30.231Z",
@@ -857,20 +886,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/laguna-chica-reabre-con-acceso-gratuito-y-aforo-limitado-a-3-000-personas-tras-remodelacion",
-   "titulo": "Laguna Chica reabre con acceso gratuito y aforo limitado a 3.000 personas tras remodelación",
-   "resumen": "Tras dos veranos funcionando a media marcha por los trabajos de remodelación, el balneario Laguna Chica abrirá sus puertas a la comunidad. El recinto cuenta ahora con nuevos baños, camarines, espacios para emprendedores y un centro de eventos. La temporada…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-13-at-13.33.50.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T15:20:19.288Z",
-   "visto": "2026-11-15T15:20:19.288Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/15/gobierno-anuncia-decreto-para-retirar-arboles-de-la-interfaz-y-cobrar-el-costo-a-quien-no-lo-haga",
    "titulo": "Gobierno anuncia decreto para retirar árboles de la interfaz y cobrar el costo a quien no lo haga",
    "resumen": "A 10 meses de los incendios forestales que afectaron a la Región del Bío Bío, se entregaron 14 viviendas en Tomé a familias que perdieron sus casas durante el megaincendio. En la ceremonia participaron el ministro de Vivienda y Urbanismo, Iván Poduje, el…",
@@ -882,6 +897,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/15/laguna-chica-reabre-con-acceso-gratuito-y-aforo-limitado-a-3-000-personas-tras-remodelacion",
+   "titulo": "Laguna Chica reabre con acceso gratuito y aforo limitado a 3.000 personas tras remodelación",
+   "resumen": "Tras dos veranos funcionando a media marcha por los trabajos de remodelación, el balneario Laguna Chica abrirá sus puertas a la comunidad. El recinto cuenta ahora con nuevos baños, camarines, espacios para emprendedores y un centro de eventos. La temporada…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-13-at-13.33.50.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-15T15:20:19.288Z",
+   "visto": "2026-11-15T15:20:19.288Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1446,20 +1475,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/14/paro-camioneros-impacto-puertos-biobio.html",
-   "titulo": "Paro de camioneros generó retrasos en la logística de los puertos del Biobío, pero no detuvo sus operaciones",
-   "resumen": "San Vicente retomó despachos este viernes, mientras Lirquén reportó retrasos de clientes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-entrada-de-camiones-al-puerto-foto-carolina.jpg-e1794623587319.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T08:40:21.206Z",
-   "visto": "2026-11-14T08:40:21.206Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/14/catedra-gonzalo-rojas-inaugura-nuevo-espacio-encuentro-poetico-primera-edicion-cicatrices.html",
    "titulo": "Cátedra Gonzalo Rojas inaugura nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
    "resumen": "La iniciativa impulsada por la poeta residente 2026-2027, la argentina Consuelo Iturraspe, junto con un equipo multidisciplinario UdeC, reunió a siete autores de la Región y dos invitadas trasandinas. La propuesta busca proyectarse en el tiempo y abrir nuevas…",
@@ -1484,20 +1499,6 @@
    "visto": "2026-11-14T08:40:21.206Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/14/hospitales-biobio-ranking-merco-salud-2026.html",
-   "titulo": "Merco Salud: Hospitales del Biobío destacan en ranking nacional de centros con mejor reputación",
-   "resumen": "El Hospital Las Higueras y el Guillermo Grant Benavente se ubicaron entre los primeros lugares de la clasificación de establecimientos públicos. En el ámbito privado, el Sanatorio Alemán avanzó a nivel nacional.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-hospital-las-higueras-de-Talcahuano-foto-isidoro.jpg-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T08:40:21.206Z",
-   "visto": "2026-11-14T08:40:21.206Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
