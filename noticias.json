@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T08:30:28.543Z",
+ "generado": "2026-11-16T08:40:19.470Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 55,
+    "leidas": 50,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,153 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/presupuesto-2027-senado-discusion-biobio.html",
+   "titulo": "Presupuesto 2027: lo que se juega el Biobío en la próxima discusión del Senado",
+   "resumen": "Siete ministerios llegan sin gastos variables al segundo trámite, mientras en el Biobío siguen pendientes las definiciones sobre el financiamiento del transporte público.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Sala-del-Senado-foto-Claudio-Cavalieri-Senado.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/de-monumento-a-refugio-la-crisis-social-de-la-poblacion-sin-hogar-se-vive-en-el-memorial-27f.html",
+   "titulo": "De monumento a refugio: la crisis social de la población sin hogar se vive en el Memorial 27F",
+   "resumen": "La obra que conmemora a víctimas del terremoto de 2010 es ocupada por personas en situación de calle, fenómeno creciente, pero transeúntes advierten deterioro e inseguridad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/16/feria-de-reduccion-de-riesgos-de-desastres-invito-a-la-comunidad-a-reflexionar-sobre-prevencion-de-emergencias.html",
+   "titulo": "Feria de Reducción de Riesgos de Desastres invitó a la comunidad a reflexionar sobre prevención de emergencias",
+   "resumen": "La tercera versión de la feria reunió a organismos públicos, privados y de respuesta ante emergencias. La jornada también permitió conocer las medidas que la Universidad implementa en el Campus Concepción para prevenir incendios forestales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/feria-prevenci%C3%B3n-Dircom-UdeC.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/fernandez-vial-no-se-confia-hay-que-enfrentar-la-vuelta-como-si-fueramos-0-0.html",
+   "titulo": "Fernández Vial no se confía: “Hay que enfrentar la vuelta como si fuéramos 0-0”",
+   "resumen": "Jeremy Olivares, una de las figuras e improvisado zaguero aurinegro, analizó el 2-1 en la ida ante Puente Alto y lo que viene. Cree que después de Monte Águila y Mejillones están listos para cualquier \"infierno\".",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fern%C3%A1ndez-vial-CD.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/bioestimulante-agricola-desechos-marinos-biobio.html",
+   "titulo": "Del mar al campo: ex pescador de Talcahuano desarrolló bioestimulante agrícola con residuos marinos",
+   "resumen": "Con una inversión propia de $100 millones y una solicitud de patente en trámite ante Inapi, Tomás Roa logró transformar caparazones de jaiba y conchas de navajuela en un insumo libre de metales pesados que ya se prueba con éxito desde Arica hasta Futaleufú.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cr%C3%A9dito-Tom%C3%A1s-Roa-Caja-principal.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/iniciativas-ciencia-comunidades-biobio.html",
+   "titulo": "Aprendizaje más allá de las aulas: iniciativas acercan el conocimiento a distintas comunidades del Biobío",
+   "resumen": "Según especialistas, experiencias recreativas, la exploración del entorno y la interacción con otros individuos ofrecen oportunidades tanto para aprender y desarrollar habilidades como para fortalecer vínculos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/bibliomovil.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/guerrero-de-penco-vuelve-con-70-anos-a-la-san-silvestre.html",
+   "titulo": "“Guerrero de Penco” vuelve con 70 años a la San Silvestre",
+   "resumen": "Sergio Ramírez corrió alguna vez 7 maratones en un año y a fines de este 2026 irá otra vez al calor de Brasil para un nuevo desafío. Quiere seguir en la pista hasta los 80 y reza para que las lesiones no lo alcancen.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-15-at-19.44.57.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/flo-y-jochy-elevandose-hasta-el-oro-en-la-araucania.html",
+   "titulo": "“Flo” y “Jochy”: elevándose hasta el oro en La Araucanía",
+   "resumen": "Florencia Melo y Josefa Fariña estudian en el Almondale San Pedro de la Paz, pero fuera de la sala de clases se combinan para remachar por Biobío. Con 17 años piensan en su futuro, con el vóleibol siempre presente.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Florencia-Melo-y-Josefa-Fari%C3%B1a.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/habra-revancha-basquetbol-udec-se-medira-en-las-semifinales-contra-leones.html",
+   "titulo": "Habrá revancha: básquetbol UdeC se medirá en las semifinales contra Leones",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/basquet-udec.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/medios-periodisticos-firman-documento-y-piden-fortalecer-la-proteccion-al-trabajo-frente-a-la-ia.html",
+   "titulo": "Medios periodísticos  firman documento y piden fortalecer la protección al trabajo frente a la IA",
+   "resumen": "En el Encuentro de Diarios Regionales, actores de todo el país fijaron posición frente a temas que definen el presente y futuro del periodismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/9-principal.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/15/tras-un-primer-intento-de-rescate-terrestre-evacuan-via-aerea-a-militar-accidentado-en-sierra-velluda.shtml",
    "titulo": "Tras un primer intento de rescate terrestre: evacúan vía aérea a militar accidentado en Sierra Velluda",
@@ -167,6 +307,20 @@
    "local": true
   },
   {
+   "url": "https://www.tvu.cl/prensa/2026/11/15/gran-concepcion-supera-promedio-de-habitantes-por-hogar-advierten-retos-en-planificacion-urbana.html",
+   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos en planificación urbana",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-15T18:30:24.942Z",
+   "visto": "2026-11-15T18:30:24.942Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.tvu.cl/prensa/2026/11/15/colegio-creacion-y-san-ignacio-se-coronaron-campeones-de-la-copa-interescolar-de-basquetbol-udec.html",
    "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
    "resumen": "",
@@ -193,20 +347,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/gran-concepcion-supera-promedio-de-habitantes-por-hogar-advierten-retos-en-planificacion-urbana.html",
-   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos en planificación urbana",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-15T18:30:24.942Z",
-   "visto": "2026-11-15T18:30:24.942Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -423,20 +563,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/pdi-detuvo-a-dos-hombres-por-delitos-sexuales-contra-menores-de-14-anos-en-penco-y-chiguayante.html",
-   "titulo": "PDI detuvo a dos hombres por delitos sexuales contra menores de 14 años en Penco y Chiguayante",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pdi-descarta-terceros-joven-fallecida-concepcion-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T15:00:00.000Z",
-   "visto": "2026-11-16T00:20:20.383Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/juzgado-de-garantia-de-talcahuano-decreta-la-prision-preventiva-de-imputado-por-homicidio-simple-en-monte-redondo.html",
    "titulo": "Juzgado de Garantía de Talcahuano decreta la prisión preventiva de imputado por homicidio simple en Monte Redondo",
    "resumen": "",
@@ -445,6 +571,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-15T15:00:00.000Z",
    "visto": "2026-11-16T00:11:12.148Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/pdi-detuvo-a-dos-hombres-por-delitos-sexuales-contra-menores-de-14-anos-en-penco-y-chiguayante.html",
+   "titulo": "PDI detuvo a dos hombres por delitos sexuales contra menores de 14 años en Penco y Chiguayante",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pdi-descarta-terceros-joven-fallecida-concepcion-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T15:00:00.000Z",
+   "visto": "2026-11-16T00:20:20.383Z",
    "cats": [
     "regional"
    ],
@@ -493,52 +633,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/15/nasa-space-apps-challenge-convoco-a-mas-de-un-centenar-de-jovenes-para-solucionar-retos-globales.html",
-   "titulo": "NASA Space Apps Challenge convocó a más de un centenar de jóvenes para solucionar retos globales",
-   "resumen": "Estos 14 y 15 de noviembre se realizó la mayor hackatón de innovación abierta del planeta en Concepción.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-desafio-de-la-nasa-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/ivan-poduje-reconstruccion-biobio.html",
-   "titulo": "“Superamos las mil viviendas iniciadas en Biobío”: Iván Poduje destaca avance en reconstrucción",
-   "resumen": "En su reciente visita titular del Minvu abordó el debate presupuestario y la reactivación del mercado inmobiliario, entre otros aspectos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ivan-poduje-ministro-vivienda.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/15/campeones-copa-interescolar-udec-basquetbol.html",
-   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
-   "resumen": "El Colegio Creación ganó la final femenina por 60-49 ante American Junior College, y San Ignacio se impuso 63-47 frente al Instituto de Humanidades de Concepción en varones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
-   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
-   "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/slep-andalien-costa-transporte-escolar-denuncias.html",
+   "titulo": "Apoderados del SLEP Andalién Costa exigen fiscalización y transparencia en licitación del transporte escolar",
+   "resumen": "Familias de Lota, Coronel, Santa Juana y San Pedro de la Paz denuncian problemas con los buses que trasladan a sus hijos. Desde el Servicio Local aseguraron que cuentan con un encargado dedicado a inspeccionar las máquinas en terreno.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-micro-transporte-escolar-foto-cedida.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-15T08:40:23.242Z",
@@ -563,16 +661,44 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/slep-andalien-costa-transporte-escolar-denuncias.html",
-   "titulo": "Apoderados del SLEP Andalién Costa exigen fiscalización y transparencia en licitación del transporte escolar",
-   "resumen": "Familias de Lota, Coronel, Santa Juana y San Pedro de la Paz denuncian problemas con los buses que trasladan a sus hijos. Desde el Servicio Local aseguraron que cuentan con un encargado dedicado a inspeccionar las máquinas en terreno.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-micro-transporte-escolar-foto-cedida.jpg",
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/ivan-poduje-reconstruccion-biobio.html",
+   "titulo": "“Superamos las mil viviendas iniciadas en Biobío”: Iván Poduje destaca avance en reconstrucción",
+   "resumen": "En su reciente visita titular del Minvu abordó el debate presupuestario y la reactivación del mercado inmobiliario, entre otros aspectos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ivan-poduje-ministro-vivienda.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
+   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
+   "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-15T08:40:23.242Z",
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/15/campeones-copa-interescolar-udec-basquetbol.html",
+   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
+   "resumen": "El Colegio Creación ganó la final femenina por 60-49 ante American Junior College, y San Ignacio se impuso 63-47 frente al Instituto de Humanidades de Concepción en varones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -587,6 +713,20 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/15/nasa-space-apps-challenge-convoco-a-mas-de-un-centenar-de-jovenes-para-solucionar-retos-globales.html",
+   "titulo": "NASA Space Apps Challenge convocó a más de un centenar de jóvenes para solucionar retos globales",
+   "resumen": "Estos 14 y 15 de noviembre se realizó la mayor hackatón de innovación abierta del planeta en Concepción.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-desafio-de-la-nasa-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
@@ -941,20 +1081,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/14/hospitales-biobio-ranking-merco-salud-2026.html",
-   "titulo": "Merco Salud: Hospitales del Biobío destacan en ranking nacional de centros con mejor reputación",
-   "resumen": "El Hospital Las Higueras y el Guillermo Grant Benavente se ubicaron entre los primeros lugares de la clasificación de establecimientos públicos. En el ámbito privado, el Sanatorio Alemán avanzó a nivel nacional.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-hospital-las-higueras-de-Talcahuano-foto-isidoro.jpg-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T08:40:21.206Z",
-   "visto": "2026-11-14T08:40:21.206Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/14/camioneros-paro-acuerdo-alusiones-octubrismo.html",
    "titulo": "Tras acuerdo con camioneros: transportistas descolgados del pacto rechazan alusiones al octubrismo",
    "resumen": "El Ejecutivo endureció el tono hacia quienes persisten en el paro y comparó sus acciones con las del estallido social. Dirigentes del Biobío cuestionaron el trato y aseguraron que sus movilizaciones no responden a intereses políticos.",
@@ -1007,6 +1133,20 @@
    "visto": "2026-11-14T08:40:21.206Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/14/hospitales-biobio-ranking-merco-salud-2026.html",
+   "titulo": "Merco Salud: Hospitales del Biobío destacan en ranking nacional de centros con mejor reputación",
+   "resumen": "El Hospital Las Higueras y el Guillermo Grant Benavente se ubicaron entre los primeros lugares de la clasificación de establecimientos públicos. En el ámbito privado, el Sanatorio Alemán avanzó a nivel nacional.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-hospital-las-higueras-de-Talcahuano-foto-isidoro.jpg-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T08:40:21.206Z",
+   "visto": "2026-11-14T08:40:21.206Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1360,62 +1500,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-13T19:00:30.492Z",
    "visto": "2026-11-13T19:00:30.492Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/homicidio-hombre-baleado-sar-candelaria-san-pedro-paz.html",
-   "titulo": "Nuevo homicidio en San Pedro de la Paz: hombre muere baleado en el SAR de Candelaria tras violenta riña",
-   "resumen": "La víctima fue atacada al interior de una vivienda. Desde el Ejecutivo confirmaron que la Brigada de Homicidios ya lidera las diligencias del caso.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Pistola-Carabineros.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T19:00:30.492Z",
-   "visto": "2026-11-13T19:00:30.492Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/conaf-y-efe-sur-lanzan-campana-de-prevencion-de-incendios-forestales-en-biotren-y-corto-laja/",
-   "titulo": "Conaf y Efe Sur lanzan campaña de prevención de incendios forestales en Biotrén y Corto Laja",
-   "resumen": "La Corporación Nacional Forestal (CONAF) y EFE Sur realizaron el […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/CONAF-EFE-768x576.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-13T18:55:17.000Z",
-   "visto": "2026-11-13T19:00:30.492Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/patrullajes-policia-maritima-penco-verano.html",
-   "titulo": "Controles de identidad en las playas de Penco aumentan un 294% y bajan infracciones por alcohol",
-   "resumen": "La mayor presencia de la Policía Marítima logró reducir en un 30% las infracciones por consumo de alcohol en las playas de la comuna.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/patrullajes-policia-maritima-penco-verano-1-1-e1794594695122.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T18:40:21.112Z",
-   "visto": "2026-11-13T18:40:21.112Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/fotos-videos-asi-es-la-casa-de-secuestro-y-tortura-que-se-descubrio-en-los-angeles",
-   "titulo": "Fotos y video muestran la casa de secuestro y tortura descubierta en Los Ángeles",
-   "resumen": "Se revelaron nuevos registros de la vivienda de secuestro y tortura descubierta en Los Ángeles, en la región del Bío Bío, durante una investigación por tráfico de drogas e infracción a la ley de armas. El operativo culminó con la detención y formalización de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/casa-tortura-secuestro-los-angeles-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T18:30:25.374Z",
-   "visto": "2026-11-13T18:30:25.374Z",
    "cats": [
     "regional"
    ],
@@ -1945,20 +2029,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/evandro-arteaga-con-titulo-de-entrenador-y-la-felicidad-al-formar-ninos.html",
-   "titulo": "Evandro Arteaga: con título de entrenador y la felicidad al formar niños",
-   "resumen": "Histórico basquetbolista disfruta preparando a los chicos de su academia, no descarta dirigir algún día un equipo profesional y analiza el presente de la UdeC buscando semifinales de la LNB.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/evandro-arteaga-e1794443313886.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/senadores-biobio-mocion-tarifas-paro-camionero.html",
    "titulo": "Senadores del Biobío presionan por tramitar moción de tarifas en medio del paro camionero",
    "resumen": "Se busca regular el cobro por kilómetro, fijar plazos máximos de pago y proteger a los transportistas de menor tamaño. La Comisión de Transportes del Senado acordó priorizar su debate.",
@@ -1973,10 +2043,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/joyita-busca-tercer-titulo-nacional-de-vela-con-los-colores-de-talcahuano.html",
-   "titulo": "“Joyita” busca tercer título nacional de vela con los colores de Talcahuano",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/joyita-e1794445349212.jpeg",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/evandro-arteaga-con-titulo-de-entrenador-y-la-felicidad-al-formar-ninos.html",
+   "titulo": "Evandro Arteaga: con título de entrenador y la felicidad al formar niños",
+   "resumen": "Histórico basquetbolista disfruta preparando a los chicos de su academia, no descarta dirigir algún día un equipo profesional y analiza el presente de la UdeC buscando semifinales de la LNB.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/evandro-arteaga-e1794443313886.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T08:40:19.790Z",
@@ -2011,6 +2081,20 @@
    "visto": "2026-11-12T08:40:19.790Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/joyita-busca-tercer-titulo-nacional-de-vela-con-los-colores-de-talcahuano.html",
+   "titulo": "“Joyita” busca tercer título nacional de vela con los colores de Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/joyita-e1794445349212.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-12T08:40:19.790Z",
+   "visto": "2026-11-12T08:40:19.790Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -2268,76 +2352,6 @@
    "visto": "2026-11-11T12:50:19.798Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/11/morados-y-acereros-chocaran-por-sexta-vez-en-el-juego-mas-importante-de-todos.html",
-   "titulo": "Morados y acereros chocarán por sexta vez en el juego más importante de todos",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Aldrix-Jara-Deportes-Concepci%C3%B3n-vs-Huachipato-foto-carolina-e1794357998303.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T08:40:19.390Z",
-   "visto": "2026-11-11T08:40:19.390Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/quintino-cinalli-regresa-concepcion-musica-formacion-nuevas-exploraciones-ritmicas.html",
-   "titulo": "Quintino Cinalli regresa a Concepción con música, formación y nuevas exploraciones rítmicas",
-   "resumen": "El destacado baterista y percusionista argentino desarrollará una serie de actividades entre el 11 y el 17 de noviembre, que incluyen una clínica abierta a músicos de distintas disciplinas, un conversatorio sobre su discografía y presentaciones en vivo junto…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Quintino-Cinalli-e1794357849547.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T08:40:19.390Z",
-   "visto": "2026-11-11T08:40:19.390Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/11/fernandez-vial-repechaje-puente-alto.html",
-   "titulo": "Matías Soto: “Nos queda la última bala y esa no la vamos a desperdiciar”",
-   "resumen": "Defensor de Fernández Vial analizó el cruce decisivo por la liguilla de promoción frente a Puente Alto tras dejar atrás la dolorosa caída por penales en casa de Mejillones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Matias-Soto-Fernandez-Vial-foto-facebook-C.D.-Arturo-Fern%C3%A1ndez-Vial-e1794357714246.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T08:40:19.390Z",
-   "visto": "2026-11-11T08:40:19.390Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/11/presupuesto-2027-reposiciones-indicaciones-biobio.html",
-   "titulo": "Reposiciones e indicaciones pendientes: los ejes del Presupuesto 2027 para el Biobío",
-   "resumen": "La discusión particular en Sala pondrá a prueba la capacidad de Hacienda para sostener su borrador. Parlamentarios locales advierten que la restitución de recursos no basta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sala-camara-diputados-e1794357603776.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T08:40:19.390Z",
-   "visto": "2026-11-11T08:40:19.390Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/noche-de-museos-vuelve-biobio-mas-de-20-espacios-37-actividades-gratuitas.html",
-   "titulo": "Noche de Museos vuelve a Biobío con más de 20 espacios y 37 actividades gratuitas",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-Seremi-de-las-Culturas-Biob%C3%ADo-e1794357909178.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T08:40:19.390Z",
-   "visto": "2026-11-11T08:40:19.390Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   }
