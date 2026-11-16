@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T16:40:21.353Z",
+ "generado": "2026-11-16T17:20:21.767Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 161,
+    "enlaces": 157,
     "leidas": 56,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/concepcion-cicletada-de-las-ninas.html",
+   "titulo": "Concepción contará con segunda edición de la “Cicletada de las Niñas”",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/06/D%C3%ADa-mundial-de-la-bicicleta-1-e1748991103524.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T17:20:21.767Z",
+   "visto": "2026-11-16T17:20:21.767Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/16/agricultores-del-biobio-advierten-posibles-perdidas-en-cerezas-arandanos-y-granos-por-lluvias-y-altas-temperaturas",
    "titulo": "Agricultores del Biobío advierten posibles pérdidas en cerezas, arándanos y granos por lluvias y altas temperaturas",
@@ -1183,20 +1197,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/slep-andalien-costa-transporte-escolar-denuncias.html",
-   "titulo": "Apoderados del SLEP Andalién Costa exigen fiscalización y transparencia en licitación del transporte escolar",
-   "resumen": "Familias de Lota, Coronel, Santa Juana y San Pedro de la Paz denuncian problemas con los buses que trasladan a sus hijos. Desde el Servicio Local aseguraron que cuentan con un encargado dedicado a inspeccionar las máquinas en terreno.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-micro-transporte-escolar-foto-cedida.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
    "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
    "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
@@ -1249,6 +1249,20 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/slep-andalien-costa-transporte-escolar-denuncias.html",
+   "titulo": "Apoderados del SLEP Andalién Costa exigen fiscalización y transparencia en licitación del transporte escolar",
+   "resumen": "Familias de Lota, Coronel, Santa Juana y San Pedro de la Paz denuncian problemas con los buses que trasladan a sus hijos. Desde el Servicio Local aseguraron que cuentan con un encargado dedicado a inspeccionar las máquinas en terreno.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-micro-transporte-escolar-foto-cedida.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1445,20 +1459,6 @@
    "visto": "2026-11-14T16:20:20.828Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/14/detienen-a-hombre-acusado-de-asesinar-a-disparos-a-joven-de-25-anos-en-hualpen",
-   "titulo": "Detienen a sospechoso de matar a balazos a un joven de 25 años en Hualpén",
-   "resumen": "Un hombre de 31 años fue detenido por su presunta participación en un homicidio cometido con arma de fuego en la comuna de Hualpén, en la región del Bío Bío. El operativo fue realizado por la Brigada de Homicidios de Concepción. El ataque tuvo lugar en la vía…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detenido-homicidio-joven-hualen.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-14T15:00:28.805Z",
-   "visto": "2026-11-14T15:00:28.805Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2339,20 +2339,6 @@
    "visto": "2026-11-11T18:00:29.662Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/11/noche-museos-biobio-20-espacios-37-actividades.html",
-   "titulo": "Noche de Museos vuelve a Biobío con más de 20 espacios y 37 actividades gratuitas",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/noche-de-museos.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-11T17:20:20.301Z",
-   "visto": "2026-11-11T17:20:20.301Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   }
