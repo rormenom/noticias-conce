@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T00:30:25.372Z",
+ "generado": "2026-11-16T00:50:25.488Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 56,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -479,20 +479,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/corte-apelaciones-concepcion-pide-mas-recursos.html",
-   "titulo": "Corte de Apelaciones pide más recursos para consolidar nueva sala ante alta carga laboral",
-   "resumen": "El presidente del tribunal de alzada, Pablo Zavala, destacó el trabajo de ministros y funcionarios para enfrentar el aumento de causas, y planteó que la solución pasa por contar con otra sala ordinaria y una mayor dotación hacia 2030.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/08/WhatsApp-Image-2026-08-28-at-17.14.08-e1787967394891.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/15/nasa-space-apps-challenge-convoco-a-mas-de-un-centenar-de-jovenes-para-solucionar-retos-globales.html",
    "titulo": "NASA Space Apps Challenge convocó a más de un centenar de jóvenes para solucionar retos globales",
    "resumen": "Estos 14 y 15 de noviembre se realizó la mayor hackatón de innovación abierta del planeta en Concepción.",
@@ -521,20 +507,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
-   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
-   "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/ivan-poduje-reconstruccion-biobio.html",
    "titulo": "“Superamos las mil viviendas iniciadas en Biobío”: Iván Poduje destaca avance en reconstrucción",
    "resumen": "En su reciente visita titular del Minvu abordó el debate presupuestario y la reactivación del mercado inmobiliario, entre otros aspectos.",
@@ -545,6 +517,20 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/gran-concepcion-habitantes-hogar-planificacion-urbana.html",
+   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos para la planificación urbana",
+   "resumen": "La conurbación promedia 2,9 personas por vivienda, mientras el nuevo coeficiente es de 2,8.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -587,6 +573,20 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/corte-apelaciones-concepcion-pide-mas-recursos.html",
+   "titulo": "Corte de Apelaciones pide más recursos para consolidar nueva sala ante alta carga laboral",
+   "resumen": "El presidente del tribunal de alzada, Pablo Zavala, destacó el trabajo de ministros y funcionarios para enfrentar el aumento de causas, y planteó que la solución pasa por contar con otra sala ordinaria y una mayor dotación hacia 2030.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/08/WhatsApp-Image-2026-08-28-at-17.14.08-e1787967394891.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
