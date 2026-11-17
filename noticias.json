@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T15:50:22.100Z",
+ "generado": "2026-11-17T16:00:30.032Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
+    "enlaces": 57,
     "leidas": 2,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/operativo-memorial-27f-rucos.html",
+   "titulo": "Concepción: retiran cinco rucos en operativo en Memorial 27F",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/dji_fly_20261117_095814_212_1794920753050_photo.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T16:00:30.032Z",
+   "visto": "2026-11-17T16:00:30.032Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/banda-planeta-no-presentara-un-abrazo-templo-crapula.html",
    "titulo": "Banda Planeta No presentará “Un Abrazo” en Templo Crápula",
@@ -1073,6 +1087,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/medios-periodisticos-firman-documento-y-piden-fortalecer-la-proteccion-al-trabajo-frente-a-la-ia.html",
+   "titulo": "Medios periodísticos  firman documento y piden fortalecer la protección al trabajo frente a la IA",
+   "resumen": "En el Encuentro de Diarios Regionales, actores de todo el país fijaron posición frente a temas que definen el presente y futuro del periodismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/9-principal.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T15:00:00.000Z",
+   "visto": "2026-11-17T15:50:22.100Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/16/senapred-advierte-tormentas-electricas-con-lluvias-y-vientos-intensos-durante-esta-tarde",
    "titulo": "Senapred advierte tormentas eléctricas con lluvias y vientos intensos durante esta tarde",
    "resumen": "Un fenómeno de tormentas eléctricas de rápida generación y corta duración podría afectar a distintas zonas de la región, mientras un nuevo sistema frontal debilitado se acerca para el martes. El director regional de Senapred, Alejandro Sandoval, y el…",
@@ -1087,14 +1115,14 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/medios-periodisticos-firman-documento-y-piden-fortalecer-la-proteccion-al-trabajo-frente-a-la-ia.html",
-   "titulo": "Medios periodísticos  firman documento y piden fortalecer la protección al trabajo frente a la IA",
-   "resumen": "En el Encuentro de Diarios Regionales, actores de todo el país fijaron posición frente a temas que definen el presente y futuro del periodismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/9-principal.jpg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/bioestimulante-agricola-desechos-marinos-biobio.html",
+   "titulo": "Del mar al campo: ex pescador de Talcahuano desarrolló bioestimulante agrícola con residuos marinos",
+   "resumen": "Con una inversión propia de $100 millones y una solicitud de patente en trámite ante Inapi, Tomás Roa logró transformar caparazones de jaiba y conchas de navajuela en un insumo libre de metales pesados que ya se prueba con éxito desde Arica hasta Futaleufú.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cr%C3%A9dito-Tom%C3%A1s-Roa-Caja-principal.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T15:00:00.000Z",
-   "visto": "2026-11-17T15:50:22.100Z",
+   "visto": "2026-11-17T16:00:30.032Z",
    "cats": [
     "regional"
    ],
@@ -1418,34 +1446,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-16T11:00:26.723Z",
    "visto": "2026-11-16T11:00:26.723Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/municipalidad-de-lota-se-querella-por-incendio-que-arraso-con-exescuela-especial-luis-cousino-squella.shtml",
-   "titulo": "Municipalidad de Lota se querella por incendio que arrasó con exescuela especial Luis Cousiño Squella",
-   "resumen": "La Municipalidad de Lota, en la región del Bío Bío, presentó una querella criminal por el incendio que arrasó...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020341-incendio-exescuela-lota.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-16T10:48:43.000Z",
-   "visto": "2026-11-16T10:50:20.233Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/tras-un-primer-intento-de-rescate-terrestre-evacuan-via-aerea-a-militar-accidentado-en-sierra-velluda",
-   "titulo": "Militar herido en Sierra Velluda es evacuado por aire tras fallido rescate terrestre",
-   "resumen": "Un miembro del Destacamento de Montaña N° 17 “Los Ángeles” fue evacuado por vía aérea luego de accidentarse mientras practicaba una actividad deportiva en el sector de Sierra Velluda, en la zona cordillerana de la provincia de Bío Bío. El procedimiento se…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/rescatan-via-aerea-a-militar-accidentado-en-sierra-velluda-y-lo-trasladan-a-hospital-de-los-angeles.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T09:10:21.163Z",
-   "visto": "2026-11-16T09:10:21.163Z",
    "cats": [
     "regional"
    ],
