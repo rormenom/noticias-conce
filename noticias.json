@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T21:30:25.200Z",
+ "generado": "2026-11-17T21:40:20.579Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 54,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 13,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -82,10 +82,10 @@
  ],
  "items": [
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/desarticulan-estructura-criminal-que-adquiria-abultaba-y-distribuia-droga-en-el-gran-concepcion",
-   "titulo": "Desarticulan red que compraba, adulteraba y distribuía drogas en el Gran Concepción",
-   "resumen": "Un procedimiento de la Brigada Antinarcóticos de la Policía de Investigaciones (PDI) consiguió desmantelar una organización criminal dedicada al narcotráfico en el Gran Concepción. La operación culminó con cinco detenidos y el decomiso de marihuana, cocaína,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/banda-narco-gran-concepcion-.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/17/reprograman-reformalizacion-de-gerente-de-digosa-por-atropello-en-lirquen-esta-fuera-del-pais",
+   "titulo": "Reprograman audiencia de gerente de Digosa por atropello en Lirquén; permanece fuera del país",
+   "resumen": "El Ministerio Público resolvió reformalizar al conductor que atropelló a un estudiante en Penco hace dos años, tras un reclamo de la víctima ante la Fiscalía Regional. No obstante, la audiencia fijada para este martes se aplazó porque el imputado viajó al…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-17t180610-959.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-17T21:30:25.200Z",
@@ -96,10 +96,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/reprograman-reformalizacion-de-gerente-de-digosa-por-atropello-en-lirquen-esta-fuera-del-pais",
-   "titulo": "Reprograman audiencia de gerente de Digosa por atropello en Lirquén; permanece fuera del país",
-   "resumen": "El Ministerio Público resolvió reformalizar al conductor que atropelló a un estudiante en Penco hace dos años, tras un reclamo de la víctima ante la Fiscalía Regional. No obstante, la audiencia fijada para este martes se aplazó porque el imputado viajó al…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-17t180610-959.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/17/desarticulan-estructura-criminal-que-adquiria-abultaba-y-distribuia-droga-en-el-gran-concepcion",
+   "titulo": "Desarticulan red que compraba, adulteraba y distribuía drogas en el Gran Concepción",
+   "resumen": "Un procedimiento de la Brigada Antinarcóticos de la Policía de Investigaciones (PDI) consiguió desmantelar una organización criminal dedicada al narcotráfico en el Gran Concepción. La operación culminó con cinco detenidos y el decomiso de marihuana, cocaína,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/banda-narco-gran-concepcion-.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-17T21:30:25.200Z",
