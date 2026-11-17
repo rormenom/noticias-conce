@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T12:00:31.760Z",
+ "generado": "2026-11-17T12:10:22.253Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/senado-despacha-ley-freno-alza-combustibles-rebaja.html",
+   "titulo": "Listo para ser Ley: Senado aprueba rebaja y congela alzas de combustibles hasta 2027",
+   "resumen": "La iniciativa, aprobada por unanimidad en general pasadas las 22:00 horas, establece techos temporales a los precios de las bencinas hasta abril de 2027 y entrega alivios al transporte de carga y pasajeros.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/senado-despacha-ley-freno-alza-combustibles-rebaja-e1794916864879.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T12:10:22.253Z",
+   "visto": "2026-11-17T12:10:22.253Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/hualpen-trabajadores-contratistas-bloquean-acceso-a-refineria-enap-exigiendo-pago-de-bono",
    "titulo": "Hualpén: trabajadores contratistas bloquean acceso a Refinería ENAP exigiendo pago de bono",
@@ -222,20 +236,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/amenazas-contexto-escolar-superintendencia-educacion.html",
-   "titulo": "Llaman a tomar conciencia de la gravedad de las amenazas en contexto escolar",
-   "resumen": "El caso de un apoderado que amenazó a una comunidad educativa en Talcahuano reabrió la discusión sobre la gravedad de estas conductas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-violencia-escolar-foto-cedida.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/princesa-alba-rec-malagradecida.html",
    "titulo": "“Me encantaría mostrar este show en el REC”: Princesa Alba y su nueva era con “Malagradecida”",
    "resumen": "En conversación con Diario Concepción, la artista pop repasó el proceso de su nuevo disco y abordó su relación con tierras penquistas, una de las comunas en las que cuenta con mayor cantidad de oyentes.",
@@ -274,6 +274,20 @@
    "visto": "2026-11-17T08:40:20.947Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/amenazas-contexto-escolar-superintendencia-educacion.html",
+   "titulo": "Llaman a tomar conciencia de la gravedad de las amenazas en contexto escolar",
+   "resumen": "El caso de un apoderado que amenazó a una comunidad educativa en Talcahuano reabrió la discusión sobre la gravedad de estas conductas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-violencia-escolar-foto-cedida.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1579,20 +1593,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/ivan-poduje-reconstruccion-biobio.html",
-   "titulo": "“Superamos las mil viviendas iniciadas en Biobío”: Iván Poduje destaca avance en reconstrucción",
-   "resumen": "En su reciente visita titular del Minvu abordó el debate presupuestario y la reactivación del mercado inmobiliario, entre otros aspectos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ivan-poduje-ministro-vivienda.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/15/campeones-copa-interescolar-udec-basquetbol.html",
    "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
    "resumen": "El Colegio Creación ganó la final femenina por 60-49 ante American Junior College, y San Ignacio se impuso 63-47 frente al Instituto de Humanidades de Concepción en varones.",
@@ -1631,6 +1631,20 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/ivan-poduje-reconstruccion-biobio.html",
+   "titulo": "“Superamos las mil viviendas iniciadas en Biobío”: Iván Poduje destaca avance en reconstrucción",
+   "resumen": "En su reciente visita titular del Minvu abordó el debate presupuestario y la reactivación del mercado inmobiliario, entre otros aspectos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ivan-poduje-ministro-vivienda.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
