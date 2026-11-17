@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T08:50:21.015Z",
+ "generado": "2026-11-17T09:10:25.447Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 57,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/conductor-ofrecio-trasladar-a-adulto-mayor-y-le-robo-anillo-tras-amenazarlo-con-cortarle-dedo-en-lota",
+   "titulo": "En Lota, un conductor amenazó a un adulto mayor y le robó un anillo tras ofrecerle llevarlo en su vehículo",
+   "resumen": "En Lota, región del Bío Bío, un automovilista que se había ofrecido a trasladar a un adulto mayor acabó involucrado en un violento asalto. El hombre de 79 años fue amenazado con que le cortaría un dedo si no entregaba el anillo de oro que llevaba puesto. El…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cntxt-pixabay-por-conductor-ofrecio-trasladar-a-adulto-mayor-y-le-robo-anillo-tras-amenazarlo-con-cortarle-dedo-en-lota.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T09:10:25.447Z",
+   "visto": "2026-11-17T09:10:25.447Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/pequenos-transportistas-del-bio-bio-llaman-a-rechazar-ley-que-congela-alza-de-combustibles",
+   "titulo": "Transportistas independientes del Bío Bío piden rechazar la ley que congela el precio de los combustibles",
+   "resumen": "Pequeños transportistas de la región del Bío Bío instaron a los parlamentarios a votar contra la ley que busca contener el aumento de los combustibles, pues consideran que la medida no responde a las demandas planteadas durante la paralización. Senadores de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/pequenos-transportistas-rechazar-ley-co9ngela-precios-combustibles.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T09:10:25.447Z",
+   "visto": "2026-11-17T09:10:25.447Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/despidos-biobio-aumento-2026.html",
    "titulo": "Despidos en el Biobío: desvinculaciones formales aumentaron 20,2% durante 2026",
@@ -761,6 +789,20 @@
    "local": true
   },
   {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/salud-del-biobio-realizo-59-fiscalizaciones-a-hogares-de-adultos-mayores-12-terminaron-en-sumarios",
+   "titulo": "Salud del Biobío realizó 59 fiscalizaciones a hogares de adultos mayores: 12 terminaron en sumarios",
+   "resumen": "Un total de 59 fiscalizaciones a Establecimientos de Larga Estadía para Adultos Mayores (ELEAM) ha realizado durante este año la Seremi de Salud del Biobío, procedimientos que han derivado en 12 sumarios sanitarios, según informó la autoridad regional. Las…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.22-AM-e1794839280120.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T14:30:30.231Z",
+   "visto": "2026-11-16T14:30:30.231Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/16/fijan-para-diciembre-nueva-fecha-de-preparacion-de-juicio-oral-del-caso-puerto-coronel",
    "titulo": "Puerto Coronel: reprograman para diciembre la preparación del juicio oral",
    "resumen": "Se estableció una nueva fecha para la preparación del juicio oral en el caso Puerto Coronel, mientras el Tribunal Constitucional analiza un recurso presentado por el alcalde Boris Chamorro. Las audiencias quedaron fijadas para el 7, 9 y 10 de diciembre. En…",
@@ -779,20 +821,6 @@
    "titulo": "Concepción: Colisión frontal entre vehículo y camión provoca congestión vehicular en Pedro de Valdivia",
    "resumen": "Una colisión frontal entre un vehículo particular tipo SUV y un camión se registró en la intersección de las calles Sargento Aldea y Raúl Méndez, en el sector Pedro de Valdivia de Concepción, a la altura de la Clínica Sanatorio Alemán. A raíz de la magnitud…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/CHOQUE-PEDRO-VALDIVIA.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:30:30.231Z",
-   "visto": "2026-11-16T14:30:30.231Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/salud-del-biobio-realizo-59-fiscalizaciones-a-hogares-de-adultos-mayores-12-terminaron-en-sumarios",
-   "titulo": "Salud del Biobío realizó 59 fiscalizaciones a hogares de adultos mayores: 12 terminaron en sumarios",
-   "resumen": "Un total de 59 fiscalizaciones a Establecimientos de Larga Estadía para Adultos Mayores (ELEAM) ha realizado durante este año la Seremi de Salud del Biobío, procedimientos que han derivado en 12 sumarios sanitarios, según informó la autoridad regional. Las…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.22-AM-e1794839280120.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-16T14:30:30.231Z",
@@ -1459,34 +1487,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-15T16:00:25.763Z",
    "visto": "2026-11-15T16:00:25.763Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/cuatro-areas-protegidas-del-bio-bio-reciben-219-millones-para-mejorar-su-infraestructura",
-   "titulo": "Cuatro áreas protegidas del Bío Bío reciben $219 millones para mejorar su infraestructura",
-   "resumen": "Los parques nacionales Nonguén y Laguna de Laja, en la región del Bío Bío, recibirán recursos para mejorar sus condiciones de funcionamiento, en el marco del traspaso de las áreas protegidas desde CONAF al Servicio de Biodiversidad y Áreas Protegidas. El…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2024/08/PARQUE-NONGUEN.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T16:00:25.763Z",
-   "visto": "2026-11-15T16:00:25.763Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/mineduc-entrega-fondos-de-emergencia-a-escuela-las-dunas-de-los-alamos-y-al-liceo-alonso-de-ercilla-de-canete",
-   "titulo": "Mineduc entrega fondos de emergencia a escuela Las Dunas de Los Álamos y al Liceo Alonso de Ercilla de Cañete",
-   "resumen": "La escuela Las Dunas, en el sector rural de Pangui (comuna de Los Álamos), y el Liceo Técnico Profesional Alonso de Ercilla de Cañete recibieron fondos de emergencia del Ministerio de Educación para reparar los daños que dejaron los sistemas frontales de los…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/a1-archiv-por-suspenden-clases-para-este-viernes-en-colegios-de-6-comunas-del-gran-concepcion-por-sistema-frontal.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T15:50:19.509Z",
-   "visto": "2026-11-15T15:50:19.509Z",
    "cats": [
     "regional"
    ],
