@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-17T13:50:24.432Z",
+ "generado": "2026-11-17T14:00:35.446Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 507",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -60,8 +61,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 160,
-    "leidas": 60,
+    "enlaces": 158,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +75,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 10,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/hombre-de-33-anos-muere-baleado-en-el-antejardin-de-su-vivienda-en-san-pedro-de-la-paz",
+   "titulo": "Hombre de 33 años muere baleado en el antejardín de su vivienda en San Pedro de la Paz",
+   "resumen": "Un hombre de 33 años fue asesinado a disparos al interior del antejardín de su domicilio en la comuna de San Pedro de la Paz, región del Biobío. El crimen ocurrió luego de que un grupo compuesto por al menos cuatro individuos llegara hasta la propiedad para…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/carabineros-3-e1794923523599.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T14:00:35.446Z",
+   "visto": "2026-11-17T14:00:35.446Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/vecinos-de-vipla-y-geochile-en-penco-acusan-incumplimientos-y-esperan-nueva-fecha-para-demoliciones.shtml",
    "titulo": "Vecinos de Vipla y Geochile en Penco acusan incumplimientos y esperan nueva fecha para demoliciones",
@@ -278,20 +293,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/princesa-alba-rec-malagradecida.html",
-   "titulo": "“Me encantaría mostrar este show en el REC”: Princesa Alba y su nueva era con “Malagradecida”",
-   "resumen": "En conversación con Diario Concepción, la artista pop repasó el proceso de su nuevo disco y abordó su relación con tierras penquistas, una de las comunas en las que cuenta con mayor cantidad de oyentes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-Princesa-Alba-foto-cedida-Princesa-Alba.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/el-nino-biobio-lluvias-remociones-en-masa-riesgos.html",
    "titulo": "Lluvias, calor y remociones en masa: los posibles efectos de El Niño en el Biobío",
    "resumen": "Los pronósticos internacionales anticipan que el fenómeno podría alcanzar un peak extraordinario entre noviembre y diciembre. Especialistas explicaron cómo podría incidir en el territorio regional.",
@@ -302,6 +303,20 @@
    "visto": "2026-11-17T08:40:20.947Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/princesa-alba-rec-malagradecida.html",
+   "titulo": "“Me encantaría mostrar este show en el REC”: Princesa Alba y su nueva era con “Malagradecida”",
+   "resumen": "En conversación con Diario Concepción, la artista pop repasó el proceso de su nuevo disco y abordó su relación con tierras penquistas, una de las comunas en las que cuenta con mayor cantidad de oyentes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-Princesa-Alba-foto-cedida-Princesa-Alba.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -1498,20 +1513,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-16T01:49:55.000Z",
    "visto": "2026-11-16T01:50:19.507Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/familiares-vecinos-y-artistas-circenses-dan-el-ultimo-adios-a-tony-pulguita",
-   "titulo": "Familiares, vecinos y artistas circenses despiden a Tony Pulguita",
-   "resumen": "Familiares, residentes y compañeros del mundo circense se reunieron este domingo para despedir a José Ramón Arellano, conocido por interpretar al querido payaso “Tony Pulguita”, personaje que acompañó a varias generaciones de niños de la región del Bío Bío…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/familiares-vecinos-y-artistas-circenses-dan-el-ultimo-adios-a-_tony-pulguita_.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T23:50:20.671Z",
-   "visto": "2026-11-15T23:50:20.671Z",
    "cats": [
     "regional"
    ],
