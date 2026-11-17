@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T19:40:21.088Z",
+ "generado": "2026-11-17T19:50:24.406Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 59,
+    "enlaces": 151,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/ley-rebaja-combustibles-bencina-diesel-congelamiento.html",
+   "titulo": "Publican en el Diario Oficial la ley de combustibles: rebajan tarifas y congelan precios hasta 2027",
+   "resumen": "El Ejecutivo anunció la entrada en vigencia de la normativa que contiene las alzas de los combustibles.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-5.jpg-1-e1794944502229.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T19:50:24.406Z",
+   "visto": "2026-11-17T19:50:24.406Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/advierten-riesgos-por-tormentas-electricas-en-la-cordillera-del-biobio-y-llaman-a-evitar-ascensos",
+   "titulo": "Advierten riesgos por tormentas eléctricas en la cordillera del Biobío y llaman a evitar ascensos",
+   "resumen": "Ante las condiciones meteorológicas inestables, autoridades del Biobío recomendaron suspender temporalmente las actividades de montaña y evitar recorridos de riesgo. La presencia de tormentas eléctricas, lluvias intensas de corta duración y fuertes vientos…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/62-e1794944728307.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T19:50:24.406Z",
+   "visto": "2026-11-17T19:50:24.406Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/corte-suprema-confirma-que-municipalidad-de-concepcion-despidio-a-funcionaria-por-razones-politicas.shtml",
    "titulo": "Corte Suprema confirma que Municipalidad de Concepción despidió a funcionaria por razones políticas",
@@ -1508,20 +1536,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/fijan-para-diciembre-nueva-fecha-de-preparacion-de-juicio-oral-del-caso-puerto-coronel",
-   "titulo": "Puerto Coronel: reprograman para diciembre la preparación del juicio oral",
-   "resumen": "Se estableció una nueva fecha para la preparación del juicio oral en el caso Puerto Coronel, mientras el Tribunal Constitucional analiza un recurso presentado por el alcalde Boris Chamorro. Las audiencias quedaron fijadas para el 7, 9 y 10 de diciembre. En…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/puerto-coronel.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:30:30.231Z",
-   "visto": "2026-11-16T14:30:30.231Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/astronomia/2026/11/16/astronomos-descubren-el-primer-planeta-gigante-que-desaparecio-mientras-lo-observaban.shtml",
    "titulo": "Astrónomos descubren el primer planeta gigante que desapareció mientras lo observaban",
    "resumen": "Astrónomos de la Universidad de California en Los Ángeles (UCLA) descubrieron el primer planeta del que se ha visto desaparecer...",
@@ -1579,20 +1593,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/presupuesto-2027-senado-discusion-biobio.html",
-   "titulo": "Presupuesto 2027: lo que se juega el Biobío en la próxima discusión del Senado",
-   "resumen": "Siete ministerios llegan sin gastos variables al segundo trámite, mientras en el Biobío siguen pendientes las definiciones sobre el financiamiento del transporte público.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Sala-del-Senado-foto-Claudio-Cavalieri-Senado.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/fernandez-vial-no-se-confia-hay-que-enfrentar-la-vuelta-como-si-fueramos-0-0.html",
    "titulo": "Fernández Vial no se confía: “Hay que enfrentar la vuelta como si fuéramos 0-0”",
    "resumen": "Jeremy Olivares, una de las figuras e improvisado zaguero aurinegro, analizó el 2-1 en la ida ante Puente Alto y lo que viene. Cree que después de Monte Águila y Mejillones están listos para cualquier \"infierno\".",
@@ -1645,6 +1645,20 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/presupuesto-2027-senado-discusion-biobio.html",
+   "titulo": "Presupuesto 2027: lo que se juega el Biobío en la próxima discusión del Senado",
+   "resumen": "Siete ministerios llegan sin gastos variables al segundo trámite, mientras en el Biobío siguen pendientes las definiciones sobre el financiamiento del transporte público.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Sala-del-Senado-foto-Claudio-Cavalieri-Senado.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -2237,21 +2251,6 @@
    "visto": "2026-11-12T22:40:22.289Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/paro-de-camioneros-gobierno-llama-a-mantener-el-dialogo-mientras-transito-continua-lento-en-rutas-en-el-biobio",
-   "titulo": "Paro de camioneros: Gobierno llama a mantener el diálogo mientras tránsito continúa lento en rutas en el Biobío",
-   "resumen": "Las movilizaciones de camioneros cumplen este jueves su cuarta jornada en la Región del Biobío, con presencia de transportistas en distintos puntos de la provincia y complicaciones en el desplazamiento de vehículos. En conversación con La Radio desde el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/A_UNO_1780149_10af4.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T19:50:19.973Z",
-   "visto": "2026-11-12T19:50:19.973Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
