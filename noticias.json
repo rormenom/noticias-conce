@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T10:10:20.814Z",
+ "generado": "2026-11-17T10:30:25.360Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 57,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/penco-multara-con-350-mil-a-quienes-boten-basura-en-la-via-publica-y-sectores-forestales",
+   "titulo": "Penco multará con $350 mil a quienes boten basura en la vía pública y sectores forestales",
+   "resumen": "El aumento de las temperaturas y las acciones negligentes podrían provocar un nuevo incendio en la comuna de Penco. En ese contexto, el alcalde Rodrigo Vera y el comisario de la Tercera Comisaría de Penco se refirieron a las sanciones por botar basura donde…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2022/07/Captura-de-Pantalla-2022-07-20-a-las-21.33.46.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T10:30:25.360Z",
+   "visto": "2026-11-17T10:30:25.360Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/conductor-ofrecio-trasladar-a-adulto-mayor-y-le-robo-anillo-tras-amenazarlo-con-cortarle-dedo-en-lota",
    "titulo": "En Lota, un conductor amenazó a un adulto mayor y le robó un anillo tras ofrecerle llevarlo en su vehículo",
@@ -733,6 +747,20 @@
    "local": true
   },
   {
+   "url": "https://www.canal9.cl/episodios/2026/11/16/senapred-advierte-tormentas-electricas-con-lluvias-y-vientos-intensos-durante-esta-tarde",
+   "titulo": "Senapred advierte tormentas eléctricas con lluvias y vientos intensos durante esta tarde",
+   "resumen": "Un fenómeno de tormentas eléctricas de rápida generación y corta duración podría afectar a distintas zonas de la región, mientras un nuevo sistema frontal debilitado se acerca para el martes. El director regional de Senapred, Alejandro Sandoval, y el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/senapred-mantiene-alerta-roja-en-10-comunas-de-la-rm-por-regreso-de-lluvia-y-riesgo-de-aluviones.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-16T15:00:00.000Z",
+   "visto": "2026-11-17T10:30:25.360Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/16/fijan-formalizacion-para-hombre-acusado-de-intentar-envenenar-a-tres-perros-comunitarios-en-concepcion",
    "titulo": "Concepción: fijan audiencia de formalización para acusado de intentar envenenar a tres perros comunitarios",
    "resumen": "La audiencia de formalización de Daniel Alfredo Mahn, investigado por su eventual participación en el intento de envenenar a tres perros comunitarios en Concepción, fue programada para el próximo martes 24 de noviembre. El episodio habría tenido lugar hace un…",
@@ -789,10 +817,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/gran-concepcion-continua-escasez-de-jurel-en-los-supermercados-pese-a-su-recuperacion-en-invierno",
-   "titulo": "Gran Concepción: persiste la falta de jurel en supermercados, pese a la recuperación invernal en su disponibilidad",
-   "resumen": "El jurel continúa siendo difícil de encontrar en las góndolas de los supermercados. Aunque el Instituto de Investigación Pesquera de Talcahuano informó que las capturas de este recurso repuntaron durante el invierno, algunas empresas suspendieron la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/capturas-de-pantalla-1.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/16/salud-del-biobio-realizo-59-fiscalizaciones-a-hogares-de-adultos-mayores-12-terminaron-en-sumarios",
+   "titulo": "Salud del Biobío realizó 59 fiscalizaciones a hogares de adultos mayores: 12 terminaron en sumarios",
+   "resumen": "Un total de 59 fiscalizaciones a Establecimientos de Larga Estadía para Adultos Mayores (ELEAM) ha realizado durante este año la Seremi de Salud del Biobío, procedimientos que han derivado en 12 sumarios sanitarios, según informó la autoridad regional. Las…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.22-AM-e1794839280120.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-16T14:30:30.231Z",
@@ -803,10 +831,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/salud-del-biobio-realizo-59-fiscalizaciones-a-hogares-de-adultos-mayores-12-terminaron-en-sumarios",
-   "titulo": "Salud del Biobío realizó 59 fiscalizaciones a hogares de adultos mayores: 12 terminaron en sumarios",
-   "resumen": "Un total de 59 fiscalizaciones a Establecimientos de Larga Estadía para Adultos Mayores (ELEAM) ha realizado durante este año la Seremi de Salud del Biobío, procedimientos que han derivado en 12 sumarios sanitarios, según informó la autoridad regional. Las…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.22-AM-e1794839280120.jpeg",
+   "url": "https://www.canal9.cl/episodios/2026/11/16/gran-concepcion-continua-escasez-de-jurel-en-los-supermercados-pese-a-su-recuperacion-en-invierno",
+   "titulo": "Gran Concepción: persiste la falta de jurel en supermercados, pese a la recuperación invernal en su disponibilidad",
+   "resumen": "El jurel continúa siendo difícil de encontrar en las góndolas de los supermercados. Aunque el Instituto de Investigación Pesquera de Talcahuano informó que las capturas de este recurso repuntaron durante el invierno, algunas empresas suspendieron la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/capturas-de-pantalla-1.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-16T14:30:30.231Z",
@@ -1465,20 +1493,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/meteorologia-advierte-posible-formacion-de-tornados-en-tres-regiones-del-pais-durante-este-domingo",
-   "titulo": "Meteorología alerta sobre riesgo de tornados en tres regiones del país este domingo",
-   "resumen": "La Dirección Meteorológica de Chile (DMC) modificó este domingo el aviso ante la posible formación de nubes convectivas con características tornádicas en tres regiones de la zona centro-sur del país. El organismo señaló que el tiempo podría propiciar vientos…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-1200-x-633-px-2026-11-15t125153-101.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T17:00:27.146Z",
-   "visto": "2026-11-15T17:00:27.146Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/bajo-historico-aprobacion-de-jose-antonio-kast-cae-al-18-y-desaprobacion-alcanza-el-72.html",
    "titulo": "Bajo histórico: aprobación de José Antonio Kast cae al 18% y desaprobación alcanza el 72%",
    "resumen": "La reciente Encuesta Criteria evidenció el peor resultado de la gestión del actual Presidente de la República.",
@@ -1489,20 +1503,6 @@
    "visto": "2026-11-15T16:10:20.239Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/15/seremi-mineria-biobio-alianzas-tierras-raras.html",
-   "titulo": "Biobío explora oportunidades de la nueva minería junto a los principales gremios de Antofagasta",
-   "resumen": "En las comunas de Antofagasta y Santiago se abordaron los desafíos de la industria que abre el desarrollo de minerales críticos para el sur de Chile.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Reuniones-Miner%C3%ADa-1.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T16:00:25.763Z",
-   "visto": "2026-11-15T16:00:25.763Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2269,36 +2269,6 @@
    "visto": "2026-11-12T11:30:24.766Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/seremi-de-seguridad-del-bio-bio-homicidios-bajan-184-y-aumentan-los-detenidos",
-   "titulo": "Seremi de Seguridad del Bío Bío: homicidios bajan 18,4% y aumentan los detenidos",
-   "resumen": "El delegado presidencial subrogante del Bío Bío, Juan Pablo Mellado, y el seremi de Seguridad, Richard Soto, entregaron el balance de los delitos de mayor connotación social en la región, con foco en los homicidios. Soto se refirió además al último caso…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/contexto-a-1-por-carabineros-hombre-es-asesinado-a-tiros-en-coronel-es-el-homicidio-72-en-el-bio-bio-en-lo-que-va-del-ano.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T10:30:26.717Z",
-   "visto": "2026-11-12T10:30:26.717Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/gobernador-del-bio-bio-no-tenemos-margen-para-que-nuestros-puertos-esten-paralizados",
-   "titulo": "Gobernador del Bío Bío: \"No tenemos margen para que nuestros puertos estén paralizados\"",
-   "resumen": "En el contexto del paro de camioneros que se desarrolla a lo largo del país, el gobernador de la Región del Bío Bío, Sergio Giacaman, emplazó al gobierno central y sostuvo que con otro tipo de medidas se habría evitado llegar a esta situación. Críticas al…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/08/contexto-agenciauno-13-2.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T10:30:26.717Z",
-   "visto": "2026-11-12T10:30:26.717Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
