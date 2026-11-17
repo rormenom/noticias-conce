@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T12:10:22.253Z",
+ "generado": "2026-11-17T12:30:33.278Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 55,
+    "enlaces": 152,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/trabajadores-contratistas-de-enap-hualpen-se-manifiestan-y-bloquean-accesos-exigiendo-pago-de-bono.shtml",
+   "titulo": "Trabajadores contratistas de ENAP Hualpén se manifiestan y bloquean accesos exigiendo pago de bono",
+   "resumen": "En estos momentos, trabajadores contratistas de ENAP se manifiestan a las afueras de la refinería en Hualpén, región del Bío...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022009-noticia-en-desarrollo-47.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-17T12:30:41.000Z",
+   "visto": "2026-11-17T12:30:33.278Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/pudu-ingresa-al-patio-de-una-vivienda-en-sector-los-lirios-en-concepcion",
+   "titulo": "Pudú ingresa al patio de una vivienda en sector Los Lirios en Concepción",
+   "resumen": "Una inusual situación se vivió durante la mañana en el sector Los Lirios de Collao, en la comuna de Concepción, luego de que un pudú ingresara hasta el patio de una casa habitación tras descender desde el cerro colindante. El ejemplar, se mantuvo refugiado y…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-17-at-09.21.01-e1794918384280.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T12:30:33.278Z",
+   "visto": "2026-11-17T12:30:33.278Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/senado-despacha-ley-freno-alza-combustibles-rebaja.html",
    "titulo": "Listo para ser Ley: Senado aprueba rebaja y congela alzas de combustibles hasta 2027",
@@ -1501,20 +1529,6 @@
    "cats": [
     "tecnologia",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/15/fallece-a-los-83-anos-carlos-grollmus-sobreviviente-del-ataque-incendiario-al-molino-grollmus-en-contulmo.html",
-   "titulo": "Fallece a los 83 años Carlos Grollmus, sobreviviente del ataque incendiario al Molino Grollmus en Contulmo",
-   "resumen": "La familia aún no ha entregado mayores detalles sobre las causas de fallecimiento.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Carlos-Grollmus.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T18:50:20.889Z",
-   "visto": "2026-11-15T18:50:20.889Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
