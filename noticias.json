@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T19:50:24.406Z",
+ "generado": "2026-11-17T20:00:29.040Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,56 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/corte-suprema-confirma-que-municipalidad-de-concepcion-despidio-a-funcionaria-por-razones-politicas",
+   "titulo": "Corte Suprema confirma que Municipalidad de Concepción despidió a funcionaria por razones políticas",
+   "resumen": "La Corte Suprema desestimó la presentación de la Municipalidad de Concepción, que buscaba dejar sin efecto la sentencia que calificó como discriminatorio por motivos políticos el despido de una funcionaria durante la actual gestión del alcalde del Partido…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/municipalidad-concepcion-paro.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T20:00:29.040Z",
+   "visto": "2026-11-17T20:00:29.040Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/fiesta-del-libro-en-concepcion-tercera-edicion-tendra-talleres-conversatorios-y-actividades-gratuitas",
+   "titulo": "Fiesta del Libro en Concepción: tercera edición tendrá talleres, conversatorios y actividades gratuitas",
+   "resumen": "La Biblioteca Municipal de Concepción recibirá este sábado 21 de noviembre a editoriales, escritores e ilustradores de la región, en una jornada abierta a toda la comunidad, que se desarrollará entre las 10:00 y las 18:00 horas. Con una programación que…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/2024-07-10-Feria-Libro-I-CCC014-1024x683-1-e1776355383882.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T20:00:29.040Z",
+   "visto": "2026-11-17T20:00:29.040Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/carabineros-pega-portazo-a-hinchas-de-la-u-concepcion-jugara-solo-con-publico-local-ante-azules",
+   "titulo": "Carabineros descarta público visitante para el duelo entre Deportes Concepción y La U en el Ester Roa Rebolledo",
+   "resumen": "Este martes, Deportes Concepción comunicó que el partido frente a La U, correspondiente a la fecha 29 de la Liga de Primera y fijado para las 18:00 horas del domingo 29 de noviembre, se disputará únicamente con hinchas locales. El club penquista precisó que…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/deportes-concepcion-en-el-ester-roa-previo-a-duelo-ante-la-u.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T20:00:29.040Z",
+   "visto": "2026-11-17T20:00:29.040Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/ley-rebaja-combustibles-bencina-diesel-congelamiento.html",
    "titulo": "Publican en el Diario Oficial la ley de combustibles: rebajan tarifas y congelan precios hasta 2027",
@@ -1502,34 +1545,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-16T14:32:34.000Z",
    "visto": "2026-11-16T14:40:31.012Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/salud-del-biobio-realizo-59-fiscalizaciones-a-hogares-de-adultos-mayores-12-terminaron-en-sumarios",
-   "titulo": "Salud del Biobío realizó 59 fiscalizaciones a hogares de adultos mayores: 12 terminaron en sumarios",
-   "resumen": "Un total de 59 fiscalizaciones a Establecimientos de Larga Estadía para Adultos Mayores (ELEAM) ha realizado durante este año la Seremi de Salud del Biobío, procedimientos que han derivado en 12 sumarios sanitarios, según informó la autoridad regional. Las…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.22-AM-e1794839280120.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:30:30.231Z",
-   "visto": "2026-11-16T14:30:30.231Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/gran-concepcion-continua-escasez-de-jurel-en-los-supermercados-pese-a-su-recuperacion-en-invierno",
-   "titulo": "Gran Concepción: persiste la falta de jurel en supermercados, pese a la recuperación invernal en su disponibilidad",
-   "resumen": "El jurel continúa siendo difícil de encontrar en las góndolas de los supermercados. Aunque el Instituto de Investigación Pesquera de Talcahuano informó que las capturas de este recurso repuntaron durante el invierno, algunas empresas suspendieron la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/capturas-de-pantalla-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:30:30.231Z",
-   "visto": "2026-11-16T14:30:30.231Z",
    "cats": [
     "regional"
    ],
