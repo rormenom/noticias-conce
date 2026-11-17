@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T16:10:20.512Z",
+ "generado": "2026-11-17T16:20:21.315Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 59,
+    "enlaces": 155,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,29 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
-    "leidas": 11,
+    "enlaces": 34,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/talcahuano-municipio-anuncia-feria-laboral-para-enfrentar-compleja-situacion-de-desempleo-en-bio-bio",
+   "titulo": "Talcahuano: municipio anuncia feria laboral para enfrentar compleja situación de desempleo en Bío Bío",
+   "resumen": "Ante los altos índices de desocupación en la Región del Biobío —que se ubica en torno a los dos dígitos y tras el masivo interés ciudadano registrado en convocatorias recientes de empleo en el Gran Concepción, la Municipalidad de Talcahuano anunció la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-17-at-11.27.18-e1794931914534.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T16:20:21.315Z",
+   "visto": "2026-11-17T16:20:21.315Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/operativo-memorial-27f-rucos.html",
    "titulo": "Concepción: retiran cinco rucos en operativo en Memorial 27F",
@@ -1432,20 +1447,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T11:50:25.945Z",
    "visto": "2026-11-16T11:50:25.945Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/municipalidad-de-lota-se-querella-por-incendio-que-arraso-con-exescuela-especial-luis-cousino-squella",
-   "titulo": "Lota presenta una querella por el incendio que destruyó la exescuela especial Luis Cousiño Squella",
-   "resumen": "La Municipalidad de Lota, en la región del Bío Bío, interpuso una querella criminal a raíz del incendio que destruyó la exescuela especial Luis Cousiño Squella hace una semana. Aunque el inmueble llevaba años deteriorándose debido al abandono, el siniestro…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/incendio-exescuela-lota.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T11:00:26.723Z",
-   "visto": "2026-11-16T11:00:26.723Z",
    "cats": [
     "regional"
    ],
