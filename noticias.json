@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T16:40:26.585Z",
+ "generado": "2026-11-17T16:50:21.601Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/estamos-felices-de-cumplir-60-anos-inti-illimani-presenta-el-disco-caminos-en-concepcion",
+   "titulo": "\"Estamos felices de cumplir 60 años\": Inti- Illimani presenta el disco Caminos en Concepción",
+   "resumen": "El grupo Inti-Illimani llega al Teatro de la Universidad de Concepción el sábado 19 de diciembre, a las 20:00 horas, con la gira de lanzamiento de su disco Caminos. David Azán, músico, compositor y una de las voces de la agrupación, conversó sobre el nuevo…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/inti.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T16:50:21.601Z",
+   "visto": "2026-11-17T16:50:21.601Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/damas-de-rojo-realiza-en-talcahuano-su-trigesimo-congreso-nacional-con-45-filiales",
    "titulo": "Damas de Rojo realiza en Talcahuano su trigésimo congreso nacional con 45 filiales",
@@ -1447,20 +1461,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-16T12:52:48.000Z",
    "visto": "2026-11-16T13:00:31.120Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/exportaciones-biobio-crecen-septiembre-industria-jurel.html",
-   "titulo": "Exportaciones del Biobío crecen 12,6% en septiembre impulsadas por la industria y el jurel",
-   "resumen": "El sector industrial fue el motor de este crecimiento mensual. Los envíos al extranjero de jurel entero congelado registraron la mayor incidencia positiva.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/exportaciones-biobio-crecen-septiembre-industria-jurel-e1794832147814.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T12:30:29.984Z",
-   "visto": "2026-11-16T12:30:29.984Z",
    "cats": [
     "regional"
    ],
