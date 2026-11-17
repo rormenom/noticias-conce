@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T16:20:21.315Z",
+ "generado": "2026-11-17T16:30:26.101Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 58,
+    "enlaces": 156,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/damas-de-rojo-realiza-en-talcahuano-su-trigesimo-congreso-nacional-con-45-filiales",
+   "titulo": "Damas de Rojo realiza en Talcahuano su trigésimo congreso nacional con 45 filiales",
+   "resumen": "Por primera vez, el Congreso Nacional de Damas de Rojo se realiza en Talcahuano, en la Región del Biobío. Tres dirigentes del voluntariado presentaron la actividad en matinal Nuestra Casa. Un encuentro organizado durante dos años Las invitadas afirmaron que…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/damas.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T16:30:26.101Z",
+   "visto": "2026-11-17T16:30:26.101Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/de-concepcion-a-portugal-el-largo-viaje-de-un-chileno-para-conocer-al-club-que-ama-desde-nino",
+   "titulo": "Hincha de Concepción viaja a Portugal para conocer al club que alienta desde niño",
+   "resumen": "Tras quince horas en el aire y varios cambios de transporte, Sebastián Solís, seguidor chileno de Concepción, llegó a Portugal para conocer el Estádio do Dragão y el museo del FC Porto. Así pudo acercarse a la historia del equipo europeo que sigue desde que…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/porto-hincha-chileno-experiencia.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T16:30:26.101Z",
+   "visto": "2026-11-17T16:30:26.101Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/talcahuano-municipio-anuncia-feria-laboral-para-enfrentar-compleja-situacion-de-desempleo-en-bio-bio",
    "titulo": "Talcahuano: municipio anuncia feria laboral para enfrentar compleja situación de desempleo en Bío Bío",
@@ -479,20 +507,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/princesa-alba-rec-malagradecida.html",
-   "titulo": "“Me encantaría mostrar este show en el REC”: Princesa Alba y su nueva era con “Malagradecida”",
-   "resumen": "En conversación con Diario Concepción, la artista pop repasó el proceso de su nuevo disco y abordó su relación con tierras penquistas, una de las comunas en las que cuenta con mayor cantidad de oyentes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-Princesa-Alba-foto-cedida-Princesa-Alba.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/alejandro-reyes-nuevo-director-de-la-caj-biobio-las-gestiones-dificilmente-se-van-a-hacer-mejor-con-menos-gente.html",
    "titulo": "Alejandro Reyes, nuevo director de la CAJ Biobío: Las gestiones “difícilmente se van a hacer mejor con menos gente”",
    "resumen": "\"Estamos frente no solo a un cambio de paradigma, sino que estamos ante una institución que es clave en la vida de las personas\", Alejandro Reyes Schwarz, director general CAJ Biobío.",
@@ -531,6 +545,20 @@
    "visto": "2026-11-17T08:40:20.947Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/princesa-alba-rec-malagradecida.html",
+   "titulo": "“Me encantaría mostrar este show en el REC”: Princesa Alba y su nueva era con “Malagradecida”",
+   "resumen": "En conversación con Diario Concepción, la artista pop repasó el proceso de su nuevo disco y abordó su relación con tierras penquistas, una de las comunas en las que cuenta con mayor cantidad de oyentes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-Princesa-Alba-foto-cedida-Princesa-Alba.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -874,10 +902,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/formalizan-a-hombre-por-femicidio-frustrado-en-hualpen-tenia-orden-de-alejamiento-de-la-victima",
-   "titulo": "Formalizan a hombre por femicidio frustrado en Hualpén: tenía orden de alejamiento de la víctima",
-   "resumen": "Este lunes será formalizado José Oyarzo Allapán, imputado por el delito de femicidio frustrado contra su cónyuge en la comuna de Hualpén, región del Biobío. El hombre mantenía una prohibición de acercarse a la víctima, medida judicial que habría incumplido.…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/images-3.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/16/joven-de-23-anos-permanece-en-riesgo-vital-tras-ser-apunalado-en-sector-rural-de-los-angeles-hay-un-detenido",
+   "titulo": "Joven de 23 años permanece en riesgo vital tras ser apuñalado en sector rural de Los Ángeles: hay un detenido",
+   "resumen": "Un joven de 23 años permanece en riesgo vital luego de ser atacado con un arma blanca en el tórax, en el sector rural de Santa Fe, comuna de Los Ángeles, Región del Biobío. El hecho motivó un amplio operativo policial que terminó con la detención del presunto…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/images-2.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-16T18:40:22.330Z",
@@ -888,10 +916,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/joven-de-23-anos-permanece-en-riesgo-vital-tras-ser-apunalado-en-sector-rural-de-los-angeles-hay-un-detenido",
-   "titulo": "Joven de 23 años permanece en riesgo vital tras ser apuñalado en sector rural de Los Ángeles: hay un detenido",
-   "resumen": "Un joven de 23 años permanece en riesgo vital luego de ser atacado con un arma blanca en el tórax, en el sector rural de Santa Fe, comuna de Los Ángeles, Región del Biobío. El hecho motivó un amplio operativo policial que terminó con la detención del presunto…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/images-2.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/16/formalizan-a-hombre-por-femicidio-frustrado-en-hualpen-tenia-orden-de-alejamiento-de-la-victima",
+   "titulo": "Formalizan a hombre por femicidio frustrado en Hualpén: tenía orden de alejamiento de la víctima",
+   "resumen": "Este lunes será formalizado José Oyarzo Allapán, imputado por el delito de femicidio frustrado contra su cónyuge en la comuna de Hualpén, región del Biobío. El hombre mantenía una prohibición de acercarse a la víctima, medida judicial que habría incumplido.…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/images-3.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-16T18:40:22.330Z",
@@ -1433,20 +1461,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T12:30:29.984Z",
    "visto": "2026-11-16T12:30:29.984Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/tormentas-electricas-superavit-lluvias-senapred-biobio.html",
-   "titulo": "Aviso meteorológico: pronostican tormentas para el Biobío en medio de gran superávit de lluvias",
-   "resumen": "El fenómeno afectará a todos los sectores de la región hasta este martes. A la fecha, la zona supera ampliamente la medida normal anual de precipitaciones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/tormentas-electricas-superavit-lluvias-senapred-biobio-e1794829305895.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T11:50:25.945Z",
-   "visto": "2026-11-16T11:50:25.945Z",
    "cats": [
     "regional"
    ],
@@ -2197,21 +2211,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/talcahuano-se-prepara-para-una-maraton-de-cuecas-y-musica-en-vivo",
-   "titulo": "Talcahuano se prepara para una maratón de cuecas y música en vivo",
-   "resumen": "El sábado 14 de noviembre, desde las 10:00 AM, la Plaza de Armas de Talcahuano será escenario de una jornada de folclore para conmemorar el aniversario de la comuna, que cumple 262 años. En conversación con el equipo la Mesa Comunal del Folclor de Talcahuano,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/%F0%9F%95%BA%F0%9F%8F%BB-En-la-explanada-de-la-playa-El-Morro-celebramos-nuestro-aniversario-comunal-con-la-chingana.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T16:30:24.375Z",
-   "visto": "2026-11-12T16:30:24.375Z",
-   "cats": [
-    "regional",
-    "deportes"
    ],
    "local": true
   }
