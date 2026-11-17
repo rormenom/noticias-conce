@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T17:10:23.655Z",
+ "generado": "2026-11-17T17:30:25.468Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
-    "leidas": 59,
+    "enlaces": 159,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/el-leon-recibira-a-la-u-el-29-sin-hinchas-azules.html",
+   "titulo": "El “León” recibirá a la “U” el 29 sin hinchas azules",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/10/agresion-plantel-deportes-concepcion-nonguen-cedida-e1793121066448.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T17:30:25.468Z",
+   "visto": "2026-11-17T17:30:25.468Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/microcine-molina-ciclo-universos-extraordinarios-concepcion.html",
    "titulo": "“El Joven Manos de Tijera” y “La Historia sin Fin” llegan a Microcine Molina en Concepción",
