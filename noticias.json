@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-17T11:20:22.475Z",
+ "generado": "2026-11-17T11:30:25.814Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 507",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -35,7 +36,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 4,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +62,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 54,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -82,10 +83,10 @@
  ],
  "items": [
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/joyita-otra-vez-campeon-es-un-hito-que-nadie-habia-logrado.html",
-   "titulo": "“Joyita” otra vez campeón: “Es un hito que nadie había logrado”",
-   "resumen": "Carlos Solar, capitán de la embarcación de Talcahuano, habló de este tercer título nacional J24, ganando todas las regatas en juego. Ahora sueñan con ir al Mundial de Nueva York y habló de los Odesur 2030.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/joyita.jpg",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/udec-entre-los-6-mejores-de-liga-desarrollo-y-ahora-tocara-hacer-maletas-a-puerto-varas.html",
+   "titulo": "UdeC entre los 6 mejores de Liga Desarrollo y ahora tocará hacer maletas a Puerto Varas",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/10/sebasti%C3%A1n-Pereira-basket.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T11:20:22.475Z",
@@ -96,10 +97,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/udec-entre-los-6-mejores-de-liga-desarrollo-y-ahora-tocara-hacer-maletas-a-puerto-varas.html",
-   "titulo": "UdeC entre los 6 mejores de Liga Desarrollo y ahora tocará hacer maletas a Puerto Varas",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/10/sebasti%C3%A1n-Pereira-basket.jpeg",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/joyita-otra-vez-campeon-es-un-hito-que-nadie-habia-logrado.html",
+   "titulo": "“Joyita” otra vez campeón: “Es un hito que nadie había logrado”",
+   "resumen": "Carlos Solar, capitán de la embarcación de Talcahuano, habló de este tercer título nacional J24, ganando todas las regatas en juego. Ahora sueñan con ir al Mundial de Nueva York y habló de los Odesur 2030.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/joyita.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T11:20:22.475Z",
@@ -2283,20 +2284,6 @@
    "visto": "2026-11-12T13:20:20.748Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/golf-en-bellavista-reunira-81-jugadores-y-pedro-bueno-defendera-el-titulo.html",
-   "titulo": "Golf en Bellavista reunirá 81 jugadores y Pedro Bueno defenderá el título",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/golf-bellavista-e1794445044272.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T11:30:24.766Z",
-   "visto": "2026-11-12T11:30:24.766Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
