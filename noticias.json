@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T14:20:23.751Z",
+ "generado": "2026-11-17T14:50:22.139Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
+    "enlaces": 155,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -2265,21 +2265,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T15:00:00.000Z",
    "visto": "2026-11-13T00:10:22.056Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/giacaman-critica-al-gobierno-pide-mas-cintura-y-menos-purismo-ante-paro-de-transportistas.shtml",
-   "titulo": "Giacaman critica al Gobierno: pide \"más cintura\" y \"menos purismo\" ante paro de transportistas",
-   "resumen": "Una dura crítica al Gobierno lanzó el gobernador regional del Bío Bío, Sergio Giacaman, en medio de la crisis que...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016727-giacaman-critica-al-gobierno_-pide-_mas-cintura_-y-_menos-purismo_-ante-paro-de-transportistas.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-12T14:49:47.000Z",
-   "visto": "2026-11-12T14:50:21.294Z",
    "cats": [
     "regional",
     "politica"
