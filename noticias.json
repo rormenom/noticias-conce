@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T18:30:27.331Z",
+ "generado": "2026-11-17T18:40:20.882Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/ordenan-detener-a-dueno-de-automotora-tras-no-llegar-a-formalizacion-habria-estafado-a-32-personas",
+   "titulo": "Ordenan la detención del dueño de una automotora por presuntas estafas a 32 personas tras ausentarse a la formalización",
+   "resumen": "El Juzgado de Garantía de Concepción emitió una orden de detención contra el dueño de una importadora de vehículos, después de que el empresario no asistiera en persona a la audiencia en que sería formalizado por una presunta estafa que perjudicó a 32…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/restore-automotora-hdr.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T18:40:20.882Z",
+   "visto": "2026-11-17T18:40:20.882Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/biobio-decision-sede-juegos-odesur-2030.html",
    "titulo": "A horas de una decisión histórica: Odesur define si Biobío será sede de los Juegos Sudamericanos 2030",
@@ -1487,20 +1501,6 @@
    "fuente": "BioBioChile",
    "fuenteId": "biobiochile",
    "fecha": "2026-11-16T14:00:50.000Z",
-   "visto": "2026-11-16T14:10:22.738Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/fijan-para-diciembre-nueva-fecha-de-preparacion-de-juicio-oral-del-caso-puerto-coronel.shtml",
-   "titulo": "Fijan para diciembre nueva fecha de preparación de juicio oral del caso Puerto Coronel",
-   "resumen": "Se fijó nueva fecha de preparación de juicio oral en el caso Puerto Coronel, esto mientras el ...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020573-puerto-coronel.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-16T14:00:39.000Z",
    "visto": "2026-11-16T14:10:22.738Z",
    "cats": [
     "regional"
