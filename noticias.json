@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T16:30:26.101Z",
+ "generado": "2026-11-17T16:40:26.585Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 57,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 13,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
@@ -2196,21 +2196,6 @@
    "visto": "2026-11-12T18:30:24.656Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/gobierno-se-reune-con-camioneros-movilizados-en-el-puerto-de-san-vicente-y-aborda-medidas-anunciadas-por-el-ejecutivo/",
-   "titulo": "Gobierno se reúne con camioneros movilizados en el Puerto de San Vicente y aborda medidas anunciadas por el Ejecutivo",
-   "resumen": "El delegado presidencial regional (s), Juan Pablo Mellado, llegó hasta […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/IMG-20261112-WA0059-768x512.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-12T16:31:09.000Z",
-   "visto": "2026-11-12T16:40:22.769Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
