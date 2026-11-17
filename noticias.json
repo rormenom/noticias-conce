@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T08:40:20.947Z",
+ "generado": "2026-11-17T08:50:21.015Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 6,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 56,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 8,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/despidos-biobio-aumento-2026.html",
+   "titulo": "Despidos en el Biobío: desvinculaciones formales aumentaron 20,2% durante 2026",
+   "resumen": "Manufactura, comercio y construcción enfrentan un escenario marcado por menor dinamismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-14-feria-laboral-foto-isidoro.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/amenazas-contexto-escolar-superintendencia-educacion.html",
    "titulo": "Llaman a tomar conciencia de la gravedad de las amenazas en contexto escolar",
@@ -96,10 +110,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/despidos-biobio-aumento-2026.html",
-   "titulo": "Despidos en el Biobío: desvinculaciones formales aumentaron 20,2% durante 2026",
-   "resumen": "Manufactura, comercio y construcción enfrentan un escenario marcado por menor dinamismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-14-feria-laboral-foto-isidoro.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
+   "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
+   "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T08:40:20.947Z",
@@ -128,20 +142,6 @@
    "titulo": "Lluvias, calor y remociones en masa: los posibles efectos de El Niño en el Biobío",
    "resumen": "Los pronósticos internacionales anticipan que el fenómeno podría alcanzar un peak extraordinario entre noviembre y diciembre. Especialistas explicaron cómo podría incidir en el territorio regional.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/Screenshot_20261116_201815_Gallery-e1794874192487.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
-   "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
-   "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T08:40:20.947Z",
