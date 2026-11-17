@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T18:10:21.818Z",
+ "generado": "2026-11-17T18:20:24.169Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -47,7 +47,7 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 20,
+    "enlaces": 19,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 34,
+    "enlaces": 35,
     "leidas": 12,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/biobio-decision-sede-juegos-odesur-2030.html",
+   "titulo": "A horas de una decisión histórica: Odesur define si Biobío será sede de los Juegos Sudamericanos 2030",
+   "resumen": "Se extendió la invitación a la comunidad a presenciar la transmisión en vivo a través de una pantalla gigante instalada en el Gobierno Regional.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/biobio-decision-sede-juegos-odesur-2030-2-e1794938936140.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T18:20:24.169Z",
+   "visto": "2026-11-17T18:20:24.169Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/detienen-a-hombre-con-mas-de-10-causas-tras-violento-asalto-a-conductora-de-aplicacion-en-los-angeles",
+   "titulo": "Arrestan en Los Ángeles a hombre que habría asaltado a una conductora de aplicación: tiene 10 causas pendientes",
+   "resumen": "Carabineros detuvo a un hombre que acumula más de diez causas penales, luego de que presuntamente asaltara violentamente a una conductora de una aplicación de transporte en el sector sur de Los Ángeles, región del Biobío. El individuo también tenía una orden…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detenido-contexto-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T18:20:24.169Z",
+   "visto": "2026-11-17T18:20:24.169Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/insumos-en-pasillos-y-a-la-intemperie-inician-sumario-por-falencias-sanitarias-en-cesfam-de-hualqui",
    "titulo": "Cesfam de Hualqui enfrenta sumario sanitario por almacenar insumos en pasillos y a la intemperie",
@@ -1474,20 +1502,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-16T14:00:39.000Z",
    "visto": "2026-11-16T14:10:22.738Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/los-angeles-pdi-investiga-millonario-robo-tras-profanacion-de-tumbas-en-cementerio",
-   "titulo": "Los Ángeles: PDI investiga millonario robo tras profanación de tumbas en Cementerio",
-   "resumen": "La Policía de Investigaciones (PDI) desarrolla diversas diligencias para esclarecer un millonario robo ocurrido al interior del Cementerio General de Los Ángeles, en la región del Biobío, luego de que desconocidos profanaran sepulturas pertenecientes…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/17161E5D4C43416D17150F55564941761F121A18504144701112-1024x576-1-e1794837034594.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:00:37.612Z",
-   "visto": "2026-11-16T14:00:37.612Z",
    "cats": [
     "regional"
    ],
