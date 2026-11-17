@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T22:20:22.465Z",
+ "generado": "2026-11-17T22:40:18.466Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 150,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -2285,20 +2285,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/plan-seguridad-colo-colo-racing-concepcion.html",
-   "titulo": "Colo-Colo – Rancing en Concepción: fiscal in situ, 40 puntos de control y 280 guardias",
-   "resumen": "El Ester Roa tendrá un perímetro exterior de 1.600 vallas papales, 3 ambulancias, un drone, etc.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Rancing-vs-Colo-Colo-foto-facebook-Colo-Colo.jpg-e1794522382246.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T22:40:22.289Z",
-   "visto": "2026-11-12T22:40:22.289Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
