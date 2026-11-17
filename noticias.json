@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T19:20:20.402Z",
+ "generado": "2026-11-17T19:40:21.088Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 57,
+    "enlaces": 152,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 13,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/corte-suprema-confirma-que-municipalidad-de-concepcion-despidio-a-funcionaria-por-razones-politicas.shtml",
+   "titulo": "Corte Suprema confirma que Municipalidad de Concepción despidió a funcionaria por razones políticas",
+   "resumen": "La Corte Suprema rechazó el recurso presentado por la Municipalidad de Concepción para intentar anular el fallo que declaró como...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022773-municipalidad-concepcion-paro.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-17T19:39:14.000Z",
+   "visto": "2026-11-17T19:40:21.088Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/medio-ambiente-cyt/2026/11/17/alertan-masiva-presencia-de-tortugas-invasoras-se-multiplican-y-pueden-transmitir-graves-infecciones.shtml",
+   "titulo": "Alertan masiva presencia de tortugas invasoras: se multiplican y pueden transmitir graves infecciones",
+   "resumen": "Lo que partió como una mascota para los niños hoy tiene en alerta a un barrio de Talcahuano. Vecinos de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022815-tortuga-orejas-rojas-alfred-gf-1024x576-mejorada.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-17T19:32:50.000Z",
+   "visto": "2026-11-17T19:40:21.088Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/carabineros-recupera-camion-robado-de-mercado-libre-avaluado-en-20-millones-dos-detenidos",
    "titulo": "Carabineros recupera camión robado de Mercado Libre avaluado en $20 millones: dos detenidos",
@@ -1484,20 +1512,6 @@
    "titulo": "Puerto Coronel: reprograman para diciembre la preparación del juicio oral",
    "resumen": "Se estableció una nueva fecha para la preparación del juicio oral en el caso Puerto Coronel, mientras el Tribunal Constitucional analiza un recurso presentado por el alcalde Boris Chamorro. Las audiencias quedaron fijadas para el 7, 9 y 10 de diciembre. En…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/puerto-coronel.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:30:30.231Z",
-   "visto": "2026-11-16T14:30:30.231Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/concepcion-colision-frontal-entre-vehiculo-y-camion-provoca-congestion-vehicular-en-pedro-de-valdivia",
-   "titulo": "Concepción: Colisión frontal entre vehículo y camión provoca congestión vehicular en Pedro de Valdivia",
-   "resumen": "Una colisión frontal entre un vehículo particular tipo SUV y un camión se registró en la intersección de las calles Sargento Aldea y Raúl Méndez, en el sector Pedro de Valdivia de Concepción, a la altura de la Clínica Sanatorio Alemán. A raíz de la magnitud…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/CHOQUE-PEDRO-VALDIVIA.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-16T14:30:30.231Z",
