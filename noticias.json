@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T18:20:24.169Z",
+ "generado": "2026-11-17T18:30:27.331Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
-    "leidas": 1,
+    "enlaces": 56,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 57,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
@@ -605,20 +605,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/alejandro-reyes-nuevo-director-de-la-caj-biobio-las-gestiones-dificilmente-se-van-a-hacer-mejor-con-menos-gente.html",
-   "titulo": "Alejandro Reyes, nuevo director de la CAJ Biobío: Las gestiones “difícilmente se van a hacer mejor con menos gente”",
-   "resumen": "\"Estamos frente no solo a un cambio de paradigma, sino que estamos ante una institución que es clave en la vida de las personas\", Alejandro Reyes Schwarz, director general CAJ Biobío.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-1-2.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/amenazas-contexto-escolar-superintendencia-educacion.html",
    "titulo": "Llaman a tomar conciencia de la gravedad de las amenazas en contexto escolar",
    "resumen": "El caso de un apoderado que amenazó a una comunidad educativa en Talcahuano reabrió la discusión sobre la gravedad de estas conductas.",
@@ -629,6 +615,20 @@
    "visto": "2026-11-17T08:40:20.947Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/alejandro-reyes-nuevo-director-de-la-caj-biobio-las-gestiones-dificilmente-se-van-a-hacer-mejor-con-menos-gente.html",
+   "titulo": "Alejandro Reyes, nuevo director de la CAJ Biobío: Las gestiones “difícilmente se van a hacer mejor con menos gente”",
+   "resumen": "\"Estamos frente no solo a un cambio de paradigma, sino que estamos ante una institución que es clave en la vida de las personas\", Alejandro Reyes Schwarz, director general CAJ Biobío.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-1-2.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -2236,20 +2236,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-12T19:10:20.076Z",
    "visto": "2026-11-12T19:10:20.076Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/estos-son-los-principales-panoramas-culturales-para-el-gran-concepcion-para-los-proximo-dias.html",
-   "titulo": "Estos son los principales panoramas culturales para el Gran Concepción para los próximo días",
-   "resumen": "Como cada semana, la movida cultural penquista, ofrece una variada y entretenida cartelera de actividades para todos los gustos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/DOMINGO.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T18:30:24.656Z",
-   "visto": "2026-11-12T18:30:24.656Z",
    "cats": [
     "cultura"
    ],
