@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T20:00:29.040Z",
+ "generado": "2026-11-17T20:10:22.199Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 57,
+    "enlaces": 150,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 13,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/comerciantes-ambulantes-protestan-en-municipalidad-de-concepcion-y-exigen-acelerar-proceso-de-formalizacion",
+   "titulo": "Comerciantes ambulantes protestan en Municipalidad de Concepción y exigen acelerar proceso de formalización",
+   "resumen": "Los manifestantes acusan falta de avances en un proyecto de regularización que impulsan desde octubre de 2025. En tanto, el alcalde Héctor Muñoz aseguró que la propuesta continúa en evaluación y descartó otorgar nuevos permisos provisorios hasta 2027. Un…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/protesta.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T20:10:22.199Z",
+   "visto": "2026-11-17T20:10:22.199Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/corte-suprema-confirma-que-municipalidad-de-concepcion-despidio-a-funcionaria-por-razones-politicas",
    "titulo": "Corte Suprema confirma que Municipalidad de Concepción despidió a funcionaria por razones políticas",
@@ -1530,20 +1544,6 @@
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-16T14:40:31.012Z",
-   "visto": "2026-11-16T14:40:31.012Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/dos-investigaciones-por-delitos-sexuales-contra-ninas-terminan-con-dos-detenidos-en-penco-y-chiguayant.shtml",
-   "titulo": "Dos investigaciones por delitos sexuales contra niñas terminan con detenidos en Penco y Chiguayante",
-   "resumen": "Dos hombres adultos fueron detenidos por detectives de la Brigada Investigadora de Delitos Sexuales (Brisex) de la PDI de Concepción,acusados...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020674-foto-contexto-nota-bbcl-2026-11-16t113141-267.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-16T14:32:34.000Z",
    "visto": "2026-11-16T14:40:31.012Z",
    "cats": [
     "regional"
