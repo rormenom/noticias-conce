@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T21:20:21.058Z",
+ "generado": "2026-11-17T21:30:25.200Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 58,
+    "leidas": 54,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,56 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 10,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/desarticulan-estructura-criminal-que-adquiria-abultaba-y-distribuia-droga-en-el-gran-concepcion",
+   "titulo": "Desarticulan red que compraba, adulteraba y distribuía drogas en el Gran Concepción",
+   "resumen": "Un procedimiento de la Brigada Antinarcóticos de la Policía de Investigaciones (PDI) consiguió desmantelar una organización criminal dedicada al narcotráfico en el Gran Concepción. La operación culminó con cinco detenidos y el decomiso de marihuana, cocaína,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/banda-narco-gran-concepcion-.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T21:30:25.200Z",
+   "visto": "2026-11-17T21:30:25.200Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/reprograman-reformalizacion-de-gerente-de-digosa-por-atropello-en-lirquen-esta-fuera-del-pais",
+   "titulo": "Reprograman audiencia de gerente de Digosa por atropello en Lirquén; permanece fuera del país",
+   "resumen": "El Ministerio Público resolvió reformalizar al conductor que atropelló a un estudiante en Penco hace dos años, tras un reclamo de la víctima ante la Fiscalía Regional. No obstante, la audiencia fijada para este martes se aplazó porque el imputado viajó al…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-17t180610-959.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T21:30:25.200Z",
+   "visto": "2026-11-17T21:30:25.200Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/contraloria-detecta-315-funcionarios-del-estado-con-condenas-carabineros-y-ejercito-lideran-lista",
+   "titulo": "La Contraloría identifica a 315 funcionarios condenados penalmente; Carabineros y el Ejército encabezan la nómina",
+   "resumen": "La Contraloría General de la República identificó una situación preocupante: más de 300 personas que trabajan en el Estado tienen condenas vigentes. La mayor parte de ellas cumple funciones en el gobierno central. El hallazgo aparece en el nuevo Consolidado…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/contraloria-servicios-mas-casos-condenados-funcionarios-estado.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T21:30:25.200Z",
+   "visto": "2026-11-17T21:30:25.200Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/reprograman-reformalizacion-de-gerente-de-digosa-por-atropello-en-lirquen-esta-fuera-del-pais.shtml",
    "titulo": "Reprograman reformalización de gerente de Digosa por atropello en Lirquén: está fuera del país",
@@ -1519,48 +1562,6 @@
    "fuenteId": "radioudec",
    "fecha": "2026-11-16T15:35:01.000Z",
    "visto": "2026-11-16T15:40:23.110Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/biobio-registra-12-victimas-de-homicidio-menos-y-refuerza-trabajo-policial-en-las-comunas/",
-   "titulo": "Biobío registra 12 víctimas de homicidio menos y refuerza trabajo policial en las comunas",
-   "resumen": "En el Comité Policial Regional, las autoridades abordaron el trabajo de la PDI para esclarecer el robo al banco BCI, la evolución de los delitos y el fortalecimiento de los servicios policiales en el territorio.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/comité-policial-regional-biobio--768x460.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-16T15:14:42.000Z",
-   "visto": "2026-11-16T17:50:21.976Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/corte-de-concepcion-falla-contra-empresa-del-retail-que-despidio-a-trabajadora-por-atrasos-reiterados-2",
-   "titulo": "Corte de Concepción falla contra empresa del retail que despidió a trabajadora por atrasos reiterados",
-   "resumen": "La Corte de Apelaciones de Concepción rechazó un recurso presentado por una empresa del retail y confirmó la sentencia que declaró indebido el despido de una trabajadora por atrasos reiterados. El tribunal consideró que, si bien existieron incumplimientos en…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/atrasos.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T15:10:22.152Z",
-   "visto": "2026-11-16T15:10:22.152Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/por-18-puestos-de-trabajo-cientos-de-personas-hacen-fila-en-el-centro-de-concepcion",
-   "titulo": "Por 18 puestos de trabajo: cientos de personas hacen fila en el centro de Concepción",
-   "resumen": "Más de 200 postulantes llegaron desde tempranas horas de este lunes hasta calle Barros Arana, entre Rengo y Maipú, tras difundirse una convocatoria laboral en redes sociales. El fenómeno ocurre en medio de un complejo escenario económico, con una tasa de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.42-e1794840593840.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T15:00:34.482Z",
-   "visto": "2026-11-16T15:00:34.482Z",
    "cats": [
     "regional"
    ],
