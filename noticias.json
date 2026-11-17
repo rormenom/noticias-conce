@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T22:00:31.609Z",
+ "generado": "2026-11-17T22:10:20.364Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
@@ -59,9 +59,9 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 3,
-    "enlaces": 135,
-    "leidas": 57,
+    "paginas": 4,
+    "enlaces": 151,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/pudu-los-lirios-fauna-silvestre.html",
+   "titulo": "Pudú en Los Lirios: cómo proteger a la fauna silvestre ante un encuentro en un sector residencial",
+   "resumen": "El ingreso de un pudú a una vivienda en Concepción, volvió a poner en discusión la respuesta ante la presencia de animales silvestres en sectores urbanos, los motivos por los que esto sucede y cómo se deben enfrentar situaciones de esta naturaleza.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-17-at-6.48.50-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T22:10:20.364Z",
+   "visto": "2026-11-17T22:10:20.364Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/reprograman-reformalizacion-de-gerente-de-digosa-por-atropello-en-lirquen-esta-fuera-del-pais",
    "titulo": "Reprograman audiencia de gerente de Digosa por atropello en Lirquén; permanece fuera del país",
@@ -390,6 +404,21 @@
    "visto": "2026-11-17T19:10:30.351Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/seremi-de-justicia-refuerza-proteccion-a-madres-privadas-de-libertad/",
+   "titulo": "Seremi de Justicia refuerza protección a madres privadas de libertad",
+   "resumen": "Con el objetivo de fortalecer la coordinación interinstitucional y dar continuidad al trabajo orientado a resguardar los derechos de las mujeres privadas de libertad que se encuentran embarazadas o conviven junto a sus hijos lactantes, se desarrolló una nueva…",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/seremi-justicia-biobio--768x576.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-17T18:55:55.000Z",
+   "visto": "2026-11-17T22:10:20.364Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -1551,20 +1580,6 @@
    "visto": "2026-11-16T16:00:31.406Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/villa-miramar-de-lirquen-alcanza-un-75-de-avance-y-entrega-21-nuevas-viviendas-a-familias-afectadas-por-los-incendios-del-verano/",
-   "titulo": "Villa Miramar de Lirquén alcanza un 75% de avance y entrega 21 nuevas viviendas a familias afectadas por los incendios del verano",
-   "resumen": "Un nuevo paso en el proceso de reconstrucción de Lirquén […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/FOTO_10-2-768x466.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-16T15:43:33.000Z",
-   "visto": "2026-11-16T15:50:25.902Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
