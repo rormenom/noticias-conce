@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T09:10:25.447Z",
+ "generado": "2026-11-17T10:10:20.814Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 55,
+    "enlaces": 155,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 14,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -204,6 +204,20 @@
    "visto": "2026-11-17T08:40:20.947Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/johana-rivas-conquista-el-oro-sudamericano-de-maraton/",
+   "titulo": "Johana Rivas conquista el oro sudamericano de maratón",
+   "resumen": "Y lleva a Los Ángeles a lo más alto del atletismo continental.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/johana-rivas-gana-fedachi-2026-768x511.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-17T07:54:41.000Z",
+   "visto": "2026-11-17T10:10:20.814Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
