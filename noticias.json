@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T17:40:22.114Z",
+ "generado": "2026-11-17T18:10:21.818Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 159,
-    "leidas": 59,
+    "enlaces": 156,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/insumos-en-pasillos-y-a-la-intemperie-inician-sumario-por-falencias-sanitarias-en-cesfam-de-hualqui",
+   "titulo": "Cesfam de Hualqui enfrenta sumario sanitario por almacenar insumos en pasillos y a la intemperie",
+   "resumen": "Durante una inspección al Cesfam de Hualqui, la Seremi de Salud del Bío Bío detectó problemas en el almacenamiento de insumos médicos, dispositivos y productos farmacéuticos, situación que motivó el inicio de un sumario sanitario. En la fiscalización del 16…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/insumos-medicos-cesfam-hualqui.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T18:10:21.818Z",
+   "visto": "2026-11-17T18:10:21.818Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/ordenan-detener-a-dueno-de-automotora-tras-no-llegar-a-formalizacion-habria-estafado-a-32-personas.shtml",
    "titulo": "Ordenan detener a dueño de automotora tras no llegar a formalización: habría estafado a 32 personas",
