@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T20:30:24.443Z",
+ "generado": "2026-11-17T20:40:36.587Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 151,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/baja-cuentas-luz-biobio-2027.html",
+   "titulo": "Cuentas de la luz bajarán en promedio 4% en Biobío a partir de enero de 2027",
+   "resumen": "Nuevos contratos de suministro y el tipo de cambio explican la disminución tarifaria.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/10.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T20:40:36.587Z",
+   "visto": "2026-11-17T20:40:36.587Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/desarticulan-estructura-criminal-que-adquiria-abultaba-y-distribuia-droga-en-el-gran-concepcion.shtml",
+   "titulo": "Desarticulan estructura criminal que adquiría, abultaba y distribuía droga en el Gran Concepción",
+   "resumen": "Un operativo de la Brigada Antinarcóticos de la Policía de Investigaciones (PDI) permitió desarticular una estructura criminal dedicada al tráfico...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022236-banda-narco-gran-concepcion-.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-17T20:37:21.000Z",
+   "visto": "2026-11-17T20:40:36.587Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/estabilizacion-monumento-historico-desayuno-escolar-lota.html",
    "titulo": "Invierten más de $100 millones en rehabilitación de Monumento Histórico de Lota",
@@ -1519,34 +1547,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T15:00:00.000Z",
    "visto": "2026-11-17T16:00:30.032Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/medios-periodisticos-firman-documento-y-piden-fortalecer-la-proteccion-al-trabajo-frente-a-la-ia.html",
-   "titulo": "Medios periodísticos  firman documento y piden fortalecer la protección al trabajo frente a la IA",
-   "resumen": "En el Encuentro de Diarios Regionales, actores de todo el país fijaron posición frente a temas que definen el presente y futuro del periodismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/9-principal.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T15:00:00.000Z",
-   "visto": "2026-11-17T15:50:22.100Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/senapred-advierte-tormentas-electricas-con-lluvias-y-vientos-intensos-durante-esta-tarde",
-   "titulo": "Senapred advierte tormentas eléctricas con lluvias y vientos intensos durante esta tarde",
-   "resumen": "Un fenómeno de tormentas eléctricas de rápida generación y corta duración podría afectar a distintas zonas de la región, mientras un nuevo sistema frontal debilitado se acerca para el martes. El director regional de Senapred, Alejandro Sandoval, y el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/senapred-mantiene-alerta-roja-en-10-comunas-de-la-rm-por-regreso-de-lluvia-y-riesgo-de-aluviones.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T15:00:00.000Z",
-   "visto": "2026-11-17T10:30:25.360Z",
    "cats": [
     "regional"
    ],
