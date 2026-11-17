@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T17:00:28.553Z",
+ "generado": "2026-11-17T17:10:23.655Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 2,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 57,
+    "enlaces": 158,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -1158,6 +1158,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/exportaciones-biobio-crecen-septiembre-industria-jurel.html",
+   "titulo": "Exportaciones del Biobío crecen 12,6% en septiembre impulsadas por la industria y el jurel",
+   "resumen": "El sector industrial fue el motor de este crecimiento mensual. Los envíos al extranjero de jurel entero congelado registraron la mayor incidencia positiva.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/exportaciones-biobio-crecen-septiembre-industria-jurel-e1794832147814.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T15:00:00.000Z",
+   "visto": "2026-11-17T17:00:28.553Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/bioestimulante-agricola-desechos-marinos-biobio.html",
    "titulo": "Del mar al campo: ex pescador de Talcahuano desarrolló bioestimulante agrícola con residuos marinos",
    "resumen": "Con una inversión propia de $100 millones y una solicitud de patente en trámite ante Inapi, Tomás Roa logró transformar caparazones de jaiba y conchas de navajuela en un insumo libre de metales pesados que ya se prueba con éxito desde Arica hasta Futaleufú.",
@@ -1194,20 +1208,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-16T15:00:00.000Z",
    "visto": "2026-11-17T10:30:25.360Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/exportaciones-biobio-crecen-septiembre-industria-jurel.html",
-   "titulo": "Exportaciones del Biobío crecen 12,6% en septiembre impulsadas por la industria y el jurel",
-   "resumen": "El sector industrial fue el motor de este crecimiento mensual. Los envíos al extranjero de jurel entero congelado registraron la mayor incidencia positiva.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/exportaciones-biobio-crecen-septiembre-industria-jurel-e1794832147814.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T15:00:00.000Z",
-   "visto": "2026-11-17T17:00:28.553Z",
    "cats": [
     "regional"
    ],
