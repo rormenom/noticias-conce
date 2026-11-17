@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-17T18:50:23.831Z",
+ "generado": "2026-11-17T19:10:30.351Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -60,11 +59,12 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 4,
-    "enlaces": 153,
-    "leidas": 59,
-    "errores": 0,
-    "robots": 0
+    "paginas": 3,
+    "enlaces": 140,
+    "leidas": 57,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/17/sichel-acusa-al-fa-de-tomar-de-rehenes-a-escolares-por-requerimiento-de-oposicion-en-tc-por-los-slep.shtml)"
    }
   },
   {
@@ -75,13 +75,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/este-miercoles-se-anunciara-resultado-de-postulacion-del-bio-bio-como-sede-de-los-juegos-odesur-2030",
+   "titulo": "Este miércoles se conocerá si el Bío Bío será sede de los Juegos Odesur 2030",
+   "resumen": "Este miércoles se dará a conocer la decisión sobre la candidatura de la región del Bío Bío para albergar los Juegos Odesur 2030. La comisión técnica que inspeccionó la región entregó un informe unánimemente favorable, y el gobernador Sergio Giacaman indicó…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bio-bio-odesur.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T19:10:30.351Z",
+   "visto": "2026-11-17T19:10:30.351Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/este-miercoles-se-anunciara-resultado-de-postulacion-del-bio-bio-como-sede-de-los-juegos-odesur-2030.shtml",
    "titulo": "Este miércoles se anunciará resultado de postulación del Bío Bío como sede de Los Juegos Odesur 2030",
@@ -161,6 +175,20 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-17T18:20:24.169Z",
    "visto": "2026-11-17T18:20:24.169Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/brigada-antinarcoticos-de-la-pdi-desarticulo-estructura-criminal-dedicada-al-trafico-de-drogas/",
+   "titulo": "Brigada antinarcóticos de la PDI desarticuló estructura criminal dedicada al tráfico de drogas",
+   "resumen": "En el Gran Concepción: Seis detenidos.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/decomiso-pdi--768x432.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-17T18:14:48.000Z",
+   "visto": "2026-11-17T19:10:30.351Z",
    "cats": [
     "regional"
    ],
@@ -1481,20 +1509,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/fijan-formalizacion-para-hombre-acusado-de-intentar-envenenar-a-tres-perros-comunitarios-en-concepcion.shtml",
-   "titulo": "Fijan formalización para hombre acusado de intentar envenenar a tres perros comunitarios en Concepción",
-   "resumen": "Para el próximo martes 24 de noviembre quedó fijada la audiencia de formalización de Daniel Alfredo Mahn, imputado por su...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020569-contexto-agenciauno-3.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-16T14:24:24.000Z",
-   "visto": "2026-11-16T14:30:30.231Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/astronomia/2026/11/16/astronomos-descubren-el-primer-planeta-gigante-que-desaparecio-mientras-lo-observaban.shtml",
    "titulo": "Astrónomos descubren el primer planeta gigante que desapareció mientras lo observaban",
    "resumen": "Astrónomos de la Universidad de California en Los Ángeles (UCLA) descubrieron el primer planeta del que se ha visto desaparecer...",
@@ -1505,20 +1519,6 @@
    "visto": "2026-11-16T14:30:30.231Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/ola-de-robos-afecta-a-iglesias-de-lota-y-pastor-cuestiona-esperan-que-los-civiles-tomemos-las-armas.shtml",
-   "titulo": "Ola de robos afecta a iglesias de Lota y pastor cuestiona: ¿Esperan que los civiles tomemos las armas?",
-   "resumen": "Una docena de robos han afectado a iglesias evangélicas y católicas de Lota, ubicadas principalmente en el sector céntrico...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020557-ola-de-robos-afecta-a-iglesias-de-lota-y-pastor-cuestiona_-esperan-que-los-civiles-tomemos-las-armas_.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-16T14:09:45.000Z",
-   "visto": "2026-11-16T14:10:22.738Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2239,20 +2239,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/obra-lo-profano-y-lo-santo-acercamiento-a-violeta-parra-funciones-liceo-balmaceda.html",
-   "titulo": "Obra “Lo profano y lo santo. Acercamiento a Violeta Parra” se presentará por partida doble en el Liceo Balmaceda de Concepción",
-   "resumen": "Tras su creación y desarrollo en Barcelona bajo la dirección de Jessica Walker, wl montaje llega por primera vez a Chile y a Concepción, ciudad de origen de su actriz-creadora, Ángela Valeria Chandía. La presentación cuenta con la asistencia de dirección de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/obra-Violeta.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T19:10:20.076Z",
-   "visto": "2026-11-12T19:10:20.076Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   }
