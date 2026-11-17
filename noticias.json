@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T20:40:36.587Z",
+ "generado": "2026-11-17T21:00:29.594Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 59,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 10,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/17/alianza-entidades-medicas-prevencion-salud.html",
+   "titulo": "Entidades científicas y médicas se unen para fortalecer la prevención y promoción de la salud",
+   "resumen": "Representantes de 18 instituciones participaron del Foro Intersociedades que impulsó Sochimev.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-actividad-fi%CC%81sica-foto-cc-850x500.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T21:00:29.594Z",
+   "visto": "2026-11-17T21:00:29.594Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/hombre-resulta-gravemente-herido-tras-ser-apunalado-cerca-de-un-ojo-en-curanilahue",
+   "titulo": "Hombre resulta gravemente herido tras ser apuñalado cerca de un ojo en Curanilahue",
+   "resumen": "Carabineros realiza diligencias para dar con el responsable del ataque, quien habría sido captado por cámaras de seguridad del sector. La víctima permanece fuera de riesgo vital. Un hombre resultó con lesiones de carácter grave tras ser atacado con un arma…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Diseno-sin-titulo-2.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T21:00:29.594Z",
+   "visto": "2026-11-17T21:00:29.594Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/baja-cuentas-luz-biobio-2027.html",
    "titulo": "Cuentas de la luz bajarán en promedio 4% en Biobío a partir de enero de 2027",
@@ -1533,20 +1561,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T15:00:00.000Z",
    "visto": "2026-11-17T17:00:28.553Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/bioestimulante-agricola-desechos-marinos-biobio.html",
-   "titulo": "Del mar al campo: ex pescador de Talcahuano desarrolló bioestimulante agrícola con residuos marinos",
-   "resumen": "Con una inversión propia de $100 millones y una solicitud de patente en trámite ante Inapi, Tomás Roa logró transformar caparazones de jaiba y conchas de navajuela en un insumo libre de metales pesados que ya se prueba con éxito desde Arica hasta Futaleufú.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cr%C3%A9dito-Tom%C3%A1s-Roa-Caja-principal.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T15:00:00.000Z",
-   "visto": "2026-11-17T16:00:30.032Z",
    "cats": [
     "regional"
    ],
