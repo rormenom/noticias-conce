@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-17T14:00:35.446Z",
+ "generado": "2026-11-17T14:10:21.688Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "HTTP 507",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -61,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
-    "leidas": 58,
+    "enlaces": 157,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -75,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/hombre-muere-baleado-en-antejardin-de-su-casa-en-san-pedro-de-la-paz-es-el-homicidio-76-del-bio-bio.shtml",
+   "titulo": "Hombre muere baleado en antejardín de su casa en San Pedro de la Paz: es el homicidio 76 del Bío Bío",
+   "resumen": "Un hombre de 33 años murió tras recibir múltiples disparos en el antejardín de su domicilio en la comuna de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022184-homicidio-calama.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-17T14:05:43.000Z",
+   "visto": "2026-11-17T14:10:21.688Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/hombre-de-33-anos-muere-baleado-en-el-antejardin-de-su-vivienda-en-san-pedro-de-la-paz",
    "titulo": "Hombre de 33 años muere baleado en el antejardín de su vivienda en San Pedro de la Paz",
@@ -1499,20 +1512,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-16T07:07:50.000Z",
    "visto": "2026-11-16T11:10:26.355Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/15/tras-un-primer-intento-de-rescate-terrestre-evacuan-via-aerea-a-militar-accidentado-en-sierra-velluda.shtml",
-   "titulo": "Tras un primer intento de rescate terrestre: evacúan vía aérea a militar accidentado en Sierra Velluda",
-   "resumen": "Un integrante del Destacamento de Montaña N° 17 “Los Ángeles” fue rescatado vía aérea tras sufrir un accidente mientras realizaba...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020151-rescatan-via-aerea-a-militar-accidentado-en-sierra-velluda-y-lo-trasladan-a-hospital-de-los-angeles.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-16T01:49:55.000Z",
-   "visto": "2026-11-16T01:50:19.507Z",
    "cats": [
     "regional"
    ],
