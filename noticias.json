@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T11:00:31.557Z",
+ "generado": "2026-11-17T11:20:22.475Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 2,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 56,
+    "enlaces": 153,
+    "leidas": 54,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/joyita-otra-vez-campeon-es-un-hito-que-nadie-habia-logrado.html",
+   "titulo": "“Joyita” otra vez campeón: “Es un hito que nadie había logrado”",
+   "resumen": "Carlos Solar, capitán de la embarcación de Talcahuano, habló de este tercer título nacional J24, ganando todas las regatas en juego. Ahora sueñan con ir al Mundial de Nueva York y habló de los Odesur 2030.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/joyita.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T11:20:22.475Z",
+   "visto": "2026-11-17T11:20:22.475Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/udec-entre-los-6-mejores-de-liga-desarrollo-y-ahora-tocara-hacer-maletas-a-puerto-varas.html",
+   "titulo": "UdeC entre los 6 mejores de Liga Desarrollo y ahora tocará hacer maletas a Puerto Varas",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/10/sebasti%C3%A1n-Pereira-basket.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T11:20:22.475Z",
+   "visto": "2026-11-17T11:20:22.475Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/en-medio-de-complejo-momento-para-sector-forestal-se-realizara-la-version-2026-de-la-expocorma.shtml",
    "titulo": "En medio de complejo momento para sector forestal se realizará la versión 2026 de la Expocorma",
@@ -1140,34 +1168,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/fernandez-vial-no-se-confia-hay-que-enfrentar-la-vuelta-como-si-fueramos-0-0.html",
-   "titulo": "Fernández Vial no se confía: “Hay que enfrentar la vuelta como si fuéramos 0-0”",
-   "resumen": "Jeremy Olivares, una de las figuras e improvisado zaguero aurinegro, analizó el 2-1 en la ida ante Puente Alto y lo que viene. Cree que después de Monte Águila y Mejillones están listos para cualquier \"infierno\".",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fern%C3%A1ndez-vial-CD.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/guerrero-de-penco-vuelve-con-70-anos-a-la-san-silvestre.html",
-   "titulo": "“Guerrero de Penco” vuelve con 70 años a la San Silvestre",
-   "resumen": "Sergio Ramírez corrió alguna vez 7 maratones en un año y a fines de este 2026 irá otra vez al calor de Brasil para un nuevo desafío. Quiere seguir en la pista hasta los 80 y reza para que las lesiones no lo alcancen.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-15-at-19.44.57.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/flo-y-jochy-elevandose-hasta-el-oro-en-la-araucania.html",
    "titulo": "“Flo” y “Jochy”: elevándose hasta el oro en La Araucanía",
    "resumen": "Florencia Melo y Josefa Fariña estudian en el Almondale San Pedro de la Paz, pero fuera de la sala de clases se combinan para remachar por Biobío. Con 17 años piensan en su futuro, con el vóleibol siempre presente.",
@@ -1206,6 +1206,34 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/fernandez-vial-no-se-confia-hay-que-enfrentar-la-vuelta-como-si-fueramos-0-0.html",
+   "titulo": "Fernández Vial no se confía: “Hay que enfrentar la vuelta como si fuéramos 0-0”",
+   "resumen": "Jeremy Olivares, una de las figuras e improvisado zaguero aurinegro, analizó el 2-1 en la ida ante Puente Alto y lo que viene. Cree que después de Monte Águila y Mejillones están listos para cualquier \"infierno\".",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fern%C3%A1ndez-vial-CD.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/guerrero-de-penco-vuelve-con-70-anos-a-la-san-silvestre.html",
+   "titulo": "“Guerrero de Penco” vuelve con 70 años a la San Silvestre",
+   "resumen": "Sergio Ramírez corrió alguna vez 7 maratones en un año y a fines de este 2026 irá otra vez al calor de Brasil para un nuevo desafío. Quiere seguir en la pista hasta los 80 y reza para que las lesiones no lo alcancen.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-15-at-19.44.57.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
