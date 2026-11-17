@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T13:20:21.745Z",
+ "generado": "2026-11-17T13:40:21.437Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 159,
+    "enlaces": 160,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -372,6 +372,20 @@
    "visto": "2026-11-17T10:10:20.814Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/en-diciembre-se-iniciara-renovacion-total-de-las-pistas-del-aerodromo-de-chillan/",
+   "titulo": "En diciembre se iniciará renovación total de las pistas del aeródromo de Chillán",
+   "resumen": "Con trabajos nocturnos.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/aerdromo-chilla-nuble-768x526.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-17T07:38:54.000Z",
+   "visto": "2026-11-17T13:40:21.437Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1498,20 +1512,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-15T23:50:20.671Z",
    "visto": "2026-11-15T23:50:20.671Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/15/familiares-vecinos-y-artistas-circenses-dan-el-ultimo-adios-a-tony-pulguita.shtml",
-   "titulo": "Familiares, vecinos y artistas circenses dan el último adiós a \"Tony Pulguita\"",
-   "resumen": "Familiares, vecinos y artistas circenses despidieron este domingo a José Ramón Arellano, quién dio vida al reconocido payaso “Tony Pulguita”...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020069-familiares-vecinos-y-artistas-circenses-dan-el-ultimo-adios-a-_tony-pulguita_-1200x633.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-15T22:02:03.000Z",
-   "visto": "2026-11-15T22:10:19.689Z",
    "cats": [
     "regional"
    ],
