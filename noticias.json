@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T11:50:21.863Z",
+ "generado": "2026-11-17T12:00:31.760Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/hualpen-trabajadores-contratistas-bloquean-acceso-a-refineria-enap-exigiendo-pago-de-bono",
+   "titulo": "Hualpén: trabajadores contratistas bloquean acceso a Refinería ENAP exigiendo pago de bono",
+   "resumen": "Una movilización de trabajadores contratistas se desarrolla en las afueras de la Refinería ENAP Biobío, en la comuna de Hualpén. La protesta, encabezada por el Sindicato Interempresa Nacional de Trabajadores de Montaje Industrial (Sinami), mantiene bloqueado…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-17-at-08.49.28-e1794916679408.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T12:00:31.760Z",
+   "visto": "2026-11-17T12:00:31.760Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/alerta-temprana-biobio-riesgo-tornados-trombas.html",
    "titulo": "Precipitaciones y vientos de hasta 50 km/h: continúa la Alerta Temprana por sistema frontal en Biobío",
@@ -1502,20 +1516,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/gran-concepcion-supera-promedio-de-habitantes-por-hogar-advierten-retos-en-planificacion-urbana.html",
-   "titulo": "Gran Concepción supera promedio de habitantes por hogar: advierten retos en planificación urbana",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-12-casas-poblacion-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-15T18:30:24.942Z",
-   "visto": "2026-11-15T18:30:24.942Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
