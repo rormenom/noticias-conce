@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-17T08:30:31.421Z",
+ "generado": "2026-11-17T08:40:20.947Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -35,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
-    "leidas": 1,
+    "enlaces": 57,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
@@ -60,9 +59,9 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 3,
-    "enlaces": 140,
-    "leidas": 57,
+    "paginas": 4,
+    "enlaces": 157,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -75,13 +74,111 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/amenazas-contexto-escolar-superintendencia-educacion.html",
+   "titulo": "Llaman a tomar conciencia de la gravedad de las amenazas en contexto escolar",
+   "resumen": "El caso de un apoderado que amenazó a una comunidad educativa en Talcahuano reabrió la discusión sobre la gravedad de estas conductas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-violencia-escolar-foto-cedida.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/despidos-biobio-aumento-2026.html",
+   "titulo": "Despidos en el Biobío: desvinculaciones formales aumentaron 20,2% durante 2026",
+   "resumen": "Manufactura, comercio y construcción enfrentan un escenario marcado por menor dinamismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-14-feria-laboral-foto-isidoro.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/princesa-alba-rec-malagradecida.html",
+   "titulo": "“Me encantaría mostrar este show en el REC”: Princesa Alba y su nueva era con “Malagradecida”",
+   "resumen": "En conversación con Diario Concepción, la artista pop repasó el proceso de su nuevo disco y abordó su relación con tierras penquistas, una de las comunas en las que cuenta con mayor cantidad de oyentes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-Princesa-Alba-foto-cedida-Princesa-Alba.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/el-nino-biobio-lluvias-remociones-en-masa-riesgos.html",
+   "titulo": "Lluvias, calor y remociones en masa: los posibles efectos de El Niño en el Biobío",
+   "resumen": "Los pronósticos internacionales anticipan que el fenómeno podría alcanzar un peak extraordinario entre noviembre y diciembre. Especialistas explicaron cómo podría incidir en el territorio regional.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Screenshot_20261116_201815_Gallery-e1794874192487.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
+   "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
+   "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/alejandro-reyes-nuevo-director-de-la-caj-biobio-las-gestiones-dificilmente-se-van-a-hacer-mejor-con-menos-gente.html",
+   "titulo": "Alejandro Reyes, nuevo director de la CAJ Biobío: Las gestiones “difícilmente se van a hacer mejor con menos gente”",
+   "resumen": "\"Estamos frente no solo a un cambio de paradigma, sino que estamos ante una institución que es clave en la vida de las personas\", Alejandro Reyes Schwarz, director general CAJ Biobío.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-1-2.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/conductor-ofrecio-trasladar-a-adulto-mayor-y-le-robo-anillo-tras-amenazarlo-con-cortarle-dedo-en-lota.shtml",
+   "titulo": "Conductor ofreció trasladar a adulto mayor y le robó anillo tras amenazarlo con cortarle dedo en Lota",
+   "resumen": "Un conductor que se ofreció a facilitarle transporte a un adulto mayor terminó protagonizando un violento robo en Lota, ...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7021806-cntxt-pixabay-por-conductor-ofrecio-trasladar-a-adulto-mayor-y-le-robo-anillo-tras-amenazarlo-con-cortarle-dedo-en-lota.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-17T08:35:44.000Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/pequenos-transportistas-del-bio-bio-llaman-a-rechazar-ley-que-congela-alza-de-combustibles.shtml",
    "titulo": "Pequeños transportistas del Bío Bío llaman a rechazar ley que congela alza de combustibles",
@@ -465,20 +562,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/fpa-2027-millon-pesos-proyectos-forjadores-ambientales.html",
-   "titulo": "Fondo de Protección Ambiental 2027: Forjadores Ambientales pueden acceder a $1 millón para iniciativas locales",
-   "resumen": "El concurso del Ministerio del Medio Ambiente financiará proyectos locales. Los grupos interesados deben inscribirse en el registro oficial hasta el 20 de noviembre.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FPA-Forjadores-Ambientales-e1794846209747.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T16:30:27.045Z",
-   "visto": "2026-11-16T16:30:27.045Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/16/concejo-tome-aprueba-padem-2027.html",
    "titulo": "Histórico: Concejo Municipal de Tomé aprueba el PADEM 2027 y reafirma su compromiso con la educación pública",
    "resumen": "",
@@ -491,6 +574,20 @@
     "regional",
     "cultura",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/fpa-2027-millon-pesos-proyectos-forjadores-ambientales.html",
+   "titulo": "Fondo de Protección Ambiental 2027: Forjadores Ambientales pueden acceder a $1 millón para iniciativas locales",
+   "resumen": "El concurso del Ministerio del Medio Ambiente financiará proyectos locales. Los grupos interesados deben inscribirse en el registro oficial hasta el 20 de noviembre.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FPA-Forjadores-Ambientales-e1794846209747.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T16:30:27.045Z",
+   "visto": "2026-11-16T16:30:27.045Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -959,34 +1056,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/de-monumento-a-refugio-la-crisis-social-de-la-poblacion-sin-hogar-se-vive-en-el-memorial-27f.html",
-   "titulo": "De monumento a refugio: la crisis social de la población sin hogar se vive en el Memorial 27F",
-   "resumen": "La obra que conmemora a víctimas del terremoto de 2010 es ocupada por personas en situación de calle, fenómeno creciente, pero transeúntes advierten deterioro e inseguridad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/presupuesto-2027-senado-discusion-biobio.html",
-   "titulo": "Presupuesto 2027: lo que se juega el Biobío en la próxima discusión del Senado",
-   "resumen": "Siete ministerios llegan sin gastos variables al segundo trámite, mientras en el Biobío siguen pendientes las definiciones sobre el financiamiento del transporte público.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Sala-del-Senado-foto-Claudio-Cavalieri-Senado.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/fernandez-vial-no-se-confia-hay-que-enfrentar-la-vuelta-como-si-fueramos-0-0.html",
    "titulo": "Fernández Vial no se confía: “Hay que enfrentar la vuelta como si fuéramos 0-0”",
    "resumen": "Jeremy Olivares, una de las figuras e improvisado zaguero aurinegro, analizó el 2-1 en la ida ante Puente Alto y lo que viene. Cree que después de Monte Águila y Mejillones están listos para cualquier \"infierno\".",
@@ -997,20 +1066,6 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/bioestimulante-agricola-desechos-marinos-biobio.html",
-   "titulo": "Del mar al campo: ex pescador de Talcahuano desarrolló bioestimulante agrícola con residuos marinos",
-   "resumen": "Con una inversión propia de $100 millones y una solicitud de patente en trámite ante Inapi, Tomás Roa logró transformar caparazones de jaiba y conchas de navajuela en un insumo libre de metales pesados que ya se prueba con éxito desde Arica hasta Futaleufú.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cr%C3%A9dito-Tom%C3%A1s-Roa-Caja-principal.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1039,6 +1094,34 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/presupuesto-2027-senado-discusion-biobio.html",
+   "titulo": "Presupuesto 2027: lo que se juega el Biobío en la próxima discusión del Senado",
+   "resumen": "Siete ministerios llegan sin gastos variables al segundo trámite, mientras en el Biobío siguen pendientes las definiciones sobre el financiamiento del transporte público.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Sala-del-Senado-foto-Claudio-Cavalieri-Senado.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/bioestimulante-agricola-desechos-marinos-biobio.html",
+   "titulo": "Del mar al campo: ex pescador de Talcahuano desarrolló bioestimulante agrícola con residuos marinos",
+   "resumen": "Con una inversión propia de $100 millones y una solicitud de patente en trámite ante Inapi, Tomás Roa logró transformar caparazones de jaiba y conchas de navajuela en un insumo libre de metales pesados que ya se prueba con éxito desde Arica hasta Futaleufú.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cr%C3%A9dito-Tom%C3%A1s-Roa-Caja-principal.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1075,6 +1158,20 @@
    "titulo": "Medios periodísticos  firman documento y piden fortalecer la protección al trabajo frente a la IA",
    "resumen": "En el Encuentro de Diarios Regionales, actores de todo el país fijaron posición frente a temas que definen el presente y futuro del periodismo.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/9-principal.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/de-monumento-a-refugio-la-crisis-social-de-la-poblacion-sin-hogar-se-vive-en-el-memorial-27f.html",
+   "titulo": "De monumento a refugio: la crisis social de la población sin hogar se vive en el Memorial 27F",
+   "resumen": "La obra que conmemora a víctimas del terremoto de 2010 es ocupada por personas en situación de calle, fenómeno creciente, pero transeúntes advierten deterioro e inseguridad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-foto-carolina.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T08:40:19.470Z",
@@ -1396,34 +1493,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/atleta-del-bio-bio-de-68-anos-correra-la-san-silvestre-de-sao-paulo-con-mas-de-400-medallas",
-   "titulo": "Atleta del Bío Bío de 68 años correrá la San Silvestre de Sao Paulo con más de 400 medallas",
-   "resumen": "Con 68 años de trayectoria y más de 400 medallas, el atleta penquista e hijo ilustre de Penco se prepara para participar en la tradicional corrida de San Silvestre, en Sao Paulo, Brasil. La competencia se realizará el 31 de diciembre de 2026 y será su última…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-15-a-las-12.34.15%E2%80%AFp.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T15:40:19.347Z",
-   "visto": "2026-11-15T15:40:19.347Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/inauguran-ampliacion-de-agua-potable-rural-en-santa-juana-pasa-de-113-a-283-familias-beneficiadas",
-   "titulo": "Inauguran ampliación de agua potable rural en Santa Juana: pasa de 113 a 283 familias beneficiadas",
-   "resumen": "Se inauguró la ampliación del Sistema de Agua Potable Rural del sector de Huallerehue, en la comuna de Santa Juana. La iniciativa, que comenzó en 2017, incorpora a más familias y mejora la calidad, la cantidad y la continuidad del suministro. Cobertura e…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-15-a-las-12.30.02%E2%80%AFp.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T15:40:19.347Z",
-   "visto": "2026-11-15T15:40:19.347Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/15/gobierno-anuncia-decreto-para-retirar-arboles-de-la-interfaz-y-cobrar-el-costo-a-quien-no-lo-haga",
    "titulo": "Gobierno anuncia decreto para retirar árboles de la interfaz y cobrar el costo a quien no lo haga",
    "resumen": "A 10 meses de los incendios forestales que afectaron a la Región del Bío Bío, se entregaron 14 viviendas en Tomé a familias que perdieron sus casas durante el megaincendio. En la ceremonia participaron el ministro de Vivienda y Urbanismo, Iván Poduje, el…",
@@ -1450,20 +1519,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/laguna-chica-reabre-con-acceso-gratuito-y-aforo-limitado-a-3-000-personas-tras-remodelacion",
-   "titulo": "Laguna Chica reabre con acceso gratuito y aforo limitado a 3.000 personas tras remodelación",
-   "resumen": "Tras dos veranos funcionando a media marcha por los trabajos de remodelación, el balneario Laguna Chica abrirá sus puertas a la comunidad. El recinto cuenta ahora con nuevos baños, camarines, espacios para emprendedores y un centro de eventos. La temporada…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-13-at-13.33.50.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T15:20:19.288Z",
-   "visto": "2026-11-15T15:20:19.288Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1566,20 +1621,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/14/camioneros-paro-acuerdo-alusiones-octubrismo.html",
-   "titulo": "Tras acuerdo con camioneros: transportistas descolgados del pacto rechazan alusiones al octubrismo",
-   "resumen": "El Ejecutivo endureció el tono hacia quienes persisten en el paro y comparó sus acciones con las del estallido social. Dirigentes del Biobío cuestionaron el trato y aseguraron que sus movilizaciones no responden a intereses políticos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-e1794623555112.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T08:40:21.206Z",
-   "visto": "2026-11-14T08:40:21.206Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/14/catedra-gonzalo-rojas-inaugura-nuevo-espacio-encuentro-poetico-primera-edicion-cicatrices.html",
    "titulo": "Cátedra Gonzalo Rojas inaugura nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
    "resumen": "La iniciativa impulsada por la poeta residente 2026-2027, la argentina Consuelo Iturraspe, junto con un equipo multidisciplinario UdeC, reunió a siete autores de la Región y dos invitadas trasandinas. La propuesta busca proyectarse en el tiempo y abrir nuevas…",
@@ -1604,6 +1645,20 @@
    "visto": "2026-11-14T08:40:21.206Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/14/camioneros-paro-acuerdo-alusiones-octubrismo.html",
+   "titulo": "Tras acuerdo con camioneros: transportistas descolgados del pacto rechazan alusiones al octubrismo",
+   "resumen": "El Ejecutivo endureció el tono hacia quienes persisten en el paro y comparó sus acciones con las del estallido social. Dirigentes del Biobío cuestionaron el trato y aseguraron que sus movilizaciones no responden a intereses políticos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-e1794623555112.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-14T08:40:21.206Z",
+   "visto": "2026-11-14T08:40:21.206Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -2230,105 +2285,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/creacion-filmica-no-tiene-edad-cinelebu-desarrolla-experiencias-audiovisuales-distintas-generaciones.html",
-   "titulo": "La creación fílmica no tiene edad: Cinelebu desarrolla experiencias audiovisuales para distintas generaciones",
-   "resumen": "Quince niños y un grupo de personas mayores participan en experiencias gratuitas de animación Stop Motion, impulsadas por la sección de Escuela de esta iniciativa cinematográfica lebulense. Las actividades contemplan procesos de creación con plasticina,…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Cinelebu-e1794443460924.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/12/banda-penquista-saviamente-hace-su-debut-de-la-mano-del-single-vuela.html",
-   "titulo": "Banda penquista Saviamente hace su debut de la mano del single “Vuela”",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-JotaKai-Comunicaciones-e1794444996121.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/evandro-arteaga-con-titulo-de-entrenador-y-la-felicidad-al-formar-ninos.html",
-   "titulo": "Evandro Arteaga: con título de entrenador y la felicidad al formar niños",
-   "resumen": "Histórico basquetbolista disfruta preparando a los chicos de su academia, no descarta dirigir algún día un equipo profesional y analiza el presente de la UdeC buscando semifinales de la LNB.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/evandro-arteaga-e1794443313886.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/senadores-biobio-mocion-tarifas-paro-camionero.html",
-   "titulo": "Senadores del Biobío presionan por tramitar moción de tarifas en medio del paro camionero",
-   "resumen": "Se busca regular el cobro por kilómetro, fijar plazos máximos de pago y proteger a los transportistas de menor tamaño. La Comisión de Transportes del Senado acordó priorizar su debate.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sala-senado-e1794442835286.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/12/joyita-busca-tercer-titulo-nacional-de-vela-con-los-colores-de-talcahuano.html",
-   "titulo": "“Joyita” busca tercer título nacional de vela con los colores de Talcahuano",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/joyita-e1794445349212.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/12/viernes-estelares-de-noviembre-indagara-el-origen-del-sistema-solar-a-traves-de-las-estrellas.html",
-   "titulo": "Viernes Estelares de noviembre indagará el origen del Sistema Solar a través de las estrellas",
-   "resumen": "Este 13 de noviembre es la nueva charla del ciclo de Astronomía UdeC.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-departamento-de-Astronomia-UdeC-foto-carolina-e1794445390423.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/alex-berg-premios-innovacion-cpc-biobio-udec.html",
-   "titulo": "Exdirector de la UDT de la UdeC recibe reconocimiento de los Premios a la Innovación",
-   "resumen": "Fue distinguido por la CPC Biobío en un espacio que busca visibilizar iniciativas innovadoras y su aporte al desarrollo productivo regional.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-Alex-Berg-premio-UDT-foto-archivo-Esteban-Paredes-Drake-DirCom-UdeC-e1794443153175.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T08:40:19.790Z",
-   "visto": "2026-11-12T08:40:19.790Z",
-   "cats": [
-    "regional",
-    "tecnologia"
    ],
    "local": true
   }
