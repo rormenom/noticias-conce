@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T11:40:20.022Z",
+ "generado": "2026-11-17T11:50:21.863Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
-    "leidas": 2,
+    "enlaces": 56,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 56,
+    "enlaces": 153,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/alerta-temprana-biobio-riesgo-tornados-trombas.html",
+   "titulo": "Precipitaciones y vientos de hasta 50 km/h: continúa la Alerta Temprana por sistema frontal en Biobío",
+   "resumen": "La medida rige ante el pronóstico de precipitaciones, vientos que alcanzarían rachas de 50 km/h y el desarrollo de nubes con características tornádicas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/armada-alerta-trombas-marinas-biobio-los-rios-archivo-isidoro-valenzuela-e1794915475590.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T11:50:21.863Z",
+   "visto": "2026-11-17T11:50:21.863Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/hospital-las-higueras-logra-tercer-lugar-en-ranking-que-evaluo-a-mas-de-50-recintos-de-salud-en-chile.shtml",
+   "titulo": "Hospital Las Higueras logra tercer lugar en ranking que evaluó a más de 50 recintos de salud en Chile",
+   "resumen": "El Hospital Las Higueras de Talcahuano obtuvo tercer lugar en el ranking Merco, medición que evaluó a más de 50...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7021935-hospital-las-higueras-agenciauno.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-17T11:44:32.000Z",
+   "visto": "2026-11-17T11:50:21.863Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/udec-entre-los-6-mejores-de-liga-desarrollo-y-ahora-tocara-hacer-maletas-a-puerto-varas.html",
    "titulo": "UdeC entre los 6 mejores de Liga Desarrollo y ahora tocará hacer maletas a Puerto Varas",
@@ -194,20 +222,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
-   "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
-   "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/princesa-alba-rec-malagradecida.html",
    "titulo": "“Me encantaría mostrar este show en el REC”: Princesa Alba y su nueva era con “Malagradecida”",
    "resumen": "En conversación con Diario Concepción, la artista pop repasó el proceso de su nuevo disco y abordó su relación con tierras penquistas, una de las comunas en las que cuenta con mayor cantidad de oyentes.",
@@ -250,6 +264,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
+   "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
+   "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/conductor-ofrecio-trasladar-a-adulto-mayor-y-le-robo-anillo-tras-amenazarlo-con-cortarle-dedo-en-lota.shtml",
    "titulo": "Conductor ofreció trasladar a adulto mayor y le robó anillo tras amenazarlo con cortarle dedo en Lota",
    "resumen": "Un conductor que se ofreció a facilitarle transporte a un adulto mayor terminó protagonizando un violento robo en Lota, ...",
@@ -274,6 +302,20 @@
    "visto": "2026-11-17T10:10:20.814Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/en-prision-preventiva-quedo-un-sujeto-formalizado-por-femicidio-tentado-en-hualpen/",
+   "titulo": "En prisión preventiva quedó un sujeto formalizado por femicidio tentado en Hualpén",
+   "resumen": "El acusado incumplió una orden de alejamiento y golpeó brutalmente a su cónyuge.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2025/07/pdi-detenido-hualpen-768x507.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-17T07:02:40.000Z",
+   "visto": "2026-11-17T11:50:21.863Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1489,34 +1531,6 @@
    "cats": [
     "regional",
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/entre-2024-y-2026-gran-concepcion-bajo-106-puestos-en-ranking-global-de-ciudades.html",
-   "titulo": "Entre 2024 y 2026: Gran Concepción bajó 106 puestos en ranking global de ciudades",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-6-aerea-de-Concepci%C3%B3n-foto-diario-Concepci%C3%B3n.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-15T18:20:20.276Z",
-   "visto": "2026-11-15T18:20:20.276Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/nasa-space-apps-challenge-convoco-a-mas-de-100-jovenes-para-solucionar-retos-globales.html",
-   "titulo": "NASA Space Apps Challenge convocó a más de 100 jóvenes para solucionar retos globales",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-10-desafio-de-la-nasa-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-15T18:20:20.276Z",
-   "visto": "2026-11-15T18:20:20.276Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
