@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T16:50:21.601Z",
+ "generado": "2026-11-17T17:00:28.553Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/microcine-molina-ciclo-universos-extraordinarios-concepcion.html",
+   "titulo": "“El Joven Manos de Tijera” y “La Historia sin Fin” llegan a Microcine Molina en Concepción",
+   "resumen": "Microcine Molina presenta su ciclo \"Universos Extraordinarios\" en Concepción con dos clásicos del cine. Conoce la cartelera, horarios y cómo reservar tu entrada.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/JAime-Rendon.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T17:00:28.553Z",
+   "visto": "2026-11-17T17:00:28.553Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/estamos-felices-de-cumplir-60-anos-inti-illimani-presenta-el-disco-caminos-en-concepcion",
    "titulo": "\"Estamos felices de cumplir 60 años\": Inti- Illimani presenta el disco Caminos en Concepción",
@@ -1186,6 +1200,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/exportaciones-biobio-crecen-septiembre-industria-jurel.html",
+   "titulo": "Exportaciones del Biobío crecen 12,6% en septiembre impulsadas por la industria y el jurel",
+   "resumen": "El sector industrial fue el motor de este crecimiento mensual. Los envíos al extranjero de jurel entero congelado registraron la mayor incidencia positiva.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/exportaciones-biobio-crecen-septiembre-industria-jurel-e1794832147814.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T15:00:00.000Z",
+   "visto": "2026-11-17T17:00:28.553Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/16/fijan-formalizacion-para-hombre-acusado-de-intentar-envenenar-a-tres-perros-comunitarios-en-concepcion",
    "titulo": "Concepción: fijan audiencia de formalización para acusado de intentar envenenar a tres perros comunitarios",
    "resumen": "La audiencia de formalización de Daniel Alfredo Mahn, investigado por su eventual participación en el intento de envenenar a tres perros comunitarios en Concepción, fue programada para el próximo martes 24 de noviembre. El episodio habría tenido lugar hace un…",
@@ -1447,20 +1475,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-16T13:30:31.633Z",
    "visto": "2026-11-16T13:30:31.633Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/seremi-de-justicia-encabezo-constitucion-de-la-comision-de-coordinacion-del-sistema-de-justicia-penal-en-el-biobio/",
-   "titulo": "Biobío: Constituyen Comisión de Coordinación del Sistema de Justicia Penal",
-   "resumen": "Con la participación de las principales instituciones que intervienen en el proceso penal, se constituyó la mesa de la Comisión de Coordinación del Sistema de Justicia Penal, instancia dirigida por el Seremi de Justicia y Derechos Humanos, Robert Contreras…",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/coordinacion-sistema-justicia-penal-Biobio-768x576.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-16T12:52:48.000Z",
-   "visto": "2026-11-16T13:00:31.120Z",
    "cats": [
     "regional"
    ],
