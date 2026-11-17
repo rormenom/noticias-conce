@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T17:30:25.468Z",
+ "generado": "2026-11-17T17:40:22.114Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 159,
-    "leidas": 58,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/ordenan-detener-a-dueno-de-automotora-tras-no-llegar-a-formalizacion-habria-estafado-a-32-personas.shtml",
+   "titulo": "Ordenan detener a dueño de automotora tras no llegar a formalización: habría estafado a 32 personas",
+   "resumen": "Una orden de detención en contra del dueño de una importadora de vehículos despachó el Juzgado de Garantía de Concepción,...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022545-restore-automotora-hdr-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-17T17:32:28.000Z",
+   "visto": "2026-11-17T17:40:22.114Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/el-leon-recibira-a-la-u-el-29-sin-hinchas-azules.html",
    "titulo": "El “León” recibirá a la “U” el 29 sin hinchas azules",
@@ -1477,20 +1491,6 @@
    "cats": [
     "regional",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/preocupacion-por-abandono-de-memorial-27f-en-concepcion-denuncian-insalubridad-robos-y-pernoctacion",
-   "titulo": "Preocupación por Memorial 27F en Concepción: denuncian insalubridad, robos y pernoctación",
-   "resumen": "Un deterioro en materia de seguridad y salubridad enfrenta actualmente el Memorial del 27F, ubicado en el Parque Costanera de Concepción a un costado del Teatro Biobío. Según constató en terreno el equipo, el monumento inaugurado en octubre de 2013 para…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-09.10.18-e1794835735842.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T13:30:31.633Z",
-   "visto": "2026-11-16T13:30:31.633Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
