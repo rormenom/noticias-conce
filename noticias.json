@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T21:40:20.579Z",
+ "generado": "2026-11-17T22:00:31.609Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -59,8 +59,8 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 4,
-    "enlaces": 151,
+    "paginas": 3,
+    "enlaces": 135,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -544,6 +544,21 @@
    "visto": "2026-11-17T17:00:28.553Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/gore-y-sercotec-anuncian-recursos-para-mas-de-50-restaurantes-de-nuble/",
+   "titulo": "GORE y Sercotec anuncian recursos para más de 50 restaurantes de Ñuble",
+   "resumen": "Autoridades lanzaron el programa Crece Sostenible, que entregará subsidios de hasta $9 millones a 52 restaurantes de la región, además, encabezaron el cierre de Barrio Seguro en la Plaza Sargento Aldea de Chillán, iniciativa que benefició a 23 locatarios con…",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/lanzamiento-crece-cierre-barrio-ñuble--768x512.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-17T16:52:55.000Z",
+   "visto": "2026-11-17T22:00:31.609Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -1548,20 +1563,6 @@
    "fuenteId": "radioudec",
    "fecha": "2026-11-16T15:43:33.000Z",
    "visto": "2026-11-16T15:50:25.902Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/after-inmobiliario-finco-2026-rebaja-del-iva-abre-una-ventana-para-comprar-vivienda-en-el-gran-concepcion/",
-   "titulo": "After Inmobiliario Finco 2026: rebaja del IVA abre una ventana para comprar vivienda en el Gran Concepción",
-   "resumen": "El próximo 25 de noviembre, a partir de las 17:00 […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/EXPRESO-INMOBILIARIO_17-1-768x512.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-16T15:35:01.000Z",
-   "visto": "2026-11-16T15:40:23.110Z",
    "cats": [
     "regional"
    ],
