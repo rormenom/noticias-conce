@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T20:20:30.039Z",
+ "generado": "2026-11-17T20:30:24.443Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 20,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 58,
+    "enlaces": 150,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/estabilizacion-monumento-historico-desayuno-escolar-lota.html",
+   "titulo": "Invierten más de $100 millones en rehabilitación de Monumento Histórico de Lota",
+   "resumen": "Hacia la recuperación total del edificio del ex Desayuno Escolar frente a la Plaza de Armas, se enfocó el trabajo de limpieza, despeje y obras de apuntalamiento y reposición de techumbres.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/7-e1794946726353.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T20:30:24.443Z",
+   "visto": "2026-11-17T20:30:24.443Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/descuidos-auto-aumentan-consumo-bencina.html",
    "titulo": "Cinco descuidos en el auto que pueden aumentar hasta un 20% el gasto de bencina",
@@ -1533,20 +1547,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-16T15:00:00.000Z",
    "visto": "2026-11-17T10:30:25.360Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/fijan-formalizacion-para-hombre-acusado-de-intentar-envenenar-a-tres-perros-comunitarios-en-concepcion",
-   "titulo": "Concepción: fijan audiencia de formalización para acusado de intentar envenenar a tres perros comunitarios",
-   "resumen": "La audiencia de formalización de Daniel Alfredo Mahn, investigado por su eventual participación en el intento de envenenar a tres perros comunitarios en Concepción, fue programada para el próximo martes 24 de noviembre. El episodio habría tenido lugar hace un…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/contexto-agenciauno-3.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:50:21.603Z",
-   "visto": "2026-11-16T14:50:21.603Z",
    "cats": [
     "regional"
    ],
