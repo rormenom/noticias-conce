@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T22:10:20.364Z",
+ "generado": "2026-11-17T22:20:22.465Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 4,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 56,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -394,6 +394,20 @@
    "local": true
   },
   {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/cuartel-de-la-quinta-compania-supera-el-80-de-avance-en-nuble/",
+   "titulo": "Cuartel de la Quinta Compañía supera el 80% de avance en Ñuble",
+   "resumen": "Se encamina a ser la primera obra ejecutada directamente por un Gobierno Regional en Chile",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/avance-5ta-compañia-ñuble--768x512.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-17T19:13:14.000Z",
+   "visto": "2026-11-17T22:20:22.465Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/17/este-miercoles-se-anunciara-resultado-de-postulacion-del-bio-bio-como-sede-de-los-juegos-odesur-2030",
    "titulo": "Este miércoles se conocerá si el Bío Bío será sede de los Juegos Odesur 2030",
    "resumen": "Este miércoles se dará a conocer la decisión sobre la candidatura de la región del Bío Bío para albergar los Juegos Odesur 2030. La comisión técnica que inspeccionó la región entregó un informe unánimemente favorable, y el gobernador Sergio Giacaman indicó…",
@@ -409,7 +423,7 @@
   },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/seremi-de-justicia-refuerza-proteccion-a-madres-privadas-de-libertad/",
-   "titulo": "Seremi de Justicia refuerza protección a madres privadas de libertad",
+   "titulo": "Seremi de Justicia refuerza protección a madres embarazadas y con hijos privadas de libertad",
    "resumen": "Con el objetivo de fortalecer la coordinación interinstitucional y dar continuidad al trabajo orientado a resguardar los derechos de las mujeres privadas de libertad que se encuentran embarazadas o conviven junto a sus hijos lactantes, se desarrolló una nueva…",
    "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/seremi-justicia-biobio--768x576.png",
    "fuente": "El Conquistador",
@@ -1537,20 +1551,6 @@
     "regional",
     "cultura",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/fpa-2027-millon-pesos-proyectos-forjadores-ambientales.html",
-   "titulo": "Fondo de Protección Ambiental 2027: Forjadores Ambientales pueden acceder a $1 millón para iniciativas locales",
-   "resumen": "El concurso del Ministerio del Medio Ambiente financiará proyectos locales. Los grupos interesados deben inscribirse en el registro oficial hasta el 20 de noviembre.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FPA-Forjadores-Ambientales-e1794846209747.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T16:30:27.045Z",
-   "visto": "2026-11-16T16:30:27.045Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
