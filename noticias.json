@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T20:10:22.199Z",
+ "generado": "2026-11-17T20:20:30.039Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 19,
-    "leidas": 0,
+    "enlaces": 20,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 59,
+    "enlaces": 149,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,43 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 11,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/descuidos-auto-aumentan-consumo-bencina.html",
+   "titulo": "Cinco descuidos en el auto que pueden aumentar hasta un 20% el gasto de bencina",
+   "resumen": "Neumáticos, filtros y bujías en mal estado pueden afectar el rendimiento del auto.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/5-descuidos-comunes-en-el-auto-que-hacen-gastar-hasta-un-20-m%C3%A1s-e1794946187328.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T20:20:30.039Z",
+   "visto": "2026-11-17T20:20:30.039Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/17/campanas-seguridad-alimentaria-salud-mental-escolar.html",
+   "titulo": "Seremi de salud inicia campañas regionales con énfasis en seguridad alimentaria y salud mental",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/WhatsApp-Image-2026-11-17-at-11.20.07-e1794946107564.jpeg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-17T20:20:30.039Z",
+   "visto": "2026-11-17T20:20:30.039Z",
+   "cats": [
+    "regional",
+    "cultura",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/comerciantes-ambulantes-protestan-en-municipalidad-de-concepcion-y-exigen-acelerar-proceso-de-formalizacion",
    "titulo": "Comerciantes ambulantes protestan en Municipalidad de Concepción y exigen acelerar proceso de formalización",
@@ -1517,34 +1547,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-16T14:50:21.603Z",
    "visto": "2026-11-16T14:50:21.603Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/dos-investigaciones-por-delitos-sexuales-contra-ninas-terminan-con-dos-detenidos-en-penco-y-chiguayant",
-   "titulo": "Detienen a sospechosos en Penco y Chiguayante por investigaciones de delitos sexuales contra niñas",
-   "resumen": "Detectives de la Brigada Investigadora de Delitos Sexuales (Brisex) de la PDI de Concepción arrestaron a dos hombres adultos, acusados de delitos sexuales contra niñas de 6 y 9 años en las comunas de Penco y Chiguayante, respectivamente. El jefe de la Brisex…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-16t113141-267.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:50:21.603Z",
-   "visto": "2026-11-16T14:50:21.603Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/vecinos-de-hualpen-denuncian-proliferacion-de-zancudos-en-canal-price-por-estancamiento-de-aguas",
-   "titulo": "Vecinos de Hualpén denuncian proliferación de zancudos en Canal Price por estancamiento de aguas",
-   "resumen": "Plaga de zancudos denuncian los habitantes del sector colindante al Canal Price, en la comuna de Hualpén, a raíz del estancamiento de aguas, la acumulación de basura y el crecimiento descontrolado de maleza en el cauce. Según relatan las familias residentes,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-10.32.44-e1794839266485.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:40:31.012Z",
-   "visto": "2026-11-16T14:40:31.012Z",
    "cats": [
     "regional"
    ],
