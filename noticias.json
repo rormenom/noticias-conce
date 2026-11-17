@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T15:00:30.448Z",
+ "generado": "2026-11-17T15:20:21.373Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 58,
+    "enlaces": 155,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/expocorma-2026-industria-forestal-se-reune-en-torno-a-la-innovacion-tecnologia-y-nuevos-desafios-del-sector/",
+   "titulo": "ExpoCorma 2026: Industria forestal se reúne en torno a la innovación, tecnología y nuevos desafíos del sector",
+   "resumen": "Bajo el lema “Tecnología que nace de la tierra”, la […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/expocorma-2026-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-17T15:18:11.000Z",
+   "visto": "2026-11-17T15:20:21.373Z",
+   "cats": [
+    "regional",
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/hualpen-alcalde-exige-investigacion-tras-intoxicacion-de-15-escolares-por-emanaciones-de-enap",
    "titulo": "Hualpén: alcalde exige investigación tras intoxicación de 15 escolares por emanaciones de ENAP",
@@ -276,6 +291,21 @@
    "visto": "2026-11-17T11:20:22.475Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/seremi-de-las-culturas-realiza-charla-sobre-la-ley-de-artesania-junto-a-mas-de-30-cultores-en-chillan-viejo/",
+   "titulo": "Seremi de las Culturas realiza charla sobre la Ley de Artesanía junto a más de 30 cultores en Chillán Viejo",
+   "resumen": "La actividad reunió a artesanas y artesanos de distintas comunas de Ñuble, varios de ellos participantes de un proyecto Fondart dedicado a la recuperación y puesta en valor de la cestería en pita.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/charla-artesania-nuble-300x225.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-17T11:13:15.000Z",
+   "visto": "2026-11-17T15:20:21.373Z",
+   "cats": [
+    "cultura",
+    "politica"
    ],
    "local": true
   },
@@ -1492,20 +1522,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/iniciativas-ciencia-comunidades-biobio.html",
-   "titulo": "Aprendizaje más allá de las aulas: iniciativas acercan el conocimiento a distintas comunidades del Biobío",
-   "resumen": "Según especialistas, experiencias recreativas, la exploración del entorno y la interacción con otros individuos ofrecen oportunidades tanto para aprender y desarrollar habilidades como para fortalecer vínculos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/bibliomovil.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/fernandez-vial-queda-a-un-paso-del-ascenso-a-tercera-a/",
    "titulo": "Fernández Vial queda a un paso del ascenso a Tercera A",
    "resumen": "El Almirante buscará sellar su regreso: El cuadro aurinegro consiguió una importante victoria ante Municipal Puente Alto en Concepción y quedó en una posición expectante para definir su futuro en el fútbol nacional. Un empate en la revancha le permitirá…",
@@ -2208,35 +2224,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-12T15:30:25.549Z",
    "visto": "2026-11-12T15:30:25.549Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/11/12/allanan-dependencias-del-municipio-de-chillan-viejo-incautaron-celulares-y-revisaron-computadores.shtml",
-   "titulo": "Allanan dependencias del municipio de Chillán Viejo: incautaron celulares y revisaron computadores",
-   "resumen": "En horas de la mañana de este jueves, la Policía de Investigaciones (PDI), en coordinación con la Fiscalía, realizó un...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016868-noticia-en-desarrollo-47.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-12T15:20:45.000Z",
-   "visto": "2026-11-12T15:30:25.549Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/caso-puerto-coronel-tc-acoge-requerimiento-de-alcalde-chamorro-para-evitar-suspension-de-su-cargo.shtml",
-   "titulo": "Caso Puerto Coronel: TC acoge requerimiento de alcalde Chamorro para evitar suspensión de su cargo",
-   "resumen": "El Tribunal Constitucional (TC) dio a lugar el requerimiento presentado por el alcalde de Coronel, Boris Chamorro, quien buscaba evitar...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016771-alcalde-boris-chamorro.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-12T15:12:03.000Z",
-   "visto": "2026-11-12T15:20:22.245Z",
    "cats": [
     "regional",
     "politica"
