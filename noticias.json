@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T19:10:30.351Z",
+ "generado": "2026-11-17T19:20:20.402Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -59,12 +59,11 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 3,
-    "enlaces": 140,
+    "paginas": 4,
+    "enlaces": 154,
     "leidas": 57,
-    "errores": 1,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/17/sichel-acusa-al-fa-de-tomar-de-rehenes-a-escolares-por-requerimiento-de-oposicion-en-tc-por-los-slep.shtml)"
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -75,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/carabineros-recupera-camion-robado-de-mercado-libre-avaluado-en-20-millones-dos-detenidos",
+   "titulo": "Carabineros recupera camión robado de Mercado Libre avaluado en $20 millones: dos detenidos",
+   "resumen": "Un hombre de 43 años y un adolescente de 16 fueron detenidos tras ser sorprendidos descargando encomiendas desde un camión robado en San Pedro de la Paz. El vehículo y su carga, avaluados en cerca de $20 millones, fueron recuperados por Carabineros. Un…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-17-at-2.11.56-PM-e1794943167551.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T19:20:20.402Z",
+   "visto": "2026-11-17T19:20:20.402Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/autoridades-de-antuco-solicitan-mayor-fiscalizacion-de-lanchas-en-laguna-del-laja-por-riesgos-ambientales-y-pesca-ilegal",
+   "titulo": "Autoridades de Antuco solicitan mayor fiscalización de lanchas en Laguna del Laja por riesgos ambientales y pesca ilegal",
+   "resumen": "Desde el municipio de Antuco plantearon la necesidad de contar con una Capitanía de Puerto que permita reforzar el control de embarcaciones motorizadas en la Laguna del Laja. Advierten posibles daños al ecosistema y cuestionan que las fiscalizaciones se…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/HXQnCrcWEAAWr88-e1794942480913.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T19:20:20.402Z",
+   "visto": "2026-11-17T19:20:20.402Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/este-miercoles-se-anunciara-resultado-de-postulacion-del-bio-bio-como-sede-de-los-juegos-odesur-2030",
    "titulo": "Este miércoles se conocerá si el Bío Bío será sede de los Juegos Odesur 2030",
@@ -1475,34 +1502,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-16T14:30:30.231Z",
    "visto": "2026-11-16T14:30:30.231Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/ola-de-robos-afecta-a-iglesias-de-lota-denuncian-falta-de-vigilancia-policial-y-exigen-medidas-de-seguridad",
-   "titulo": "Ola de robos afecta a iglesias de Lota: denuncian falta de vigilancia policial y exigen medidas de seguridad",
-   "resumen": "Al menos una docena de robos han afectado a iglesias evangélicas y católicas de Lota durante las últimas semanas, principalmente en el sector céntrico de la comuna. La reiteración de estos delitos ha generado preocupación entre las comunidades religiosas, que…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/5555.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:30:30.231Z",
-   "visto": "2026-11-16T14:30:30.231Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/pdi-investiga-denuncia-de-profanacion-de-tumbas-en-el-cementerio-de-los-angeles/",
-   "titulo": "PDI investiga denuncia de profanación de tumbas en el cementerio de Los Ángeles",
-   "resumen": "Desconocidos habrían sustraído joyas avaluadas en $30 millones: Según lo indicado por la Policía de Investigaciones, los individuos forzaron el acceso a un mausoleo familiar y causaron daños en dos nichos.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/nichos-cementerio-los-angeles-300x225.avif",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-16T14:27:56.000Z",
-   "visto": "2026-11-16T20:20:22.080Z",
    "cats": [
     "regional"
    ],
