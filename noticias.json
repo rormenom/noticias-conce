@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T15:20:21.373Z",
+ "generado": "2026-11-17T15:30:27.278Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 59,
+    "enlaces": 154,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/programa-quiero-mi-barrio-cumple-20-anos-en-la-region-del-biobio-han-beneficiado-a-mas-de-220-mil-vecinos",
+   "titulo": "Programa \"Quiero Mi Barrio\" cumple 20 años: En la región del Biobío han beneficiado a más de 220 mil vecinos",
+   "resumen": "Desde su inicio en 2006, el Programa de Recuperación de Barrios ha intervenido un total de 97 barrios en la Región del Biobío, de los cuales 65 han finalizados y 32 continúan en ejecución, con una inversión total de $88.766.718.448.",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/quiero-mi-barrio.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T15:30:27.278Z",
+   "visto": "2026-11-17T15:30:27.278Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/expocorma-2026-industria-forestal-se-reune-en-torno-a-la-innovacion-tecnologia-y-nuevos-desafios-del-sector/",
    "titulo": "ExpoCorma 2026: Industria forestal se reúne en torno a la innovación, tecnología y nuevos desafíos del sector",
@@ -1508,20 +1522,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/de-monumento-a-refugio-la-crisis-social-de-la-poblacion-sin-hogar-se-vive-en-el-memorial-27f.html",
-   "titulo": "De monumento a refugio: la crisis social de la población sin hogar se vive en el Memorial 27F",
-   "resumen": "La obra que conmemora a víctimas del terremoto de 2010 es ocupada por personas en situación de calle, fenómeno creciente, pero transeúntes advierten deterioro e inseguridad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/fernandez-vial-queda-a-un-paso-del-ascenso-a-tercera-a/",
    "titulo": "Fernández Vial queda a un paso del ascenso a Tercera A",
    "resumen": "El Almirante buscará sellar su regreso: El cuadro aurinegro consiguió una importante victoria ante Municipal Puente Alto en Concepción y quedó en una posición expectante para definir su futuro en el fútbol nacional. Un empate en la revancha le permitirá…",
@@ -2211,21 +2211,6 @@
    "fecha": "2026-11-12T15:40:20.631Z",
    "visto": "2026-11-12T15:40:20.631Z",
    "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/12/caso-puerto-coronel-tc-acoge-requerimiento-de-alcalde-chamorro-para-evitar-suspension-de-su-cargo",
-   "titulo": "Tribunal Constitucional acepta recurso de alcalde Chamorro para impedir que lo suspendan del cargo",
-   "resumen": "El Tribunal Constitucional (TC) acogió el requerimiento del alcalde de Coronel, Boris Chamorro, con el que pretendía impedir que fuera suspendido del cargo durante el juicio oral por el denominado caso Puerto Coronel. El Ministerio Público ya presentó la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/alcalde-boris-chamorro.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-12T15:30:25.549Z",
-   "visto": "2026-11-12T15:30:25.549Z",
-   "cats": [
-    "regional",
     "politica"
    ],
    "local": true
