@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T14:50:22.139Z",
+ "generado": "2026-11-17T15:00:30.448Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 59,
+    "enlaces": 157,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/17/hualpen-alcalde-exige-investigacion-tras-intoxicacion-de-15-escolares-por-emanaciones-de-enap",
+   "titulo": "Hualpén: alcalde exige investigación tras intoxicación de 15 escolares por emanaciones de ENAP",
+   "resumen": "Una grave denuncia encendió las alertas en la comuna de Hualpén, luego de que un total de 15 estudiantes de entre 10 y 13 años de la Escuela República del Perú terminaran con atención médica de urgencia. Los menores presentaron diversos malestares, tales como…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-17-at-11.17.16-e1794927203781.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-17T15:00:30.448Z",
+   "visto": "2026-11-17T15:00:30.448Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/habitar-el-cerebro-una-nueva-propuesta-interactiva-para-acercarse-a-la-neurociencia/",
    "titulo": "Habitar el Cerebro: una nueva propuesta interactiva para acercarse a la neurociencia",
@@ -1505,20 +1520,6 @@
    "local": true
   },
   {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/evacuan-a-dos-oficiales-accidentados-en-antuco/",
-   "titulo": "Evacúan a dos oficiales accidentados en Antuco",
-   "resumen": "Se encontraban realizando ejercicios fuera de su horario de servicio.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/evacuacion-rescate-militares-sierra-velluda-antuco--768x438.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-16T07:19:53.000Z",
-   "visto": "2026-11-16T11:50:25.945Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/15/parque-museo-pedro-del-rio-zanartu-atrae-miradas-en-el-quinto-festival-ladera-sur.html",
    "titulo": "Parque Museo Pedro del Río Zañartu atrae miradas en el quinto Festival Ladera Sur",
    "resumen": "Con un stand, la institución ha  buscado promover su patrimonio natural y cultural para poner en valor la riqueza local y atraer nuevos públicos.",
@@ -2236,35 +2237,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-12T15:12:03.000Z",
    "visto": "2026-11-12T15:20:22.245Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/proyecto-ley-gobierno-frenar-alzas-combustibles.html",
-   "titulo": "Tras acuerdo con camioneros, Gobierno reingresa proyecto de ley por combustibles: estas son las claves",
-   "resumen": "La iniciativa revierte el alza del 11 de noviembre, limita incrementos hasta el 3 de febrero de 2027 y fija nuevos tramos de recuperación tributaria.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/proyecto-ley-gobierno-frenar-alzas-combustibles-2.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T15:00:00.000Z",
-   "visto": "2026-11-13T00:50:19.160Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/12/fractura-paro-camioneros-biobio-acuerdo-gobierno.html",
-   "titulo": "“Fue un acuerdo entre cuatro paredes”: camioneros de Coronel y sector Juan Riquelme rechazan pacto con Gobierno",
-   "resumen": "Mientras dirigentes de Los Ángeles y grandes confederaciones aceptaron rebajas de hasta $150 por litro, en Coronel y No + TAG siguen en paro.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-paro-de-camioneros-ruta-160-foto-enrique-zamora-g-e1794527960253.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T15:00:00.000Z",
-   "visto": "2026-11-13T00:10:22.056Z",
    "cats": [
     "regional",
     "politica"
