@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T15:30:27.278Z",
+ "generado": "2026-11-17T15:40:20.872Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 58,
+    "enlaces": 155,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/detienen-a-hombre-con-mas-de-10-causas-tras-violento-asalto-a-conductora-de-aplicacion-en-los-angeles.shtml",
+   "titulo": "Detienen a hombre con más de 10 causas tras violento asalto a conductora de aplicación en Los Ángeles",
+   "resumen": "Un hombre con más de diez causas penales en su contra fue detenido por Carabineros tras protagonizar un violento asalto...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022334-detenido-contexto-1.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-17T15:37:01.000Z",
+   "visto": "2026-11-17T15:40:20.872Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/17/programa-quiero-mi-barrio-cumple-20-anos-en-la-region-del-biobio-han-beneficiado-a-mas-de-220-mil-vecinos",
    "titulo": "Programa \"Quiero Mi Barrio\" cumple 20 años: En la región del Biobío han beneficiado a más de 220 mil vecinos",
@@ -1508,20 +1522,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/medios-periodisticos-firman-documento-y-piden-fortalecer-la-proteccion-al-trabajo-frente-a-la-ia.html",
-   "titulo": "Medios periodísticos  firman documento y piden fortalecer la protección al trabajo frente a la IA",
-   "resumen": "En el Encuentro de Diarios Regionales, actores de todo el país fijaron posición frente a temas que definen el presente y futuro del periodismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/9-principal.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/fernandez-vial-queda-a-un-paso-del-ascenso-a-tercera-a/",
    "titulo": "Fernández Vial queda a un paso del ascenso a Tercera A",
    "resumen": "El Almirante buscará sellar su regreso: El cuadro aurinegro consiguió una importante victoria ante Municipal Puente Alto en Concepción y quedó en una posición expectante para definir su futuro en el fútbol nacional. Un empate en la revancha le permitirá…",
@@ -2197,20 +2197,6 @@
    "visto": "2026-11-12T16:10:23.246Z",
    "cats": [
     "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/12/greenpeace-ley-de-incendios-veto-sustitutivo.html",
-   "titulo": "“Su futuro sigue siendo incierto”: Greenpeace sobre Ley de Incendios y veto sustitutivo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2025/11/pag-13-helicoptero-incendio-forestal-foto-raphael-e1772642603379.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-12T15:40:20.631Z",
-   "visto": "2026-11-12T15:40:20.631Z",
-   "cats": [
     "politica"
    ],
    "local": true
