@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T16:30:27.918Z",
+ "generado": "2026-11-18T16:40:22.127Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 56,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,56 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 13,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/giacaman-adelanta-biobio-sede-odesur-2030.html",
+   "titulo": "Giacaman se adelanta al anuncio de Odesur 2030: “A las 4 de la tarde nos van a confirmar que seremos sede”",
+   "resumen": "En medio de su discurso en la inauguración de Expocorma 2026, la máxima autoridad regional desató los aplausos de los asistentes al adelantar el resultado que el comité ejecutivo de Odesur ratificará oficialmente a las 16:00 horas de este miércoles.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/giacaman-adelanta-biobio-sede-odesur-2030.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T16:40:22.127Z",
+   "visto": "2026-11-18T16:40:22.127Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/teatro-circo-y-danza-la-cultura-recorre-comunas-del-biobio",
+   "titulo": "Teatro, circo y danza: La Cultura recorre comunas del Biobío",
+   "resumen": "En conversación la coordinadora general de Ruta Escena Biobío, Gisel Sparza, explicó el funcionamiento de la iniciativa, que tras recorrer la provincia de Concepción continúa por Arauco y otras comunas de la región. La entrevista se centró en el sentido de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/circo.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T16:40:22.127Z",
+   "visto": "2026-11-18T16:40:22.127Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/crudo-argentino-a-precio-de-ormuz-las-jugosas-ganancias-del-estado-en-pleno-desangre-de-conductores",
+   "titulo": "Crudo argentino a precio de Ormuz: las jugosas ganancias del Estado en pleno \"desangre\" de conductores",
+   "resumen": "Mientras los automovilistas, micreros y camioneros chilenos han debido enfrentar las sistemáticas alzas de combustible, el Estado se ha embolsado jugosas ganancias gracias precisamente al encarecimiento de las bencinas y el diésel: solo en los primeros nueve…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/enap-estado-ganancias-desangre-conductores.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T16:40:22.127Z",
+   "visto": "2026-11-18T16:40:22.127Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/incendios-forestales-biobio-zonas-alto-riesgo.html",
    "titulo": "Incendios forestales: cuatro comunas del Biobío figuran entre zonas de alto riesgo",
@@ -1556,34 +1599,6 @@
    "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
    "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/amenazas-contexto-escolar-superintendencia-educacion.html",
-   "titulo": "Llaman a tomar conciencia de la gravedad de las amenazas en contexto escolar",
-   "resumen": "El caso de un apoderado que amenazó a una comunidad educativa en Talcahuano reabrió la discusión sobre la gravedad de estas conductas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-violencia-escolar-foto-cedida.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/el-nino-biobio-lluvias-remociones-en-masa-riesgos.html",
-   "titulo": "Lluvias, calor y remociones en masa: los posibles efectos de El Niño en el Biobío",
-   "resumen": "Los pronósticos internacionales anticipan que el fenómeno podría alcanzar un peak extraordinario entre noviembre y diciembre. Especialistas explicaron cómo podría incidir en el territorio regional.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Screenshot_20261116_201815_Gallery-e1794874192487.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T08:40:20.947Z",
