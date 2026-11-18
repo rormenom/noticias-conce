@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T08:50:22.454Z",
+ "generado": "2026-11-18T09:10:20.567Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 57,
+    "enlaces": 152,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/emplazan-a-de-grange-por-quinta-prorroga-en-licitacion-de-transporte-coronel-lota-debera-responder",
+   "titulo": "De Grange deberá explicar la quinta prórroga de la licitación del transporte entre Coronel y Lota",
+   "resumen": "La licitación del transporte público para Coronel y Lota fue prorrogada por quinta vez. El proyecto contempla incorporar buses eléctricos al recorrido. El alcalde de Coronel, Boris Chamorro, pidió explicaciones al ministro de Transportes, Louis de Grange. El…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-1-archiv-por-emplazan-a-de-grange-por-quinta-prorroga-en-licitacion-de-transporte-coronel-lota_-_debera-responder_.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T09:10:20.567Z",
+   "visto": "2026-11-18T09:10:20.567Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/rhantavirus-biobio-muertes-riesgo-contagio-factores-climaticos.html",
    "titulo": "Región registra tres muertes por hantavirus y advierten mayor riesgo de contagio por factores climáticos",
@@ -1637,20 +1651,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/estamos-muy-agradecidos-15-iniciativas-sociales-de-contulmo-y-canete-se-adjudican-fondos-de-cmpc",
-   "titulo": "Quince proyectos sociales de Contulmo y Cañete recibirán financiamiento de CMPC",
-   "resumen": "El 10 de noviembre, CMPC dio a conocer los 15 proyectos de organizaciones sociales de Contulmo y Cañete, comunas de la provincia de Arauco (región del Bío Bío), que obtuvieron financiamiento de la compañía. La iniciativa apunta a impulsar propuestas que…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/fondos-cmpc-contulmo-canete.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T18:20:22.502Z",
-   "visto": "2026-11-16T18:20:22.502Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/16/concejo-tome-aprueba-padem-2027.html",
    "titulo": "Histórico: Concejo Municipal de Tomé aprueba el PADEM 2027 y reafirma su compromiso con la educación pública",
    "resumen": "",
@@ -2296,21 +2296,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/camioneros-deponen-paro-en-3-puntos-del-gran-concepcion-tras-propuesta-del-gobierno",
-   "titulo": "Camioneros levantan paro en cuatro puntos del Gran Concepción tras acuerdo entre Gobierno y gremios",
-   "resumen": "Luego de la propuesta que el Gobierno presentó este jueves a los gremios de camioneros en Santiago, transportistas informaron que levantarán el paro en al menos cuatro lugares del Gran Concepción, en la región del Bío Bío. De acuerdo con antecedentes…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cntxt-rbb-por-camioneros-deponen-paro-en-4-puntos-del-gran-concepcion-tras-acuerdo-del-gobierno-con-gremios.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T09:10:19.934Z",
-   "visto": "2026-11-13T09:10:19.934Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
