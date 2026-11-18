@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T20:00:29.935Z",
+ "generado": "2026-11-18T20:20:22.983Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 57,
+    "enlaces": 156,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,48 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/biobio-juegos-odesur-2030.html",
+   "titulo": "Hito para el deporte: Biobío recibirá los Juegos Odesur 2030",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-5-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T20:20:22.983Z",
+   "visto": "2026-11-18T20:20:22.983Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/barricadas-y-enfrentamientos-de-estudiantes-en-la-udec-carabineros-intervino-con-carros-lanzaaguas-y-se-reportan-tres-detenidos",
+   "titulo": "Barricadas y enfrentamientos de estudiantes en la UdeC: Carabineros intervino con carros lanzaaguas y se reportan tres detenidos",
+   "resumen": "Una serie de incidentes se registró durante la tarde de este miércoles 18 de noviembre en las afueras de la Universidad de Concepción, en medio de una jornada de movilizaciones estudiantiles y de trabajadores a nivel nacional. Carabineros intervino para…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-18-at-5.05.20-PM.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T20:20:22.983Z",
+   "visto": "2026-11-18T20:20:22.983Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/18/juegos-odesur-2030-region-del-biobio-sera-sede.shtml",
+   "titulo": "Del sueño a la realidad: Odesur oficializa al Bío Bío como sede de los Juegos Suramericanos 2030",
+   "resumen": "La región del Bío Bío fue confirmada como sede de los Juegos Suramericanos (Odesur) 2030.\nEste miércoles, la Organización Deportiva Sudamericana...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023909-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-18T20:14:53.000Z",
+   "visto": "2026-11-18T20:20:22.983Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/18/colegio-de-ingenieros-forestales-llama-a-incentivar-la-forestacion-ante-crisis-que-afecta-al-sector",
    "titulo": "Colegio de Ingenieros Forestales llama a incentivar la forestación ante crisis que afecta al sector",
@@ -1553,20 +1595,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/alerta-temprana-biobio-riesgo-tornados-trombas.html",
-   "titulo": "Precipitaciones y vientos de hasta 50 km/h: continúa la Alerta Temprana por sistema frontal en Biobío",
-   "resumen": "La medida rige ante el pronóstico de precipitaciones, vientos que alcanzarían rachas de 50 km/h y el desarrollo de nubes con características tornádicas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/armada-alerta-trombas-marinas-biobio-los-rios-archivo-isidoro-valenzuela-e1794915475590.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T11:50:21.863Z",
-   "visto": "2026-11-17T11:50:21.863Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/joyita-otra-vez-campeon-es-un-hito-que-nadie-habia-logrado.html",
    "titulo": "“Joyita” otra vez campeón: “Es un hito que nadie había logrado”",
    "resumen": "Carlos Solar, capitán de la embarcación de Talcahuano, habló de este tercer título nacional J24, ganando todas las regatas en juego. Ahora sueñan con ir al Mundial de Nueva York y habló de los Odesur 2030.",
@@ -1898,20 +1926,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/habra-revancha-basquetbol-udec-se-medira-en-las-semifinales-contra-leones.html",
-   "titulo": "Habrá revancha: básquetbol UdeC se medirá en las semifinales contra Leones",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/basquet-udec.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/16/feria-de-reduccion-de-riesgos-de-desastres-invito-a-la-comunidad-a-reflexionar-sobre-prevencion-de-emergencias.html",
    "titulo": "Feria de Reducción de Riesgos de Desastres invitó a la comunidad a reflexionar sobre prevención de emergencias",
    "resumen": "La tercera versión de la feria reunió a organismos públicos, privados y de respuesta ante emergencias. La jornada también permitió conocer las medidas que la Universidad implementa en el Campus Concepción para prevenir incendios forestales.",
@@ -1922,6 +1936,20 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/habra-revancha-basquetbol-udec-se-medira-en-las-semifinales-contra-leones.html",
+   "titulo": "Habrá revancha: básquetbol UdeC se medirá en las semifinales contra Leones",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/basquet-udec.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -2281,21 +2309,6 @@
    "visto": "2026-11-13T22:00:29.404Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/udec-conservacion-biodiversidad-festival-ladera-sur.html",
-   "titulo": "Universidad de Concepción lleva su trabajo en conservación y biodiversidad al Festival Ladera Sur",
-   "resumen": "A través de la Facultad de Ciencias Forestales, Campus Naturaleza y el Centro Copas Coastal, la Casa de Estudios penquista participa en el encuentro que se realizará hoy y hasta el domingo en Santiago, donde dará a conocer sus investigaciones e iniciativas…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Universidad-de-Concepci%C3%B3n-lleva-su-trabajo-en-conservaci%C3%B3n-y-biodiversidad-al-Festival-Ladera-Sur.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T20:20:20.195Z",
-   "visto": "2026-11-13T20:20:20.195Z",
-   "cats": [
-    "tecnologia",
-    "cultura"
    ],
    "local": true
   }
