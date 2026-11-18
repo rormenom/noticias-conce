@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T17:00:29.490Z",
+ "generado": "2026-11-18T17:30:25.942Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/gastos-traslacion-parlamentarios-biobio.html",
+   "titulo": "Entre el trabajo en terreno y la promesa de austeridad: las explicaciones de los parlamentarios del Biobío por sus gastos en combustibles",
+   "resumen": "Entre marzo y agosto de 2026, los congresistas de la región rindieron millonarios montos en combustible, peajes, arriendo de vehículos y pasajes aéreos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/gastos-bencina-congresistas-biobio-e1795022564482.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T17:30:25.942Z",
+   "visto": "2026-11-18T17:30:25.942Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/18/nico-ruiz-vuelve-a-casa-su-gira-instinto-ya-causa-furor-en-concepcion",
    "titulo": "¡Nico Ruiz vuelve a casa! su gira “Instinto” ya causa furor en Concepción",
@@ -478,20 +492,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/biobio-acusacion-constitucional-ministro-rabat.html",
-   "titulo": "El pulso político del Biobío por la acusación constitucional contra el ministro Rabat",
-   "resumen": "El voto de los diputados del PDG será determinante en una Cámara donde las proyecciones anticipan una estrecha definición sobre el futuro del titular de Justicia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-justicia-fernando-rabat.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
    "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
    "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
@@ -502,6 +502,20 @@
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/biobio-acusacion-constitucional-ministro-rabat.html",
+   "titulo": "El pulso político del Biobío por la acusación constitucional contra el ministro Rabat",
+   "resumen": "El voto de los diputados del PDG será determinante en una Cámara donde las proyecciones anticipan una estrecha definición sobre el futuro del titular de Justicia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-justicia-fernando-rabat.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
