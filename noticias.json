@@ -1,12 +1,12 @@
 {
- "generado": "2026-11-17T23:30:28.417Z",
+ "generado": "2026-11-18T00:40:19.937Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
    "ok": false,
-   "error": "fetch failed",
+   "error": "HTTP 507",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -48,7 +48,7 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 20,
+    "enlaces": 19,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -61,7 +61,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
+    "enlaces": 150,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -2268,21 +2268,6 @@
    "fuenteId": "radioudec",
    "fecha": "2026-11-13T01:12:24.000Z",
    "visto": "2026-11-13T01:20:20.243Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/12/camioneros-deponen-paro-en-3-puntos-del-gran-concepcion-tras-propuesta-del-gobierno.shtml",
-   "titulo": "Camioneros deponen paro en 3 puntos del Gran Concepción tras acuerdo del Gobierno con gremios",
-   "resumen": "Tras la propuesta presentada este jueves por el Gobierno con gremios de camioneros en Santiago, transportistas anunciaron el levantamiento...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7017709-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-13T00:33:29.000Z",
-   "visto": "2026-11-13T00:40:20.634Z",
    "cats": [
     "regional",
     "politica"
