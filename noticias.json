@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T15:30:27.335Z",
+ "generado": "2026-11-18T15:40:24.563Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -73,14 +73,29 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
-    "leidas": 10,
+    "enlaces": 32,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/diversos-gremios-participan-en-manifestacion-en-plaza-de-la-independencia-penquista-contra-el-gobierno",
+   "titulo": "Gremios se manifiestan en la Plaza de la Independencia de Concepción contra el Gobierno",
+   "resumen": "Representantes de distintos gremios se congregaron este miércoles por la mañana en la Plaza de la Independencia de Concepción, región del Bío Bío, para manifestarse contra el Gobierno y el presupuesto 2027. En la movilización están presentes la CUT, la Fenapo…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T15:40:24.563Z",
+   "visto": "2026-11-18T15:40:24.563Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/intoxicacion-alumnos-hualpen.html",
    "titulo": "Seremi de Salud inicia investigación en terreno para esclarecer el origen de las emanaciones que afectaron a escolares en Hualpén",
@@ -1593,20 +1608,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/16/diagnostico-transmision-electrica-2047.html",
-   "titulo": "Proyectan necesidades de transmisión eléctrica para los próximos 20 años en Chile",
-   "resumen": "El diagnóstico considera el crecimiento de la demanda y nuevos proyectos de alto consumo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2020/03/Cables-antenas-.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T22:10:26.806Z",
-   "visto": "2026-11-16T22:10:26.806Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/gastos-traslacion-parlamentarios-biobio-alza-combustibles.html",
    "titulo": "Desde $1,1 millones a $3,7 millones mensuales: lo que gastan en traslado los diputados, diputadas y senadores del Biobío",
    "resumen": "La diputada Flor Weisse y el senador Sebastián Keitel lideran los promedios mensuales de gasto regional en este ítem, que incluye combustibles, peajes y pasajes aéreos.",
@@ -2306,21 +2307,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-13T16:50:20.951Z",
    "visto": "2026-11-13T16:50:20.951Z",
-   "cats": [
-    "regional",
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/13/olimpiadas-personas-mayores-ester-roa.html",
-   "titulo": "Más de 500 personas mayores participaron de Olimpiadas en Estadio Ester Roa",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-13-at-11.00.03-AM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T15:40:19.889Z",
-   "visto": "2026-11-13T15:40:19.889Z",
    "cats": [
     "regional",
     "deportes"
