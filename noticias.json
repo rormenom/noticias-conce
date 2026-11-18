@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T13:20:27.989Z",
+ "generado": "2026-11-18T13:30:28.103Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
+    "enlaces": 155,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/vendedores-ambulantes-protestan-en-municipalidad-de-concepcion-piden-apurar-procesos-de-formalizacion.shtml",
+   "titulo": "Vendedores ambulantes protestan en Municipalidad de Concepción: piden apurar procesos de formalización",
+   "resumen": "Hasta el quinto piso de la Municipalidad de Concepción llegaron cerca de 20 vendedores ambulantes, pertenecientes a la Asociación de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023532-captura-de-pantalla.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-18T13:22:44.000Z",
+   "visto": "2026-11-18T13:30:28.103Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/18/compin-de-concepcion-suspende-atencion-presencial-este-miercoles-por-contingencia-operacional",
    "titulo": "Compin de Concepción suspenderá la atención presencial este miércoles debido a problemas operativos",
@@ -1613,20 +1627,6 @@
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-12.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T19:50:22.315Z",
-   "visto": "2026-11-16T19:50:22.315Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/vecinos-de-vipla-y-geochile-en-penco-denuncian-retrasos-en-demolicion-serviu-fija-nueva-fecha-para-diciembre",
-   "titulo": "Vecinos de Vipla y Geochile en Penco denuncian retrasos en demolición: Serviu fija nueva fecha para diciembre",
-   "resumen": "Preocupación existe entre los vecinos de los conjuntos habitacionales Vipla y Geochile, en la comuna de Penco, debido al incumplimiento de los plazos comprometidos para la demolición de sus antiguas viviendas, afectadas por los incendios forestales. Desde el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/FOTO_06-6.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
    "fecha": "2026-11-16T19:50:22.315Z",
    "visto": "2026-11-16T19:50:22.315Z",
    "cats": [
