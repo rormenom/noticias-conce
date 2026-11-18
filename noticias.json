@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T22:20:21.077Z",
+ "generado": "2026-11-18T22:30:29.316Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/alerta-degradacion-borde-costero-biobio.html",
+   "titulo": "Alerta por degradación del borde costero en el Biobío: el peligro para ecosistemas y comunidades",
+   "resumen": "La erosión de las playas, las presiones derivadas de la urbanización y la crisis climática amenazan a ecosistemas clave que protegen la biodiversidad y sostienen a las comunidades costeras.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/oceano-mar-costa-foto-archivo-carolina-copia-e1705367262562-850x500.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T22:30:29.316Z",
+   "visto": "2026-11-18T22:30:29.316Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/biobio-celebra-haremos-los-mejores-juegos-de-la-historia.html",
    "titulo": "Biobío celebra: “Haremos los mejores Juegos de la historia”",
@@ -1609,20 +1623,6 @@
    "visto": "2026-11-17T14:20:23.751Z",
    "cats": [
     "tecnologia",
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/insumos-en-pasillos-y-a-la-intemperie-inician-sumario-por-falencias-sanitarias-en-cesfam-de-hualqui.shtml",
-   "titulo": "Insumos en pasillos y a la intemperie: Inician sumario por falencias sanitarias en Cesfam de Hualqui",
-   "resumen": "Deficiencias en el almacenamiento de insumos médicos, dispositivos y productos farmacéuticos detectó la Seremi de Salud del...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022164-insumos-medicos-cesfam-hualqui.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T14:14:05.000Z",
-   "visto": "2026-11-17T14:20:23.751Z",
-   "cats": [
     "regional"
    ],
    "local": true
