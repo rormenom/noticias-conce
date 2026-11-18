@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T05:10:25.926Z",
+ "generado": "2026-11-18T08:40:21.405Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,153 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 10,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
+   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
+   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/18/orquesta-sinfonica-udec-despide-temporada-2026-concierto-hacia-el-nuevo-horizonte.html",
+   "titulo": "Orquesta Sinfónica UdeC despide temporada 2026 con concierto “Hacia el nuevo horizonte”",
+   "resumen": "Del lirismo del violín de Max Bruch a los paisajes sonoros de la Roma de Respighi, la agrupación clásica penquista propone un recorrido musical de gran riqueza expresiva para este concierto final. Jornada cuya batuta estará a cargo del maestro Luis Toro Araya…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Corcudec.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/rhantavirus-biobio-muertes-riesgo-contagio-factores-climaticos.html",
+   "titulo": "Región registra tres muertes por hantavirus y advierten mayor riesgo de contagio por factores climáticos",
+   "resumen": "Especialistas recomiendan reforzar las medidas de prevención ante la posibilidad de entrar en contacto con excreciones de roedores. Las abundantes lluvias y el aumento de la vegetación, como la quila, favorecen la disponibilidad de alimento para estos…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-hanta-virus-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/especialistas-conferencia-internacional-srs.html",
+   "titulo": "Más de 240 especialistas participan en primera conferencia internacional dedicada al SRS",
+   "resumen": "Con una convocatoria de 240 asistentes, comenzó en Puerto Varas, la Primera Conferencia Internacional sobre el Síndrome Rickettsial del Salmón, SRS 2026. El evento organizado por el Centro Incar², es pionero al ser el primero a nivel global en abordar de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-primera-conferencia-internacional-dedicada-al-SRS-foto-Centro-Incar%C2%B2.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/atenciones-sernapesca-pescadores-tirua.html",
+   "titulo": "Sernapesca realizará atenciones mensuales para pescadores de Tirúa",
+   "resumen": "Convenio con el municipio contempla jornadas mensuales para trabajadores de la pesca.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/firma-convenio-tirua1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/biobio-acusacion-constitucional-ministro-rabat.html",
+   "titulo": "El pulso político del Biobío por la acusación constitucional contra el ministro Rabat",
+   "resumen": "El voto de los diputados del PDG será determinante en una Cámara donde las proyecciones anticipan una estrecha definición sobre el futuro del titular de Justicia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-justicia-fernando-rabat.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/araya-y-bravo-entre-los-arqueros-con-mejores-numeros-en-primera.html",
+   "titulo": "Araya y Bravo entre los arqueros con mejores números en Primera",
+   "resumen": "Defienden a D. Concepción y Huachipato y este domingo medirán fuerzas en el CAP con el sexto puesto y la Sudamericana como objetivo. Dos goleros jóvenes que han hecho una gran temporada.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-4-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/golf-con-viento-lluvia-y-cerca-de-80-jugadores-en-bellavista.html",
+   "titulo": "Golf con viento, lluvia y cerca de 80 jugadores en Bellavista",
+   "resumen": "El XIII Abierto del Club tuvo a Alexis Quiroz, Pablo Viterbo y Natalia Muñoz como grandes ganadores. Fueron 3 días de competencia reuniendo a 14 equipos de distintas partes del país.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/abierto-XII-golf-foto.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/elige-educar-docencia-udec.html",
+   "titulo": "Elige educar: la importancia de la docencia en el desarrollo de la región y el país",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_5151-copia.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/18/fiesta-del-libro-desplegara-tercera-version-27-editoriales-miscelanea-programacion-gratuita.html",
+   "titulo": "Fiesta del Libro desplegará tercera versión con 27 editoriales y miscelánea programación gratuita",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-Seremi-de-las-Culturas-Biob%C3%ADo.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/emplazan-a-de-grange-por-quinta-prorroga-en-licitacion-de-transporte-coronel-lota-debera-responder.shtml",
    "titulo": "Emplazan a De Grange por quinta prórroga en licitación de transporte Coronel-Lota: \"Deberá responder\"",
@@ -932,10 +1072,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/udec-entre-los-6-mejores-de-liga-desarrollo-y-ahora-tocara-hacer-maletas-a-puerto-varas.html",
-   "titulo": "UdeC entre los 6 mejores de Liga Desarrollo y ahora tocará hacer maletas a Puerto Varas",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/10/sebasti%C3%A1n-Pereira-basket.jpeg",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/joyita-otra-vez-campeon-es-un-hito-que-nadie-habia-logrado.html",
+   "titulo": "“Joyita” otra vez campeón: “Es un hito que nadie había logrado”",
+   "resumen": "Carlos Solar, capitán de la embarcación de Talcahuano, habló de este tercer título nacional J24, ganando todas las regatas en juego. Ahora sueñan con ir al Mundial de Nueva York y habló de los Odesur 2030.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/joyita.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T11:20:22.475Z",
@@ -946,10 +1086,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/joyita-otra-vez-campeon-es-un-hito-que-nadie-habia-logrado.html",
-   "titulo": "“Joyita” otra vez campeón: “Es un hito que nadie había logrado”",
-   "resumen": "Carlos Solar, capitán de la embarcación de Talcahuano, habló de este tercer título nacional J24, ganando todas las regatas en juego. Ahora sueñan con ir al Mundial de Nueva York y habló de los Odesur 2030.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/joyita.jpg",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/udec-entre-los-6-mejores-de-liga-desarrollo-y-ahora-tocara-hacer-maletas-a-puerto-varas.html",
+   "titulo": "UdeC entre los 6 mejores de Liga Desarrollo y ahora tocará hacer maletas a Puerto Varas",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/10/sebasti%C3%A1n-Pereira-basket.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T11:20:22.475Z",
@@ -1031,10 +1171,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/despidos-biobio-aumento-2026.html",
-   "titulo": "Despidos en el Biobío: desvinculaciones formales aumentaron 20,2% durante 2026",
-   "resumen": "Manufactura, comercio y construcción enfrentan un escenario marcado por menor dinamismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-14-feria-laboral-foto-isidoro.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
+   "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
+   "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T08:40:20.947Z",
@@ -1087,10 +1227,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
-   "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
-   "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/despidos-biobio-aumento-2026.html",
+   "titulo": "Despidos en el Biobío: desvinculaciones formales aumentaron 20,2% durante 2026",
+   "resumen": "Manufactura, comercio y construcción enfrentan un escenario marcado por menor dinamismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-14-feria-laboral-foto-isidoro.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T08:40:20.947Z",
@@ -1511,48 +1651,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/16/estamos-muy-agradecidos-15-iniciativas-sociales-de-contulmo-y-canete-se-adjudican-fondos-de-cmpc.shtml",
-   "titulo": "\"Estamos muy agradecidos\": 15 iniciativas sociales de Contulmo y Cañete se adjudican fondos de CMPC",
-   "resumen": "El pasado 10 de noviembre, CMPC reveló los 15 proyectos de organizaciones sociales de las comunas...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7021173-fondos-cmpc-contulmo-canete.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-16T18:05:54.000Z",
-   "visto": "2026-11-16T18:10:20.466Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/concepcion-cicletada-de-las-ninas.html",
-   "titulo": "Concepción contará con segunda edición de la “Cicletada de las Niñas”",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2025/06/D%C3%ADa-mundial-de-la-bicicleta-1-e1748991103524.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T17:20:21.767Z",
-   "visto": "2026-11-16T17:20:21.767Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/agricultores-del-biobio-advierten-posibles-perdidas-en-cerezas-arandanos-y-granos-por-lluvias-y-altas-temperaturas",
-   "titulo": "Agricultores del Biobío advierten posibles pérdidas en cerezas, arándanos y granos por lluvias y altas temperaturas",
-   "resumen": "La Sociedad Agrícola de Biobío (Socabio) alertó sobre los efectos que podrían generar las precipitaciones y los cambios bruscos de temperatura en los cultivos de la provincia. El aumento de hongos, los daños en la fruta y los mayores costos de producción…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cerezas-maule-158aa57ecaefa640c827dff0000f03a80-e1794846958701.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T16:40:21.353Z",
-   "visto": "2026-11-16T16:40:21.353Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/16/concejo-tome-aprueba-padem-2027.html",
    "titulo": "Histórico: Concejo Municipal de Tomé aprueba el PADEM 2027 y reafirma su compromiso con la educación pública",
    "resumen": "",
@@ -1683,20 +1781,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/flo-y-jochy-elevandose-hasta-el-oro-en-la-araucania.html",
-   "titulo": "“Flo” y “Jochy”: elevándose hasta el oro en La Araucanía",
-   "resumen": "Florencia Melo y Josefa Fariña estudian en el Almondale San Pedro de la Paz, pero fuera de la sala de clases se combinan para remachar por Biobío. Con 17 años piensan en su futuro, con el vóleibol siempre presente.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Florencia-Melo-y-Josefa-Fari%C3%B1a.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/16/feria-de-reduccion-de-riesgos-de-desastres-invito-a-la-comunidad-a-reflexionar-sobre-prevencion-de-emergencias.html",
    "titulo": "Feria de Reducción de Riesgos de Desastres invitó a la comunidad a reflexionar sobre prevención de emergencias",
    "resumen": "La tercera versión de la feria reunió a organismos públicos, privados y de respuesta ante emergencias. La jornada también permitió conocer las medidas que la Universidad implementa en el Campus Concepción para prevenir incendios forestales.",
@@ -1707,6 +1791,20 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/flo-y-jochy-elevandose-hasta-el-oro-en-la-araucania.html",
+   "titulo": "“Flo” y “Jochy”: elevándose hasta el oro en La Araucanía",
+   "resumen": "Florencia Melo y Josefa Fariña estudian en el Almondale San Pedro de la Paz, pero fuera de la sala de clases se combinan para remachar por Biobío. Con 17 años piensan en su futuro, con el vóleibol siempre presente.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Florencia-Melo-y-Josefa-Fari%C3%B1a.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1828,20 +1926,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/15/campeones-copa-interescolar-udec-basquetbol.html",
-   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
-   "resumen": "El Colegio Creación ganó la final femenina por 60-49 ante American Junior College, y San Ignacio se impuso 63-47 frente al Instituto de Humanidades de Concepción en varones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/15/francisco-bruna-revisita-decada-creacion-pictorica-libro-monografia-flexible.html",
    "titulo": "Francisco Bruna revisita una década de creación pictórica en el libro “Monografía Flexible”",
    "resumen": "El pintor y docente de la Universidad de Concepción presentó oficialmente esta publicación durante octubre en la Sala David Stitchkin. El volumen, financiado por Fondart Regional, reúne trabajos realizados entre 2015 y 2025, junto a textos críticos y…",
@@ -1866,6 +1950,20 @@
    "visto": "2026-11-15T08:40:23.242Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/15/campeones-copa-interescolar-udec-basquetbol.html",
+   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
+   "resumen": "El Colegio Creación ganó la final femenina por 60-49 ante American Junior College, y San Ignacio se impuso 63-47 frente al Instituto de Humanidades de Concepción en varones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-15T08:40:23.242Z",
+   "visto": "2026-11-15T08:40:23.242Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -2212,62 +2310,6 @@
    "visto": "2026-11-13T09:10:19.934Z",
    "cats": [
     "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/13/udec-programa-rescate-legado-teatral.html",
-   "titulo": "UdeC impulsa el rescate de su legado teatral con nuevo programa de creación y formación escénica",
-   "resumen": "“Escena UdeC” es el nombre de la iniciativa adjudicada por la Universidad de Concepción en el Fondo de las Artes Escénicas 2026, que contempla dos montajes, procesos formativos y actividades de mediación para acercar el teatro a las comunidades del Biobío y…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-nota-cultura-edici%C3%B3n-13-de-noviembre-e1794534593320.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/feria-de-ciencia-e-innovacion-reunira-20-proyectos-desarrollados-por-escolares-del-biobio.html",
-   "titulo": "Feria de ciencia e innovación reunirá 20 proyectos desarrollados por escolares del Biobío",
-   "resumen": "La jornada se desarrollará en la USM sede Concepción y visibilizará el trabajo de 70 jóvenes que durante el año participaron en clases y talleres STEM.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/breve-e1794534524274.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/sociedad-chilena-ciencias-mar-biobio.html",
-   "titulo": "Erasmo Macaya: “La ciencia marina también busca fortalecer el vínculo entre la sociedad y el océano”",
-   "resumen": "Académico UdeC y presidente de la Sociedad Chilena de Ciencias del Mar releva la importancia de este quehacer y conexión social para la conservación del mar y sus roles vitales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-oce%C3%A1no-del-Biob%C3%ADo-altura-de-Punta-Lavapie-foto-carolina-e1794534308940.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/delegado-arauco-incendios-estado-excepcion.html",
-   "titulo": "“Atrás quedó el resguardar solo el bosque”: delegado de Arauco por ejes del Plan contra Incendios Forestales",
-   "resumen": "Pedro Marileo detalló el despliegue de recursos y las medidas para enfrentar el periodo crítico de incidencia forestal. Asimismo, defendió la continuidad del Estado de Excepción Constitucional y abordó los planes para impulsar el turismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pedro-marileo-dpp-arauco-e1794534128278.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T08:40:18.652Z",
-   "visto": "2026-11-13T08:40:18.652Z",
-   "cats": [
     "politica"
    ],
    "local": true
