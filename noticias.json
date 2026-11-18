@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T19:20:23.705Z",
+ "generado": "2026-11-18T20:00:29.935Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
+    "enlaces": 155,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/colegio-de-ingenieros-forestales-llama-a-incentivar-la-forestacion-ante-crisis-que-afecta-al-sector",
+   "titulo": "Colegio de Ingenieros Forestales llama a incentivar la forestación ante crisis que afecta al sector",
+   "resumen": "La caída de la demanda de madera, la pérdida de empleos y el cierre de más de 200 aserraderos en los últimos cinco años mantienen en alerta al sector forestal. Desde el gremio advierten que la falta de incentivos para nuevas plantaciones podría profundizar…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/investigacion-en-plantaciones-de-pinos-en-coyhaique-alto-patagonia-canibal-pauchard-1-e1795031924212.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T20:00:29.935Z",
+   "visto": "2026-11-18T20:00:29.935Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/18/cchc-advierte-falta-de-grandes-proyectos-de-infraestructura-en-biobio-para-2027-y-2028",
    "titulo": "CChC advierte falta de grandes proyectos de infraestructura en Bío Bío hasta 2028",
@@ -1546,20 +1560,6 @@
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T11:50:21.863Z",
-   "visto": "2026-11-17T11:50:21.863Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/hospital-las-higueras-logra-tercer-lugar-en-ranking-que-evaluo-a-mas-de-50-recintos-de-salud-en-chile.shtml",
-   "titulo": "Hospital Las Higueras logra tercer lugar en ranking que evaluó a más de 50 recintos de salud en Chile",
-   "resumen": "El Hospital Las Higueras de Talcahuano obtuvo tercer lugar en el ranking Merco, medición que evaluó a más de 50...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7021935-hospital-las-higueras-agenciauno.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T11:44:32.000Z",
    "visto": "2026-11-17T11:50:21.863Z",
    "cats": [
     "regional"
