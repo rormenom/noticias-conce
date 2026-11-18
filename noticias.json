@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T12:00:27.664Z",
+ "generado": "2026-11-18T12:20:21.274Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/cierre-temporal-compin-concepcion.html",
+   "titulo": "Por “contingencia operacional”: COMPIN Concepción suspende atención presencial de público durante esta jornada",
+   "resumen": "El servicio retomará su horario habitual este jueves, por lo que instaron a los usuarios a gestionar sus licencias médicas y consultas a través de la web y teléfonos habilitados.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/compin-e1795003655683.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T12:20:21.274Z",
+   "visto": "2026-11-18T12:20:21.274Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/instalaran-en-hualqui-puente-sustentable-que-sera-construido-utilizando-contenedores-maritimos.shtml",
    "titulo": "Instalarán en Hualqui puente sustentable que será construido utilizando contenedores marítimos",
@@ -166,20 +180,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/especialistas-conferencia-internacional-srs.html",
-   "titulo": "Más de 240 especialistas participan en primera conferencia internacional dedicada al SRS",
-   "resumen": "Con una convocatoria de 240 asistentes, comenzó en Puerto Varas, la Primera Conferencia Internacional sobre el Síndrome Rickettsial del Salmón, SRS 2026. El evento organizado por el Centro Incar², es pionero al ser el primero a nivel global en abordar de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-primera-conferencia-internacional-dedicada-al-SRS-foto-Centro-Incar%C2%B2.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/biobio-acusacion-constitucional-ministro-rabat.html",
    "titulo": "El pulso político del Biobío por la acusación constitucional contra el ministro Rabat",
    "resumen": "El voto de los diputados del PDG será determinante en una Cámara donde las proyecciones anticipan una estrecha definición sobre el futuro del titular de Justicia.",
@@ -260,6 +260,20 @@
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/especialistas-conferencia-internacional-srs.html",
+   "titulo": "Más de 240 especialistas participan en primera conferencia internacional dedicada al SRS",
+   "resumen": "Con una convocatoria de 240 asistentes, comenzó en Puerto Varas, la Primera Conferencia Internacional sobre el Síndrome Rickettsial del Salmón, SRS 2026. El evento organizado por el Centro Incar², es pionero al ser el primero a nivel global en abordar de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-primera-conferencia-internacional-dedicada-al-SRS-foto-Centro-Incar%C2%B2.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
@@ -1241,10 +1255,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
-   "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
-   "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/el-nino-biobio-lluvias-remociones-en-masa-riesgos.html",
+   "titulo": "Lluvias, calor y remociones en masa: los posibles efectos de El Niño en el Biobío",
+   "resumen": "Los pronósticos internacionales anticipan que el fenómeno podría alcanzar un peak extraordinario entre noviembre y diciembre. Especialistas explicaron cómo podría incidir en el territorio regional.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Screenshot_20261116_201815_Gallery-e1794874192487.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T08:40:20.947Z",
@@ -1255,10 +1269,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/el-nino-biobio-lluvias-remociones-en-masa-riesgos.html",
-   "titulo": "Lluvias, calor y remociones en masa: los posibles efectos de El Niño en el Biobío",
-   "resumen": "Los pronósticos internacionales anticipan que el fenómeno podría alcanzar un peak extraordinario entre noviembre y diciembre. Especialistas explicaron cómo podría incidir en el territorio regional.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Screenshot_20261116_201815_Gallery-e1794874192487.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
+   "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
+   "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T08:40:20.947Z",
@@ -1618,20 +1632,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/transportistas-del-biobio-llaman-a-rechazar-proyecto-de-ley-por-combustibles-acusan-que-no-responde-a-sus-demandas",
-   "titulo": "Transportistas del Biobío llaman a rechazar proyecto de ley por combustibles: acusan que no responde a sus demandas",
-   "resumen": "Pequeños transportistas de la región del Biobío solicitaron a los parlamentarios rechazar el proyecto de ley que busca contener el alza de los combustibles, argumentando que las medidas acordadas entre el Gobierno y parte de los gremios no representan las…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ARP5ST6S5NDKDID5EDXX56BSXY-scaled.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T19:10:21.224Z",
-   "visto": "2026-11-16T19:10:21.224Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
