@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T14:30:26.019Z",
+ "generado": "2026-11-18T14:40:24.820Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 58,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -82,10 +82,10 @@
  ],
  "items": [
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/camaras-captan-robo-de-tapas-de-alcantarilla-en-pleno-centro-de-concepcion-detectan-cerca-de-ocho-estructuras-faltantes",
-   "titulo": "VIDEO| Cámaras captan robo de tapas de alcantarilla en pleno centro de Concepción",
-   "resumen": "El robo de tapas de alcantarilla y cámaras de servicios mantiene en alerta al centro de Concepción. Registros de televigilancia evidenciaron la facilidad con que se sustraen estas estructuras, cuya ausencia representa un peligro para peatones y…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-18-at-11.09.46-AM-e1795011563315.jpeg",
+   "url": "https://www.canal9.cl/episodios/2026/11/18/contingencia-operacional-compin-de-concepcion-suspende-atencion-presencial-este-miercoles",
+   "titulo": "“Contingencia operacional”: Compin de Concepción suspende atención presencial este miércoles",
+   "resumen": "Confusión y molestia generó entre los usuarios de Concepción el cierre temporal de las oficinas de la Comisión de Medicina Preventiva e Invalidez (Compin) durante la mañana de este miércoles. El recinto, ubicado en Barros Arana, amaneció con sus cortinas…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/COMPIN-e1795011477395.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-18T14:30:26.019Z",
@@ -96,10 +96,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/contingencia-operacional-compin-de-concepcion-suspende-atencion-presencial-este-miercoles",
-   "titulo": "“Contingencia operacional”: Compin de Concepción suspende atención presencial este miércoles",
-   "resumen": "Confusión y molestia generó entre los usuarios de Concepción el cierre temporal de las oficinas de la Comisión de Medicina Preventiva e Invalidez (Compin) durante la mañana de este miércoles. El recinto, ubicado en Barros Arana, amaneció con sus cortinas…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/COMPIN-e1795011477395.jpeg",
+   "url": "https://www.canal9.cl/episodios/2026/11/18/camaras-captan-robo-de-tapas-de-alcantarilla-en-pleno-centro-de-concepcion-detectan-cerca-de-ocho-estructuras-faltantes",
+   "titulo": "VIDEO| Cámaras captan robo de tapas de alcantarilla en pleno centro de Concepción",
+   "resumen": "El robo de tapas de alcantarilla y cámaras de servicios mantiene en alerta al centro de Concepción. Registros de televigilancia evidenciaron la facilidad con que se sustraen estas estructuras, cuya ausencia representa un peligro para peatones y…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-18-at-11.09.46-AM-e1795011563315.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-18T14:30:26.019Z",
