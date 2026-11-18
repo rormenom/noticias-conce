@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T08:40:21.405Z",
+ "generado": "2026-11-18T08:50:22.454Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 10,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 3,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -82,10 +82,10 @@
  ],
  "items": [
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
-   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
-   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/rhantavirus-biobio-muertes-riesgo-contagio-factores-climaticos.html",
+   "titulo": "Región registra tres muertes por hantavirus y advierten mayor riesgo de contagio por factores climáticos",
+   "resumen": "Especialistas recomiendan reforzar las medidas de prevención ante la posibilidad de entrar en contacto con excreciones de roedores. Las abundantes lluvias y el aumento de la vegetación, como la quila, favorecen la disponibilidad de alimento para estos…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-hanta-virus-foto-carolina.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
@@ -110,10 +110,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/rhantavirus-biobio-muertes-riesgo-contagio-factores-climaticos.html",
-   "titulo": "Región registra tres muertes por hantavirus y advierten mayor riesgo de contagio por factores climáticos",
-   "resumen": "Especialistas recomiendan reforzar las medidas de prevención ante la posibilidad de entrar en contacto con excreciones de roedores. Las abundantes lluvias y el aumento de la vegetación, como la quila, favorecen la disponibilidad de alimento para estos…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-hanta-virus-foto-carolina.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
+   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
+   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
@@ -138,20 +138,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/atenciones-sernapesca-pescadores-tirua.html",
-   "titulo": "Sernapesca realizará atenciones mensuales para pescadores de Tirúa",
-   "resumen": "Convenio con el municipio contempla jornadas mensuales para trabajadores de la pesca.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/firma-convenio-tirua1.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/biobio-acusacion-constitucional-ministro-rabat.html",
    "titulo": "El pulso político del Biobío por la acusación constitucional contra el ministro Rabat",
    "resumen": "El voto de los diputados del PDG será determinante en una Cámara donde las proyecciones anticipan una estrecha definición sobre el futuro del titular de Justicia.",
@@ -162,6 +148,20 @@
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/atenciones-sernapesca-pescadores-tirua.html",
+   "titulo": "Sernapesca realizará atenciones mensuales para pescadores de Tirúa",
+   "resumen": "Convenio con el municipio contempla jornadas mensuales para trabajadores de la pesca.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/firma-convenio-tirua1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
