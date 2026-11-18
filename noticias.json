@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T22:30:29.316Z",
+ "generado": "2026-11-18T22:40:23.014Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 57,
+    "enlaces": 157,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/premio-nobel-de-fisica-feria-del-libro-y-espectaculos-en-el-foro-escuela-de-verano-udec-2027-convoca-a-la-comunidad-con-amplia-cartelera-cultural/",
+   "titulo": "Premio Nobel de Física, Feria del Libro y Espectáculos en el Foro: Escuela de Verano UdeC 2027 convoca a la comunidad con amplia cartelera cultural",
+   "resumen": "Con una invitación a fortalecer el encuentro entre la comunidad […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Lanzamiento-Escuela-de-Verano-2027-5-768x512.webp",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-18T22:40:09.000Z",
+   "visto": "2026-11-18T22:40:23.014Z",
+   "cats": [
+    "cultura",
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/alerta-degradacion-borde-costero-biobio.html",
    "titulo": "Alerta por degradación del borde costero en el Biobío: el peligro para ecosistemas y comunidades",
