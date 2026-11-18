@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T14:40:24.820Z",
+ "generado": "2026-11-18T15:00:29.325Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/fiesta-del-libro-regresa-a-concepcion-con-27-editoriales-y-una-programacion-gratuita-para-toda-la-familia/",
+   "titulo": "Fiesta del Libro regresa a Concepción con 27 editoriales y una programación gratuita para toda la familia",
+   "resumen": "Con una programación que busca acercar la creación literaria a […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/FiestaL-2°-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-18T14:50:48.000Z",
+   "visto": "2026-11-18T15:00:29.325Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/18/contingencia-operacional-compin-de-concepcion-suspende-atencion-presencial-este-miercoles",
    "titulo": "“Contingencia operacional”: Compin de Concepción suspende atención presencial este miércoles",
@@ -2293,34 +2307,6 @@
    "visto": "2026-11-13T15:40:19.889Z",
    "cats": [
     "regional",
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/13/paso-meteoro-ilumina-cielo-nuble-biobio-estruendo.html",
-   "titulo": "VIDEO | Bólido ilumina el cielo del Biobío y Ñuble: astrónoma no descarta caída de un objeto artificial",
-   "resumen": "El fenómeno se registró cerca de las 21:30 horas de este viernes. Tras los reportes por el potente ruido, expertos no descartan un impacto.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/paso-meteoro-ilumina-cielo-nuble-biobio-estruendo.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T15:00:00.000Z",
-   "visto": "2026-11-14T01:50:20.097Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/colo-colo-gano-a-racing-en-amistoso-concepcion",
-   "titulo": "Colo Colo venció a Racing en Concepción tras dominar el amistoso",
-   "resumen": "Colo Colo venció por 2-1 a Racing de Argentina en un amistoso disputado en el Estadio Ester Roa de Rebolledo, en Concepción. El equipo albo fue superior a un cuadro trasandino que mostró poco en el recinto penquista, en una actuación que reflejó las…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/colo-colo-gano-a-racing-en-amistoso-concepcion.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T15:00:00.000Z",
-   "visto": "2026-11-14T00:20:20.222Z",
-   "cats": [
     "deportes"
    ],
    "local": true
