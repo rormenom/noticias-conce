@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T15:00:29.325Z",
+ "generado": "2026-11-18T15:30:27.335Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 60,
+    "enlaces": 153,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 34,
+    "enlaces": 33,
     "leidas": 10,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,36 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/intoxicacion-alumnos-hualpen.html",
+   "titulo": "Seremi de Salud inicia investigación en terreno para esclarecer el origen de las emanaciones que afectaron a escolares en Hualpén",
+   "resumen": "Un grupo de alumnos de entre 10 y 13 años presentó mareos y dolores estomacales. La autoridad sanitaria ya se encuentra investigando la situación en terreno.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/intoxicacion-alumnos-hualpen-e1795015014126.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T15:30:27.335Z",
+   "visto": "2026-11-18T15:30:27.335Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/diversos-gremios-participan-en-manifestacion-en-plaza-de-la-independencia-penquista-contra-el-gobierno.shtml",
+   "titulo": "Diversos gremios participan en manifestación en Plaza de la Independencia penquista contra el Gobierno",
+   "resumen": "Diversos gremios se han manifestado la mañana de este miércoles en la Plaza de la Independencia de Concepción, ...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023790-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-18T15:24:50.000Z",
+   "visto": "2026-11-18T15:30:27.335Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/fiesta-del-libro-regresa-a-concepcion-con-27-editoriales-y-una-programacion-gratuita-para-toda-la-familia/",
    "titulo": "Fiesta del Libro regresa a Concepción con 27 editoriales y una programación gratuita para toda la familia",
@@ -1395,20 +1425,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/el-nino-biobio-lluvias-remociones-en-masa-riesgos.html",
-   "titulo": "Lluvias, calor y remociones en masa: los posibles efectos de El Niño en el Biobío",
-   "resumen": "Los pronósticos internacionales anticipan que el fenómeno podría alcanzar un peak extraordinario entre noviembre y diciembre. Especialistas explicaron cómo podría incidir en el territorio regional.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Screenshot_20261116_201815_Gallery-e1794874192487.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
    "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
    "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
@@ -1475,6 +1491,20 @@
    "visto": "2026-11-17T08:40:20.947Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/el-nino-biobio-lluvias-remociones-en-masa-riesgos.html",
+   "titulo": "Lluvias, calor y remociones en masa: los posibles efectos de El Niño en el Biobío",
+   "resumen": "Los pronósticos internacionales anticipan que el fenómeno podría alcanzar un peak extraordinario entre noviembre y diciembre. Especialistas explicaron cómo podría incidir en el territorio regional.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Screenshot_20261116_201815_Gallery-e1794874192487.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1617,20 +1647,6 @@
    "cats": [
     "regional",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/seremis-denuncian-ante-fiscalia-agresion-a-conductor-de-transportes-tome/",
-   "titulo": "Seremis denuncian ante Fiscalía agresión a conductor de Transportes Tomé",
-   "resumen": "Transportes y Seguridad Pública.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/seremis-fiscalia-denuncia--768x570.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-16T20:55:15.000Z",
-   "visto": "2026-11-16T21:00:32.690Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
