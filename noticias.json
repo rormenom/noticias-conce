@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-18T00:40:19.937Z",
+ "generado": "2026-11-18T01:00:27.074Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "HTTP 507",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -61,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 151,
     "leidas": 57,
     "errores": 0,
     "robots": 0
