@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-18T03:20:27.619Z",
+ "generado": "2026-11-18T03:40:21.343Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -60,12 +59,11 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 3,
-    "enlaces": 134,
-    "leidas": 56,
-    "errores": 1,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/17/pablo-milad-repaso-su-gestion-tras-igualdad-de-la-roja-ante-colombia-y-defendio-proceso-de-cordova.shtml)"
+    "paginas": 4,
+    "enlaces": 149,
+    "leidas": 57,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
