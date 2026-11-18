@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T09:25:53.935Z",
+ "generado": "2026-11-18T11:00:28.365Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 60,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/instalaran-en-hualqui-puente-sustentable-que-sera-construido-utilizando-contenedores-maritimos.shtml",
+   "titulo": "Instalarán en Hualqui puente sustentable que será construido utilizando contenedores marítimos",
+   "resumen": "La construcción de puentes a partir de contenedores marítimos es el proyecto que llegará a la comuna y que permitirá reemplazar los antiguos puentes de madera que están en mal estado.",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023319-puente-sustentable-hualqui.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-18T11:00:16.000Z",
+   "visto": "2026-11-18T11:00:28.365Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/18/hualqui-instalara-en-enero-un-puente-de-contenedores-maritimos-que-cuesta-entre-150-y-200-millones",
    "titulo": "Hualqui instalará en enero un puente de contenedores marítimos que cuesta entre $150 y $200 millones",
@@ -1626,20 +1640,6 @@
    "titulo": "Joven de 23 años permanece en riesgo vital tras ser apuñalado en sector rural de Los Ángeles: hay un detenido",
    "resumen": "Un joven de 23 años permanece en riesgo vital luego de ser atacado con un arma blanca en el tórax, en el sector rural de Santa Fe, comuna de Los Ángeles, Región del Biobío. El hecho motivó un amplio operativo policial que terminó con la detención del presunto…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/images-2.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T18:40:22.330Z",
-   "visto": "2026-11-16T18:40:22.330Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/formalizan-a-hombre-por-femicidio-frustrado-en-hualpen-tenia-orden-de-alejamiento-de-la-victima",
-   "titulo": "Formalizan a hombre por femicidio frustrado en Hualpén: tenía orden de alejamiento de la víctima",
-   "resumen": "Este lunes será formalizado José Oyarzo Allapán, imputado por el delito de femicidio frustrado contra su cónyuge en la comuna de Hualpén, región del Biobío. El hombre mantenía una prohibición de acercarse a la víctima, medida judicial que habría incumplido.…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/images-3.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-16T18:40:22.330Z",
