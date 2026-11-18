@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T16:50:20.865Z",
+ "generado": "2026-11-18T17:00:29.490Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -464,16 +464,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
-   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
-   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/araya-y-bravo-entre-los-arqueros-con-mejores-numeros-en-primera.html",
+   "titulo": "Araya y Bravo entre los arqueros con mejores números en Primera",
+   "resumen": "Defienden a D. Concepción y Huachipato y este domingo medirán fuerzas en el CAP con el sexto puesto y la Sudamericana como objetivo. Dos goleros jóvenes que han hecho una gran temporada.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-4-1.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
-    "regional"
+    "deportes"
    ],
    "local": true
   },
@@ -492,10 +492,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/atenciones-sernapesca-pescadores-tirua.html",
-   "titulo": "Sernapesca realizará atenciones mensuales para pescadores de Tirúa",
-   "resumen": "Convenio con el municipio contempla jornadas mensuales para trabajadores de la pesca.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/firma-convenio-tirua1.jpg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
+   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
+   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
@@ -506,16 +506,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/araya-y-bravo-entre-los-arqueros-con-mejores-numeros-en-primera.html",
-   "titulo": "Araya y Bravo entre los arqueros con mejores números en Primera",
-   "resumen": "Defienden a D. Concepción y Huachipato y este domingo medirán fuerzas en el CAP con el sexto puesto y la Sudamericana como objetivo. Dos goleros jóvenes que han hecho una gran temporada.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-4-1.png",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/atenciones-sernapesca-pescadores-tirua.html",
+   "titulo": "Sernapesca realizará atenciones mensuales para pescadores de Tirúa",
+   "resumen": "Convenio con el municipio contempla jornadas mensuales para trabajadores de la pesca.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/firma-convenio-tirua1.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
-    "deportes"
+    "regional"
    ],
    "local": true
   },
@@ -2281,21 +2281,6 @@
    "visto": "2026-11-13T18:20:22.393Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/viaja-a-rapa-nui-sin-salir-del-biobio-festival-gratuito-tendra-bailes-y-tradiciones-polinesias",
-   "titulo": "¡Viaja a Rapa Nui sin salir del Biobío! festival gratuito tendrá bailes y tradiciones polinesias",
-   "resumen": "Este sábado se realizará en Chiguayante la segunda versión del Festival Te Hono, encuentro dedicado a la cultura polinesia y de Rapa Nui. En conversación con Nuestra Casa, la organizadora Karina Ortiz, directora de Mahatu nui Polinesia, y las emprendedoras…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/restore-rapa-nui.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T17:00:28.586Z",
-   "visto": "2026-11-13T17:00:28.586Z",
-   "cats": [
-    "regional",
-    "cultura"
    ],
    "local": true
   }
