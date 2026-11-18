@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T01:10:22.412Z",
+ "generado": "2026-11-18T01:20:26.087Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 150,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -2254,21 +2254,6 @@
    "fecha": "2026-11-13T08:40:18.652Z",
    "visto": "2026-11-13T08:40:18.652Z",
    "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/acuerdo-del-gobierno-divide-a-gremios-de-transportistas-locales-y-delegado-presidencial-regional-s-llamo-a-volver-a-trabajar/",
-   "titulo": "Acuerdo del Gobierno divide a gremios de transportistas locales y delegado presidencial regional (s) llamó a “volver a trabajar”",
-   "resumen": "En el sector de la Ruta 5 Sur, a la […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/paro-muere-768x432.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-13T01:12:24.000Z",
-   "visto": "2026-11-13T01:20:20.243Z",
-   "cats": [
-    "regional",
     "politica"
    ],
    "local": true
