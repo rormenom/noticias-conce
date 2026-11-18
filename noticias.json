@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T20:30:26.920Z",
+ "generado": "2026-11-18T20:50:22.967Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,35 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/corte-declara-inadmisible-amparo-de-exfiscal-de-los-angeles-formalizado-por-red-de-corrupcion-judicial",
+   "titulo": "Corte rechaza el amparo del exfiscal de Los Ángeles formalizado en una causa por corrupción judicial",
+   "resumen": "La Corte de Apelaciones de Concepción rechazó por inadmisible el recurso de amparo interpuesto por el exfiscal Rodrigo Durán, quien sostuvo que su formalización era ilegal en el contexto de la red de corrupción judicial investigada por el Ministerio Público…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/recurso-amparo-exfiscal-formalizado-red-corrupcion-judicial.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T20:50:22.967Z",
+   "visto": "2026-11-18T20:50:22.967Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/18/la-promesa-del-gobernador-del-bio-bio-a-odesur-vamos-a-ser-los-mejores-juegos-de-la-historia.shtml",
+   "titulo": "La promesa del gobernador del Bío Bío a Odesur: \"Vamos a ser los mejores Juegos de la historia\"",
+   "resumen": "La Organización Deportiva Sudamericana (Odesur) confirmó este miércoles 18 de noviembre al Bío Bío como sede de los Juegos Suramericanos...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7024425-odesur-bio-bio-2030-giacaman-juegos-suramericanos.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-18T20:42:25.000Z",
+   "visto": "2026-11-18T20:50:22.967Z",
+   "cats": [
+    "deportes",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/18/juegos-odesur-2030-region-del-biobio-sera-sede",
    "titulo": "Odesur confirma al Bío Bío como sede de los Juegos Suramericanos 2030, un sueño hecho realidad",
@@ -1561,20 +1590,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-17T12:58:40.000Z",
    "visto": "2026-11-17T13:00:33.406Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/trabajadores-contratistas-de-enap-hualpen-se-manifiestan-y-bloquean-accesos-exigiendo-pago-de-bono.shtml",
-   "titulo": "Trabajadores contratistas de ENAP Hualpén se manifiestan y bloquean accesos exigiendo pago de bono",
-   "resumen": "En estos momentos, trabajadores contratistas de ENAP se manifiestan a las afueras de la refinería en Hualpén, región del Bío...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022009-noticia-en-desarrollo-47.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T12:30:41.000Z",
-   "visto": "2026-11-17T12:30:33.278Z",
    "cats": [
     "regional"
    ],
