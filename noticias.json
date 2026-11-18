@@ -1,12 +1,12 @@
 {
- "generado": "2026-11-18T02:00:28.068Z",
+ "generado": "2026-11-18T03:20:27.619Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
    "ok": false,
-   "error": "HTTP 507",
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -60,11 +60,12 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 4,
-    "enlaces": 149,
-    "leidas": 57,
-    "errores": 0,
-    "robots": 0
+    "paginas": 3,
+    "enlaces": 134,
+    "leidas": 56,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/17/pablo-milad-repaso-su-gestion-tras-igualdad-de-la-roja-ante-colombia-y-defendio-proceso-de-cordova.shtml)"
    }
   },
   {
@@ -82,6 +83,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/emplazan-a-de-grange-por-quinta-prorroga-en-licitacion-de-transporte-coronel-lota-debera-responder.shtml",
+   "titulo": "Emplazan a De Grange por quinta prórroga en licitación de transporte Coronel-Lota: \"Deberá responder\"",
+   "resumen": "Por quinta vez se prorrogó la licitación del transporte público en Coronel y Lota. La iniciativa permitirá que lleguen buses...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023198-a-1-archiv-por-emplazan-a-de-grange-por-quinta-prorroga-en-licitacion-de-transporte-coronel-lota_-_debera-responder_.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-18T03:14:31.000Z",
+   "visto": "2026-11-18T03:20:27.619Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/pudu-los-lirios-fauna-silvestre.html",
    "titulo": "Pudú en Los Lirios: cómo proteger a la fauna silvestre ante un encuentro en un sector residencial",
