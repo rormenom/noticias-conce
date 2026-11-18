@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T18:20:21.460Z",
+ "generado": "2026-11-18T18:40:20.101Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 58,
+    "enlaces": 153,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/persecucion-policial-en-los-angeles-termina-con-seis-detenidos-tras-recuperar-vehiculo-robado",
+   "titulo": "Persecución policial en Los Ángeles termina con seis detenidos tras recuperar vehículo robado",
+   "resumen": "Un operativo de Carabineros terminó con seis personas detenidas, entre ellas dos menores de edad, luego de una persecución policial que se extendió por diversas calles de la ciudad Los Ángeles. El procedimiento permitió recuperar un automóvil que mantenía…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/pag-9-patrulla-de-carabineros-foto-raphael-scaled-e1795026914312.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T18:40:20.101Z",
+   "visto": "2026-11-18T18:40:20.101Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/sede-odesur-2030-transmision-vivo.html",
    "titulo": "Mira en vivo el anuncio de Odesur 2030: Biobío espera la ratificación oficial como sede de los Juegos Sudamericanos",
@@ -1605,20 +1619,6 @@
    "visto": "2026-11-17T08:40:20.947Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/despidos-biobio-aumento-2026.html",
-   "titulo": "Despidos en el Biobío: desvinculaciones formales aumentaron 20,2% durante 2026",
-   "resumen": "Manufactura, comercio y construcción enfrentan un escenario marcado por menor dinamismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-14-feria-laboral-foto-isidoro.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
