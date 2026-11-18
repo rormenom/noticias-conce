@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T18:40:20.101Z",
+ "generado": "2026-11-18T18:50:21.243Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 57,
+    "enlaces": 155,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,35 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/bono-recuperacion-biobio.html",
+   "titulo": "Por sistemas frontales: Bono de Recuperación superó los 2.600 hogares beneficiados en Biobío",
+   "resumen": "La última entrega destinó $24.375.000 a 47 hogares de Talcahuano, Arauco y Lebu; afectados por el sistema frontal de julio. Los pagos por las emergencias meteorológicas de julio a septiembre suman casi dos mil millones en la región.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-18-at-3.25.53-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T18:50:21.243Z",
+   "visto": "2026-11-18T18:50:21.243Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/mas-de-8-mil-ninos-de-los-angeles-recibiran-juguetes-para-navidad-municipio-destinara-casi-60-millones",
+   "titulo": "Más de 8 mil niños de Los Ángeles recibirán juguetes para Navidad: municipio destinará casi $60 millones",
+   "resumen": "El Concejo Municipal de Los Ángeles aprobó una licitación por cerca de $60 millones para la adquisición de juguetes navideños que serán entregados a más de 8 mil niños y niñas de la comuna, beneficiando a establecimientos educacionales, jardines infantiles y…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/IMG-20260903-WA0016-e1795027696747.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T18:50:21.243Z",
+   "visto": "2026-11-18T18:50:21.243Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/18/persecucion-policial-en-los-angeles-termina-con-seis-detenidos-tras-recuperar-vehiculo-robado",
    "titulo": "Persecución policial en Los Ángeles termina con seis detenidos tras recuperar vehículo robado",
@@ -1355,6 +1384,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/despidos-biobio-aumento-2026.html",
+   "titulo": "Despidos en el Biobío: desvinculaciones formales aumentaron 20,2% durante 2026",
+   "resumen": "Manufactura, comercio y construcción enfrentan un escenario marcado por menor dinamismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-14-feria-laboral-foto-isidoro.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T15:00:00.000Z",
+   "visto": "2026-11-18T18:50:21.243Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.radioudec.cl/habitar-el-cerebro-una-nueva-propuesta-interactiva-para-acercarse-a-la-neurociencia/",
    "titulo": "Habitar el Cerebro: una nueva propuesta interactiva para acercarse a la neurociencia",
    "resumen": "Habitar el Cerebro es una iniciativa de divulgación científica en […]",
@@ -1561,48 +1604,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-17T10:55:10.000Z",
    "visto": "2026-11-17T11:00:31.557Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/penco-multara-con-350-mil-a-quienes-boten-basura-en-la-via-publica-y-sectores-forestales",
-   "titulo": "Penco multará con $350 mil a quienes boten basura en la vía pública y sectores forestales",
-   "resumen": "El aumento de las temperaturas y las acciones negligentes podrían provocar un nuevo incendio en la comuna de Penco. En ese contexto, el alcalde Rodrigo Vera y el comisario de la Tercera Comisaría de Penco se refirieron a las sanciones por botar basura donde…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2022/07/Captura-de-Pantalla-2022-07-20-a-las-21.33.46.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T10:30:25.360Z",
-   "visto": "2026-11-17T10:30:25.360Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/conductor-ofrecio-trasladar-a-adulto-mayor-y-le-robo-anillo-tras-amenazarlo-con-cortarle-dedo-en-lota",
-   "titulo": "En Lota, un conductor amenazó a un adulto mayor y le robó un anillo tras ofrecerle llevarlo en su vehículo",
-   "resumen": "En Lota, región del Bío Bío, un automovilista que se había ofrecido a trasladar a un adulto mayor acabó involucrado en un violento asalto. El hombre de 79 años fue amenazado con que le cortaría un dedo si no entregaba el anillo de oro que llevaba puesto. El…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cntxt-pixabay-por-conductor-ofrecio-trasladar-a-adulto-mayor-y-le-robo-anillo-tras-amenazarlo-con-cortarle-dedo-en-lota.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T09:10:25.447Z",
-   "visto": "2026-11-17T09:10:25.447Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/pequenos-transportistas-del-bio-bio-llaman-a-rechazar-ley-que-congela-alza-de-combustibles",
-   "titulo": "Transportistas independientes del Bío Bío piden rechazar la ley que congela el precio de los combustibles",
-   "resumen": "Pequeños transportistas de la región del Bío Bío instaron a los parlamentarios a votar contra la ley que busca contener el aumento de los combustibles, pues consideran que la medida no responde a las demandas planteadas durante la paralización. Senadores de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/pequenos-transportistas-rechazar-ley-co9ngela-precios-combustibles.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T09:10:25.447Z",
-   "visto": "2026-11-17T09:10:25.447Z",
    "cats": [
     "regional"
    ],
