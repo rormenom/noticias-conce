@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T14:20:21.612Z",
+ "generado": "2026-11-18T14:30:26.019Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 61,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 9,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/camaras-captan-robo-de-tapas-de-alcantarilla-en-pleno-centro-de-concepcion-detectan-cerca-de-ocho-estructuras-faltantes",
+   "titulo": "VIDEO| Cámaras captan robo de tapas de alcantarilla en pleno centro de Concepción",
+   "resumen": "El robo de tapas de alcantarilla y cámaras de servicios mantiene en alerta al centro de Concepción. Registros de televigilancia evidenciaron la facilidad con que se sustraen estas estructuras, cuya ausencia representa un peligro para peatones y…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-18-at-11.09.46-AM-e1795011563315.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T14:30:26.019Z",
+   "visto": "2026-11-18T14:30:26.019Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/contingencia-operacional-compin-de-concepcion-suspende-atencion-presencial-este-miercoles",
+   "titulo": "“Contingencia operacional”: Compin de Concepción suspende atención presencial este miércoles",
+   "resumen": "Confusión y molestia generó entre los usuarios de Concepción el cierre temporal de las oficinas de la Comisión de Medicina Preventiva e Invalidez (Compin) durante la mañana de este miércoles. El recinto, ubicado en Barros Arana, amaneció con sus cortinas…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/COMPIN-e1795011477395.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T14:30:26.019Z",
+   "visto": "2026-11-18T14:30:26.019Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/las-higueras-de-talcahuano-lidera-en-reputacion-entre-los-hospitales-publicos-de-la-region-del-biobio/",
    "titulo": "Las Higueras de Talcahuano lidera en reputación entre los hospitales públicos de la Región del Biobío",
@@ -1593,20 +1621,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/concepcion-cupos-licencias-conducir-alta-demanda.html",
-   "titulo": "Concepción: 55 cupos para renovar licencias se agotaron en cinco horas",
-   "resumen": "La Municipalidad habilitó las reservas para la jornada extraordinaria de este sábado 21 de noviembre, pero la alta demanda dejó a numerosos vecinos sin posibilidad de acceder a una hora.",
-   "imagen": "https://assets.diarioconcepcion.cl/2025/07/pag-8-licencias-de-conducir-contexto-foto-diario-la-discusi%C3%B3n-de-chillan-e1753036336382.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T20:50:21.189Z",
-   "visto": "2026-11-16T20:50:21.189Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/municipios-subdere-modernizacion.html",
    "titulo": "Municipios podrán optar a financiamiento para modernización y ciberseguridad",
    "resumen": "",
@@ -1631,20 +1645,6 @@
    "visto": "2026-11-16T20:10:20.710Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/dos-hospitales-del-biobio-destacan-entre-los-cinco-centros-publicos-de-salud-con-mejor-reputacion-de-chile",
-   "titulo": "Dos hospitales del Biobío destacan entre los cinco centros públicos de salud con mejor reputación de Chile",
-   "resumen": "El Hospital Las Higueras de Talcahuano y el Hospital Clínico Regional Guillermo Grant Benavente de Concepción fueron reconocidos entre los cinco hospitales públicos con mejor reputación de Chile, según los resultados del ranking Merco Salud 2026. Ambos…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/hsingenieria-cl-por-alcalde-tilda-de-graves-irregularidades-en-construccion-de-hospital-higueras-de-talcahuano-1.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T20:10:20.710Z",
-   "visto": "2026-11-16T20:10:20.710Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2322,21 +2322,6 @@
    "visto": "2026-11-14T00:20:20.222Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/estudio-reviso-las-redes-de-cooperacion-parlamentaria-en-el-biobio/",
-   "titulo": "Estudio revisó las redes de cooperación parlamentaria en el Biobío",
-   "resumen": "¿Qué pesa más cuando los parlamentarios del Biobío firman juntos […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Testera-768x513.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-13T14:29:56.000Z",
-   "visto": "2026-11-13T14:30:23.505Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
