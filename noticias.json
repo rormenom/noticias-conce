@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T21:50:22.709Z",
+ "generado": "2026-11-18T22:00:29.639Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 19,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 57,
+    "enlaces": 157,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/18/se-van-a-construir-obras-ministro-del-deporte-revelo-mejoras-de-infraestructura-para-bio-bio-2030.shtml",
+   "titulo": "\"Se van a construir obras\": ministro del Deporte reveló mejoras de infraestructura para Bío Bío 2030",
+   "resumen": "El ministro del Deporte, Francisco Riveros, comunicó que los Juegos Suramericanos (ODESUR) en el Bío Bío traerán consigo varias mejoras...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7024471-se-van-a-construir-obras__-ministro-del-deporte-revelo-mejoras-de-infraestructura-para-bio-bio-2030-1-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-18T21:50:39.000Z",
+   "visto": "2026-11-18T22:00:29.639Z",
+   "cats": [
+    "deportes",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/18/tome-seguridad-innovacion-tecnologia.html",
    "titulo": "Tomé avanza en seguridad e innovación con tecnología única en la región y el país",
@@ -2312,20 +2327,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/13/biobio-premia-escolares-araucania-sudamericano.html",
-   "titulo": "Reconocimiento para el podio en Araucanía y los Deportivos Escolares",
-   "resumen": "Más de 160 deportistas fueron convocados a la Gobernación Regional, destacando el segundo lugar en Los Ríos y los 6 chicos clasificados a Ecuador.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Ceremonia-Reconocimiento-e1794606555100.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T22:00:29.404Z",
-   "visto": "2026-11-13T22:00:29.404Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
