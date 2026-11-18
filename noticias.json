@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T01:00:27.074Z",
+ "generado": "2026-11-18T01:10:22.412Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -1627,20 +1627,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/flo-y-jochy-elevandose-hasta-el-oro-en-la-araucania.html",
-   "titulo": "“Flo” y “Jochy”: elevándose hasta el oro en La Araucanía",
-   "resumen": "Florencia Melo y Josefa Fariña estudian en el Almondale San Pedro de la Paz, pero fuera de la sala de clases se combinan para remachar por Biobío. Con 17 años piensan en su futuro, con el vóleibol siempre presente.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Florencia-Melo-y-Josefa-Fari%C3%B1a.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/fernandez-vial-no-se-confia-hay-que-enfrentar-la-vuelta-como-si-fueramos-0-0.html",
    "titulo": "Fernández Vial no se confía: “Hay que enfrentar la vuelta como si fuéramos 0-0”",
    "resumen": "Jeremy Olivares, una de las figuras e improvisado zaguero aurinegro, analizó el 2-1 en la ida ante Puente Alto y lo que viene. Cree que después de Monte Águila y Mejillones están listos para cualquier \"infierno\".",
@@ -1673,6 +1659,20 @@
    "titulo": "Habrá revancha: básquetbol UdeC se medirá en las semifinales contra Leones",
    "resumen": "",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/basquet-udec.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/flo-y-jochy-elevandose-hasta-el-oro-en-la-araucania.html",
+   "titulo": "“Flo” y “Jochy”: elevándose hasta el oro en La Araucanía",
+   "resumen": "Florencia Melo y Josefa Fariña estudian en el Almondale San Pedro de la Paz, pero fuera de la sala de clases se combinan para remachar por Biobío. Con 17 años piensan en su futuro, con el vóleibol siempre presente.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Florencia-Melo-y-Josefa-Fari%C3%B1a.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T08:40:19.470Z",
