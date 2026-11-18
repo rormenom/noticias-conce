@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T11:00:28.365Z",
+ "generado": "2026-11-18T11:50:21.035Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 61,
+    "enlaces": 150,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 9,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -260,6 +260,20 @@
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/18/desconocidos-matan-a-tiros-a-un-hombre-frente-a-su-casa-en-san-pedro-de-la-paz/",
+   "titulo": "Desconocidos matan a tiros a un hombre frente a su casa en San Pedro de la Paz",
+   "resumen": "La Policía de Investigaciones está en búsqueda de los responsables.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/procedimiento-pdi-peritajes--768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-18T07:45:41.000Z",
+   "visto": "2026-11-18T11:50:21.035Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1630,20 +1644,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-16T18:50:23.330Z",
    "visto": "2026-11-16T18:50:23.330Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/joven-de-23-anos-permanece-en-riesgo-vital-tras-ser-apunalado-en-sector-rural-de-los-angeles-hay-un-detenido",
-   "titulo": "Joven de 23 años permanece en riesgo vital tras ser apuñalado en sector rural de Los Ángeles: hay un detenido",
-   "resumen": "Un joven de 23 años permanece en riesgo vital luego de ser atacado con un arma blanca en el tórax, en el sector rural de Santa Fe, comuna de Los Ángeles, Región del Biobío. El hecho motivó un amplio operativo policial que terminó con la detención del presunto…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/images-2.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T18:40:22.330Z",
-   "visto": "2026-11-16T18:40:22.330Z",
    "cats": [
     "regional"
    ],
