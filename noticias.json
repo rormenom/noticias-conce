@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T12:30:26.080Z",
+ "generado": "2026-11-18T13:10:22.583Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 62,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/compin-de-concepcion-suspende-atencion-presencial-este-miercoles-por-contingencia-operacional.shtml",
+   "titulo": "Compin de Concepción suspende atención presencial este miércoles por contingencia operacional",
+   "resumen": "Durante la jornada de este miércoles se suspendió la atención presencial en la oficina de la Comisión de Medicina...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023496-compin-de-concepcion-suspende-atencion-presencial-este-miercoles-por-contingencia-operacional.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-18T13:01:23.000Z",
+   "visto": "2026-11-18T13:10:22.583Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/basquetbol/2026/11/18/nba-quentin-grimes-iguala-record-de-kobe-bryant-y-salva-racha-de-lakers.shtml",
+   "titulo": "Quentin Grimes iguala histórico récord de Kobe Bryant y salva racha de Lakers en la NBA",
+   "resumen": "Quentin Grimes firmó 47 puntos, con diez triples, y rescató este martes a Los Angeles Lakers, que remontaron 18 puntos...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023487-nba-quentin-grimes-iguala-record-de-kobe-bryant-y-salva-racha-de-lakers.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-18T13:00:25.000Z",
+   "visto": "2026-11-18T13:10:22.583Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/cierre-temporal-compin-concepcion.html",
    "titulo": "Por “contingencia operacional”: COMPIN Concepción suspende atención presencial de público durante esta jornada",
