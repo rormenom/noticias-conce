@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T18:10:21.950Z",
+ "generado": "2026-11-18T18:20:21.460Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 57,
+    "enlaces": 155,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -2295,20 +2295,6 @@
    "cats": [
     "tecnologia",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/13/ministro-arrau-camioneros-despeje-rutas.html",
-   "titulo": "Ministro Arrau advierte a camioneros: Carabineros despejará rutas intervenidas si continúan las movilizaciones",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-37.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T18:20:22.393Z",
-   "visto": "2026-11-13T18:20:22.393Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
