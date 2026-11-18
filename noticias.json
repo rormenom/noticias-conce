@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T17:30:25.942Z",
+ "generado": "2026-11-18T17:40:21.264Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -492,20 +492,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
-   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
-   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/biobio-acusacion-constitucional-ministro-rabat.html",
    "titulo": "El pulso político del Biobío por la acusación constitucional contra el ministro Rabat",
    "resumen": "El voto de los diputados del PDG será determinante en una Cámara donde las proyecciones anticipan una estrecha definición sobre el futuro del titular de Justicia.",
@@ -516,6 +502,20 @@
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
+   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
+   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
