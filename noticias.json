@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T14:00:30.153Z",
+ "generado": "2026-11-18T14:10:23.195Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 9,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/apoderados-protestan-en-la-ruta-5-sur-por-eliminacion-de-bus-de-acercamiento-en-escuela-rural-de-los-angeles",
+   "titulo": "Los Ángeles: apoderados protestan en Ruta 5 Sur por eliminación de bus de acercamiento de escuela rural",
+   "resumen": "Un grupo de padres y apoderados de la Escuela San José de Huaqui, establecimiento perteneciente a la Congregación del Verbo Divino ubicado en la comuna de Los Ángeles, protagonizó este miércoles una manifestación pacífica en las inmediaciones de la Ruta 5…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Sin-titulo-4-e1795010846550.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T14:10:23.195Z",
+   "visto": "2026-11-18T14:10:23.195Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/senado-repone-asignaciones-expresidentes.html",
    "titulo": "Por más de $915 millones: Senado da luz verde a fondos de expresidentes con nueva regla de transparencia",
@@ -236,20 +250,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
-   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
-   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/biobio-acusacion-constitucional-ministro-rabat.html",
    "titulo": "El pulso político del Biobío por la acusación constitucional contra el ministro Rabat",
    "resumen": "El voto de los diputados del PDG será determinante en una Cámara donde las proyecciones anticipan una estrecha definición sobre el futuro del titular de Justicia.",
@@ -260,6 +260,20 @@
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
+   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
+   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1629,20 +1643,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-16T20:00:32.527Z",
    "visto": "2026-11-16T20:00:32.527Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/16/simulacro-erupcion-volcan-antuco-alerta-sae.html",
-   "titulo": "Simulacro de erupción del Volcán Antuco: Senapred activará alerta SAE este martes a las 11:00 horas",
-   "resumen": "Este martes a las 11:00 horas se realizará un simulacro de erupción volcánica en Antuco. Conoce los detalles de la alerta SAE y las recomendaciones de Senapred.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-12.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T19:50:22.315Z",
-   "visto": "2026-11-16T19:50:22.315Z",
    "cats": [
     "regional"
    ],
