@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T21:10:21.761Z",
+ "generado": "2026-11-18T21:50:22.709Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 18,
-    "leidas": 0,
+    "enlaces": 19,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,22 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/18/tome-seguridad-innovacion-tecnologia.html",
+   "titulo": "Tomé avanza en seguridad e innovación con tecnología única en la región y el país",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/906697666_1553518566535361_5578997288573548833_n.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-18T21:50:22.709Z",
+   "visto": "2026-11-18T21:50:22.709Z",
+   "cats": [
+    "regional",
+    "cultura",
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/chiguayante-fiesta-primavera-regresa-tras-15-anos.html",
    "titulo": "Chiguayante retoma la Fiesta de la Primavera tras 15 años de ausencia",
@@ -1576,20 +1592,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-17T14:05:43.000Z",
    "visto": "2026-11-17T14:10:21.688Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/hombre-de-33-anos-muere-baleado-en-el-antejardin-de-su-vivienda-en-san-pedro-de-la-paz",
-   "titulo": "Hombre de 33 años muere baleado en el antejardín de su vivienda en San Pedro de la Paz",
-   "resumen": "Un hombre de 33 años fue asesinado a disparos al interior del antejardín de su domicilio en la comuna de San Pedro de la Paz, región del Biobío. El crimen ocurrió luego de que un grupo compuesto por al menos cuatro individuos llegara hasta la propiedad para…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/carabineros-3-e1794923523599.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T14:00:35.446Z",
-   "visto": "2026-11-17T14:00:35.446Z",
    "cats": [
     "regional"
    ],
