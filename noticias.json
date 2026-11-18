@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T20:20:22.983Z",
+ "generado": "2026-11-18T20:30:26.920Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 56,
+    "enlaces": 155,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/juegos-odesur-2030-region-del-biobio-sera-sede",
+   "titulo": "Odesur confirma al Bío Bío como sede de los Juegos Suramericanos 2030, un sueño hecho realidad",
+   "resumen": "La región del Bío Bío fue elegida para albergar los Juegos Suramericanos (Odesur) 2030. La Organización Deportiva Sudamericana informó este miércoles que aceptó la candidatura de la zona, que recibirá el relevo de Santa Fe 2026, en Argentina. Autoridades,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T20:30:26.920Z",
+   "visto": "2026-11-18T20:30:26.920Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/corte-declara-inadmisible-amparo-de-exfiscal-de-los-angeles-formalizado-por-red-de-corrupcion-judicial.shtml",
+   "titulo": "Corte declara inadmisible amparo de exfiscal de Los Ángeles formalizado por red de corrupción judicial",
+   "resumen": "La Corte de Apelaciones de Concepción declaró inadmisible el recurso de amparo presentado por el exfiscal Rodrigo Durán, quien...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7024404-recurso-amparo-exfiscal-formalizado-red-corrupcion-judicial.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-18T20:26:51.000Z",
+   "visto": "2026-11-18T20:30:26.920Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/biobio-juegos-odesur-2030.html",
    "titulo": "Hito para el deporte: Biobío recibirá los Juegos Odesur 2030",
@@ -1553,20 +1581,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/pudu-ingresa-al-patio-de-una-vivienda-en-sector-los-lirios-en-concepcion",
-   "titulo": "Pudú ingresa al patio de una vivienda en sector Los Lirios en Concepción",
-   "resumen": "Una inusual situación se vivió durante la mañana en el sector Los Lirios de Collao, en la comuna de Concepción, luego de que un pudú ingresara hasta el patio de una casa habitación tras descender desde el cerro colindante. El ejemplar, se mantuvo refugiado y…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-17-at-09.21.01-e1794918384280.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T12:30:33.278Z",
-   "visto": "2026-11-17T12:30:33.278Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/senado-despacha-ley-freno-alza-combustibles-rebaja.html",
    "titulo": "Listo para ser Ley: Senado aprueba rebaja y congela alzas de combustibles hasta 2027",
    "resumen": "La iniciativa, aprobada por unanimidad en general pasadas las 22:00 horas, establece techos temporales a los precios de las bencinas hasta abril de 2027 y entrega alivios al transporte de carga y pasajeros.",
@@ -1577,20 +1591,6 @@
    "visto": "2026-11-17T12:10:22.253Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/hualpen-trabajadores-contratistas-bloquean-acceso-a-refineria-enap-exigiendo-pago-de-bono",
-   "titulo": "Hualpén: trabajadores contratistas bloquean acceso a Refinería ENAP exigiendo pago de bono",
-   "resumen": "Una movilización de trabajadores contratistas se desarrolla en las afueras de la Refinería ENAP Biobío, en la comuna de Hualpén. La protesta, encabezada por el Sindicato Interempresa Nacional de Trabajadores de Montaje Industrial (Sinami), mantiene bloqueado…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-17-at-08.49.28-e1794916679408.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T12:00:31.760Z",
-   "visto": "2026-11-17T12:00:31.760Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
