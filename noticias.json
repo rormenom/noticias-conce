@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T22:10:28.447Z",
+ "generado": "2026-11-18T22:20:21.077Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -59,9 +59,9 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 3,
-    "enlaces": 94,
-    "leidas": 55,
+    "paginas": 4,
+    "enlaces": 156,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -2312,21 +2312,6 @@
    "visto": "2026-11-14T00:00:27.711Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/13/fallece-tony-pulguita-legado-tvu-duelo-comunal.html",
-   "titulo": "Desde \"El Club Mágico\" en TVU hasta el Teatro UdeC: el imborrable legado televisivo que deja Tony Pulguita",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/fallece-tony-pulguita-legado-tvu-duelo-comunal-e1794607190950.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-13T22:20:20.439Z",
-   "visto": "2026-11-13T22:20:20.439Z",
-   "cats": [
-    "regional",
-    "cultura"
    ],
    "local": true
   }
