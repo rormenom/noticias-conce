@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T22:00:29.639Z",
+ "generado": "2026-11-18T22:10:28.447Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -59,9 +59,9 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 4,
-    "enlaces": 157,
-    "leidas": 58,
+    "paginas": 3,
+    "enlaces": 94,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/biobio-celebra-haremos-los-mejores-juegos-de-la-historia.html",
+   "titulo": "Biobío celebra: “Haremos los mejores Juegos de la historia”",
+   "resumen": "Nuestra Región fue oficializada como sede de los Odesur 2030 en una jornada que convocó a deportistas, autoridades y gente de la zona celebrando esta histórica noticia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Biobio-Sede-Odesur-2030.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T22:10:28.447Z",
+   "visto": "2026-11-18T22:10:28.447Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/18/se-van-a-construir-obras-ministro-del-deporte-revelo-mejoras-de-infraestructura-para-bio-bio-2030.shtml",
    "titulo": "\"Se van a construir obras\": ministro del Deporte reveló mejoras de infraestructura para Bío Bío 2030",
@@ -207,6 +221,21 @@
    "fecha": "2026-11-18T20:20:22.983Z",
    "visto": "2026-11-18T20:20:22.983Z",
    "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/18/biobio-sera-la-sede-de-la-xiv-edicion-de-los-juegos-suramericanos-en-2030/",
+   "titulo": "Biobío será la sede de la XIV edición de los Juegos Suramericanos en 2030",
+   "resumen": "Oficial: La noticia fue comunicada de manera telemática por el presidente de Odesur, Mario Mocca.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/odesur-biobio-2030-768x432.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-18T20:18:27.000Z",
+   "visto": "2026-11-18T22:10:28.447Z",
+   "cats": [
+    "deportes",
     "regional"
    ],
    "local": true
@@ -1599,20 +1628,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/hombre-muere-baleado-en-antejardin-de-su-casa-en-san-pedro-de-la-paz-es-el-homicidio-76-del-bio-bio.shtml",
-   "titulo": "Hombre muere baleado en antejardín de su casa en San Pedro de la Paz: es el homicidio 76 del Bío Bío",
-   "resumen": "Un hombre de 33 años murió tras recibir múltiples disparos en el antejardín de su domicilio en la comuna de...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022184-homicidio-calama.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T14:05:43.000Z",
-   "visto": "2026-11-17T14:10:21.688Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/senado-despacha-ley-freno-alza-combustibles-rebaja.html",
    "titulo": "Listo para ser Ley: Senado aprueba rebaja y congela alzas de combustibles hasta 2027",
    "resumen": "La iniciativa, aprobada por unanimidad en general pasadas las 22:00 horas, establece techos temporales a los precios de las bencinas hasta abril de 2027 y entrega alivios al transporte de carga y pasajeros.",
@@ -1944,20 +1959,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/guerrero-de-penco-vuelve-con-70-anos-a-la-san-silvestre.html",
-   "titulo": "“Guerrero de Penco” vuelve con 70 años a la San Silvestre",
-   "resumen": "Sergio Ramírez corrió alguna vez 7 maratones en un año y a fines de este 2026 irá otra vez al calor de Brasil para un nuevo desafío. Quiere seguir en la pista hasta los 80 y reza para que las lesiones no lo alcancen.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-15-at-19.44.57.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/16/feria-de-reduccion-de-riesgos-de-desastres-invito-a-la-comunidad-a-reflexionar-sobre-prevencion-de-emergencias.html",
    "titulo": "Feria de Reducción de Riesgos de Desastres invitó a la comunidad a reflexionar sobre prevención de emergencias",
    "resumen": "La tercera versión de la feria reunió a organismos públicos, privados y de respuesta ante emergencias. La jornada también permitió conocer las medidas que la Universidad implementa en el Campus Concepción para prevenir incendios forestales.",
@@ -1968,6 +1969,20 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/guerrero-de-penco-vuelve-con-70-anos-a-la-san-silvestre.html",
+   "titulo": "“Guerrero de Penco” vuelve con 70 años a la San Silvestre",
+   "resumen": "Sergio Ramírez corrió alguna vez 7 maratones en un año y a fines de este 2026 irá otra vez al calor de Brasil para un nuevo desafío. Quiere seguir en la pista hasta los 80 y reza para que las lesiones no lo alcancen.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-15-at-19.44.57.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -2309,21 +2324,6 @@
    "fuenteId": "tvu",
    "fecha": "2026-11-13T22:20:20.439Z",
    "visto": "2026-11-13T22:20:20.439Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/13/desde-el-club-magico-en-tvu-hasta-el-teatro-udec-el-imborrable-legado-televisivo-que-deja-tony-pulguita.html",
-   "titulo": "Desde \"El Club Mágico\" en TVU hasta el Teatro UdeC: el imborrable legado televisivo que deja Tony Pulguita",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/fallece-tony-pulguita-legado-tvu-duelo-comunal-e1794607190950.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-13T22:10:26.738Z",
-   "visto": "2026-11-13T22:10:26.738Z",
    "cats": [
     "regional",
     "cultura"
