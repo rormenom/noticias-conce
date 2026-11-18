@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T16:40:22.127Z",
+ "generado": "2026-11-18T16:50:20.865Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 55,
+    "enlaces": 157,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 14,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/nico-ruiz-vuelve-a-casa-su-gira-instinto-ya-causa-furor-en-concepcion",
+   "titulo": "¡Nico Ruiz vuelve a casa! su gira “Instinto” ya causa furor en Concepción",
+   "resumen": "El cantante penquista Nico Ruiz, presentó en Nuestra Casa su gira Instinto, que llegará a Concepción el 29 de noviembre. En la conversación habló de su paso por Santiago, el gesto de Marco Antonio Solís en un concierto en California, su participación en la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/nico.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T16:50:20.865Z",
+   "visto": "2026-11-18T16:50:20.865Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/giacaman-adelanta-biobio-sede-odesur-2030.html",
    "titulo": "Giacaman se adelanta al anuncio de Odesur 2030: “A las 4 de la tarde nos van a confirmar que seremos sede”",
@@ -1595,20 +1609,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
-   "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
-   "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/johana-rivas-conquista-el-oro-sudamericano-de-maraton/",
    "titulo": "Johana Rivas conquista el oro sudamericano de maratón",
    "resumen": "Y lleva a Los Ángeles a lo más alto del atletismo continental.",
@@ -2296,35 +2296,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/13/invitan-comunidad-del-biobio-tercer-concurso-dramaturgia-monica-perez.html",
-   "titulo": "Invitan a la comunidad del Biobío a participar en el tercer concurso de dramaturgia “Mónica Pérez”",
-   "resumen": "La iniciativa de la Escuela de Teatro de la Corporación Cultural Municipal de Los Ángeles busca descubrir nuevas voces de la escritura teatral y promover la creación de propuestas con identidad local. Postulaciones abiertas hasta el 16 de noviembre.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/foto-referencia.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-13T16:50:20.951Z",
-   "visto": "2026-11-13T16:50:20.951Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/13/colo-colo-vs-racing-en-concepcion-autoridades-fiscalizan-el-ester-roa-y-confirman-aforo-de-23-500-personas",
-   "titulo": "Colo Colo vs Racing en Concepción: autoridades fiscalizan el Ester Roa y confirman aforo de 23.500 personas",
-   "resumen": "El amistoso internacional se disputará este viernes 13 de noviembre, a las 19:00 horas. Carabineros y el municipio de Concepción coordinaron un operativo de seguridad que contempla controles de acceso, vigilancia y patrullajes en los alrededores del estadio.…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-13-at-10.57.37-AM-e1794588228923.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-13T16:50:20.951Z",
-   "visto": "2026-11-13T16:50:20.951Z",
-   "cats": [
-    "regional",
-    "deportes"
    ],
    "local": true
   }
