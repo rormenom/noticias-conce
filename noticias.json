@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T16:00:28.877Z",
+ "generado": "2026-11-18T16:30:27.918Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 57,
+    "enlaces": 156,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/incendios-forestales-biobio-zonas-alto-riesgo.html",
+   "titulo": "Incendios forestales: cuatro comunas del Biobío figuran entre zonas de alto riesgo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Brigadistas-2-e1793715349447.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T16:30:27.918Z",
+   "visto": "2026-11-18T16:30:27.918Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/18/lago-laja-registra-importante-recuperacion-de-sus-aguas-pero-sigue-un-42-bajo-su-nivel-historico",
+   "titulo": "Lago Laja registra importante recuperación de sus aguas, pero sigue un 42% bajo su nivel histórico",
+   "resumen": "Pese al superávit de precipitaciones registrado en la provincia de Biobío, el Lago Laja continúa lejos de sus niveles históricos. Sin embargo, el aumento de sus reservas hídricas permitiría garantizar el riego agrícola durante esta temporada y la próxima,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/276ea2c3-2cec-48a6-be23-181b34510e32_desktop.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-18T16:30:27.918Z",
+   "visto": "2026-11-18T16:30:27.918Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/alerta-temprana-marejadas-anormales-biobio.html",
    "titulo": "Biobío: declaran Alerta Temprana Preventiva por marejadas anormales",
@@ -1482,20 +1510,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
-   "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
-   "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/alejandro-reyes-nuevo-director-de-la-caj-biobio-las-gestiones-dificilmente-se-van-a-hacer-mejor-con-menos-gente.html",
    "titulo": "Alejandro Reyes, nuevo director de la CAJ Biobío: Las gestiones “difícilmente se van a hacer mejor con menos gente”",
    "resumen": "\"Estamos frente no solo a un cambio de paradigma, sino que estamos ante una institución que es clave en la vida de las personas\", Alejandro Reyes Schwarz, director general CAJ Biobío.",
@@ -1538,6 +1552,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/semana-comunicaciones-udec.html",
+   "titulo": "UdeC inicia su primera Semana de las Comunicaciones con actividades y propuestas de sus periodistas",
+   "resumen": "Coloquios, conferencias y propuestas marcarán la agenda en la casa de estudios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-13-semana-de-las-comunicaciones-UdeC-foto-carolina.jpg-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/amenazas-contexto-escolar-superintendencia-educacion.html",
    "titulo": "Llaman a tomar conciencia de la gravedad de las amenazas en contexto escolar",
    "resumen": "El caso de un apoderado que amenazó a una comunidad educativa en Talcahuano reabrió la discusión sobre la gravedad de estas conductas.",
@@ -1566,20 +1594,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/conductor-ofrecio-trasladar-a-adulto-mayor-y-le-robo-anillo-tras-amenazarlo-con-cortarle-dedo-en-lota.shtml",
-   "titulo": "Conductor ofreció trasladar a adulto mayor y le robó anillo tras amenazarlo con cortarle dedo en Lota",
-   "resumen": "Un conductor que se ofreció a facilitarle transporte a un adulto mayor terminó protagonizando un violento robo en Lota, ...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7021806-cntxt-pixabay-por-conductor-ofrecio-trasladar-a-adulto-mayor-y-le-robo-anillo-tras-amenazarlo-con-cortarle-dedo-en-lota.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T08:35:44.000Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/johana-rivas-conquista-el-oro-sudamericano-de-maraton/",
    "titulo": "Johana Rivas conquista el oro sudamericano de maratón",
    "resumen": "Y lleva a Los Ángeles a lo más alto del atletismo continental.",
@@ -1590,20 +1604,6 @@
    "visto": "2026-11-17T10:10:20.814Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/en-diciembre-se-iniciara-renovacion-total-de-las-pistas-del-aerodromo-de-chillan/",
-   "titulo": "En diciembre se iniciará renovación total de las pistas del aeródromo de Chillán",
-   "resumen": "Con trabajos nocturnos.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/aerdromo-chilla-nuble-768x526.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-17T07:38:54.000Z",
-   "visto": "2026-11-17T13:40:21.437Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
