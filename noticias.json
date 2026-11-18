@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T17:40:21.264Z",
+ "generado": "2026-11-18T18:10:21.950Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -47,7 +47,7 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 19,
+    "enlaces": 18,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 58,
+    "enlaces": 154,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/sede-odesur-2030-transmision-vivo.html",
+   "titulo": "Mira en vivo el anuncio de Odesur 2030: Biobío espera la ratificación oficial como sede de los Juegos Sudamericanos",
+   "resumen": "La comunidad podrá seguir la ratificación oficial a través de una pantalla gigante en el GORE y en nuestras plataformas digitales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sede-odesur-2030-transmision-vivo.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T18:10:21.950Z",
+   "visto": "2026-11-18T18:10:21.950Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/gastos-traslacion-parlamentarios-biobio.html",
    "titulo": "Entre el trabajo en terreno y la promesa de austeridad: las explicaciones de los parlamentarios del Biobío por sus gastos en combustibles",
