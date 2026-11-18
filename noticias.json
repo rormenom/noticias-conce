@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T11:50:21.035Z",
+ "generado": "2026-11-18T12:00:27.664Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 60,
+    "enlaces": 152,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 10,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
@@ -260,6 +260,20 @@
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/18/encuentran-a-pudu-en-el-patio-de-una-casa-en-concepcion/",
+   "titulo": "Encuentran a pudú en el patio de una casa en Concepción",
+   "resumen": "El SAG recibió la denuncia y devolvió al mamífero a su hábitat natural, en buen estado.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/pudu-nonguen-sag-biobio-768x447.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-18T07:47:27.000Z",
+   "visto": "2026-11-18T12:00:27.664Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1632,20 +1646,6 @@
    "visto": "2026-11-16T18:50:23.330Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/biobio-registra-75-homicidios-en-2026-ocho-crimenes-ocurrieron-solo-durante-noviembre",
-   "titulo": "Biobío registra 75 homicidios en 2026: ocho crímenes ocurrieron solo durante noviembre",
-   "resumen": "Un total de 75 homicidios se han registrado en la región del Biobío durante 2026, cifra que representa una disminución de 12 casos respecto al mismo periodo del año anterior. Sin embargo, noviembre acumula ocho víctimas, siendo el caso más reciente el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/tasa-de-victimas-de-homicidios-c.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T18:50:23.330Z",
-   "visto": "2026-11-16T18:50:23.330Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
