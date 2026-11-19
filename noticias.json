@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T11:40:22.797Z",
+ "generado": "2026-11-19T12:00:30.484Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/incendio-afecta-a-empresa-ubicada-en-parque-industrial-de-coronel-2.shtml",
+   "titulo": "Incendio afecta a empresa ubicada en Parque Industrial de Coronel",
+   "resumen": "Un incendio afecta la mañana de este jueves a dependencias de la empresa Terramar, ubicada en el Parque Industrial 2...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7024816-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-19T11:52:44.000Z",
+   "visto": "2026-11-19T12:00:30.484Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/tras-informe-de-cgr-municipio-de-hualpen-descarta-casos-de-funcionarios-condenados-en-servicio.shtml",
    "titulo": "Tras informe de CGR: Municipio de Hualpén descarta casos de funcionarios condenados en servicio",
@@ -1610,20 +1624,6 @@
    "visto": "2026-11-17T18:50:23.831Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/ordenan-detener-a-dueno-de-automotora-tras-no-llegar-a-formalizacion-habria-estafado-a-32-personas",
-   "titulo": "Ordenan la detención del dueño de una automotora por presuntas estafas a 32 personas tras ausentarse a la formalización",
-   "resumen": "El Juzgado de Garantía de Concepción emitió una orden de detención contra el dueño de una importadora de vehículos, después de que el empresario no asistiera en persona a la audiencia en que sería formalizado por una presunta estafa que perjudicó a 32…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/restore-automotora-hdr.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T18:40:20.882Z",
-   "visto": "2026-11-17T18:40:20.882Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
