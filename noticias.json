@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T13:10:22.385Z",
+ "generado": "2026-11-19T13:40:22.312Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 61,
+    "enlaces": 156,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/absuelven-a-conductora-por-atropello-de-nino-en-chiguayante-pero-la-condenan-por-huir-del-lugar.shtml",
+   "titulo": "Absuelven a conductora por atropello de niño en Chiguayante, pero la condenan por huir del lugar",
+   "resumen": "Solo por el delito de huir y no prestar auxilio fue declarada culpable una psicóloga que el año pasado atropelló...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025019-foto-contexto-nota-bbcl-2026-11-19t103357-358.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-19T13:35:01.000Z",
+   "visto": "2026-11-19T13:40:22.312Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/yasmani-acosta-posterga-retiro-biobio-2030.html",
    "titulo": "“No hay mejor escenario para decir adiós que en casa”: Yasmani Acosta confirma que buscará cerrar su carrera en los Odesur Biobío 2030",
@@ -1610,20 +1624,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/este-miercoles-se-anunciara-resultado-de-postulacion-del-bio-bio-como-sede-de-los-juegos-odesur-2030.shtml",
-   "titulo": "Este miércoles se anunciará resultado de postulación del Bío Bío como sede de Los Juegos Odesur 2030",
-   "resumen": "Este miércoles será anunciado el resultado de la postulación de la región del Bío Bío como sede de los Juegos...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022645-bio-bio-odesur.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T18:48:45.000Z",
-   "visto": "2026-11-17T18:50:23.831Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
