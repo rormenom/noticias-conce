@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T21:10:32.315Z",
+ "generado": "2026-11-19T21:20:20.351Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 58,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
@@ -177,6 +177,20 @@
    "visto": "2026-11-19T19:10:31.194Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/19/autoridades-coordinan-medidas-ante-fenomeno-delictivo-en-iglesias-de-lota/",
+   "titulo": "Autoridades coordinan medidas ante fenómeno delictivo en iglesias de Lota",
+   "resumen": "Junto con Carabineros.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/autoridades-comunodad-cristiana-lota--768x576.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-19T19:08:48.000Z",
+   "visto": "2026-11-19T21:20:20.351Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1595,20 +1609,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-18T13:20:27.989Z",
    "visto": "2026-11-18T13:20:27.989Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/compin-de-concepcion-suspende-atencion-presencial-este-miercoles-por-contingencia-operacional.shtml",
-   "titulo": "Compin de Concepción suspende atención presencial este miércoles por contingencia operacional",
-   "resumen": "Durante la jornada de este miércoles se suspendió la atención presencial en la oficina de la Comisión de Medicina...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023496-compin-de-concepcion-suspende-atencion-presencial-este-miercoles-por-contingencia-operacional.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-18T13:01:23.000Z",
-   "visto": "2026-11-18T13:10:22.583Z",
    "cats": [
     "regional"
    ],
