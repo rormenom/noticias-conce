@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T16:20:22.986Z",
+ "generado": "2026-11-19T16:30:26.266Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 60,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/con-mira-en-los-odesur-2030-la-joyita-de-talcahuano-logro-tricampeonato-nacional",
+   "titulo": "Con mira en los Odesur 2030: \"La Joyita\" de Talcahuano logró tricampeonato nacional",
+   "resumen": "Nueve regatas, nueve victorias. Con ese marcador perfecto, Carlos del Solar, capitán de La Joyita de Talcahuano, se quedó con el Campeonato Nacional de la clase J24, disputado en Algarrobo. Según se destacó en una conversación con el navegante, nadie había…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-18-at-7.36.35-AM.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T16:30:26.266Z",
+   "visto": "2026-11-19T16:30:26.266Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/comunas-del-biobio-avanzan-en-la-construccion-de-cortafuegos-para-proteger-viviendas-ante-incendios-forestales",
+   "titulo": "Comunas del Biobío avanzan en la construcción de cortafuegos para proteger viviendas ante incendios forestales",
+   "resumen": "En la provincia de Biobío, distintas comunas refuerzan las medidas preventivas frente a la temporada de incendios forestales. Los Ángeles, Mulchén y Cabrero figuran entre las zonas con superficies expuestas a un riesgo muy alto, mientras autoridades llaman a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Enero-28-Cortafuegos-Los-Angeles-e1795105763987.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T16:30:26.266Z",
+   "visto": "2026-11-19T16:30:26.266Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/subdere-asigna-7571-millones-municipios-biobio.html",
    "titulo": "Subdere asigna $7.571 millones a 23 municipios del Biobío para ejecutar 52 proyectos de infraestructura local",
@@ -1582,20 +1610,6 @@
     "regional",
     "cultura",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/comerciantes-ambulantes-protestan-en-municipalidad-de-concepcion-y-exigen-acelerar-proceso-de-formalizacion",
-   "titulo": "Comerciantes ambulantes protestan en Municipalidad de Concepción y exigen acelerar proceso de formalización",
-   "resumen": "Los manifestantes acusan falta de avances en un proyecto de regularización que impulsan desde octubre de 2025. En tanto, el alcalde Héctor Muñoz aseguró que la propuesta continúa en evaluación y descartó otorgar nuevos permisos provisorios hasta 2027. Un…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/protesta.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T20:10:22.199Z",
-   "visto": "2026-11-17T20:10:22.199Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
