@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T22:50:20.307Z",
+ "generado": "2026-11-19T23:39:19.156Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/detienen-a-3-funcionarias-activas-de-gendarmeria-y-2-civiles-en-indagatoria-por-asociacion-criminal",
+   "titulo": "Cinco detenidos, entre ellos tres funcionarias activas de Gendarmería, en investigación por asociación criminal",
+   "resumen": "Tres funcionarias en servicio de Gendarmería y dos personas civiles fueron arrestadas en una causa que investiga presuntos delitos de cohecho, lavado de activos y asociación criminal. Las detenciones se realizaron en las regiones Metropolitana y Bío Bío. En…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detienen-a-3-funcionarias-activas-de-gendarmeria-y-2-civiles-en-indagatoria-por-asociacion-criminal.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T23:39:19.156Z",
+   "visto": "2026-11-19T23:39:19.156Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/videos-marcha-de-estudiante-contra-recortes-termina-con-incidentes-en-concepcion",
    "titulo": "Videos: manifestación estudiantil contra los recortes termina con incidentes en Concepción",
@@ -1633,20 +1647,6 @@
    "titulo": "“Contingencia operacional”: Compin de Concepción suspende atención presencial este miércoles",
    "resumen": "Confusión y molestia generó entre los usuarios de Concepción el cierre temporal de las oficinas de la Comisión de Medicina Preventiva e Invalidez (Compin) durante la mañana de este miércoles. El recinto, ubicado en Barros Arana, amaneció con sus cortinas…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/COMPIN-e1795011477395.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T14:30:26.019Z",
-   "visto": "2026-11-18T14:30:26.019Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/camaras-captan-robo-de-tapas-de-alcantarilla-en-pleno-centro-de-concepcion-detectan-cerca-de-ocho-estructuras-faltantes",
-   "titulo": "VIDEO| Cámaras captan robo de tapas de alcantarilla en pleno centro de Concepción",
-   "resumen": "El robo de tapas de alcantarilla y cámaras de servicios mantiene en alerta al centro de Concepción. Registros de televigilancia evidenciaron la facilidad con que se sustraen estas estructuras, cuya ausencia representa un peligro para peatones y…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-18-at-11.09.46-AM-e1795011563315.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-18T14:30:26.019Z",
