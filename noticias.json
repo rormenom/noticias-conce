@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T19:50:20.816Z",
+ "generado": "2026-11-19T20:10:30.291Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 59,
+    "enlaces": 155,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/tribunales-familia-concepcion-368-mil-millones-pensiones-alimentos.html",
+   "titulo": "$368 mil millones en pagos por pensiones alimenticias: el balance de 4 años de “Ley Papito Corazón” en el Biobío",
+   "resumen": "Según información entregada por el Poder Judicial, los tribunales de Familia de la jurisdicción de la Corte de Apelaciones de Concepción han ordenado el pago de la suma de $368 mil millones en deudas por pensiones de alimentos",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-7-madre-e-hija-foto-raphael-850x500.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T20:10:30.291Z",
+   "visto": "2026-11-19T20:10:30.291Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/19/viaje-florianopolis-brasil-cancun-mexico.html",
    "titulo": "¿Playa en Brasil o México? Paquete a Florianópolis vs. paquetes a Cancún",
@@ -862,20 +876,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
-   "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
-   "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/escuela-de-verano-udec-2027-el-tiempo-como-punto-de-encuentro-entre-ciencias-artes-comunidad-universitaria.html",
    "titulo": "Escuela de Verano UdeC 2027: “El Tiempo” como punto de encuentro entre las ciencias, las artes y la comunidad universitaria",
    "resumen": "Entre el 11 y el 22 de enero, la edición número 72 de esta tradicional cita académica y cultural desplegará su programación en torno a este concepto en los tres campus de la Universidad de Concepción. Un congreso con la participación del Premio Nobel de…",
@@ -886,6 +886,20 @@
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
+   "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
+   "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
@@ -1611,20 +1625,6 @@
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/atenciones-sernapesca-pescadores-tirua.html",
-   "titulo": "Sernapesca realizará atenciones mensuales para pescadores de Tirúa",
-   "resumen": "Convenio con el municipio contempla jornadas mensuales para trabajadores de la pesca.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/firma-convenio-tirua1.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
