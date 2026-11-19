@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T17:40:21.965Z",
+ "generado": "2026-11-19T18:10:21.036Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 9,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -649,6 +649,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/los-ex-udec-seran-chile-en-el-mundial-de-maxibasket.html",
+   "titulo": "Los Ex UdeC serán Chile en el Mundial de Maxibasket",
+   "resumen": "Jorge Vásquez, base del equipo que clasificó en Puerto Montt, habló de esta campaña con los +40 que sacaron boleto para Fortaleza y esta nueva etapa que todos viven con alegría y nostalgia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Maxibasquetbol.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/mujeres-emprendedoras-biobio-desafios.html",
    "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
    "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
@@ -681,20 +695,6 @@
    "titulo": "Vial y una historia de ascensos: cinco recordados festejos y otro que debió ser",
    "resumen": "",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/ascenso-Fernandez-Vial-.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/los-ex-udec-seran-chile-en-el-mundial-de-maxibasket.html",
-   "titulo": "Los Ex UdeC serán Chile en el Mundial de Maxibasket",
-   "resumen": "Jorge Vásquez, base del equipo que clasificó en Puerto Montt, habló de esta campaña con los +40 que sacaron boleto para Fortaleza y esta nueva etapa que todos viven con alegría y nostalgia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Maxibasquetbol.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
