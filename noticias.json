@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T19:40:27.805Z",
+ "generado": "2026-11-19T19:50:20.816Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -403,6 +403,21 @@
    "visto": "2026-11-19T16:20:22.986Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/orquesta-sinfonica-udec-despide-la-temporada-2026-con-una-noche-de-gala/",
+   "titulo": "Orquesta Sinfónica UdeC despide la Temporada 2026 con una noche de gala",
+   "resumen": "Una temporada de grandes encuentros, destacados solistas, descubrimientos musicales y […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/IMG_5813-768x431.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-19T16:16:37.000Z",
+   "visto": "2026-11-16T16:20:35.186Z",
+   "cats": [
+    "cultura",
+    "regional"
    ],
    "local": true
   },
@@ -1698,20 +1713,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/rhantavirus-biobio-muertes-riesgo-contagio-factores-climaticos.html",
-   "titulo": "Región registra tres muertes por hantavirus y advierten mayor riesgo de contagio por factores climáticos",
-   "resumen": "Especialistas recomiendan reforzar las medidas de prevención ante la posibilidad de entrar en contacto con excreciones de roedores. Las abundantes lluvias y el aumento de la vegetación, como la quila, favorecen la disponibilidad de alimento para estos…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-hanta-virus-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/17/contraloria-detecta-315-funcionarios-del-estado-con-condenas-carabineros-y-ejercito-lideran-lista",
    "titulo": "La Contraloría identifica a 315 funcionarios condenados penalmente; Carabineros y el Ejército encabezan la nómina",
    "resumen": "La Contraloría General de la República identificó una situación preocupante: más de 300 personas que trabajan en el Estado tienen condenas vigentes. La mayor parte de ellas cumple funciones en el gobierno central. El hallazgo aparece en el nuevo Consolidado…",
@@ -2243,21 +2244,6 @@
     "regional",
     "cultura",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/orquesta-sinfonica-udec-despide-la-temporada-2026-con-una-noche-de-gala/",
-   "titulo": "Orquesta Sinfónica UdeC despide la Temporada 2026 con una noche de gala",
-   "resumen": "Una temporada de grandes encuentros, destacados solistas, descubrimientos musicales y […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/IMG_5813-768x431.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-16T16:16:37.000Z",
-   "visto": "2026-11-16T16:20:35.186Z",
-   "cats": [
-    "cultura",
-    "regional"
    ],
    "local": true
   },
