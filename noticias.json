@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T21:50:20.486Z",
+ "generado": "2026-11-19T22:20:20.233Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 152,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/cuando-el-problema-no-existe-debut-discografico-album-morder.html",
+   "titulo": "Cuando el Problema no Existe hace su debut discográfico con el álbum “Morder”",
+   "resumen": "La banda penquista cruza el midwest emo, el post-hardcore y el screamo en un trabajo grabado en Estudios del Sur, que además fue compuesto íntegramente por todos sus integrantes. Proyecto musical que será una de los invitados especiales al SurPop Festival…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-Ang%C3%A9lica-Liseth.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T22:20:20.233Z",
+   "visto": "2026-11-19T22:20:20.233Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/catalina-y-las-bordonas-de-oro-haran-su-debut-en-teatro-biobio.html",
    "titulo": "Catalina y Las Bordonas de Oro harán su debut en Teatro Biobío",
