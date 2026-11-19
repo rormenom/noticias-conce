@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T17:18:12.355Z",
+ "generado": "2026-11-19T17:20:21.792Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 58,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,27 +74,13 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/heladerias-gran-concepcion-sumarios-sanitarios.html",
-   "titulo": "Gran Concepción: capacitan a trabajadores de heladerías para evitar sumarios sanitarios",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-19-at-1.43.25-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T17:18:12.355Z",
-   "visto": "2026-11-19T17:18:12.355Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diaz-continuidad-deportes-concepcion.html",
    "titulo": "“Nano” Díaz: “Quedan 3 partidos y nadie ha hablado conmigo”",
@@ -106,6 +92,20 @@
    "visto": "2026-11-19T17:18:12.355Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/heladerias-gran-concepcion-sumarios-sanitarios.html",
+   "titulo": "Gran Concepción: capacitan a trabajadores de heladerías para evitar sumarios sanitarios",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-19-at-1.43.25-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T17:18:12.355Z",
+   "visto": "2026-11-19T17:18:12.355Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
