@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T17:20:21.792Z",
+ "generado": "2026-11-19T17:40:21.965Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 61,
+    "enlaces": 157,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/subsecretaria-ciencias-rossi-renuncia.html",
+   "titulo": "Subsecretaria de Ciencias, Carolina Rossi, presentó su renuncia al cargo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/7QL7BGQU5BDX3IEJDTQXWK45YI.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T17:40:21.965Z",
+   "visto": "2026-11-19T17:40:21.965Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diaz-continuidad-deportes-concepcion.html",
    "titulo": "“Nano” Díaz: “Quedan 3 partidos y nadie ha hablado conmigo”",
