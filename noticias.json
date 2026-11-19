@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T09:20:20.928Z",
+ "generado": "2026-11-19T09:30:25.420Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,35 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/municipio-san-pedro-de-la-paz-faltan-mas-de-60-carabineros-casi-un-32-de-la-dotacion-real",
+   "titulo": "Municipio San Pedro de la Paz: faltan más de 60 carabineros, casi un 32% de la dotación real",
+   "resumen": "A casi dos meses del anuncio del Plan Escudo de Barrio por parte del presidente José Antonio Kast y su presentación en el territorio por el ministro de Seguridad Pública, Martín Arrau, surgen dudas sobre su funcionamiento en el sector de Boca Sur, en San…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/joven-de-18-anos-es-asesinado-a-disparos-en-nacimiento-presunto-culpable-se-entrego-a-carabineros.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T09:30:25.420Z",
+   "visto": "2026-11-19T09:30:25.420Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/bono-de-recuperacion-en-bio-bio-mas-de-1-800-millones-de-pesos-para-hogares-afectados-por-lluvias",
+   "titulo": "Bono de Recuperación en Bío Bío: más de 1.800 millones de pesos para hogares afectados por lluvias",
+   "resumen": "El Bono de Recuperación, ayuda estatal de libre disposición entregada una sola vez a jefaturas de hogar con viviendas dañadas por sistemas frontales y con la ficha básica de emergencia aplicada, termina esta semana. Autoridades regionales entregaron el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/07/3-CONTEXTO-NEUTRO-WEB-CANAL9-FB-PUBLICADO-MROSALES-1200-1-3.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T09:30:25.420Z",
+   "visto": "2026-11-19T09:30:25.420Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/absuelven-a-conductora-por-atropello-de-un-joven-en-chiguayante-la-condenan-por-abandonar-el-lugar",
    "titulo": "Absuelven a conductora por atropello de un joven en Chiguayante: la condenan por abandonar el lugar",
@@ -1650,20 +1679,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/estamos-felices-de-cumplir-60-anos-inti-illimani-presenta-el-disco-caminos-en-concepcion",
-   "titulo": "\"Estamos felices de cumplir 60 años\": Inti- Illimani presenta el disco Caminos en Concepción",
-   "resumen": "El grupo Inti-Illimani llega al Teatro de la Universidad de Concepción el sábado 19 de diciembre, a las 20:00 horas, con la gira de lanzamiento de su disco Caminos. David Azán, músico, compositor y una de las voces de la agrupación, conversó sobre el nuevo…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/inti.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T16:50:21.601Z",
-   "visto": "2026-11-17T16:50:21.601Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
