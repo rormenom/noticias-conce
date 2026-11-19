@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T00:30:26.909Z",
+ "generado": "2026-11-19T01:00:29.843Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 154,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/odesur-otorga-a-la-region-del-biobio-la-sede-de-los-juegos-suramericanos-2030/",
+   "titulo": "ODESUR otorga a la Región del Biobío la sede de los Juegos Suramericanos 2030",
+   "resumen": "El Comité Ejecutivo de la Organización Deportiva Suramericana (ODESUR), reunido […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/92F8C76B-11EE-4B25-BEAF-BA0DB2428EE3-768x512.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-19T00:59:12.000Z",
+   "visto": "2026-11-19T01:00:29.843Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/premio-nobel-de-fisica-feria-del-libro-y-espectaculos-en-el-foro-escuela-de-verano-udec-2027-convoca-a-la-comunidad-con-amplia-cartelera-cultural/",
    "titulo": "Premio Nobel de Física, Feria del Libro y Espectáculos en el Foro: Escuela de Verano UdeC 2027 convoca a la comunidad con amplia cartelera cultural",
@@ -1610,20 +1624,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/despidos-biobio-aumento-2026.html",
-   "titulo": "Despidos en el Biobío: desvinculaciones formales aumentaron 20,2% durante 2026",
-   "resumen": "Manufactura, comercio y construcción enfrentan un escenario marcado por menor dinamismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-14-feria-laboral-foto-isidoro.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T15:00:00.000Z",
-   "visto": "2026-11-18T18:50:21.243Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
