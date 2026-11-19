@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T20:20:23.937Z",
+ "generado": "2026-11-19T20:30:33.707Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,9 +61,10 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 57,
-    "errores": 0,
-    "robots": 0
+    "leidas": 56,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/18/ya-es-oficial-mauricio-pochettino-llego-al-complejo-del-manchester-united-y-firmo-como-nuevo-dt.shtml)"
    }
   },
   {
@@ -74,13 +75,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/madre-denuncia-reiterados-episodios-de-bullying-contra-su-hijo-de-12-anos-en-escuela-de-puren-menor-presenta-ataques-de-panico",
+   "titulo": "Madre denuncia reiterados episodios de bullying contra su hijo de 12 años en escuela de Purén: menor presenta ataques de pánico",
+   "resumen": "La apoderada aseguró que su hijo ha sufrido agresiones físicas y psicológicas en el establecimiento educacional. Pese a presentar denuncias ante distintas instituciones, afirma que aún no recibe una solución. Actualmente, el estudiante permanece en su hogar…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Bullying-infantil.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T20:30:33.707Z",
+   "visto": "2026-11-19T20:30:33.707Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/escaladores-biobio-final-nacional-santiago.html",
    "titulo": "Semillero en altura: delegación infantil y juvenil del Biobío afina detalles para competir en la Final Nacional de Escalada",
@@ -1433,6 +1448,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
+   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
+   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T15:00:00.000Z",
+   "visto": "2026-11-19T20:30:33.707Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.radioudec.cl/fiesta-del-libro-regresa-a-concepcion-con-27-editoriales-y-una-programacion-gratuita-para-toda-la-familia/",
    "titulo": "Fiesta del Libro regresa a Concepción con 27 editoriales y una programación gratuita para toda la familia",
    "resumen": "Con una programación que busca acercar la creación literaria a […]",
@@ -1595,34 +1624,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-18T11:00:16.000Z",
    "visto": "2026-11-18T11:00:28.365Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/hualqui-instalara-en-enero-un-puente-de-contenedores-maritimos-que-cuesta-entre-150-y-200-millones",
-   "titulo": "Hualqui instalará en enero un puente de contenedores marítimos que cuesta entre $150 y $200 millones",
-   "resumen": "Un proyecto para construir puentes a partir de contenedores marítimos llegará a la comuna de Hualqui y permitirá reemplazar antiguos puentes de madera en mal estado. La idea surgió en el Magíster en Administración de la Construcción de la Universidad…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-18-a-las-6.24.08%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T09:25:53.935Z",
-   "visto": "2026-11-18T09:25:53.935Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/emplazan-a-de-grange-por-quinta-prorroga-en-licitacion-de-transporte-coronel-lota-debera-responder",
-   "titulo": "De Grange deberá explicar la quinta prórroga de la licitación del transporte entre Coronel y Lota",
-   "resumen": "La licitación del transporte público para Coronel y Lota fue prorrogada por quinta vez. El proyecto contempla incorporar buses eléctricos al recorrido. El alcalde de Coronel, Boris Chamorro, pidió explicaciones al ministro de Transportes, Louis de Grange. El…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-1-archiv-por-emplazan-a-de-grange-por-quinta-prorroga-en-licitacion-de-transporte-coronel-lota_-_debera-responder_.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T09:10:20.567Z",
-   "visto": "2026-11-18T09:10:20.567Z",
    "cats": [
     "regional"
    ],
