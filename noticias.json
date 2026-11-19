@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T01:00:29.843Z",
+ "generado": "2026-11-19T02:30:26.586Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/hombre-baleado-es-ingresado-de-urgencia-a-sar-en-hualpen-fue-estabilizado-y-se-nego-denunciar.shtml",
+   "titulo": "Hombre baleado es ingresado de urgencia a SAR en Hualpén: fue estabilizado y se negó denunciar",
+   "resumen": "La noche de este miércoles un hombre baleado fue ingresado de urgencia en un recinto asistencial de Hualpén, en...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7024636-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-19T02:27:01.000Z",
+   "visto": "2026-11-19T02:30:26.586Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/odesur-otorga-a-la-region-del-biobio-la-sede-de-los-juegos-suramericanos-2030/",
    "titulo": "ODESUR otorga a la Región del Biobío la sede de los Juegos Suramericanos 2030",
