@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T22:40:23.014Z",
+ "generado": "2026-11-19T00:00:32.171Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
+    "enlaces": 156,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -2313,20 +2313,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/13/colo-colo-gano-a-racing-en-amistoso-concepcion.shtml",
-   "titulo": "El ’Cacique’ celebró en Concepción: Colo Colo dominó a Racing y se impuso en duelo amistoso",
-   "resumen": "Colo Colo derrotó 2-1 a Racing de Argentina, en duelo amistoso jugado en el Estadio Ester Roa de Rebolledo de...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019143-colo-colo-gano-a-racing-en-amistoso-concepcion.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-13T23:59:07.000Z",
-   "visto": "2026-11-14T00:00:27.711Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
