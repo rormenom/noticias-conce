@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T16:40:21.683Z",
+ "generado": "2026-11-19T16:50:22.840Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 61,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 9,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/teorema-en-el-parque-ecuador-festival-son-del-biobio-prepara-una-gran-fiesta-musical",
+   "titulo": "¡Teorema en el Parque Ecuador! festival \"Son del Biobío\" prepara una gran fiesta musical",
+   "resumen": "La octava versión del festival Son del Biobío se realizará el sábado 21 de noviembre en el Parque Ecuador de Concepción. Su directora, Sofía Rosenkranz, conversó sobre la organización del evento y los cambios de esta edición. El encuentro coincide con otras…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/teorema.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T16:50:22.840Z",
+   "visto": "2026-11-19T16:50:22.840Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/19/sergio-giacaman-gobernado-bio-bio-juegos-odesur-2030.shtml",
+   "titulo": "Tres alternativas para Villa y comunas ya confirmadas como sede: así avanza Bío Bío para Odesur 2030",
+   "resumen": "Sergio Giacaman, gobernador de la región del Bío Bío, dio detalles de las obras que se realizarán para albergar los...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025205-sergio-giacaman-gobernado-bio-bio-juegos-odesur-2030.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-19T16:40:56.000Z",
+   "visto": "2026-11-19T16:50:22.840Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/11/19/tecnologia-desarrollada-en-el-bio-bio-logra-degradar-hasta-un-80-de-hidrocarburos-en-solo-24-horas.shtml",
    "titulo": "Tecnología desarrollada en el Bío Bío logra degradar hasta un 80% de hidrocarburos en solo 24 horas",
@@ -1592,20 +1621,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-17T20:30:24.443Z",
    "visto": "2026-11-17T20:30:24.443Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/descuidos-auto-aumentan-consumo-bencina.html",
-   "titulo": "Cinco descuidos en el auto que pueden aumentar hasta un 20% el gasto de bencina",
-   "resumen": "Neumáticos, filtros y bujías en mal estado pueden afectar el rendimiento del auto.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/5-descuidos-comunes-en-el-auto-que-hacen-gastar-hasta-un-20-m%C3%A1s-e1794946187328.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T20:20:30.039Z",
-   "visto": "2026-11-17T20:20:30.039Z",
    "cats": [
     "regional"
    ],
