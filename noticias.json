@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T02:40:20.616Z",
+ "generado": "2026-11-19T04:00:31.900Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -18,7 +18,8 @@
    "id": "radioudec",
    "nombre": "Radio UdeC",
    "url": "https://www.radioudec.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "This operation was aborted",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -60,7 +61,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 155,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -2296,21 +2297,6 @@
    "fecha": "2026-11-14T08:40:21.206Z",
    "visto": "2026-11-14T08:40:21.206Z",
    "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/14/camioneros-del-bio-bio-dicen-sentirse-traicionados-por-dirigentes-que-pactaron-acuerdo-con-gobierno",
-   "titulo": "Transportistas del Bío Bío acusan de “traición” a dirigentes que acordaron con el Gobierno",
-   "resumen": "Camioneros del Gran Concepción y la provincia de Arauco dijeron sentirse “traicionados” y disconformes con el pacto suscrito entre dirigentes del transporte y el Gobierno, tras el cual se puso fin a la paralización. Por otra parte, organizaciones de la pesca…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-1-cntxt-por-camioneros-del-bio-bio-dicen-sentirse-traicionados-por-dirigentes-que-pactaron-acuerdo-con-gobierno.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-14T04:00:28.526Z",
-   "visto": "2026-11-14T04:00:28.526Z",
-   "cats": [
-    "regional",
     "politica"
    ],
    "local": true
