@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T18:40:20.867Z",
+ "generado": "2026-11-19T18:50:22.023Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 158,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/19/pese-a-encabezar-repunte-lila-fernando-diaz-dejo-potente-senal-sobre-su-futuro-en-dep-concepcion.shtml",
+   "titulo": "Pese a encabezar repunte ’lila’: Fernando Díaz dejó potente señal sobre su futuro en Dep. Concepción",
+   "resumen": "El gran repunte de Deportes Concepción bajo la conducción de Fernando Díaz contrasta con la incertidumbre que rodea la continuidad...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025572-concepcion-fernando-diaz-renovacion.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-19T18:45:59.000Z",
+   "visto": "2026-11-19T18:50:22.023Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/presupuesto-2027-educacion-acuerdos.html",
    "titulo": "“Yo Elijo Mi PC” y Aporte Fiscal Directo: las claves del Presupuesto 2027 en Educación",
@@ -2527,20 +2541,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-15T08:40:23.242Z",
    "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/14/diputada-betancurt-busca-endurecer-sanciones-por-vender-cigarrillos-y-vapeadores-a-menores-de-edad.shtml",
-   "titulo": "Diputada Betancurt busca endurecer sanciones por vender cigarrillos y vapeadores a menores de edad",
-   "resumen": "La diputada Lilian Betancurt (PDG), representante del Distrito 21 de la región del Biobío, presentó un proyecto de ley que...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019510-vap-1200x633.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-14T18:49:02.000Z",
-   "visto": "2026-11-14T18:50:20.735Z",
    "cats": [
     "politica"
    ],
