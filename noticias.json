@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T14:10:21.390Z",
+ "generado": "2026-11-19T14:20:25.639Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
+    "enlaces": 159,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
+    "enlaces": 32,
     "leidas": 9,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/los-angeles-pdi-detiene-a-profugo-acusado-de-homicidio-frustrado",
+   "titulo": "Los Ángeles: PDI detiene a prófugo acusado de homicidio frustrado",
+   "resumen": "El imputado, quien cuenta con una condena previa por tráfico ilícito de drogas, era buscado por su presunta participación en un ataque armado que dejó a una víctima con un impacto balístico en la cabeza. Detectives de la Brigada de Homicidios de la Policía de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/pdi-detenidos-banda-e1795097497594.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T14:20:25.639Z",
+   "visto": "2026-11-19T14:20:25.639Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/si-vives-en-una-de-estas-21-comunas-postula-a-un-aire-acondicionado-desde-los-20-mil-pesos",
    "titulo": "Habitantes de 21 comunas,10 del Gran Concepción, pueden postular a un aire acondicionado desde $20 mil pesos",
@@ -1608,20 +1622,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-17T19:20:20.402Z",
    "visto": "2026-11-17T19:20:20.402Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/cuartel-de-la-quinta-compania-supera-el-80-de-avance-en-nuble/",
-   "titulo": "Cuartel de la Quinta Compañía supera el 80% de avance en Ñuble",
-   "resumen": "Se encamina a ser la primera obra ejecutada directamente por un Gobierno Regional en Chile",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/avance-5ta-compañia-ñuble--768x512.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-17T19:13:14.000Z",
-   "visto": "2026-11-17T22:20:22.465Z",
    "cats": [
     "regional"
    ],
