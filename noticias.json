@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T00:00:32.171Z",
+ "generado": "2026-11-19T00:30:26.909Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
+    "enlaces": 155,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -793,10 +793,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
-   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
-   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/atenciones-sernapesca-pescadores-tirua.html",
+   "titulo": "Sernapesca realizará atenciones mensuales para pescadores de Tirúa",
+   "resumen": "Convenio con el municipio contempla jornadas mensuales para trabajadores de la pesca.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/firma-convenio-tirua1.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
@@ -807,10 +807,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/atenciones-sernapesca-pescadores-tirua.html",
-   "titulo": "Sernapesca realizará atenciones mensuales para pescadores de Tirúa",
-   "resumen": "Convenio con el municipio contempla jornadas mensuales para trabajadores de la pesca.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/firma-convenio-tirua1.jpg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
+   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
+   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
@@ -835,20 +835,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/18/orquesta-sinfonica-udec-despide-temporada-2026-concierto-hacia-el-nuevo-horizonte.html",
-   "titulo": "Orquesta Sinfónica UdeC despide temporada 2026 con concierto “Hacia el nuevo horizonte”",
-   "resumen": "Del lirismo del violín de Max Bruch a los paisajes sonoros de la Roma de Respighi, la agrupación clásica penquista propone un recorrido musical de gran riqueza expresiva para este concierto final. Jornada cuya batuta estará a cargo del maestro Luis Toro Araya…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Corcudec.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/18/fiesta-del-libro-desplegara-tercera-version-27-editoriales-miscelanea-programacion-gratuita.html",
    "titulo": "Fiesta del Libro desplegará tercera versión con 27 editoriales y miscelánea programación gratuita",
    "resumen": "",
@@ -863,10 +849,24 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/elige-educar-docencia-udec.html",
-   "titulo": "Elige educar: la importancia de la docencia en el desarrollo de la región y el país",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_5151-copia.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/18/orquesta-sinfonica-udec-despide-temporada-2026-concierto-hacia-el-nuevo-horizonte.html",
+   "titulo": "Orquesta Sinfónica UdeC despide temporada 2026 con concierto “Hacia el nuevo horizonte”",
+   "resumen": "Del lirismo del violín de Max Bruch a los paisajes sonoros de la Roma de Respighi, la agrupación clásica penquista propone un recorrido musical de gran riqueza expresiva para este concierto final. Jornada cuya batuta estará a cargo del maestro Luis Toro Araya…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Corcudec.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/especialistas-conferencia-internacional-srs.html",
+   "titulo": "Más de 240 especialistas participan en primera conferencia internacional dedicada al SRS",
+   "resumen": "Con una convocatoria de 240 asistentes, comenzó en Puerto Varas, la Primera Conferencia Internacional sobre el Síndrome Rickettsial del Salmón, SRS 2026. El evento organizado por el Centro Incar², es pionero al ser el primero a nivel global en abordar de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-primera-conferencia-internacional-dedicada-al-SRS-foto-Centro-Incar%C2%B2.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
@@ -877,10 +877,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/especialistas-conferencia-internacional-srs.html",
-   "titulo": "Más de 240 especialistas participan en primera conferencia internacional dedicada al SRS",
-   "resumen": "Con una convocatoria de 240 asistentes, comenzó en Puerto Varas, la Primera Conferencia Internacional sobre el Síndrome Rickettsial del Salmón, SRS 2026. El evento organizado por el Centro Incar², es pionero al ser el primero a nivel global en abordar de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-primera-conferencia-internacional-dedicada-al-SRS-foto-Centro-Incar%C2%B2.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/elige-educar-docencia-udec.html",
+   "titulo": "Elige educar: la importancia de la docencia en el desarrollo de la región y el país",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_5151-copia.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
