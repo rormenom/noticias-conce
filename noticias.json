@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T14:20:25.639Z",
+ "generado": "2026-11-19T14:30:28.140Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 32,
-    "leidas": 9,
+    "enlaces": 33,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/hasta-cuando-llueve-concepcion-pronostico.html",
+   "titulo": "¿Hasta cuándo llueve en Concepción? Revisa el pronóstico del tiempo para el fin de semana y cuándo vuelve el sol",
+   "resumen": "Tras una primavera marcada por precipitaciones inesperadas, revisamos los pronósticos de la DMC, Meteored y AccuWeather para lo que resta de la semana en la capital penquista.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/lluvia-sistema-frontal-precipitaciones-concepcion-e1795098049704.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T14:30:28.140Z",
+   "visto": "2026-11-19T14:30:28.140Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/los-angeles-pdi-detiene-a-profugo-acusado-de-homicidio-frustrado",
    "titulo": "Los Ángeles: PDI detiene a prófugo acusado de homicidio frustrado",
@@ -296,20 +310,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/gran-concepcion-retroceso-ranking-global-desafios-urbanos.html",
-   "titulo": "Expansión urbana, presión inmobiliaria y obras pendientes apremian al Gran Concepción",
-   "resumen": "A propósito de los resultados del Índice Global de Ciudades de Oxford Economics, académicos advierten sobre un crecimiento que presiona zonas naturales y enfrenta una planificación metropolitana desactualizada, mientras apuntan a la necesidad de concretar…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-obra-abandonada-en-Plaza-Peru-foto-carolina-e1795034241571.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/biobio-municipios-funcionarios-publicos-condenados.html",
    "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
    "resumen": "El listado también incluye los servicios de Salud Arauco y Concepción, además del SLEP Andalién Sur. Con 12 instituciones en total, el Biobío se ubica tercero a nivel nacional.",
@@ -324,17 +324,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/corma-inaugura-expocorma-2026-coronel-biobio.html",
-   "titulo": "Con foco en innovación y prevención de incendios, inauguran ExpoCorma 2026",
-   "resumen": "La XXIII versión del principal encuentro forestal del país reúne a 160 expositores hasta el viernes 20 de noviembre.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-inauguracion-Expo-Corma-2026-foto-carolina.jpg-1.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/gran-concepcion-retroceso-ranking-global-desafios-urbanos.html",
+   "titulo": "Expansión urbana, presión inmobiliaria y obras pendientes apremian al Gran Concepción",
+   "resumen": "A propósito de los resultados del Índice Global de Ciudades de Oxford Economics, académicos advierten sobre un crecimiento que presiona zonas naturales y enfrenta una planificación metropolitana desactualizada, mientras apuntan a la necesidad de concretar…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-obra-abandonada-en-Plaza-Peru-foto-carolina-e1795034241571.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
-    "regional",
-    "tecnologia"
+    "regional"
    ],
    "local": true
   },
@@ -362,6 +361,21 @@
    "fecha": "2026-11-19T08:40:23.244Z",
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/corma-inaugura-expocorma-2026-coronel-biobio.html",
+   "titulo": "Con foco en innovación y prevención de incendios, inauguran ExpoCorma 2026",
+   "resumen": "La XXIII versión del principal encuentro forestal del país reúne a 160 expositores hasta el viernes 20 de noviembre.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-inauguracion-Expo-Corma-2026-foto-carolina.jpg-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "regional",
     "tecnologia"
    ],
    "local": true
@@ -1604,20 +1618,6 @@
    "titulo": "Autoridades de Antuco solicitan mayor fiscalización de lanchas en Laguna del Laja por riesgos ambientales y pesca ilegal",
    "resumen": "Desde el municipio de Antuco plantearon la necesidad de contar con una Capitanía de Puerto que permita reforzar el control de embarcaciones motorizadas en la Laguna del Laja. Advierten posibles daños al ecosistema y cuestionan que las fiscalizaciones se…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/HXQnCrcWEAAWr88-e1794942480913.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T19:20:20.402Z",
-   "visto": "2026-11-17T19:20:20.402Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/carabineros-recupera-camion-robado-de-mercado-libre-avaluado-en-20-millones-dos-detenidos",
-   "titulo": "Carabineros recupera camión robado de Mercado Libre avaluado en $20 millones: dos detenidos",
-   "resumen": "Un hombre de 43 años y un adolescente de 16 fueron detenidos tras ser sorprendidos descargando encomiendas desde un camión robado en San Pedro de la Paz. El vehículo y su carga, avaluados en cerca de $20 millones, fueron recuperados por Carabineros. Un…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-17-at-2.11.56-PM-e1794943167551.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-17T19:20:20.402Z",
