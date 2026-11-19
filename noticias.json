@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T02:30:26.586Z",
+ "generado": "2026-11-19T02:40:20.616Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -2309,21 +2309,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-14T04:00:28.526Z",
    "visto": "2026-11-14T04:00:28.526Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/13/camioneros-del-bio-bio-dicen-sentirse-traicionados-por-dirigentes-que-pactaron-acuerdo-con-gobierno.shtml",
-   "titulo": "Camioneros del Bío Bío dicen sentirse \"traicionados\" por dirigentes que pactaron acuerdo con Gobierno",
-   "resumen": "Camioneros del Gran Concepción y provincia de Arauco se manifestaron sentirse “traicionados” e insatisfechos con el acuerdo firmado entre...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7019218-a-1-cntxt-por-camioneros-del-bio-bio-dicen-sentirse-traicionados-por-dirigentes-que-pactaron-acuerdo-con-gobierno.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-14T02:40:43.000Z",
-   "visto": "2026-11-14T02:50:18.712Z",
    "cats": [
     "regional",
     "politica"
