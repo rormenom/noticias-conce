@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T20:40:24.519Z",
+ "generado": "2026-11-19T20:50:25.338Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/corte-suprema-aplaza-revision-de-recursos-de-nulidad-por-atentado-al-molino-grollmus-defensas-buscan-repetir-el-juicio",
+   "titulo": "Corte Suprema aplaza revisión de recursos de nulidad por atentado al Molino Grollmus: defensas buscan repetir el juicio",
+   "resumen": "La audiencia programada para este jueves fue suspendida luego de que una de las defensas recusara a un abogado integrante de la Corte Suprema. Mientras los representantes de 14 condenados cuestionan el uso de testigos protegidos y solicitan un nuevo juicio,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/file_20260901140318.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T20:50:25.338Z",
+   "visto": "2026-11-19T20:50:25.338Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/madre-denuncia-reiterados-episodios-de-bullying-contra-su-hijo-de-12-anos-en-escuela-de-puren-menor-presenta-ataques-de-panico",
    "titulo": "Madre denuncia reiterados episodios de bullying contra su hijo de 12 años en escuela de Purén: menor presenta ataques de pánico",
@@ -1609,20 +1623,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T12:20:21.274Z",
    "visto": "2026-11-18T12:20:21.274Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/instalaran-en-hualqui-puente-sustentable-que-sera-construido-utilizando-contenedores-maritimos.shtml",
-   "titulo": "Instalarán en Hualqui puente sustentable que será construido utilizando contenedores marítimos",
-   "resumen": "La construcción de puentes a partir de contenedores marítimos es el proyecto que llegará a la comuna y que permitirá reemplazar los antiguos puentes de madera que están en mal estado.",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023319-puente-sustentable-hualqui.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-18T11:00:16.000Z",
-   "visto": "2026-11-18T11:00:28.365Z",
    "cats": [
     "regional"
    ],
