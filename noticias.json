@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T06:50:23.189Z",
+ "generado": "2026-11-19T08:40:23.244Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 57,
+    "enlaces": 154,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,154 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/biobio-municipios-funcionarios-publicos-condenados.html",
+   "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
+   "resumen": "El listado también incluye los servicios de Salud Arauco y Concepción, además del SLEP Andalién Sur. Con 12 instituciones en total, el Biobío se ubica tercero a nivel nacional.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-contraloria-region.biobio.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/escuela-de-verano-udec-2027-el-tiempo-como-punto-de-encuentro-entre-ciencias-artes-comunidad-universitaria.html",
+   "titulo": "Escuela de Verano UdeC 2027: “El Tiempo” como punto de encuentro entre las ciencias, las artes y la comunidad universitaria",
+   "resumen": "Entre el 11 y el 22 de enero, la edición número 72 de esta tradicional cita académica y cultural desplegará su programación en torno a este concepto en los tres campus de la Universidad de Concepción. Un congreso con la participación del Premio Nobel de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-nota-Mauricio-Maldonado.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/corma-inaugura-expocorma-2026-coronel-biobio.html",
+   "titulo": "Con foco en innovación y prevención de incendios, inauguran ExpoCorma 2026",
+   "resumen": "La XXIII versión del principal encuentro forestal del país reúne a 160 expositores hasta el viernes 20 de noviembre.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-inauguracion-Expo-Corma-2026-foto-carolina.jpg-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "regional",
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/sumario-hualqui-protocolos-almacenamiento-farmacos-biobio.html",
+   "titulo": "Tras sumario en Hualqui: municipios del Gran Concepción detallan protocolos de almacenamiento de fármacos",
+   "resumen": "Concepción, Chiguayante y Talcahuano aseguran contar con droguerías comunales y procedimientos ajustados a la normativa sanitaria.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-18-at-18.39.07.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
+   "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
+   "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/mujeres-emprendedoras-biobio-desafios.html",
+   "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
+   "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261118-WA3056.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/gran-concepcion-retroceso-ranking-global-desafios-urbanos.html",
+   "titulo": "Expansión urbana, presión inmobiliaria y obras pendientes apremian al Gran Concepción",
+   "resumen": "A propósito de los resultados del Índice Global de Ciudades de Oxford Economics, académicos advierten sobre un crecimiento que presiona zonas naturales y enfrenta una planificación metropolitana desactualizada, mientras apuntan a la necesidad de concretar…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-obra-abandonada-en-Plaza-Peru-foto-carolina-e1795034241571.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/vial-y-una-historia-de-ascensos-cinco-recordados-festejos-y-otro-que-debio-ser.html",
+   "titulo": "Vial y una historia de ascensos: cinco recordados festejos y otro que debió ser",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ascenso-Fernandez-Vial-.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/los-ex-udec-seran-chile-en-el-mundial-de-maxibasket.html",
+   "titulo": "Los Ex UdeC serán Chile en el Mundial de Maxibasket",
+   "resumen": "Jorge Vásquez, base del equipo que clasificó en Puerto Montt, habló de esta campaña con los +40 que sacaron boleto para Fortaleza y esta nueva etapa que todos viven con alegría y nostalgia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Maxibasquetbol.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/cicat-udec-curioteca-primeras-infancias-biobio.html",
+   "titulo": "Cicat UdeC abre Curioteca: un espacio dedicado a las primeras infancias del Biobío",
+   "resumen": "Es el primer espacio del recinto pensado especialmente a niños y niñas de 2 a 6 años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/BREVE.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/hombre-baleado-es-ingresado-de-urgencia-a-sar-en-hualpen-fue-estabilizado-y-se-nego-denunciar.shtml",
    "titulo": "Hombre baleado es ingresado de urgencia a SAR en Hualpén: fue estabilizado y se negó denunciar",
@@ -779,30 +920,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/rhantavirus-biobio-muertes-riesgo-contagio-factores-climaticos.html",
-   "titulo": "Región registra tres muertes por hantavirus y advierten mayor riesgo de contagio por factores climáticos",
-   "resumen": "Especialistas recomiendan reforzar las medidas de prevención ante la posibilidad de entrar en contacto con excreciones de roedores. Las abundantes lluvias y el aumento de la vegetación, como la quila, favorecen la disponibilidad de alimento para estos…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-hanta-virus-foto-carolina.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
+   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
+   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/araya-y-bravo-entre-los-arqueros-con-mejores-numeros-en-primera.html",
-   "titulo": "Araya y Bravo entre los arqueros con mejores números en Primera",
-   "resumen": "Defienden a D. Concepción y Huachipato y este domingo medirán fuerzas en el CAP con el sexto puesto y la Sudamericana como objetivo. Dos goleros jóvenes que han hecho una gran temporada.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-4-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   },
@@ -835,24 +962,24 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
-   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
-   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/golf-con-viento-lluvia-y-cerca-de-80-jugadores-en-bellavista.html",
+   "titulo": "Golf con viento, lluvia y cerca de 80 jugadores en Bellavista",
+   "resumen": "El XIII Abierto del Club tuvo a Alexis Quiroz, Pablo Viterbo y Natalia Muñoz como grandes ganadores. Fueron 3 días de competencia reuniendo a 14 equipos de distintas partes del país.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/abierto-XII-golf-foto.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
-    "regional"
+    "deportes"
    ],
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/golf-con-viento-lluvia-y-cerca-de-80-jugadores-en-bellavista.html",
-   "titulo": "Golf con viento, lluvia y cerca de 80 jugadores en Bellavista",
-   "resumen": "El XIII Abierto del Club tuvo a Alexis Quiroz, Pablo Viterbo y Natalia Muñoz como grandes ganadores. Fueron 3 días de competencia reuniendo a 14 equipos de distintas partes del país.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/abierto-XII-golf-foto.jpeg",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/araya-y-bravo-entre-los-arqueros-con-mejores-numeros-en-primera.html",
+   "titulo": "Araya y Bravo entre los arqueros con mejores números en Primera",
+   "resumen": "Defienden a D. Concepción y Huachipato y este domingo medirán fuerzas en el CAP con el sexto puesto y la Sudamericana como objetivo. Dos goleros jóvenes que han hecho una gran temporada.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-4-1.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
@@ -891,6 +1018,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/elige-educar-docencia-udec.html",
+   "titulo": "Elige educar: la importancia de la docencia en el desarrollo de la región y el país",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_5151-copia.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/especialistas-conferencia-internacional-srs.html",
    "titulo": "Más de 240 especialistas participan en primera conferencia internacional dedicada al SRS",
    "resumen": "Con una convocatoria de 240 asistentes, comenzó en Puerto Varas, la Primera Conferencia Internacional sobre el Síndrome Rickettsial del Salmón, SRS 2026. El evento organizado por el Centro Incar², es pionero al ser el primero a nivel global en abordar de…",
@@ -905,16 +1046,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/elige-educar-docencia-udec.html",
-   "titulo": "Elige educar: la importancia de la docencia en el desarrollo de la región y el país",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_5151-copia.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/rhantavirus-biobio-muertes-riesgo-contagio-factores-climaticos.html",
+   "titulo": "Región registra tres muertes por hantavirus y advierten mayor riesgo de contagio por factores climáticos",
+   "resumen": "Especialistas recomiendan reforzar las medidas de prevención ante la posibilidad de entrar en contacto con excreciones de roedores. Las abundantes lluvias y el aumento de la vegetación, como la quila, favorecen la disponibilidad de alimento para estos…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-hanta-virus-foto-carolina.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
-    "tecnologia"
+    "regional"
    ],
    "local": true
   },
@@ -1542,20 +1683,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/17/operativo-memorial-27f-rucos.html",
-   "titulo": "Concepción: retiran cinco rucos en operativo en Memorial 27F",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/dji_fly_20261117_095814_212_1794920753050_photo.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T16:00:30.032Z",
-   "visto": "2026-11-17T16:00:30.032Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/banda-planeta-no-presentara-un-abrazo-templo-crapula.html",
    "titulo": "Banda Planeta No presentará “Un Abrazo” en Templo Crápula",
    "resumen": "Como parte de su gira nacional de presentación de este nuevo y segundo álbum, el trío de indie pop se presentará este 19 de noviembre - 21.00 horas- en esta sala de conciertos penquista ubicada en Caupolicán 1661. Entradas vía PortalTickets.",
@@ -1580,34 +1707,6 @@
    "visto": "2026-11-17T15:50:22.100Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/detienen-a-hombre-con-mas-de-10-causas-tras-violento-asalto-a-conductora-de-aplicacion-en-los-angeles.shtml",
-   "titulo": "Detienen a hombre con más de 10 causas tras violento asalto a conductora de aplicación en Los Ángeles",
-   "resumen": "Un hombre con más de diez causas penales en su contra fue detenido por Carabineros tras protagonizar un violento asalto...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022334-detenido-contexto-1.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T15:37:01.000Z",
-   "visto": "2026-11-17T15:40:20.872Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/programa-quiero-mi-barrio-cumple-20-anos-en-la-region-del-biobio-han-beneficiado-a-mas-de-220-mil-vecinos",
-   "titulo": "Programa \"Quiero Mi Barrio\" cumple 20 años: En la región del Biobío han beneficiado a más de 220 mil vecinos",
-   "resumen": "Desde su inicio en 2006, el Programa de Recuperación de Barrios ha intervenido un total de 97 barrios en la Región del Biobío, de los cuales 65 han finalizados y 32 continúan en ejecución, con una inversión total de $88.766.718.448.",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/quiero-mi-barrio.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T15:30:27.278Z",
-   "visto": "2026-11-17T15:30:27.278Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1714,20 +1813,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/alejandro-reyes-nuevo-director-de-la-caj-biobio-las-gestiones-dificilmente-se-van-a-hacer-mejor-con-menos-gente.html",
-   "titulo": "Alejandro Reyes, nuevo director de la CAJ Biobío: Las gestiones “difícilmente se van a hacer mejor con menos gente”",
-   "resumen": "\"Estamos frente no solo a un cambio de paradigma, sino que estamos ante una institución que es clave en la vida de las personas\", Alejandro Reyes Schwarz, director general CAJ Biobío.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-1-2.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/princesa-alba-rec-malagradecida.html",
    "titulo": "“Me encantaría mostrar este show en el REC”: Princesa Alba y su nueva era con “Malagradecida”",
    "resumen": "En conversación con Diario Concepción, la artista pop repasó el proceso de su nuevo disco y abordó su relación con tierras penquistas, una de las comunas en las que cuenta con mayor cantidad de oyentes.",
@@ -1738,6 +1823,20 @@
    "visto": "2026-11-17T08:40:20.947Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/alejandro-reyes-nuevo-director-de-la-caj-biobio-las-gestiones-dificilmente-se-van-a-hacer-mejor-con-menos-gente.html",
+   "titulo": "Alejandro Reyes, nuevo director de la CAJ Biobío: Las gestiones “difícilmente se van a hacer mejor con menos gente”",
+   "resumen": "\"Estamos frente no solo a un cambio de paradigma, sino que estamos ante una institución que es clave en la vida de las personas\", Alejandro Reyes Schwarz, director general CAJ Biobío.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-1-2.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-17T08:40:20.947Z",
+   "visto": "2026-11-17T08:40:20.947Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1974,20 +2073,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/fernandez-vial-no-se-confia-hay-que-enfrentar-la-vuelta-como-si-fueramos-0-0.html",
-   "titulo": "Fernández Vial no se confía: “Hay que enfrentar la vuelta como si fuéramos 0-0”",
-   "resumen": "Jeremy Olivares, una de las figuras e improvisado zaguero aurinegro, analizó el 2-1 en la ida ante Puente Alto y lo que viene. Cree que después de Monte Águila y Mejillones están listos para cualquier \"infierno\".",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fern%C3%A1ndez-vial-CD.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T08:40:19.470Z",
-   "visto": "2026-11-16T08:40:19.470Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/16/feria-de-reduccion-de-riesgos-de-desastres-invito-a-la-comunidad-a-reflexionar-sobre-prevencion-de-emergencias.html",
    "titulo": "Feria de Reducción de Riesgos de Desastres invitó a la comunidad a reflexionar sobre prevención de emergencias",
    "resumen": "La tercera versión de la feria reunió a organismos públicos, privados y de respuesta ante emergencias. La jornada también permitió conocer las medidas que la Universidad implementa en el Campus Concepción para prevenir incendios forestales.",
@@ -1998,6 +2083,20 @@
    "visto": "2026-11-16T08:40:19.470Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/fernandez-vial-no-se-confia-hay-que-enfrentar-la-vuelta-como-si-fueramos-0-0.html",
+   "titulo": "Fernández Vial no se confía: “Hay que enfrentar la vuelta como si fuéramos 0-0”",
+   "resumen": "Jeremy Olivares, una de las figuras e improvisado zaguero aurinegro, analizó el 2-1 en la ida ante Puente Alto y lo que viene. Cree que después de Monte Águila y Mejillones están listos para cualquier \"infierno\".",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fern%C3%A1ndez-vial-CD.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-16T08:40:19.470Z",
+   "visto": "2026-11-16T08:40:19.470Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -2255,48 +2354,6 @@
    "visto": "2026-11-15T00:30:24.079Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/14/catedra-gonzalo-rojas-inaugura-nuevo-espacio-encuentro-poetico-primera-edicion-cicatrices.html",
-   "titulo": "Cátedra Gonzalo Rojas inaugura nuevo espacio de encuentro poético con la primera edición de “Cicatrices”",
-   "resumen": "La iniciativa impulsada por la poeta residente 2026-2027, la argentina Consuelo Iturraspe, junto con un equipo multidisciplinario UdeC, reunió a siete autores de la Región y dos invitadas trasandinas. La propuesta busca proyectarse en el tiempo y abrir nuevas…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T08:40:21.206Z",
-   "visto": "2026-11-14T08:40:21.206Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/14/diabetes-al-alza-y-cada-vez-mas-precoz-promover-habitos-sanos-para-prevenir-es-un-reto-vital.html",
-   "titulo": "Diabetes al alza y cada vez más precoz: promover hábitos sanos para prevenir es un reto vital",
-   "resumen": "Casi 1,9 millones de adultos en Chile tiene diabetes, sobre todo tipo 2, que se asocia al exceso de peso y estilos nocivos que prevalecen desde edades jóvenes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-diabetes-foot-cc-e1794623667629.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T08:40:21.206Z",
-   "visto": "2026-11-14T08:40:21.206Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/14/camioneros-paro-acuerdo-alusiones-octubrismo.html",
-   "titulo": "Tras acuerdo con camioneros: transportistas descolgados del pacto rechazan alusiones al octubrismo",
-   "resumen": "El Ejecutivo endureció el tono hacia quienes persisten en el paro y comparó sus acciones con las del estallido social. Dirigentes del Biobío cuestionaron el trato y aseguraron que sus movilizaciones no responden a intereses políticos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-e1794623555112.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T08:40:21.206Z",
-   "visto": "2026-11-14T08:40:21.206Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
