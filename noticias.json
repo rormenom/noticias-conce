@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T19:30:25.559Z",
+ "generado": "2026-11-19T19:40:27.805Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
+    "enlaces": 157,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -762,20 +762,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/los-ex-udec-seran-chile-en-el-mundial-de-maxibasket.html",
-   "titulo": "Los Ex UdeC serán Chile en el Mundial de Maxibasket",
-   "resumen": "Jorge Vásquez, base del equipo que clasificó en Puerto Montt, habló de esta campaña con los +40 que sacaron boleto para Fortaleza y esta nueva etapa que todos viven con alegría y nostalgia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Maxibasquetbol.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/corma-inaugura-expocorma-2026-coronel-biobio.html",
    "titulo": "Con foco en innovación y prevención de incendios, inauguran ExpoCorma 2026",
    "resumen": "La XXIII versión del principal encuentro forestal del país reúne a 160 expositores hasta el viernes 20 de noviembre.",
@@ -787,6 +773,20 @@
    "cats": [
     "regional",
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/los-ex-udec-seran-chile-en-el-mundial-de-maxibasket.html",
+   "titulo": "Los Ex UdeC serán Chile en el Mundial de Maxibasket",
+   "resumen": "Jorge Vásquez, base del equipo que clasificó en Puerto Montt, habló de esta campaña con los +40 que sacaron boleto para Fortaleza y esta nueva etapa que todos viven con alegría y nostalgia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Maxibasquetbol.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
