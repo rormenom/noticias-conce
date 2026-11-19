@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T15:20:32.420Z",
+ "generado": "2026-11-19T15:30:30.162Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,10 +61,9 @@
    "diag": {
     "paginas": 4,
     "enlaces": 158,
-    "leidas": 60,
-    "errores": 1,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/18/detienen-a-exseleccionada-de-brasil-gabi-morais-vinculan-con-narcotrafico.shtml)"
+    "leidas": 61,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -82,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/carriel-sur-proyecta-duplicar-su-capacidad-de-pasajeros-y-habilitar-zona-de-carga-inicia-estudio-para-su-ampliacion",
+   "titulo": "Carriel Sur proyecta duplicar su capacidad de pasajeros y habilitar zona de carga: inicia estudio para su ampliación",
+   "resumen": "El Ministerio de Obras Públicas inició los estudios para modernizar el aeropuerto de Talcahuano, con una inversión superior a los $1.245 millones. El proyecto busca ampliar el terminal, fortalecer el transporte aéreo de carga y preparar la infraestructura…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/IMG_9401-scaled-1-e1795102073508.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T15:30:30.162Z",
+   "visto": "2026-11-19T15:30:30.162Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/a-casi-dos-meses-del-anuncio-san-pedro-de-la-paz-aun-espera-189-millones-del-plan-escudo-de-barrio",
    "titulo": "San Pedro de la Paz sigue a la espera de $189 millones del Plan Escudo de Barrio, a casi dos meses del anuncio",
@@ -1567,20 +1580,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-17T20:10:22.199Z",
    "visto": "2026-11-17T20:10:22.199Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/corte-suprema-confirma-que-municipalidad-de-concepcion-despidio-a-funcionaria-por-razones-politicas",
-   "titulo": "Corte Suprema confirma que Municipalidad de Concepción despidió a funcionaria por razones políticas",
-   "resumen": "La Corte Suprema desestimó la presentación de la Municipalidad de Concepción, que buscaba dejar sin efecto la sentencia que calificó como discriminatorio por motivos políticos el despido de una funcionaria durante la actual gestión del alcalde del Partido…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/municipalidad-concepcion-paro.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T20:00:29.040Z",
-   "visto": "2026-11-17T20:00:29.040Z",
    "cats": [
     "regional"
    ],
