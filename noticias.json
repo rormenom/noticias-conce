@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T18:50:22.023Z",
+ "generado": "2026-11-19T19:00:30.269Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 158,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/cge-apelacion-corte-suprema-multa-medidores-sec.html",
+   "titulo": "CGE confirmó apelación ante la Corte Suprema por sanción vinculada a medidores",
+   "resumen": "La causa se relaciona con planes de mantenimiento y el reemplazo de equipos de medición eléctrica. Según la compañía, cerca de 5 mil clientes tuvieron cambios de medidores.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/medidores.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T19:00:30.269Z",
+   "visto": "2026-11-19T19:00:30.269Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/19/pese-a-encabezar-repunte-lila-fernando-diaz-dejo-potente-senal-sobre-su-futuro-en-dep-concepcion.shtml",
    "titulo": "Pese a encabezar repunte ’lila’: Fernando Díaz dejó potente señal sobre su futuro en Dep. Concepción",
@@ -1677,20 +1691,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-18T07:47:27.000Z",
    "visto": "2026-11-18T12:00:27.664Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/18/desconocidos-matan-a-tiros-a-un-hombre-frente-a-su-casa-en-san-pedro-de-la-paz/",
-   "titulo": "Desconocidos matan a tiros a un hombre frente a su casa en San Pedro de la Paz",
-   "resumen": "La Policía de Investigaciones está en búsqueda de los responsables.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/procedimiento-pdi-peritajes--768x432.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-18T07:45:41.000Z",
-   "visto": "2026-11-18T11:50:21.035Z",
    "cats": [
     "regional"
    ],
