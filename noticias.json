@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T08:50:25.227Z",
+ "generado": "2026-11-19T09:10:20.829Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/hombre-baleado-es-ingresado-de-urgencia-a-sar-en-hualpen-fue-estabilizado-y-se-nego-denunciar",
+   "titulo": "Un hombre herido a bala fue atendido de urgencia en un SAR de Hualpén y rechazó presentar una denuncia",
+   "resumen": "Durante la noche de este miércoles, un hombre herido a bala fue trasladado de urgencia a un centro asistencial de Hualpén, en la región del Bío Bío. De acuerdo con antecedentes de Radio Bío Bío, el hecho ocurrió cerca de las 21:00 horas en el SAR Cerro…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cntxt-a-1-por-hombre-baleado-es-ingresado-de-urgencia-a-sar-en-hualpen_-fue-estabilizado-y-se-nego-denunciar.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T09:10:20.829Z",
+   "visto": "2026-11-19T09:10:20.829Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/escuela-de-verano-udec-2027-el-tiempo-como-punto-de-encuentro-entre-ciencias-artes-comunidad-universitaria.html",
    "titulo": "Escuela de Verano UdeC 2027: “El Tiempo” como punto de encuentro entre las ciencias, las artes y la comunidad universitaria",
