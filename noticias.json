@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T22:20:20.233Z",
+ "generado": "2026-11-19T22:30:25.640Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/detienen-a-mujer-que-estuvo-mas-de-dos-anos-profuga-por-asalto-a-adultos-mayores-en-contulmo",
+   "titulo": "Capturan en Contulmo a mujer que llevaba más de dos años prófuga por asaltar a adultos mayores",
+   "resumen": "Luego de estar prófuga durante más de dos años, una mujer de 21 años fue arrestada por la Policía de Investigaciones (PDI). Se le acusa de haber participado en un robo con intimidación perpetrado con violencia contra una pareja de adultos mayores en junio de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-78.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T22:30:25.640Z",
+   "visto": "2026-11-19T22:30:25.640Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/videos-marcha-de-estudiante-contra-recortes-termina-con-incidentes-en-concepcion.shtml",
+   "titulo": "VIDEOS | Marcha de estudiantes contra recortes termina con incidentes en Concepción",
+   "resumen": "Al menos una persona detenida deja -de momento- la manifestación convocada por estudiantes secundarios y universitarios en el centro de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025905-marcha-estudiantes-centro-concepcion.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-19T22:23:06.000Z",
+   "visto": "2026-11-19T22:30:25.640Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/cuando-el-problema-no-existe-debut-discografico-album-morder.html",
    "titulo": "Cuando el Problema no Existe hace su debut discográfico con el álbum “Morder”",
@@ -803,6 +831,20 @@
    "local": true
   },
   {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/abogado-de-familias-de-fallecidos-en-incendio-de-santa-ana-reclamamos-la-pena-mas-alta",
+   "titulo": "Abogado de familias de fallecidos en incendio Santa Ana: \"Reclamamos la pena más alta\"",
+   "resumen": "El Ministerio Público cerró la investigación por el llamado incendio de Santa Ana, que afectó principalmente a las comunas de Nacimiento, Santa Juana y Coronel. La indagatoria se inició a partir de la primera querella, presentada en febrero de 2023 por la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/07/archiv-a-por-incendio-santa-juana-megaincendio-santa-ana-region-del-bio-bio-2023.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T10:40:23.637Z",
+   "visto": "2026-11-19T10:40:23.637Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/19/alcalde-de-hualpen-tres-de-los-cuatro-funcionarios-con-condenas-dejaron-el-municipio-en-2017",
    "titulo": "Alcalde de Hualpén: tres de los cuatro funcionarios con condenas dejaron el municipio en 2017",
    "resumen": "Un informe de la Contraloría identificó a 315 personas que, pese a cumplir condenas, trabajarían actualmente en el aparato público. Entre ellas figuran cuatro funcionarios de la Municipalidad de Hualpén, caso sobre el que el alcalde Miguel Rivera entregó su…",
@@ -814,20 +856,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/abogado-de-familias-de-fallecidos-en-incendio-de-santa-ana-reclamamos-la-pena-mas-alta",
-   "titulo": "Abogado de familias de fallecidos en incendio Santa Ana: \"Reclamamos la pena más alta\"",
-   "resumen": "El Ministerio Público cerró la investigación por el llamado incendio de Santa Ana, que afectó principalmente a las comunas de Nacimiento, Santa Juana y Coronel. La indagatoria se inició a partir de la primera querella, presentada en febrero de 2023 por la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/07/archiv-a-por-incendio-santa-juana-megaincendio-santa-ana-region-del-bio-bio-2023.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T10:40:23.637Z",
-   "visto": "2026-11-19T10:40:23.637Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -974,10 +1002,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/mujeres-emprendedoras-biobio-desafios.html",
-   "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
-   "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261118-WA3056.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/sumario-hualqui-protocolos-almacenamiento-farmacos-biobio.html",
+   "titulo": "Tras sumario en Hualqui: municipios del Gran Concepción detallan protocolos de almacenamiento de fármacos",
+   "resumen": "Concepción, Chiguayante y Talcahuano aseguran contar con droguerías comunales y procedimientos ajustados a la normativa sanitaria.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-18-at-18.39.07.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
@@ -988,10 +1016,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/sumario-hualqui-protocolos-almacenamiento-farmacos-biobio.html",
-   "titulo": "Tras sumario en Hualqui: municipios del Gran Concepción detallan protocolos de almacenamiento de fármacos",
-   "resumen": "Concepción, Chiguayante y Talcahuano aseguran contar con droguerías comunales y procedimientos ajustados a la normativa sanitaria.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-18-at-18.39.07.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/mujeres-emprendedoras-biobio-desafios.html",
+   "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
+   "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261118-WA3056.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
@@ -1629,20 +1657,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/apoderados-protestan-en-la-ruta-5-sur-por-eliminacion-de-bus-de-acercamiento-en-escuela-rural-de-los-angeles",
-   "titulo": "Los Ángeles: apoderados protestan en Ruta 5 Sur por eliminación de bus de acercamiento de escuela rural",
-   "resumen": "Un grupo de padres y apoderados de la Escuela San José de Huaqui, establecimiento perteneciente a la Congregación del Verbo Divino ubicado en la comuna de Los Ángeles, protagonizó este miércoles una manifestación pacífica en las inmediaciones de la Ruta 5…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Sin-titulo-4-e1795010846550.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T14:10:23.195Z",
-   "visto": "2026-11-18T14:10:23.195Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/senado-repone-asignaciones-expresidentes.html",
    "titulo": "Por más de $915 millones: Senado da luz verde a fondos de expresidentes con nueva regla de transparencia",
    "resumen": "El Ejecutivo logró revertir el rechazo previo de la Cámara Baja, logrando aprobar un presupuesto de más de $915 millones para los cuatro exmandatarios.",
@@ -1653,20 +1667,6 @@
    "visto": "2026-11-18T14:00:30.153Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/vendedores-ambulantes-protestan-en-municipalidad-de-concepcion-piden-apurar-procesos-de-formalizacion.shtml",
-   "titulo": "Vendedores ambulantes protestan en Municipalidad de Concepción: piden apurar procesos de formalización",
-   "resumen": "Hasta el quinto piso de la Municipalidad de Concepción llegaron cerca de 20 vendedores ambulantes, pertenecientes a la Asociación de...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023532-captura-de-pantalla.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-18T13:22:44.000Z",
-   "visto": "2026-11-18T13:30:28.103Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
