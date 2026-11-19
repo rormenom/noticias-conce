@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T12:40:22.072Z",
+ "generado": "2026-11-19T13:10:22.385Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 59,
+    "enlaces": 154,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/yasmani-acosta-posterga-retiro-biobio-2030.html",
+   "titulo": "“No hay mejor escenario para decir adiós que en casa”: Yasmani Acosta confirma que buscará cerrar su carrera en los Odesur Biobío 2030",
+   "resumen": "Tras confirmarse que la Región del Biobío albergará los Juegos Suramericanos 2030, el deportista nacional anunció que dejó atrás la idea de retirarse en Los Ángeles 2028 para despedirse tras más de 30 años de trayectoria frente al público chileno.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/yasmani-campos-juegos-ol%C3%ADmpicos-paris-e1795093195847.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T13:10:22.385Z",
+   "visto": "2026-11-19T13:10:22.385Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/incendio-afecta-a-empresa-ubicada-en-parque-industrial-de-coronel-2",
    "titulo": "Incendio afecta las instalaciones de una empresa en el Parque Industrial de Coronel",
@@ -239,20 +253,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/escuela-de-verano-udec-2027-el-tiempo-como-punto-de-encuentro-entre-ciencias-artes-comunidad-universitaria.html",
-   "titulo": "Escuela de Verano UdeC 2027: “El Tiempo” como punto de encuentro entre las ciencias, las artes y la comunidad universitaria",
-   "resumen": "Entre el 11 y el 22 de enero, la edición número 72 de esta tradicional cita académica y cultural desplegará su programación en torno a este concepto en los tres campus de la Universidad de Concepción. Un congreso con la participación del Premio Nobel de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-nota-Mauricio-Maldonado.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/corma-inaugura-expocorma-2026-coronel-biobio.html",
    "titulo": "Con foco en innovación y prevención de incendios, inauguran ExpoCorma 2026",
    "resumen": "La XXIII versión del principal encuentro forestal del país reúne a 160 expositores hasta el viernes 20 de noviembre.",
@@ -362,6 +362,20 @@
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/escuela-de-verano-udec-2027-el-tiempo-como-punto-de-encuentro-entre-ciencias-artes-comunidad-universitaria.html",
+   "titulo": "Escuela de Verano UdeC 2027: “El Tiempo” como punto de encuentro entre las ciencias, las artes y la comunidad universitaria",
+   "resumen": "Entre el 11 y el 22 de enero, la edición número 72 de esta tradicional cita académica y cultural desplegará su programación en torno a este concepto en los tres campus de la Universidad de Concepción. Un congreso con la participación del Premio Nobel de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-nota-Mauricio-Maldonado.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
