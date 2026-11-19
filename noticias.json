@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T17:10:23.014Z",
+ "generado": "2026-11-19T17:18:12.355Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 60,
+    "enlaces": 154,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,62 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/heladerias-gran-concepcion-sumarios-sanitarios.html",
+   "titulo": "Gran Concepción: capacitan a trabajadores de heladerías para evitar sumarios sanitarios",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-19-at-1.43.25-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T17:18:12.355Z",
+   "visto": "2026-11-19T17:18:12.355Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diaz-continuidad-deportes-concepcion.html",
+   "titulo": "“Nano” Díaz: “Quedan 3 partidos y nadie ha hablado conmigo”",
+   "resumen": "Técnico de D. Concepción se refirió al partido con Huachipato, el ánimo del grupo por pelear una Copa Sudamericana y su posible renovación, sobre lo cual la dirigencia tiene una versión distinta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fernando-Diaz-e1795108418637.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T17:18:12.355Z",
+   "visto": "2026-11-19T17:18:12.355Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/planeta-no-presentara-en-vivo-en-concepcion-su-segundo-disco-un-abrazo",
+   "titulo": "Planeta No presentará en vivo en Concepción su segundo disco \"Un Abrazo\"",
+   "resumen": "La banda penquista Planeta No volverá a los escenarios chilenos durante noviembre con una gira que contempla presentaciones en Valparaíso, Concepción y Chillán, además de una fecha en Santiago en diciembre. El recorrido marcará el debut en vivo de “Un…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/PLANETA-NO.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T17:18:12.355Z",
+   "visto": "2026-11-19T17:18:12.355Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/capturan-en-peru-a-venezolano-profugo-por-asesinato-a-balazos-en-el-bio-bio-en-2022.shtml",
+   "titulo": "Capturan en Perú a venezolano prófugo por asesinato a balazos en el Bío Bío en 2022",
+   "resumen": "La Policía Nacional de Perú detuvo en la ciudad de Chiclayo, región de Lambayeque, a un ciudadano venezolano de 25...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025452-bbcl-75.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-19T17:15:19.000Z",
+   "visto": "2026-11-19T17:18:12.355Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/juegos-suramericanos-2030-biobio-proyecta-inversion-de-us130-millones-y-construccion-de-seis-nuevos-recintos-deportivos",
    "titulo": "Juegos Suramericanos 2030: Biobío proyecta inversión de US$130 millones y construcción de seis nuevos recintos deportivos",
@@ -579,20 +635,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
-   "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
-   "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/mujeres-emprendedoras-biobio-desafios.html",
    "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
    "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
@@ -653,6 +695,20 @@
    "titulo": "Cicat UdeC abre Curioteca: un espacio dedicado a las primeras infancias del Biobío",
    "resumen": "Es el primer espacio del recinto pensado especialmente a niños y niñas de 2 a 6 años.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/BREVE.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
+   "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
+   "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
@@ -1613,20 +1669,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/reprograman-reformalizacion-de-gerente-de-digosa-por-atropello-en-lirquen-esta-fuera-del-pais.shtml",
-   "titulo": "Reprograman reformalización de gerente de Digosa por atropello en Lirquén: está fuera del país",
-   "resumen": "El Ministerio Público decidió reformalizar al conductor que atropelló a un estudiante en Penco hace dos años, luego de que...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022953-foto-contexto-nota-bbcl-2026-11-17t180610-959.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T21:11:02.000Z",
-   "visto": "2026-11-17T21:20:21.058Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/17/alianza-entidades-medicas-prevencion-salud.html",
    "titulo": "Entidades científicas y médicas se unen para fortalecer la prevención y promoción de la salud",
    "resumen": "Representantes de 18 instituciones participaron del Foro Intersociedades que impulsó Sochimev.",
@@ -1637,20 +1679,6 @@
    "visto": "2026-11-17T21:00:29.594Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/hombre-resulta-gravemente-herido-tras-ser-apunalado-cerca-de-un-ojo-en-curanilahue",
-   "titulo": "Hombre resulta gravemente herido tras ser apuñalado cerca de un ojo en Curanilahue",
-   "resumen": "Carabineros realiza diligencias para dar con el responsable del ataque, quien habría sido captado por cámaras de seguridad del sector. La víctima permanece fuera de riesgo vital. Un hombre resultó con lesiones de carácter grave tras ser atacado con un arma…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Diseno-sin-titulo-2.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T21:00:29.594Z",
-   "visto": "2026-11-17T21:00:29.594Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
