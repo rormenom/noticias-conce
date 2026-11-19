@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T15:30:30.162Z",
+ "generado": "2026-11-19T16:20:22.986Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
-    "leidas": 61,
+    "enlaces": 155,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/subdere-asigna-7571-millones-municipios-biobio.html",
+   "titulo": "Subdere asigna $7.571 millones a 23 municipios del Biobío para ejecutar 52 proyectos de infraestructura local",
+   "resumen": "Los recursos financiarán obras de alumbrado público, veredas, sedes vecinales, multicanchas y soluciones de agua potable en 23 de las 33 comunas de la región.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/millones-municipios-biobio-aerea-Concepcion-foto-raphael.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T16:20:22.986Z",
+   "visto": "2026-11-19T16:20:22.986Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/carriel-sur-proyecta-duplicar-su-capacidad-de-pasajeros-y-habilitar-zona-de-carga-inicia-estudio-para-su-ampliacion",
    "titulo": "Carriel Sur proyecta duplicar su capacidad de pasajeros y habilitar zona de carga: inicia estudio para su ampliación",
@@ -409,20 +423,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/sumario-hualqui-protocolos-almacenamiento-farmacos-biobio.html",
-   "titulo": "Tras sumario en Hualqui: municipios del Gran Concepción detallan protocolos de almacenamiento de fármacos",
-   "resumen": "Concepción, Chiguayante y Talcahuano aseguran contar con droguerías comunales y procedimientos ajustados a la normativa sanitaria.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-18-at-18.39.07.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
    "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
    "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
@@ -456,6 +456,20 @@
    "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
    "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261118-WA3056.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/sumario-hualqui-protocolos-almacenamiento-farmacos-biobio.html",
+   "titulo": "Tras sumario en Hualqui: municipios del Gran Concepción detallan protocolos de almacenamiento de fármacos",
+   "resumen": "Concepción, Chiguayante y Talcahuano aseguran contar con droguerías comunales y procedimientos ajustados a la normativa sanitaria.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-18-at-18.39.07.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
@@ -2401,20 +2415,6 @@
    "visto": "2026-11-14T18:50:20.735Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/14/atleta-senior-del-biobio-se-prepara-para-corrida-en-brasil",
-   "titulo": "Atleta senior del Biobío se prepara para corrida en Brasil",
-   "resumen": "A sus 68 años de trayectoria y con más de 400 medallas, Sergio Ramírez destacado atleta e hijo ilustre de Penco, hoy se prepara para un nuevo desafío internacional, la tradicional corrida de San Silvestre, Sao Paulo Brasil. Una corrida que se realizará el 31…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/SERGIO-RAMIREZ.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-14T16:20:20.828Z",
-   "visto": "2026-11-14T16:20:20.828Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
