@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T12:00:30.484Z",
+ "generado": "2026-11-19T12:40:22.072Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 58,
+    "enlaces": 153,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/incendio-afecta-a-empresa-ubicada-en-parque-industrial-de-coronel-2",
+   "titulo": "Incendio afecta las instalaciones de una empresa en el Parque Industrial de Coronel",
+   "resumen": "Un incendio se registra la mañana de este jueves en instalaciones de la empresa Terramar, situada en el Parque Industrial 2 de Coronel. Según informó Radio Bío Bío, al menos cuatro unidades de Bomberos de la comuna acudieron al lugar para combatir las llamas.…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T12:40:22.072Z",
+   "visto": "2026-11-19T12:40:22.072Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/incendio-afecta-a-empresa-ubicada-en-parque-industrial-de-coronel-2.shtml",
    "titulo": "Incendio afecta a empresa ubicada en Parque Industrial de Coronel",
@@ -1593,20 +1607,6 @@
    "fuente": "BioBioChile",
    "fuenteId": "biobiochile",
    "fecha": "2026-11-17T18:48:45.000Z",
-   "visto": "2026-11-17T18:50:23.831Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/plan-chile-despega-considera-3-640-empleos-proyectados-y-7-571-millones-transferidos-a-municipios-del-biobio/",
-   "titulo": "Plan Chile Despega considera 3.640 empleos proyectados y $7.571 millones transferidos a municipios del Biobío",
-   "resumen": "Avances en la tramitación de proyectos de inversión, nuevas oportunidades […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/8c5f57d4-cce4-4672-ae5e-3ac81b5e8224-768x512.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-17T18:41:23.000Z",
    "visto": "2026-11-17T18:50:23.831Z",
    "cats": [
     "regional"
