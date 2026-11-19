@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T09:10:20.829Z",
+ "generado": "2026-11-19T09:20:20.928Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/absuelven-a-conductora-por-atropello-de-un-joven-en-chiguayante-la-condenan-por-abandonar-el-lugar",
+   "titulo": "Absuelven a conductora por atropello de un joven en Chiguayante: la condenan por abandonar el lugar",
+   "resumen": "El Tribunal Oral de Concepción absolvió a Pamela Ordenes del cuasidelito de lesiones, pero la condenó por abandonar el lugar del accidente sin ayudar a la víctima. El atropello ocurrió el 25 de septiembre de 2025 en avenida 8 Oriente de Chiguayante y afectó a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-19-a-las-6.15.27%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T09:20:20.928Z",
+   "visto": "2026-11-19T09:20:20.928Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/hombre-baleado-es-ingresado-de-urgencia-a-sar-en-hualpen-fue-estabilizado-y-se-nego-denunciar",
    "titulo": "Un hombre herido a bala fue atendido de urgencia en un SAR de Hualpén y rechazó presentar una denuncia",
@@ -1648,20 +1662,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-17T16:50:21.601Z",
    "visto": "2026-11-17T16:50:21.601Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/damas-de-rojo-realiza-en-talcahuano-su-trigesimo-congreso-nacional-con-45-filiales",
-   "titulo": "Damas de Rojo realiza en Talcahuano su trigésimo congreso nacional con 45 filiales",
-   "resumen": "Por primera vez, el Congreso Nacional de Damas de Rojo se realiza en Talcahuano, en la Región del Biobío. Tres dirigentes del voluntariado presentaron la actividad en matinal Nuestra Casa. Un encuentro organizado durante dos años Las invitadas afirmaron que…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/damas.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T16:30:26.101Z",
-   "visto": "2026-11-17T16:30:26.101Z",
    "cats": [
     "regional"
    ],
