@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T20:30:33.707Z",
+ "generado": "2026-11-19T20:40:24.519Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,10 +61,9 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 56,
-    "errores": 1,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/18/ya-es-oficial-mauricio-pochettino-llego-al-complejo-del-manchester-united-y-firmo-como-nuevo-dt.shtml)"
+    "leidas": 59,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -75,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
@@ -820,6 +819,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/los-ex-udec-seran-chile-en-el-mundial-de-maxibasket.html",
+   "titulo": "Los Ex UdeC serán Chile en el Mundial de Maxibasket",
+   "resumen": "Jorge Vásquez, base del equipo que clasificó en Puerto Montt, habló de esta campaña con los +40 que sacaron boleto para Fortaleza y esta nueva etapa que todos viven con alegría y nostalgia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Maxibasquetbol.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/corma-inaugura-expocorma-2026-coronel-biobio.html",
    "titulo": "Con foco en innovación y prevención de incendios, inauguran ExpoCorma 2026",
    "resumen": "La XXIII versión del principal encuentro forestal del país reúne a 160 expositores hasta el viernes 20 de noviembre.",
@@ -831,20 +844,6 @@
    "cats": [
     "regional",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/los-ex-udec-seran-chile-en-el-mundial-de-maxibasket.html",
-   "titulo": "Los Ex UdeC serán Chile en el Mundial de Maxibasket",
-   "resumen": "Jorge Vásquez, base del equipo que clasificó en Puerto Montt, habló de esta campaña con los +40 que sacaron boleto para Fortaleza y esta nueva etapa que todos viven con alegría y nostalgia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Maxibasquetbol.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   },
@@ -1434,20 +1433,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/atenciones-sernapesca-pescadores-tirua.html",
-   "titulo": "Sernapesca realizará atenciones mensuales para pescadores de Tirúa",
-   "resumen": "Convenio con el municipio contempla jornadas mensuales para trabajadores de la pesca.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/firma-convenio-tirua1.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T15:00:00.000Z",
-   "visto": "2026-11-19T20:20:23.937Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
    "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
    "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
@@ -1456,6 +1441,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T15:00:00.000Z",
    "visto": "2026-11-19T20:30:33.707Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/atenciones-sernapesca-pescadores-tirua.html",
+   "titulo": "Sernapesca realizará atenciones mensuales para pescadores de Tirúa",
+   "resumen": "Convenio con el municipio contempla jornadas mensuales para trabajadores de la pesca.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/firma-convenio-tirua1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T15:00:00.000Z",
+   "visto": "2026-11-19T20:20:23.937Z",
    "cats": [
     "regional"
    ],
