@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T15:00:29.402Z",
+ "generado": "2026-11-19T15:20:32.420Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,10 +60,11 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 61,
-    "errores": 0,
-    "robots": 0
+    "enlaces": 158,
+    "leidas": 60,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/18/detienen-a-exseleccionada-de-brasil-gabi-morais-vinculan-con-narcotrafico.shtml)"
    }
   },
   {
@@ -81,6 +82,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/a-casi-dos-meses-del-anuncio-san-pedro-de-la-paz-aun-espera-189-millones-del-plan-escudo-de-barrio",
+   "titulo": "San Pedro de la Paz sigue a la espera de $189 millones del Plan Escudo de Barrio, a casi dos meses del anuncio",
+   "resumen": "La Subsecretaría de Prevención del Delito todavía no ha entregado los $189 millones comprometidos para costear las acciones de seguridad del Plan Escudo de Barrio en San Pedro de la Paz. Aunque el Gobierno informó que aumentaría la presencia policial, en el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-casi-dos-meses-del-anuncio_-san-pedro-de-la-paz-aun-espera-189-millones-del-plan-escudo-de-barrio-2.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T15:20:32.420Z",
+   "visto": "2026-11-19T15:20:32.420Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/arqueologia-bajo-el-puente-industrial-presentan-libro-con-los-hallazgos-hallados-durante-la-obra",
    "titulo": "Arqueología bajo el Puente Industrial: presentan libro con los hallazgos hallados durante la obra",
