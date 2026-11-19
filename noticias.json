@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T21:40:20.537Z",
+ "generado": "2026-11-19T21:50:20.486Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/catalina-y-las-bordonas-de-oro-haran-su-debut-en-teatro-biobio.html",
+   "titulo": "Catalina y Las Bordonas de Oro harán su debut en Teatro Biobío",
+   "resumen": "La banda se presentará este sábado 21 de noviembre -a las 19.00 horas- en la sala principal del espacio cultural local de Avenida Costanera. Show que se enmarca dentro de la presentación de su nuevo y tercer álbum \"La alegría de los que lloran\".",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/catalina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T21:50:20.486Z",
+   "visto": "2026-11-19T21:50:20.486Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/enap-hualpen-pericias-diputado-rivas.html",
    "titulo": "Tras intoxicación en Hualpén: diputado Rivas asegura que ENAP comprometió nuevas pericias",
