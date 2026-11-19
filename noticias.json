@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T18:10:21.036Z",
+ "generado": "2026-11-19T18:20:23.380Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 60,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 10,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/tecnologia-desarrollada-en-el-bio-bio-logra-degradar-hasta-un-80-de-hidrocarburos-en-solo-24-horas",
+   "titulo": "Innovación creada en el Bío Bío elimina hasta el 80% de hidrocarburos en apenas 24 horas",
+   "resumen": "¿Y si los desechos industriales con hidrocarburos pudieran tratarse con métodos biológicos en vez de ser enviados a recintos de confinamiento seguro? Investigadores del Bío Bío trabajan para hacerlo posible: en pruebas experimentales, una combinación de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/degradar-hidrocarburos-.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T18:20:23.380Z",
+   "visto": "2026-11-19T18:20:23.380Z",
+   "cats": [
+    "regional",
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/subsecretaria-ciencias-rossi-renuncia.html",
    "titulo": "Subsecretaria de Ciencias, Carolina Rossi, presentó su renuncia al cargo",
@@ -1644,20 +1659,6 @@
    "titulo": "Reprograman audiencia de gerente de Digosa por atropello en Lirquén; permanece fuera del país",
    "resumen": "El Ministerio Público resolvió reformalizar al conductor que atropelló a un estudiante en Penco hace dos años, tras un reclamo de la víctima ante la Fiscalía Regional. No obstante, la audiencia fijada para este martes se aplazó porque el imputado viajó al…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-17t180610-959.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T21:30:25.200Z",
-   "visto": "2026-11-17T21:30:25.200Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/desarticulan-estructura-criminal-que-adquiria-abultaba-y-distribuia-droga-en-el-gran-concepcion",
-   "titulo": "Desarticulan red que compraba, adulteraba y distribuía drogas en el Gran Concepción",
-   "resumen": "Un procedimiento de la Brigada Antinarcóticos de la Policía de Investigaciones (PDI) consiguió desmantelar una organización criminal dedicada al narcotráfico en el Gran Concepción. La operación culminó con cinco detenidos y el decomiso de marihuana, cocaína,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/banda-narco-gran-concepcion-.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-17T21:30:25.200Z",
