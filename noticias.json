@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T22:30:25.640Z",
+ "generado": "2026-11-19T22:40:21.138Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/videos-marcha-de-estudiante-contra-recortes-termina-con-incidentes-en-concepcion",
+   "titulo": "Videos: manifestación estudiantil contra los recortes termina con incidentes en Concepción",
+   "resumen": "Hasta ahora, al menos una persona ha sido detenida durante la marcha convocada por estudiantes secundarios y universitarios en el centro de Concepción, en la región del Bío Bío. La protesta se realizó contra los recortes del gobierno en sectores como…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/marcha-estudiantes-centro-concepcion.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T22:40:21.138Z",
+   "visto": "2026-11-19T22:40:21.138Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/detienen-a-mujer-que-estuvo-mas-de-dos-anos-profuga-por-asalto-a-adultos-mayores-en-contulmo",
    "titulo": "Capturan en Contulmo a mujer que llevaba más de dos años prófuga por asaltar a adultos mayores",
@@ -1637,20 +1651,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-18T14:30:26.019Z",
    "visto": "2026-11-18T14:30:26.019Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/las-higueras-de-talcahuano-lidera-en-reputacion-entre-los-hospitales-publicos-de-la-region-del-biobio/",
-   "titulo": "Las Higueras de Talcahuano lidera en reputación entre los hospitales públicos de la Región del Biobío",
-   "resumen": "Los resultados de la segunda encuesta de la edición de […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Fachada-HLH-768x432.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-18T14:12:50.000Z",
-   "visto": "2026-11-18T14:20:21.612Z",
    "cats": [
     "regional"
    ],
