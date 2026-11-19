@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T20:50:25.338Z",
+ "generado": "2026-11-19T21:10:32.315Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 156,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/bajas-ventas-y-cierre-de-locales-golpean-al-comercio-del-centro-de-concepcion-algunos-negocios-reportan-caidas-de-hasta-un-80",
+   "titulo": "Bajas ventas y cierre de locales golpean al comercio del centro de Concepción: algunos negocios reportan caídas de hasta un 80%",
+   "resumen": "Comerciantes del centro penquista advierten un complejo escenario económico, marcado por la disminución de las ventas, el cierre de establecimientos y el aumento de los costos operacionales. A esto se suma una mayor utilización de tarjetas de crédito por…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Galeria-alessandri-850x400-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T21:10:32.315Z",
+   "visto": "2026-11-19T21:10:32.315Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/corte-suprema-aplaza-revision-de-recursos-de-nulidad-por-atentado-al-molino-grollmus-defensas-buscan-repetir-el-juicio",
    "titulo": "Corte Suprema aplaza revisión de recursos de nulidad por atentado al Molino Grollmus: defensas buscan repetir el juicio",
@@ -1611,20 +1625,6 @@
    "visto": "2026-11-18T13:10:22.583Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/cierre-temporal-compin-concepcion.html",
-   "titulo": "Por “contingencia operacional”: COMPIN Concepción suspende atención presencial de público durante esta jornada",
-   "resumen": "El servicio retomará su horario habitual este jueves, por lo que instaron a los usuarios a gestionar sus licencias médicas y consultas a través de la web y teléfonos habilitados.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/compin-e1795003655683.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T12:20:21.274Z",
-   "visto": "2026-11-18T12:20:21.274Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
