@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T14:00:39.645Z",
+ "generado": "2026-11-19T14:10:21.390Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -59,12 +59,11 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 3,
-    "enlaces": 95,
-    "leidas": 55,
-    "errores": 2,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/17/caotica-venta-de-entradas-de-shakira-en-venezuela-cantante-regresara-tras-16-anos.shtml)"
+    "paginas": 4,
+    "enlaces": 158,
+    "leidas": 61,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -74,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 32,
-    "leidas": 12,
+    "enlaces": 33,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/si-vives-en-una-de-estas-21-comunas-postula-a-un-aire-acondicionado-desde-los-20-mil-pesos",
+   "titulo": "Habitantes de 21 comunas,10 del Gran Concepción, pueden postular a un aire acondicionado desde $20 mil pesos",
+   "resumen": "El Ministerio del Medio Ambiente tiene abiertas las postulaciones al Programa de Recambio de Calefactores, que ofrece a las familias la posibilidad de cambiar sus antiguos aparatos a leña por equipos más eficientes y menos contaminantes. El beneficio puede…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/programa-recambio-de-calefactores.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T14:10:21.390Z",
+   "visto": "2026-11-19T14:10:21.390Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/gobernador-por-juegos-suramericanos-2030-en-bio-bio-una-enorme-oportunidad-para-atraer-inversion-y-generar-empleo",
    "titulo": "Gobernador por Juegos Suramericanos 2030 en Bío Bío: \"una enorme oportunidad para atraer inversión y generar empleo\"",
@@ -1609,20 +1622,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-17T19:13:14.000Z",
    "visto": "2026-11-17T22:20:22.465Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/este-miercoles-se-anunciara-resultado-de-postulacion-del-bio-bio-como-sede-de-los-juegos-odesur-2030",
-   "titulo": "Este miércoles se conocerá si el Bío Bío será sede de los Juegos Odesur 2030",
-   "resumen": "Este miércoles se dará a conocer la decisión sobre la candidatura de la región del Bío Bío para albergar los Juegos Odesur 2030. La comisión técnica que inspeccionó la región entregó un informe unánimemente favorable, y el gobernador Sergio Giacaman indicó…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bio-bio-odesur.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T19:10:30.351Z",
-   "visto": "2026-11-17T19:10:30.351Z",
    "cats": [
     "regional"
    ],
