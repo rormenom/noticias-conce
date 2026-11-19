@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T20:10:30.291Z",
+ "generado": "2026-11-19T20:20:23.937Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/escaladores-biobio-final-nacional-santiago.html",
+   "titulo": "Semillero en altura: delegación infantil y juvenil del Biobío afina detalles para competir en la Final Nacional de Escalada",
+   "resumen": "Entre el 27 y 29 de noviembre, jóvenes escaladores del Biobío viajarán a Cerrillos para disputar la Final Nacional Escolar de la disciplina.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/escaladores-biobio-final-nacional-santiago-3-e1795118569337.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T20:20:23.937Z",
+   "visto": "2026-11-19T20:20:23.937Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/tribunales-familia-concepcion-368-mil-millones-pensiones-alimentos.html",
    "titulo": "$368 mil millones en pagos por pensiones alimenticias: el balance de 4 años de “Ley Papito Corazón” en el Biobío",
@@ -238,20 +252,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diaz-continuidad-deportes-concepcion.html",
-   "titulo": "“Nano” Díaz: “Quedan 3 partidos y nadie ha hablado conmigo”",
-   "resumen": "Técnico de D. Concepción se refirió al partido con Huachipato, el ánimo del grupo por pelear una Copa Sudamericana y su posible renovación, sobre lo cual la dirigencia tiene una versión distinta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fernando-Diaz-e1795108418637.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T17:18:12.355Z",
-   "visto": "2026-11-19T17:18:12.355Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/heladerias-gran-concepcion-sumarios-sanitarios.html",
    "titulo": "Gran Concepción: capacitan a trabajadores de heladerías para evitar sumarios sanitarios",
    "resumen": "",
@@ -262,6 +262,20 @@
    "visto": "2026-11-19T17:18:12.355Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diaz-continuidad-deportes-concepcion.html",
+   "titulo": "“Nano” Díaz: “Quedan 3 partidos y nadie ha hablado conmigo”",
+   "resumen": "Técnico de D. Concepción se refirió al partido con Huachipato, el ánimo del grupo por pelear una Copa Sudamericana y su posible renovación, sobre lo cual la dirigencia tiene una versión distinta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fernando-Diaz-e1795108418637.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T17:18:12.355Z",
+   "visto": "2026-11-19T17:18:12.355Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -820,6 +834,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/vial-y-una-historia-de-ascensos-cinco-recordados-festejos-y-otro-que-debio-ser.html",
+   "titulo": "Vial y una historia de ascensos: cinco recordados festejos y otro que debió ser",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ascenso-Fernandez-Vial-.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/mujeres-emprendedoras-biobio-desafios.html",
    "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
    "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
@@ -848,34 +876,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/vial-y-una-historia-de-ascensos-cinco-recordados-festejos-y-otro-que-debio-ser.html",
-   "titulo": "Vial y una historia de ascensos: cinco recordados festejos y otro que debió ser",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ascenso-Fernandez-Vial-.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/cicat-udec-curioteca-primeras-infancias-biobio.html",
-   "titulo": "Cicat UdeC abre Curioteca: un espacio dedicado a las primeras infancias del Biobío",
-   "resumen": "Es el primer espacio del recinto pensado especialmente a niños y niñas de 2 a 6 años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/BREVE.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/escuela-de-verano-udec-2027-el-tiempo-como-punto-de-encuentro-entre-ciencias-artes-comunidad-universitaria.html",
    "titulo": "Escuela de Verano UdeC 2027: “El Tiempo” como punto de encuentro entre las ciencias, las artes y la comunidad universitaria",
    "resumen": "Entre el 11 y el 22 de enero, la edición número 72 de esta tradicional cita académica y cultural desplegará su programación en torno a este concepto en los tres campus de la Universidad de Concepción. Un congreso con la participación del Premio Nobel de…",
@@ -894,6 +894,20 @@
    "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
    "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/cicat-udec-curioteca-primeras-infancias-biobio.html",
+   "titulo": "Cicat UdeC abre Curioteca: un espacio dedicado a las primeras infancias del Biobío",
+   "resumen": "Es el primer espacio del recinto pensado especialmente a niños y niñas de 2 a 6 años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/BREVE.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
@@ -1405,6 +1419,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/atenciones-sernapesca-pescadores-tirua.html",
+   "titulo": "Sernapesca realizará atenciones mensuales para pescadores de Tirúa",
+   "resumen": "Convenio con el municipio contempla jornadas mensuales para trabajadores de la pesca.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/firma-convenio-tirua1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T15:00:00.000Z",
+   "visto": "2026-11-19T20:20:23.937Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.radioudec.cl/fiesta-del-libro-regresa-a-concepcion-con-27-editoriales-y-una-programacion-gratuita-para-toda-la-familia/",
    "titulo": "Fiesta del Libro regresa a Concepción con 27 editoriales y una programación gratuita para toda la familia",
    "resumen": "Con una programación que busca acercar la creación literaria a […]",
@@ -1595,20 +1623,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-18T09:10:20.567Z",
    "visto": "2026-11-18T09:10:20.567Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
-   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
-   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "regional"
    ],
