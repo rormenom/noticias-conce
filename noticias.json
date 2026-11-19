@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T17:00:29.286Z",
+ "generado": "2026-11-19T17:10:23.014Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 61,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 32,
-    "leidas": 9,
+    "enlaces": 31,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/juegos-suramericanos-2030-biobio-proyecta-inversion-de-us130-millones-y-construccion-de-seis-nuevos-recintos-deportivos",
+   "titulo": "Juegos Suramericanos 2030: Biobío proyecta inversión de US$130 millones y construcción de seis nuevos recintos deportivos",
+   "resumen": "La región comenzó a definir las comunas que albergarán las competencias y los terrenos donde se levantarán las nuevas instalaciones. El proyecto contempla US$70 millones para infraestructura y US$60 millones para la operación del evento, además de distintas…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Agencia-UNO-Juegos-Suramericanos-Santiago-2014-Referencial-1024x538-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T17:10:23.014Z",
+   "visto": "2026-11-19T17:10:23.014Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/19/lo-cambio-todo-yasmani-acosta-frena-fecha-de-retiro-y-apunta-a-despedirse-en-odesur-2030-del-biobio.shtml",
    "titulo": "\"Lo cambió todo\": Yasmani Acosta frena fecha de retiro y apunta a despedirse en Odesur 2030 del Biobío",
@@ -280,6 +294,20 @@
    "local": true
   },
   {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/19/d-concepcion-encabeza-la-lista-de-clubes-que-arriesgan-resta-de-puntos/",
+   "titulo": "D. Concepción encabeza la lista de clubes que arriesgan resta de puntos",
+   "resumen": "Por la regla Sub-21.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Foto-D.Concepción-Minutos-Sub-21-768x540.webp",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-19T14:25:08.000Z",
+   "visto": "2026-11-19T17:10:23.014Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/19/los-angeles-pdi-detiene-a-profugo-acusado-de-homicidio-frustrado",
    "titulo": "Los Ángeles: PDI detiene a prófugo acusado de homicidio frustrado",
    "resumen": "El imputado, quien cuenta con una condena previa por tráfico ilícito de drogas, era buscado por su presunta participación en un ataque armado que dejó a una víctima con un impacto balístico en la cabeza. Detectives de la Brigada de Homicidios de la Policía de…",
@@ -347,6 +375,20 @@
    "visto": "2026-11-19T13:10:22.385Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/19/autoridades-informan-alcances-de-la-rebaja-de-las-bencinas-y-el-diesel-que-rige-desde-hoy/",
+   "titulo": "Autoridades informan alcances de la rebaja de las bencinas y el diésel que rige desde hoy",
+   "resumen": "En Biobío.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/dpr-biobio-seremi-gobierno--768x512.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-19T13:08:23.000Z",
+   "visto": "2026-11-19T17:10:23.014Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1607,34 +1649,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-17T21:00:29.594Z",
    "visto": "2026-11-17T21:00:29.594Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/17/baja-cuentas-luz-biobio-2027.html",
-   "titulo": "Cuentas de la luz bajarán en promedio 4% en Biobío a partir de enero de 2027",
-   "resumen": "Nuevos contratos de suministro y el tipo de cambio explican la disminución tarifaria.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/10.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T20:40:36.587Z",
-   "visto": "2026-11-17T20:40:36.587Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/desarticulan-estructura-criminal-que-adquiria-abultaba-y-distribuia-droga-en-el-gran-concepcion.shtml",
-   "titulo": "Desarticulan estructura criminal que adquiría, abultaba y distribuía droga en el Gran Concepción",
-   "resumen": "Un operativo de la Brigada Antinarcóticos de la Policía de Investigaciones (PDI) permitió desarticular una estructura criminal dedicada al tráfico...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022236-banda-narco-gran-concepcion-.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T20:37:21.000Z",
-   "visto": "2026-11-17T20:40:36.587Z",
    "cats": [
     "regional"
    ],
