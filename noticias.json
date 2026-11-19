@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T10:30:27.562Z",
+ "generado": "2026-11-19T10:40:23.637Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/alcalde-de-hualpen-tres-de-los-cuatro-funcionarios-con-condenas-dejaron-el-municipio-en-2017",
+   "titulo": "Alcalde de Hualpén: tres de los cuatro funcionarios con condenas dejaron el municipio en 2017",
+   "resumen": "Un informe de la Contraloría identificó a 315 personas que, pese a cumplir condenas, trabajarían actualmente en el aparato público. Entre ellas figuran cuatro funcionarios de la Municipalidad de Hualpén, caso sobre el que el alcalde Miguel Rivera entregó su…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2024/10/Captura-de-pantalla-2024-10-15-a-las-7.42.29%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T10:40:23.637Z",
+   "visto": "2026-11-19T10:40:23.637Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/abogado-de-familias-de-fallecidos-en-incendio-de-santa-ana-reclamamos-la-pena-mas-alta",
+   "titulo": "Abogado de familias de fallecidos en incendio Santa Ana: \"Reclamamos la pena más alta\"",
+   "resumen": "El Ministerio Público cerró la investigación por el llamado incendio de Santa Ana, que afectó principalmente a las comunas de Nacimiento, Santa Juana y Coronel. La indagatoria se inició a partir de la primera querella, presentada en febrero de 2023 por la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/07/archiv-a-por-incendio-santa-juana-megaincendio-santa-ana-region-del-bio-bio-2023.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T10:40:23.637Z",
+   "visto": "2026-11-19T10:40:23.637Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/subse-agricultura-por-sector-forestal-pocas-politicas-publicas-poco-incentivo-normas-poco-claras",
    "titulo": "Subse. Agricultura por sector forestal: \"Pocas políticas públicas, poco incentivo, normas poco claras\"",
@@ -1606,34 +1635,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-17T18:20:24.169Z",
    "visto": "2026-11-17T18:20:24.169Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/brigada-antinarcoticos-de-la-pdi-desarticulo-estructura-criminal-dedicada-al-trafico-de-drogas/",
-   "titulo": "Brigada antinarcóticos de la PDI desarticuló estructura criminal dedicada al tráfico de drogas",
-   "resumen": "En el Gran Concepción: Seis detenidos.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/decomiso-pdi--768x432.jpeg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-17T18:14:48.000Z",
-   "visto": "2026-11-17T19:10:30.351Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/insumos-en-pasillos-y-a-la-intemperie-inician-sumario-por-falencias-sanitarias-en-cesfam-de-hualqui",
-   "titulo": "Cesfam de Hualqui enfrenta sumario sanitario por almacenar insumos en pasillos y a la intemperie",
-   "resumen": "Durante una inspección al Cesfam de Hualqui, la Seremi de Salud del Bío Bío detectó problemas en el almacenamiento de insumos médicos, dispositivos y productos farmacéuticos, situación que motivó el inicio de un sumario sanitario. En la fiscalización del 16…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/insumos-medicos-cesfam-hualqui.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T18:10:21.818Z",
-   "visto": "2026-11-17T18:10:21.818Z",
    "cats": [
     "regional"
    ],
