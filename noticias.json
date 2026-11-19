@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T21:20:20.351Z",
+ "generado": "2026-11-19T21:30:26.949Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 59,
+    "enlaces": 155,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/principales-panoramas-culturales-proximos-dias-gran-concepcion-2.html",
+   "titulo": "Estos son los principales panoramas culturales para los próximos días en el Gran Concepción",
+   "resumen": "La agenda cultural artística cultural penquista viene cargada de eventos y actividades para lo que queda de noviembre. La música destaca en sus más diversos géneros, con presentaciones estelares y propuestas que prometen sorprender y emeocionar.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/JUEVES.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T21:30:26.949Z",
+   "visto": "2026-11-19T21:30:26.949Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/detienen-a-mujer-que-estuvo-mas-de-dos-anos-profuga-por-asalto-a-adultos-mayores-en-contulmo.shtml",
+   "titulo": "Detienen a mujer que estuvo más de dos años prófuga por asalto a adultos mayores en Contulmo",
+   "resumen": "Tras permanecer prófuga por más de dos años, una mujer de 21 años fue detenida por la Policía de Investigaciones...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025921-bbcl-78.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-19T21:30:05.000Z",
+   "visto": "2026-11-19T21:30:26.949Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/bajas-ventas-y-cierre-de-locales-golpean-al-comercio-del-centro-de-concepcion-algunos-negocios-reportan-caidas-de-hasta-un-80",
    "titulo": "Bajas ventas y cierre de locales golpean al comercio del centro de Concepción: algunos negocios reportan caídas de hasta un 80%",
@@ -1595,20 +1623,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-18T13:22:44.000Z",
    "visto": "2026-11-18T13:30:28.103Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/compin-de-concepcion-suspende-atencion-presencial-este-miercoles-por-contingencia-operacional",
-   "titulo": "Compin de Concepción suspenderá la atención presencial este miércoles debido a problemas operativos",
-   "resumen": "La atención presencial en la oficina de la Comisión de Medicina Preventiva e Invalidez (Compin) de Concepción fue suspendida este miércoles, en la región del Bío Bío. La Seremi de Salud Bío Bío explicó que una contingencia operacional obligó a interrumpir la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/compin-de-concepcion-suspende-atencion-presencial-este-miercoles-por-contingencia-operacional.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T13:20:27.989Z",
-   "visto": "2026-11-18T13:20:27.989Z",
    "cats": [
     "regional"
    ],
