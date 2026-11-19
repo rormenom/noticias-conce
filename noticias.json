@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T09:30:25.420Z",
+ "generado": "2026-11-19T10:30:27.562Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/subse-agricultura-por-sector-forestal-pocas-politicas-publicas-poco-incentivo-normas-poco-claras",
+   "titulo": "Subse. Agricultura por sector forestal: \"Pocas políticas públicas, poco incentivo, normas poco claras\"",
+   "resumen": "En Coronel comenzó una nueva versión de la Expocorma, instancia que reúne charlas, exposiciones y stands de marcas del sector forestal. La cita se desarrolla en un contexto complejo para la región del Bío Bío, con una tasa de desempleo de 10,5% y una…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-19-a-las-7.21.36%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T10:30:27.562Z",
+   "visto": "2026-11-19T10:30:27.562Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/municipio-san-pedro-de-la-paz-faltan-mas-de-60-carabineros-casi-un-32-de-la-dotacion-real",
    "titulo": "Municipio San Pedro de la Paz: faltan más de 60 carabineros, casi un 32% de la dotación real",
@@ -1620,20 +1634,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-17T18:10:21.818Z",
    "visto": "2026-11-17T18:10:21.818Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/ordenan-detener-a-dueno-de-automotora-tras-no-llegar-a-formalizacion-habria-estafado-a-32-personas.shtml",
-   "titulo": "Ordenan detener a dueño de automotora tras no llegar a formalización: habría estafado a 32 personas",
-   "resumen": "Una orden de detención en contra del dueño de una importadora de vehículos despachó el Juzgado de Garantía de Concepción,...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022545-restore-automotora-hdr-1200x633.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T17:32:28.000Z",
-   "visto": "2026-11-17T17:40:22.114Z",
    "cats": [
     "regional"
    ],
