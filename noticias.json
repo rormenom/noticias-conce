@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T10:40:23.637Z",
+ "generado": "2026-11-19T11:10:20.736Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 58,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/tras-informe-de-cgr-municipio-de-hualpen-descarta-casos-de-funcionarios-condenados-en-servicio.shtml",
+   "titulo": "Tras informe de CGR: Municipio de Hualpén descarta casos de funcionarios condenados en servicio",
+   "resumen": "Tres de los cuatro funcionarios que la Contraloría sindica como condenados y con contrato en la Municipalidad de Hualpén...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7024770-tras-informe-de-contraloria_-municipio-de-hualpen-descarta-tener-trabajadores-condenados-en-servicio.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-19T11:02:09.000Z",
+   "visto": "2026-11-19T11:10:20.736Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/alcalde-de-hualpen-tres-de-los-cuatro-funcionarios-con-condenas-dejaron-el-municipio-en-2017",
    "titulo": "Alcalde de Hualpén: tres de los cuatro funcionarios con condenas dejaron el municipio en 2017",
@@ -1623,20 +1638,6 @@
    "visto": "2026-11-17T18:20:24.169Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/detienen-a-hombre-con-mas-de-10-causas-tras-violento-asalto-a-conductora-de-aplicacion-en-los-angeles",
-   "titulo": "Arrestan en Los Ángeles a hombre que habría asaltado a una conductora de aplicación: tiene 10 causas pendientes",
-   "resumen": "Carabineros detuvo a un hombre que acumula más de diez causas penales, luego de que presuntamente asaltara violentamente a una conductora de una aplicación de transporte en el sector sur de Los Ángeles, región del Biobío. El individuo también tenía una orden…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detenido-contexto-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T18:20:24.169Z",
-   "visto": "2026-11-17T18:20:24.169Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
