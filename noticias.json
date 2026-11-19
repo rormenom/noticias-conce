@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T13:40:22.312Z",
+ "generado": "2026-11-19T13:50:23.182Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 63,
+    "enlaces": 158,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/gobernador-por-juegos-suramericanos-2030-en-bio-bio-una-enorme-oportunidad-para-atraer-inversion-y-generar-empleo",
+   "titulo": "Gobernador por Juegos Suramericanos 2030 en Bío Bío: \"una enorme oportunidad para atraer inversión y generar empleo\"",
+   "resumen": "La Organización Deportiva Suramericana (Odesur) ratificó a la Región del Biobío como sede de los XIV Juegos Suramericanos 2030, tras la reunión de su comité ejecutivo realizada el miércoles 18 de noviembre de 2026. El anuncio, seguido en directo desde el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-19-at-10.38.08-1-e1795095772772.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T13:50:23.182Z",
+   "visto": "2026-11-19T13:50:23.182Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/absuelven-a-conductora-por-atropello-de-nino-en-chiguayante-pero-la-condenan-por-huir-del-lugar.shtml",
    "titulo": "Absuelven a conductora por atropello de niño en Chiguayante, pero la condenan por huir del lugar",
