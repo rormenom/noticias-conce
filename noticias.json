@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T08:40:23.244Z",
+ "generado": "2026-11-19T08:50:25.227Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 10,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 55,
+    "enlaces": 155,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,27 +74,13 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 5,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/biobio-municipios-funcionarios-publicos-condenados.html",
-   "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
-   "resumen": "El listado también incluye los servicios de Salud Arauco y Concepción, además del SLEP Andalién Sur. Con 12 instituciones en total, el Biobío se ubica tercero a nivel nacional.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-contraloria-region.biobio.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/escuela-de-verano-udec-2027-el-tiempo-como-punto-de-encuentro-entre-ciencias-artes-comunidad-universitaria.html",
    "titulo": "Escuela de Verano UdeC 2027: “El Tiempo” como punto de encuentro entre las ciencias, las artes y la comunidad universitaria",
@@ -106,6 +92,20 @@
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/biobio-municipios-funcionarios-publicos-condenados.html",
+   "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
+   "resumen": "El listado también incluye los servicios de Salud Arauco y Concepción, además del SLEP Andalién Sur. Con 12 instituciones en total, el Biobío se ubica tercero a nivel nacional.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-contraloria-region.biobio.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
