@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T13:50:23.182Z",
+ "generado": "2026-11-19T14:00:39.645Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -59,11 +59,12 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 4,
-    "enlaces": 158,
-    "leidas": 62,
-    "errores": 0,
-    "robots": 0
+    "paginas": 3,
+    "enlaces": 95,
+    "leidas": 55,
+    "errores": 2,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/17/caotica-venta-de-entradas-de-shakira-en-venezuela-cantante-regresara-tras-16-anos.shtml)"
    }
   },
   {
@@ -73,8 +74,8 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
-    "leidas": 8,
+    "enlaces": 32,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -268,6 +269,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/gran-concepcion-retroceso-ranking-global-desafios-urbanos.html",
+   "titulo": "Expansión urbana, presión inmobiliaria y obras pendientes apremian al Gran Concepción",
+   "resumen": "A propósito de los resultados del Índice Global de Ciudades de Oxford Economics, académicos advierten sobre un crecimiento que presiona zonas naturales y enfrenta una planificación metropolitana desactualizada, mientras apuntan a la necesidad de concretar…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-obra-abandonada-en-Plaza-Peru-foto-carolina-e1795034241571.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/biobio-municipios-funcionarios-publicos-condenados.html",
    "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
    "resumen": "El listado también incluye los servicios de Salud Arauco y Concepción, además del SLEP Andalién Sur. Con 12 instituciones en total, el Biobío se ubica tercero a nivel nacional.",
@@ -329,20 +344,6 @@
    "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
    "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261118-WA3056.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/gran-concepcion-retroceso-ranking-global-desafios-urbanos.html",
-   "titulo": "Expansión urbana, presión inmobiliaria y obras pendientes apremian al Gran Concepción",
-   "resumen": "A propósito de los resultados del Índice Global de Ciudades de Oxford Economics, académicos advierten sobre un crecimiento que presiona zonas naturales y enfrenta una planificación metropolitana desactualizada, mientras apuntan a la necesidad de concretar…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-obra-abandonada-en-Plaza-Peru-foto-carolina-e1795034241571.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
