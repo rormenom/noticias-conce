@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T19:00:30.269Z",
+ "generado": "2026-11-19T19:10:31.194Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 19,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
+    "enlaces": 159,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,35 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/19/viaje-florianopolis-brasil-cancun-mexico.html",
+   "titulo": "¿Playa en Brasil o México? Paquete a Florianópolis vs. paquetes a Cancún",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/playa-en-brasil-o-mexico-paquete-a-florianopolis-vs-paquetes-a-cancun-145350.jpg.jpeg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-19T19:10:31.194Z",
+   "visto": "2026-11-19T19:10:31.194Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/pese-a-encabezar-repunte-lila-fernando-diaz-dejo-potente-senal-sobre-su-futuro-en-dep-concepcion",
+   "titulo": "Aunque lideró el repunte lila, Fernando Díaz dejó una clara señal sobre su futuro en Deportes Concepción",
+   "resumen": "El notable repunte de Deportes Concepción con Fernando Díaz al mando se contrapone a las dudas sobre la continuidad del técnico. En medio de la lucha del equipo por conseguir un lugar en la Copa Sudamericana, el entrenador chileno dio a entender que su etapa…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/concepcion-fernando-diaz-renovacion.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T19:10:31.194Z",
+   "visto": "2026-11-19T19:10:31.194Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/cge-apelacion-corte-suprema-multa-medidores-sec.html",
    "titulo": "CGE confirmó apelación ante la Corte Suprema por sanción vinculada a medidores",
@@ -1677,20 +1706,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T08:40:21.405Z",
    "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/18/encuentran-a-pudu-en-el-patio-de-una-casa-en-concepcion/",
-   "titulo": "Encuentran a pudú en el patio de una casa en Concepción",
-   "resumen": "El SAG recibió la denuncia y devolvió al mamífero a su hábitat natural, en buen estado.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/pudu-nonguen-sag-biobio-768x447.jpeg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-18T07:47:27.000Z",
-   "visto": "2026-11-18T12:00:27.664Z",
    "cats": [
     "regional"
    ],
