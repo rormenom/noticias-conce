@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T14:30:28.140Z",
+ "generado": "2026-11-19T15:00:29.402Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 159,
+    "enlaces": 156,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,56 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 8,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/19/arqueologia-bajo-el-puente-industrial-presentan-libro-con-los-hallazgos-hallados-durante-la-obra",
+   "titulo": "Arqueología bajo el Puente Industrial: presentan libro con los hallazgos hallados durante la obra",
+   "resumen": "Los restos arqueológicos recuperados durante la construcción del Puente Industrial en el Gran Concepción quedaron reunidos en un libro divulgativo que busca acercar la historia local a la comunidad, a establecimientos educacionales y a la red de bibliotecas.…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-19-at-11.22.17-e1795099219520.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-19T15:00:29.402Z",
+   "visto": "2026-11-19T15:00:29.402Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/a-casi-dos-meses-del-anuncio-san-pedro-de-la-paz-aun-espera-189-millones-del-plan-escudo-de-barrio.shtml",
+   "titulo": "A casi dos meses del anuncio: San Pedro de la Paz aún espera $189 millones del Plan Escudo de Barrio",
+   "resumen": "La Subsecretaría de Prevención del Delito aún no transfiere los $189 millones destinados a financiar las medidas de seguridad...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025071-a-casi-dos-meses-del-anuncio_-san-pedro-de-la-paz-aun-espera-189-millones-del-plan-escudo-de-barrio-2.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-19T14:57:18.000Z",
+   "visto": "2026-11-19T15:00:29.402Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/hualqui-tendra-el-primer-puente-sustentable-construido-con-contenedores-maritimos/",
+   "titulo": "Hualqui tendrá el primer puente sustentable construido con contenedores marítimos",
+   "resumen": "En enero próximo, Hualqui contará con el primer puente sustentable […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Foto-puente-hualqui-768x432.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-19T14:53:35.000Z",
+   "visto": "2026-11-19T15:00:29.402Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/hasta-cuando-llueve-concepcion-pronostico.html",
    "titulo": "¿Hasta cuándo llueve en Concepción? Revisa el pronóstico del tiempo para el fin de semana y cuándo vuelve el sol",
@@ -1572,34 +1615,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/advierten-riesgos-por-tormentas-electricas-en-la-cordillera-del-biobio-y-llaman-a-evitar-ascensos",
-   "titulo": "Advierten riesgos por tormentas eléctricas en la cordillera del Biobío y llaman a evitar ascensos",
-   "resumen": "Ante las condiciones meteorológicas inestables, autoridades del Biobío recomendaron suspender temporalmente las actividades de montaña y evitar recorridos de riesgo. La presencia de tormentas eléctricas, lluvias intensas de corta duración y fuertes vientos…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/62-e1794944728307.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T19:50:24.406Z",
-   "visto": "2026-11-17T19:50:24.406Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/17/corte-suprema-confirma-que-municipalidad-de-concepcion-despidio-a-funcionaria-por-razones-politicas.shtml",
-   "titulo": "Corte Suprema confirma que Municipalidad de Concepción despidió a funcionaria por razones políticas",
-   "resumen": "La Corte Suprema rechazó el recurso presentado por la Municipalidad de Concepción para intentar anular el fallo que declaró como...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022773-municipalidad-concepcion-paro.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T19:39:14.000Z",
-   "visto": "2026-11-17T19:40:21.088Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/medio-ambiente-cyt/2026/11/17/alertan-masiva-presencia-de-tortugas-invasoras-se-multiplican-y-pueden-transmitir-graves-infecciones.shtml",
    "titulo": "Alertan masiva presencia de tortugas invasoras: se multiplican y pueden transmitir graves infecciones",
    "resumen": "Lo que partió como una mascota para los niños hoy tiene en alerta a un barrio de Talcahuano. Vecinos de...",
@@ -1610,20 +1625,6 @@
    "visto": "2026-11-17T19:40:21.088Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/autoridades-de-antuco-solicitan-mayor-fiscalizacion-de-lanchas-en-laguna-del-laja-por-riesgos-ambientales-y-pesca-ilegal",
-   "titulo": "Autoridades de Antuco solicitan mayor fiscalización de lanchas en Laguna del Laja por riesgos ambientales y pesca ilegal",
-   "resumen": "Desde el municipio de Antuco plantearon la necesidad de contar con una Capitanía de Puerto que permita reforzar el control de embarcaciones motorizadas en la Laguna del Laja. Advierten posibles daños al ecosistema y cuestionan que las fiscalizaciones se…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/HXQnCrcWEAAWr88-e1794942480913.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T19:20:20.402Z",
-   "visto": "2026-11-17T19:20:20.402Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2398,20 +2399,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-14T16:20:20.828Z",
    "visto": "2026-11-14T16:20:20.828Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/14/a-la-vialina-fernandez-vial-sufrio-para-arrancar-la-llave-ante-puente-alto-con-un-triunfo.html",
-   "titulo": "A la vialina: Fernández Vial sufrió para arrancar la llave ante Puente Alto con un triunfo",
-   "resumen": "El Almirante jugó un gran primer tiempo y fue otro equipo completamente en el segundo. De milagro no le empataron. El “Inmortal” está a 90 minutos del ascenso a Tercera División A.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/CEM_8576.JPG.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-14T15:00:00.000Z",
-   "visto": "2026-11-15T00:30:24.079Z",
    "cats": [
     "deportes"
    ],
