@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T19:00:32.533Z",
+ "generado": "2026-11-20T19:10:23.509Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 149,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/campana-vph-hablemos-hoy-concepcion.html",
+   "titulo": "“VPH: Hablemos Hoy”: la nueva campaña impulsada desde Concepción para prevenir el virus del papiloma humano",
+   "resumen": "Con el respaldo de instituciones públicas y privadas de salud, la iniciativa estrenó su primer capítulo en la cuarta temporada del podcast Salvé el Mundo Hoy para educar y promover el acceso a controles preventivos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/papiloma-humano-e1795201375270.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T19:10:23.509Z",
+   "visto": "2026-11-20T19:10:23.509Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/concepcion-tala-eucalipto-centenario-lorenzo-arenas.html",
    "titulo": "Cuando el viento traía su aroma: la nostalgia por la tala del centenario eucalipto de Lorenzo Arenas",
@@ -1621,20 +1635,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/subse-agricultura-por-sector-forestal-pocas-politicas-publicas-poco-incentivo-normas-poco-claras",
-   "titulo": "Subse. Agricultura por sector forestal: \"Pocas políticas públicas, poco incentivo, normas poco claras\"",
-   "resumen": "En Coronel comenzó una nueva versión de la Expocorma, instancia que reúne charlas, exposiciones y stands de marcas del sector forestal. La cita se desarrolla en un contexto complejo para la región del Bío Bío, con una tasa de desempleo de 10,5% y una…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-19-a-las-7.21.36%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T10:30:27.562Z",
-   "visto": "2026-11-19T10:30:27.562Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
