@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T20:50:18.728Z",
+ "generado": "2026-11-20T21:10:21.292Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 61,
+    "enlaces": 150,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/presencia-de-fragata-portuguesa-obliga-a-prohibir-ingreso-al-agua-en-playa-lenga-de-hualpen",
+   "titulo": "Fragata portuguesa obliga a prohibir el baño en playa Lenga, en Hualpén",
+   "resumen": "La Seremi de Salud del Bío Bío dispuso este viernes la prohibición de bañarse y practicar actividades recreativas o deportivas en el agua en playa Lenga, comuna de Hualpén, luego de confirmarse la presencia de ejemplares de fragata portuguesa. La decisión se…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-1-22.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T21:10:21.292Z",
+   "visto": "2026-11-20T21:10:21.292Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/presencia-de-fragata-portuguesa-obliga-a-prohibir-ingreso-al-agua-en-playa-lenga-de-hualpen.shtml",
    "titulo": "Presencia de fragata portuguesa obliga a prohibir ingreso al agua en playa Lenga de Hualpén",
@@ -606,6 +620,20 @@
    "local": true
   },
   {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/bio-bio-concentra-4-de-las-5-comunas-mas-expuestas-a-incendios-forestales-y-132-campamentos-en-riesgo",
+   "titulo": "Bío Bío concentra 4 de las 5 comunas más expuestas a incendios forestales y 132 campamentos en riesgo",
+   "resumen": "La Región del Bío Bío lidera el ranking de comunas con mayor exposición a incendios forestales, según el Plan de Prevención de Incendios entregado por el Ministerio de Vivienda. El informe identifica zonas de riesgo para definir planes de acción y ubica a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/01/Captura-de-pantalla-2026-01-21-a-las-6.04.20%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T10:30:24.112Z",
+   "visto": "2026-11-20T10:30:24.112Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/20/dos-nuevas-salidas-en-el-gobierno-renuncian-la-seremi-de-salud-y-la-directora-del-senama-en-bio-bio",
    "titulo": "Renuncian la seremi de Salud y la directora del Senama en la región del Bío Bío",
    "resumen": "El gobierno del presidente José Antonio Kast enfrenta dos nuevas renuncias, esta vez en la región del Bío Bío. Ambas autoridades pertenecen al Partido Cristiano de Chile, y una de ellas se desempeñaba como seremi. En las últimas horas, la seremi de Salud,…",
@@ -617,20 +645,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/bio-bio-concentra-4-de-las-5-comunas-mas-expuestas-a-incendios-forestales-y-132-campamentos-en-riesgo",
-   "titulo": "Bío Bío concentra 4 de las 5 comunas más expuestas a incendios forestales y 132 campamentos en riesgo",
-   "resumen": "La Región del Bío Bío lidera el ranking de comunas con mayor exposición a incendios forestales, según el Plan de Prevención de Incendios entregado por el Ministerio de Vivienda. El informe identifica zonas de riesgo para definir planes de acción y ubica a…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/01/Captura-de-pantalla-2026-01-21-a-las-6.04.20%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T10:30:24.112Z",
-   "visto": "2026-11-20T10:30:24.112Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
