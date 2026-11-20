@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T14:40:20.713Z",
+ "generado": "2026-11-20T15:10:20.136Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
+    "enlaces": 155,
     "leidas": 64,
     "errores": 0,
     "robots": 0
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 36,
+    "enlaces": 35,
     "leidas": 5,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/protesta-hualpen-dragado-enap-san-vicente.html",
+   "titulo": "“Nuestras fuentes de trabajo están en peligro”: pescadores artesanales se movilizan por dragado en la bahía de San Vicente",
+   "resumen": "Desde la estatal afirmaron que el proyecto está en evaluación y cuenta con medidas de mitigación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Imagen-pag-1-puerto-San-Vicente-foto-archivo-carolina-e1795187129242.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T15:10:20.136Z",
+   "visto": "2026-11-20T15:10:20.136Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/jovenes-reinsercion-capacitacion-laboral-concepcion.html",
    "titulo": "Seis jóvenes en cumplimiento de sanción culminan cursos de preparación laboral en el Biobío",
@@ -421,20 +436,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
-   "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
-   "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/incendio-forestal-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
    "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
    "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
@@ -445,6 +446,20 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
+   "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
+   "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/incendio-forestal-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1721,20 +1736,6 @@
    "cats": [
     "deportes",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/juegos-odesur-2030-region-del-biobio-sera-sede",
-   "titulo": "Odesur confirma al Bío Bío como sede de los Juegos Suramericanos 2030, un sueño hecho realidad",
-   "resumen": "La región del Bío Bío fue elegida para albergar los Juegos Suramericanos (Odesur) 2030. La Organización Deportiva Sudamericana informó este miércoles que aceptó la candidatura de la zona, que recibirá el relevo de Santa Fe 2026, en Argentina. Autoridades,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T20:30:26.920Z",
-   "visto": "2026-11-18T20:30:26.920Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
