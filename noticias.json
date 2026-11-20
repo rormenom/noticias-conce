@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T22:10:20.681Z",
+ "generado": "2026-11-20T22:30:31.487Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/cpc-biobio-mesa-defensa-empleo-reunion-crisis-laboral.html",
+   "titulo": "CPC Biobío y Mesa por la Defensa del Empleo se reúnen para enfrentar crisis laboral",
+   "resumen": "La CPC Biobío y los sindicatos de la Mesa por la Defensa del Empleo sostuvieron una primera reunión para analizar el desempleo en el Biobío y proyectaron nuevas citas para buscar propuestas en conjunto",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/dosprime-800x534.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T22:30:31.487Z",
+   "visto": "2026-11-20T22:30:31.487Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/embarcacion-aplasta-a-personas-en-caleta-infiernillo-en-talcahuano",
    "titulo": "Embarcación impacta y aplasta a varias personas en Caleta Infiernillo, Talcahuano",
@@ -1619,20 +1633,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/absuelven-a-conductora-por-atropello-de-nino-en-chiguayante-pero-la-condenan-por-huir-del-lugar.shtml",
-   "titulo": "Absuelven a conductora por atropello de niño en Chiguayante, pero la condenan por huir del lugar",
-   "resumen": "Solo por el delito de huir y no prestar auxilio fue declarada culpable una psicóloga que el año pasado atropelló...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025019-foto-contexto-nota-bbcl-2026-11-19t103357-358.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-19T13:35:01.000Z",
-   "visto": "2026-11-19T13:40:22.312Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
