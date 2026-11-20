@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T11:20:27.354Z",
+ "generado": "2026-11-20T11:30:30.078Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -59,12 +59,11 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 2,
-    "enlaces": 79,
-    "leidas": 52,
-    "errores": 3,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/medio-ambiente-cyt/2026/11/18/no-habia-comida-estudio-muestra-como-la-sequia-extrema-extinguio-a-una-poblacion-de-degus-en-maipu.shtml)"
+    "paginas": 4,
+    "enlaces": 153,
+    "leidas": 65,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -75,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/hualpen-vecinos-protestan-contra-proyecto-de-dragado-de-enap-en-bahia-de-san-vicente",
+   "titulo": "Hualpén: vecinos protestan contra proyecto de dragado de ENAP en bahía de San Vicente",
+   "resumen": "Alrededor de un centenar de personas se congregó desde las 07:00 de la mañana de este viernes en la intersección de las avenidas Gran Bretaña con Golondrinas, en el sector Cuatro Esquinas para manifestarse en rechazo a una iniciativa impulsada por la Empresa…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Sin-titulo-5-e1795173882319.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T11:30:30.078Z",
+   "visto": "2026-11-20T11:30:30.078Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/renuncias-seremi-salud-senama-biobio.html",
    "titulo": "Nuevas renuncias: motivos personales marcan la salida de dos autoridades regionales del Biobío en Salud y Senama",
@@ -888,10 +901,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/con-mira-en-los-odesur-2030-la-joyita-de-talcahuano-logro-tricampeonato-nacional",
-   "titulo": "Con mira en los Odesur 2030: \"La Joyita\" de Talcahuano logró tricampeonato nacional",
-   "resumen": "Nueve regatas, nueve victorias. Con ese marcador perfecto, Carlos del Solar, capitán de La Joyita de Talcahuano, se quedó con el Campeonato Nacional de la clase J24, disputado en Algarrobo. Según se destacó en una conversación con el navegante, nadie había…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-18-at-7.36.35-AM.jpeg",
+   "url": "https://www.canal9.cl/episodios/2026/11/19/comunas-del-biobio-avanzan-en-la-construccion-de-cortafuegos-para-proteger-viviendas-ante-incendios-forestales",
+   "titulo": "Comunas del Biobío avanzan en la construcción de cortafuegos para proteger viviendas ante incendios forestales",
+   "resumen": "En la provincia de Biobío, distintas comunas refuerzan las medidas preventivas frente a la temporada de incendios forestales. Los Ángeles, Mulchén y Cabrero figuran entre las zonas con superficies expuestas a un riesgo muy alto, mientras autoridades llaman a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Enero-28-Cortafuegos-Los-Angeles-e1795105763987.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-19T16:30:26.266Z",
@@ -902,10 +915,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/comunas-del-biobio-avanzan-en-la-construccion-de-cortafuegos-para-proteger-viviendas-ante-incendios-forestales",
-   "titulo": "Comunas del Biobío avanzan en la construcción de cortafuegos para proteger viviendas ante incendios forestales",
-   "resumen": "En la provincia de Biobío, distintas comunas refuerzan las medidas preventivas frente a la temporada de incendios forestales. Los Ángeles, Mulchén y Cabrero figuran entre las zonas con superficies expuestas a un riesgo muy alto, mientras autoridades llaman a…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Enero-28-Cortafuegos-Los-Angeles-e1795105763987.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/19/con-mira-en-los-odesur-2030-la-joyita-de-talcahuano-logro-tricampeonato-nacional",
+   "titulo": "Con mira en los Odesur 2030: \"La Joyita\" de Talcahuano logró tricampeonato nacional",
+   "resumen": "Nueve regatas, nueve victorias. Con ese marcador perfecto, Carlos del Solar, capitán de La Joyita de Talcahuano, se quedó con el Campeonato Nacional de la clase J24, disputado en Algarrobo. Según se destacó en una conversación con el navegante, nadie había…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-18-at-7.36.35-AM.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-19T16:30:26.266Z",
@@ -1766,20 +1779,6 @@
    "visto": "2026-11-18T17:30:25.942Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/nico-ruiz-vuelve-a-casa-su-gira-instinto-ya-causa-furor-en-concepcion",
-   "titulo": "¡Nico Ruiz vuelve a casa! su gira “Instinto” ya causa furor en Concepción",
-   "resumen": "El cantante penquista Nico Ruiz, presentó en Nuestra Casa su gira Instinto, que llegará a Concepción el 29 de noviembre. En la conversación habló de su paso por Santiago, el gesto de Marco Antonio Solís en un concierto en California, su participación en la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/nico.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T16:50:20.865Z",
-   "visto": "2026-11-18T16:50:20.865Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
