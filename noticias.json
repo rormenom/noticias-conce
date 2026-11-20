@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T10:30:24.112Z",
+ "generado": "2026-11-20T10:40:21.568Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 63,
+    "enlaces": 153,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
-    "leidas": 7,
+    "enlaces": 34,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/condenan-a-11-anos-de-carcel-a-expresidente-del-colegio-medico-de-los-angeles-por-delitos-sexuales",
+   "titulo": "Condenan a 11 años de cárcel a expresidente del colegio médico de Los Ángeles por delitos sexuales",
+   "resumen": "El Tribunal Oral en lo Penal de Los Ángeles sentenció a casi 11 años de cárcel efectiva al médico urólogo Miguel Ángel Sepúlveda, quien presidió el colegio médico de esa ciudad, por delitos sexuales. El fallo se conoció durante la jornada de este jueves 19 de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/09/formalizan-a-cuatro-internos-de-la-carcel-de-angol-por-asesinato-de-sujeto-imputado-por-homicidio.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T10:40:21.568Z",
+   "visto": "2026-11-20T10:40:21.568Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/dos-nuevas-salidas-en-el-gobierno-renuncian-la-seremi-de-salud-y-la-directora-del-senama-en-bio-bio",
    "titulo": "Renuncian la seremi de Salud y la directora del Senama en la región del Bío Bío",
@@ -1763,20 +1777,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-18T16:30:27.918Z",
    "visto": "2026-11-18T16:30:27.918Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/alerta-temprana-marejadas-anormales-biobio.html",
-   "titulo": "Biobío: declaran Alerta Temprana Preventiva por marejadas anormales",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2024/12/marejadas-e1735588568804.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T16:00:28.877Z",
-   "visto": "2026-11-18T16:00:28.877Z",
    "cats": [
     "regional"
    ],
