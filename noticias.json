@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T13:20:21.119Z",
+ "generado": "2026-11-20T13:28:33.237Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 66,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,42 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 34,
-    "leidas": 4,
+    "enlaces": 35,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/os7-de-carabineros-detiene-a-cinco-personas-e-incauta-mas-de-3-000-dosis-de-droga-y-armas-en-concepcion",
+   "titulo": "OS7 de Carabineros detiene a cinco personas e incauta más de 3.000 dosis de droga y armas en Concepción",
+   "resumen": "Entre los imputados figura un adolescente y un ciudadano venezolano con situación migratoria irregular. El procedimiento policial además permitió sacar de circulación vehículos, dinero en efectivo y armamento. Un operativo desplegado por personal…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/social-os7-e1795181074330.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T13:28:33.237Z",
+   "visto": "2026-11-20T13:28:33.237Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/video-vehiculo-queda-incrustrado-en-barrera-de-contencion-a-metros-de-una-casa-en-concepcion",
+   "titulo": "VIDEO | Auto impacta una barrera de contención junto a una vivienda en Concepción",
+   "resumen": "Un automóvil terminó atrapado y “colgando” sobre una barrera de contención luego de un accidente de tránsito ocurrido en la Avenida 21 de Mayo, en Concepción, en sentido hacia Talcahuano. El hecho se registró cerca de las 05:30 horas, en las inmediaciones de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/capturas.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T13:28:33.237Z",
+   "visto": "2026-11-20T13:28:33.237Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/video-vehiculo-queda-incrustrado-en-barrera-de-contencion-a-metros-de-una-casa-en-concepcion.shtml",
    "titulo": "VIDEO | Vehículo queda incrustrado en barrera de contención a metros de una casa en Concepción",
@@ -1734,34 +1762,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-18T20:00:29.935Z",
    "visto": "2026-11-18T20:00:29.935Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/cchc-advierte-falta-de-grandes-proyectos-de-infraestructura-en-biobio-para-2027-y-2028",
-   "titulo": "CChC advierte falta de grandes proyectos de infraestructura en Bío Bío hasta 2028",
-   "resumen": "La Cámara Chilena de la Construcción alertó sobre un eventual estancamiento de las grandes obras de infraestructura en la Región del Bío Bío durante los próximos dos años. Mientras el gremio advierte una falta de proyectos próximos a ejecutarse, desde el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/construccion-cchc-e1795029103154.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T19:20:23.705Z",
-   "visto": "2026-11-18T19:20:23.705Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/bono-recuperacion-biobio.html",
-   "titulo": "Por sistemas frontales: Bono de Recuperación superó los 2.600 hogares beneficiados en Biobío",
-   "resumen": "La última entrega destinó $24.375.000 a 47 hogares de Talcahuano, Arauco y Lebu; afectados por el sistema frontal de julio. Los pagos por las emergencias meteorológicas de julio a septiembre suman casi dos mil millones en la región.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-18-at-3.25.53-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T18:50:21.243Z",
-   "visto": "2026-11-18T18:50:21.243Z",
    "cats": [
     "regional"
    ],
