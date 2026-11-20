@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T18:30:26.056Z",
+ "generado": "2026-11-20T18:50:29.537Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 148,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -153,12 +153,12 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/tala-eucalipto-centenario-lorenzo-arenas.html",
-   "titulo": "Cuando el viento traía su aroma: la nostalgia por la tala del centenario eucalipto de Lorenzo Arenas",
-   "resumen": "La eliminación del ejemplar, ubicado en el antiguo terreno de la Aldea Infantil SOS, significó la pérdida de un refugio para la biodiversidad ligado a los recuerdos de generaciones de residentes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/tala-eucalipto-centenario-lorenzo-arenas.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
+   "url": "https://www.canal9.cl/episodios/2026/11/20/operacion-cofradia-del-golfo-deja-22-detenidos-y-decomiso-de-drogas-por-313-millones-en-arauco",
+   "titulo": "Operativo contra la Cofradía del Golfo deja 22 detenidos e incauta drogas valoradas en $313 millones en Arauco",
+   "resumen": "La operación “Cofradía del Golfo”, realizada por la Policía de Investigaciones (PDI) junto a la Fiscalía Local de Arauco, terminó con 22 detenidos y permitió desarticular una organización dedicada al tráfico de drogas en esa comuna de la región del Bío Bío.…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-83.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
    "fecha": "2026-11-20T17:10:20.916Z",
    "visto": "2026-11-20T17:10:20.916Z",
    "cats": [
@@ -167,12 +167,12 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/operacion-cofradia-del-golfo-deja-22-detenidos-y-decomiso-de-drogas-por-313-millones-en-arauco",
-   "titulo": "Operativo contra la Cofradía del Golfo deja 22 detenidos e incauta drogas valoradas en $313 millones en Arauco",
-   "resumen": "La operación “Cofradía del Golfo”, realizada por la Policía de Investigaciones (PDI) junto a la Fiscalía Local de Arauco, terminó con 22 detenidos y permitió desarticular una organización dedicada al tráfico de drogas en esa comuna de la región del Bío Bío.…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-83.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/tala-eucalipto-centenario-lorenzo-arenas.html",
+   "titulo": "Cuando el viento traía su aroma: la nostalgia por la tala del centenario eucalipto de Lorenzo Arenas",
+   "resumen": "La eliminación del ejemplar, ubicado en el antiguo terreno de la Aldea Infantil SOS, significó la pérdida de un refugio para la biodiversidad ligado a los recuerdos de generaciones de residentes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/tala-eucalipto-centenario-lorenzo-arenas.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-20T17:10:20.916Z",
    "visto": "2026-11-20T17:10:20.916Z",
    "cats": [
@@ -650,20 +650,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
-   "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
-   "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/incendio-forestal-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
    "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
    "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
@@ -674,6 +660,20 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
+   "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
+   "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/incendio-forestal-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1115,20 +1115,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diaz-continuidad-deportes-concepcion.html",
-   "titulo": "“Nano” Díaz: “Quedan 3 partidos y nadie ha hablado conmigo”",
-   "resumen": "Técnico de D. Concepción se refirió al partido con Huachipato, el ánimo del grupo por pelear una Copa Sudamericana y su posible renovación, sobre lo cual la dirigencia tiene una versión distinta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fernando-Diaz-e1795108418637.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T17:18:12.355Z",
-   "visto": "2026-11-19T17:18:12.355Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/heladerias-gran-concepcion-sumarios-sanitarios.html",
    "titulo": "Gran Concepción: capacitan a trabajadores de heladerías para evitar sumarios sanitarios",
    "resumen": "",
@@ -1139,6 +1125,20 @@
    "visto": "2026-11-19T17:18:12.355Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diaz-continuidad-deportes-concepcion.html",
+   "titulo": "“Nano” Díaz: “Quedan 3 partidos y nadie ha hablado conmigo”",
+   "resumen": "Técnico de D. Concepción se refirió al partido con Huachipato, el ánimo del grupo por pelear una Copa Sudamericana y su posible renovación, sobre lo cual la dirigencia tiene una versión distinta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fernando-Diaz-e1795108418637.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T17:18:12.355Z",
+   "visto": "2026-11-19T17:18:12.355Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
