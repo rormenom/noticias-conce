@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T19:30:23.599Z",
+ "generado": "2026-11-20T20:20:20.840Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 62,
+    "enlaces": 147,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 8,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
@@ -706,20 +706,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
-   "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
-   "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/incendio-forestal-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
    "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
    "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
@@ -730,6 +716,20 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
+   "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
+   "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/incendio-forestal-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
