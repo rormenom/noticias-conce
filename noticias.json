@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T18:10:26.529Z",
+ "generado": "2026-11-20T18:20:20.581Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 61,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/los-bunkers-vecinos-ilustres-talcahuano.html",
+   "titulo": "Los Bunkers son reconocidos como Vecinos Ilustres de Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/07/Fan%C3%A1ticos-aplauden-el-regreso-ac%C3%BAstico-de-Los-Bunkers-con-11-funciones-agotadas-en-Concepci%C3%B3n-e1751667056177.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T18:20:20.581Z",
+   "visto": "2026-11-20T18:20:20.581Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/fatal-incendio-en-santa-ana-fiscalia-pide-5-anos-de-carcel-para-contratista-y-supervisor-de-coelcha",
+   "titulo": "Fiscalía solicita cinco años de prisión para contratista y supervisor de Coelcha por incendio en Santa Ana",
+   "resumen": "La Fiscalía formuló cargos por el fatal incendio ocurrido en febrero de 2023 en Santa Ana, que arrasó con las comunas de Nacimiento y Santa Juana, y pidió cinco años de prisión para los dos acusados relacionados con la empresa eléctrica Coelcha en la región…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/megaincendio-santa-ana.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T18:20:20.581Z",
+   "visto": "2026-11-20T18:20:20.581Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/diputados-cuestionan-renuncias-no-ratificadas-de-autoridades-en-el-biobio-acusan-falta-de-seriedad-y-compromiso-politico",
    "titulo": "Diputados cuestionan renuncias no ratificadas de autoridades en el Biobío: acusan falta de seriedad y compromiso político",
@@ -1356,6 +1384,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/mujeres-emprendedoras-biobio-desafios.html",
+   "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
+   "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261118-WA3056.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T15:00:00.000Z",
+   "visto": "2026-11-20T18:20:20.581Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/a-casi-dos-meses-del-anuncio-san-pedro-de-la-paz-aun-espera-189-millones-del-plan-escudo-de-barrio.shtml",
    "titulo": "A casi dos meses del anuncio: San Pedro de la Paz aún espera $189 millones del Plan Escudo de Barrio",
    "resumen": "La Subsecretaría de Prevención del Delito aún no transfiere los $189 millones destinados a financiar las medidas de seguridad...",
@@ -1594,48 +1636,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/bono-de-recuperacion-en-bio-bio-mas-de-1-800-millones-de-pesos-para-hogares-afectados-por-lluvias",
-   "titulo": "Bono de Recuperación en Bío Bío: más de 1.800 millones de pesos para hogares afectados por lluvias",
-   "resumen": "El Bono de Recuperación, ayuda estatal de libre disposición entregada una sola vez a jefaturas de hogar con viviendas dañadas por sistemas frontales y con la ficha básica de emergencia aplicada, termina esta semana. Autoridades regionales entregaron el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/07/3-CONTEXTO-NEUTRO-WEB-CANAL9-FB-PUBLICADO-MROSALES-1200-1-3.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T09:30:25.420Z",
-   "visto": "2026-11-19T09:30:25.420Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/absuelven-a-conductora-por-atropello-de-un-joven-en-chiguayante-la-condenan-por-abandonar-el-lugar",
-   "titulo": "Absuelven a conductora por atropello de un joven en Chiguayante: la condenan por abandonar el lugar",
-   "resumen": "El Tribunal Oral de Concepción absolvió a Pamela Ordenes del cuasidelito de lesiones, pero la condenó por abandonar el lugar del accidente sin ayudar a la víctima. El atropello ocurrió el 25 de septiembre de 2025 en avenida 8 Oriente de Chiguayante y afectó a…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-19-a-las-6.15.27%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T09:20:20.928Z",
-   "visto": "2026-11-19T09:20:20.928Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/hombre-baleado-es-ingresado-de-urgencia-a-sar-en-hualpen-fue-estabilizado-y-se-nego-denunciar",
-   "titulo": "Un hombre herido a bala fue atendido de urgencia en un SAR de Hualpén y rechazó presentar una denuncia",
-   "resumen": "Durante la noche de este miércoles, un hombre herido a bala fue trasladado de urgencia a un centro asistencial de Hualpén, en la región del Bío Bío. De acuerdo con antecedentes de Radio Bío Bío, el hecho ocurrió cerca de las 21:00 horas en el SAR Cerro…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cntxt-a-1-por-hombre-baleado-es-ingresado-de-urgencia-a-sar-en-hualpen_-fue-estabilizado-y-se-nego-denunciar.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T09:10:20.829Z",
-   "visto": "2026-11-19T09:10:20.829Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
