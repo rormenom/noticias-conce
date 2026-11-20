@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T22:30:31.487Z",
+ "generado": "2026-11-20T22:40:26.895Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/talcahuano-accidente-caleta-infiernillo.html",
+   "titulo": "Talcahuano: accidente con embarcación en Caleta Infiernillo deja dos personas fallecidas y un herido",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/images-_2_-1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T22:40:26.895Z",
+   "visto": "2026-11-20T22:40:26.895Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/cpc-biobio-mesa-defensa-empleo-reunion-crisis-laboral.html",
    "titulo": "CPC Biobío y Mesa por la Defensa del Empleo se reúnen para enfrentar crisis laboral",
