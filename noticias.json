@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T18:50:29.537Z",
+ "generado": "2026-11-20T19:00:32.533Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 62,
+    "enlaces": 150,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/concepcion-tala-eucalipto-centenario-lorenzo-arenas.html",
+   "titulo": "Cuando el viento traía su aroma: la nostalgia por la tala del centenario eucalipto de Lorenzo Arenas",
+   "resumen": "La eliminación del ejemplar, ubicado en el antiguo terreno de la Aldea Infantil SOS, significó la pérdida de un refugio para la biodiversidad ligado a los recuerdos de generaciones de residentes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-arbol-talado-en-Concepci%C3%B3n-foto-montserrat-serra-e1795199650355.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T19:00:32.533Z",
+   "visto": "2026-11-20T19:00:32.533Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/los-bunkers-vecinos-ilustres-talcahuano.html",
    "titulo": "Los Bunkers son reconocidos como Vecinos Ilustres de Talcahuano",
@@ -650,20 +664,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
-   "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
-   "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-energ%C3%ADa-e%C3%B3lica-marina-foto-cc.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
    "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
    "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
@@ -674,6 +674,20 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
+   "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
+   "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-energ%C3%ADa-e%C3%B3lica-marina-foto-cc.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1115,20 +1129,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/heladerias-gran-concepcion-sumarios-sanitarios.html",
-   "titulo": "Gran Concepción: capacitan a trabajadores de heladerías para evitar sumarios sanitarios",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-19-at-1.43.25-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T17:18:12.355Z",
-   "visto": "2026-11-19T17:18:12.355Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diaz-continuidad-deportes-concepcion.html",
    "titulo": "“Nano” Díaz: “Quedan 3 partidos y nadie ha hablado conmigo”",
    "resumen": "Técnico de D. Concepción se refirió al partido con Huachipato, el ánimo del grupo por pelear una Copa Sudamericana y su posible renovación, sobre lo cual la dirigencia tiene una versión distinta.",
@@ -1139,6 +1139,20 @@
    "visto": "2026-11-19T17:18:12.355Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/heladerias-gran-concepcion-sumarios-sanitarios.html",
+   "titulo": "Gran Concepción: capacitan a trabajadores de heladerías para evitar sumarios sanitarios",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-19-at-1.43.25-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T17:18:12.355Z",
+   "visto": "2026-11-19T17:18:12.355Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -2800,21 +2814,6 @@
    "visto": "2026-11-16T12:10:20.678Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/15/parque-museo-pedro-del-rio-zanartu-atrae-miradas-en-el-quinto-festival-ladera-sur.html",
-   "titulo": "Parque Museo Pedro del Río Zañartu atrae miradas en el quinto Festival Ladera Sur",
-   "resumen": "Con un stand, la institución ha  buscado promover su patrimonio natural y cultural para poner en valor la riqueza local y atraer nuevos públicos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-14-at-15.54.00.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T19:00:28.842Z",
-   "visto": "2026-11-15T19:00:28.842Z",
-   "cats": [
-    "tecnologia",
-    "cultura"
    ],
    "local": true
   }
