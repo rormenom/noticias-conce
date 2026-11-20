@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T17:00:29.403Z",
+ "generado": "2026-11-20T17:10:20.916Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 62,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/tala-eucalipto-centenario-lorenzo-arenas.html",
+   "titulo": "Cuando el viento traía su aroma: la nostalgia por la tala del centenario eucalipto de Lorenzo Arenas",
+   "resumen": "La eliminación del ejemplar, ubicado en el antiguo terreno de la Aldea Infantil SOS, significó la pérdida de un refugio para la biodiversidad ligado a los recuerdos de generaciones de residentes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/tala-eucalipto-centenario-lorenzo-arenas.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T17:10:20.916Z",
+   "visto": "2026-11-20T17:10:20.916Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/operacion-cofradia-del-golfo-deja-22-detenidos-y-decomiso-de-drogas-por-313-millones-en-arauco",
+   "titulo": "Operativo contra la Cofradía del Golfo deja 22 detenidos e incauta drogas valoradas en $313 millones en Arauco",
+   "resumen": "La operación “Cofradía del Golfo”, realizada por la Policía de Investigaciones (PDI) junto a la Fiscalía Local de Arauco, terminó con 22 detenidos y permitió desarticular una organización dedicada al tráfico de drogas en esa comuna de la región del Bío Bío.…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-83.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T17:10:20.916Z",
+   "visto": "2026-11-20T17:10:20.916Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/el-lanzazo-vicente-cifuentes-presentara-en-concepcion-su-nuevo-album-junto-a-charly-benavente-y-sebastian-orellana",
    "titulo": "El Lanzazo: Vicente Cifuentes presentará en Concepción su nuevo álbum junto a Charly Benavente y Sebastián Orellana",
@@ -437,6 +465,20 @@
    "local": true
   },
   {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/bio-bio-concentra-4-de-las-5-comunas-mas-expuestas-a-incendios-forestales-y-132-campamentos-en-riesgo",
+   "titulo": "Bío Bío concentra 4 de las 5 comunas más expuestas a incendios forestales y 132 campamentos en riesgo",
+   "resumen": "La Región del Bío Bío lidera el ranking de comunas con mayor exposición a incendios forestales, según el Plan de Prevención de Incendios entregado por el Ministerio de Vivienda. El informe identifica zonas de riesgo para definir planes de acción y ubica a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/01/Captura-de-pantalla-2026-01-21-a-las-6.04.20%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T10:30:24.112Z",
+   "visto": "2026-11-20T10:30:24.112Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/20/dos-nuevas-salidas-en-el-gobierno-renuncian-la-seremi-de-salud-y-la-directora-del-senama-en-bio-bio",
    "titulo": "Renuncian la seremi de Salud y la directora del Senama en la región del Bío Bío",
    "resumen": "El gobierno del presidente José Antonio Kast enfrenta dos nuevas renuncias, esta vez en la región del Bío Bío. Ambas autoridades pertenecen al Partido Cristiano de Chile, y una de ellas se desempeñaba como seremi. En las últimas horas, la seremi de Salud,…",
@@ -448,20 +490,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/bio-bio-concentra-4-de-las-5-comunas-mas-expuestas-a-incendios-forestales-y-132-campamentos-en-riesgo",
-   "titulo": "Bío Bío concentra 4 de las 5 comunas más expuestas a incendios forestales y 132 campamentos en riesgo",
-   "resumen": "La Región del Bío Bío lidera el ranking de comunas con mayor exposición a incendios forestales, según el Plan de Prevención de Incendios entregado por el Ministerio de Vivienda. El informe identifica zonas de riesgo para definir planes de acción y ubica a…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/01/Captura-de-pantalla-2026-01-21-a-las-6.04.20%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T10:30:24.112Z",
-   "visto": "2026-11-20T10:30:24.112Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1583,20 +1611,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/gran-concepcion-retroceso-ranking-global-desafios-urbanos.html",
-   "titulo": "Expansión urbana, presión inmobiliaria y obras pendientes apremian al Gran Concepción",
-   "resumen": "A propósito de los resultados del Índice Global de Ciudades de Oxford Economics, académicos advierten sobre un crecimiento que presiona zonas naturales y enfrenta una planificación metropolitana desactualizada, mientras apuntan a la necesidad de concretar…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-obra-abandonada-en-Plaza-Peru-foto-carolina-e1795034241571.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/biobio-municipios-funcionarios-publicos-condenados.html",
    "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
    "resumen": "El listado también incluye los servicios de Salud Arauco y Concepción, además del SLEP Andalién Sur. Con 12 instituciones en total, el Biobío se ubica tercero a nivel nacional.",
@@ -1696,28 +1710,14 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/sumario-hualqui-protocolos-almacenamiento-farmacos-biobio.html",
-   "titulo": "Tras sumario en Hualqui: municipios del Gran Concepción detallan protocolos de almacenamiento de fármacos",
-   "resumen": "Concepción, Chiguayante y Talcahuano aseguran contar con droguerías comunales y procedimientos ajustados a la normativa sanitaria.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-18-at-18.39.07.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/gran-concepcion-retroceso-ranking-global-desafios-urbanos.html",
+   "titulo": "Expansión urbana, presión inmobiliaria y obras pendientes apremian al Gran Concepción",
+   "resumen": "A propósito de los resultados del Índice Global de Ciudades de Oxford Economics, académicos advierten sobre un crecimiento que presiona zonas naturales y enfrenta una planificación metropolitana desactualizada, mientras apuntan a la necesidad de concretar…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-obra-abandonada-en-Plaza-Peru-foto-carolina-e1795034241571.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
    "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/hombre-baleado-es-ingresado-de-urgencia-a-sar-en-hualpen-fue-estabilizado-y-se-nego-denunciar.shtml",
-   "titulo": "Hombre baleado es ingresado de urgencia a SAR en Hualpén: fue estabilizado y se negó denunciar",
-   "resumen": "La noche de este miércoles un hombre baleado fue ingresado de urgencia en un recinto asistencial de Hualpén, en...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7024636-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-19T02:27:01.000Z",
-   "visto": "2026-11-19T02:30:26.586Z",
    "cats": [
     "regional"
    ],
