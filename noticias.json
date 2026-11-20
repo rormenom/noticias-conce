@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T18:00:29.669Z",
+ "generado": "2026-11-20T18:10:26.529Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 62,
+    "enlaces": 149,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 7,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/diputados-cuestionan-renuncias-no-ratificadas-de-autoridades-en-el-biobio-acusan-falta-de-seriedad-y-compromiso-politico",
+   "titulo": "Diputados cuestionan renuncias no ratificadas de autoridades en el Biobío: acusan falta de seriedad y compromiso político",
+   "resumen": "Las renuncias de la seremi de Salud, Isabel Rojas, y de la directora regional del Senama, Antaris Varela, generaron críticas entre parlamentarios oficialistas y de oposición. Mientras el Partido Cristiano de Chile anunció una reunión para evaluar la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Diseno-sin-titulo-1-1-e1795197771619.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T18:10:26.529Z",
+   "visto": "2026-11-20T18:10:26.529Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/fatal-incendio-en-santa-ana-fiscalia-pide-5-anos-de-carcel-para-contratista-y-supervisor-de-coelcha.shtml",
+   "titulo": "Fatal incendio en Santa Ana: Fiscalía pide 5 años de cárcel para contratista y supervisor de Coelcha",
+   "resumen": "La Fiscalía presentó la acusación por el devastador y mortal incendio registrado en febrero de 2023 en Santa Ana, que...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7026972-megaincendio-santa-ana.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-20T18:02:30.000Z",
+   "visto": "2026-11-20T18:10:26.529Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/obras-nuevo-cesfam-ohiggins-concepcion.html",
    "titulo": "Concepción: recepcionan obras para que nuevo Cesfam O’Higgins empiece a atender en diciembre",
@@ -479,20 +508,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/bio-bio-concentra-4-de-las-5-comunas-mas-expuestas-a-incendios-forestales-y-132-campamentos-en-riesgo",
-   "titulo": "Bío Bío concentra 4 de las 5 comunas más expuestas a incendios forestales y 132 campamentos en riesgo",
-   "resumen": "La Región del Bío Bío lidera el ranking de comunas con mayor exposición a incendios forestales, según el Plan de Prevención de Incendios entregado por el Ministerio de Vivienda. El informe identifica zonas de riesgo para definir planes de acción y ubica a…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/01/Captura-de-pantalla-2026-01-21-a-las-6.04.20%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T10:30:24.112Z",
-   "visto": "2026-11-20T10:30:24.112Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/20/dos-nuevas-salidas-en-el-gobierno-renuncian-la-seremi-de-salud-y-la-directora-del-senama-en-bio-bio",
    "titulo": "Renuncian la seremi de Salud y la directora del Senama en la región del Bío Bío",
    "resumen": "El gobierno del presidente José Antonio Kast enfrenta dos nuevas renuncias, esta vez en la región del Bío Bío. Ambas autoridades pertenecen al Partido Cristiano de Chile, y una de ellas se desempeñaba como seremi. En las últimas horas, la seremi de Salud,…",
@@ -504,6 +519,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/bio-bio-concentra-4-de-las-5-comunas-mas-expuestas-a-incendios-forestales-y-132-campamentos-en-riesgo",
+   "titulo": "Bío Bío concentra 4 de las 5 comunas más expuestas a incendios forestales y 132 campamentos en riesgo",
+   "resumen": "La Región del Bío Bío lidera el ranking de comunas con mayor exposición a incendios forestales, según el Plan de Prevención de Incendios entregado por el Ministerio de Vivienda. El informe identifica zonas de riesgo para definir planes de acción y ubica a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/01/Captura-de-pantalla-2026-01-21-a-las-6.04.20%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T10:30:24.112Z",
+   "visto": "2026-11-20T10:30:24.112Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1605,20 +1634,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-19T09:10:20.829Z",
    "visto": "2026-11-19T09:10:20.829Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/mujeres-emprendedoras-biobio-desafios.html",
-   "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
-   "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261118-WA3056.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
     "regional"
    ],
