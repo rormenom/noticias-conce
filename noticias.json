@@ -1,12 +1,12 @@
 {
- "generado": "2026-11-20T16:40:23.182Z",
+ "generado": "2026-11-20T16:50:19.361Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
    "ok": false,
-   "error": "HTTP 507",
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -36,7 +36,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 156,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -75,13 +75,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/familia-de-trabajadora-fallecida-tras-cumplir-presuntamente-10-dias-seguidos-de-labores-en-mall-plaza-los-angeles-presenta-querella",
+   "titulo": "Familia de trabajadora fallecida tras cumplir presuntamente 10 días seguidos de labores en Mall Plaza Los Ángeles presenta querella",
+   "resumen": "La acción judicial por cuasidelito de homicidio busca esclarecer las circunstancias del fallecimiento de una mujer de 57 años, quien prestaba servicios para una empresa externa de seguridad. La familia acusa posibles incumplimientos de las obligaciones de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/26-11-2021_13-57-50mall-e1795193239399.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T16:50:19.361Z",
+   "visto": "2026-11-20T16:50:19.361Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/nosotras-en-la-musica-biobio-2026.html",
    "titulo": "‘Nosotras en la Música’ realizará segunda edición con paneles sobre creación, tecnología e industria musical",
