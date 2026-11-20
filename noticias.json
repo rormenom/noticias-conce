@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T12:30:26.766Z",
+ "generado": "2026-11-20T13:10:30.925Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 153,
     "leidas": 66,
     "errores": 0,
     "robots": 0
@@ -309,6 +309,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/20/los-lugares-que-asoman-como-fijos-para-recibir-deportes-en-los-odesur-2030.html",
+   "titulo": "Los lugares que asoman como fijos para recibir deportes en los Odesur 2030",
+   "resumen": "Con la reciente confirmación de los Juegos en el Bíobío, ahora falta definir y oficializar qué recintos se ocuparán para cada disciplina, aunque hay algunos que corren con ventaja y fueron parte de la propuesta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casa-del-deporte.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
    "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
    "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
@@ -333,20 +347,6 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/20/los-lugares-que-asoman-como-fijos-para-recibir-deportes-en-los-odesur-2030.html",
-   "titulo": "Los lugares que asoman como fijos para recibir deportes en los Odesur 2030",
-   "resumen": "Con la reciente confirmación de los Juegos en el Bíobío, ahora falta definir y oficializar qué recintos se ocuparán para cada disciplina, aunque hay algunos que corren con ventaja y fueron parte de la propuesta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casa-del-deporte.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   },
