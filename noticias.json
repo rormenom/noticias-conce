@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T10:40:21.568Z",
+ "generado": "2026-11-20T10:50:24.377Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 152,
     "leidas": 64,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,35 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/dueno-de-automotora-hdr-se-presento-al-tribunal-sera-formalizado-por-estafar-a-32-personas-con-discapacidad",
+   "titulo": "Dueño de automotora HDR se presentó al tribunal: será formalizado por estafar a 32 personas con discapacidad",
+   "resumen": "El Juzgado de Garantía de Concepción reprogramó para el 26 de noviembre la formalización de Reinaldo Lara, dueño de la automotora HDR, acusado de estafar a personas con discapacidad. La nueva fecha quedó fijada después de que el empresario se presentara por…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2025/11/AUTOMOTORA-HDR.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T10:50:24.377Z",
+   "visto": "2026-11-20T10:50:24.377Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/gobernador-del-bio-bio-pide-al-gobierno-reforestar-arauco-para-salvar-golpeada-industria-forestal",
+   "titulo": "Gobernador del Bío Bío pide al Gobierno reforestar Arauco para salvar golpeada industria forestal",
+   "resumen": "El gobernador regional del Bío Bío, Sergio Giacaman, hizo un llamado al Gobierno central para impulsar la reforestación en la Provincia de Arauco y, con eso, levantar a una industria forestal que atraviesa un mal momento. La autoridad pidió al Ejecutivo no…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/07/forestal.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T10:50:24.377Z",
+   "visto": "2026-11-20T10:50:24.377Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/condenan-a-11-anos-de-carcel-a-expresidente-del-colegio-medico-de-los-angeles-por-delitos-sexuales",
    "titulo": "Condenan a 11 años de cárcel a expresidente del colegio médico de Los Ángeles por delitos sexuales",
@@ -1749,34 +1778,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-18T16:40:22.127Z",
    "visto": "2026-11-18T16:40:22.127Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/incendios-forestales-biobio-zonas-alto-riesgo.html",
-   "titulo": "Incendios forestales: cuatro comunas del Biobío figuran entre zonas de alto riesgo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Brigadistas-2-e1793715349447.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T16:30:27.918Z",
-   "visto": "2026-11-18T16:30:27.918Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/lago-laja-registra-importante-recuperacion-de-sus-aguas-pero-sigue-un-42-bajo-su-nivel-historico",
-   "titulo": "Lago Laja registra importante recuperación de sus aguas, pero sigue un 42% bajo su nivel histórico",
-   "resumen": "Pese al superávit de precipitaciones registrado en la provincia de Biobío, el Lago Laja continúa lejos de sus niveles históricos. Sin embargo, el aumento de sus reservas hídricas permitiría garantizar el riego agrícola durante esta temporada y la próxima,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/276ea2c3-2cec-48a6-be23-181b34510e32_desktop.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T16:30:27.918Z",
-   "visto": "2026-11-18T16:30:27.918Z",
    "cats": [
     "regional"
    ],
