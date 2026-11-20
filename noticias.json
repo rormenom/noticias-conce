@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T15:50:27.881Z",
+ "generado": "2026-11-20T16:10:23.596Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 35,
+    "enlaces": 34,
     "leidas": 7,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/operacion-cofradia-del-golfo-deja-22-detenidos-y-decomiso-de-drogas-por-313-millones-en-arauco.shtml",
+   "titulo": "Operación \"Cofradía del Golfo\" deja 22 detenidos y decomiso de drogas por $313 millones en Arauco",
+   "resumen": "Un total de 22 personas fueron detenidas en el marco de la operación “Cofradía del Golfo”, procedimiento desarrollado por la...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7026700-bbcl-83.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-20T16:01:40.000Z",
+   "visto": "2026-11-20T16:10:23.596Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/agrupacion-de-voluntarios-raices-comunitarias-continua-trabajando-con-familias-afectadas-por-incendios-forestales/",
    "titulo": "Agrupación de voluntarios «Raíces Comunitarias» continúa trabajando con familias afectadas por incendios forestales",
@@ -2772,20 +2786,6 @@
    "cats": [
     "regional",
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/bajo-historico-aprobacion-de-jose-antonio-kast-cae-al-18-y-desaprobacion-alcanza-el-72.html",
-   "titulo": "Bajo histórico: aprobación de José Antonio Kast cae al 18% y desaprobación alcanza el 72%",
-   "resumen": "La reciente Encuesta Criteria evidenció el peor resultado de la gestión del actual Presidente de la República.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/08/jose-antonio-kast-e1787678796981.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T16:10:20.239Z",
-   "visto": "2026-11-15T16:10:20.239Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
