@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T22:00:27.468Z",
+ "generado": "2026-11-20T22:10:20.681Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 59,
+    "enlaces": 149,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/embarcacion-aplasta-a-personas-en-caleta-infiernillo-en-talcahuano",
+   "titulo": "Embarcación impacta y aplasta a varias personas en Caleta Infiernillo, Talcahuano",
+   "resumen": "Un serio accidente ocurrió la tarde de este viernes en el sector de Puerto San Vicente en Talcahuano, en la región del Bío Bío. Según los antecedentes iniciales, seis personas habrían quedado bajo una embarcación en la Caleta Infiernillo, y tres de ellas…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T22:10:20.681Z",
+   "visto": "2026-11-20T22:10:20.681Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/embarcacion-aplasta-a-personas-en-caleta-infiernillo-en-talcahuano.shtml",
    "titulo": "Embarcación aplasta a tres personas en Caleta Infiernillo en Talcahuano",
@@ -605,20 +619,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/dueno-de-automotora-hdr-se-presento-al-tribunal-sera-formalizado-por-estafar-a-32-personas-con-discapacidad",
-   "titulo": "Dueño de automotora HDR se presentó al tribunal: será formalizado por estafar a 32 personas con discapacidad",
-   "resumen": "El Juzgado de Garantía de Concepción reprogramó para el 26 de noviembre la formalización de Reinaldo Lara, dueño de la automotora HDR, acusado de estafar a personas con discapacidad. La nueva fecha quedó fijada después de que el empresario se presentara por…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2025/11/AUTOMOTORA-HDR.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T10:50:24.377Z",
-   "visto": "2026-11-20T10:50:24.377Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/20/gobernador-del-bio-bio-pide-al-gobierno-reforestar-arauco-para-salvar-golpeada-industria-forestal",
    "titulo": "Gobernador del Bío Bío pide al Gobierno reforestar Arauco para salvar golpeada industria forestal",
    "resumen": "El gobernador regional del Bío Bío, Sergio Giacaman, hizo un llamado al Gobierno central para impulsar la reforestación en la Provincia de Arauco y, con eso, levantar a una industria forestal que atraviesa un mal momento. La autoridad pidió al Ejecutivo no…",
@@ -630,6 +630,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/dueno-de-automotora-hdr-se-presento-al-tribunal-sera-formalizado-por-estafar-a-32-personas-con-discapacidad",
+   "titulo": "Dueño de automotora HDR se presentó al tribunal: será formalizado por estafar a 32 personas con discapacidad",
+   "resumen": "El Juzgado de Garantía de Concepción reprogramó para el 26 de noviembre la formalización de Reinaldo Lara, dueño de la automotora HDR, acusado de estafar a personas con discapacidad. La nueva fecha quedó fijada después de que el empresario se presentara por…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2025/11/AUTOMOTORA-HDR.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T10:50:24.377Z",
+   "visto": "2026-11-20T10:50:24.377Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1633,20 +1647,6 @@
    "visto": "2026-11-19T13:10:22.385Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/19/autoridades-informan-alcances-de-la-rebaja-de-las-bencinas-y-el-diesel-que-rige-desde-hoy/",
-   "titulo": "Autoridades informan alcances de la rebaja de las bencinas y el diésel que rige desde hoy",
-   "resumen": "En Biobío.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/dpr-biobio-seremi-gobierno--768x512.jpeg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-19T13:08:23.000Z",
-   "visto": "2026-11-19T17:10:23.014Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
