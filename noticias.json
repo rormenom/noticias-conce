@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T14:10:22.761Z",
+ "generado": "2026-11-20T14:20:25.154Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -59,9 +59,9 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 4,
-    "enlaces": 157,
-    "leidas": 65,
+    "paginas": 3,
+    "enlaces": 139,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 5,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/ie-frente-a-la-ia-mentes-expertas-trae-a-borja-vilaseca-a-concepcion-para-hablar-de-inteligencia-emocional",
+   "titulo": "IE frente a la IA: Mentes Expertas trae a Borja Vilaseca a Concepción para hablar de inteligencia emocional",
+   "resumen": "Tras la visita de Tal Ben-Shahar al Biobío, Concepción recibirá una nueva conferencia de Mentes Expertas, esta vez con el escritor español Borja Vilaseca, quien dictará la conferencia “Encantado de conocerme: claves de autoconocimiento”, el lunes 23 de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/AFICHE-1-e1795184246896.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T14:20:25.154Z",
+   "visto": "2026-11-20T14:20:25.154Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/sin-grandes-obras-a-la-vista-advierten-estancamiento-de-proyectos-de-infraestructura-en-bio-bio.shtml",
    "titulo": "Sin grandes obras a la vista: advierten estancamiento de proyectos de infraestructura en Bío Bío",
@@ -1735,20 +1749,6 @@
    "visto": "2026-11-18T20:20:22.983Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/barricadas-y-enfrentamientos-de-estudiantes-en-la-udec-carabineros-intervino-con-carros-lanzaaguas-y-se-reportan-tres-detenidos",
-   "titulo": "Barricadas y enfrentamientos de estudiantes en la UdeC: Carabineros intervino con carros lanzaaguas y se reportan tres detenidos",
-   "resumen": "Una serie de incidentes se registró durante la tarde de este miércoles 18 de noviembre en las afueras de la Universidad de Concepción, en medio de una jornada de movilizaciones estudiantiles y de trabajadores a nivel nacional. Carabineros intervino para…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-18-at-5.05.20-PM.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T20:20:22.983Z",
-   "visto": "2026-11-18T20:20:22.983Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
