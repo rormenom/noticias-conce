@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T09:20:23.131Z",
+ "generado": "2026-11-20T09:40:20.358Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 64,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 6,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/20/plan-biobio-2030-las-comunas-que-ya-tienen-un-deporte-predefinido-para-odesur-y-los-recintos-en-lista.shtml",
+   "titulo": "Plan Biobío 2030: las comunas que ya tienen un deporte predefinido para Odesur y los recintos en lista",
+   "resumen": "La Región del Biobío consolidó su calidad de ciudad deportiva al adjudicarse los Juegos Sudamericanos (Odesur) para el año 2030,...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025534-odesur-2030-en-la-region-del-biobio-foto-de-contexto-1.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-20T09:30:54.000Z",
+   "visto": "2026-11-20T09:40:20.358Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/pescadores-del-bio-bio-exigen-explicaciones-por-la-prorroga-de-un-ano-de-su-regimen-de-captura",
    "titulo": "Pescadores del Bío Bío exigen explicaciones por la prórroga de un año de su régimen de captura",
