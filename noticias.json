@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-20T11:30:30.078Z",
+ "generado": "2026-11-20T12:10:19.889Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -35,7 +36,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +61,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 65,
+    "enlaces": 156,
+    "leidas": 66,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +75,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 5,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/musica-teatro-danza-y-artes-visuales-udec-anuncia-fechas-para-el-congreso-internacional-en-investigacion-de-las-artes-2027.html",
+   "titulo": "Música, teatro, danza y artes visuales: UdeC anuncia fechas para el Congreso Internacional en Investigación de las Artes 2027",
+   "resumen": "El encuentro se desarrollará los días 13, 14 y 15 de enero de 2027 en la Facultad de Humanidades y Arte y el Departamento de Artes Plásticas, con 21 mesas temáticas y asistencia gratuita para todo público.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/CINIA_3d%C3%ADa_57-e1795175880987.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T12:10:19.889Z",
+   "visto": "2026-11-20T12:10:19.889Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/hualpen-vecinos-protestan-contra-proyecto-de-dragado-de-enap-en-bahia-de-san-vicente",
    "titulo": "Hualpén: vecinos protestan contra proyecto de dragado de ENAP en bahía de San Vicente",
