@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-20T17:40:20.264Z",
+ "generado": "2026-11-20T17:50:23.908Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -60,11 +59,12 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 4,
-    "enlaces": 153,
-    "leidas": 63,
-    "errores": 0,
-    "robots": 0
+    "paginas": 3,
+    "enlaces": 132,
+    "leidas": 62,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/20/reclamos-por-shows-cancelados-de-andres-de-leon-en-los-lagos-se-suman-a-demanda-contra-productor.shtml)"
    }
   },
   {
