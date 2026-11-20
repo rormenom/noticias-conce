@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T14:00:30.869Z",
+ "generado": "2026-11-20T14:10:22.761Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 64,
+    "enlaces": 157,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 6,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/sin-grandes-obras-a-la-vista-advierten-estancamiento-de-proyectos-de-infraestructura-en-bio-bio.shtml",
+   "titulo": "Sin grandes obras a la vista: advierten estancamiento de proyectos de infraestructura en Bío Bío",
+   "resumen": "Faltan proyectos transformadores para la región del Bío Bío porque, una vez terminadas obras como el Puente...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7026352-agenciauno-50.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-20T14:04:41.000Z",
+   "visto": "2026-11-20T14:10:22.761Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/acceso-caleta-lenga-vecinos-y-conductores-exigen-solucion-a-baches",
    "titulo": "Acceso Caleta Lenga: vecinos y conductores exigen solución a baches",
