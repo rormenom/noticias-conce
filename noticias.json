@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-20T16:30:32.465Z",
+ "generado": "2026-11-20T16:40:23.182Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 507",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -60,11 +61,10 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 59,
-    "errores": 3,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/19/giro-del-lago-cerca-de-mil-ciclistas-daran-vida-a-emblematico-evento-en-puerto-varas.shtml)"
+    "enlaces": 155,
+    "leidas": 62,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -74,7 +74,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 34,
+    "enlaces": 33,
     "leidas": 7,
     "errores": 0,
     "robots": 0
@@ -82,6 +82,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/nosotras-en-la-musica-biobio-2026.html",
+   "titulo": "‘Nosotras en la Música’ realizará segunda edición con paneles sobre creación, tecnología e industria musical",
+   "resumen": "El encuentro reunirá a artistas, gestoras, productoras y profesionales del sector en tres paneles de conversación sobre los desafíos de las mujeres en la música, además de un plenario con mesas de trabajo. La actividad se realizará este sábado 21 de noviembre…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/3-2-e1795192507972.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T16:40:23.182Z",
+   "visto": "2026-11-20T16:40:23.182Z",
+   "cats": [
+    "cultura",
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/nosotras-en-la-musica-segunda-edicion-paneles-creacion-tecnologia-industria-musical.html",
    "titulo": "Nosotras en la Música realizará segunda edición con paneles sobre creación, tecnología e industria musical",
@@ -509,20 +524,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
-   "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
-   "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-energ%C3%ADa-e%C3%B3lica-marina-foto-cc.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
    "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
    "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
@@ -533,6 +534,20 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
+   "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
+   "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-energ%C3%ADa-e%C3%B3lica-marina-foto-cc.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
