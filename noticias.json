@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T20:20:20.840Z",
+ "generado": "2026-11-20T20:50:18.728Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
+    "enlaces": 148,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/presencia-de-fragata-portuguesa-obliga-a-prohibir-ingreso-al-agua-en-playa-lenga-de-hualpen.shtml",
+   "titulo": "Presencia de fragata portuguesa obliga a prohibir ingreso al agua en playa Lenga de Hualpén",
+   "resumen": "La Seremi de Salud del Bío Bío decretó este viernes la prohibición de ingresar al agua para bañarse y realizar...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027282-bbcl-1-22.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-20T20:47:45.000Z",
+   "visto": "2026-11-20T20:50:18.728Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/acusan-sobreexigencia-laboral-tras-muerte-de-mujer-que-habria-trabajado-10-dias-seguidos-en-mall.shtml",
    "titulo": "Acusan sobreexigencia laboral tras muerte de mujer que habría trabajado 10 días seguidos en mall",
@@ -1634,20 +1648,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/abogado-de-familias-de-fallecidos-en-incendio-de-santa-ana-reclamamos-la-pena-mas-alta",
-   "titulo": "Abogado de familias de fallecidos en incendio Santa Ana: \"Reclamamos la pena más alta\"",
-   "resumen": "El Ministerio Público cerró la investigación por el llamado incendio de Santa Ana, que afectó principalmente a las comunas de Nacimiento, Santa Juana y Coronel. La indagatoria se inició a partir de la primera querella, presentada en febrero de 2023 por la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/07/archiv-a-por-incendio-santa-juana-megaincendio-santa-ana-region-del-bio-bio-2023.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T10:40:23.637Z",
-   "visto": "2026-11-19T10:40:23.637Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
