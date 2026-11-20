@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-20T21:10:21.292Z",
+ "generado": "2026-11-20T21:29:03.961Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -35,7 +36,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,9 +62,10 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 60,
-    "errores": 0,
-    "robots": 0
+    "leidas": 55,
+    "errores": 4,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/internacional/europa/2026/11/20/aunque-vivan-en-espana-mantienen-suspendido-el-voto-a-mas-de-163-mil-descendientes-de-exiliados.shtml)"
    }
   },
   {
@@ -81,6 +83,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/playa-lenga-fragata-portuguesa-prohiben-bano.html",
+   "titulo": "Por fragata portuguesa: prohíben ingreso al agua pára baño y actividades recreativas en Playa Lenga",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/download-8.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T21:29:03.961Z",
+   "visto": "2026-11-20T21:29:03.961Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/presencia-de-fragata-portuguesa-obliga-a-prohibir-ingreso-al-agua-en-playa-lenga-de-hualpen",
    "titulo": "Fragata portuguesa obliga a prohibir el baño en playa Lenga, en Hualpén",
@@ -1631,20 +1647,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-19T12:40:22.072Z",
    "visto": "2026-11-19T12:40:22.072Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/incendio-afecta-a-empresa-ubicada-en-parque-industrial-de-coronel-2.shtml",
-   "titulo": "Incendio afecta a empresa ubicada en Parque Industrial de Coronel",
-   "resumen": "Un incendio afecta la mañana de este jueves a dependencias de la empresa Terramar, ubicada en el Parque Industrial 2...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7024816-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-19T11:52:44.000Z",
-   "visto": "2026-11-19T12:00:30.484Z",
    "cats": [
     "regional"
    ],
