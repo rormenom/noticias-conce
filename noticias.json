@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T09:10:20.036Z",
+ "generado": "2026-11-20T09:20:23.131Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/pescadores-del-bio-bio-exigen-explicaciones-por-la-prorroga-de-un-ano-de-su-regimen-de-captura",
+   "titulo": "Pescadores del Bío Bío exigen explicaciones por la prórroga de un año de su régimen de captura",
+   "resumen": "Los pescadores artesanales del Biobío no lograron ponerse de acuerdo, y la Subsecretaría de Pesca y Acuicultura resolvió por su cuenta prorrogar durante doce meses el régimen artesanal de extracción (RAE) de sardina común y anchoveta. Así lo informó Radio Bío…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/07/pescadores-artesanales-biobio-registro-pesca-.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T09:20:23.131Z",
+   "visto": "2026-11-20T09:20:23.131Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/no-habia-personal-de-seguridad-durante-robo-bci-se-querella-por-8-500-millones-sustraidos-en-bio-bio",
    "titulo": "BCI denuncia falta de guardias tras el robo de $8.500 millones en la región del Bío Bío",
