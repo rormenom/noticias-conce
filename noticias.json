@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T19:10:23.509Z",
+ "generado": "2026-11-20T19:20:29.307Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 61,
+    "enlaces": 148,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/acusan-sobreexigencia-laboral-tras-muerte-de-mujer-que-habria-trabajado-10-dias-seguidos-en-mall.shtml",
+   "titulo": "Acusan sobreexigencia laboral tras muerte de mujer que habría trabajado 10 días seguidos en mall",
+   "resumen": "Una trabajadora de 57 años murió tras sufrir graves problemas de salud que, según acusa una querella presentada ante el...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027067-mallplaza.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-20T19:20:01.000Z",
+   "visto": "2026-11-20T19:20:29.307Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/campana-vph-hablemos-hoy-concepcion.html",
    "titulo": "“VPH: Hablemos Hoy”: la nueva campaña impulsada desde Concepción para prevenir el virus del papiloma humano",
