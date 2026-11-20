@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T14:20:25.154Z",
+ "generado": "2026-11-20T14:40:20.713Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -59,9 +59,9 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 3,
-    "enlaces": 139,
-    "leidas": 59,
+    "paginas": 4,
+    "enlaces": 156,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 11,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/jovenes-reinsercion-capacitacion-laboral-concepcion.html",
+   "titulo": "Seis jóvenes en cumplimiento de sanción culminan cursos de preparación laboral en el Biobío",
+   "resumen": "Los participantes, que cumplen sanción en el Centro de Libertad Asistida Simple ejecutado por Fundación Ciudad del Niño, cerraron el proceso formativo articulado junto al Servicio Nacional de Reinserción Social Juvenil, Sence y la Municipalidad de Concepción.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/jovenes-reinsercion-capacitacion-laboral-concepcion-e1795185366970.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T14:40:20.713Z",
+   "visto": "2026-11-20T14:40:20.713Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/ie-frente-a-la-ia-mentes-expertas-trae-a-borja-vilaseca-a-concepcion-para-hablar-de-inteligencia-emocional",
    "titulo": "IE frente a la IA: Mentes Expertas trae a Borja Vilaseca a Concepción para hablar de inteligencia emocional",
@@ -1718,20 +1732,6 @@
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-18T20:30:26.920Z",
-   "visto": "2026-11-18T20:30:26.920Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/corte-declara-inadmisible-amparo-de-exfiscal-de-los-angeles-formalizado-por-red-de-corrupcion-judicial.shtml",
-   "titulo": "Corte declara inadmisible amparo de exfiscal de Los Ángeles formalizado por red de corrupción judicial",
-   "resumen": "La Corte de Apelaciones de Concepción declaró inadmisible el recurso de amparo presentado por el exfiscal Rodrigo Durán, quien...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7024404-recurso-amparo-exfiscal-formalizado-red-corrupcion-judicial.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-18T20:26:51.000Z",
    "visto": "2026-11-18T20:30:26.920Z",
    "cats": [
     "regional"
