@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T08:40:20.882Z",
+ "generado": "2026-11-20T08:50:21.856Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 8,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 62,
+    "enlaces": 153,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 0,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
@@ -82,14 +82,14 @@
  ],
  "items": [
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
-   "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
-   "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-energ%C3%ADa-e%C3%B3lica-marina-foto-cc.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/no-habia-personal-de-seguridad-durante-robo-bci-se-querella-por-8-500-millones-sustraidos-en-bio-bio.shtml",
+   "titulo": "No había personal de seguridad durante robo: BCI se querella por $8.500 millones sustraídos en Bío Bío",
+   "resumen": "Una serie de diligencias, que incluye la declaración de personal propio y de particulares, pidió el banco BCI en...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7026150-capturas-cedidos-por-no-habia-personal-de-seguridad-durante-robo-bci-se-querella-por-8-500-millones-sustraidos-en-concepcion-bio-bio.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-20T08:45:02.000Z",
+   "visto": "2026-11-20T08:50:21.856Z",
    "cats": [
     "regional"
    ],
@@ -106,6 +106,34 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
+   "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
+   "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-energ%C3%ADa-e%C3%B3lica-marina-foto-cc.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/habitar-el-cerebro-comunidad-podra-experimentar-y-comprender-como-funciona-el-organo-vital.html",
+   "titulo": "“Habitar el Cerebro”: comunidad podrá experimentar y comprender cómo funciona el órgano vital",
+   "resumen": "Una experiencia lúdica e interactiva y gratuita se ofrecerá este sábado 21 de noviembre en el Cicat UdeC.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-cicat-foto-Natalia-Quiero.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
@@ -134,20 +162,6 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "regional",
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/habitar-el-cerebro-comunidad-podra-experimentar-y-comprender-como-funciona-el-organo-vital.html",
-   "titulo": "“Habitar el Cerebro”: comunidad podrá experimentar y comprender cómo funciona el órgano vital",
-   "resumen": "Una experiencia lúdica e interactiva y gratuita se ofrecerá este sábado 21 de noviembre en el Cicat UdeC.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-cicat-foto-Natalia-Quiero.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
     "tecnologia"
    ],
    "local": true
@@ -1752,20 +1766,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/reputacion-empresas-valor-biobio.html",
-   "titulo": "Especialista advierte que cuidar la reputación corporativa es clave para el empleo e inversión en Biobío",
-   "resumen": "Estudio revela que solo tres de cada diez organizaciones evalúan este activo clave para la sostenibilidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-reputaci%C3%B3n-corporativa-foto-pexels.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T15:00:00.000Z",
-   "visto": "2026-11-19T20:30:33.707Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
