@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T08:50:21.856Z",
+ "generado": "2026-11-20T09:10:20.036Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 63,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 31,
-    "leidas": 7,
+    "enlaces": 32,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/no-habia-personal-de-seguridad-durante-robo-bci-se-querella-por-8-500-millones-sustraidos-en-bio-bio",
+   "titulo": "BCI denuncia falta de guardias tras el robo de $8.500 millones en la región del Bío Bío",
+   "resumen": "El banco BCI solicitó en la querella presentada tras el millonario robo ocurrido hace casi dos semanas una serie de diligencias, entre ellas, la declaración de trabajadores de la entidad y de particulares. La acción judicial también describe la ruta que…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/capturas-cedidos-por-no-habia-personal-de-seguridad-durante-robo-bci-se-querella-por-8-500-millones-sustraidos-en-concepcion-bio-bio.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T09:10:20.036Z",
+   "visto": "2026-11-20T09:10:20.036Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/no-habia-personal-de-seguridad-durante-robo-bci-se-querella-por-8-500-millones-sustraidos-en-bio-bio.shtml",
    "titulo": "No había personal de seguridad durante robo: BCI se querella por $8.500 millones sustraídos en Bío Bío",
