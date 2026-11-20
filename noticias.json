@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T11:10:20.826Z",
+ "generado": "2026-11-20T11:20:27.354Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -59,11 +59,12 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 4,
-    "enlaces": 152,
-    "leidas": 64,
-    "errores": 0,
-    "robots": 0
+    "paginas": 2,
+    "enlaces": 79,
+    "leidas": 52,
+    "errores": 3,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/medio-ambiente-cyt/2026/11/18/no-habia-comida-estudio-muestra-como-la-sequia-extrema-extinguio-a-una-poblacion-de-degus-en-maipu.shtml)"
    }
   },
   {
@@ -74,13 +75,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 6,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/renuncias-seremi-salud-senama-biobio.html",
+   "titulo": "Nuevas renuncias: motivos personales marcan la salida de dos autoridades regionales del Biobío en Salud y Senama",
+   "resumen": "Las dimisiones de Isabel Rojas y Antaris Varela, ambas militantes del Partido Cristiano de Chile se suman a otras renuncias en la administración regional del Presidente José Antonio Kast.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Nuevo-remez%C3%B3n-en-el-gabinete-regional-del-Biob%C3%ADo-dimiten-titulares-de-Salud-y-Senama.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T11:20:27.354Z",
+   "visto": "2026-11-20T11:20:27.354Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/los-bunkers-son-nombrados-vecinos-ilustres-de-talcahuano",
+   "titulo": "Los Bunkers son nombrados Vecinos Ilustres de Talcahuano",
+   "resumen": "Los Bunkers fueron nombrados Vecinos Ilustres de Talcahuano, en una ceremonia realizada durante los festejos por los 262 años de la ciudad. El reconocimiento lo recibió el padre de los hermanos Mauricio y Francisco Durán, integrantes de la banda, de manos del…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/LOS-BUNKERS.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T11:20:27.354Z",
+   "visto": "2026-11-20T11:20:27.354Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/dos-juntas-vecinales-de-cabrero-se-disputan-una-sede-comunitaria-en-monteaguila",
    "titulo": "Dos juntas vecinales de Cabrero se disputan una sede comunitaria en Monteaguila",
@@ -267,20 +296,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/habitar-el-cerebro-comunidad-podra-experimentar-y-comprender-como-funciona-el-organo-vital.html",
-   "titulo": "“Habitar el Cerebro”: comunidad podrá experimentar y comprender cómo funciona el órgano vital",
-   "resumen": "Una experiencia lúdica e interactiva y gratuita se ofrecerá este sábado 21 de noviembre en el Cicat UdeC.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-cicat-foto-Natalia-Quiero.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/20/los-lugares-que-asoman-como-fijos-para-recibir-deportes-en-los-odesur-2030.html",
    "titulo": "Los lugares que asoman como fijos para recibir deportes en los Odesur 2030",
    "resumen": "Con la reciente confirmación de los Juegos en el Bíobío, ahora falta definir y oficializar qué recintos se ocuparán para cada disciplina, aunque hay algunos que corren con ventaja y fueron parte de la propuesta.",
@@ -334,6 +349,20 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/habitar-el-cerebro-comunidad-podra-experimentar-y-comprender-como-funciona-el-organo-vital.html",
+   "titulo": "“Habitar el Cerebro”: comunidad podrá experimentar y comprender cómo funciona el órgano vital",
+   "resumen": "Una experiencia lúdica e interactiva y gratuita se ofrecerá este sábado 21 de noviembre en el Cicat UdeC.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-cicat-foto-Natalia-Quiero.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
