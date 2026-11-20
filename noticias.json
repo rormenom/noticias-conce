@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T23:39:19.156Z",
+ "generado": "2026-11-20T00:40:25.158Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 58,
+    "enlaces": 154,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 12,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
@@ -675,6 +675,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diego-livingstone-tesorero-anfp.html",
+   "titulo": "Diego Livingstone deja Deportes Concepción para asumir tesorería de la ANFP",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/download-6.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T15:00:00.000Z",
+   "visto": "2026-11-20T00:40:25.158Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/a-casi-dos-meses-del-anuncio-san-pedro-de-la-paz-aun-espera-189-millones-del-plan-escudo-de-barrio.shtml",
    "titulo": "A casi dos meses del anuncio: San Pedro de la Paz aún espera $189 millones del Plan Escudo de Barrio",
    "resumen": "La Subsecretaría de Prevención del Delito aún no transfiere los $189 millones destinados a financiar las medidas de seguridad...",
@@ -1015,6 +1029,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/sumario-hualqui-protocolos-almacenamiento-farmacos-biobio.html",
+   "titulo": "Tras sumario en Hualqui: municipios del Gran Concepción detallan protocolos de almacenamiento de fármacos",
+   "resumen": "Concepción, Chiguayante y Talcahuano aseguran contar con droguerías comunales y procedimientos ajustados a la normativa sanitaria.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-18-at-18.39.07.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/corma-inaugura-expocorma-2026-coronel-biobio.html",
    "titulo": "Con foco en innovación y prevención de incendios, inauguran ExpoCorma 2026",
    "resumen": "La XXIII versión del principal encuentro forestal del país reúne a 160 expositores hasta el viernes 20 de noviembre.",
@@ -1026,20 +1054,6 @@
    "cats": [
     "regional",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/sumario-hualqui-protocolos-almacenamiento-farmacos-biobio.html",
-   "titulo": "Tras sumario en Hualqui: municipios del Gran Concepción detallan protocolos de almacenamiento de fármacos",
-   "resumen": "Concepción, Chiguayante y Talcahuano aseguran contar con droguerías comunales y procedimientos ajustados a la normativa sanitaria.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-18-at-18.39.07.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1699,20 +1713,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/araya-y-bravo-entre-los-arqueros-con-mejores-numeros-en-primera.html",
-   "titulo": "Araya y Bravo entre los arqueros con mejores números en Primera",
-   "resumen": "Defienden a D. Concepción y Huachipato y este domingo medirán fuerzas en el CAP con el sexto puesto y la Sudamericana como objetivo. Dos goleros jóvenes que han hecho una gran temporada.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-4-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/18/orquesta-sinfonica-udec-despide-temporada-2026-concierto-hacia-el-nuevo-horizonte.html",
    "titulo": "Orquesta Sinfónica UdeC despide temporada 2026 con concierto “Hacia el nuevo horizonte”",
    "resumen": "Del lirismo del violín de Max Bruch a los paisajes sonoros de la Roma de Respighi, la agrupación clásica penquista propone un recorrido musical de gran riqueza expresiva para este concierto final. Jornada cuya batuta estará a cargo del maestro Luis Toro Araya…",
@@ -1765,6 +1765,20 @@
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/araya-y-bravo-entre-los-arqueros-con-mejores-numeros-en-primera.html",
+   "titulo": "Araya y Bravo entre los arqueros con mejores números en Primera",
+   "resumen": "Defienden a D. Concepción y Huachipato y este domingo medirán fuerzas en el CAP con el sexto puesto y la Sudamericana como objetivo. Dos goleros jóvenes que han hecho una gran temporada.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-4-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
