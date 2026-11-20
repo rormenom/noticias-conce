@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T16:10:23.596Z",
+ "generado": "2026-11-20T16:20:20.355Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 158,
-    "leidas": 63,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/operacion-cofradia-del-golfo-detenidos-droga-arauco.html",
+   "titulo": "Operación “Cofradía del Golfo”: PDI detiene a 22 personas e incauta más de 20 kilos de droga en Arauco",
+   "resumen": "El operativo permitió retirar más de 311 mil dosis de droga avaluadas en más de 313 millones de pesos e incautar más de $22 millones y seis vehículos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/operacion-cofradia-del-golfo-detenidos-droga-arauco-4-e1795191244295.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T16:20:20.355Z",
+   "visto": "2026-11-20T16:20:20.355Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/operacion-cofradia-del-golfo-deja-22-detenidos-y-decomiso-de-drogas-por-313-millones-en-arauco.shtml",
    "titulo": "Operación \"Cofradía del Golfo\" deja 22 detenidos y decomiso de drogas por $313 millones en Arauco",
@@ -1525,20 +1539,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/sumario-hualqui-protocolos-almacenamiento-farmacos-biobio.html",
-   "titulo": "Tras sumario en Hualqui: municipios del Gran Concepción detallan protocolos de almacenamiento de fármacos",
-   "resumen": "Concepción, Chiguayante y Talcahuano aseguran contar con droguerías comunales y procedimientos ajustados a la normativa sanitaria.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-18-at-18.39.07.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/biobio-municipios-funcionarios-publicos-condenados.html",
    "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
    "resumen": "El listado también incluye los servicios de Salud Arauco y Concepción, además del SLEP Andalién Sur. Con 12 instituciones en total, el Biobío se ubica tercero a nivel nacional.",
@@ -1638,6 +1638,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/sumario-hualqui-protocolos-almacenamiento-farmacos-biobio.html",
+   "titulo": "Tras sumario en Hualqui: municipios del Gran Concepción detallan protocolos de almacenamiento de fármacos",
+   "resumen": "Concepción, Chiguayante y Talcahuano aseguran contar con droguerías comunales y procedimientos ajustados a la normativa sanitaria.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-18-at-18.39.07.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/hombre-baleado-es-ingresado-de-urgencia-a-sar-en-hualpen-fue-estabilizado-y-se-nego-denunciar.shtml",
    "titulo": "Hombre baleado es ingresado de urgencia a SAR en Hualpén: fue estabilizado y se negó denunciar",
    "resumen": "La noche de este miércoles un hombre baleado fue ingresado de urgencia en un recinto asistencial de Hualpén, en...",
@@ -1676,20 +1690,6 @@
    "visto": "2026-11-18T22:40:23.014Z",
    "cats": [
     "cultura",
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/alerta-degradacion-borde-costero-biobio.html",
-   "titulo": "Alerta por degradación del borde costero en el Biobío: el peligro para ecosistemas y comunidades",
-   "resumen": "La erosión de las playas, las presiones derivadas de la urbanización y la crisis climática amenazan a ecosistemas clave que protegen la biodiversidad y sostienen a las comunidades costeras.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/oceano-mar-costa-foto-archivo-carolina-copia-e1705367262562-850x500.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T22:30:29.316Z",
-   "visto": "2026-11-18T22:30:29.316Z",
-   "cats": [
     "regional"
    ],
    "local": true
