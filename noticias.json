@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T10:10:19.242Z",
+ "generado": "2026-11-20T10:30:24.112Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 64,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,43 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 32,
-    "leidas": 6,
+    "enlaces": 33,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/dos-nuevas-salidas-en-el-gobierno-renuncian-la-seremi-de-salud-y-la-directora-del-senama-en-bio-bio",
+   "titulo": "Renuncian la seremi de Salud y la directora del Senama en la región del Bío Bío",
+   "resumen": "El gobierno del presidente José Antonio Kast enfrenta dos nuevas renuncias, esta vez en la región del Bío Bío. Ambas autoridades pertenecen al Partido Cristiano de Chile, y una de ellas se desempeñaba como seremi. En las últimas horas, la seremi de Salud,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/renuncia-seremi-senama.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T10:30:24.112Z",
+   "visto": "2026-11-20T10:30:24.112Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/bio-bio-concentra-4-de-las-5-comunas-mas-expuestas-a-incendios-forestales-y-132-campamentos-en-riesgo",
+   "titulo": "Bío Bío concentra 4 de las 5 comunas más expuestas a incendios forestales y 132 campamentos en riesgo",
+   "resumen": "La Región del Bío Bío lidera el ranking de comunas con mayor exposición a incendios forestales, según el Plan de Prevención de Incendios entregado por el Ministerio de Vivienda. El informe identifica zonas de riesgo para definir planes de acción y ubica a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/01/Captura-de-pantalla-2026-01-21-a-las-6.04.20%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T10:30:24.112Z",
+   "visto": "2026-11-20T10:30:24.112Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/dos-nuevas-salidas-en-el-gobierno-renuncian-la-seremi-de-salud-y-la-directora-del-senama-en-bio-bio.shtml",
    "titulo": "Dos nuevas salidas en el Gobierno: renuncian la seremi de Salud y la directora del Senama en Bío Bío",
@@ -1748,34 +1777,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T16:00:28.877Z",
    "visto": "2026-11-18T16:00:28.877Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/micro-vuelca-en-rotonda-cementos-bio-bio-de-talcahuano",
-   "titulo": "Microbús volcó en la rotonda de Cementos Bío Bío, en Talcahuano",
-   "resumen": "Una micro sufrió un volcamiento este jueves en Talcahuano, en calle Gran Bretaña, cerca de la rotonda Cementos Bío Bío. El vehículo pertenece a la línea Campanil y, por motivos que aún se desconocen, quedó volcado junto a la calzada. De acuerdo con lo…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T16:00:28.877Z",
-   "visto": "2026-11-18T16:00:28.877Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/micro-vuelca-en-rotonda-cementos-bio-bio-de-talcahuano.shtml",
-   "titulo": "Microbús vuelca en rotonda Cementos Bío Bío de Talcahuano",
-   "resumen": "Una micro volcó este jueves en Talcahuano, específicamente en calle Gran Bretaña, a la altura de la rotonda Cementos...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023850-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-18T15:49:12.000Z",
-   "visto": "2026-11-18T15:50:21.004Z",
    "cats": [
     "regional"
    ],
