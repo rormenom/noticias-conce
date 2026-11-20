@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T13:28:33.237Z",
+ "generado": "2026-11-20T14:00:30.869Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 156,
     "leidas": 64,
     "errores": 0,
     "robots": 0
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 35,
+    "enlaces": 36,
     "leidas": 6,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/acceso-caleta-lenga-vecinos-y-conductores-exigen-solucion-a-baches",
+   "titulo": "Acceso Caleta Lenga: vecinos y conductores exigen solución a baches",
+   "resumen": "Vecinos, automovilistas y conductores del transporte público manifestaron su molestia por el mal estado de la ruta y los accesos hacia Caleta Lenga, en la comuna de Hualpén, a pocas semanas de la temporada estival cuando comienza a aumentar la afluencia de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-20-at-10.55.02-e1795182936591.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T14:00:30.869Z",
+   "visto": "2026-11-20T14:00:30.869Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/os7-de-carabineros-detiene-a-cinco-personas-e-incauta-mas-de-3-000-dosis-de-droga-y-armas-en-concepcion",
    "titulo": "OS7 de Carabineros detiene a cinco personas e incauta más de 3.000 dosis de droga y armas en Concepción",
@@ -1750,20 +1764,6 @@
    "visto": "2026-11-18T20:20:22.983Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/colegio-de-ingenieros-forestales-llama-a-incentivar-la-forestacion-ante-crisis-que-afecta-al-sector",
-   "titulo": "Colegio de Ingenieros Forestales llama a incentivar la forestación ante crisis que afecta al sector",
-   "resumen": "La caída de la demanda de madera, la pérdida de empleos y el cierre de más de 200 aserraderos en los últimos cinco años mantienen en alerta al sector forestal. Desde el gremio advierten que la falta de incentivos para nuevas plantaciones podría profundizar…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/investigacion-en-plantaciones-de-pinos-en-coyhaique-alto-patagonia-canibal-pauchard-1-e1795031924212.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T20:00:29.935Z",
-   "visto": "2026-11-18T20:00:29.935Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
