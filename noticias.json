@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T05:50:26.679Z",
+ "generado": "2026-11-20T08:40:20.882Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 63,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,126 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 7,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
+   "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
+   "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-energ%C3%ADa-e%C3%B3lica-marina-foto-cc.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
+   "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
+   "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/incendio-forestal-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/20/los-lugares-que-asoman-como-fijos-para-recibir-deportes-en-los-odesur-2030.html",
+   "titulo": "Los lugares que asoman como fijos para recibir deportes en los Odesur 2030",
+   "resumen": "Con la reciente confirmación de los Juegos en el Bíobío, ahora falta definir y oficializar qué recintos se ocuparán para cada disciplina, aunque hay algunos que corren con ventaja y fueron parte de la propuesta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casa-del-deporte.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/desafios-medios-regionales-biobio.html",
+   "titulo": "Inteligencia Artificial, inmediatez y audiencias: seminario abordó los desafíos que enfrenta el periodismo regional",
+   "resumen": "Radio Bío Bío, El Sur y Sabes.cl debatieron sobre el futuro de la industria desde provincias.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-semana-de-las-comunicaciones-coloquio-Contar-Chile-desde-regiones-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "regional",
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/habitar-el-cerebro-comunidad-podra-experimentar-y-comprender-como-funciona-el-organo-vital.html",
+   "titulo": "“Habitar el Cerebro”: comunidad podrá experimentar y comprender cómo funciona el órgano vital",
+   "resumen": "Una experiencia lúdica e interactiva y gratuita se ofrecerá este sábado 21 de noviembre en el Cicat UdeC.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-cicat-foto-Natalia-Quiero.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/chile-gospel-concepcion-vuelve-escenario-inicios-show-coro-y-banda-en-vivo.html",
+   "titulo": "Chile Gospel Concepción vuelve al escenario que marcó sus inicios con show de coro y banda en vivo",
+   "resumen": "“Gospel Experience” se presentará este sábado 21 de noviembre en el Teatro Marina del Sol, con un recorrido por el góspel tradicional y contemporáneo, tributos a grandes voces de la música popular y una puesta en escena que reunirá a solistas, coro y músicos…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Teatro-Biob%C3%ADo.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/destacando-la-escena-musical-regional-festival-son-del-biobio-desplegara-manana-su-octava-version.html",
+   "titulo": "Destacando la escena musical regional: Festival Son del Biobío desplegará mañana su octava versión",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-TVU.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/curso-gratis-y-abierto-a-la-comunidad-fomenta-un-consumo-consciente-para-la-sostenibilidad.html",
+   "titulo": "Curso gratis y abierto a la comunidad fomenta un consumo consciente para la sostenibilidad",
+   "resumen": "La iniciativa tiene 2 mil cupos disponibles y estará  vigente hasta el 31 de enero de 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-consumo-conciente-foto-cedida.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/20/los-bunkers-son-nombrados-vecinos-ilustres-de-talcahuano-nos-sentimos-honrados.shtml",
    "titulo": "Los Bunkers son nombrados Vecinos Ilustres de Talcahuano: \"Nos sentimos honrados\"",
@@ -448,20 +561,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/heladerias-gran-concepcion-sumarios-sanitarios.html",
-   "titulo": "Gran Concepción: capacitan a trabajadores de heladerías para evitar sumarios sanitarios",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-19-at-1.43.25-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T17:18:12.355Z",
-   "visto": "2026-11-19T17:18:12.355Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diaz-continuidad-deportes-concepcion.html",
    "titulo": "“Nano” Díaz: “Quedan 3 partidos y nadie ha hablado conmigo”",
    "resumen": "Técnico de D. Concepción se refirió al partido con Huachipato, el ánimo del grupo por pelear una Copa Sudamericana y su posible renovación, sobre lo cual la dirigencia tiene una versión distinta.",
@@ -472,6 +571,20 @@
    "visto": "2026-11-19T17:18:12.355Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/heladerias-gran-concepcion-sumarios-sanitarios.html",
+   "titulo": "Gran Concepción: capacitan a trabajadores de heladerías para evitar sumarios sanitarios",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-19-at-1.43.25-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T17:18:12.355Z",
+   "visto": "2026-11-19T17:18:12.355Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1001,16 +1114,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/biobio-municipios-funcionarios-publicos-condenados.html",
-   "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
-   "resumen": "El listado también incluye los servicios de Salud Arauco y Concepción, además del SLEP Andalién Sur. Con 12 instituciones en total, el Biobío se ubica tercero a nivel nacional.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-contraloria-region.biobio.jpg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/mujeres-emprendedoras-biobio-desafios.html",
+   "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
+   "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261118-WA3056.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
-    "politica"
+    "regional"
    ],
    "local": true
   },
@@ -1029,34 +1142,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/los-ex-udec-seran-chile-en-el-mundial-de-maxibasket.html",
-   "titulo": "Los Ex UdeC serán Chile en el Mundial de Maxibasket",
-   "resumen": "Jorge Vásquez, base del equipo que clasificó en Puerto Montt, habló de esta campaña con los +40 que sacaron boleto para Fortaleza y esta nueva etapa que todos viven con alegría y nostalgia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Maxibasquetbol.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/vial-y-una-historia-de-ascensos-cinco-recordados-festejos-y-otro-que-debio-ser.html",
-   "titulo": "Vial y una historia de ascensos: cinco recordados festejos y otro que debió ser",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ascenso-Fernandez-Vial-.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/sumario-hualqui-protocolos-almacenamiento-farmacos-biobio.html",
    "titulo": "Tras sumario en Hualqui: municipios del Gran Concepción detallan protocolos de almacenamiento de fármacos",
    "resumen": "Concepción, Chiguayante y Talcahuano aseguran contar con droguerías comunales y procedimientos ajustados a la normativa sanitaria.",
@@ -1067,6 +1152,20 @@
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/biobio-municipios-funcionarios-publicos-condenados.html",
+   "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
+   "resumen": "El listado también incluye los servicios de Salud Arauco y Concepción, además del SLEP Andalién Sur. Con 12 instituciones en total, el Biobío se ubica tercero a nivel nacional.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-contraloria-region.biobio.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1086,16 +1185,30 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/mujeres-emprendedoras-biobio-desafios.html",
-   "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
-   "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261118-WA3056.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/vial-y-una-historia-de-ascensos-cinco-recordados-festejos-y-otro-que-debio-ser.html",
+   "titulo": "Vial y una historia de ascensos: cinco recordados festejos y otro que debió ser",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ascenso-Fernandez-Vial-.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
-    "regional"
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/los-ex-udec-seran-chile-en-el-mundial-de-maxibasket.html",
+   "titulo": "Los Ex UdeC serán Chile en el Mundial de Maxibasket",
+   "resumen": "Jorge Vásquez, base del equipo que clasificó en Puerto Montt, habló de esta campaña con los +40 que sacaron boleto para Fortaleza y esta nueva etapa que todos viven con alegría y nostalgia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Maxibasquetbol.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1114,10 +1227,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
-   "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
-   "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/cicat-udec-curioteca-primeras-infancias-biobio.html",
+   "titulo": "Cicat UdeC abre Curioteca: un espacio dedicado a las primeras infancias del Biobío",
+   "resumen": "Es el primer espacio del recinto pensado especialmente a niños y niñas de 2 a 6 años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/BREVE.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
@@ -1128,10 +1241,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/cicat-udec-curioteca-primeras-infancias-biobio.html",
-   "titulo": "Cicat UdeC abre Curioteca: un espacio dedicado a las primeras infancias del Biobío",
-   "resumen": "Es el primer espacio del recinto pensado especialmente a niños y niñas de 2 a 6 años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/BREVE.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
+   "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
+   "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
@@ -1657,20 +1770,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/18/atenciones-sernapesca-pescadores-tirua.html",
-   "titulo": "Sernapesca realizará atenciones mensuales para pescadores de Tirúa",
-   "resumen": "Convenio con el municipio contempla jornadas mensuales para trabajadores de la pesca.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/firma-convenio-tirua1.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T15:00:00.000Z",
-   "visto": "2026-11-19T20:20:23.937Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.radioudec.cl/fiesta-del-libro-regresa-a-concepcion-con-27-editoriales-y-una-programacion-gratuita-para-toda-la-familia/",
    "titulo": "Fiesta del Libro regresa a Concepción con 27 editoriales y una programación gratuita para toda la familia",
    "resumen": "Con una programación que busca acercar la creación literaria a […]",
@@ -1681,20 +1780,6 @@
    "visto": "2026-11-18T15:00:29.325Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/contingencia-operacional-compin-de-concepcion-suspende-atencion-presencial-este-miercoles",
-   "titulo": "“Contingencia operacional”: Compin de Concepción suspende atención presencial este miércoles",
-   "resumen": "Confusión y molestia generó entre los usuarios de Concepción el cierre temporal de las oficinas de la Comisión de Medicina Preventiva e Invalidez (Compin) durante la mañana de este miércoles. El recinto, ubicado en Barros Arana, amaneció con sus cortinas…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/COMPIN-e1795011477395.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T14:30:26.019Z",
-   "visto": "2026-11-18T14:30:26.019Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2599,62 +2684,6 @@
    "visto": "2026-11-15T15:20:19.288Z",
    "cats": [
     "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/15/francisco-bruna-revisita-decada-creacion-pictorica-libro-monografia-flexible.html",
-   "titulo": "Francisco Bruna revisita una década de creación pictórica en el libro “Monografía Flexible”",
-   "resumen": "El pintor y docente de la Universidad de Concepción presentó oficialmente esta publicación durante octubre en la Sala David Stitchkin. El volumen, financiado por Fondart Regional, reúne trabajos realizados entre 2015 y 2025, junto a textos críticos y…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-tema-domingo.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/15/nasa-space-apps-challenge-convoco-a-mas-de-un-centenar-de-jovenes-para-solucionar-retos-globales.html",
-   "titulo": "NASA Space Apps Challenge convocó a más de un centenar de jóvenes para solucionar retos globales",
-   "resumen": "Estos 14 y 15 de noviembre se realizó la mayor hackatón de innovación abierta del planeta en Concepción.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-desafio-de-la-nasa-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/15/campeones-copa-interescolar-udec-basquetbol.html",
-   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
-   "resumen": "El Colegio Creación ganó la final femenina por 60-49 ante American Junior College, y San Ignacio se impuso 63-47 frente al Instituto de Humanidades de Concepción en varones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/15/ivan-poduje-reconstruccion-biobio.html",
-   "titulo": "“Superamos las mil viviendas iniciadas en Biobío”: Iván Poduje destaca avance en reconstrucción",
-   "resumen": "En su reciente visita titular del Minvu abordó el debate presupuestario y la reactivación del mercado inmobiliario, entre otros aspectos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ivan-poduje-ministro-vivienda.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-15T08:40:23.242Z",
-   "visto": "2026-11-15T08:40:23.242Z",
-   "cats": [
     "politica"
    ],
    "local": true
