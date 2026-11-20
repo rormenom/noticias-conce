@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T15:10:20.136Z",
+ "generado": "2026-11-20T15:20:23.068Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 64,
+    "enlaces": 156,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -2784,36 +2784,6 @@
    "fecha": "2026-11-15T16:10:20.239Z",
    "visto": "2026-11-15T16:10:20.239Z",
    "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/gobierno-anuncia-decreto-para-retirar-arboles-de-la-interfaz-y-cobrar-el-costo-a-quien-no-lo-haga",
-   "titulo": "Gobierno anuncia decreto para retirar árboles de la interfaz y cobrar el costo a quien no lo haga",
-   "resumen": "A 10 meses de los incendios forestales que afectaron a la Región del Bío Bío, se entregaron 14 viviendas en Tomé a familias que perdieron sus casas durante el megaincendio. En la ceremonia participaron el ministro de Vivienda y Urbanismo, Iván Poduje, el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-15-a-las-12.19.25%E2%80%AFp.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T15:20:19.288Z",
-   "visto": "2026-11-15T15:20:19.288Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/15/fiscalia-aclara-que-el-caso-puerto-coronel-sigue-en-curso-pese-a-requerimiento-del-alcalde-chamorro",
-   "titulo": "Fiscalía aclara que el caso Puerto Coronel sigue en curso pese a requerimiento del alcalde Chamorro",
-   "resumen": "El Tribunal Constitucional aclaró, a solicitud de la Fiscalía, el alcance de la suspensión decretada mientras resuelve el requerimiento del alcalde Boris Chamorro, quien busca evitar la suspensión de su cargo de cara al juicio oral por el llamado caso Puerto…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/boris-chamorro.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-15T15:20:19.288Z",
-   "visto": "2026-11-15T15:20:19.288Z",
-   "cats": [
-    "regional",
     "politica"
    ],
    "local": true
