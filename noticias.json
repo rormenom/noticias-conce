@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T16:20:20.355Z",
+ "generado": "2026-11-20T16:30:32.465Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,10 +60,11 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
-    "leidas": 62,
-    "errores": 0,
-    "robots": 0
+    "enlaces": 157,
+    "leidas": 59,
+    "errores": 3,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/19/giro-del-lago-cerca-de-mil-ciclistas-daran-vida-a-emblematico-evento-en-puerto-varas.shtml)"
    }
   },
   {
@@ -81,6 +82,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/nosotras-en-la-musica-segunda-edicion-paneles-creacion-tecnologia-industria-musical.html",
+   "titulo": "Nosotras en la Música realizará segunda edición con paneles sobre creación, tecnología e industria musical",
+   "resumen": "El encuentro reunirá a artistas, gestoras, productoras y profesionales del sector en tres paneles de conversación sobre los desafíos de las mujeres en la música, además de un plenario con mesas de trabajo. La actividad se realizará este sábado 21 de noviembre…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/3-2.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T16:30:32.465Z",
+   "visto": "2026-11-20T16:30:32.465Z",
+   "cats": [
+    "cultura",
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/operacion-cofradia-del-golfo-detenidos-droga-arauco.html",
    "titulo": "Operación “Cofradía del Golfo”: PDI detiene a 22 personas e incauta más de 20 kilos de droga en Arauco",
@@ -1971,20 +1987,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/18/fiesta-del-libro-desplegara-tercera-version-27-editoriales-miscelanea-programacion-gratuita.html",
-   "titulo": "Fiesta del Libro desplegará tercera versión con 27 editoriales y miscelánea programación gratuita",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-Seremi-de-las-Culturas-Biob%C3%ADo.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/elige-educar-docencia-udec.html",
    "titulo": "Elige educar: la importancia de la docencia en el desarrollo de la región y el país",
    "resumen": "",
@@ -2009,6 +2011,20 @@
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/18/fiesta-del-libro-desplegara-tercera-version-27-editoriales-miscelanea-programacion-gratuita.html",
+   "titulo": "Fiesta del Libro desplegará tercera versión con 27 editoriales y miscelánea programación gratuita",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-Seremi-de-las-Culturas-Biob%C3%ADo.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
