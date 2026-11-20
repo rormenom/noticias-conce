@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T15:20:23.068Z",
+ "generado": "2026-11-20T15:40:21.185Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 65,
+    "enlaces": 158,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 5,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/ii-festival-flamenco-del-bio-bio-diez-academias-daran-vida-a-jornada-gratuita-este-sabado-en-anfiteatro-de-spp",
+   "titulo": "II Festival Flamenco del Bío Bío: diez academias darán vida a jornada gratuita este sábado en Anfiteatro de SPP",
+   "resumen": "El encuentro se realizará este sábado 21 de noviembre desde las 16:00 horas en el anfiteatro de la comuna, con entrada liberada y elencos provenientes de distintos puntos del país. La convocatoria reunirá a diez academias llegadas desde distintas partes de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/flamenco-e1795188817822.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T15:40:21.185Z",
+   "visto": "2026-11-20T15:40:21.185Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/protesta-hualpen-dragado-enap-san-vicente.html",
    "titulo": "“Nuestras fuentes de trabajo están en peligro”: pescadores artesanales se movilizan por dragado en la bahía de San Vicente",
@@ -1705,20 +1720,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T21:10:21.761Z",
    "visto": "2026-11-18T21:10:21.761Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/corte-declara-inadmisible-amparo-de-exfiscal-de-los-angeles-formalizado-por-red-de-corrupcion-judicial",
-   "titulo": "Corte rechaza el amparo del exfiscal de Los Ángeles formalizado en una causa por corrupción judicial",
-   "resumen": "La Corte de Apelaciones de Concepción rechazó por inadmisible el recurso de amparo interpuesto por el exfiscal Rodrigo Durán, quien sostuvo que su formalización era ilegal en el contexto de la red de corrupción judicial investigada por el Ministerio Público…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/recurso-amparo-exfiscal-formalizado-red-corrupcion-judicial.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T20:50:22.967Z",
-   "visto": "2026-11-18T20:50:22.967Z",
    "cats": [
     "regional"
    ],
