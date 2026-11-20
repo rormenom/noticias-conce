@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T00:40:25.158Z",
+ "generado": "2026-11-20T01:00:27.861Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 61,
+    "enlaces": 155,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
@@ -683,6 +683,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T15:00:00.000Z",
    "visto": "2026-11-20T00:40:25.158Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/nano-diaz-renovacion-2027-concepcion.html",
+   "titulo": "“Se analizaron las posibilidades de 2027”: Presidente del Conce sobre “Nano” Díaz",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/09/nano-diaz-colo-colo.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T15:00:00.000Z",
+   "visto": "2026-11-20T01:00:27.861Z",
    "cats": [
     "deportes"
    ],
@@ -1699,20 +1713,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/golf-con-viento-lluvia-y-cerca-de-80-jugadores-en-bellavista.html",
-   "titulo": "Golf con viento, lluvia y cerca de 80 jugadores en Bellavista",
-   "resumen": "El XIII Abierto del Club tuvo a Alexis Quiroz, Pablo Viterbo y Natalia Muñoz como grandes ganadores. Fueron 3 días de competencia reuniendo a 14 equipos de distintas partes del país.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/abierto-XII-golf-foto.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/18/orquesta-sinfonica-udec-despide-temporada-2026-concierto-hacia-el-nuevo-horizonte.html",
    "titulo": "Orquesta Sinfónica UdeC despide temporada 2026 con concierto “Hacia el nuevo horizonte”",
    "resumen": "Del lirismo del violín de Max Bruch a los paisajes sonoros de la Roma de Respighi, la agrupación clásica penquista propone un recorrido musical de gran riqueza expresiva para este concierto final. Jornada cuya batuta estará a cargo del maestro Luis Toro Araya…",
@@ -1765,6 +1765,20 @@
    "visto": "2026-11-18T08:40:21.405Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/golf-con-viento-lluvia-y-cerca-de-80-jugadores-en-bellavista.html",
+   "titulo": "Golf con viento, lluvia y cerca de 80 jugadores en Bellavista",
+   "resumen": "El XIII Abierto del Club tuvo a Alexis Quiroz, Pablo Viterbo y Natalia Muñoz como grandes ganadores. Fueron 3 días de competencia reuniendo a 14 equipos de distintas partes del país.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/abierto-XII-golf-foto.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-18T08:40:21.405Z",
+   "visto": "2026-11-18T08:40:21.405Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
