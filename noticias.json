@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-20T21:29:03.961Z",
+ "generado": "2026-11-20T21:40:19.632Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -36,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -62,10 +61,9 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 55,
-    "errores": 4,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/internacional/europa/2026/11/20/aunque-vivan-en-espana-mantienen-suspendido-el-voto-a-mas-de-163-mil-descendientes-de-exiliados.shtml)"
+    "leidas": 60,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
