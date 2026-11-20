@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-20T10:50:24.377Z",
+ "generado": "2026-11-20T11:00:32.945Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -81,6 +82,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/dos-juntas-vecinales-de-cabrero-se-disputan-una-sede-comunitaria-en-monteaguila",
+   "titulo": "Dos juntas vecinales de Cabrero se disputan una sede comunitaria en Monteaguila",
+   "resumen": "Una fuerte disputa enfrenta a dos juntas vecinales de la comuna de Cabrero por el uso de la sede comunitaria La Copa, en la localidad de Monteaguila. Las organizaciones involucradas son la Junta Vecinal Renacer y la Junta de Vecinos San Sebastián. Según…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/municipalidad-de-cabrero.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T11:00:32.945Z",
+   "visto": "2026-11-20T11:00:32.945Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/dueno-de-automotora-hdr-se-presento-al-tribunal-sera-formalizado-por-estafar-a-32-personas-con-discapacidad",
    "titulo": "Dueño de automotora HDR se presentó al tribunal: será formalizado por estafar a 32 personas con discapacidad",
@@ -1766,20 +1781,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/crudo-argentino-a-precio-de-ormuz-las-jugosas-ganancias-del-estado-en-pleno-desangre-de-conductores",
-   "titulo": "Crudo argentino a precio de Ormuz: las jugosas ganancias del Estado en pleno \"desangre\" de conductores",
-   "resumen": "Mientras los automovilistas, micreros y camioneros chilenos han debido enfrentar las sistemáticas alzas de combustible, el Estado se ha embolsado jugosas ganancias gracias precisamente al encarecimiento de las bencinas y el diésel: solo en los primeros nueve…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/enap-estado-ganancias-desangre-conductores.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T16:40:22.127Z",
-   "visto": "2026-11-18T16:40:22.127Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
