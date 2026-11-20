@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T15:40:21.185Z",
+ "generado": "2026-11-20T15:50:27.881Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 158,
-    "leidas": 62,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/agrupacion-de-voluntarios-raices-comunitarias-continua-trabajando-con-familias-afectadas-por-incendios-forestales/",
+   "titulo": "Agrupación de voluntarios «Raíces Comunitarias» continúa trabajando con familias afectadas por incendios forestales",
+   "resumen": "En medio de los incendios forestales de este verano, el […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/raices-comunitarias-768x548.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-20T15:45:42.000Z",
+   "visto": "2026-11-20T15:50:27.881Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/ii-festival-flamenco-del-bio-bio-diez-academias-daran-vida-a-jornada-gratuita-este-sabado-en-anfiteatro-de-spp",
    "titulo": "II Festival Flamenco del Bío Bío: diez academias darán vida a jornada gratuita este sábado en Anfiteatro de SPP",
@@ -1708,20 +1722,6 @@
     "regional",
     "cultura",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/chiguayante-fiesta-primavera-regresa-tras-15-anos.html",
-   "titulo": "Chiguayante retoma la Fiesta de la Primavera tras 15 años de ausencia",
-   "resumen": "El desfile de 16 carros alegóricos, murgas y presentaciones musicales marcarán el retorno de la celebración este fin de semana.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261118-WA0058-e1795032566403.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T21:10:21.761Z",
-   "visto": "2026-11-18T21:10:21.761Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
