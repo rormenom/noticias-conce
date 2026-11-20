@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-20T16:50:19.361Z",
+ "generado": "2026-11-20T17:00:29.403Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -82,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/el-lanzazo-vicente-cifuentes-presentara-en-concepcion-su-nuevo-album-junto-a-charly-benavente-y-sebastian-orellana",
+   "titulo": "El Lanzazo: Vicente Cifuentes presentará en Concepción su nuevo álbum junto a Charly Benavente y Sebastián Orellana",
+   "resumen": "La música de Ñuble y Biobío será protagonista de una nueva edición de El Lanzazo, encuentro que llegará a Concepción este viernes 4 de diciembre con las presentaciones de Vicente Cifuentes, Charly Benavente y Sebastián Orellana. Los tres artistas compartirán…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/vicente-cifuentes-charly-benavente-y-sebastian-orellana.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T17:00:29.403Z",
+   "visto": "2026-11-20T17:00:29.403Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/20/familia-de-trabajadora-fallecida-tras-cumplir-presuntamente-10-dias-seguidos-de-labores-en-mall-plaza-los-angeles-presenta-querella",
    "titulo": "Familia de trabajadora fallecida tras cumplir presuntamente 10 días seguidos de labores en Mall Plaza Los Ángeles presenta querella",
@@ -1705,20 +1718,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-19T02:27:01.000Z",
    "visto": "2026-11-19T02:30:26.586Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/odesur-otorga-a-la-region-del-biobio-la-sede-de-los-juegos-suramericanos-2030/",
-   "titulo": "ODESUR otorga a la Región del Biobío la sede de los Juegos Suramericanos 2030",
-   "resumen": "El Comité Ejecutivo de la Organización Deportiva Suramericana (ODESUR), reunido […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/92F8C76B-11EE-4B25-BEAF-BA0DB2428EE3-768x512.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-19T00:59:12.000Z",
-   "visto": "2026-11-19T01:00:29.843Z",
    "cats": [
     "regional"
    ],
