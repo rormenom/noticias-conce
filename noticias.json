@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T12:20:20.973Z",
+ "generado": "2026-11-20T12:30:26.766Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 67,
+    "enlaces": 154,
+    "leidas": 66,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 3,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/20/de-cara-a-la-conmemoraicon-de-su-dia-nacional-trabajadoras-de-casa-particular-destacan-avances-en-derechos-laborales-y-llaman-a-fortalecer-la-organizacion-sindical",
+   "titulo": "Trabajadoras de casa particular destacan avances en derechos laborales y llaman a fortalecer la organización sindical",
+   "resumen": "Cada 21 de noviembre, se conmemora en Chile el Día Nacional de las Trabajadoras de Casa Particular, un oficio muchas veces invisibilizado, pero que a lo largo de los años ha ido avanzando en materia de derechos laborales. Por ello, en Matinal Nuestra Casa…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/aseo-asesoras-hogar.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-20T12:30:26.766Z",
+   "visto": "2026-11-20T12:30:26.766Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/musica-teatro-danza-y-artes-visuales-udec-anuncia-fechas-para-el-congreso-internacional-en-investigacion-de-las-artes-2027.html",
    "titulo": "Música, teatro, danza y artes visuales: UdeC anuncia fechas para el Congreso Internacional en Investigación de las Artes 2027",
@@ -1751,20 +1765,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/persecucion-policial-en-los-angeles-termina-con-seis-detenidos-tras-recuperar-vehiculo-robado",
-   "titulo": "Persecución policial en Los Ángeles termina con seis detenidos tras recuperar vehículo robado",
-   "resumen": "Un operativo de Carabineros terminó con seis personas detenidas, entre ellas dos menores de edad, luego de una persecución policial que se extendió por diversas calles de la ciudad Los Ángeles. El procedimiento permitió recuperar un automóvil que mantenía…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/pag-9-patrulla-de-carabineros-foto-raphael-scaled-e1795026914312.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T18:40:20.101Z",
-   "visto": "2026-11-18T18:40:20.101Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
