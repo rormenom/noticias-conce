@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T21:40:19.632Z",
+ "generado": "2026-11-20T22:00:27.468Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 60,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/embarcacion-aplasta-a-personas-en-caleta-infiernillo-en-talcahuano.shtml",
+   "titulo": "Embarcación aplasta a tres personas en Caleta Infiernillo en Talcahuano",
+   "resumen": "Un grave accidente se registró la tarde de este viernes en el sector de Puerto San Vicente en Talcahuano, en...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027363-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-20T21:58:23.000Z",
+   "visto": "2026-11-20T22:00:27.468Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/playa-lenga-fragata-portuguesa-prohiben-bano.html",
    "titulo": "Por fragata portuguesa: prohíben ingreso al agua pára baño y actividades recreativas en Playa Lenga",
@@ -1631,20 +1645,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-19T13:08:23.000Z",
    "visto": "2026-11-19T17:10:23.014Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/incendio-afecta-a-empresa-ubicada-en-parque-industrial-de-coronel-2",
-   "titulo": "Incendio afecta las instalaciones de una empresa en el Parque Industrial de Coronel",
-   "resumen": "Un incendio se registra la mañana de este jueves en instalaciones de la empresa Terramar, situada en el Parque Industrial 2 de Coronel. Según informó Radio Bío Bío, al menos cuatro unidades de Bomberos de la comuna acudieron al lugar para combatir las llamas.…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T12:40:22.072Z",
-   "visto": "2026-11-19T12:40:22.072Z",
    "cats": [
     "regional"
    ],
