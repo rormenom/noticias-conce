@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T01:00:27.861Z",
+ "generado": "2026-11-20T04:10:21.570Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 62,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 7,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/20/los-bunkers-son-nombrados-vecinos-ilustres-de-talcahuano-nos-sentimos-honrados.shtml",
+   "titulo": "Los Bunkers son nombrados Vecinos Ilustres de Talcahuano: \"Nos sentimos honrados\"",
+   "resumen": "Los Bunkers fueron nombrados Vecinos Ilustres de Talcahuano. El padre de los hermanos Mauricio y Francisco Durán recibió el reconocimiento...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7026144-los-bunkers-vecinos-ilustres-talcahuano-.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-20T04:08:36.000Z",
+   "visto": "2026-11-20T04:10:21.570Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/19/detienen-a-3-funcionarias-activas-de-gendarmeria-y-2-civiles-en-indagatoria-por-asociacion-criminal",
    "titulo": "Cinco detenidos, entre ellos tres funcionarias activas de Gendarmería, en investigación por asociación criminal",
