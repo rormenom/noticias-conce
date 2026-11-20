@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T18:20:20.581Z",
+ "generado": "2026-11-20T18:30:26.056Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 59,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
@@ -2815,36 +2815,6 @@
    "cats": [
     "tecnologia",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/bajo-historico-aprobacion-de-jose-antonio-kast-cae-al-18-y-desaprobacion-alcanza-el-72.html",
-   "titulo": "Bajo histórico: aprobación de José Antonio Kast cae al 18% y desaprobación alcanza el 72%",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/06/Presidente-Kast-de-cara-a-su-primera-Cuenta-Pu%CC%81blica-e1780317588538.png",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-15T18:30:24.942Z",
-   "visto": "2026-11-15T18:30:24.942Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/15/colegio-creacion-y-san-ignacio-se-coronaron-campeones-de-la-copa-interescolar-de-basquetbol-udec.html",
-   "titulo": "Colegio Creación y San Ignacio se coronaron campeones de la Copa Interescolar de Básquetbol UdeC",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-campeonato-interescolar-de-basquetbol-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-15T18:30:24.942Z",
-   "visto": "2026-11-15T18:30:24.942Z",
-   "cats": [
-    "regional",
-    "deportes"
    ],
    "local": true
   }
