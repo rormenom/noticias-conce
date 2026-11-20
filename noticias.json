@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T17:50:23.908Z",
+ "generado": "2026-11-20T18:00:29.669Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -59,12 +59,11 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 3,
-    "enlaces": 132,
+    "paginas": 4,
+    "enlaces": 151,
     "leidas": 62,
-    "errores": 1,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/20/reclamos-por-shows-cancelados-de-andres-de-leon-en-los-lagos-se-suman-a-demanda-contra-productor.shtml)"
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -82,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/obras-nuevo-cesfam-ohiggins-concepcion.html",
+   "titulo": "Concepción: recepcionan obras para que nuevo Cesfam O’Higgins empiece a atender en diciembre",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-20-at-2.33.25-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T18:00:29.669Z",
+   "visto": "2026-11-20T18:00:29.669Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/tala-eucalipto-centenario-lorenzo-arenas.html",
    "titulo": "Cuando el viento traía su aroma: la nostalgia por la tala del centenario eucalipto de Lorenzo Arenas",
@@ -1045,20 +1058,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/heladerias-gran-concepcion-sumarios-sanitarios.html",
-   "titulo": "Gran Concepción: capacitan a trabajadores de heladerías para evitar sumarios sanitarios",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-19-at-1.43.25-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T17:18:12.355Z",
-   "visto": "2026-11-19T17:18:12.355Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diaz-continuidad-deportes-concepcion.html",
    "titulo": "“Nano” Díaz: “Quedan 3 partidos y nadie ha hablado conmigo”",
    "resumen": "Técnico de D. Concepción se refirió al partido con Huachipato, el ánimo del grupo por pelear una Copa Sudamericana y su posible renovación, sobre lo cual la dirigencia tiene una versión distinta.",
@@ -1069,6 +1068,20 @@
    "visto": "2026-11-19T17:18:12.355Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/heladerias-gran-concepcion-sumarios-sanitarios.html",
+   "titulo": "Gran Concepción: capacitan a trabajadores de heladerías para evitar sumarios sanitarios",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-19-at-1.43.25-PM.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T17:18:12.355Z",
+   "visto": "2026-11-19T17:18:12.355Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1707,20 +1720,6 @@
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/gran-concepcion-retroceso-ranking-global-desafios-urbanos.html",
-   "titulo": "Expansión urbana, presión inmobiliaria y obras pendientes apremian al Gran Concepción",
-   "resumen": "A propósito de los resultados del Índice Global de Ciudades de Oxford Economics, académicos advierten sobre un crecimiento que presiona zonas naturales y enfrenta una planificación metropolitana desactualizada, mientras apuntan a la necesidad de concretar…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-obra-abandonada-en-Plaza-Peru-foto-carolina-e1795034241571.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
