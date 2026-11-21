@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T14:00:27.809Z",
+ "generado": "2026-11-21T14:20:21.248Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/un-muerto-y-un-herido-grave-deja-colision-frontal-entre-camionetas-en-la-ruta-yumbel-cabrero.shtml",
+   "titulo": "Un muerto y un herido grave deja colisión frontal entre camionetas en la ruta Yumbel-Cabrero",
+   "resumen": "Una persona murió y otra quedó gravemente herida luego de una fuerte colisión frontal de dos camionetas en la...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027672-un-muerto-y-un-herido-grave-deja-choque-frontal-entre-camionetas-en-la-ruta-yumbel-cabrero.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-21T14:11:40.000Z",
+   "visto": "2026-11-21T14:20:21.248Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/21/15-anos-de-carcel-a-venezolano-por-crimen-de-colombiano-que-fue-hallado-mutilado-en-talcahuano",
    "titulo": "Venezolano recibe 15 años de prisión por el asesinato de un colombiano hallado mutilado en Talcahuano",
