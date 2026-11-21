@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T19:30:24.648Z",
+ "generado": "2026-11-21T19:50:23.700Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,10 +60,11 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 64,
-    "errores": 0,
-    "robots": 0
+    "enlaces": 151,
+    "leidas": 58,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/21/con-aviones-combaten-intenso-incendio-forestal-que-afecta-a-la-ribera-del-rio-aconcagua-en-quillota.shtml)"
    }
   },
   {
@@ -74,13 +75,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 6,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/21/rescatan-a-pinguino-herido-y-deshidratado-en-playa-bellavista-de-tome",
+   "titulo": "Un pingüino herido y deshidratado recibe ayuda tras ser hallado en playa Bellavista de Tomé",
+   "resumen": "Un pingüino de Magallanes fue encontrado herido y rescatado en la playa Bellavista, en la comuna de Tomé, región del Bío Bío. Vecinos que recorrían la costa dieron aviso tras advertir que el ave presentaba lesiones. Luego de recibir el llamado a Sernapesca,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/rescatan-a-pinguino-herido-y-deshidratado-en-playa-bellavista-de-tome.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-21T19:50:23.700Z",
+   "visto": "2026-11-21T19:50:23.700Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
    "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
@@ -1592,20 +1607,6 @@
    "visto": "2026-11-19T18:40:20.867Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/proyecto-habitacional-280-departamentos-san-pedro.html",
-   "titulo": "Proyecto de 280 departamentos entra a evaluación ambiental en San Pedro de la Paz",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/vista-aerea-proyecto-e1795112647694.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T18:30:29.415Z",
-   "visto": "2026-11-19T18:30:29.415Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
