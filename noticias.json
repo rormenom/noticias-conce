@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T08:40:23.479Z",
+ "generado": "2026-11-21T08:50:24.876Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 6,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 7,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -106,6 +106,20 @@
    "visto": "2026-11-21T08:40:23.479Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/21/nombramiento-delegado-presidencial-biobio-ministro-alvarado.html",
+   "titulo": "Visita del ministro Alvarado reaviva expectativas por nombramiento de un delegado titular en Biobío",
+   "resumen": "Dirigentes oficialistas y opositores plantearon la urgencia de resolver la vacante que dejó Julio Anativia. En tanto, las renuncias de la seremi de Salud y la directora regional del Senama suman nuevas tensiones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-alvarado-delegacion-biobio.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T08:40:23.479Z",
+   "visto": "2026-11-21T08:40:23.479Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -149,20 +163,6 @@
    "visto": "2026-11-21T08:40:23.479Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/21/nombramiento-delegado-presidencial-biobio-ministro-alvarado.html",
-   "titulo": "Visita del ministro Alvarado reaviva expectativas por nombramiento de un delegado titular en Biobío",
-   "resumen": "Dirigentes oficialistas y opositores plantearon la urgencia de resolver la vacante que dejó Julio Anativia. En tanto, las renuncias de la seremi de Salud y la directora regional del Senama suman nuevas tensiones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-alvarado-delegacion-biobio.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T08:40:23.479Z",
-   "visto": "2026-11-21T08:40:23.479Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   },
@@ -2801,20 +2801,6 @@
    "cats": [
     "regional",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/16/artistas-circenses-dan-ultimo-adios-al-tony-pulguita-con-una-caravana/",
-   "titulo": "Artistas circenses dan último adiós al Tony Pulguita con una caravana",
-   "resumen": "José Ramón Arellano fue recordado por su impacto en la cultura del Gran Concepción.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/muere-tony-pulguita--768x432.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-16T08:44:36.000Z",
-   "visto": "2026-11-16T12:10:20.678Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   }
