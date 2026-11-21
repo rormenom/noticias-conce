@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T18:40:20.427Z",
+ "generado": "2026-11-21T18:50:21.292Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 62,
+    "enlaces": 149,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
@@ -2829,20 +2829,6 @@
    "visto": "2026-11-16T19:20:21.187Z",
    "cats": [
     "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/aprueban-proyecto-freno-alza-combustibles.html",
-   "titulo": "“El precio de las gasolinas baja 40 pesos este jueves”: aprueban en Comisión de Hacienda proyecto que frena alzas hasta 2027",
-   "resumen": "La iniciativa fue visada por unanimidad en la Comisión de Hacienda. El proyecto anula el incremento aplicado a principios de noviembre y modifica el Mepco.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/aprueban-proyecto-freno-alza-combustibles-baja-40-pesos.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T18:50:23.330Z",
-   "visto": "2026-11-16T18:50:23.330Z",
-   "cats": [
     "politica"
    ],
    "local": true
