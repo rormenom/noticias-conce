@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T14:30:26.446Z",
+ "generado": "2026-11-21T15:10:21.820Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 60,
+    "enlaces": 147,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/9-menores-afectados-por-gas-pimienta-en-escuela-rural-de-los-angeles-2-lo-habrian-activado.shtml",
+   "titulo": "9 menores afectados por gas pimienta en escuela rural de Los Ángeles: 2 lo habrían activado",
+   "resumen": "Nueve estudiantes de la escuela rural Las Parcelas, en Los Ángeles, región del Bío Bío, resultaron...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027687-9-alumnos-fueron-afectados-por-gas-pimienta-en-escuela-rural-de-los-angeles_-2-lo-habrian-activado-1.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-21T15:04:34.000Z",
+   "visto": "2026-11-21T15:10:21.820Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/un-muerto-y-un-herido-grave-deja-colision-frontal-entre-camionetas-en-la-ruta-yumbel-cabrero.shtml",
    "titulo": "Un muerto y un herido grave deja colisión frontal entre camionetas en la ruta Yumbel-Cabrero",
@@ -1655,20 +1669,6 @@
    "titulo": "Comunas del Biobío avanzan en la construcción de cortafuegos para proteger viviendas ante incendios forestales",
    "resumen": "En la provincia de Biobío, distintas comunas refuerzan las medidas preventivas frente a la temporada de incendios forestales. Los Ángeles, Mulchén y Cabrero figuran entre las zonas con superficies expuestas a un riesgo muy alto, mientras autoridades llaman a…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Enero-28-Cortafuegos-Los-Angeles-e1795105763987.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T16:30:26.266Z",
-   "visto": "2026-11-19T16:30:26.266Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/con-mira-en-los-odesur-2030-la-joyita-de-talcahuano-logro-tricampeonato-nacional",
-   "titulo": "Con mira en los Odesur 2030: \"La Joyita\" de Talcahuano logró tricampeonato nacional",
-   "resumen": "Nueve regatas, nueve victorias. Con ese marcador perfecto, Carlos del Solar, capitán de La Joyita de Talcahuano, se quedó con el Campeonato Nacional de la clase J24, disputado en Algarrobo. Según se destacó en una conversación con el navegante, nadie había…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-18-at-7.36.35-AM.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-19T16:30:26.266Z",
