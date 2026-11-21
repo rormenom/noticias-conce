@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T00:00:29.484Z",
+ "generado": "2026-11-21T00:30:23.514Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/lancha-estaba-en-construccion-y-cayo-lo-que-se-sabe-de-muerte-de-2-personas-aplastadas-en-talcahuano.shtml",
+   "titulo": "Lancha estaba en construcción y cayó: Lo que se sabe de muerte de 2 personas aplastadas en Talcahuano",
+   "resumen": "Un trágico accidente ha conmocionado la tarde de este viernes a la comuna de Talcahuano, región del...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027436-a-1-por-lancha-estaba-en-construccion-y-cayo_-lo-que-se-sabe-de-muerte-de-2-personas-aplastadas-en-talcahuano.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-21T00:21:14.000Z",
+   "visto": "2026-11-21T00:30:23.514Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/talcahuano-accidente-caleta-infiernillo.html",
    "titulo": "Talcahuano: accidente con embarcación en Caleta Infiernillo deja dos personas fallecidas y un herido",
@@ -1616,20 +1630,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-19T14:20:25.639Z",
    "visto": "2026-11-19T14:20:25.639Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/si-vives-en-una-de-estas-21-comunas-postula-a-un-aire-acondicionado-desde-los-20-mil-pesos",
-   "titulo": "Habitantes de 21 comunas,10 del Gran Concepción, pueden postular a un aire acondicionado desde $20 mil pesos",
-   "resumen": "El Ministerio del Medio Ambiente tiene abiertas las postulaciones al Programa de Recambio de Calefactores, que ofrece a las familias la posibilidad de cambiar sus antiguos aparatos a leña por equipos más eficientes y menos contaminantes. El beneficio puede…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/programa-recambio-de-calefactores.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T14:10:21.390Z",
-   "visto": "2026-11-19T14:10:21.390Z",
    "cats": [
     "regional"
    ],
