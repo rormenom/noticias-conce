@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T11:40:20.132Z",
+ "generado": "2026-11-21T13:20:21.348Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 59,
+    "enlaces": 148,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/investigan-disparos-al-interior-de-galeria-ohiggins-en-pleno-centro-de-concepcion.shtml",
+   "titulo": "Investigan disparos al interior de galería O’Higgins, en pleno centro de Concepción",
+   "resumen": "Disparos se registraron durante la madrugada de este sábado al interior de un local del Centro Comercial O’Higgins, en...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027647-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-21T13:11:49.000Z",
+   "visto": "2026-11-21T13:20:21.348Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/15-anos-de-carcel-a-venezolano-por-crimen-de-colombiano-que-fue-hallado-mutilado-en-talcahuano.shtml",
    "titulo": "15 años de cárcel para venezolano por crimen de colombiano que fue hallado mutilado en Talcahuano",
