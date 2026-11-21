@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T17:00:35.469Z",
+ "generado": "2026-11-21T17:40:05.428Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 18,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,10 +60,11 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
-    "leidas": 61,
-    "errores": 0,
-    "robots": 0
+    "enlaces": 148,
+    "leidas": 62,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/chile/2026/11/21/parlamentarios-preven-dificil-semana-para-kast-entre-problemas-economicos-de-aprobacion-y-caso-rabat.shtml)"
    }
   },
   {
@@ -74,13 +75,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/21/visita-del-ministro-alvarado-reaviva-expectativas-por-nombramiento-de-un-delegado-titular-en-biobio.html",
+   "titulo": "Visita del ministro Alvarado reaviva expectativas por nombramiento de un delegado titular en Biobío",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/ministro-alvarado-delegacion-biobio-850x500.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-21T17:40:05.428Z",
+   "visto": "2026-11-21T17:40:05.428Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/rescatan-a-pinguino-herido-y-deshidratado-en-playa-bellavista-de-tome.shtml",
+   "titulo": "Rescatan a pingüino herido y deshidratado en playa Bellavista de Tomé",
+   "resumen": "Un pingüino de Magallanes fue rescatado en la playa Bellavista de la comuna de Tomé, región...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027754-rescatan-a-pinguino-herido-y-deshidratado-en-playa-bellavista-de-tome.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-21T17:33:07.000Z",
+   "visto": "2026-11-21T17:40:05.428Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/21/un-muerto-y-un-herido-grave-deja-colision-frontal-entre-camionetas-en-la-ruta-yumbel-cabrero",
    "titulo": "Choque frontal de dos camionetas en la ruta Yumbel-Cabrero deja una víctima fatal y un herido grave",
@@ -1601,34 +1631,6 @@
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T17:18:12.355Z",
-   "visto": "2026-11-19T17:18:12.355Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/planeta-no-presentara-en-vivo-en-concepcion-su-segundo-disco-un-abrazo",
-   "titulo": "Planeta No presentará en vivo en Concepción su segundo disco \"Un Abrazo\"",
-   "resumen": "La banda penquista Planeta No volverá a los escenarios chilenos durante noviembre con una gira que contempla presentaciones en Valparaíso, Concepción y Chillán, además de una fecha en Santiago en diciembre. El recorrido marcará el debut en vivo de “Un…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/PLANETA-NO.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T17:18:12.355Z",
-   "visto": "2026-11-19T17:18:12.355Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/capturan-en-peru-a-venezolano-profugo-por-asesinato-a-balazos-en-el-bio-bio-en-2022.shtml",
-   "titulo": "Capturan en Perú a venezolano prófugo por asesinato a balazos en el Bío Bío en 2022",
-   "resumen": "La Policía Nacional de Perú detuvo en la ciudad de Chiclayo, región de Lambayeque, a un ciudadano venezolano de 25...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025452-bbcl-75.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-19T17:15:19.000Z",
    "visto": "2026-11-19T17:18:12.355Z",
    "cats": [
     "regional"
