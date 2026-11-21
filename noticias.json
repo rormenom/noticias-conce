@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T22:40:26.895Z",
+ "generado": "2026-11-21T00:00:29.484Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -47,7 +47,7 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 19,
+    "enlaces": 18,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 150,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -875,10 +875,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/habitar-el-cerebro-comunidad-podra-experimentar-y-comprender-como-funciona-el-organo-vital.html",
-   "titulo": "“Habitar el Cerebro”: comunidad podrá experimentar y comprender cómo funciona el órgano vital",
-   "resumen": "Una experiencia lúdica e interactiva y gratuita se ofrecerá este sábado 21 de noviembre en el Cicat UdeC.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-cicat-foto-Natalia-Quiero.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/curso-gratis-y-abierto-a-la-comunidad-fomenta-un-consumo-consciente-para-la-sostenibilidad.html",
+   "titulo": "Curso gratis y abierto a la comunidad fomenta un consumo consciente para la sostenibilidad",
+   "resumen": "La iniciativa tiene 2 mil cupos disponibles y estará  vigente hasta el 31 de enero de 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-consumo-conciente-foto-cedida.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-20T08:40:20.882Z",
@@ -889,10 +889,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/curso-gratis-y-abierto-a-la-comunidad-fomenta-un-consumo-consciente-para-la-sostenibilidad.html",
-   "titulo": "Curso gratis y abierto a la comunidad fomenta un consumo consciente para la sostenibilidad",
-   "resumen": "La iniciativa tiene 2 mil cupos disponibles y estará  vigente hasta el 31 de enero de 2027.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-consumo-conciente-foto-cedida.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/habitar-el-cerebro-comunidad-podra-experimentar-y-comprender-como-funciona-el-organo-vital.html",
+   "titulo": "“Habitar el Cerebro”: comunidad podrá experimentar y comprender cómo funciona el órgano vital",
+   "resumen": "Una experiencia lúdica e interactiva y gratuita se ofrecerá este sábado 21 de noviembre en el Cicat UdeC.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-cicat-foto-Natalia-Quiero.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-20T08:40:20.882Z",
@@ -1781,10 +1781,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/cicat-udec-curioteca-primeras-infancias-biobio.html",
-   "titulo": "Cicat UdeC abre Curioteca: un espacio dedicado a las primeras infancias del Biobío",
-   "resumen": "Es el primer espacio del recinto pensado especialmente a niños y niñas de 2 a 6 años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/BREVE.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
+   "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
+   "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
@@ -1795,10 +1795,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
-   "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
-   "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/cicat-udec-curioteca-primeras-infancias-biobio.html",
+   "titulo": "Cicat UdeC abre Curioteca: un espacio dedicado a las primeras infancias del Biobío",
+   "resumen": "Es el primer espacio del recinto pensado especialmente a niños y niñas de 2 a 6 años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/BREVE.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T08:40:23.244Z",
