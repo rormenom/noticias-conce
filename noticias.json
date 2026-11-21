@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T17:40:05.428Z",
+ "generado": "2026-11-21T17:50:23.854Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 18,
-    "leidas": 1,
+    "enlaces": 19,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
@@ -61,10 +61,9 @@
    "diag": {
     "paginas": 4,
     "enlaces": 148,
-    "leidas": 62,
-    "errores": 1,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/chile/2026/11/21/parlamentarios-preven-dificil-semana-para-kast-entre-problemas-economicos-de-aprobacion-y-caso-rabat.shtml)"
+    "leidas": 60,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -82,6 +81,64 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/21/inundaciones-en-calle-la-vega-preven-licitar-estudios-para-el-sistema-de-aguas-lluvia-de-cara-a-2027.html",
+   "titulo": "Inundaciones en calle La Vega: prevén licitar estudios para el sistema de aguas lluvia de cara a 2027",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-5-calle-la-vega-foto-isidoro-850x500.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-21T17:50:23.854Z",
+   "visto": "2026-11-21T17:50:23.854Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
+   "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina-850x500.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-21T17:50:23.854Z",
+   "visto": "2026-11-21T17:50:23.854Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/21/sector-forestal-apuesta-por-la-infraestructura-en-madera-y-la-reactivacion-tras-expocorma-2026.html",
+   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg-850x500.jpeg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-21T17:50:23.854Z",
+   "visto": "2026-11-21T17:50:23.854Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/21/eric-goles-se-puede-ser-cientifico-intelectual-y-de-exito-sin-ser-genio-ni-uniformemente-exitoso.html",
+   "titulo": "Eric Goles: “Se puede ser científico, intelectual y de éxito sin ser genio ni uniformemente exitoso”",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-9-Eric-Goles-foto-carolina-850x500.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-21T17:50:23.854Z",
+   "visto": "2026-11-21T17:50:23.854Z",
+   "cats": [
+    "regional",
+    "deportes",
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/21/visita-del-ministro-alvarado-reaviva-expectativas-por-nombramiento-de-un-delegado-titular-en-biobio.html",
    "titulo": "Visita del ministro Alvarado reaviva expectativas por nombramiento de un delegado titular en Biobío",
@@ -1553,34 +1610,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/capturan-en-peru-a-venezolano-profugo-por-asesinato-a-balazos-en-el-bio-bio-en-2022",
-   "titulo": "Detienen en Perú a venezolano buscado por un homicidio a tiros cometido en el Bío Bío en 2022",
-   "resumen": "La Policía Nacional de Perú arrestó en Chiclayo, región de Lambayeque, a un venezolano de 25 años requerido por la justicia chilena por su presunta implicación en un homicidio calificado perpetrado en marzo de 2022 en la comuna de Los Ángeles. El detenido es…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-75.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T18:30:29.415Z",
-   "visto": "2026-11-19T18:30:29.415Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/rechazan-recurso-de-exseremi-de-educacion-del-bio-bio-nanjari-acuso-a-prensa-de-vulnerar-privacidad",
-   "titulo": "Justicia desestima recurso de exseremi de Educación del Bío Bío, quien acusó a la prensa de invadir su privacidad.",
-   "resumen": "La Corte de Apelaciones de Concepción desestimó el recurso de protección presentado por el exseremi de Educación del Bío Bío, Alexander Nanjarí, quien cuestionó a los medios por publicar mensajes de X en los que comentaba las diferencias de edad en las…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/alexander-nanjari-justicia-rechaza-recurso-contra-prensa.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T18:30:29.415Z",
-   "visto": "2026-11-19T18:30:29.415Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/19/tecnologia-desarrollada-en-el-bio-bio-logra-degradar-hasta-un-80-de-hidrocarburos-en-solo-24-horas",
    "titulo": "Innovación creada en el Bío Bío elimina hasta el 80% de hidrocarburos en apenas 24 horas",
    "resumen": "¿Y si los desechos industriales con hidrocarburos pudieran tratarse con métodos biológicos en vez de ser enviados a recintos de confinamiento seguro? Investigadores del Bío Bío trabajan para hacerlo posible: en pruebas experimentales, una combinación de…",
@@ -1620,20 +1649,6 @@
    "visto": "2026-11-19T17:18:12.355Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/heladerias-gran-concepcion-sumarios-sanitarios.html",
-   "titulo": "Gran Concepción: capacitan a trabajadores de heladerías para evitar sumarios sanitarios",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-19-at-1.43.25-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T17:18:12.355Z",
-   "visto": "2026-11-19T17:18:12.355Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
