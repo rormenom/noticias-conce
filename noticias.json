@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T15:40:20.681Z",
+ "generado": "2026-11-21T16:00:30.135Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
-    "leidas": 59,
+    "enlaces": 146,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -2843,20 +2843,6 @@
    "cats": [
     "regional",
     "cultura",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/kast-justifica-ofrenda-ho-chi-minh.html",
-   "titulo": "VIDEO | Presidente Kast justifica ofrenda en Vietnam: “Quien habló en ese momento era el candidato”",
-   "resumen": "El Mandatario abordó las críticas por su cambio de postura respecto al régimen vietnamita durante su última jornada en el país asiático.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/kast-justifica-ofrenda-ho-chi-minh-e1794844212802.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T16:00:31.406Z",
-   "visto": "2026-11-16T16:00:31.406Z",
-   "cats": [
     "politica"
    ],
    "local": true
