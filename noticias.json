@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T08:50:24.876Z",
+ "generado": "2026-11-21T10:40:23.516Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 58,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/laguna-chica-de-san-pedro-recibe-a-los-mejores-del-remo-master-nacional.html",
+   "titulo": "Laguna Chica de San Pedro recibe a los mejores del Remo Master nacional",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/remo-master.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T10:40:23.516Z",
+   "visto": "2026-11-21T10:40:23.516Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/21/corma-expocorma-2026-balance-positivo-industria.html",
    "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
