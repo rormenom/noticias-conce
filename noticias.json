@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T16:30:26.424Z",
+ "generado": "2026-11-21T17:00:35.469Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 147,
-    "leidas": 59,
+    "enlaces": 149,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,55 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/21/un-muerto-y-un-herido-grave-deja-colision-frontal-entre-camionetas-en-la-ruta-yumbel-cabrero",
+   "titulo": "Choque frontal de dos camionetas en la ruta Yumbel-Cabrero deja una víctima fatal y un herido grave",
+   "resumen": "Una persona falleció y otra sufrió heridas de gravedad tras el choque frontal de dos camionetas en la ruta Yumbel-Cabrero, en la provincia del Bío Bío. Hasta el momento, no se ha encontrado documentación del fallecido en el lugar. El accidente fatal se…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/un-muerto-y-un-herido-grave-deja-choque-frontal-entre-camionetas-en-la-ruta-yumbel-cabrero.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-21T17:00:35.469Z",
+   "visto": "2026-11-21T17:00:35.469Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/21/9-menores-afectados-por-gas-pimienta-en-escuela-rural-de-los-angeles-2-lo-habrian-activado",
+   "titulo": "Dos menores habrían activado gas pimienta y afectado a otros siete en una escuela rural de Los Ángeles",
+   "resumen": "Nueve alumnos de la escuela rural Las Parcelas, en Los Ángeles, región del Bío Bío, se vieron afectados por gas pimienta, lo que provocó una emergencia dentro del establecimiento. Los estudiantes, con edades de 11 a 13 años, recibieron atención en el SAR…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/9-alumnos-fueron-afectados-por-gas-pimienta-en-escuela-rural-de-los-angeles_-2-lo-habrian-activado-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-21T17:00:35.469Z",
+   "visto": "2026-11-21T17:00:35.469Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/21/decretan-prohibicion-de-bano-en-3-playas-de-la-region-del-bio-bio-por-presencia-de-fragata-portuguesa",
+   "titulo": "Prohíben el baño en tres playas del Bío Bío por presencia de fragatas portuguesas",
+   "resumen": "La Seremi de Salud del Bío Bío decretó la prohibición de bañarse en tres playas de la región tras detectarse fragata portuguesa. De acuerdo con lo informado, la restricción rige en la playa de Caleta Lenga, en Hualpén. También afecta a Playa Larga y Boca…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/fragata.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-21T17:00:35.469Z",
+   "visto": "2026-11-21T17:00:35.469Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/decretan-prohibicion-de-bano-en-3-playas-de-la-region-del-bio-bio-por-presencia-de-fragata-portuguesa.shtml",
    "titulo": "Decretan prohibición de baño en 3 playas de la región del Bío Bío por presencia de fragata portuguesa",
@@ -1594,20 +1636,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/juegos-suramericanos-2030-biobio-proyecta-inversion-de-us130-millones-y-construccion-de-seis-nuevos-recintos-deportivos",
-   "titulo": "Juegos Suramericanos 2030: Biobío proyecta inversión de US$130 millones y construcción de seis nuevos recintos deportivos",
-   "resumen": "La región comenzó a definir las comunas que albergarán las competencias y los terrenos donde se levantarán las nuevas instalaciones. El proyecto contempla US$70 millones para infraestructura y US$60 millones para la operación del evento, además de distintas…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Agencia-UNO-Juegos-Suramericanos-Santiago-2014-Referencial-1024x538-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T17:10:23.014Z",
-   "visto": "2026-11-19T17:10:23.014Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/19/lo-cambio-todo-yasmani-acosta-frena-fecha-de-retiro-y-apunta-a-despedirse-en-odesur-2030-del-biobio.shtml",
    "titulo": "\"Lo cambió todo\": Yasmani Acosta frena fecha de retiro y apunta a despedirse en Odesur 2030 del Biobío",
    "resumen": "El luchador chileno-cubano Yasmani Acosta sacó la voz en “meses sumamente duros” que detalló a través de Instagram, red social...",
@@ -1618,20 +1646,6 @@
    "visto": "2026-11-19T17:00:29.286Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/rechazan-recurso-de-exseremi-de-educacion-del-bio-bio-nanjari-acuso-a-prensa-de-vulnerar-privacidad.shtml",
-   "titulo": "Rechazan recurso de exseremi de Educación del Bío Bío: Nanjarí acusó a prensa de vulnerar privacidad",
-   "resumen": "La Corte de Apelaciones de Concepción rechazó el recurso de protección del exseremi de Educación del Bío Bío, Alexander...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025424-alexander-nanjari-justicia-rechaza-recurso-contra-prensa.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-19T16:58:10.000Z",
-   "visto": "2026-11-19T17:00:29.286Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
