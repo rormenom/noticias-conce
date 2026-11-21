@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T13:20:21.348Z",
+ "generado": "2026-11-21T14:00:27.809Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
+    "enlaces": 149,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,35 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/21/15-anos-de-carcel-a-venezolano-por-crimen-de-colombiano-que-fue-hallado-mutilado-en-talcahuano",
+   "titulo": "Venezolano recibe 15 años de prisión por el asesinato de un colombiano hallado mutilado en Talcahuano",
+   "resumen": "El Tribunal Oral de Concepción condenó a 15 años de prisión a un ciudadano venezolano, por su responsabilidad en el brutal asesinato de un colombiano cuyo cuerpo mutilado fue hallado dentro de un automóvil en el camino hacia la caleta Chome. El crimen salió a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/15-anos-de-carcel-a-venezolano-por-crimen-de-colombiano-que-fue-hallado-mutilado-en-talcahuano.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-21T14:00:27.809Z",
+   "visto": "2026-11-21T14:00:27.809Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/21/investigan-disparos-al-interior-de-galeria-ohiggins-en-pleno-centro-de-concepcion",
+   "titulo": "Investigan disparos en una galería del centro de Concepción; tres personas fueron detenidas",
+   "resumen": "La madrugada de este sábado hubo disparos dentro de un local del Centro Comercial O’Higgins, ubicado en el centro de Concepción. Funcionarios especializados de Labocar y del OS9 de Carabineros investigan lo ocurrido y realizan distintas diligencias en el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-21T14:00:27.809Z",
+   "visto": "2026-11-21T14:00:27.809Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/investigan-disparos-al-interior-de-galeria-ohiggins-en-pleno-centro-de-concepcion.shtml",
    "titulo": "Investigan disparos al interior de galería O’Higgins, en pleno centro de Concepción",
@@ -181,16 +210,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/21/corma-expocorma-2026-balance-positivo-industria.html",
-   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
-   "resumen": "El presidente nacional del gremio, Rodrigo O’Ryan, valoró la invitación del gobernador regional Sergio Giacaman para trabajar junto al mundo público y la academia de cara a los Juegos Odesur 2030, en un evento que convocó a decenas de empresas y proveedores.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/21/nombramiento-delegado-presidencial-biobio-ministro-alvarado.html",
+   "titulo": "Visita del ministro Alvarado reaviva expectativas por nombramiento de un delegado titular en Biobío",
+   "resumen": "Dirigentes oficialistas y opositores plantearon la urgencia de resolver la vacante que dejó Julio Anativia. En tanto, las renuncias de la seremi de Salud y la directora regional del Senama suman nuevas tensiones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-alvarado-delegacion-biobio.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T08:40:23.479Z",
    "visto": "2026-11-21T08:40:23.479Z",
    "cats": [
-    "regional"
+    "politica"
    ],
    "local": true
   },
@@ -209,16 +238,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/21/nombramiento-delegado-presidencial-biobio-ministro-alvarado.html",
-   "titulo": "Visita del ministro Alvarado reaviva expectativas por nombramiento de un delegado titular en Biobío",
-   "resumen": "Dirigentes oficialistas y opositores plantearon la urgencia de resolver la vacante que dejó Julio Anativia. En tanto, las renuncias de la seremi de Salud y la directora regional del Senama suman nuevas tensiones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-alvarado-delegacion-biobio.jpg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/21/corma-expocorma-2026-balance-positivo-industria.html",
+   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
+   "resumen": "El presidente nacional del gremio, Rodrigo O’Ryan, valoró la invitación del gobernador regional Sergio Giacaman para trabajar junto al mundo público y la academia de cara a los Juegos Odesur 2030, en un evento que convocó a decenas de empresas y proveedores.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T08:40:23.479Z",
    "visto": "2026-11-21T08:40:23.479Z",
    "cats": [
-    "politica"
+    "regional"
    ],
    "local": true
   },
@@ -1665,34 +1694,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/carriel-sur-proyecta-duplicar-su-capacidad-de-pasajeros-y-habilitar-zona-de-carga-inicia-estudio-para-su-ampliacion",
-   "titulo": "Carriel Sur proyecta duplicar su capacidad de pasajeros y habilitar zona de carga: inicia estudio para su ampliación",
-   "resumen": "El Ministerio de Obras Públicas inició los estudios para modernizar el aeropuerto de Talcahuano, con una inversión superior a los $1.245 millones. El proyecto busca ampliar el terminal, fortalecer el transporte aéreo de carga y preparar la infraestructura…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/IMG_9401-scaled-1-e1795102073508.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T15:30:30.162Z",
-   "visto": "2026-11-19T15:30:30.162Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/a-casi-dos-meses-del-anuncio-san-pedro-de-la-paz-aun-espera-189-millones-del-plan-escudo-de-barrio",
-   "titulo": "San Pedro de la Paz sigue a la espera de $189 millones del Plan Escudo de Barrio, a casi dos meses del anuncio",
-   "resumen": "La Subsecretaría de Prevención del Delito todavía no ha entregado los $189 millones comprometidos para costear las acciones de seguridad del Plan Escudo de Barrio en San Pedro de la Paz. Aunque el Gobierno informó que aumentaría la presencia policial, en el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-casi-dos-meses-del-anuncio_-san-pedro-de-la-paz-aun-espera-189-millones-del-plan-escudo-de-barrio-2.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T15:20:32.420Z",
-   "visto": "2026-11-19T15:20:32.420Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/19/arqueologia-bajo-el-puente-industrial-presentan-libro-con-los-hallazgos-hallados-durante-la-obra",
    "titulo": "Arqueología bajo el Puente Industrial: presentan libro con los hallazgos hallados durante la obra",
    "resumen": "Los restos arqueológicos recuperados durante la construcción del Puente Industrial en el Gran Concepción quedaron reunidos en un libro divulgativo que busca acercar la historia local a la comunidad, a establecimientos educacionales y a la red de bibliotecas.…",
@@ -2856,21 +2857,6 @@
    "fecha": "2026-11-16T14:22:20.000Z",
    "visto": "2026-11-16T14:30:30.231Z",
    "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/16/concepcion-sera-escenario-del-tercer-foro-hispanoamericano-de-periodismo-de-ciencia-en-la-ucsc",
-   "titulo": "Concepción será escenario del Tercer Foro Hispanoamericano de Periodismo de Ciencia en la UCSC",
-   "resumen": "La Universidad Católica de la Santísima Concepción (UCSC) será sede, este 16 y 17 de noviembre, del Tercer Foro Hispanoamericano de Periodismo Científico, que lleva por lema «El océano en primera plana». En conversación con Matinal Nuestra Casa, el jefe de la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/3-foro-de-periodismo-de-ciencias-ucsc.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-16T14:00:37.612Z",
-   "visto": "2026-11-16T14:00:37.612Z",
-   "cats": [
-    "regional",
     "tecnologia"
    ],
    "local": true
