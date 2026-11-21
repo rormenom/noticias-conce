@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T11:10:19.706Z",
+ "generado": "2026-11-21T11:40:20.132Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/15-anos-de-carcel-a-venezolano-por-crimen-de-colombiano-que-fue-hallado-mutilado-en-talcahuano.shtml",
+   "titulo": "15 años de cárcel para venezolano por crimen de colombiano que fue hallado mutilado en Talcahuano",
+   "resumen": "Una pena de 15 años de cárcel dictó el Tribunal Oral de Concepción para un ciudadano venezolano, como responsable...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027604-15-anos-de-carcel-a-venezolano-por-crimen-de-colombiano-que-fue-hallado-mutilado-en-talcahuano.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-21T11:35:40.000Z",
+   "visto": "2026-11-21T11:40:20.132Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/21/lancha-estaba-en-construccion-y-cayo-lo-que-se-sabe-de-muerte-de-2-personas-aplastadas-en-talcahuano",
    "titulo": "Revelan que la lancha que causó dos muertes en Talcahuano fue construida en una ocupación ilegal",
@@ -1703,20 +1717,6 @@
    "visto": "2026-11-20T01:00:27.861Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/mujeres-emprendedoras-biobio-desafios.html",
-   "titulo": "Mujeres emprendedoras del Biobío: los desafíos detrás de levantar un negocio",
-   "resumen": "Financiamiento, ventas y conciliación familiar marcan el camino de las emprendedoras.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261118-WA3056.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T15:00:00.000Z",
-   "visto": "2026-11-20T18:20:20.581Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
