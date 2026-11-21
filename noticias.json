@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T14:20:21.248Z",
+ "generado": "2026-11-21T14:30:26.446Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 61,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -2858,20 +2858,6 @@
    "visto": "2026-11-16T16:00:31.406Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/astronomia/2026/11/16/astronomos-descubren-el-primer-planeta-gigante-que-desaparecio-mientras-lo-observaban.shtml",
-   "titulo": "Astrónomos descubren el primer planeta gigante que desapareció mientras lo observaban",
-   "resumen": "Astrónomos de la Universidad de California en Los Ángeles (UCLA) descubrieron el primer planeta del que se ha visto desaparecer...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7020614-exoplaneta-6.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-16T14:22:20.000Z",
-   "visto": "2026-11-16T14:30:30.231Z",
-   "cats": [
-    "tecnologia"
    ],
    "local": true
   }
