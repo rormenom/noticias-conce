@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T10:40:23.516Z",
+ "generado": "2026-11-21T10:50:21.561Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,55 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/un-vial-con-ganas-de-fiesta-a-90-minutos-del-gran-desahogo.html",
+   "titulo": "Un Vial con ganas de fiesta: a 90 minutos del gran desahogo",
+   "resumen": "Llega a Santiago con ventaja de 2-1 en la ida sobre Puente Alto, pero entendiendo que no puede ir a especular. No se logró contra Mejillones, pero el Inmortal tiene otra oportunidad y no va a dejarla pasar.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Vial-vs-Puente-Alto.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T10:50:21.561Z",
+   "visto": "2026-11-21T10:50:21.561Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/no-hay-margen-de-error-udec-sale-a-quitarse-la-soga-del-cuello.html",
+   "titulo": "No hay margen de error: UdeC sale a quitarse la soga del cuello",
+   "resumen": "Equipo de Cristián Muñoz tiene solo tres partidos para salir del fondo y arrancar del descenso. Triunfos de Cobresal y La Calera lo dejaron en último lugar antes de enfrentar hoy a Ñublense.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/UdeC-vs-%C3%91ublense.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T10:50:21.561Z",
+   "visto": "2026-11-21T10:50:21.561Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/basquet-femenino-udec-vuelve-a-casa-para-bajar-al-puntero-sportiva.html",
+   "titulo": "Basquet femenino UdeC vuelve a casa para bajar al puntero Sportiva",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/basket-UdeC-Femenina-vs-Sportiva.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T10:50:21.561Z",
+   "visto": "2026-11-21T10:50:21.561Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/laguna-chica-de-san-pedro-recibe-a-los-mejores-del-remo-master-nacional.html",
    "titulo": "Laguna Chica de San Pedro recibe a los mejores del Remo Master nacional",
@@ -1796,34 +1838,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/vial-y-una-historia-de-ascensos-cinco-recordados-festejos-y-otro-que-debio-ser.html",
-   "titulo": "Vial y una historia de ascensos: cinco recordados festejos y otro que debió ser",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ascenso-Fernandez-Vial-.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/los-ex-udec-seran-chile-en-el-mundial-de-maxibasket.html",
-   "titulo": "Los Ex UdeC serán Chile en el Mundial de Maxibasket",
-   "resumen": "Jorge Vásquez, base del equipo que clasificó en Puerto Montt, habló de esta campaña con los +40 que sacaron boleto para Fortaleza y esta nueva etapa que todos viven con alegría y nostalgia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Maxibasquetbol.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/escuela-de-verano-udec-2027-el-tiempo-como-punto-de-encuentro-entre-ciencias-artes-comunidad-universitaria.html",
    "titulo": "Escuela de Verano UdeC 2027: “El Tiempo” como punto de encuentro entre las ciencias, las artes y la comunidad universitaria",
    "resumen": "Entre el 11 y el 22 de enero, la edición número 72 de esta tradicional cita académica y cultural desplegará su programación en torno a este concepto en los tres campus de la Universidad de Concepción. Un congreso con la participación del Premio Nobel de…",
@@ -1862,6 +1876,34 @@
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/vial-y-una-historia-de-ascensos-cinco-recordados-festejos-y-otro-que-debio-ser.html",
+   "titulo": "Vial y una historia de ascensos: cinco recordados festejos y otro que debió ser",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ascenso-Fernandez-Vial-.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/los-ex-udec-seran-chile-en-el-mundial-de-maxibasket.html",
+   "titulo": "Los Ex UdeC serán Chile en el Mundial de Maxibasket",
+   "resumen": "Jorge Vásquez, base del equipo que clasificó en Puerto Montt, habló de esta campaña con los +40 que sacaron boleto para Fortaleza y esta nueva etapa que todos viven con alegría y nostalgia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Maxibasquetbol.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
