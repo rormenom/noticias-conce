@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T21:30:24.533Z",
+ "generado": "2026-11-21T21:50:19.760Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 150,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -2729,20 +2729,6 @@
    "visto": "2026-11-17T10:10:20.814Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/gastos-traslacion-parlamentarios-biobio-alza-combustibles.html",
-   "titulo": "Desde $1,1 millones a $3,7 millones mensuales: lo que gastan en traslado los diputados, diputadas y senadores del Biobío",
-   "resumen": "La diputada Flor Weisse y el senador Sebastián Keitel lideran los promedios mensuales de gasto regional en este ítem, que incluye combustibles, peajes y pasajes aéreos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-13.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T21:50:22.022Z",
-   "visto": "2026-11-16T21:50:22.022Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
