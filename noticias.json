@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T20:10:21.042Z",
+ "generado": "2026-11-21T20:40:20.499Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -110,10 +110,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
-   "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
+   "url": "https://www.tvu.cl/prensa/2026/11/21/inundaciones-en-calle-la-vega-preven-licitar-estudios-para-el-sistema-de-aguas-lluvia-de-cara-a-2027.html",
+   "titulo": "Inundaciones en calle La Vega: prevén licitar estudios para el sistema de aguas lluvia de cara a 2027",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina-850x500.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-5-calle-la-vega-foto-isidoro-850x500.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-21T17:50:23.854Z",
@@ -124,10 +124,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/inundaciones-en-calle-la-vega-preven-licitar-estudios-para-el-sistema-de-aguas-lluvia-de-cara-a-2027.html",
-   "titulo": "Inundaciones en calle La Vega: prevén licitar estudios para el sistema de aguas lluvia de cara a 2027",
+   "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
+   "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-5-calle-la-vega-foto-isidoro-850x500.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina-850x500.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-21T17:50:23.854Z",
@@ -2773,20 +2773,6 @@
    "cats": [
     "regional",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/municipios-subdere-modernizacion.html",
-   "titulo": "Municipios podrán optar a financiamiento para modernización y ciberseguridad",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-16-at-5.07.42-PM.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T20:40:22.206Z",
-   "visto": "2026-11-16T20:40:22.206Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
