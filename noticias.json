@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T00:30:23.514Z",
+ "generado": "2026-11-21T00:40:20.156Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 149,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -1524,20 +1524,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diego-livingstone-tesorero-anfp.html",
-   "titulo": "Diego Livingstone deja Deportes Concepción para asumir tesorería de la ANFP",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/download-6.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T15:00:00.000Z",
-   "visto": "2026-11-20T00:40:25.158Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/nano-diaz-renovacion-2027-concepcion.html",
    "titulo": "“Se analizaron las posibilidades de 2027”: Presidente del Conce sobre “Nano” Díaz",
    "resumen": "",
@@ -1546,6 +1532,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T15:00:00.000Z",
    "visto": "2026-11-20T01:00:27.861Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diego-livingstone-tesorero-anfp.html",
+   "titulo": "Diego Livingstone deja Deportes Concepción para asumir tesorería de la ANFP",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/download-6.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T15:00:00.000Z",
+   "visto": "2026-11-20T00:40:25.158Z",
    "cats": [
     "deportes"
    ],
