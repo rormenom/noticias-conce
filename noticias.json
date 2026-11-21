@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T10:50:21.561Z",
+ "generado": "2026-11-21T11:10:19.706Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 8,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/21/lancha-estaba-en-construccion-y-cayo-lo-que-se-sabe-de-muerte-de-2-personas-aplastadas-en-talcahuano",
+   "titulo": "Revelan que la lancha que causó dos muertes en Talcahuano fue construida en una ocupación ilegal",
+   "resumen": "Han surgido nuevos antecedentes sobre el fatal accidente en el que dos personas murieron aplastadas por una lancha en Talcahuano. Según la Armada, la embarcación estaba siendo construida en un terreno privado que correspondería a una “ocupación ilegal”. El…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-1-por-lancha-estaba-en-construccion-y-cayo_-lo-que-se-sabe-de-muerte-de-2-personas-aplastadas-en-talcahuano.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-21T11:10:19.706Z",
+   "visto": "2026-11-21T11:10:19.706Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/un-vial-con-ganas-de-fiesta-a-90-minutos-del-gran-desahogo.html",
    "titulo": "Un Vial con ganas de fiesta: a 90 minutos del gran desahogo",
@@ -1701,20 +1715,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T15:00:00.000Z",
    "visto": "2026-11-20T18:20:20.581Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/a-casi-dos-meses-del-anuncio-san-pedro-de-la-paz-aun-espera-189-millones-del-plan-escudo-de-barrio.shtml",
-   "titulo": "A casi dos meses del anuncio: San Pedro de la Paz aún espera $189 millones del Plan Escudo de Barrio",
-   "resumen": "La Subsecretaría de Prevención del Delito aún no transfiere los $189 millones destinados a financiar las medidas de seguridad...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025071-a-casi-dos-meses-del-anuncio_-san-pedro-de-la-paz-aun-espera-189-millones-del-plan-escudo-de-barrio-2.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-19T14:57:18.000Z",
-   "visto": "2026-11-19T15:00:29.402Z",
    "cats": [
     "regional"
    ],
