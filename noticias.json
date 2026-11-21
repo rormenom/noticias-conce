@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T20:00:27.652Z",
+ "generado": "2026-11-21T20:10:21.042Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -409,10 +409,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/21/corma-expocorma-2026-balance-positivo-industria.html",
-   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
-   "resumen": "El presidente nacional del gremio, Rodrigo O’Ryan, valoró la invitación del gobernador regional Sergio Giacaman para trabajar junto al mundo público y la academia de cara a los Juegos Odesur 2030, en un evento que convocó a decenas de empresas y proveedores.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/la-vega-sistema-aguas-lluvia-inundaciones.html",
+   "titulo": "Inundaciones en calle La Vega: prevén licitar en 2027 estudios para el sistema de aguas lluvia",
+   "resumen": "Residentes de este sector de Talcahuano exigen acelerar el proceso que ponga término a los anegamientos de cada jornada de precipitaciones. Exigen mesa técnica entre todos los actores correspondientes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-calle-la-vega-foto-isidoro.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T08:40:23.479Z",
@@ -423,10 +423,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/la-vega-sistema-aguas-lluvia-inundaciones.html",
-   "titulo": "Inundaciones en calle La Vega: prevén licitar en 2027 estudios para el sistema de aguas lluvia",
-   "resumen": "Residentes de este sector de Talcahuano exigen acelerar el proceso que ponga término a los anegamientos de cada jornada de precipitaciones. Exigen mesa técnica entre todos los actores correspondientes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-calle-la-vega-foto-isidoro.jpg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/21/corma-expocorma-2026-balance-positivo-industria.html",
+   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
+   "resumen": "El presidente nacional del gremio, Rodrigo O’Ryan, valoró la invitación del gobernador regional Sergio Giacaman para trabajar junto al mundo público y la academia de cara a los Juegos Odesur 2030, en un evento que convocó a decenas de empresas y proveedores.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T08:40:23.479Z",
@@ -2785,20 +2785,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-16T20:40:22.206Z",
    "visto": "2026-11-16T20:40:22.206Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/16/con-125-votos-a-favor-camara-baja-aprueba-iniciativa-para-contener-el-precio-de-gasolinas.html",
-   "titulo": "Con 125 votos a favor: Cámara Baja aprueba iniciativa para contener el precio de gasolinas",
-   "resumen": "El texto logró superar su trámite con 125 votos a favor y solo 3 en contra. El Ejecutivo valoró que la iniciativa no sufriera modificaciones para acelerar su avance.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/con-125-votos-a-favor-camara-baja-aprueba-iniciativa-para-contener-el-precio-de-gasolinas-2-e1794859355441.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T20:10:20.710Z",
-   "visto": "2026-11-16T20:10:20.710Z",
    "cats": [
     "politica"
    ],
