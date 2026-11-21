@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T21:50:19.760Z",
+ "generado": "2026-11-21T22:00:25.594Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 60,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/un-2026-lila-el-invicto-de-este-ano-de-deportes-concepcion-sobre-huachipato.html",
+   "titulo": "Un 2026 lila: el invicto de este año de Deportes Concepción sobre Huachipato",
+   "resumen": "El León y los Acereros han jugado 4 veces este año y los de Talcahuano, locales mañana, jamás han podido ganar.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Aldrix-Jara-Deportes-Concepci%C3%B3n-vs-Huachipato-foto-carolina-e1794357998303.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T22:00:25.594Z",
+   "visto": "2026-11-21T22:00:25.594Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/21/rescatan-a-pinguino-herido-y-deshidratado-en-playa-bellavista-de-tome",
    "titulo": "Un pingüino herido y deshidratado recibe ayuda tras ser hallado en playa Bellavista de Tomé",
@@ -1216,20 +1230,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/20/los-lugares-que-asoman-como-fijos-para-recibir-deportes-en-los-odesur-2030.html",
-   "titulo": "Los lugares que asoman como fijos para recibir deportes en los Odesur 2030",
-   "resumen": "Con la reciente confirmación de los Juegos en el Bíobío, ahora falta definir y oficializar qué recintos se ocuparán para cada disciplina, aunque hay algunos que corren con ventaja y fueron parte de la propuesta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casa-del-deporte.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
    "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
    "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
@@ -1240,6 +1240,20 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/20/los-lugares-que-asoman-como-fijos-para-recibir-deportes-en-los-odesur-2030.html",
+   "titulo": "Los lugares que asoman como fijos para recibir deportes en los Odesur 2030",
+   "resumen": "Con la reciente confirmación de los Juegos en el Bíobío, ahora falta definir y oficializar qué recintos se ocuparán para cada disciplina, aunque hay algunos que corren con ventaja y fueron parte de la propuesta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casa-del-deporte.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
