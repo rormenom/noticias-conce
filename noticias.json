@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T22:00:25.594Z",
+ "generado": "2026-11-21T22:30:27.316Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,10 +60,11 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 152,
     "leidas": 59,
-    "errores": 0,
-    "robots": 0
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/21/con-aviones-combaten-intenso-incendio-forestal-que-afecta-a-la-ribera-del-rio-aconcagua-en-quillota.shtml)"
    }
   },
   {
@@ -110,10 +111,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/sector-forestal-apuesta-por-la-infraestructura-en-madera-y-la-reactivacion-tras-expocorma-2026.html",
-   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
+   "url": "https://www.tvu.cl/prensa/2026/11/21/inundaciones-en-calle-la-vega-preven-licitar-estudios-para-el-sistema-de-aguas-lluvia-de-cara-a-2027.html",
+   "titulo": "Inundaciones en calle La Vega: prevén licitar estudios para el sistema de aguas lluvia de cara a 2027",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg-850x500.jpeg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-5-calle-la-vega-foto-isidoro-850x500.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-21T17:50:23.854Z",
@@ -124,10 +125,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/inundaciones-en-calle-la-vega-preven-licitar-estudios-para-el-sistema-de-aguas-lluvia-de-cara-a-2027.html",
-   "titulo": "Inundaciones en calle La Vega: prevén licitar estudios para el sistema de aguas lluvia de cara a 2027",
+   "url": "https://www.tvu.cl/prensa/2026/11/21/sector-forestal-apuesta-por-la-infraestructura-en-madera-y-la-reactivacion-tras-expocorma-2026.html",
+   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-5-calle-la-vega-foto-isidoro-850x500.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg-850x500.jpeg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-21T17:50:23.854Z",
