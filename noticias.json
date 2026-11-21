@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21T19:20:20.693Z",
+ "generado": "2026-11-21T19:30:24.648Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -2801,20 +2801,6 @@
    "visto": "2026-11-16T20:10:20.710Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/16/vial-visita-puente-alto-numeros-local.html",
-   "titulo": "Vial visitará el sábado a Puente Alto: sus números como local",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fernandez-vial-e1794856829825.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-16T19:30:27.212Z",
-   "visto": "2026-11-16T19:30:27.212Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
