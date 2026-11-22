@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T20:20:23.172Z",
+ "generado": "2026-11-22T20:40:20.782Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,11 +60,10 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 159,
-    "leidas": 56,
-    "errores": 3,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/21/no-nos-ayuda-crack-de-colo-colo-femenino-lanzo-critica-a-organizacion-tras-historico-hito-de-albas.shtml)"
+    "enlaces": 157,
+    "leidas": 59,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -82,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/incendio-destruye-antigua-veterinaria-municipal-abandonada-en-los-angeles-investigan-intencionalidad.shtml",
+   "titulo": "Incendio destruye antigua veterinaria municipal abandonada en Los Ángeles: investigan intencionalidad",
+   "resumen": "Un incendio afectó durante esta madrugada una edificación antigua que era ocupada por la exveterinaria municipal de Los Ángeles, ...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028349-incendio-destruye-antigua-veterinaria-municipal-abandonada-en-los-angeles-investigan-intencionalidad.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-22T20:32:39.000Z",
+   "visto": "2026-11-22T20:40:20.782Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/22/huachipato-y-deportes-concepcion-reparten-puntos-en-un-empate-que-no-le-sirve-a-nadie.html",
    "titulo": "Huachipato y Deportes Concepción reparten puntos en un empate que no le sirve a nadie",
@@ -1535,20 +1548,6 @@
    "visto": "2026-11-20T11:20:27.354Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/los-bunkers-son-nombrados-vecinos-ilustres-de-talcahuano",
-   "titulo": "Los Bunkers son nombrados Vecinos Ilustres de Talcahuano",
-   "resumen": "Los Bunkers fueron nombrados Vecinos Ilustres de Talcahuano, en una ceremonia realizada durante los festejos por los 262 años de la ciudad. El reconocimiento lo recibió el padre de los hermanos Mauricio y Francisco Durán, integrantes de la banda, de manos del…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/LOS-BUNKERS.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T11:20:27.354Z",
-   "visto": "2026-11-20T11:20:27.354Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
