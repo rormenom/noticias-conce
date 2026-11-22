@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T20:00:25.324Z",
+ "generado": "2026-11-22T20:20:23.172Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,10 +60,11 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
-    "leidas": 59,
-    "errores": 0,
-    "robots": 0
+    "enlaces": 159,
+    "leidas": 56,
+    "errores": 3,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/21/no-nos-ayuda-crack-de-colo-colo-femenino-lanzo-critica-a-organizacion-tras-historico-hito-de-albas.shtml)"
    }
   },
   {
@@ -2610,22 +2611,6 @@
    "visto": "2026-11-17T21:00:29.594Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/17/campanas-seguridad-alimentaria-salud-mental-escolar.html",
-   "titulo": "Seremi de salud inicia campañas regionales con énfasis en seguridad alimentaria y salud mental",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/WhatsApp-Image-2026-11-17-at-11.20.07-e1794946107564.jpeg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-17T20:20:30.039Z",
-   "visto": "2026-11-17T20:20:30.039Z",
-   "cats": [
-    "regional",
-    "cultura",
-    "politica"
    ],
    "local": true
   }
