@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T11:20:19.646Z",
+ "generado": "2026-11-22T11:30:24.778Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -82,6 +82,20 @@
  ],
  "items": [
   {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/sudafrica-chile-y-los-desafio-del-hemisferio-sur-embajador-monyemangene-aborda-el-escenario-mundial.shtml",
+   "titulo": "Sudáfrica, Chile y los desafíos del Hemisferio Sur: Embajador Monyemangene aborda el escenario mundial",
+   "resumen": "En el contexto de su reciente visita a Concepción para asistir a Expocorma 2026, el embajador de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028071-embajador-de-sudafrica-en-chile.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-22T11:26:18.000Z",
+   "visto": "2026-11-22T11:30:24.778Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/22/detectan-fragata-portuguesa-en-caleta-de-coronel-es-la-tercera-comuna-afectada-en-el-bio-bio",
    "titulo": "Confirman la presencia de fragata portuguesa en Coronel, la tercera comuna afectada del Biobío",
    "resumen": "La Capitanía de Puerto confirmó la detección de fragata portuguesa en caleta Maule, comuna de Coronel. El ejemplar fue avistado durante una inspección en terreno efectuada por la Policía Marítima, que ya coordinó las acciones pertinentes con la autoridad…",
@@ -138,20 +152,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
-   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
-   "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/22/casonas-historicas-tome-monumentos-nacionales.html",
    "titulo": "Declaratoria pendiente en Monumentos Nacionales: ciudadanía de Tomé busca proteger sus casonas históricas",
    "resumen": "Organizaciones y vecinos advierten sobre la pérdida de construcciones que forman parte de la historia comunal llaman a fortalecer las acciones para su conservación.",
@@ -162,6 +162,20 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
+   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
+   "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
@@ -1590,20 +1604,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-19T22:40:21.138Z",
    "visto": "2026-11-19T22:40:21.138Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/detienen-a-mujer-que-estuvo-mas-de-dos-anos-profuga-por-asalto-a-adultos-mayores-en-contulmo",
-   "titulo": "Capturan en Contulmo a mujer que llevaba más de dos años prófuga por asaltar a adultos mayores",
-   "resumen": "Luego de estar prófuga durante más de dos años, una mujer de 21 años fue arrestada por la Policía de Investigaciones (PDI). Se le acusa de haber participado en un robo con intimidación perpetrado con violencia contra una pareja de adultos mayores en junio de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-78.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T22:30:25.640Z",
-   "visto": "2026-11-19T22:30:25.640Z",
    "cats": [
     "regional"
    ],
