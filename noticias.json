@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T17:40:21.761Z",
+ "generado": "2026-11-22T17:50:20.127Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 57,
+    "enlaces": 155,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 13,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/robo-al-bci-en-concepcion-fiscalia-no-descarta-hipotesis-y-mantiene-reserva-de-diligencias",
+   "titulo": "Robo al BCI en Concepción: Fiscalía no descarta hipótesis y mantiene reserva de diligencias",
+   "resumen": "A dos semanas del millonario robo a una sucursal del BCI en Concepción, la investigación sigue sin resultados. El fiscal regional del Bío Bío, Roberto Garrido, afirmó que el Ministerio Público no ha descartado ninguna hipótesis y que las diligencias continúan…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/diligencias-robo-banco-bci-concepcion.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T17:50:20.127Z",
+   "visto": "2026-11-22T17:50:20.127Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/alerta-por-calor-en-el-bio-bio-maximas-sobre-lo-normal-que-llegarian-hasta-el-fin-de-semana",
+   "titulo": "Alerta por calor en el Bío Bío: máximas sobre lo normal que llegarían hasta el fin de semana",
+   "resumen": "La región del Bío Bío quedó bajo una advertencia meteorológica por calor, con valores que en ciertas zonas superarían los 30 °C. Así lo explicó Arnaldo Zuñiga, meteorólogo de difusión del Centro Nacional de Análisis, quien detalló que el alza comenzaría el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/calor.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T17:50:20.127Z",
+   "visto": "2026-11-22T17:50:20.127Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/22/seremi-de-salud-y-directora-del-senama-en-el-bio-bio-retiran-renuncias-tras-cita-con-su-partido-2",
    "titulo": "Seremi de Salud y directora del Senama en el Bío Bío retiran renuncias tras cita con su partido",
@@ -435,6 +463,34 @@
    "local": true
   },
   {
+   "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
+   "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina-850x500.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-21T17:50:23.854Z",
+   "visto": "2026-11-21T17:50:23.854Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/21/sector-forestal-apuesta-por-la-infraestructura-en-madera-y-la-reactivacion-tras-expocorma-2026.html",
+   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg-850x500.jpeg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-21T17:50:23.854Z",
+   "visto": "2026-11-21T17:50:23.854Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.tvu.cl/prensa/2026/11/21/inundaciones-en-calle-la-vega-preven-licitar-estudios-para-el-sistema-de-aguas-lluvia-de-cara-a-2027.html",
    "titulo": "Inundaciones en calle La Vega: prevén licitar estudios para el sistema de aguas lluvia de cara a 2027",
    "resumen": "",
@@ -461,34 +517,6 @@
     "regional",
     "deportes",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
-   "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina-850x500.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-21T17:50:23.854Z",
-   "visto": "2026-11-21T17:50:23.854Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/sector-forestal-apuesta-por-la-infraestructura-en-madera-y-la-reactivacion-tras-expocorma-2026.html",
-   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg-850x500.jpeg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-21T17:50:23.854Z",
-   "visto": "2026-11-21T17:50:23.854Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
