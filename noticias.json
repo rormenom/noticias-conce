@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T08:00:29.700Z",
+ "generado": "2026-11-22T08:40:18.857Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 55,
-    "leidas": 0,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 58,
+    "leidas": 51,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,105 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
+   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
+   "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
+   "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
+   "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/claudia-guzman-directora-forbes-chile.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/22/casonas-historicas-tome-monumentos-nacionales.html",
+   "titulo": "Declaratoria pendiente en Monumentos Nacionales: ciudadanía de Tomé busca proteger sus casonas históricas",
+   "resumen": "Organizaciones y vecinos advierten sobre la pérdida de construcciones que forman parte de la historia comunal llaman a fortalecer las acciones para su conservación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casona.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/poemario-cruza-memoria-identidad-resistencia-nicole-camille-debut-literario-sonata-en-azul-sin-blanco.html",
+   "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
+   "resumen": "La poeta y artista visual tomecina presenta su primer libro, una obra que enlaza la experiencia personal con una mirada crítica sobre las desigualdades, los mandatos de género y la memoria popular. Publicado por Editorial Mujeres de Letras, el poemario cuenta…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Editorial-Mujeres-de-Letras.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/22/subsecretario-agricultura-ley-incendios-forestales.html",
+   "titulo": "Agricultura proyecta veto a ley de incendios para diciembre y anuncia despliegue de 548 brigadistas en el Biobío",
+   "resumen": "La cartera busca cerrar la tramitación normativa incorporando compensaciones por cortafuegos y penas más duras contra la intencionalidad. En paralelo, destacan el rol clave de la región en captura de carbono y preparan una ley de plantaciones para 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Francesco-Venezian-subsecretario-de-Agricultura-foto-minagri.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/indespa-pesca-artesanal-equipos-viradores-lebu.html",
+   "titulo": "45 embarcaciones artesanales de Lebu incorporan viradores eléctricos a sus faenas de extracción de jibia",
+   "resumen": "Tecnología financiada por INDESPA sería clave para aliviar la carga física de los tripulantes al recoger de modo mecánico las líneas de pesca y captura, evitando lesiones y fatiga.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/911713702_1646747083575867_5259487904720144764_n.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/prochile-expocorma-rueda-negocios-forestal-2026.html",
+   "titulo": "Prochile proyecta US$2,3 millones como resultados de ruedas de negocios realizadas en Expocorma 2026",
+   "resumen": "La actividad reunió a 37 empresas chilenas con nueve compradores de México, Costa Rica, Guatemala y Polonia, quienes mostraron especial interés en manufacturas de madera y soluciones constructivas de mayor valor agregado.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-21-at-12.33.55.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/detectan-fragata-portuguesa-en-caleta-de-coronel-es-la-tercera-comuna-afectada-en-el-bio-bio.shtml",
    "titulo": "Detectan fragata portuguesa en caleta de Coronel: es la tercera comuna afectada en el Bío Bío",
@@ -1300,20 +1399,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
-   "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
-   "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/incendio-forestal-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/20/los-lugares-que-asoman-como-fijos-para-recibir-deportes-en-los-odesur-2030.html",
    "titulo": "Los lugares que asoman como fijos para recibir deportes en los Odesur 2030",
    "resumen": "Con la reciente confirmación de los Juegos en el Bíobío, ahora falta definir y oficializar qué recintos se ocuparán para cada disciplina, aunque hay algunos que corren con ventaja y fueron parte de la propuesta.",
@@ -1324,6 +1409,20 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
+   "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
+   "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/incendio-forestal-1.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1553,48 +1652,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/bajas-ventas-y-cierre-de-locales-golpean-al-comercio-del-centro-de-concepcion-algunos-negocios-reportan-caidas-de-hasta-un-80",
-   "titulo": "Bajas ventas y cierre de locales golpean al comercio del centro de Concepción: algunos negocios reportan caídas de hasta un 80%",
-   "resumen": "Comerciantes del centro penquista advierten un complejo escenario económico, marcado por la disminución de las ventas, el cierre de establecimientos y el aumento de los costos operacionales. A esto se suma una mayor utilización de tarjetas de crédito por…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Galeria-alessandri-850x400-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T21:10:32.315Z",
-   "visto": "2026-11-19T21:10:32.315Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/corte-suprema-aplaza-revision-de-recursos-de-nulidad-por-atentado-al-molino-grollmus-defensas-buscan-repetir-el-juicio",
-   "titulo": "Corte Suprema aplaza revisión de recursos de nulidad por atentado al Molino Grollmus: defensas buscan repetir el juicio",
-   "resumen": "La audiencia programada para este jueves fue suspendida luego de que una de las defensas recusara a un abogado integrante de la Corte Suprema. Mientras los representantes de 14 condenados cuestionan el uso de testigos protegidos y solicitan un nuevo juicio,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/file_20260901140318.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T20:50:25.338Z",
-   "visto": "2026-11-19T20:50:25.338Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/madre-denuncia-reiterados-episodios-de-bullying-contra-su-hijo-de-12-anos-en-escuela-de-puren-menor-presenta-ataques-de-panico",
-   "titulo": "Madre denuncia reiterados episodios de bullying contra su hijo de 12 años en escuela de Purén: menor presenta ataques de pánico",
-   "resumen": "La apoderada aseguró que su hijo ha sufrido agresiones físicas y psicológicas en el establecimiento educacional. Pese a presentar denuncias ante distintas instituciones, afirma que aún no recibe una solución. Actualmente, el estudiante permanece en su hogar…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Bullying-infantil.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T20:30:33.707Z",
-   "visto": "2026-11-19T20:30:33.707Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/escaladores-biobio-final-nacional-santiago.html",
    "titulo": "Semillero en altura: delegación infantil y juvenil del Biobío afina detalles para competir en la Final Nacional de Escalada",
    "resumen": "Entre el 27 y 29 de noviembre, jóvenes escaladores del Biobío viajarán a Cerrillos para disputar la Final Nacional Escolar de la disciplina.",
@@ -1605,20 +1662,6 @@
    "visto": "2026-11-19T20:20:23.937Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/tribunales-familia-concepcion-368-mil-millones-pensiones-alimentos.html",
-   "titulo": "$368 mil millones en pagos por pensiones alimenticias: el balance de 4 años de “Ley Papito Corazón” en el Biobío",
-   "resumen": "Según información entregada por el Poder Judicial, los tribunales de Familia de la jurisdicción de la Corte de Apelaciones de Concepción han ordenado el pago de la suma de $368 mil millones en deudas por pensiones de alimentos",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-7-madre-e-hija-foto-raphael-850x500.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T20:10:30.291Z",
-   "visto": "2026-11-19T20:10:30.291Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1969,20 +2012,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/escuela-de-verano-udec-2027-el-tiempo-como-punto-de-encuentro-entre-ciencias-artes-comunidad-universitaria.html",
-   "titulo": "Escuela de Verano UdeC 2027: “El Tiempo” como punto de encuentro entre las ciencias, las artes y la comunidad universitaria",
-   "resumen": "Entre el 11 y el 22 de enero, la edición número 72 de esta tradicional cita académica y cultural desplegará su programación en torno a este concepto en los tres campus de la Universidad de Concepción. Un congreso con la participación del Premio Nobel de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-nota-Mauricio-Maldonado.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/cicat-udec-curioteca-primeras-infancias-biobio.html",
    "titulo": "Cicat UdeC abre Curioteca: un espacio dedicado a las primeras infancias del Biobío",
    "resumen": "Es el primer espacio del recinto pensado especialmente a niños y niñas de 2 a 6 años.",
@@ -2007,6 +2036,20 @@
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/escuela-de-verano-udec-2027-el-tiempo-como-punto-de-encuentro-entre-ciencias-artes-comunidad-universitaria.html",
+   "titulo": "Escuela de Verano UdeC 2027: “El Tiempo” como punto de encuentro entre las ciencias, las artes y la comunidad universitaria",
+   "resumen": "Entre el 11 y el 22 de enero, la edición número 72 de esta tradicional cita académica y cultural desplegará su programación en torno a este concepto en los tres campus de la Universidad de Concepción. Un congreso con la participación del Premio Nobel de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-nota-Mauricio-Maldonado.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -2756,34 +2799,6 @@
    "visto": "2026-11-17T15:20:21.373Z",
    "cats": [
     "cultura",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/princesa-alba-rec-malagradecida.html",
-   "titulo": "“Me encantaría mostrar este show en el REC”: Princesa Alba y su nueva era con “Malagradecida”",
-   "resumen": "En conversación con Diario Concepción, la artista pop repasó el proceso de su nuevo disco y abordó su relación con tierras penquistas, una de las comunas en las que cuenta con mayor cantidad de oyentes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-Princesa-Alba-foto-cedida-Princesa-Alba.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/alejandro-reyes-nuevo-director-de-la-caj-biobio-las-gestiones-dificilmente-se-van-a-hacer-mejor-con-menos-gente.html",
-   "titulo": "Alejandro Reyes, nuevo director de la CAJ Biobío: Las gestiones “difícilmente se van a hacer mejor con menos gente”",
-   "resumen": "\"Estamos frente no solo a un cambio de paradigma, sino que estamos ante una institución que es clave en la vida de las personas\", Alejandro Reyes Schwarz, director general CAJ Biobío.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-1-2.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T08:40:20.947Z",
-   "visto": "2026-11-17T08:40:20.947Z",
-   "cats": [
     "politica"
    ],
    "local": true
