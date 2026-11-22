@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T23:26:00.650Z",
+ "generado": "2026-11-22T23:30:22.772Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 21,
-    "leidas": 3,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 57,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -81,21 +81,6 @@
   }
  ],
  "items": [
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/22/agricultura-proyecta-veto-a-ley-de-incendios-para-diciembre-y-anuncia-despliegue-de-548-brigadistas-en-el-biobio.html",
-   "titulo": "Agricultura proyecta veto a ley de incendios para diciembre y anuncia despliegue de 548 brigadistas en el Biobío",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-4-Francesco-Venezian-subsecretario-de-Agricultura-foto-minagri.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-22T23:26:00.650Z",
-   "visto": "2026-11-22T23:26:00.650Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/22/un-poemario-que-cruza-memoria-identidad-y-resistencia-nicole-camille-hace-su-debut-literario-con-sonata-en-azul-sin-blanco.html",
    "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
@@ -121,6 +106,21 @@
    "visto": "2026-11-22T23:26:00.650Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/22/agricultura-proyecta-veto-a-ley-de-incendios-para-diciembre-y-anuncia-despliegue-de-548-brigadistas-en-el-biobio.html",
+   "titulo": "Agricultura proyecta veto a ley de incendios para diciembre y anuncia despliegue de 548 brigadistas en el Biobío",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-4-Francesco-Venezian-subsecretario-de-Agricultura-foto-minagri.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-22T23:26:00.650Z",
+   "visto": "2026-11-22T23:26:00.650Z",
+   "cats": [
+    "regional",
+    "cultura"
    ],
    "local": true
   },
