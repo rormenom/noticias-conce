@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T16:40:23.649Z",
+ "generado": "2026-11-22T17:00:27.915Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -208,20 +208,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
-   "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
-   "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/claudia-guzman-directora-forbes-chile.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
    "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
    "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
@@ -232,6 +218,20 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
+   "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
+   "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/claudia-guzman-directora-forbes-chile.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -2654,35 +2654,6 @@
    "visto": "2026-11-17T17:30:25.468Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/microcine-molina-ciclo-universos-extraordinarios-concepcion.html",
-   "titulo": "“El Joven Manos de Tijera” y “La Historia sin Fin” llegan a Microcine Molina en Concepción",
-   "resumen": "Microcine Molina presenta su ciclo \"Universos Extraordinarios\" en Concepción con dos clásicos del cine. Conoce la cartelera, horarios y cómo reservar tu entrada.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/JAime-Rendon.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T17:00:28.553Z",
-   "visto": "2026-11-17T17:00:28.553Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/gore-y-sercotec-anuncian-recursos-para-mas-de-50-restaurantes-de-nuble/",
-   "titulo": "GORE y Sercotec anuncian recursos para más de 50 restaurantes de Ñuble",
-   "resumen": "Autoridades lanzaron el programa Crece Sostenible, que entregará subsidios de hasta $9 millones a 52 restaurantes de la región, además, encabezaron el cierre de Barrio Seguro en la Plaza Sargento Aldea de Chillán, iniciativa que benefició a 23 locatarios con…",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/lanzamiento-crece-cierre-barrio-ñuble--768x512.jpeg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-17T16:52:55.000Z",
-   "visto": "2026-11-17T22:00:31.609Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
