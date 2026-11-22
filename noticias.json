@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T03:00:25.903Z",
+ "generado": "2026-11-22T03:50:23.038Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -1314,20 +1314,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
-   "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
-   "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-energ%C3%ADa-e%C3%B3lica-marina-foto-cc.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/20/los-lugares-que-asoman-como-fijos-para-recibir-deportes-en-los-odesur-2030.html",
    "titulo": "Los lugares que asoman como fijos para recibir deportes en los Odesur 2030",
    "resumen": "Con la reciente confirmación de los Juegos en el Bíobío, ahora falta definir y oficializar qué recintos se ocuparán para cada disciplina, aunque hay algunos que corren con ventaja y fueron parte de la propuesta.",
@@ -1338,6 +1324,20 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
+   "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
+   "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-energ%C3%ADa-e%C3%B3lica-marina-foto-cc.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
