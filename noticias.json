@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T08:50:19.499Z",
+ "generado": "2026-11-22T10:10:19.139Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -293,6 +293,20 @@
    "local": true
   },
   {
+   "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
+   "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina-850x500.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-21T17:50:23.854Z",
+   "visto": "2026-11-21T17:50:23.854Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.tvu.cl/prensa/2026/11/21/eric-goles-se-puede-ser-cientifico-intelectual-y-de-exito-sin-ser-genio-ni-uniformemente-exitoso.html",
    "titulo": "Eric Goles: “Se puede ser científico, intelectual y de éxito sin ser genio ni uniformemente exitoso”",
    "resumen": "",
@@ -305,20 +319,6 @@
     "regional",
     "deportes",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
-   "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina-850x500.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-21T17:50:23.854Z",
-   "visto": "2026-11-21T17:50:23.854Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
