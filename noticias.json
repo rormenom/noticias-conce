@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T23:20:20.607Z",
+ "generado": "2026-11-22T23:26:00.650Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 20,
-    "leidas": 2,
+    "enlaces": 21,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,49 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/22/agricultura-proyecta-veto-a-ley-de-incendios-para-diciembre-y-anuncia-despliegue-de-548-brigadistas-en-el-biobio.html",
+   "titulo": "Agricultura proyecta veto a ley de incendios para diciembre y anuncia despliegue de 548 brigadistas en el Biobío",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-4-Francesco-Venezian-subsecretario-de-Agricultura-foto-minagri.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-22T23:26:00.650Z",
+   "visto": "2026-11-22T23:26:00.650Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/22/un-poemario-que-cruza-memoria-identidad-y-resistencia-nicole-camille-hace-su-debut-literario-con-sonata-en-azul-sin-blanco.html",
+   "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-Nicole-Camille-poeta-y-artista-visual-foto-cedida-Editorial-Mujeres-de-Letras.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-22T23:26:00.650Z",
+   "visto": "2026-11-22T23:26:00.650Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
+   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-22T23:26:00.650Z",
+   "visto": "2026-11-22T23:26:00.650Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/22/directora-de-forbes-chile-plantea-los-desafios-del-periodismo-ante-el-avance-de-la-ia.html",
    "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
@@ -659,24 +702,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
-   "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
+   "url": "https://www.tvu.cl/prensa/2026/11/21/sector-forestal-apuesta-por-la-infraestructura-en-madera-y-la-reactivacion-tras-expocorma-2026.html",
+   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina-850x500.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-21T17:50:23.854Z",
-   "visto": "2026-11-21T17:50:23.854Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/inundaciones-en-calle-la-vega-preven-licitar-estudios-para-el-sistema-de-aguas-lluvia-de-cara-a-2027.html",
-   "titulo": "Inundaciones en calle La Vega: prevén licitar estudios para el sistema de aguas lluvia de cara a 2027",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-5-calle-la-vega-foto-isidoro-850x500.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg-850x500.jpeg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-21T17:50:23.854Z",
@@ -703,10 +732,24 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/sector-forestal-apuesta-por-la-infraestructura-en-madera-y-la-reactivacion-tras-expocorma-2026.html",
-   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
+   "url": "https://www.tvu.cl/prensa/2026/11/21/inundaciones-en-calle-la-vega-preven-licitar-estudios-para-el-sistema-de-aguas-lluvia-de-cara-a-2027.html",
+   "titulo": "Inundaciones en calle La Vega: prevén licitar estudios para el sistema de aguas lluvia de cara a 2027",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg-850x500.jpeg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-5-calle-la-vega-foto-isidoro-850x500.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-21T17:50:23.854Z",
+   "visto": "2026-11-21T17:50:23.854Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
+   "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina-850x500.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-21T17:50:23.854Z",
@@ -1510,20 +1553,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/acceso-caleta-lenga-vecinos-y-conductores-exigen-solucion-a-baches",
-   "titulo": "Acceso Caleta Lenga: vecinos y conductores exigen solución a baches",
-   "resumen": "Vecinos, automovilistas y conductores del transporte público manifestaron su molestia por el mal estado de la ruta y los accesos hacia Caleta Lenga, en la comuna de Hualpén, a pocas semanas de la temporada estival cuando comienza a aumentar la afluencia de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-20-at-10.55.02-e1795182936591.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T14:00:30.869Z",
-   "visto": "2026-11-20T14:00:30.869Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/20/chiguayante-vuelve-a-celebrar-la-fiesta-de-la-primavera-con-carros-alegoricos-musica-y-humor/",
    "titulo": "Chiguayante vuelve a celebrar la Fiesta de la Primavera con carros alegóricos, música y humor",
    "resumen": "Tras quince años sin realizarse, la tradicional actividad comunal comienza hoy con un desfile de 16 carros por las calles de la ciudad y continuará todo el fin de semana en el Parque Ribera Biobío con comida, artesanía y espectáculos gratuitos.",
@@ -1534,34 +1563,6 @@
    "visto": "2026-11-20T19:30:23.599Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/os7-de-carabineros-detiene-a-cinco-personas-e-incauta-mas-de-3-000-dosis-de-droga-y-armas-en-concepcion",
-   "titulo": "OS7 de Carabineros detiene a cinco personas e incauta más de 3.000 dosis de droga y armas en Concepción",
-   "resumen": "Entre los imputados figura un adolescente y un ciudadano venezolano con situación migratoria irregular. El procedimiento policial además permitió sacar de circulación vehículos, dinero en efectivo y armamento. Un operativo desplegado por personal…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/social-os7-e1795181074330.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T13:28:33.237Z",
-   "visto": "2026-11-20T13:28:33.237Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/video-vehiculo-queda-incrustrado-en-barrera-de-contencion-a-metros-de-una-casa-en-concepcion",
-   "titulo": "VIDEO | Auto impacta una barrera de contención junto a una vivienda en Concepción",
-   "resumen": "Un automóvil terminó atrapado y “colgando” sobre una barrera de contención luego de un accidente de tránsito ocurrido en la Avenida 21 de Mayo, en Concepción, en sentido hacia Talcahuano. El hecho se registró cerca de las 05:30 horas, en las inmediaciones de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/capturas.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T13:28:33.237Z",
-   "visto": "2026-11-20T13:28:33.237Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
