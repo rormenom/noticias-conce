@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T18:20:22.134Z",
+ "generado": "2026-11-22T18:40:21.105Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 56,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 14,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
@@ -2684,20 +2684,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/17/carabineros-pega-portazo-a-hinchas-de-la-u-concepcion-jugara-solo-con-publico-local-ante-azules.shtml",
-   "titulo": "Carabineros pega portazo a hinchas de La U: Concepción jugará solo con público local ante azules",
-   "resumen": "Este martes, Deportes Concepción informó que su cruce ante La U, válido por la fecha 29 de la ...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022678-deportes-concepcion-en-el-ester-roa-previo-a-duelo-ante-la-u.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T18:40:39.000Z",
-   "visto": "2026-11-17T18:50:23.831Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
