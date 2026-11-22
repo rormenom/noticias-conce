@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T17:54:29.849Z",
+ "generado": "2026-11-22T18:00:28.526Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
+    "enlaces": 34,
     "leidas": 13,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/se-posterga-otra-vez-el-caso-convenios-defensa-de-tamara-vidal-frena-arista-mi-hogar-asuncionista",
+   "titulo": "Se posterga otra vez el caso Convenios: defensa de Tamara Vidal frena arista Mi Hogar Asuncionista",
+   "resumen": "La preparación del juicio por la arista Mi Hogar Asuncionista, del caso Convenios, fue reprogramada para el 16 de marzo de 2027. Así lo resolvió el Juzgado de Garantía de Concepción, que acogió una solicitud de la Defensoría Penal Pública, según informó la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2025/07/Captura-de-pantalla-2025-07-01-a-las-7.45.33%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T18:00:28.526Z",
+   "visto": "2026-11-22T18:00:28.526Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/22/rampa-a-isla-santa-maria-lleva-16-de-avance-y-costara-mas-de-14-mil-millones",
    "titulo": "Rampa a Isla Santa María lleva 16% de avance y costará más de $14 mil millones",
@@ -1505,20 +1519,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-20T10:50:24.377Z",
    "visto": "2026-11-20T10:50:24.377Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/condenan-a-11-anos-de-carcel-a-expresidente-del-colegio-medico-de-los-angeles-por-delitos-sexuales",
-   "titulo": "Condenan a 11 años de cárcel a expresidente del colegio médico de Los Ángeles por delitos sexuales",
-   "resumen": "El Tribunal Oral en lo Penal de Los Ángeles sentenció a casi 11 años de cárcel efectiva al médico urólogo Miguel Ángel Sepúlveda, quien presidió el colegio médico de esa ciudad, por delitos sexuales. El fallo se conoció durante la jornada de este jueves 19 de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/09/formalizan-a-cuatro-internos-de-la-carcel-de-angol-por-asesinato-de-sujeto-imputado-por-homicidio.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T10:40:21.568Z",
-   "visto": "2026-11-20T10:40:21.568Z",
    "cats": [
     "regional"
    ],
