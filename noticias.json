@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T18:40:21.105Z",
+ "generado": "2026-11-22T19:00:26.758Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
+    "enlaces": 158,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -2669,21 +2669,6 @@
    "visto": "2026-11-17T19:40:21.088Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/seremi-de-justicia-refuerza-proteccion-a-madres-privadas-de-libertad/",
-   "titulo": "Seremi de Justicia refuerza protección a madres embarazadas y con hijos privadas de libertad",
-   "resumen": "Con el objetivo de fortalecer la coordinación interinstitucional y dar continuidad al trabajo orientado a resguardar los derechos de las mujeres privadas de libertad que se encuentran embarazadas o conviven junto a sus hijos lactantes, se desarrolló una nueva…",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/seremi-justicia-biobio--768x576.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-17T18:55:55.000Z",
-   "visto": "2026-11-17T22:10:20.364Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
