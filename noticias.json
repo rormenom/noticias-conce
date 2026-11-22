@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T12:00:27.046Z",
+ "generado": "2026-11-22T12:10:22.611Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 151,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -2757,20 +2757,6 @@
    "cats": [
     "tecnologia",
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/senado-despacha-ley-freno-alza-combustibles-rebaja.html",
-   "titulo": "Listo para ser Ley: Senado aprueba rebaja y congela alzas de combustibles hasta 2027",
-   "resumen": "La iniciativa, aprobada por unanimidad en general pasadas las 22:00 horas, establece techos temporales a los precios de las bencinas hasta abril de 2027 y entrega alivios al transporte de carga y pasajeros.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/senado-despacha-ley-freno-alza-combustibles-rebaja-e1794916864879.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T12:10:22.253Z",
-   "visto": "2026-11-17T12:10:22.253Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
