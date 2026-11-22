@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T17:00:27.915Z",
+ "generado": "2026-11-22T17:20:19.561Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 59,
+    "enlaces": 156,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/huachipato-y-concepcion-igualaron-por-la-liga-de-primera-arquero-del-leon-atajo-un-penal.shtml",
+   "titulo": "Huachipato y Concepción igualaron por La Liga de Primera: arquero del ’León’ atajó un penal",
+   "resumen": "No se sacaron diferencia. Huachipato y Deportes Concepción igualaron este domingo, sin goles, en duelo válido por la fecha 28...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028264-huachipato-concepcion-la-liga-de-primera.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-22T17:12:58.000Z",
+   "visto": "2026-11-22T17:20:19.561Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/fiscalia-cumple-dos-semanas-de-diligencias-por-millonario-robo-en-banco-bci-en-concepcion.shtml",
+   "titulo": "Fiscalía cumple dos semanas de diligencias por millonario robo en banco BCI en Concepción",
+   "resumen": "A dos semanas del millonario robo al banco BCI en Concepción, el Ministerio Público en Bío Bío mantiene las diligencias...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028268-diligencias-robo-banco-bci-concepcion.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-22T17:12:40.000Z",
+   "visto": "2026-11-22T17:20:19.561Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/sociedad/viral/2026/11/22/periodista-asegura-que-fue-despedido-de-hospital-tras-publicar-video-contra-ministro-quiroz.shtml",
    "titulo": "Periodista asegura que fue despedido de hospital tras publicar video contra ministro Quiroz",
@@ -1535,20 +1563,6 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
-   "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
-   "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-energ%C3%ADa-e%C3%B3lica-marina-foto-cc.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
