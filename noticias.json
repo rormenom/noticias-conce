@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T17:20:19.561Z",
+ "generado": "2026-11-22T17:30:25.020Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -1200,6 +1200,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
+   "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
+   "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-energ%C3%ADa-e%C3%B3lica-marina-foto-cc.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T15:00:00.000Z",
+   "visto": "2026-11-22T17:30:25.020Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/jovenes-reinsercion-capacitacion-laboral-concepcion.html",
    "titulo": "Seis jóvenes en cumplimiento de sanción culminan cursos de preparación laboral en el Biobío",
    "resumen": "Los participantes, que cumplen sanción en el Centro de Libertad Asistida Simple ejecutado por Fundación Ciudad del Niño, cerraron el proceso formativo articulado junto al Servicio Nacional de Reinserción Social Juvenil, Sence y la Municipalidad de Concepción.",
@@ -1519,20 +1533,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-20T09:10:20.036Z",
    "visto": "2026-11-20T09:10:20.036Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/no-habia-personal-de-seguridad-durante-robo-bci-se-querella-por-8-500-millones-sustraidos-en-bio-bio.shtml",
-   "titulo": "No había personal de seguridad durante robo: BCI se querella por $8.500 millones sustraídos en Bío Bío",
-   "resumen": "Una serie de diligencias, que incluye la declaración de personal propio y de particulares, pidió el banco BCI en...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7026150-capturas-cedidos-por-no-habia-personal-de-seguridad-durante-robo-bci-se-querella-por-8-500-millones-sustraidos-en-concepcion-bio-bio.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-20T08:45:02.000Z",
-   "visto": "2026-11-20T08:50:21.856Z",
    "cats": [
     "regional"
    ],
@@ -2654,20 +2654,6 @@
    "visto": "2026-11-17T18:20:24.169Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/el-leon-recibira-a-la-u-el-29-sin-hinchas-azules.html",
-   "titulo": "El “León” recibirá a la “U” el 29 sin hinchas azules",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/10/agresion-plantel-deportes-concepcion-nonguen-cedida-e1793121066448.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T17:30:25.468Z",
-   "visto": "2026-11-17T17:30:25.468Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
