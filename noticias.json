@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T11:10:20.629Z",
+ "generado": "2026-11-22T11:20:19.646Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -152,20 +152,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/poemario-cruza-memoria-identidad-resistencia-nicole-camille-debut-literario-sonata-en-azul-sin-blanco.html",
-   "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
-   "resumen": "La poeta y artista visual tomecina presenta su primer libro, una obra que enlaza la experiencia personal con una mirada crítica sobre las desigualdades, los mandatos de género y la memoria popular. Publicado por Editorial Mujeres de Letras, el poemario cuenta…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Editorial-Mujeres-de-Letras.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/22/casonas-historicas-tome-monumentos-nacionales.html",
    "titulo": "Declaratoria pendiente en Monumentos Nacionales: ciudadanía de Tomé busca proteger sus casonas históricas",
    "resumen": "Organizaciones y vecinos advierten sobre la pérdida de construcciones que forman parte de la historia comunal llaman a fortalecer las acciones para su conservación.",
@@ -176,6 +162,20 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/poemario-cruza-memoria-identidad-resistencia-nicole-camille-debut-literario-sonata-en-azul-sin-blanco.html",
+   "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
+   "resumen": "La poeta y artista visual tomecina presenta su primer libro, una obra que enlaza la experiencia personal con una mirada crítica sobre las desigualdades, los mandatos de género y la memoria popular. Publicado por Editorial Mujeres de Letras, el poemario cuenta…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Editorial-Mujeres-de-Letras.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -2770,49 +2770,6 @@
    "fecha": "2026-11-17T12:10:22.253Z",
    "visto": "2026-11-17T12:10:22.253Z",
    "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/joyita-otra-vez-campeon-es-un-hito-que-nadie-habia-logrado.html",
-   "titulo": "“Joyita” otra vez campeón: “Es un hito que nadie había logrado”",
-   "resumen": "Carlos Solar, capitán de la embarcación de Talcahuano, habló de este tercer título nacional J24, ganando todas las regatas en juego. Ahora sueñan con ir al Mundial de Nueva York y habló de los Odesur 2030.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/joyita.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T11:20:22.475Z",
-   "visto": "2026-11-17T11:20:22.475Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/17/udec-entre-los-6-mejores-de-liga-desarrollo-y-ahora-tocara-hacer-maletas-a-puerto-varas.html",
-   "titulo": "UdeC entre los 6 mejores de Liga Desarrollo y ahora tocará hacer maletas a Puerto Varas",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/10/sebasti%C3%A1n-Pereira-basket.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T11:20:22.475Z",
-   "visto": "2026-11-17T11:20:22.475Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/17/seremi-de-las-culturas-realiza-charla-sobre-la-ley-de-artesania-junto-a-mas-de-30-cultores-en-chillan-viejo/",
-   "titulo": "Seremi de las Culturas realiza charla sobre la Ley de Artesanía junto a más de 30 cultores en Chillán Viejo",
-   "resumen": "La actividad reunió a artesanas y artesanos de distintas comunas de Ñuble, varios de ellos participantes de un proyecto Fondart dedicado a la recuperación y puesta en valor de la cestería en pita.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/charla-artesania-nuble-300x225.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-17T11:13:15.000Z",
-   "visto": "2026-11-17T15:20:21.373Z",
-   "cats": [
-    "cultura",
     "politica"
    ],
    "local": true
