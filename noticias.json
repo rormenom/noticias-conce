@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T02:00:27.509Z",
+ "generado": "2026-11-22T02:20:23.941Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 55,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 57,
+    "enlaces": 153,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/choque-entre-dos-camionetas-deja-un-fallecido-y-un-herido-en-yumbel.shtml",
+   "titulo": "Choque entre dos camionetas deja un fallecido y un herido en Yumbel",
+   "resumen": "Un fallecido y un lesionado grave dejó un accidente ocurrido cerca de las 5 de la madrugada en la ruta...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027982-choque-entre-dos-vehiculos-deja-un-fallecido-y-un-herido-en-yumbel.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-22T02:12:20.000Z",
+   "visto": "2026-11-22T02:20:23.941Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/navidad-con-sentido-inician-campana-solidaria-en-lota-para-regalar-cenas-navidenas.shtml",
+   "titulo": "\"Navidad con sentido\": inician campaña solidaria en Lota para regalar cenas navideñas",
+   "resumen": "Un grupo de voluntarios de la comuna de Lota se encuentra llevando a cabo el proyecto “Navidad con Sentido Lota...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027963-cena-navidena.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-22T02:11:21.000Z",
+   "visto": "2026-11-22T02:20:23.941Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/21/nublense-vencio-a-la-udec-en-el-ester-roa-y-la-hundio-en-la-liga-de-primera-campanil-es-colista.shtml",
    "titulo": "Ñublense venció a la UdeC en el Ester Roa y la hundió en La Liga de Primera: ’Campanil’ es colista",
@@ -152,20 +180,6 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
-   "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina-850x500.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-21T17:50:23.854Z",
-   "visto": "2026-11-21T17:50:23.854Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/21/eric-goles-se-puede-ser-cientifico-intelectual-y-de-exito-sin-ser-genio-ni-uniformemente-exitoso.html",
    "titulo": "Eric Goles: “Se puede ser científico, intelectual y de éxito sin ser genio ni uniformemente exitoso”",
    "resumen": "",
@@ -178,6 +192,20 @@
     "regional",
     "deportes",
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
+   "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina-850x500.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-21T17:50:23.854Z",
+   "visto": "2026-11-21T17:50:23.854Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1606,34 +1634,6 @@
    "visto": "2026-11-19T19:10:31.194Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/19/autoridades-coordinan-medidas-ante-fenomeno-delictivo-en-iglesias-de-lota/",
-   "titulo": "Autoridades coordinan medidas ante fenómeno delictivo en iglesias de Lota",
-   "resumen": "Junto con Carabineros.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/autoridades-comunodad-cristiana-lota--768x576.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-19T19:08:48.000Z",
-   "visto": "2026-11-19T21:20:20.351Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/cge-apelacion-corte-suprema-multa-medidores-sec.html",
-   "titulo": "CGE confirmó apelación ante la Corte Suprema por sanción vinculada a medidores",
-   "resumen": "La causa se relaciona con planes de mantenimiento y el reemplazo de equipos de medición eléctrica. Según la compañía, cerca de 5 mil clientes tuvieron cambios de medidores.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/medidores.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T19:00:30.269Z",
-   "visto": "2026-11-19T19:00:30.269Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
