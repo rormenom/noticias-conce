@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T17:30:25.020Z",
+ "generado": "2026-11-22T17:40:21.761Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,43 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/seremi-de-salud-y-directora-del-senama-en-el-bio-bio-retiran-renuncias-tras-cita-con-su-partido-2",
+   "titulo": "Seremi de Salud y directora del Senama en el Bío Bío retiran renuncias tras cita con su partido",
+   "resumen": "La seremi de Salud del Bío Bío, Isabel Rojas, y la directora regional del Senama, Antaris Varela, retiraron sus renuncias y seguirán en sus cargos. Ambas militan en el Partido Cristiano y habían firmado sus cartas tres días antes, argumentando motivos…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/renuncia-seremi-senama.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T17:40:21.761Z",
+   "visto": "2026-11-22T17:40:21.761Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/bio-bio-seremi-de-salud-y-directora-de-senama-ambas-del-partido-cristiano-retiran-sus-renuncias.shtml",
+   "titulo": "Bío Bío: Seremi de Salud y directora de Senama, ambas del Partido Cristiano, retiran sus renuncias",
+   "resumen": "La seremi de Salud en el Bío Bío y la directora regional del Sename, ambas militantes del Partido Cristiano, retiraron...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028276-bio-bio_-seremi-de-salud-y-directora-de-senama-ambas-del-partido-cristiano-retiran-sus-renuncias.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-22T17:40:02.000Z",
+   "visto": "2026-11-22T17:40:21.761Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/huachipato-y-concepcion-igualaron-por-la-liga-de-primera-arquero-del-leon-atajo-un-penal.shtml",
    "titulo": "Huachipato y Concepción igualaron por La Liga de Primera: arquero del ’León’ atajó un penal",
@@ -1507,34 +1537,6 @@
    "visto": "2026-11-20T09:40:20.358Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/pescadores-del-bio-bio-exigen-explicaciones-por-la-prorroga-de-un-ano-de-su-regimen-de-captura",
-   "titulo": "Pescadores del Bío Bío exigen explicaciones por la prórroga de un año de su régimen de captura",
-   "resumen": "Los pescadores artesanales del Biobío no lograron ponerse de acuerdo, y la Subsecretaría de Pesca y Acuicultura resolvió por su cuenta prorrogar durante doce meses el régimen artesanal de extracción (RAE) de sardina común y anchoveta. Así lo informó Radio Bío…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/07/pescadores-artesanales-biobio-registro-pesca-.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T09:20:23.131Z",
-   "visto": "2026-11-20T09:20:23.131Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/no-habia-personal-de-seguridad-durante-robo-bci-se-querella-por-8-500-millones-sustraidos-en-bio-bio",
-   "titulo": "BCI denuncia falta de guardias tras el robo de $8.500 millones en la región del Bío Bío",
-   "resumen": "El banco BCI solicitó en la querella presentada tras el millonario robo ocurrido hace casi dos semanas una serie de diligencias, entre ellas, la declaración de trabajadores de la entidad y de particulares. La acción judicial también describe la ruta que…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/capturas-cedidos-por-no-habia-personal-de-seguridad-durante-robo-bci-se-querella-por-8-500-millones-sustraidos-en-concepcion-bio-bio.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T09:10:20.036Z",
-   "visto": "2026-11-20T09:10:20.036Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
