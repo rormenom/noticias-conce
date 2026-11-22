@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T15:00:24.540Z",
+ "generado": "2026-11-22T15:10:19.838Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 55,
-    "leidas": 0,
+    "enlaces": 56,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 59,
+    "enlaces": 156,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/22/accidente-fatal-ruta-p60r-dos-fallecidos-canete.html",
+   "titulo": "Dos personas fallecieron al chocar vehículo contra árboles en ruta de Cañete",
+   "resumen": "El accidente ocurrió cerca de las 7:20 horas, a la altura del kilómetro 27. El Ministerio Público instruyó peritajes para esclarecer las causas del hecho.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/05/pag-4-patrulla-de-carabineros-foto-raphael.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T15:10:19.838Z",
+   "visto": "2026-11-22T15:10:19.838Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/22/dos-muertos-deja-un-accidente-de-transito-en-el-ingreso-sur-de-canete",
    "titulo": "Accidente en el acceso sur de Cañete deja dos fallecidos tras choque de un vehículo contra un árbol",
