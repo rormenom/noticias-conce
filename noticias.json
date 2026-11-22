@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T19:40:24.152Z",
+ "generado": "2026-11-22T19:50:23.648Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -59,11 +59,12 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 4,
-    "enlaces": 159,
-    "leidas": 59,
-    "errores": 0,
-    "robots": 0
+    "paginas": 3,
+    "enlaces": 141,
+    "leidas": 57,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/region-de-arica-y-parinacota/2026/11/22/pdi-desarticula-banda-que-trasladaba-cocaina-desde-arica-a-santiago-y-decomisa-mas-de-60-kilos.shtml)"
    }
   },
   {
@@ -81,6 +82,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/22/huachipato-y-deportes-concepcion-reparten-puntos-en-un-empate-que-no-le-sirve-a-nadie.html",
+   "titulo": "Huachipato y Deportes Concepción reparten puntos en un empate que no le sirve a nadie",
+   "resumen": "El Acero y el León no se hicieron daño y se quedaron cada uno con un punto que le deja en bandeja la tabla a otros equipos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_4386.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T19:50:23.648Z",
+   "visto": "2026-11-22T19:50:23.648Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/22/cementerios-al-borde-del-colapso-en-bio-bio-consejero-pide-comprar-terrenos-con-fondos-regionales",
    "titulo": "Cementerios al borde del colapso en Bío Bío: consejero pide comprar terrenos con fondos regionales",
@@ -378,20 +393,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
-   "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
-   "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/claudia-guzman-directora-forbes-chile.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
    "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
    "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
@@ -402,6 +403,20 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
+   "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
+   "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/claudia-guzman-directora-forbes-chile.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1597,20 +1612,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/20/los-lugares-que-asoman-como-fijos-para-recibir-deportes-en-los-odesur-2030.html",
-   "titulo": "Los lugares que asoman como fijos para recibir deportes en los Odesur 2030",
-   "resumen": "Con la reciente confirmación de los Juegos en el Bíobío, ahora falta definir y oficializar qué recintos se ocuparán para cada disciplina, aunque hay algunos que corren con ventaja y fueron parte de la propuesta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casa-del-deporte.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/biobio-comunas-riesgo-incendios-forestales.html",
    "titulo": "18 de 33 comunas en Biobío registran más de mil hectáreas expuestas a riesgo muy alto de incendios forestales",
    "resumen": "El Ministerio de Vivienda y Urbanismo dio el puntapié inicial al Plan de Prevención de Incendios.",
@@ -1621,6 +1622,20 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/20/los-lugares-que-asoman-como-fijos-para-recibir-deportes-en-los-odesur-2030.html",
+   "titulo": "Los lugares que asoman como fijos para recibir deportes en los Odesur 2030",
+   "resumen": "Con la reciente confirmación de los Juegos en el Bíobío, ahora falta definir y oficializar qué recintos se ocuparán para cada disciplina, aunque hay algunos que corren con ventaja y fueron parte de la propuesta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casa-del-deporte.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -2641,20 +2656,6 @@
    "visto": "2026-11-17T20:00:29.040Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/ley-rebaja-combustibles-bencina-diesel-congelamiento.html",
-   "titulo": "Publican en el Diario Oficial la ley de combustibles: rebajan tarifas y congelan precios hasta 2027",
-   "resumen": "El Ejecutivo anunció la entrada en vigencia de la normativa que contiene las alzas de los combustibles.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-paro-de-camioneros-en-autopista-Concepci%C3%B3n-Talcahuano-foto-carolina-5.jpg-1-e1794944502229.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T19:50:24.406Z",
-   "visto": "2026-11-17T19:50:24.406Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
