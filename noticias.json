@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T17:50:20.127Z",
+ "generado": "2026-11-22T17:54:29.849Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 56,
+    "enlaces": 156,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 14,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/rampa-a-isla-santa-maria-lleva-16-de-avance-y-costara-mas-de-14-mil-millones",
+   "titulo": "Rampa a Isla Santa María lleva 16% de avance y costará más de $14 mil millones",
+   "resumen": "El proyecto de la rampa multipropósito entre Punta Lavapié y la Isla Santa María alcanza un 16% de avance, según detalló el seremi de Obras Públicas, José Piña. La obra apunta a mejorar la conexión entre el territorio continental y la isla, en la Provincia de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2020/02/Isla-Santa-Maria-jose-leniz-850x400.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T17:54:29.849Z",
+   "visto": "2026-11-22T17:54:29.849Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/22/robo-al-bci-en-concepcion-fiscalia-no-descarta-hipotesis-y-mantiene-reserva-de-diligencias",
    "titulo": "Robo al BCI en Concepción: Fiscalía no descarta hipótesis y mantiene reserva de diligencias",
@@ -1505,20 +1519,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-20T10:40:21.568Z",
    "visto": "2026-11-20T10:40:21.568Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/bio-bio-concentra-4-de-las-5-comunas-mas-expuestas-a-incendios-forestales-y-132-campamentos-en-riesgo",
-   "titulo": "Bío Bío concentra 4 de las 5 comunas más expuestas a incendios forestales y 132 campamentos en riesgo",
-   "resumen": "La Región del Bío Bío lidera el ranking de comunas con mayor exposición a incendios forestales, según el Plan de Prevención de Incendios entregado por el Ministerio de Vivienda. El informe identifica zonas de riesgo para definir planes de acción y ubica a…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/01/Captura-de-pantalla-2026-01-21-a-las-6.04.20%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T10:30:24.112Z",
-   "visto": "2026-11-20T10:30:24.112Z",
    "cats": [
     "regional"
    ],
