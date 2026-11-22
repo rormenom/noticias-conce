@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T15:10:19.838Z",
+ "generado": "2026-11-22T15:20:21.849Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 58,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -2726,21 +2726,6 @@
    "visto": "2026-11-17T15:50:22.100Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/expocorma-2026-industria-forestal-se-reune-en-torno-a-la-innovacion-tecnologia-y-nuevos-desafios-del-sector/",
-   "titulo": "ExpoCorma 2026: Industria forestal se reúne en torno a la innovación, tecnología y nuevos desafíos del sector",
-   "resumen": "Bajo el lema “Tecnología que nace de la tierra”, la […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/expocorma-2026-768x512.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-17T15:18:11.000Z",
-   "visto": "2026-11-17T15:20:21.373Z",
-   "cats": [
-    "regional",
-    "tecnologia"
    ],
    "local": true
   }
