@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T22:10:19.297Z",
+ "generado": "2026-11-22T23:20:20.607Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 19,
-    "leidas": 0,
+    "enlaces": 20,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 156,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 11,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/22/directora-de-forbes-chile-plantea-los-desafios-del-periodismo-ante-el-avance-de-la-ia.html",
+   "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/WEB-Claudia-G%C3%BAzman-directora-Forbes-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-22T23:20:20.607Z",
+   "visto": "2026-11-22T23:20:20.607Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/22/declaratoria-pendiente-en-monumentos-nacionales-ciudadania-de-tome-busca-proteger-sus-casonas-historicas.html",
+   "titulo": "Declaratoria pendiente en Monumentos Nacionales: ciudadanía de Tomé busca proteger sus casonas históricas",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-6-Ceia-Centro-de-Educaci%C3%B3n-Integrada-de-Adultos-foto-Cecilia-Bastias.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-22T23:20:20.607Z",
+   "visto": "2026-11-22T23:20:20.607Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/destacado-escritor-espanol-borja-vilaseca-conferencia-encantado-de-conocerme-claves-autoconocimiento-teatro-udec.html",
    "titulo": "Destacado escritor Borja Vilaseca dictara la conferencia “Encantado de conocerme: claves de autoconocimiento” en Teatro UdeC",
@@ -645,20 +673,6 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/sector-forestal-apuesta-por-la-infraestructura-en-madera-y-la-reactivacion-tras-expocorma-2026.html",
-   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg-850x500.jpeg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-21T17:50:23.854Z",
-   "visto": "2026-11-21T17:50:23.854Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/21/inundaciones-en-calle-la-vega-preven-licitar-estudios-para-el-sistema-de-aguas-lluvia-de-cara-a-2027.html",
    "titulo": "Inundaciones en calle La Vega: prevén licitar estudios para el sistema de aguas lluvia de cara a 2027",
    "resumen": "",
@@ -685,6 +699,20 @@
     "regional",
     "deportes",
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/21/sector-forestal-apuesta-por-la-infraestructura-en-madera-y-la-reactivacion-tras-expocorma-2026.html",
+   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg-850x500.jpeg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-21T17:50:23.854Z",
+   "visto": "2026-11-21T17:50:23.854Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1532,34 +1560,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-20T13:28:33.237Z",
    "visto": "2026-11-20T13:28:33.237Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/video-vehiculo-queda-incrustrado-en-barrera-de-contencion-a-metros-de-una-casa-en-concepcion.shtml",
-   "titulo": "VIDEO | Vehículo queda incrustrado en barrera de contención a metros de una casa en Concepción",
-   "resumen": "Un vehículo quedó incrustado y “colgando” en una barrera de contención tras protagonizar un accidente de tránsito en Avenida 21...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7026400-capturas.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-20T13:16:30.000Z",
-   "visto": "2026-11-20T13:20:21.119Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/de-cara-a-la-conmemoraicon-de-su-dia-nacional-trabajadoras-de-casa-particular-destacan-avances-en-derechos-laborales-y-llaman-a-fortalecer-la-organizacion-sindical",
-   "titulo": "Trabajadoras de casa particular destacan avances en derechos laborales y llaman a fortalecer la organización sindical",
-   "resumen": "Cada 21 de noviembre, se conmemora en Chile el Día Nacional de las Trabajadoras de Casa Particular, un oficio muchas veces invisibilizado, pero que a lo largo de los años ha ido avanzando en materia de derechos laborales. Por ello, en Matinal Nuestra Casa…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/aseo-asesoras-hogar.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T12:30:26.766Z",
-   "visto": "2026-11-20T12:30:26.766Z",
    "cats": [
     "regional"
    ],
