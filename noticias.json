@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T16:20:20.704Z",
+ "generado": "2026-11-22T16:30:25.640Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 155,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -2669,20 +2669,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/de-concepcion-a-portugal-el-largo-viaje-de-un-chileno-para-conocer-al-club-que-ama-desde-nino",
-   "titulo": "Hincha de Concepción viaja a Portugal para conocer al club que alienta desde niño",
-   "resumen": "Tras quince horas en el aire y varios cambios de transporte, Sebastián Solís, seguidor chileno de Concepción, llegó a Portugal para conocer el Estádio do Dragão y el museo del FC Porto. Así pudo acercarse a la historia del equipo europeo que sigue desde que…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/porto-hincha-chileno-experiencia.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T16:30:26.101Z",
-   "visto": "2026-11-17T16:30:26.101Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
