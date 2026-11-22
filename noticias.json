@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T18:00:28.526Z",
+ "generado": "2026-11-22T18:10:20.444Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 34,
+    "enlaces": 35,
     "leidas": 13,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/registro-civil-abre-orientacion-por-videollamada-y-ya-atendio-a-mas-de-2-mil-personas",
+   "titulo": "Registro Civil abre orientación por videollamada y ya atendió a más de 2 mil personas",
+   "resumen": "El Servicio de Registro Civil e Identificación puso en marcha un canal de atención remota que entrega orientación sobre trámites por videoconferencia, de modo que no sea necesario ir a una oficina. Eso sí, hay que agendar antes un horario en el sitio web de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2019/03/registro-civil.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T18:10:20.444Z",
+   "visto": "2026-11-22T18:10:20.444Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/22/se-posterga-otra-vez-el-caso-convenios-defensa-de-tamara-vidal-frena-arista-mi-hogar-asuncionista",
    "titulo": "Se posterga otra vez el caso Convenios: defensa de Tamara Vidal frena arista Mi Hogar Asuncionista",
@@ -1507,20 +1521,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/dueno-de-automotora-hdr-se-presento-al-tribunal-sera-formalizado-por-estafar-a-32-personas-con-discapacidad",
-   "titulo": "Dueño de automotora HDR se presentó al tribunal: será formalizado por estafar a 32 personas con discapacidad",
-   "resumen": "El Juzgado de Garantía de Concepción reprogramó para el 26 de noviembre la formalización de Reinaldo Lara, dueño de la automotora HDR, acusado de estafar a personas con discapacidad. La nueva fecha quedó fijada después de que el empresario se presentara por…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2025/11/AUTOMOTORA-HDR.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T10:50:24.377Z",
-   "visto": "2026-11-20T10:50:24.377Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
