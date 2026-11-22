@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T11:40:21.135Z",
+ "generado": "2026-11-22T11:50:20.516Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -180,20 +180,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
-   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
-   "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/poemario-cruza-memoria-identidad-resistencia-nicole-camille-debut-literario-sonata-en-azul-sin-blanco.html",
    "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
    "resumen": "La poeta y artista visual tomecina presenta su primer libro, una obra que enlaza la experiencia personal con una mirada crítica sobre las desigualdades, los mandatos de género y la memoria popular. Publicado por Editorial Mujeres de Letras, el poemario cuenta…",
@@ -204,6 +190,20 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
+   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
+   "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
