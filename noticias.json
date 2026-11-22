@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T20:40:20.782Z",
+ "generado": "2026-11-22T21:00:26.765Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -2596,20 +2596,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/17/alianza-entidades-medicas-prevencion-salud.html",
-   "titulo": "Entidades científicas y médicas se unen para fortalecer la prevención y promoción de la salud",
-   "resumen": "Representantes de 18 instituciones participaron del Foro Intersociedades que impulsó Sochimev.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-actividad-fi%CC%81sica-foto-cc-850x500.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T21:00:29.594Z",
-   "visto": "2026-11-17T21:00:29.594Z",
-   "cats": [
-    "tecnologia"
    ],
    "local": true
   }
