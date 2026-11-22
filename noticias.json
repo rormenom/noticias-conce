@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T22:00:26.784Z",
+ "generado": "2026-11-22T22:10:19.297Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/destacado-escritor-espanol-borja-vilaseca-conferencia-encantado-de-conocerme-claves-autoconocimiento-teatro-udec.html",
+   "titulo": "Destacado escritor Borja Vilaseca dictara la conferencia “Encantado de conocerme: claves de autoconocimiento” en Teatro UdeC",
+   "resumen": "El autor español llegará por primera vez a nuestra ciudad este lunes 23 de noviembre, a las 19.00 horas, para presentar esta charla en que destaca la importancia de la inteligencia emocional (IE) frente al creciente interés por la inteligencia artificial…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/La-Naci%C3%B3n.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T22:10:19.297Z",
+   "visto": "2026-11-22T22:10:19.297Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/incendio-destruye-antigua-veterinaria-municipal-abandonada-en-los-angeles-investigan-intencionalidad",
+   "titulo": "Investigan si el incendio que destruyó la antigua veterinaria municipal abandonada en Los Ángeles fue intencional",
+   "resumen": "Un siniestro registrado durante la madrugada destruyó una antigua construcción que albergó a la exveterinaria municipal de Los Ángeles. El fuego alcanzó todas las instalaciones y se investiga una posible intencionalidad. El inmueble llevaba varios años sin…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/incendio-destruye-antigua-veterinaria-municipal-abandonada-en-los-angeles-investigan-intencionalidad.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T22:10:19.297Z",
+   "visto": "2026-11-22T22:10:19.297Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/22/joaquin-montecinos-fue-detenido-por-carabineros-tras-empate-de-concepcion",
    "titulo": "Carabineros detuvo a Joaquín Montecinos tras el empate entre Concepción y Huachipato en Talcahuano",
@@ -1548,20 +1576,6 @@
    "visto": "2026-11-20T12:10:19.889Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/hualpen-vecinos-protestan-contra-proyecto-de-dragado-de-enap-en-bahia-de-san-vicente",
-   "titulo": "Hualpén: vecinos protestan contra proyecto de dragado de ENAP en bahía de San Vicente",
-   "resumen": "Alrededor de un centenar de personas se congregó desde las 07:00 de la mañana de este viernes en la intersección de las avenidas Gran Bretaña con Golondrinas, en el sector Cuatro Esquinas para manifestarse en rechazo a una iniciativa impulsada por la Empresa…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Sin-titulo-5-e1795173882319.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T11:30:30.078Z",
-   "visto": "2026-11-20T11:30:30.078Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
