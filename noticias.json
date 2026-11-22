@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T19:00:26.758Z",
+ "generado": "2026-11-22T19:40:24.152Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
+    "enlaces": 159,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -378,20 +378,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
-   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
-   "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
    "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
    "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
@@ -402,6 +388,20 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
+   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
+   "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
@@ -2655,20 +2655,6 @@
    "visto": "2026-11-17T19:50:24.406Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/medio-ambiente-cyt/2026/11/17/alertan-masiva-presencia-de-tortugas-invasoras-se-multiplican-y-pueden-transmitir-graves-infecciones.shtml",
-   "titulo": "Alertan masiva presencia de tortugas invasoras: se multiplican y pueden transmitir graves infecciones",
-   "resumen": "Lo que partió como una mascota para los niños hoy tiene en alerta a un barrio de Talcahuano. Vecinos de...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022815-tortuga-orejas-rojas-alfred-gf-1024x576-mejorada.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T19:32:50.000Z",
-   "visto": "2026-11-17T19:40:21.088Z",
-   "cats": [
-    "tecnologia"
    ],
    "local": true
   }
