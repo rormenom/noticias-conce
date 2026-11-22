@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T19:50:23.648Z",
+ "generado": "2026-11-22T20:00:25.324Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -59,12 +59,11 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 3,
-    "enlaces": 141,
-    "leidas": 57,
-    "errores": 1,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/region-de-arica-y-parinacota/2026/11/22/pdi-desarticula-banda-que-trasladaba-cocaina-desde-arica-a-santiago-y-decomisa-mas-de-60-kilos.shtml)"
+    "paginas": 4,
+    "enlaces": 158,
+    "leidas": 59,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -2627,35 +2626,6 @@
     "regional",
     "cultura",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/fiesta-del-libro-en-concepcion-tercera-edicion-tendra-talleres-conversatorios-y-actividades-gratuitas",
-   "titulo": "Fiesta del Libro en Concepción: tercera edición tendrá talleres, conversatorios y actividades gratuitas",
-   "resumen": "La Biblioteca Municipal de Concepción recibirá este sábado 21 de noviembre a editoriales, escritores e ilustradores de la región, en una jornada abierta a toda la comunidad, que se desarrollará entre las 10:00 y las 18:00 horas. Con una programación que…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/2024-07-10-Feria-Libro-I-CCC014-1024x683-1-e1776355383882.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T20:00:29.040Z",
-   "visto": "2026-11-17T20:00:29.040Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/carabineros-pega-portazo-a-hinchas-de-la-u-concepcion-jugara-solo-con-publico-local-ante-azules",
-   "titulo": "Carabineros descarta público visitante para el duelo entre Deportes Concepción y La U en el Ester Roa Rebolledo",
-   "resumen": "Este martes, Deportes Concepción comunicó que el partido frente a La U, correspondiente a la fecha 29 de la Liga de Primera y fijado para las 18:00 horas del domingo 29 de noviembre, se disputará únicamente con hinchas locales. El club penquista precisó que…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/deportes-concepcion-en-el-ester-roa-previo-a-duelo-ante-la-u.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T20:00:29.040Z",
-   "visto": "2026-11-17T20:00:29.040Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
