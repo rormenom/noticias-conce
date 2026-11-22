@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T14:50:18.698Z",
+ "generado": "2026-11-22T15:00:24.540Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 58,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
@@ -2727,21 +2727,6 @@
    "cats": [
     "regional",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/17/hualpen-alcalde-exige-investigacion-tras-intoxicacion-de-15-escolares-por-emanaciones-de-enap",
-   "titulo": "Hualpén: alcalde exige investigación tras intoxicación de 15 escolares por emanaciones de ENAP",
-   "resumen": "Una grave denuncia encendió las alertas en la comuna de Hualpén, luego de que un total de 15 estudiantes de entre 10 y 13 años de la Escuela República del Perú terminaran con atención médica de urgencia. Los menores presentaron diversos malestares, tales como…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-17-at-11.17.16-e1794927203781.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-17T15:00:30.448Z",
-   "visto": "2026-11-17T15:00:30.448Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
