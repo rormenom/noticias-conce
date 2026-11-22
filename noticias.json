@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T00:50:21.258Z",
+ "generado": "2026-11-22T01:40:20.769Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 55,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/21/nublense-vencio-a-la-udec-en-el-ester-roa-y-la-hundio-en-la-liga-de-primera-campanil-es-colista.shtml",
+   "titulo": "Ñublense venció a la UdeC en el Ester Roa y la hundió en La Liga de Primera: ’Campanil’ es colista",
+   "resumen": "Sufre el ‘Campanil’. La UdeC cayó este sábado ante Ñublense en el estadio Ester Roa Rebolledo y quedó como colista...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027964-udec-nublense-la-liga-de-primera.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-22T01:33:39.000Z",
+   "visto": "2026-11-22T01:40:20.769Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/un-2026-lila-el-invicto-de-este-ano-de-deportes-concepcion-sobre-huachipato.html",
    "titulo": "Un 2026 lila: el invicto de este año de Deportes Concepción sobre Huachipato",
