@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T01:50:22.487Z",
+ "generado": "2026-11-22T02:00:27.509Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 55,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 58,
+    "enlaces": 155,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -289,6 +289,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T15:00:00.000Z",
    "visto": "2026-11-22T00:50:21.258Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/colista-absoluto-la-udec-cayo-contra-nublense-y-esta-con-un-pie-en-la-b.html",
+   "titulo": "Colista absoluto: La UdeC cayó contra Ñublense y está con un pie en la B",
+   "resumen": "La Universidad de Concepción cayó de local contra los Diablos Rojos y ya derechamente necesita un milagro para no perder la categoría.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/%C3%91ublense-vs-UDeC-%C3%91ublense.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T15:00:00.000Z",
+   "visto": "2026-11-22T02:00:27.509Z",
    "cats": [
     "deportes"
    ],
