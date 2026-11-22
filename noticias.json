@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T18:10:20.444Z",
+ "generado": "2026-11-22T18:20:22.134Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 57,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,55 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 13,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/cementerios-al-borde-del-colapso-en-bio-bio-consejero-pide-comprar-terrenos-con-fondos-regionales",
+   "titulo": "Cementerios al borde del colapso en Bío Bío: consejero pide comprar terrenos con fondos regionales",
+   "resumen": "Robert Córdova, consejero regional por la provincia de Bío Bío, planteó que el Gobierno Regional destine recursos a comprar suelo para levantar nuevos cementerios. Su argumento es que varios recintos de la zona están llegando al límite de su capacidad, entre…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2018/10/cementerio-de-lota.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T18:20:22.134Z",
+   "visto": "2026-11-22T18:20:22.134Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/aprueban-casi-200-millones-para-61-proyectos-de-seguridad-vecinal-en-los-angeles",
+   "titulo": "Aprueban casi $200 millones para 61 proyectos de seguridad vecinal en Los Ángeles",
+   "resumen": "El Concejo Municipal de Los Ángeles aprobó casi 200 millones de pesos para financiar 61 proyectos de seguridad ciudadana, que se ejecutarán con recursos del Fondo de Desarrollo Vecinal (Fondeve), un fondo municipal al que postulan organizaciones de la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2020/07/ALARMA.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T18:20:22.134Z",
+   "visto": "2026-11-22T18:20:22.134Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/huachipato-y-concepcion-igualaron-por-la-liga-de-primera-arquero-del-leon-atajo-un-penal",
+   "titulo": "Huachipato y Deportes Concepción empataron en La Liga de Primera tras un penal atajado por el arquero del León",
+   "resumen": "Huachipato y Deportes Concepción no lograron sacarse ventaja y empataron 0-0 este domingo, por la fecha 28 de La Liga de Primera. Fue un encuentro disputado y con escasas oportunidades de gol. La ocasión más clara para el local en el CAP llegó desde el punto…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/huachipato-concepcion-la-liga-de-primera.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T18:20:22.134Z",
+   "visto": "2026-11-22T18:20:22.134Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/22/registro-civil-abre-orientacion-por-videollamada-y-ya-atendio-a-mas-de-2-mil-personas",
    "titulo": "Registro Civil abre orientación por videollamada y ya atendió a más de 2 mil personas",
@@ -1496,20 +1538,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/dos-juntas-vecinales-de-cabrero-se-disputan-una-sede-comunitaria-en-monteaguila",
-   "titulo": "Dos juntas vecinales de Cabrero se disputan una sede comunitaria en Monteaguila",
-   "resumen": "Una fuerte disputa enfrenta a dos juntas vecinales de la comuna de Cabrero por el uso de la sede comunitaria La Copa, en la localidad de Monteaguila. Las organizaciones involucradas son la Junta Vecinal Renacer y la Junta de Vecinos San Sebastián. Según…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/municipalidad-de-cabrero.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T11:00:32.945Z",
-   "visto": "2026-11-20T11:00:32.945Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/20/gobernador-del-bio-bio-pide-al-gobierno-reforestar-arauco-para-salvar-golpeada-industria-forestal",
    "titulo": "Gobernador del Bío Bío pide al Gobierno reforestar Arauco para salvar golpeada industria forestal",
    "resumen": "El gobernador regional del Bío Bío, Sergio Giacaman, hizo un llamado al Gobierno central para impulsar la reforestación en la Provincia de Arauco y, con eso, levantar a una industria forestal que atraviesa un mal momento. La autoridad pidió al Ejecutivo no…",
@@ -2670,20 +2698,6 @@
    "visto": "2026-11-17T18:50:23.831Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/17/biobio-decision-sede-juegos-odesur-2030.html",
-   "titulo": "A horas de una decisión histórica: Odesur define si Biobío será sede de los Juegos Sudamericanos 2030",
-   "resumen": "Se extendió la invitación a la comunidad a presenciar la transmisión en vivo a través de una pantalla gigante instalada en el Gobierno Regional.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/biobio-decision-sede-juegos-odesur-2030-2-e1794938936140.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T18:20:24.169Z",
-   "visto": "2026-11-17T18:20:24.169Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
