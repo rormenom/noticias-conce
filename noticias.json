@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T11:30:24.778Z",
+ "generado": "2026-11-22T11:40:21.135Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 149,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/dos-muertos-deja-un-accidente-de-transito-en-el-ingreso-sur-de-canete.shtml",
+   "titulo": "Dos muertos deja un accidente de tránsito en el ingreso sur de Cañete",
+   "resumen": "Dos personas murieron en un accidente de tránsito que se registró en el ingreso sur de Cañete, en la región...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028084-dos-muertos-ruta.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-22T11:37:09.000Z",
+   "visto": "2026-11-22T11:40:21.135Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/sudafrica-chile-y-los-desafio-del-hemisferio-sur-embajador-monyemangene-aborda-el-escenario-mundial.shtml",
    "titulo": "Sudáfrica, Chile y los desafíos del Hemisferio Sur: Embajador Monyemangene aborda el escenario mundial",
@@ -1590,20 +1604,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-19T23:39:19.156Z",
    "visto": "2026-11-19T23:39:19.156Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/videos-marcha-de-estudiante-contra-recortes-termina-con-incidentes-en-concepcion",
-   "titulo": "Videos: manifestación estudiantil contra los recortes termina con incidentes en Concepción",
-   "resumen": "Hasta ahora, al menos una persona ha sido detenida durante la marcha convocada por estudiantes secundarios y universitarios en el centro de Concepción, en la región del Bío Bío. La protesta se realizó contra los recortes del gobierno en sectores como…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/marcha-estudiantes-centro-concepcion.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T22:40:21.138Z",
-   "visto": "2026-11-19T22:40:21.138Z",
    "cats": [
     "regional"
    ],
