@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T02:20:23.941Z",
+ "generado": "2026-11-22T03:00:25.903Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 152,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/detectan-fragata-portuguesa-en-caleta-de-coronel-es-la-tercera-comuna-afectada-en-el-bio-bio.shtml",
+   "titulo": "Detectan fragata portuguesa en caleta de Coronel: es la tercera comuna afectada en el Bío Bío",
+   "resumen": "Se detectó la presencia de fragata portuguesa en la caleta Maule, en la comuna de Coronel, región...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028008-detectan-fragata-portuguesa-en-caleta-de-coronel-es-la-tercera-comuna-afectada-en-el-bio-bio.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-22T02:50:43.000Z",
+   "visto": "2026-11-22T03:00:25.903Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/choque-entre-dos-camionetas-deja-un-fallecido-y-un-herido-en-yumbel.shtml",
    "titulo": "Choque entre dos camionetas deja un fallecido y un herido en Yumbel",
@@ -535,6 +549,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/21/agustina-bazterrica-visita-concepcion-la-butaca-entrevista-bibliotecas-udec-100-anos.html",
+   "titulo": "Agustina Bazterrica: “Mi universo literario es de violencia y oscuridad, pero también hay mucho humor”",
+   "resumen": "En su primera visita a Concepción, la autora argentina compartió con más de 300 personas en la Biblioteca Central UdeC. En conversación con Diario Concepción, abordó las temáticas que cruzan su obra, el impacto internacional de “Cadáver exquisito” y sus…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-nota-cultura-captura-La-Butaca-edici%C3%B3n-literaria.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T08:40:23.479Z",
+   "visto": "2026-11-21T08:40:23.479Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/21/eric-goles-se-puede-ser-alguien-cientifico-intelectual-y-de-exito-sin-ser-genio-ni-uniformemente-exitoso.html",
    "titulo": "Eric Goles: “Se puede ser alguien científico, intelectual y de éxito sin ser genio ni uniformemente exitoso”",
    "resumen": "El matemático, divulgador y Premio Nacional de Ciencias Exactas presentó su autobiografía en la UdeC para inspirar a otras personas.",
@@ -546,20 +574,6 @@
    "cats": [
     "tecnologia",
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/21/agustina-bazterrica-visita-concepcion-la-butaca-entrevista-bibliotecas-udec-100-anos.html",
-   "titulo": "Agustina Bazterrica: “Mi universo literario es de violencia y oscuridad, pero también hay mucho humor”",
-   "resumen": "En su primera visita a Concepción, la autora argentina compartió con más de 300 personas en la Biblioteca Central UdeC. En conversación con Diario Concepción, abordó las temáticas que cruzan su obra, el impacto internacional de “Cadáver exquisito” y sus…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-nota-cultura-captura-La-Butaca-edici%C3%B3n-literaria.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T08:40:23.479Z",
-   "visto": "2026-11-21T08:40:23.479Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   },
