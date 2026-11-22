@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T14:20:20.666Z",
+ "generado": "2026-11-22T14:50:18.698Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 59,
+    "enlaces": 155,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/dos-muertos-deja-un-accidente-de-transito-en-el-ingreso-sur-de-canete",
+   "titulo": "Accidente en el acceso sur de Cañete deja dos fallecidos tras choque de un vehículo contra un árbol",
+   "resumen": "Un accidente de tránsito dejó dos personas fallecidas la mañana de este domingo en el acceso sur a Cañete. El hecho ocurrió en el sector de Santa Rosa, en la Ruta P60 R, a cerca de 3 kilómetros del área urbana. Por motivos que se encuentran bajo…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/dos-muertos-ruta-canete-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T14:50:18.698Z",
+   "visto": "2026-11-22T14:50:18.698Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/dos-muertos-deja-un-accidente-de-transito-en-el-ingreso-sur-de-canete.shtml",
    "titulo": "Dos muertos deja un accidente de tránsito en el ingreso sur de Cañete",
@@ -1592,20 +1606,6 @@
    "visto": "2026-11-20T04:10:21.570Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/detienen-a-3-funcionarias-activas-de-gendarmeria-y-2-civiles-en-indagatoria-por-asociacion-criminal",
-   "titulo": "Cinco detenidos, entre ellos tres funcionarias activas de Gendarmería, en investigación por asociación criminal",
-   "resumen": "Tres funcionarias en servicio de Gendarmería y dos personas civiles fueron arrestadas en una causa que investiga presuntos delitos de cohecho, lavado de activos y asociación criminal. Las detenciones se realizaron en las regiones Metropolitana y Bío Bío. En…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detienen-a-3-funcionarias-activas-de-gendarmeria-y-2-civiles-en-indagatoria-por-asociacion-criminal.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T23:39:19.156Z",
-   "visto": "2026-11-19T23:39:19.156Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
