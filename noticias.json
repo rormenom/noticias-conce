@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T15:20:21.849Z",
+ "generado": "2026-11-22T15:50:19.885Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
+    "enlaces": 153,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -2698,34 +2698,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/17/banda-planeta-no-presentara-un-abrazo-templo-crapula.html",
-   "titulo": "Banda Planeta No presentará “Un Abrazo” en Templo Crápula",
-   "resumen": "Como parte de su gira nacional de presentación de este nuevo y segundo álbum, el trío de indie pop se presentará este 19 de noviembre - 21.00 horas- en esta sala de conciertos penquista ubicada en Caupolicán 1661. Entradas vía PortalTickets.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Planeta-No-cedida-JotaKai-Comunicaciones.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-17T15:50:22.100Z",
-   "visto": "2026-11-17T15:50:22.100Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/chilenos-en-el-exterior/2026/11/17/de-concepcion-a-portugal-el-largo-viaje-de-un-chileno-para-conocer-al-club-que-ama-desde-nino.shtml",
-   "titulo": "De Concepción a Portugal: el largo viaje de un chileno para conocer al club que ama desde niño",
-   "resumen": "Quince horas de vuelo, varios traslados y un sueño que comenzó hace más de un año llevaron a Sebastián Solís,...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7022317-porto-hincha-chileno-experiencia.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-17T15:43:42.000Z",
-   "visto": "2026-11-17T15:50:22.100Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
