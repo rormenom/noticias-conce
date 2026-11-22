@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T10:10:19.139Z",
+ "generado": "2026-11-22T10:50:19.516Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 58,
+    "enlaces": 151,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,55 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/detectan-fragata-portuguesa-en-caleta-de-coronel-es-la-tercera-comuna-afectada-en-el-bio-bio",
+   "titulo": "Confirman la presencia de fragata portuguesa en Coronel, la tercera comuna afectada del Biobío",
+   "resumen": "La Capitanía de Puerto confirmó la detección de fragata portuguesa en caleta Maule, comuna de Coronel. El ejemplar fue avistado durante una inspección en terreno efectuada por la Policía Marítima, que ya coordinó las acciones pertinentes con la autoridad…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detectan-fragata-portuguesa-en-caleta-de-coronel-es-la-tercera-comuna-afectada-en-el-bio-bio.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T10:50:19.516Z",
+   "visto": "2026-11-22T10:50:19.516Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/navidad-con-sentido-inician-campana-solidaria-en-lota-para-regalar-cenas-navidenas",
+   "titulo": "Lota lanza campaña solidaria para entregar cenas navideñas con sentido",
+   "resumen": "Un equipo de voluntarios de la comuna de Lota desarrolla el proyecto “Navidad con Sentido Lota 2026”, una iniciativa destinada a ofrecer una cena navideña a personas de la localidad minera afectadas por inundaciones, cesantía o enfermedades. La propuesta…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cena-navidena.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T10:50:19.516Z",
+   "visto": "2026-11-22T10:50:19.516Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/22/nublense-vencio-a-la-udec-en-el-ester-roa-y-la-hundio-en-la-liga-de-primera-campanil-es-colista",
+   "titulo": "Ñublense derrotó a la UdeC en el Ester Roa y la dejó última en La Liga de Primera",
+   "resumen": "El ‘Campanil’ no logra levantar cabeza. La UdeC perdió este sábado frente a Ñublense en el estadio Ester Roa Rebolledo y quedó en el último puesto de La Liga de Primera. El cuadro de Chillán fue un rival difícil para los locales y se llevó el triunfo por 3-2…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/udec-nublense-la-liga-de-primera.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-22T10:50:19.516Z",
+   "visto": "2026-11-22T10:50:19.516Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
    "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
@@ -92,6 +134,20 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/poemario-cruza-memoria-identidad-resistencia-nicole-camille-debut-literario-sonata-en-azul-sin-blanco.html",
+   "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
+   "resumen": "La poeta y artista visual tomecina presenta su primer libro, una obra que enlaza la experiencia personal con una mirada crítica sobre las desigualdades, los mandatos de género y la memoria popular. Publicado por Editorial Mujeres de Letras, el poemario cuenta…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Editorial-Mujeres-de-Letras.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -120,20 +176,6 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/poemario-cruza-memoria-identidad-resistencia-nicole-camille-debut-literario-sonata-en-azul-sin-blanco.html",
-   "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
-   "resumen": "La poeta y artista visual tomecina presenta su primer libro, una obra que enlaza la experiencia personal con una mirada crítica sobre las desigualdades, los mandatos de género y la memoria popular. Publicado por Editorial Mujeres de Letras, el poemario cuenta…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Editorial-Mujeres-de-Letras.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   },
@@ -1568,20 +1610,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/videos-marcha-de-estudiante-contra-recortes-termina-con-incidentes-en-concepcion.shtml",
-   "titulo": "VIDEOS | Marcha de estudiantes contra recortes termina con incidentes en Concepción",
-   "resumen": "Al menos una persona detenida deja -de momento- la manifestación convocada por estudiantes secundarios y universitarios en el centro de...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025905-marcha-estudiantes-centro-concepcion.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-19T22:23:06.000Z",
-   "visto": "2026-11-19T22:30:25.640Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/cuando-el-problema-no-existe-debut-discografico-album-morder.html",
    "titulo": "Cuando el Problema no Existe hace su debut discográfico con el álbum “Morder”",
    "resumen": "La banda penquista cruza el midwest emo, el post-hardcore y el screamo en un trabajo grabado en Estudios del Sur, que además fue compuesto íntegramente por todos sus integrantes. Proyecto musical que será una de los invitados especiales al SurPop Festival…",
@@ -1634,20 +1662,6 @@
    "visto": "2026-11-19T21:30:26.949Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/detienen-a-mujer-que-estuvo-mas-de-dos-anos-profuga-por-asalto-a-adultos-mayores-en-contulmo.shtml",
-   "titulo": "Detienen a mujer que estuvo más de dos años prófuga por asalto a adultos mayores en Contulmo",
-   "resumen": "Tras permanecer prófuga por más de dos años, una mujer de 21 años fue detenida por la Policía de Investigaciones...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025921-bbcl-78.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-19T21:30:05.000Z",
-   "visto": "2026-11-19T21:30:26.949Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
