@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T12:40:22.065Z",
+ "generado": "2026-11-23T13:00:28.484Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
+    "enlaces": 157,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -225,20 +225,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/estudio-chorlo-campo-isla-santa-maria-fondo-internacional.html",
-   "titulo": "Fondo internacional financiará estudio sobre el chorlo de campo en la Isla Santa María",
-   "resumen": "La iniciativa liderada obtuvo US$3.000 del programa Pequeños Fondos Manomet para investigar durante 22 meses los movimientos y la ecología de invernada de esta ave migratoria",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-16.03.05.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T08:40:21.730Z",
-   "visto": "2026-11-23T08:40:21.730Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/carlos-pena-critica-gestion-kast-renuncias-gobierno-prensa-regional.html",
    "titulo": "“La política es un arte de hipocresía”: Carlos Peña aborda el homenaje a Ho Chi Minh y las renuncias en el Gobierno",
    "resumen": "El rector de la UDP analizó la gestión de Kast, las dificultades para conformar equipos de Gobierno, la relación entre política y ejercicio del poder, y el papel de los medios regionales en la construcción de una opinión pública informada.",
@@ -249,6 +235,20 @@
    "visto": "2026-11-23T08:40:21.730Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/estudio-chorlo-campo-isla-santa-maria-fondo-internacional.html",
+   "titulo": "Fondo internacional financiará estudio sobre el chorlo de campo en la Isla Santa María",
+   "resumen": "La iniciativa liderada obtuvo US$3.000 del programa Pequeños Fondos Manomet para investigar durante 22 meses los movimientos y la ecología de invernada de esta ave migratoria",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-16.03.05.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T08:40:21.730Z",
+   "visto": "2026-11-23T08:40:21.730Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -2599,20 +2599,6 @@
    "visto": "2026-11-18T14:00:30.153Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/basquetbol/2026/11/18/nba-quentin-grimes-iguala-record-de-kobe-bryant-y-salva-racha-de-lakers.shtml",
-   "titulo": "Quentin Grimes iguala histórico récord de Kobe Bryant y salva racha de Lakers en la NBA",
-   "resumen": "Quentin Grimes firmó 47 puntos, con diez triples, y rescató este martes a Los Angeles Lakers, que remontaron 18 puntos...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023487-nba-quentin-grimes-iguala-record-de-kobe-bryant-y-salva-racha-de-lakers.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-18T13:00:25.000Z",
-   "visto": "2026-11-18T13:10:22.583Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
