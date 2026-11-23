@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T10:50:21.877Z",
+ "generado": "2026-11-23T11:00:28.675Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/vecinos-de-los-angeles-se-movilizan-contra-reconstruir-la-carcel-danada-en-el-terremoto-de-2010",
+   "titulo": "Vecinos de Los Ángeles se movilizan contra reconstruir la cárcel dañada en el terremoto de 2010",
+   "resumen": "Habitantes del sector Chiprodal – Las Quintas, en el sur de Los Ángeles, salieron a la calle este domingo para rechazar que la antigua cárcel de la ciudad vuelva a levantarse. El edificio sufrió daños graves con el terremoto de 2010 y sigue en pie en avenida…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/CARCEL-LOS-ANGELES.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T11:00:28.675Z",
+   "visto": "2026-11-23T11:00:28.675Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/alcalde-de-quilaco-llama-a-prevenir-incendios-ante-alza-de-temperaturas-en-la-cordillera-de-bio-bio",
    "titulo": "Alcalde de Quilaco llama a prevenir incendios ante alza de temperaturas en la cordillera de Bío Bío",
@@ -1531,20 +1545,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-20T17:10:20.916Z",
    "visto": "2026-11-20T17:10:20.916Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/el-lanzazo-vicente-cifuentes-presentara-en-concepcion-su-nuevo-album-junto-a-charly-benavente-y-sebastian-orellana",
-   "titulo": "El Lanzazo: Vicente Cifuentes presentará en Concepción su nuevo álbum junto a Charly Benavente y Sebastián Orellana",
-   "resumen": "La música de Ñuble y Biobío será protagonista de una nueva edición de El Lanzazo, encuentro que llegará a Concepción este viernes 4 de diciembre con las presentaciones de Vicente Cifuentes, Charly Benavente y Sebastián Orellana. Los tres artistas compartirán…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/vicente-cifuentes-charly-benavente-y-sebastian-orellana.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T17:00:29.403Z",
-   "visto": "2026-11-20T17:00:29.403Z",
    "cats": [
     "regional"
    ],
