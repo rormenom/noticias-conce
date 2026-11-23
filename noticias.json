@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T18:10:19.858Z",
+ "generado": "2026-11-23T18:20:28.522Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -47,7 +47,7 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 21,
+    "enlaces": 20,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -59,9 +59,9 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 4,
-    "enlaces": 153,
-    "leidas": 56,
+    "paginas": 3,
+    "enlaces": 137,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/andan-robando-tanto-acusan-robo-de-letras-adornos-y-estatuas-en-cementerio-general-de-concepcion",
+   "titulo": "Denuncian el robo de letras, adornos y estatuas en el Cementerio General de Concepción",
+   "resumen": "El hurto de letras, ornamentos florales y figuras religiosas fue denunciado por familiares de personas sepultadas en el Cementerio General de Concepción. La administración admitió que han ocurrido estos hechos, aunque afirmó que la situación está bajo control…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cementerio-concepcion.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T18:20:28.522Z",
+   "visto": "2026-11-23T18:20:28.522Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cge-condona-deudas-electricas-damnificados-penco-lirquen.html",
    "titulo": "A 10 meses de los incendios: condonan deudas eléctricas hasta mayo a más de 2 mil familias de Penco y Lirquén y repactarán cobros de junio a septiembre",
@@ -1533,20 +1547,6 @@
    "visto": "2026-11-22T00:50:21.258Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/la-vega-sistema-aguas-lluvia-inundaciones.html",
-   "titulo": "Inundaciones en calle La Vega: prevén licitar en 2027 estudios para el sistema de aguas lluvia",
-   "resumen": "Residentes de este sector de Talcahuano exigen acelerar el proceso que ponga término a los anegamientos de cada jornada de precipitaciones. Exigen mesa técnica entre todos los actores correspondientes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-calle-la-vega-foto-isidoro.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T15:00:00.000Z",
-   "visto": "2026-11-23T17:20:20.521Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
