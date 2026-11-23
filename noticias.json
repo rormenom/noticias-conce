@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T11:10:20.805Z",
+ "generado": "2026-11-23T11:20:25.046Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,9 +61,10 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 58,
-    "errores": 0,
-    "robots": 0
+    "leidas": 57,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/trasandino-de-los-andes-campeon-segunda-division-ascendio-a-primera-b.shtml)"
    }
   },
   {
@@ -211,6 +212,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
+   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
+   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T08:40:21.730Z",
+   "visto": "2026-11-23T08:40:21.730Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/estudio-chorlo-campo-isla-santa-maria-fondo-internacional.html",
    "titulo": "Fondo internacional financiará estudio sobre el chorlo de campo en la Isla Santa María",
    "resumen": "La iniciativa liderada obtuvo US$3.000 del programa Pequeños Fondos Manomet para investigar durante 22 meses los movimientos y la ecología de invernada de esta ave migratoria",
@@ -239,20 +254,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
-   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
-   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T08:40:21.730Z",
-   "visto": "2026-11-23T08:40:21.730Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/campeones-despues-de-los-75-mas-vivos-que-nunca-bajo-el-aro.html",
    "titulo": "Campeones después de los 75: más vivos que nunca bajo el aro",
    "resumen": "Equipo de Maxiconce es el mejor de Chile por séptima vez. Un ejemplo de amor por el deporte, disciplina, compañerismo y mucho esfuerzo porque ya no trabajan, pero igualmente deben costearse cada viaje.",
@@ -263,6 +264,20 @@
    "visto": "2026-11-23T08:40:21.730Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/operativo-en-arauco-permite-detencion-de-22-personas-y-la-incautacion-de-mas-de-20-kilos-de-droga/",
+   "titulo": "Operativo en Arauco permite detención de 22 personas y la incautación de más de 20 kilos de droga",
+   "resumen": "16 de ellos quedaron en prisión preventiva.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/pdi-operativo-cofradia-del-golfo-768x405.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-23T07:12:47.000Z",
+   "visto": "2026-11-23T11:20:25.046Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1532,20 +1547,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-20T18:00:29.669Z",
    "visto": "2026-11-20T18:00:29.669Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/operacion-cofradia-del-golfo-deja-22-detenidos-y-decomiso-de-drogas-por-313-millones-en-arauco",
-   "titulo": "Operativo contra la Cofradía del Golfo deja 22 detenidos e incauta drogas valoradas en $313 millones en Arauco",
-   "resumen": "La operación “Cofradía del Golfo”, realizada por la Policía de Investigaciones (PDI) junto a la Fiscalía Local de Arauco, terminó con 22 detenidos y permitió desarticular una organización dedicada al tráfico de drogas en esa comuna de la región del Bío Bío.…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-83.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T17:10:20.916Z",
-   "visto": "2026-11-20T17:10:20.916Z",
    "cats": [
     "regional"
    ],
