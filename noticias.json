@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T20:20:21.619Z",
+ "generado": "2026-11-23T20:30:31.722Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 2,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
@@ -82,10 +82,39 @@
  ],
  "items": [
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/obras-mercado-talcahuano-7-por-ciento-avance.html",
-   "titulo": "Reconstrucción del Mercado de Talcahuano lleva 7% de avance tras 62 días de faenas y llegará a 100 operarios en marzo",
-   "resumen": "A 62 días del comienzo de las faenas el pasado 21 de septiembre, los trabajos se concentran en el mejoramiento de terreno mediante perforaciones a 15 metros de profundidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/obras-mercado-talcahuano-7-por-ciento-avance.png",
+   "url": "https://www.canal9.cl/episodios/2026/11/23/ofrecia-un-caiman-por-750-mil-en-marketplace-pdi-investiga-si-fue-arrojado-por-el-bano-en-hualpen",
+   "titulo": "Ofrecía un caimán por $750 mil en Marketplace: PDI investiga si fue arrojado por el baño en Hualpén",
+   "resumen": "Un hombre fue detenido por la PDI tras ser descubierto comercializando un caimán yacaré, especie protegida internacionalmente. Durante el allanamiento de su departamento, el imputado habría arrojado animales por el inodoro para evitar que fueran encontrados…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/yacare4-e1795465244831.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T20:30:31.722Z",
+   "visto": "2026-11-23T20:30:31.722Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/gobierno-asegura-que-hay-plena-afinidad-con-el-partido-cristiano-tras-amago-de-renuncias-en-bio-bio",
+   "titulo": "El Gobierno afirma que mantiene plena sintonía con el Partido Cristiano tras amenazas de renuncia en Bío Bío",
+   "resumen": "El subsecretario general de Gobierno, Gonzalo Arenas, afirmó que el Ejecutivo y el Partido Cristiano mantienen una “plena afinidad”, después de que dos autoridades de esa colectividad en la región del Bío Bío comunicaran que dejarían sus cargos. La medida fue…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/gobierno-asegura-que-hay-_plena-afinidad_-con-el-partido-cristiano-tras-amago-de-renuncias-en-bio-bio.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T20:30:31.722Z",
+   "visto": "2026-11-23T20:30:31.722Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/adultos-mayores-vacunacion-neumococo-chile.html",
+   "titulo": "Seis de cada diez adultos mayores en Chile no están vacunados contra el neumococo",
+   "resumen": "Los casos de enfermedades neumocócicas invasivas pasaron de 400 a 773 en tres años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-23-at-4.54.26-PM-e1795465116989.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T20:20:21.619Z",
@@ -96,10 +125,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/adultos-mayores-vacunacion-neumococo-chile.html",
-   "titulo": "Seis de cada diez adultos mayores en Chile no están vacunados contra el neumococo",
-   "resumen": "Los casos de enfermedades neumocócicas invasivas pasaron de 400 a 773 en tres años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-23-at-4.54.26-PM-e1795465116989.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/obras-mercado-talcahuano-7-por-ciento-avance.html",
+   "titulo": "Reconstrucción del Mercado de Talcahuano lleva 7% de avance tras 62 días de faenas y llegará a 100 operarios en marzo",
+   "resumen": "A 62 días del comienzo de las faenas el pasado 21 de septiembre, los trabajos se concentran en el mejoramiento de terreno mediante perforaciones a 15 metros de profundidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/obras-mercado-talcahuano-7-por-ciento-avance.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T20:20:21.619Z",
@@ -273,6 +302,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T18:10:19.858Z",
    "visto": "2026-11-23T18:10:19.858Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/un-7-de-avance-lleva-el-mercado-de-talcahuano-a-dos-meses-del-inicio-de-los-trabajos/",
+   "titulo": "Un 7% de avance lleva el Mercado de Talcahuano a dos meses del inicio de los trabajos",
+   "resumen": "Actualmente se realiza la perforación de 277 pilas de grava que corresponde al proceso de mejoramiento de terreno, para dar paso luego, a la construcción de las fundaciones del nuevo edificio.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/avances-nuevo-mercado-talcahuano--768x407.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-23T17:57:16.000Z",
+   "visto": "2026-11-23T20:30:31.722Z",
    "cats": [
     "regional"
    ],
@@ -1521,20 +1564,6 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/sector-forestal-apuesta-por-la-infraestructura-en-madera-y-la-reactivacion-tras-expocorma-2026.html",
-   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg-850x500.jpeg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-21T17:50:23.854Z",
-   "visto": "2026-11-21T17:50:23.854Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/21/eric-goles-se-puede-ser-cientifico-intelectual-y-de-exito-sin-ser-genio-ni-uniformemente-exitoso.html",
    "titulo": "Eric Goles: “Se puede ser científico, intelectual y de éxito sin ser genio ni uniformemente exitoso”",
    "resumen": "",
@@ -1547,20 +1576,6 @@
     "regional",
     "deportes",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/inundaciones-en-calle-la-vega-preven-licitar-estudios-para-el-sistema-de-aguas-lluvia-de-cara-a-2027.html",
-   "titulo": "Inundaciones en calle La Vega: prevén licitar estudios para el sistema de aguas lluvia de cara a 2027",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-5-calle-la-vega-foto-isidoro-850x500.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-21T17:50:23.854Z",
-   "visto": "2026-11-21T17:50:23.854Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
