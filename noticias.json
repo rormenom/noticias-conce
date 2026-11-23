@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-23T22:50:20.156Z",
+ "generado": "2026-11-23T23:00:29.415Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "HTTP 507",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -61,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 152,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -82,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/gran-concepcion-esta-semana-abren-puntos-de-venta-y-de-atencion-para-el-pago-electronico-de-micros.shtml",
+   "titulo": "Gran Concepción: Esta semana abren puntos de venta y de atención para el pago electrónico de micros",
+   "resumen": "El próximo martes 1 de diciembre comenzará la marcha blanca del pago electrónico en el transporte público del Gran Concepción,...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029653-gran-concepcion_-esta-semana-abren-puntos-de-venta-y-de-atencion-para-el-pago-electronico-de-micros.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-23T22:54:08.000Z",
+   "visto": "2026-11-23T23:00:29.415Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/llegada-de-alvarado-al-bio-bio-genera-expectacion-por-posible-anuncio-del-nuevo-delegado-presidencial",
    "titulo": "La llegada de Alvarado al Bío Bío despierta expectativas ante un posible anuncio del nuevo delegado presidencial",
@@ -396,8 +409,8 @@
   },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/un-7-de-avance-lleva-el-mercado-de-talcahuano-a-dos-meses-del-inicio-de-los-trabajos/",
-   "titulo": "Un 7% de avance lleva el Mercado de Talcahuano a dos meses del inicio de los trabajos",
-   "resumen": "Actualmente se realiza la perforación de 277 pilas de grava que corresponde al proceso de mejoramiento de terreno, para dar paso luego, a la construcción de las fundaciones del nuevo edificio.",
+   "titulo": "Un 7% de avance lleva el Mercado de Talcahuano",
+   "resumen": "A dos meses del inicio de los trabajos: Actualmente se realiza la perforación de 277 pilas de grava que corresponde al proceso de mejoramiento de terreno, para dar paso luego, a la construcción de las fundaciones del nuevo edificio.",
    "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/avances-nuevo-mercado-talcahuano--768x407.png",
    "fuente": "El Conquistador",
    "fuenteId": "conquistador",
