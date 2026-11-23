@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T09:30:24.945Z",
+ "generado": "2026-11-23T09:40:21.389Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/politicos-acusan-chantaje-por-renuncias-que-no-se-concretaron-en-salud-y-senama-del-bio-bio",
+   "titulo": "Políticos acusan chantaje por renuncias que no se concretaron en Salud y Senama del Bío Bío",
+   "resumen": "Las renuncias anunciadas por la seremi de Salud del Bío Bío, Isabel Rojas, y la directora regional del Servicio Nacional del Adulto Mayor (SENAMA), Antaris Varela, finalmente no se concretaron, pero dejaron una ola de críticas de parlamentarios de distintos…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/SALUD-SENAMA-BIOBIO.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T09:40:21.389Z",
+   "visto": "2026-11-23T09:40:21.389Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/region-del-bio-bio-cumple-tres-semanas-sin-delegado-presidencial-y-suben-las-presiones-al-gobierno",
    "titulo": "Región del Bío Bío cumple tres semanas sin delegado presidencial y suben las presiones al Gobierno",
@@ -1560,20 +1574,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-20T16:01:40.000Z",
    "visto": "2026-11-20T16:10:23.596Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/agrupacion-de-voluntarios-raices-comunitarias-continua-trabajando-con-familias-afectadas-por-incendios-forestales/",
-   "titulo": "Agrupación de voluntarios «Raíces Comunitarias» continúa trabajando con familias afectadas por incendios forestales",
-   "resumen": "En medio de los incendios forestales de este verano, el […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/raices-comunitarias-768x548.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-20T15:45:42.000Z",
-   "visto": "2026-11-20T15:50:27.881Z",
    "cats": [
     "regional"
    ],
