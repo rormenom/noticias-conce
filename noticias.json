@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T17:40:21.893Z",
+ "generado": "2026-11-23T18:10:19.858Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 57,
+    "enlaces": 153,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cge-condona-deudas-electricas-damnificados-penco-lirquen.html",
+   "titulo": "A 10 meses de los incendios: condonan deudas eléctricas hasta mayo a más de 2 mil familias de Penco y Lirquén y repactarán cobros de junio a septiembre",
+   "resumen": "Diez meses después de la emergencia registrada en enero de 2026, autoridades informaron la anulación de saldos previos a mayo, mientras que los consumos entre junio y septiembre se facturarán en cuotas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cge-condona-deudas-electricas-damnificados-penco-lirquen-e1795456767162.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T18:10:19.858Z",
+   "visto": "2026-11-23T18:10:19.858Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/reabren-paso-pichachen-proyectan-finalizar-obras-del-complejo-fronterizo-pichachen-en-marzo.html",
+   "titulo": "Reabren paso Pichachén: proyectan finalizar obras del Complejo Fronterizo Pichachén en marzo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pag-12-paso-pichachen-foto-cedida.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T18:10:19.858Z",
+   "visto": "2026-11-23T18:10:19.858Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/amplian-quiero-mi-barrio-lord-cochrane-penco.html",
    "titulo": "Amplían cobertura de Quiero Mi Barrio en Penco a 1.100 viviendas tras incendios de enero",
@@ -1155,20 +1183,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/22/casonas-historicas-tome-monumentos-nacionales.html",
-   "titulo": "Declaratoria pendiente en Monumentos Nacionales: ciudadanía de Tomé busca proteger sus casonas históricas",
-   "resumen": "Organizaciones y vecinos advierten sobre la pérdida de construcciones que forman parte de la historia comunal llaman a fortalecer las acciones para su conservación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casona.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
    "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
    "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
@@ -1222,6 +1236,20 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/22/casonas-historicas-tome-monumentos-nacionales.html",
+   "titulo": "Declaratoria pendiente en Monumentos Nacionales: ciudadanía de Tomé busca proteger sus casonas históricas",
+   "resumen": "Organizaciones y vecinos advierten sobre la pérdida de construcciones que forman parte de la historia comunal llaman a fortalecer las acciones para su conservación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casona.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1517,34 +1545,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T15:00:00.000Z",
    "visto": "2026-11-23T17:20:20.521Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/centralismo-y-violencia-digital-los-desafios-que-enfrenta-el-periodismo.html",
-   "titulo": "Centralismo y violencia digital: los desafíos que enfrenta el periodismo",
-   "resumen": "Directivos de medios analizaron el papel de las comunicaciones y la prensa fuera de Santiago.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T15:00:00.000Z",
-   "visto": "2026-11-23T17:10:27.307Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/un-muerto-y-un-herido-grave-deja-colision-frontal-entre-camionetas-en-la-ruta-yumbel-cabrero.shtml",
-   "titulo": "Un muerto y un herido grave deja colisión frontal entre camionetas en la ruta Yumbel-Cabrero",
-   "resumen": "Una persona murió y otra quedó gravemente herida luego de una fuerte colisión frontal de dos camionetas en la...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027672-un-muerto-y-un-herido-grave-deja-choque-frontal-entre-camionetas-en-la-ruta-yumbel-cabrero.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-21T14:11:40.000Z",
-   "visto": "2026-11-21T14:20:21.248Z",
    "cats": [
     "regional"
    ],
@@ -2583,20 +2583,6 @@
    "visto": "2026-11-18T18:50:21.243Z",
    "cats": [
     "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/sede-odesur-2030-transmision-vivo.html",
-   "titulo": "Mira en vivo el anuncio de Odesur 2030: Biobío espera la ratificación oficial como sede de los Juegos Sudamericanos",
-   "resumen": "La comunidad podrá seguir la ratificación oficial a través de una pantalla gigante en el GORE y en nuestras plataformas digitales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sede-odesur-2030-transmision-vivo.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T18:10:21.950Z",
-   "visto": "2026-11-18T18:10:21.950Z",
-   "cats": [
     "politica"
    ],
    "local": true
