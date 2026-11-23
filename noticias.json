@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T23:20:23.249Z",
+ "generado": "2026-11-23T23:30:24.531Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -1439,6 +1439,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
+   "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
+   "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/claudia-guzman-directora-forbes-chile.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T15:00:00.000Z",
+   "visto": "2026-11-23T23:30:24.531Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/22/dos-muertos-deja-un-accidente-de-transito-en-el-ingreso-sur-de-canete",
    "titulo": "Accidente en el acceso sur de Cañete deja dos fallecidos tras choque de un vehículo contra un árbol",
    "resumen": "Un accidente de tránsito dejó dos personas fallecidas la mañana de este domingo en el acceso sur a Cañete. El hecho ocurrió en el sector de Santa Rosa, en la Ruta P60 R, a cerca de 3 kilómetros del área urbana. Por motivos que se encuentran bajo…",
@@ -1485,20 +1499,6 @@
    "titulo": "Confirman la presencia de fragata portuguesa en Coronel, la tercera comuna afectada del Biobío",
    "resumen": "La Capitanía de Puerto confirmó la detección de fragata portuguesa en caleta Maule, comuna de Coronel. El ejemplar fue avistado durante una inspección en terreno efectuada por la Policía Marítima, que ya coordinó las acciones pertinentes con la autoridad…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detectan-fragata-portuguesa-en-caleta-de-coronel-es-la-tercera-comuna-afectada-en-el-bio-bio.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T10:50:19.516Z",
-   "visto": "2026-11-22T10:50:19.516Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/navidad-con-sentido-inician-campana-solidaria-en-lota-para-regalar-cenas-navidenas",
-   "titulo": "Lota lanza campaña solidaria para entregar cenas navideñas con sentido",
-   "resumen": "Un equipo de voluntarios de la comuna de Lota desarrolla el proyecto “Navidad con Sentido Lota 2026”, una iniciativa destinada a ofrecer una cena navideña a personas de la localidad minera afectadas por inundaciones, cesantía o enfermedades. La propuesta…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cena-navidena.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-22T10:50:19.516Z",
