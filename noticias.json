@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T15:30:24.736Z",
+ "generado": "2026-11-23T15:40:23.007Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 55,
+    "enlaces": 154,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -82,14 +82,28 @@
  ],
  "items": [
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
-   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/23/tu-futuro-empieza-aqui-descubre-tu-carrera-y-encuentra-tu-camino-profesional-en-la-udec.html",
+   "titulo": "Tu futuro empieza aquí: descubre tu carrera y encuentra tu camino profesional en la UdeC",
    "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Vista-aerea-UdeC-Campus-N-01-2048x1536.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T15:30:24.736Z",
-   "visto": "2026-11-23T15:30:24.736Z",
+   "fecha": "2026-11-23T15:40:23.007Z",
+   "visto": "2026-11-23T15:40:23.007Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/talcahuano-reconoce-a-los-bunkers-como-vecinos-ilustres-en-los-premios-municipales-2026/",
+   "titulo": "Talcahuano reconoce a Los Bunkers como Vecinos Ilustres en los Premios Municipales 2026",
+   "resumen": "En una ceremonia realizada en el Teatro Dante, la Municipalidad […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/foto-banda-rojo-768x522.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-23T15:36:26.000Z",
+   "visto": "2026-11-23T15:40:23.007Z",
    "cats": [
     "regional"
    ],
@@ -100,6 +114,20 @@
    "titulo": "Formalización y financiamiento: los desafíos de 42 emprendedoras de Los Álamos",
    "resumen": "Marketing digital, formalización y financiamiento fueron parte de la capacitación.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/Academia-de-Mujeres-Empresarias-impulsa-el-desarrollo-de-42-emprendedoras-en-Los-A%CC%81lamos.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T15:30:24.736Z",
+   "visto": "2026-11-23T15:30:24.736Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
+   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T15:30:24.736Z",
@@ -1593,20 +1621,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/presencia-de-fragata-portuguesa-obliga-a-prohibir-ingreso-al-agua-en-playa-lenga-de-hualpen.shtml",
-   "titulo": "Presencia de fragata portuguesa obliga a prohibir ingreso al agua en playa Lenga de Hualpén",
-   "resumen": "La Seremi de Salud del Bío Bío decretó este viernes la prohibición de ingresar al agua para bañarse y realizar...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027282-bbcl-1-22.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-20T20:47:45.000Z",
-   "visto": "2026-11-20T20:50:18.728Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/20/diputados-cuestionan-renuncias-no-ratificadas-de-autoridades-en-el-biobio-acusan-falta-de-seriedad-y-compromiso-politico",
    "titulo": "Diputados cuestionan renuncias no ratificadas de autoridades en el Biobío: acusan falta de seriedad y compromiso político",
    "resumen": "Las renuncias de la seremi de Salud, Isabel Rojas, y de la directora regional del Senama, Antaris Varela, generaron críticas entre parlamentarios oficialistas y de oposición. Mientras el Partido Cristiano de Chile anunció una reunión para evaluar la…",
@@ -2568,21 +2582,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/diversos-gremios-participan-en-manifestacion-en-plaza-de-la-independencia-penquista-contra-el-gobierno",
-   "titulo": "Gremios se manifiestan en la Plaza de la Independencia de Concepción contra el Gobierno",
-   "resumen": "Representantes de distintos gremios se congregaron este miércoles por la mañana en la Plaza de la Independencia de Concepción, región del Bío Bío, para manifestarse contra el Gobierno y el presupuesto 2027. En la movilización están presentes la CUT, la Fenapo…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T15:40:24.563Z",
-   "visto": "2026-11-18T15:40:24.563Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
