@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T21:50:20.506Z",
+ "generado": "2026-11-23T22:00:25.857Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/llegada-de-alvarado-al-bio-bio-genera-expectacion-por-posible-anuncio-del-nuevo-delegado-presidencial",
+   "titulo": "La llegada de Alvarado al Bío Bío despierta expectativas ante un posible anuncio del nuevo delegado presidencial",
+   "resumen": "La visita del biministro Claudio Alvarado a la región del Bío Bío ha despertado expectativas, pues se especula que podría dar a conocer quién será el nuevo delegado presidencial, luego de la renuncia de Julio Anativia, ocurrida el 30 de octubre. El secretario…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/captura-de-pantalla-1-2.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T22:00:25.857Z",
+   "visto": "2026-11-23T22:00:25.857Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/exportaciones-forestales-biobio-septiembre-2026.html",
    "titulo": "Exportaciones forestales del Biobío superaron los US$217 millones en septiembre",
@@ -394,7 +409,7 @@
   },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/abren-el-paso-picachen-y-proyectan-finalizar-nuevo-complejo-fronterizo-en-marzo/",
-   "titulo": "Abren el Paso Picachén y proyectan finalizar nuevo complejo fronterizo en marzo",
+   "titulo": "Abren el Paso Pichachén y proyectan finalizar nuevo complejo fronterizo en marzo",
    "resumen": "La habilitación del principal paso fronterizo cordillerano de la Región permitirá fortalecer el intercambio turístico y económico con Argentina. En paralelo, las obras del nuevo inmueble presentan un alto nivel de avance y deberán estar concluidas, a más…",
    "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/paso-pichachen-biobio--768x428.png",
    "fuente": "El Conquistador",
@@ -714,6 +729,20 @@
    "visto": "2026-11-23T14:30:27.109Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/el-duro-golpe-que-condena-a-fernandez-vial-a-seguir-en-tercera-b/",
+   "titulo": "El duro golpe que condena a Fernández Vial a seguir en Tercera B",
+   "resumen": "Goleado en Santiago y un futuro lleno de dudas.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Foto-Futuro-Fernández-Vial-768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-23T14:05:22.000Z",
+   "visto": "2026-11-23T22:00:25.857Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1533,20 +1562,6 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/22/casonas-historicas-tome-monumentos-nacionales.html",
-   "titulo": "Declaratoria pendiente en Monumentos Nacionales: ciudadanía de Tomé busca proteger sus casonas históricas",
-   "resumen": "Organizaciones y vecinos advierten sobre la pérdida de construcciones que forman parte de la historia comunal llaman a fortalecer las acciones para su conservación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casona.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
