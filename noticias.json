@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T17:30:25.980Z",
+ "generado": "2026-11-23T17:40:21.893Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/amplian-quiero-mi-barrio-lord-cochrane-penco.html",
+   "titulo": "Amplían cobertura de Quiero Mi Barrio en Penco a 1.100 viviendas tras incendios de enero",
+   "resumen": "Las primeras faenas contemplan recambio de luminarias, cámaras en los accesos y mejoras en las rutas de evacuación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/amplian-quiero-mi-barrio-lord-cochrane-penco-1-e1795455237535.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T17:40:21.893Z",
+   "visto": "2026-11-23T17:40:21.893Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cortes-de-agua-luz-san-pedro-de-la-paz.html",
    "titulo": "San Pedro de la Paz: programan cortes de agua y luz para esta semana",
@@ -295,10 +309,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
-   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/42-mujeres-capacitacion-emprendimientos-los-alamos.html",
+   "titulo": "Formalización y financiamiento: los desafíos de 42 emprendedoras de Los Álamos",
+   "resumen": "Marketing digital, formalización y financiamiento fueron parte de la capacitación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Academia-de-Mujeres-Empresarias-impulsa-el-desarrollo-de-42-emprendedoras-en-Los-A%CC%81lamos.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T15:30:24.736Z",
@@ -309,10 +323,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/42-mujeres-capacitacion-emprendimientos-los-alamos.html",
-   "titulo": "Formalización y financiamiento: los desafíos de 42 emprendedoras de Los Álamos",
-   "resumen": "Marketing digital, formalización y financiamiento fueron parte de la capacitación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Academia-de-Mujeres-Empresarias-impulsa-el-desarrollo-de-42-emprendedoras-en-Los-A%CC%81lamos.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
+   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T15:30:24.736Z",
@@ -522,10 +536,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
-   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
-   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/estudio-chorlo-campo-isla-santa-maria-fondo-internacional.html",
+   "titulo": "Fondo internacional financiará estudio sobre el chorlo de campo en la Isla Santa María",
+   "resumen": "La iniciativa liderada obtuvo US$3.000 del programa Pequeños Fondos Manomet para investigar durante 22 meses los movimientos y la ecología de invernada de esta ave migratoria",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-16.03.05.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
@@ -536,10 +550,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/estudio-chorlo-campo-isla-santa-maria-fondo-internacional.html",
-   "titulo": "Fondo internacional financiará estudio sobre el chorlo de campo en la Isla Santa María",
-   "resumen": "La iniciativa liderada obtuvo US$3.000 del programa Pequeños Fondos Manomet para investigar durante 22 meses los movimientos y la ecología de invernada de esta ave migratoria",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-16.03.05.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
+   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
+   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
@@ -1467,20 +1481,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/la-vega-sistema-aguas-lluvia-inundaciones.html",
-   "titulo": "Inundaciones en calle La Vega: prevén licitar en 2027 estudios para el sistema de aguas lluvia",
-   "resumen": "Residentes de este sector de Talcahuano exigen acelerar el proceso que ponga término a los anegamientos de cada jornada de precipitaciones. Exigen mesa técnica entre todos los actores correspondientes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-calle-la-vega-foto-isidoro.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T15:00:00.000Z",
-   "visto": "2026-11-23T17:20:20.521Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/21/corma-expocorma-2026-balance-positivo-industria.html",
    "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
    "resumen": "El presidente nacional del gremio, Rodrigo O’Ryan, valoró la invitación del gobernador regional Sergio Giacaman para trabajar junto al mundo público y la academia de cara a los Juegos Odesur 2030, en un evento que convocó a decenas de empresas y proveedores.",
@@ -1509,6 +1509,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/la-vega-sistema-aguas-lluvia-inundaciones.html",
+   "titulo": "Inundaciones en calle La Vega: prevén licitar en 2027 estudios para el sistema de aguas lluvia",
+   "resumen": "Residentes de este sector de Talcahuano exigen acelerar el proceso que ponga término a los anegamientos de cada jornada de precipitaciones. Exigen mesa técnica entre todos los actores correspondientes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-calle-la-vega-foto-isidoro.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T15:00:00.000Z",
+   "visto": "2026-11-23T17:20:20.521Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/centralismo-y-violencia-digital-los-desafios-que-enfrenta-el-periodismo.html",
    "titulo": "Centralismo y violencia digital: los desafíos que enfrenta el periodismo",
    "resumen": "Directivos de medios analizaron el papel de las comunicaciones y la prensa fuera de Santiago.",
@@ -1531,20 +1545,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-21T14:11:40.000Z",
    "visto": "2026-11-21T14:20:21.248Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/21/15-anos-de-carcel-a-venezolano-por-crimen-de-colombiano-que-fue-hallado-mutilado-en-talcahuano",
-   "titulo": "Venezolano recibe 15 años de prisión por el asesinato de un colombiano hallado mutilado en Talcahuano",
-   "resumen": "El Tribunal Oral de Concepción condenó a 15 años de prisión a un ciudadano venezolano, por su responsabilidad en el brutal asesinato de un colombiano cuyo cuerpo mutilado fue hallado dentro de un automóvil en el camino hacia la caleta Chome. El crimen salió a…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/15-anos-de-carcel-a-venezolano-por-crimen-de-colombiano-que-fue-hallado-mutilado-en-talcahuano.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-21T14:00:27.809Z",
-   "visto": "2026-11-21T14:00:27.809Z",
    "cats": [
     "regional"
    ],
