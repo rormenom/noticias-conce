@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-23T04:20:19.293Z",
+ "generado": "2026-11-23T04:30:28.219Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -62,9 +61,10 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 60,
-    "errores": 0,
-    "robots": 0
+    "leidas": 54,
+    "errores": 6,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/medio-ambiente-cyt/2026/11/21/proyecto-chileno-permite-darle-segunda-vida-a-los-paneles-solares-y-se-presenta-en-la-cop31.shtml)"
    }
   },
   {
