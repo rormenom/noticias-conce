@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T11:30:26.278Z",
+ "generado": "2026-11-23T11:40:22.945Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -261,6 +261,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
    "visto": "2026-11-23T08:40:21.730Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/huachipato-y-deportes-concepcion-no-se-hicieron-dano-en-talcahuano/",
+   "titulo": "Huachipato y Deportes Concepción no se hicieron daño en Talcahuano",
+   "resumen": "El clásico regional terminó 0-0 en el Estadio Huachipato CAP, en un encuentro marcado por el penal que Nicolás Araya le contuvo a Lionel Altamirano y la expulsión de Fausto Grillo.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/empate-huachipato-vs-deportes-concepcion--768x576.avif",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-23T08:00:16.000Z",
+   "visto": "2026-11-23T11:40:22.945Z",
    "cats": [
     "deportes"
    ],
