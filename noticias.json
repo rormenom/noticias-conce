@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T18:40:20.395Z",
+ "generado": "2026-11-23T18:50:20.275Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
+    "enlaces": 57,
     "leidas": 1,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 148,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/recorrido-carnaval-talcahuano-2026.html",
+   "titulo": "Comienza este domingo: conoce el recorrido del Carnaval de Talcahuano 2026",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2023/01/carnaval-de-talcahuano.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T18:50:20.275Z",
+   "visto": "2026-11-23T18:50:20.275Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/morados-y-acereros-quien-gano-con-el-empate-en-cap.html",
    "titulo": "Morados y acereros: ¿Quién ganó con el empate en CAP?",
@@ -1523,20 +1537,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/9-menores-afectados-por-gas-pimienta-en-escuela-rural-de-los-angeles-2-lo-habrian-activado.shtml",
-   "titulo": "9 menores afectados por gas pimienta en escuela rural de Los Ángeles: 2 lo habrían activado",
-   "resumen": "Nueve estudiantes de la escuela rural Las Parcelas, en Los Ángeles, región del Bío Bío, resultaron...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027687-9-alumnos-fueron-afectados-por-gas-pimienta-en-escuela-rural-de-los-angeles_-2-lo-habrian-activado-1.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-21T15:04:34.000Z",
-   "visto": "2026-11-21T15:10:21.820Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/colista-absoluto-la-udec-cayo-contra-nublense-y-esta-con-un-pie-en-la-b.html",
    "titulo": "Colista absoluto: La UdeC cayó contra Ñublense y está con un pie en la B",
    "resumen": "La Universidad de Concepción cayó de local contra los Diablos Rojos y ya derechamente necesita un milagro para no perder la categoría.",
@@ -2583,21 +2583,6 @@
    "visto": "2026-11-18T20:20:22.983Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/mas-de-8-mil-ninos-de-los-angeles-recibiran-juguetes-para-navidad-municipio-destinara-casi-60-millones",
-   "titulo": "Más de 8 mil niños de Los Ángeles recibirán juguetes para Navidad: municipio destinará casi $60 millones",
-   "resumen": "El Concejo Municipal de Los Ángeles aprobó una licitación por cerca de $60 millones para la adquisición de juguetes navideños que serán entregados a más de 8 mil niños y niñas de la comuna, beneficiando a establecimientos educacionales, jardines infantiles y…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/IMG-20260903-WA0016-e1795027696747.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T18:50:21.243Z",
-   "visto": "2026-11-18T18:50:21.243Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
