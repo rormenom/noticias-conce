@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T13:40:22.277Z",
+ "generado": "2026-11-23T13:50:20.242Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 11,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/postulaciones-finalizan-hoy-si-vives-en-una-de-estas-19-comunas-accede-a-un-aire-acondicionado",
+   "titulo": "Hoy vence el plazo para solicitar un aire acondicionado en 19 comunas del país: incluyen todas las del Gran Concepción",
+   "resumen": "El Ministerio del Medio Ambiente tiene abiertas las postulaciones al Programa de Recambio de Calefactores, que ayuda a las familias a sustituir sus antiguos artefactos a leña por equipos más eficientes y menos contaminantes. El beneficio puede representar un…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/recambio-de-calefactores-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T13:50:20.242Z",
+   "visto": "2026-11-23T13:50:20.242Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/acusan-al-partido-cristiano-de-chantajear-a-kast-con-las-cartas-de-renuncia-de-autoridades-en-bio-bio.shtml",
    "titulo": "Acusan al Partido Cristiano de chantajear a Kast con las cartas de renuncia de autoridades en Bío Bío",
