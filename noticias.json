@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T20:30:31.722Z",
+ "generado": "2026-11-23T20:40:20.349Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 56,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 14,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/hombre-ofrecia-caiman-yacare-por-750-mil-en-hualpen-habria-lanzado-especies-por-wc-al-llegar-la-pdi.shtml",
+   "titulo": "Hombre ofrecía caimán yacaré por $750 mil en Hualpén: Habría lanzado especies por WC al llegar la PDI",
+   "resumen": "La Policía de Investigaciones (PDI) detuvo a un hombre en Hualpén, región del Bío Bío, por su presunta responsabilidad en...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029560-foto-contexto-nota-bbcl-2026-11-23t172653-718.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-23T20:30:46.000Z",
+   "visto": "2026-11-23T20:40:20.349Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/ofrecia-un-caiman-por-750-mil-en-marketplace-pdi-investiga-si-fue-arrojado-por-el-bano-en-hualpen",
    "titulo": "Ofrecía un caimán por $750 mil en Marketplace: PDI investiga si fue arrojado por el baño en Hualpén",
@@ -1546,20 +1560,6 @@
    "visto": "2026-11-21T22:00:25.594Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/21/rescatan-a-pinguino-herido-y-deshidratado-en-playa-bellavista-de-tome",
-   "titulo": "Un pingüino herido y deshidratado recibe ayuda tras ser hallado en playa Bellavista de Tomé",
-   "resumen": "Un pingüino de Magallanes fue encontrado herido y rescatado en la playa Bellavista, en la comuna de Tomé, región del Bío Bío. Vecinos que recorrían la costa dieron aviso tras advertir que el ave presentaba lesiones. Luego de recibir el llamado a Sernapesca,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/rescatan-a-pinguino-herido-y-deshidratado-en-playa-bellavista-de-tome.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-21T19:50:23.700Z",
-   "visto": "2026-11-21T19:50:23.700Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
