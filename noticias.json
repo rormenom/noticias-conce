@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T18:20:28.522Z",
+ "generado": "2026-11-23T18:30:25.105Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -59,9 +59,9 @@
    "url": "https://www.biobiochile.cl/",
    "ok": true,
    "diag": {
-    "paginas": 3,
-    "enlaces": 137,
-    "leidas": 57,
+    "paginas": 4,
+    "enlaces": 151,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/fiscalia-tiene-linea-de-indagacion-mas-precisa-sobre-robo-de-8-500-millones-desde-banco-en-concepcion.shtml",
+   "titulo": "Fiscalía tiene línea de indagación más precisa sobre robo de $8.500 millones desde banco en Concepción",
+   "resumen": "La Fiscalía tiene una línea de investigación más precisa sobre el millonario robo de $8.500 millones al Banco BCI hace...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029311-robo-banco-concepcion-4.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-23T18:29:06.000Z",
+   "visto": "2026-11-23T18:30:25.105Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/andan-robando-tanto-acusan-robo-de-letras-adornos-y-estatuas-en-cementerio-general-de-concepcion",
    "titulo": "Denuncian el robo de letras, adornos y estatuas en el Cementerio General de Concepción",
@@ -1519,20 +1533,6 @@
    "visto": "2026-11-22T02:00:27.509Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/21/corma-expocorma-2026-balance-positivo-industria.html",
-   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
-   "resumen": "El presidente nacional del gremio, Rodrigo O’Ryan, valoró la invitación del gobernador regional Sergio Giacaman para trabajar junto al mundo público y la academia de cara a los Juegos Odesur 2030, en un evento que convocó a decenas de empresas y proveedores.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T15:00:00.000Z",
-   "visto": "2026-11-23T17:00:28.136Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
