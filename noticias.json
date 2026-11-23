@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T14:00:31.346Z",
+ "generado": "2026-11-23T14:30:27.109Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/forado-en-la-pared-y-camaras-cortadas-millonario-robo-a-ferreteria-en-pleno-centro-de-concepcion",
+   "titulo": "Forado en la pared y cámaras cortadas: millonario robo a ferretería en pleno centro de Concepción",
+   "resumen": "Un robo avaluado preliminarmente entre 10 y 20 millones de pesos afectó durante la tarde del domingo 22 de noviembre a la ferretería Ríos y Ríos, ubicada en calle Maipú, en pleno centro de Concepción. El hecho ocurrió a plena luz del día, entre las 16:00 y…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/FERRETERIA-e1795443557270.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T14:30:27.109Z",
+   "visto": "2026-11-23T14:30:27.109Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/postulaciones-finalizan-hoy-si-vives-en-una-de-estas-19-comunas-accede-a-un-aire-acondicionado",
    "titulo": "Hoy vence el plazo para solicitar un aire acondicionado en 19 comunas del país: incluyen todas las del Gran Concepción",
@@ -1571,20 +1585,6 @@
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/megaincendio-santa-ana.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
-   "fecha": "2026-11-20T18:20:20.581Z",
-   "visto": "2026-11-20T18:20:20.581Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/los-bunkers-vecinos-ilustres-talcahuano.html",
-   "titulo": "Los Bunkers son reconocidos como Vecinos Ilustres de Talcahuano",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2025/07/Fan%C3%A1ticos-aplauden-el-regreso-ac%C3%BAstico-de-Los-Bunkers-con-11-funciones-agotadas-en-Concepci%C3%B3n-e1751667056177.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-20T18:20:20.581Z",
    "visto": "2026-11-20T18:20:20.581Z",
    "cats": [
