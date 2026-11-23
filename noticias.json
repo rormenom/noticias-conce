@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T11:50:24.660Z",
+ "generado": "2026-11-23T12:00:29.493Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -317,6 +317,20 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-23T07:12:47.000Z",
    "visto": "2026-11-23T11:20:25.046Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/mop-confirma-para-enero-de-2027-inicio-de-la-pavimentacion-de-14-kilometros-en-cuatro-caminos-rurales-de-bulnes/",
+   "titulo": "MOP confirma inicio de pavimentación de 14 kilómetros en cuatro caminos rurales de Bulnes",
+   "resumen": "Para enero de 2027.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/mop-pavimentacion-nuble--768x432.avif",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-23T06:47:39.000Z",
+   "visto": "2026-11-23T12:00:29.493Z",
    "cats": [
     "regional"
    ],
@@ -1562,20 +1576,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/fatal-incendio-en-santa-ana-fiscalia-pide-5-anos-de-carcel-para-contratista-y-supervisor-de-coelcha.shtml",
-   "titulo": "Fatal incendio en Santa Ana: Fiscalía pide 5 años de cárcel para contratista y supervisor de Coelcha",
-   "resumen": "La Fiscalía presentó la acusación por el devastador y mortal incendio registrado en febrero de 2023 en Santa Ana, que...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7026972-megaincendio-santa-ana.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-20T18:02:30.000Z",
-   "visto": "2026-11-20T18:10:26.529Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
