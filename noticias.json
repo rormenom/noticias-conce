@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T20:00:27.885Z",
+ "generado": "2026-11-23T20:20:21.619Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 57,
+    "enlaces": 150,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,55 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/obras-mercado-talcahuano-7-por-ciento-avance.html",
+   "titulo": "Reconstrucción del Mercado de Talcahuano lleva 7% de avance tras 62 días de faenas y llegará a 100 operarios en marzo",
+   "resumen": "A 62 días del comienzo de las faenas el pasado 21 de septiembre, los trabajos se concentran en el mejoramiento de terreno mediante perforaciones a 15 metros de profundidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/obras-mercado-talcahuano-7-por-ciento-avance.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T20:20:21.619Z",
+   "visto": "2026-11-23T20:20:21.619Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/adultos-mayores-vacunacion-neumococo-chile.html",
+   "titulo": "Seis de cada diez adultos mayores en Chile no están vacunados contra el neumococo",
+   "resumen": "Los casos de enfermedades neumocócicas invasivas pasaron de 400 a 773 en tres años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-23-at-4.54.26-PM-e1795465116989.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T20:20:21.619Z",
+   "visto": "2026-11-23T20:20:21.619Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/23/gobierno-asegura-que-hay-plena-afinidad-con-el-partido-cristiano-tras-amago-de-renuncias-en-bio-bio.shtml",
+   "titulo": "Gobierno asegura que hay \"plena afinidad\" con el Partido Cristiano tras amago de renuncias en Bío Bío",
+   "resumen": "El subsecretario general de Gobierno, Gonzalo Arenas, aseguró que existe una “plena afinidad” entre el Ejecutivo y el Partido...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029332-gobierno-asegura-que-hay-_plena-afinidad_-con-el-partido-cristiano-tras-amago-de-renuncias-en-bio-bio.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-23T20:15:11.000Z",
+   "visto": "2026-11-23T20:20:21.619Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/ucsc-proclama-nueva-federacion-de-estudiantes-lista-avanzar-liderara-organizacion-durante-2026-2027",
    "titulo": "UCSC proclama nueva Federación de Estudiantes: lista “Avanzar” liderará organización durante 2026-2027",
@@ -1523,20 +1565,6 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/centralismo-y-violencia-digital-los-retos-que-enfrenta-el-periodismo.html",
-   "titulo": "Centralismo y violencia digital: los retos que enfrenta el periodismo",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina-850x500.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-21T17:50:23.854Z",
-   "visto": "2026-11-21T17:50:23.854Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/21/visita-del-ministro-alvarado-reaviva-expectativas-por-nombramiento-de-un-delegado-titular-en-biobio.html",
    "titulo": "Visita del ministro Alvarado reaviva expectativas por nombramiento de un delegado titular en Biobío",
    "resumen": "",
@@ -2555,49 +2583,6 @@
    "cats": [
     "deportes",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/biobio-juegos-odesur-2030.html",
-   "titulo": "Hito para el deporte: Biobío recibirá los Juegos Odesur 2030",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-5-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T20:20:22.983Z",
-   "visto": "2026-11-18T20:20:22.983Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/18/biobio-sera-la-sede-de-la-xiv-edicion-de-los-juegos-suramericanos-en-2030/",
-   "titulo": "Biobío será la sede de la XIV edición de los Juegos Suramericanos en 2030",
-   "resumen": "Oficial: La noticia fue comunicada de manera telemática por el presidente de Odesur, Mario Mocca.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/odesur-biobio-2030-768x432.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-18T20:18:27.000Z",
-   "visto": "2026-11-18T22:10:28.447Z",
-   "cats": [
-    "deportes",
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/18/juegos-odesur-2030-region-del-biobio-sera-sede.shtml",
-   "titulo": "Del sueño a la realidad: Odesur oficializa al Bío Bío como sede de los Juegos Suramericanos 2030",
-   "resumen": "La región del Bío Bío fue confirmada como sede de los Juegos Suramericanos (Odesur) 2030.\nEste miércoles, la Organización Deportiva Sudamericana...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023909-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-18T20:14:53.000Z",
-   "visto": "2026-11-18T20:20:22.983Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
