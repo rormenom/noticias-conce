@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T01:50:25.826Z",
+ "generado": "2026-11-23T02:00:25.740Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,10 +61,9 @@
    "diag": {
     "paginas": 4,
     "enlaces": 158,
-    "leidas": 59,
-    "errores": 1,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/chile/2026/11/22/cadem-ministro-rabat-es-el-peor-evaluado-del-gabinete-del-presidente-kast-con-un-24-de-aprobacion.shtml)"
+    "leidas": 60,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -82,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/mujer-muere-tras-sufrir-paro-cardiorrespiratorio-en-restaurante-de-caleta-lenga.shtml",
+   "titulo": "Mujer muere tras sufrir paro cardiorrespiratorio en restaurante de Caleta Lenga",
+   "resumen": "Una mujer falleció tras sufrir un paro cardiorrespiratorio al interior del restaurante La Barca, reconocido local ubicado...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028487-restore-mujer-muere-tras-sufrir-paro-cardiorrespiratorio-en-restaurante-de-caleta-lenga-1200x633.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-23T01:55:21.000Z",
+   "visto": "2026-11-23T02:00:25.740Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
    "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
@@ -860,20 +873,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/colista-absoluto-la-udec-cayo-contra-nublense-y-esta-con-un-pie-en-la-b.html",
-   "titulo": "Colista absoluto: La UdeC cayó contra Ñublense y está con un pie en la B",
-   "resumen": "La Universidad de Concepción cayó de local contra los Diablos Rojos y ya derechamente necesita un milagro para no perder la categoría.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/%C3%91ublense-vs-UDeC-%C3%91ublense.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T15:00:00.000Z",
-   "visto": "2026-11-22T02:00:27.509Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/pesadilla-aurinegra-fernandez-vial-fue-goleado-por-puente-alto-y-se-farreo-el-ascenso.html",
    "titulo": "Pesadilla aurinegra: Fernández Vial fue goleado por Puente Alto y se farreó el ascenso",
    "resumen": "Los de José Zapata tenían que ganar o empatar para subir de categoría. En lugar de eso, se vuelven de Santiago con un 1-5 en contra que los condenará a otro año en Tercera B.",
@@ -882,6 +881,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T15:00:00.000Z",
    "visto": "2026-11-22T00:50:21.258Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/colista-absoluto-la-udec-cayo-contra-nublense-y-esta-con-un-pie-en-la-b.html",
+   "titulo": "Colista absoluto: La UdeC cayó contra Ñublense y está con un pie en la B",
+   "resumen": "La Universidad de Concepción cayó de local contra los Diablos Rojos y ya derechamente necesita un milagro para no perder la categoría.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/%C3%91ublense-vs-UDeC-%C3%91ublense.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T15:00:00.000Z",
+   "visto": "2026-11-22T02:00:27.509Z",
    "cats": [
     "deportes"
    ],
@@ -1534,20 +1547,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-20T14:20:25.154Z",
    "visto": "2026-11-20T14:20:25.154Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/sin-grandes-obras-a-la-vista-advierten-estancamiento-de-proyectos-de-infraestructura-en-bio-bio.shtml",
-   "titulo": "Sin grandes obras a la vista: advierten estancamiento de proyectos de infraestructura en Bío Bío",
-   "resumen": "Faltan proyectos transformadores para la región del Bío Bío porque, una vez terminadas obras como el Puente...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7026352-agenciauno-50.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-20T14:04:41.000Z",
-   "visto": "2026-11-20T14:10:22.761Z",
    "cats": [
     "regional"
    ],
