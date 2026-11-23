@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T18:30:25.105Z",
+ "generado": "2026-11-23T18:40:20.395Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 58,
+    "enlaces": 150,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/morados-y-acereros-quien-gano-con-el-empate-en-cap.html",
+   "titulo": "Morados y acereros: ¿Quién ganó con el empate en CAP?",
+   "resumen": "Técnicos Fernando Díaz y Jaime García se refirieron al 0-0 en el puerto que dejó a Deportes Concepción a un punto de copas internacionales y a Huachipato en el puesto 11 de la tabla.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/conce-huachipato-e1795458378706.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T18:40:20.395Z",
+   "visto": "2026-11-23T18:40:20.395Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/fiscalia-tiene-linea-de-indagacion-mas-precisa-sobre-robo-de-8-500-millones-desde-banco-en-concepcion.shtml",
    "titulo": "Fiscalía tiene línea de indagación más precisa sobre robo de $8.500 millones desde banco en Concepción",
@@ -1870,20 +1884,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/20/los-lugares-que-asoman-como-fijos-para-recibir-deportes-en-los-odesur-2030.html",
-   "titulo": "Los lugares que asoman como fijos para recibir deportes en los Odesur 2030",
-   "resumen": "Con la reciente confirmación de los Juegos en el Bíobío, ahora falta definir y oficializar qué recintos se ocuparán para cada disciplina, aunque hay algunos que corren con ventaja y fueron parte de la propuesta.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casa-del-deporte.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/chile-gospel-concepcion-vuelve-escenario-inicios-show-coro-y-banda-en-vivo.html",
    "titulo": "Chile Gospel Concepción vuelve al escenario que marcó sus inicios con show de coro y banda en vivo",
    "resumen": "“Gospel Experience” se presentará este sábado 21 de noviembre en el Teatro Marina del Sol, con un recorrido por el góspel tradicional y contemporáneo, tributos a grandes voces de la música popular y una puesta en escena que reunirá a solistas, coro y músicos…",
@@ -1936,6 +1936,20 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/20/los-lugares-que-asoman-como-fijos-para-recibir-deportes-en-los-odesur-2030.html",
+   "titulo": "Los lugares que asoman como fijos para recibir deportes en los Odesur 2030",
+   "resumen": "Con la reciente confirmación de los Juegos en el Bíobío, ahora falta definir y oficializar qué recintos se ocuparán para cada disciplina, aunque hay algunos que corren con ventaja y fueron parte de la propuesta.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casa-del-deporte.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
