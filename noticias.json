@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T13:00:28.484Z",
+ "generado": "2026-11-23T13:20:21.603Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 58,
+    "enlaces": 158,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -225,20 +225,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/carlos-pena-critica-gestion-kast-renuncias-gobierno-prensa-regional.html",
-   "titulo": "“La política es un arte de hipocresía”: Carlos Peña aborda el homenaje a Ho Chi Minh y las renuncias en el Gobierno",
-   "resumen": "El rector de la UDP analizó la gestión de Kast, las dificultades para conformar equipos de Gobierno, la relación entre política y ejercicio del poder, y el papel de los medios regionales en la construcción de una opinión pública informada.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.04.21.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T08:40:21.730Z",
-   "visto": "2026-11-23T08:40:21.730Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/estudio-chorlo-campo-isla-santa-maria-fondo-internacional.html",
    "titulo": "Fondo internacional financiará estudio sobre el chorlo de campo en la Isla Santa María",
    "resumen": "La iniciativa liderada obtuvo US$3.000 del programa Pequeños Fondos Manomet para investigar durante 22 meses los movimientos y la ecología de invernada de esta ave migratoria",
@@ -249,6 +235,20 @@
    "visto": "2026-11-23T08:40:21.730Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/carlos-pena-critica-gestion-kast-renuncias-gobierno-prensa-regional.html",
+   "titulo": "“La política es un arte de hipocresía”: Carlos Peña aborda el homenaje a Ho Chi Minh y las renuncias en el Gobierno",
+   "resumen": "El rector de la UDP analizó la gestión de Kast, las dificultades para conformar equipos de Gobierno, la relación entre política y ejercicio del poder, y el papel de los medios regionales en la construcción de una opinión pública informada.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.04.21.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T08:40:21.730Z",
+   "visto": "2026-11-23T08:40:21.730Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
