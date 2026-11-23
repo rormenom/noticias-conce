@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T14:50:21.148Z",
+ "generado": "2026-11-23T15:10:28.161Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,10 +60,11 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 58,
-    "errores": 0,
-    "robots": 0
+    "enlaces": 153,
+    "leidas": 57,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/chile/2026/11/23/abogado-de-rabat-niega-que-mintiera-y-sugiere-presion-sobre-jueces-que-cambiaron-votos-en-rebajas.shtml)"
    }
   },
   {
@@ -81,6 +82,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/impulso-lector-2026-evaluacion-se-aplicara-por-primera-vez-a-estudiantes-de-2-basico/",
+   "titulo": "Impulso Lector 2026: evaluación se aplicará por primera vez a estudiantes de 2° básico",
+   "resumen": "Con una participación que contempla a más de 278.000 estudiantes […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/IMG_5634.JPG-768x432.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-23T15:08:05.000Z",
+   "visto": "2026-11-23T15:10:28.161Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/forado-en-la-pared-y-camaras-cortadas-millonario-robo-a-ferreteria-en-pleno-centro-de-concepcion",
    "titulo": "Forado en la pared y cámaras cortadas: millonario robo a ferretería en pleno centro de Concepción",
@@ -253,10 +268,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/biobio-registra-7-644-nuevos-ocupados-mayores-de-55-anos-pero-persisten-dificultades-para-encontrar-trabajo.html",
-   "titulo": "Biobío registra 7.644 nuevos ocupados mayores de 55 años, pero persisten dificultades para encontrar trabajo",
-   "resumen": "SENCE informó que más del 94% de los cupos de Experiencia Mayor ya fueron adjudicados.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-17.23.13.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
+   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
+   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
@@ -267,10 +282,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
-   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
-   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/biobio-registra-7-644-nuevos-ocupados-mayores-de-55-anos-pero-persisten-dificultades-para-encontrar-trabajo.html",
+   "titulo": "Biobío registra 7.644 nuevos ocupados mayores de 55 años, pero persisten dificultades para encontrar trabajo",
+   "resumen": "SENCE informó que más del 94% de los cupos de Experiencia Mayor ya fueron adjudicados.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-17.23.13.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
@@ -1573,20 +1588,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-20T19:00:32.533Z",
    "visto": "2026-11-20T19:00:32.533Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/fatal-incendio-en-santa-ana-fiscalia-pide-5-anos-de-carcel-para-contratista-y-supervisor-de-coelcha",
-   "titulo": "Fiscalía solicita cinco años de prisión para contratista y supervisor de Coelcha por incendio en Santa Ana",
-   "resumen": "La Fiscalía formuló cargos por el fatal incendio ocurrido en febrero de 2023 en Santa Ana, que arrasó con las comunas de Nacimiento y Santa Juana, y pidió cinco años de prisión para los dos acusados relacionados con la empresa eléctrica Coelcha en la región…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/megaincendio-santa-ana.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T18:20:20.581Z",
-   "visto": "2026-11-20T18:20:20.581Z",
    "cats": [
     "regional"
    ],
