@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T09:40:21.389Z",
+ "generado": "2026-11-23T10:40:24.678Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,10 +60,11 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 58,
-    "errores": 0,
-    "robots": 0
+    "enlaces": 160,
+    "leidas": 57,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/23/incendio-de-proporciones-afecta-a-varios-domicilios-en-independencia.shtml)"
    }
   },
   {
@@ -81,6 +82,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/carriel-sur-duplicaria-su-capacidad-de-pasajeros-el-mop-parte-estudio-de-1-245-millones",
+   "titulo": "Carriel Sur duplicaría su capacidad de pasajeros: el MOP parte estudio de $1.245 millones",
+   "resumen": "El aeropuerto Carriel Sur, de Concepción, podría duplicar su capacidad de pasajeros y ampliar su zona de carga. Así lo analizará un estudio de ingeniería que puso en marcha el Ministerio de Obras Públicas (MOP), con una inversión superior a los 1.245 millones…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2019/10/carriel-sur.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T10:40:24.678Z",
+   "visto": "2026-11-23T10:40:24.678Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/caso-convenios-tribunal-reprograma-ahora-la-preparacion-de-juicio-en-arista-mi-hogar-asuncionista.shtml",
+   "titulo": "Caso Convenios: tribunal reprograma ahora la preparación de juicio en arista Mi Hogar Asuncionista",
+   "resumen": "Nuevamente una preparación de juicio en el caso Convenios es reprogramada, ahora en la arista Mi Hogar Asuncionista, tras la...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028595-juzgado-de-garantia-concepcion.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-23T10:40:01.000Z",
+   "visto": "2026-11-23T10:40:24.678Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/politicos-acusan-chantaje-por-renuncias-que-no-se-concretaron-en-salud-y-senama-del-bio-bio",
    "titulo": "Políticos acusan chantaje por renuncias que no se concretaron en Salud y Senama del Bío Bío",
@@ -1548,34 +1577,6 @@
    "cats": [
     "cultura",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/operacion-cofradia-del-golfo-detenidos-droga-arauco.html",
-   "titulo": "Operación “Cofradía del Golfo”: PDI detiene a 22 personas e incauta más de 20 kilos de droga en Arauco",
-   "resumen": "El operativo permitió retirar más de 311 mil dosis de droga avaluadas en más de 313 millones de pesos e incautar más de $22 millones y seis vehículos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/operacion-cofradia-del-golfo-detenidos-droga-arauco-4-e1795191244295.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T16:20:20.355Z",
-   "visto": "2026-11-20T16:20:20.355Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/operacion-cofradia-del-golfo-deja-22-detenidos-y-decomiso-de-drogas-por-313-millones-en-arauco.shtml",
-   "titulo": "Operación \"Cofradía del Golfo\" deja 22 detenidos y decomiso de drogas por $313 millones en Arauco",
-   "resumen": "Un total de 22 personas fueron detenidas en el marco de la operación “Cofradía del Golfo”, procedimiento desarrollado por la...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7026700-bbcl-83.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-20T16:01:40.000Z",
-   "visto": "2026-11-20T16:10:23.596Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
