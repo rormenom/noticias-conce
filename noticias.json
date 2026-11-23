@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T16:10:23.792Z",
+ "generado": "2026-11-23T16:20:21.788Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 58,
+    "enlaces": 156,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/proyectos-de-tierras-raras-generan-rechazo-en-nacimiento-vecinos-advierten-riesgos-ambientales-y-para-la-salud",
+   "titulo": "Proyectos de tierras raras generan rechazo en Nacimiento: vecinos advierten riesgos ambientales y para la salud",
+   "resumen": "La preocupación por el avance de concesiones mineras mantiene en alerta a comunidades rurales de Nacimiento, en la provincia de Biobío. Organizaciones ciudadanas advierten posibles impactos sobre los recursos hídricos, las actividades productivas y la salud…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-23-at-11.19.58-AM-e1795450135769.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T16:20:21.788Z",
+   "visto": "2026-11-23T16:20:21.788Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/23/alejandro-sanz-confirma-concierto-en-concepcion-revisa-cuando-comienza-la-venta-de-entradas.shtml",
    "titulo": "¡Alejandro Sanz confirma concierto en Concepción! Revisa cuándo comienza la venta de entradas",
@@ -1615,20 +1629,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-20T21:29:03.961Z",
    "visto": "2026-11-20T21:29:03.961Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/presencia-de-fragata-portuguesa-obliga-a-prohibir-ingreso-al-agua-en-playa-lenga-de-hualpen",
-   "titulo": "Fragata portuguesa obliga a prohibir el baño en playa Lenga, en Hualpén",
-   "resumen": "La Seremi de Salud del Bío Bío dispuso este viernes la prohibición de bañarse y practicar actividades recreativas o deportivas en el agua en playa Lenga, comuna de Hualpén, luego de confirmarse la presencia de ejemplares de fragata portuguesa. La decisión se…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-1-22.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T21:10:21.292Z",
-   "visto": "2026-11-20T21:10:21.292Z",
    "cats": [
     "regional"
    ],
