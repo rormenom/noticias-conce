@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T09:10:21.222Z",
+ "generado": "2026-11-23T09:30:24.945Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/region-del-bio-bio-cumple-tres-semanas-sin-delegado-presidencial-y-suben-las-presiones-al-gobierno",
+   "titulo": "Región del Bío Bío cumple tres semanas sin delegado presidencial y suben las presiones al Gobierno",
+   "resumen": "La región del Bío Bío completa más de tres semanas sin un delegado presidencial titular, y autoridades locales piden al Gobierno que resuelva pronto el reemplazo. El reclamo llega en la víspera de la visita a la zona del ministro del Interior, Claudio…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/delegacion-presidencial-bio-bio.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T09:30:24.945Z",
+   "visto": "2026-11-23T09:30:24.945Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/mujer-muere-tras-sufrir-paro-cardiorrespiratorio-en-restaurante-de-caleta-lenga",
    "titulo": "Una mujer fallece tras sufrir un paro cardiorrespiratorio en un restaurante de Caleta Lenga",
