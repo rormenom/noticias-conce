@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T01:10:20.010Z",
+ "generado": "2026-11-23T01:50:25.826Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,10 +60,11 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 159,
-    "leidas": 60,
-    "errores": 0,
-    "robots": 0
+    "enlaces": 158,
+    "leidas": 59,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/chile/2026/11/22/cadem-ministro-rabat-es-el-peor-evaluado-del-gabinete-del-presidente-kast-con-un-24-de-aprobacion.shtml)"
    }
   },
   {
@@ -533,20 +534,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
-   "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
-   "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/claudia-guzman-directora-forbes-chile.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
    "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
    "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
@@ -557,6 +544,20 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
+   "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
+   "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/claudia-guzman-directora-forbes-chile.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1682,20 +1683,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/destacando-la-escena-musical-regional-festival-son-del-biobio-desplegara-manana-su-octava-version.html",
-   "titulo": "Destacando la escena musical regional: Festival Son del Biobío desplegará mañana su octava versión",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-TVU.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/chile-gospel-concepcion-vuelve-escenario-inicios-show-coro-y-banda-en-vivo.html",
    "titulo": "Chile Gospel Concepción vuelve al escenario que marcó sus inicios con show de coro y banda en vivo",
    "resumen": "“Gospel Experience” se presentará este sábado 21 de noviembre en el Teatro Marina del Sol, con un recorrido por el góspel tradicional y contemporáneo, tributos a grandes voces de la música popular y una puesta en escena que reunirá a solistas, coro y músicos…",
@@ -1710,10 +1697,24 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/curso-gratis-y-abierto-a-la-comunidad-fomenta-un-consumo-consciente-para-la-sostenibilidad.html",
-   "titulo": "Curso gratis y abierto a la comunidad fomenta un consumo consciente para la sostenibilidad",
-   "resumen": "La iniciativa tiene 2 mil cupos disponibles y estará  vigente hasta el 31 de enero de 2027.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-consumo-conciente-foto-cedida.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/destacando-la-escena-musical-regional-festival-son-del-biobio-desplegara-manana-su-octava-version.html",
+   "titulo": "Destacando la escena musical regional: Festival Son del Biobío desplegará mañana su octava versión",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-TVU.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/habitar-el-cerebro-comunidad-podra-experimentar-y-comprender-como-funciona-el-organo-vital.html",
+   "titulo": "“Habitar el Cerebro”: comunidad podrá experimentar y comprender cómo funciona el órgano vital",
+   "resumen": "Una experiencia lúdica e interactiva y gratuita se ofrecerá este sábado 21 de noviembre en el Cicat UdeC.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-cicat-foto-Natalia-Quiero.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-20T08:40:20.882Z",
@@ -1724,10 +1725,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/habitar-el-cerebro-comunidad-podra-experimentar-y-comprender-como-funciona-el-organo-vital.html",
-   "titulo": "“Habitar el Cerebro”: comunidad podrá experimentar y comprender cómo funciona el órgano vital",
-   "resumen": "Una experiencia lúdica e interactiva y gratuita se ofrecerá este sábado 21 de noviembre en el Cicat UdeC.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-cicat-foto-Natalia-Quiero.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/curso-gratis-y-abierto-a-la-comunidad-fomenta-un-consumo-consciente-para-la-sostenibilidad.html",
+   "titulo": "Curso gratis y abierto a la comunidad fomenta un consumo consciente para la sostenibilidad",
+   "resumen": "La iniciativa tiene 2 mil cupos disponibles y estará  vigente hasta el 31 de enero de 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-consumo-conciente-foto-cedida.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-20T08:40:20.882Z",
