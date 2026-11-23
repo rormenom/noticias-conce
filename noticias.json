@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T19:20:20.402Z",
+ "generado": "2026-11-23T19:40:19.546Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 58,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/la-nona-munoz-me-duele-porque-se-el-esfuerzo-que-se-hizo-para-subir-a-primera.html",
+   "titulo": "La “Nona” Muñoz: “Me duele porque sé el esfuerzo que se hizo para subir a Primera”",
+   "resumen": "Técnico de la UdeC comentó este difícil momento donde perdieron 2-3 en casa ante Ñublense y quedaron últimos en la tabla. Restan solo 2 juegos y están obligados a ganar en La Calera.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/08/Fotos-para-web-5.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T19:40:19.546Z",
+   "visto": "2026-11-23T19:40:19.546Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/pago-electronico-en-micros-del-gran-concepcion-comienza-el-1-de-diciembre-conozca-donde-comprar-y-cargar-la-tarjeta",
+   "titulo": "Pago electrónico en micros del Gran Concepción comienza el 1 de diciembre: conozca dónde comprar y cargar la tarjeta",
+   "resumen": "El nuevo sistema iniciará su marcha blanca el próximo martes, permitiendo pagar el pasaje con tarjetas o efectivo. Además, se habilitarán centros de atención y 490 puntos de venta y recarga en distintos sectores del Gran Concepción. Comenzó la cuenta…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/pago-electronico-tne-1000x528-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T19:40:19.546Z",
+   "visto": "2026-11-23T19:40:19.546Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/homicidios-disminuyen-un-14-en-biobio-autoridades-reportan-76-casos-en-lo-que-va-del-ano",
    "titulo": "Homicidios disminuyen un 14% en Biobío: autoridades reportan 76 casos en lo que va del año",
@@ -167,10 +195,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cge-condona-deudas-electricas-damnificados-penco-lirquen.html",
-   "titulo": "A 10 meses de los incendios: condonan deudas eléctricas hasta mayo a más de 2 mil familias de Penco y Lirquén y repactarán cobros de junio a septiembre",
-   "resumen": "Diez meses después de la emergencia registrada en enero de 2026, autoridades informaron la anulación de saldos previos a mayo, mientras que los consumos entre junio y septiembre se facturarán en cuotas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cge-condona-deudas-electricas-damnificados-penco-lirquen-e1795456767162.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/reabren-paso-pichachen-proyectan-finalizar-obras-del-complejo-fronterizo-pichachen-en-marzo.html",
+   "titulo": "Reabren paso Pichachén: proyectan finalizar obras del Complejo Fronterizo Pichachén en marzo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pag-12-paso-pichachen-foto-cedida.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T18:10:19.858Z",
@@ -181,10 +209,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/reabren-paso-pichachen-proyectan-finalizar-obras-del-complejo-fronterizo-pichachen-en-marzo.html",
-   "titulo": "Reabren paso Pichachén: proyectan finalizar obras del Complejo Fronterizo Pichachén en marzo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pag-12-paso-pichachen-foto-cedida.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cge-condona-deudas-electricas-damnificados-penco-lirquen.html",
+   "titulo": "A 10 meses de los incendios: condonan deudas eléctricas hasta mayo a más de 2 mil familias de Penco y Lirquén y repactarán cobros de junio a septiembre",
+   "resumen": "Diez meses después de la emergencia registrada en enero de 2026, autoridades informaron la anulación de saldos previos a mayo, mientras que los consumos entre junio y septiembre se facturarán en cuotas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cge-condona-deudas-electricas-damnificados-penco-lirquen-e1795456767162.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T18:10:19.858Z",
@@ -1514,20 +1542,6 @@
    "titulo": "Choque frontal de dos camionetas en la ruta Yumbel-Cabrero deja una víctima fatal y un herido grave",
    "resumen": "Una persona falleció y otra sufrió heridas de gravedad tras el choque frontal de dos camionetas en la ruta Yumbel-Cabrero, en la provincia del Bío Bío. Hasta el momento, no se ha encontrado documentación del fallecido en el lugar. El accidente fatal se…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/un-muerto-y-un-herido-grave-deja-choque-frontal-entre-camionetas-en-la-ruta-yumbel-cabrero.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-21T17:00:35.469Z",
-   "visto": "2026-11-21T17:00:35.469Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/21/9-menores-afectados-por-gas-pimienta-en-escuela-rural-de-los-angeles-2-lo-habrian-activado",
-   "titulo": "Dos menores habrían activado gas pimienta y afectado a otros siete en una escuela rural de Los Ángeles",
-   "resumen": "Nueve alumnos de la escuela rural Las Parcelas, en Los Ángeles, región del Bío Bío, se vieron afectados por gas pimienta, lo que provocó una emergencia dentro del establecimiento. Los estudiantes, con edades de 11 a 13 años, recibieron atención en el SAR…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/9-alumnos-fueron-afectados-por-gas-pimienta-en-escuela-rural-de-los-angeles_-2-lo-habrian-activado-1.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-21T17:00:35.469Z",
