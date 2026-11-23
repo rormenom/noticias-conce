@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T08:30:27.872Z",
+ "generado": "2026-11-23T08:40:21.730Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 60,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,76 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/estudio-chorlo-campo-isla-santa-maria-fondo-internacional.html",
+   "titulo": "Fondo internacional financiará estudio sobre el chorlo de campo en la Isla Santa María",
+   "resumen": "La iniciativa liderada obtuvo US$3.000 del programa Pequeños Fondos Manomet para investigar durante 22 meses los movimientos y la ecología de invernada de esta ave migratoria",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-16.03.05.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T08:40:21.730Z",
+   "visto": "2026-11-23T08:40:21.730Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/biobio-registra-7-644-nuevos-ocupados-mayores-de-55-anos-pero-persisten-dificultades-para-encontrar-trabajo.html",
+   "titulo": "Biobío registra 7.644 nuevos ocupados mayores de 55 años, pero persisten dificultades para encontrar trabajo",
+   "resumen": "SENCE informó que más del 94% de los cupos de Experiencia Mayor ya fueron adjudicados.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-17.23.13.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T08:40:21.730Z",
+   "visto": "2026-11-23T08:40:21.730Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
+   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
+   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T08:40:21.730Z",
+   "visto": "2026-11-23T08:40:21.730Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/campeones-despues-de-los-75-mas-vivos-que-nunca-bajo-el-aro.html",
+   "titulo": "Campeones después de los 75: más vivos que nunca bajo el aro",
+   "resumen": "Equipo de Maxiconce es el mejor de Chile por séptima vez. Un ejemplo de amor por el deporte, disciplina, compañerismo y mucho esfuerzo porque ya no trabajan, pero igualmente deben costearse cada viaje.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/maxiconce-75.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T08:40:21.730Z",
+   "visto": "2026-11-23T08:40:21.730Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/carlos-pena-critica-gestion-kast-renuncias-gobierno-prensa-regional.html",
+   "titulo": "“La política es un arte de hipocresía”: Carlos Peña aborda el homenaje a Ho Chi Minh y las renuncias en el Gobierno",
+   "resumen": "El rector de la UDP analizó la gestión de Kast, las dificultades para conformar equipos de Gobierno, la relación entre política y ejercicio del poder, y el papel de los medios regionales en la construcción de una opinión pública informada.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.04.21.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T08:40:21.730Z",
+   "visto": "2026-11-23T08:40:21.730Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/mujer-muere-tras-sufrir-paro-cardiorrespiratorio-en-restaurante-de-caleta-lenga.shtml",
    "titulo": "Mujer muere tras sufrir paro cardiorrespiratorio en restaurante de Caleta Lenga",
@@ -533,76 +603,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
-   "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
-   "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/claudia-guzman-directora-forbes-chile.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/22/subsecretario-agricultura-ley-incendios-forestales.html",
-   "titulo": "Agricultura proyecta veto a ley de incendios para diciembre y anuncia despliegue de 548 brigadistas en el Biobío",
-   "resumen": "La cartera busca cerrar la tramitación normativa incorporando compensaciones por cortafuegos y penas más duras contra la intencionalidad. En paralelo, destacan el rol clave de la región en captura de carbono y preparan una ley de plantaciones para 2027.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Francesco-Venezian-subsecretario-de-Agricultura-foto-minagri.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
-   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
-   "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/22/casonas-historicas-tome-monumentos-nacionales.html",
-   "titulo": "Declaratoria pendiente en Monumentos Nacionales: ciudadanía de Tomé busca proteger sus casonas históricas",
-   "resumen": "Organizaciones y vecinos advierten sobre la pérdida de construcciones que forman parte de la historia comunal llaman a fortalecer las acciones para su conservación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casona.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/poemario-cruza-memoria-identidad-resistencia-nicole-camille-debut-literario-sonata-en-azul-sin-blanco.html",
-   "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
-   "resumen": "La poeta y artista visual tomecina presenta su primer libro, una obra que enlaza la experiencia personal con una mirada crítica sobre las desigualdades, los mandatos de género y la memoria popular. Publicado por Editorial Mujeres de Letras, el poemario cuenta…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Editorial-Mujeres-de-Letras.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/indespa-pesca-artesanal-equipos-viradores-lebu.html",
    "titulo": "45 embarcaciones artesanales de Lebu incorporan viradores eléctricos a sus faenas de extracción de jibia",
    "resumen": "Tecnología financiada por INDESPA sería clave para aliviar la carga física de los tripulantes al recoger de modo mecánico las líneas de pesca y captura, evitando lesiones y fatiga.",
@@ -628,6 +628,76 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/22/casonas-historicas-tome-monumentos-nacionales.html",
+   "titulo": "Declaratoria pendiente en Monumentos Nacionales: ciudadanía de Tomé busca proteger sus casonas históricas",
+   "resumen": "Organizaciones y vecinos advierten sobre la pérdida de construcciones que forman parte de la historia comunal llaman a fortalecer las acciones para su conservación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casona.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/22/subsecretario-agricultura-ley-incendios-forestales.html",
+   "titulo": "Agricultura proyecta veto a ley de incendios para diciembre y anuncia despliegue de 548 brigadistas en el Biobío",
+   "resumen": "La cartera busca cerrar la tramitación normativa incorporando compensaciones por cortafuegos y penas más duras contra la intencionalidad. En paralelo, destacan el rol clave de la región en captura de carbono y preparan una ley de plantaciones para 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Francesco-Venezian-subsecretario-de-Agricultura-foto-minagri.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
+   "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
+   "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/claudia-guzman-directora-forbes-chile.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/poemario-cruza-memoria-identidad-resistencia-nicole-camille-debut-literario-sonata-en-azul-sin-blanco.html",
+   "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
+   "resumen": "La poeta y artista visual tomecina presenta su primer libro, una obra que enlaza la experiencia personal con una mirada crítica sobre las desigualdades, los mandatos de género y la memoria popular. Publicado por Editorial Mujeres de Letras, el poemario cuenta…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Editorial-Mujeres-de-Letras.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
+   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
+   "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
@@ -873,20 +943,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/pesadilla-aurinegra-fernandez-vial-fue-goleado-por-puente-alto-y-se-farreo-el-ascenso.html",
-   "titulo": "Pesadilla aurinegra: Fernández Vial fue goleado por Puente Alto y se farreó el ascenso",
-   "resumen": "Los de José Zapata tenían que ganar o empatar para subir de categoría. En lugar de eso, se vuelven de Santiago con un 1-5 en contra que los condenará a otro año en Tercera B.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Fernandez-Vial-vs-Puente-Alto-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T15:00:00.000Z",
-   "visto": "2026-11-22T00:50:21.258Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/colista-absoluto-la-udec-cayo-contra-nublense-y-esta-con-un-pie-en-la-b.html",
    "titulo": "Colista absoluto: La UdeC cayó contra Ñublense y está con un pie en la B",
    "resumen": "La Universidad de Concepción cayó de local contra los Diablos Rojos y ya derechamente necesita un milagro para no perder la categoría.",
@@ -895,6 +951,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T15:00:00.000Z",
    "visto": "2026-11-22T02:00:27.509Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/pesadilla-aurinegra-fernandez-vial-fue-goleado-por-puente-alto-y-se-farreo-el-ascenso.html",
+   "titulo": "Pesadilla aurinegra: Fernández Vial fue goleado por Puente Alto y se farreó el ascenso",
+   "resumen": "Los de José Zapata tenían que ganar o empatar para subir de categoría. En lugar de eso, se vuelven de Santiago con un 1-5 en contra que los condenará a otro año en Tercera B.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Fernandez-Vial-vs-Puente-Alto-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T15:00:00.000Z",
+   "visto": "2026-11-22T00:50:21.258Z",
    "cats": [
     "deportes"
    ],
@@ -1282,12 +1352,12 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/los-bunkers-vecinos-ilustres-talcahuano.html",
-   "titulo": "Los Bunkers son reconocidos como Vecinos Ilustres de Talcahuano",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2025/07/Fan%C3%A1ticos-aplauden-el-regreso-ac%C3%BAstico-de-Los-Bunkers-con-11-funciones-agotadas-en-Concepci%C3%B3n-e1751667056177.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
+   "url": "https://www.canal9.cl/episodios/2026/11/20/fatal-incendio-en-santa-ana-fiscalia-pide-5-anos-de-carcel-para-contratista-y-supervisor-de-coelcha",
+   "titulo": "Fiscalía solicita cinco años de prisión para contratista y supervisor de Coelcha por incendio en Santa Ana",
+   "resumen": "La Fiscalía formuló cargos por el fatal incendio ocurrido en febrero de 2023 en Santa Ana, que arrasó con las comunas de Nacimiento y Santa Juana, y pidió cinco años de prisión para los dos acusados relacionados con la empresa eléctrica Coelcha en la región…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/megaincendio-santa-ana.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
    "fecha": "2026-11-20T18:20:20.581Z",
    "visto": "2026-11-20T18:20:20.581Z",
    "cats": [
@@ -1296,12 +1366,12 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/fatal-incendio-en-santa-ana-fiscalia-pide-5-anos-de-carcel-para-contratista-y-supervisor-de-coelcha",
-   "titulo": "Fiscalía solicita cinco años de prisión para contratista y supervisor de Coelcha por incendio en Santa Ana",
-   "resumen": "La Fiscalía formuló cargos por el fatal incendio ocurrido en febrero de 2023 en Santa Ana, que arrasó con las comunas de Nacimiento y Santa Juana, y pidió cinco años de prisión para los dos acusados relacionados con la empresa eléctrica Coelcha en la región…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/megaincendio-santa-ana.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/los-bunkers-vecinos-ilustres-talcahuano.html",
+   "titulo": "Los Bunkers son reconocidos como Vecinos Ilustres de Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/07/Fan%C3%A1ticos-aplauden-el-regreso-ac%C3%BAstico-de-Los-Bunkers-con-11-funciones-agotadas-en-Concepci%C3%B3n-e1751667056177.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-20T18:20:20.581Z",
    "visto": "2026-11-20T18:20:20.581Z",
    "cats": [
@@ -1507,48 +1577,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/eolica-marina-biobio-impacto-ecosistemas.html",
-   "titulo": "Rechazo a proyectos eólicos marinos mantienen dudas en el sector pesquero sobre estado del borde costero",
-   "resumen": "Especialista advierte riesgos para la fauna marina y cuestiona la planificación de estas iniciativas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-energ%C3%ADa-e%C3%B3lica-marina-foto-cc.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T15:00:00.000Z",
-   "visto": "2026-11-22T17:30:25.020Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/jovenes-reinsercion-capacitacion-laboral-concepcion.html",
-   "titulo": "Seis jóvenes en cumplimiento de sanción culminan cursos de preparación laboral en el Biobío",
-   "resumen": "Los participantes, que cumplen sanción en el Centro de Libertad Asistida Simple ejecutado por Fundación Ciudad del Niño, cerraron el proceso formativo articulado junto al Servicio Nacional de Reinserción Social Juvenil, Sence y la Municipalidad de Concepción.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/jovenes-reinsercion-capacitacion-laboral-concepcion-e1795185366970.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T14:40:20.713Z",
-   "visto": "2026-11-20T14:40:20.713Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/ie-frente-a-la-ia-mentes-expertas-trae-a-borja-vilaseca-a-concepcion-para-hablar-de-inteligencia-emocional",
-   "titulo": "IE frente a la IA: Mentes Expertas trae a Borja Vilaseca a Concepción para hablar de inteligencia emocional",
-   "resumen": "Tras la visita de Tal Ben-Shahar al Biobío, Concepción recibirá una nueva conferencia de Mentes Expertas, esta vez con el escritor español Borja Vilaseca, quien dictará la conferencia “Encantado de conocerme: claves de autoconocimiento”, el lunes 23 de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/AFICHE-1-e1795184246896.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T14:20:25.154Z",
-   "visto": "2026-11-20T14:20:25.154Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2154,6 +2182,34 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/cicat-udec-curioteca-primeras-infancias-biobio.html",
+   "titulo": "Cicat UdeC abre Curioteca: un espacio dedicado a las primeras infancias del Biobío",
+   "resumen": "Es el primer espacio del recinto pensado especialmente a niños y niñas de 2 a 6 años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/BREVE.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
+   "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
+   "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-19T08:40:23.244Z",
+   "visto": "2026-11-19T08:40:23.244Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/biobio-municipios-funcionarios-publicos-condenados.html",
    "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
    "resumen": "El listado también incluye los servicios de Salud Arauco y Concepción, además del SLEP Andalién Sur. Con 12 instituciones en total, el Biobío se ubica tercero a nivel nacional.",
@@ -2178,34 +2234,6 @@
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
     "regional",
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/cicat-udec-curioteca-primeras-infancias-biobio.html",
-   "titulo": "Cicat UdeC abre Curioteca: un espacio dedicado a las primeras infancias del Biobío",
-   "resumen": "Es el primer espacio del recinto pensado especialmente a niños y niñas de 2 a 6 años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/BREVE.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
-   "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
-   "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
     "tecnologia"
    ],
    "local": true
@@ -2526,104 +2554,6 @@
    "visto": "2026-11-18T13:10:22.583Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/elige-educar-docencia-udec.html",
-   "titulo": "Elige educar: la importancia de la docencia en el desarrollo de la región y el país",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_5151-copia.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/18/especialistas-conferencia-internacional-srs.html",
-   "titulo": "Más de 240 especialistas participan en primera conferencia internacional dedicada al SRS",
-   "resumen": "Con una convocatoria de 240 asistentes, comenzó en Puerto Varas, la Primera Conferencia Internacional sobre el Síndrome Rickettsial del Salmón, SRS 2026. El evento organizado por el Centro Incar², es pionero al ser el primero a nivel global en abordar de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-primera-conferencia-internacional-dedicada-al-SRS-foto-Centro-Incar%C2%B2.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/18/orquesta-sinfonica-udec-despide-temporada-2026-concierto-hacia-el-nuevo-horizonte.html",
-   "titulo": "Orquesta Sinfónica UdeC despide temporada 2026 con concierto “Hacia el nuevo horizonte”",
-   "resumen": "Del lirismo del violín de Max Bruch a los paisajes sonoros de la Roma de Respighi, la agrupación clásica penquista propone un recorrido musical de gran riqueza expresiva para este concierto final. Jornada cuya batuta estará a cargo del maestro Luis Toro Araya…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Corcudec.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/18/fiesta-del-libro-desplegara-tercera-version-27-editoriales-miscelanea-programacion-gratuita.html",
-   "titulo": "Fiesta del Libro desplegará tercera versión con 27 editoriales y miscelánea programación gratuita",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-Seremi-de-las-Culturas-Biob%C3%ADo.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/golf-con-viento-lluvia-y-cerca-de-80-jugadores-en-bellavista.html",
-   "titulo": "Golf con viento, lluvia y cerca de 80 jugadores en Bellavista",
-   "resumen": "El XIII Abierto del Club tuvo a Alexis Quiroz, Pablo Viterbo y Natalia Muñoz como grandes ganadores. Fueron 3 días de competencia reuniendo a 14 equipos de distintas partes del país.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/abierto-XII-golf-foto.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/18/araya-y-bravo-entre-los-arqueros-con-mejores-numeros-en-primera.html",
-   "titulo": "Araya y Bravo entre los arqueros con mejores números en Primera",
-   "resumen": "Defienden a D. Concepción y Huachipato y este domingo medirán fuerzas en el CAP con el sexto puesto y la Sudamericana como objetivo. Dos goleros jóvenes que han hecho una gran temporada.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-4-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/biobio-acusacion-constitucional-ministro-rabat.html",
-   "titulo": "El pulso político del Biobío por la acusación constitucional contra el ministro Rabat",
-   "resumen": "El voto de los diputados del PDG será determinante en una Cámara donde las proyecciones anticipan una estrecha definición sobre el futuro del titular de Justicia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-justicia-fernando-rabat.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T08:40:21.405Z",
-   "visto": "2026-11-18T08:40:21.405Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
