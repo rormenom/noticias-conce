@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T23:00:29.415Z",
+ "generado": "2026-11-23T23:10:25.915Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/gran-concepcion-esta-semana-abren-puntos-de-venta-y-de-atencion-para-el-pago-electronico-de-micros",
+   "titulo": "Gran Concepción habilita esta semana lugares para comprar y recargar la tarjeta de pago electrónico de micros",
+   "resumen": "La marcha blanca del pago electrónico en el transporte público del Gran Concepción se iniciará el martes 1 de diciembre. Durante este periodo, los pasajeros podrán pagar en efectivo o con tarjeta. Esta semana estarán habilitados todos los centros de atención…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/gran-concepcion_-esta-semana-abren-puntos-de-venta-y-de-atencion-para-el-pago-electronico-de-micros.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T23:10:25.915Z",
+   "visto": "2026-11-23T23:10:25.915Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/gran-concepcion-esta-semana-abren-puntos-de-venta-y-de-atencion-para-el-pago-electronico-de-micros.shtml",
    "titulo": "Gran Concepción: Esta semana abren puntos de venta y de atención para el pago electrónico de micros",
@@ -1513,20 +1527,6 @@
    "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
    "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/claudia-guzman-directora-forbes-chile.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/prochile-expocorma-rueda-negocios-forestal-2026.html",
-   "titulo": "Prochile proyecta US$2,3 millones como resultados de ruedas de negocios realizadas en Expocorma 2026",
-   "resumen": "La actividad reunió a 37 empresas chilenas con nueve compradores de México, Costa Rica, Guatemala y Polonia, quienes mostraron especial interés en manufacturas de madera y soluciones constructivas de mayor valor agregado.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-21-at-12.33.55.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-22T08:40:18.857Z",
