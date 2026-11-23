@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T17:10:27.307Z",
+ "generado": "2026-11-23T17:20:20.521Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 55,
-    "leidas": 1,
+    "enlaces": 56,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
+    "enlaces": 154,
     "leidas": 56,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/homicidios-caen-14-por-ciento-biobio-balance-policial.html",
+   "titulo": "Homicidios caen un 14% en el Biobío: autoridades detallan balance policial, operativo en Arauco y avance por robo a Banco BCI",
+   "resumen": "Tras una nueva sesión del Comité Policial Regional, se informó que la zona contabiliza 76 homicidios frente a los 88 del mismo período del año anterior.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/detenido.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T17:20:20.521Z",
+   "visto": "2026-11-23T17:20:20.521Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/quiero-llevar-la-bandera-chilena-a-rumania-el-sueno-del-nadador-penquista-que-necesita-apoyo",
    "titulo": "\"Quiero llevar la bandera chilena a Rumanía\": el sueño del nadador penquista que necesita apoyo",
@@ -494,10 +508,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/estudio-chorlo-campo-isla-santa-maria-fondo-internacional.html",
-   "titulo": "Fondo internacional financiará estudio sobre el chorlo de campo en la Isla Santa María",
-   "resumen": "La iniciativa liderada obtuvo US$3.000 del programa Pequeños Fondos Manomet para investigar durante 22 meses los movimientos y la ecología de invernada de esta ave migratoria",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-16.03.05.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
+   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
+   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
@@ -508,10 +522,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
-   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
-   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/estudio-chorlo-campo-isla-santa-maria-fondo-internacional.html",
+   "titulo": "Fondo internacional financiará estudio sobre el chorlo de campo en la Isla Santa María",
+   "resumen": "La iniciativa liderada obtuvo US$3.000 del programa Pequeños Fondos Manomet para investigar durante 22 meses los movimientos y la ecología de invernada de esta ave migratoria",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-16.03.05.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
@@ -1439,6 +1453,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/centralismo-y-violencia-digital-los-desafios-que-enfrenta-el-periodismo.html",
+   "titulo": "Centralismo y violencia digital: los desafíos que enfrenta el periodismo",
+   "resumen": "Directivos de medios analizaron el papel de las comunicaciones y la prensa fuera de Santiago.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T15:00:00.000Z",
+   "visto": "2026-11-23T17:10:27.307Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/21/corma-expocorma-2026-balance-positivo-industria.html",
    "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
    "resumen": "El presidente nacional del gremio, Rodrigo O’Ryan, valoró la invitación del gobernador regional Sergio Giacaman para trabajar junto al mundo público y la academia de cara a los Juegos Odesur 2030, en un evento que convocó a decenas de empresas y proveedores.",
@@ -1467,14 +1495,14 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/centralismo-y-violencia-digital-los-desafios-que-enfrenta-el-periodismo.html",
-   "titulo": "Centralismo y violencia digital: los desafíos que enfrenta el periodismo",
-   "resumen": "Directivos de medios analizaron el papel de las comunicaciones y la prensa fuera de Santiago.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/la-vega-sistema-aguas-lluvia-inundaciones.html",
+   "titulo": "Inundaciones en calle La Vega: prevén licitar en 2027 estudios para el sistema de aguas lluvia",
+   "resumen": "Residentes de este sector de Talcahuano exigen acelerar el proceso que ponga término a los anegamientos de cada jornada de precipitaciones. Exigen mesa técnica entre todos los actores correspondientes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-calle-la-vega-foto-isidoro.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T15:00:00.000Z",
-   "visto": "2026-11-23T17:10:27.307Z",
+   "visto": "2026-11-23T17:20:20.521Z",
    "cats": [
     "regional"
    ],
@@ -1535,20 +1563,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/15-anos-de-carcel-a-venezolano-por-crimen-de-colombiano-que-fue-hallado-mutilado-en-talcahuano.shtml",
-   "titulo": "15 años de cárcel para venezolano por crimen de colombiano que fue hallado mutilado en Talcahuano",
-   "resumen": "Una pena de 15 años de cárcel dictó el Tribunal Oral de Concepción para un ciudadano venezolano, como responsable...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027604-15-anos-de-carcel-a-venezolano-por-crimen-de-colombiano-que-fue-hallado-mutilado-en-talcahuano.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-21T11:35:40.000Z",
-   "visto": "2026-11-21T11:40:20.132Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
