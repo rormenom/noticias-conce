@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T22:30:22.714Z",
+ "generado": "2026-11-23T22:40:20.322Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 152,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -1509,6 +1509,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/prochile-expocorma-rueda-negocios-forestal-2026.html",
+   "titulo": "Prochile proyecta US$2,3 millones como resultados de ruedas de negocios realizadas en Expocorma 2026",
+   "resumen": "La actividad reunió a 37 empresas chilenas con nueve compradores de México, Costa Rica, Guatemala y Polonia, quienes mostraron especial interés en manufacturas de madera y soluciones constructivas de mayor valor agregado.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-21-at-12.33.55.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/indespa-pesca-artesanal-equipos-viradores-lebu.html",
    "titulo": "45 embarcaciones artesanales de Lebu incorporan viradores eléctricos a sus faenas de extracción de jibia",
    "resumen": "Tecnología financiada por INDESPA sería clave para aliviar la carga física de los tripulantes al recoger de modo mecánico las líneas de pesca y captura, evitando lesiones y fatiga.",
@@ -1520,20 +1534,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/prochile-expocorma-rueda-negocios-forestal-2026.html",
-   "titulo": "Prochile proyecta US$2,3 millones como resultados de ruedas de negocios realizadas en Expocorma 2026",
-   "resumen": "La actividad reunió a 37 empresas chilenas con nueve compradores de México, Costa Rica, Guatemala y Polonia, quienes mostraron especial interés en manufacturas de madera y soluciones constructivas de mayor valor agregado.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-21-at-12.33.55.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2553,21 +2553,6 @@
    "visto": "2026-11-19T08:40:23.244Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/premio-nobel-de-fisica-feria-del-libro-y-espectaculos-en-el-foro-escuela-de-verano-udec-2027-convoca-a-la-comunidad-con-amplia-cartelera-cultural/",
-   "titulo": "Premio Nobel de Física, Feria del Libro y Espectáculos en el Foro: Escuela de Verano UdeC 2027 convoca a la comunidad con amplia cartelera cultural",
-   "resumen": "Con una invitación a fortalecer el encuentro entre la comunidad […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Lanzamiento-Escuela-de-Verano-2027-5-768x512.webp",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-18T22:40:09.000Z",
-   "visto": "2026-11-18T22:40:23.014Z",
-   "cats": [
-    "cultura",
-    "regional"
    ],
    "local": true
   }
