@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T21:40:22.315Z",
+ "generado": "2026-11-23T21:50:20.506Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -1480,6 +1480,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/prochile-expocorma-rueda-negocios-forestal-2026.html",
+   "titulo": "Prochile proyecta US$2,3 millones como resultados de ruedas de negocios realizadas en Expocorma 2026",
+   "resumen": "La actividad reunió a 37 empresas chilenas con nueve compradores de México, Costa Rica, Guatemala y Polonia, quienes mostraron especial interés en manufacturas de madera y soluciones constructivas de mayor valor agregado.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-21-at-12.33.55.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/indespa-pesca-artesanal-equipos-viradores-lebu.html",
    "titulo": "45 embarcaciones artesanales de Lebu incorporan viradores eléctricos a sus faenas de extracción de jibia",
    "resumen": "Tecnología financiada por INDESPA sería clave para aliviar la carga física de los tripulantes al recoger de modo mecánico las líneas de pesca y captura, evitando lesiones y fatiga.",
@@ -1491,20 +1505,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/prochile-expocorma-rueda-negocios-forestal-2026.html",
-   "titulo": "Prochile proyecta US$2,3 millones como resultados de ruedas de negocios realizadas en Expocorma 2026",
-   "resumen": "La actividad reunió a 37 empresas chilenas con nueve compradores de México, Costa Rica, Guatemala y Polonia, quienes mostraron especial interés en manufacturas de madera y soluciones constructivas de mayor valor agregado.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-21-at-12.33.55.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2567,37 +2567,6 @@
    "visto": "2026-11-18T22:10:28.447Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/18/se-van-a-construir-obras-ministro-del-deporte-revelo-mejoras-de-infraestructura-para-bio-bio-2030.shtml",
-   "titulo": "\"Se van a construir obras\": ministro del Deporte reveló mejoras de infraestructura para Bío Bío 2030",
-   "resumen": "El ministro del Deporte, Francisco Riveros, comunicó que los Juegos Suramericanos (ODESUR) en el Bío Bío traerán consigo varias mejoras...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7024471-se-van-a-construir-obras__-ministro-del-deporte-revelo-mejoras-de-infraestructura-para-bio-bio-2030-1-1200x633.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-18T21:50:39.000Z",
-   "visto": "2026-11-18T22:00:29.639Z",
-   "cats": [
-    "deportes",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/18/tome-seguridad-innovacion-tecnologia.html",
-   "titulo": "Tomé avanza en seguridad e innovación con tecnología única en la región y el país",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/906697666_1553518566535361_5578997288573548833_n.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-18T21:50:22.709Z",
-   "visto": "2026-11-18T21:50:22.709Z",
-   "cats": [
-    "regional",
-    "cultura",
-    "tecnologia"
    ],
    "local": true
   }
