@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T16:20:21.788Z",
+ "generado": "2026-11-23T16:40:22.716Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 57,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,56 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 13,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/alejandro-sanz-confirma-concierto-en-concepcion-el-6-de-marzo-y-su-preventa-parte-el-1-de-diciembre",
+   "titulo": "Alejandro Sanz confirma concierto en Concepción el 6 de marzo y su preventa parte el 1 de diciembre",
+   "resumen": "El cantante español Alejandro Sanz confirmó que volverá a Chile con un concierto el 6 de marzo de 2027 en el estadio Ester Roa de Concepción, que será la única sede del país dentro de su nueva gira. La preventa de entradas comienza el 1 de diciembre, según…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/alejandro-sanz.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T16:40:22.716Z",
+   "visto": "2026-11-23T16:40:22.716Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/marejadas-afectarian-a-la-costa-chilena-entre-este-martes-y-jueves-revisa-horarios-de-mayor-actividad",
+   "titulo": "Marejadas llegarían a las costas de Chile entre martes y jueves: conoce cuándo serán más intensas",
+   "resumen": "Nuevamente, el Centro Zonal de Meteorología Marina de Valparaíso informó de marejadas que afectarían durante los próximos días a buena parte del litoral chileno. Aunque no corresponde a un fenómeno «anormal», como el pronosticado para el fin de semana pasado,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/marejadas-24-de-noviembre.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T16:40:22.716Z",
+   "visto": "2026-11-23T16:40:22.716Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/andan-robando-tanto-acusan-robo-de-letras-adornos-y-estatuas-en-cementerio-general-de-concepcion.shtml",
+   "titulo": "\"Andan robando tanto\": acusan robo de letras, adornos y estatuas en Cementerio General de Concepción",
+   "resumen": "Robo de letras, adornos florales y estatuas religiosas es lo que denuncian familiares de personas sepultadas en el Cementerio General...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029110-cementerio-concepcion.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-23T16:36:04.000Z",
+   "visto": "2026-11-23T16:40:22.716Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/proyectos-de-tierras-raras-generan-rechazo-en-nacimiento-vecinos-advierten-riesgos-ambientales-y-para-la-salud",
    "titulo": "Proyectos de tierras raras generan rechazo en Nacimiento: vecinos advierten riesgos ambientales y para la salud",
@@ -1593,48 +1636,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/embarcacion-aplasta-a-personas-en-caleta-infiernillo-en-talcahuano",
-   "titulo": "Embarcación impacta y aplasta a varias personas en Caleta Infiernillo, Talcahuano",
-   "resumen": "Un serio accidente ocurrió la tarde de este viernes en el sector de Puerto San Vicente en Talcahuano, en la región del Bío Bío. Según los antecedentes iniciales, seis personas habrían quedado bajo una embarcación en la Caleta Infiernillo, y tres de ellas…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T22:10:20.681Z",
-   "visto": "2026-11-20T22:10:20.681Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/embarcacion-aplasta-a-personas-en-caleta-infiernillo-en-talcahuano.shtml",
-   "titulo": "Embarcación aplasta a tres personas en Caleta Infiernillo en Talcahuano",
-   "resumen": "Un grave accidente se registró la tarde de este viernes en el sector de Puerto San Vicente en Talcahuano, en...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027363-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-20T21:58:23.000Z",
-   "visto": "2026-11-20T22:00:27.468Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/playa-lenga-fragata-portuguesa-prohiben-bano.html",
-   "titulo": "Por fragata portuguesa: prohíben ingreso al agua pára baño y actividades recreativas en Playa Lenga",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/download-8.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T21:29:03.961Z",
-   "visto": "2026-11-20T21:29:03.961Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/20/diputados-cuestionan-renuncias-no-ratificadas-de-autoridades-en-el-biobio-acusan-falta-de-seriedad-y-compromiso-politico",
    "titulo": "Diputados cuestionan renuncias no ratificadas de autoridades en el Biobío: acusan falta de seriedad y compromiso político",
    "resumen": "Las renuncias de la seremi de Salud, Isabel Rojas, y de la directora regional del Senama, Antaris Varela, generaron críticas entre parlamentarios oficialistas y de oposición. Mientras el Partido Cristiano de Chile anunció una reunión para evaluar la…",
@@ -2567,35 +2568,6 @@
    "visto": "2026-11-18T17:30:25.942Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/giacaman-adelanta-biobio-sede-odesur-2030.html",
-   "titulo": "Giacaman se adelanta al anuncio de Odesur 2030: “A las 4 de la tarde nos van a confirmar que seremos sede”",
-   "resumen": "En medio de su discurso en la inauguración de Expocorma 2026, la máxima autoridad regional desató los aplausos de los asistentes al adelantar el resultado que el comité ejecutivo de Odesur ratificará oficialmente a las 16:00 horas de este miércoles.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/giacaman-adelanta-biobio-sede-odesur-2030.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T16:40:22.127Z",
-   "visto": "2026-11-18T16:40:22.127Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/18/teatro-circo-y-danza-la-cultura-recorre-comunas-del-biobio",
-   "titulo": "Teatro, circo y danza: La Cultura recorre comunas del Biobío",
-   "resumen": "En conversación la coordinadora general de Ruta Escena Biobío, Gisel Sparza, explicó el funcionamiento de la iniciativa, que tras recorrer la provincia de Concepción continúa por Arauco y otras comunas de la región. La entrevista se centró en el sentido de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/circo.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-18T16:40:22.127Z",
-   "visto": "2026-11-18T16:40:22.127Z",
-   "cats": [
-    "regional",
-    "cultura"
    ],
    "local": true
   }
