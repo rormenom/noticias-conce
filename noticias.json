@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T15:20:23.442Z",
+ "generado": "2026-11-23T15:30:24.736Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 58,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,69 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
+   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T15:30:24.736Z",
+   "visto": "2026-11-23T15:30:24.736Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/42-mujeres-capacitacion-emprendimientos-los-alamos.html",
+   "titulo": "Formalización y financiamiento: los desafíos de 42 emprendedoras de Los Álamos",
+   "resumen": "Marketing digital, formalización y financiamiento fueron parte de la capacitación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Academia-de-Mujeres-Empresarias-impulsa-el-desarrollo-de-42-emprendedoras-en-Los-A%CC%81lamos.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T15:30:24.736Z",
+   "visto": "2026-11-23T15:30:24.736Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/penco-cge-condona-deuda-electrica-a-2-553-familias-damnificadas-por-incendios",
+   "titulo": "Penco: CGE condona deuda eléctrica a 2.553 familias damnificadas por incendios",
+   "resumen": "La Compañía General de Electricidad (CGE) anunció la condonación total de las deudas y consumos eléctricos acumulados hasta mayo para 2.553 familias de la Región del Biobío, principalmente de la comuna de Penco, que resultaron afectadas por los incendios…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Sin-titulo-6-e1795446935128.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T15:30:24.736Z",
+   "visto": "2026-11-23T15:30:24.736Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/queremos-mas-tiempo-para-leer-la-furia-del-libro-de-verano-2026-anuncia-sus-primeros-confirmados/",
+   "titulo": "“Queremos más tiempo para leer”: La Furia del Libro de verano 2026 anuncia sus primeros confirmados",
+   "resumen": "En nuestro país se leen 5,5 libros por persona al […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/2022-·-Publico-y-feria-·-Edison-Araya-·-DSC0066-768x534.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-23T15:22:40.000Z",
+   "visto": "2026-11-23T15:30:24.736Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/impulso-lector-2026-evaluacion-se-aplicara-por-primera-vez-a-estudiantes-de-2-basico/",
    "titulo": "Impulso Lector 2026: evaluación se aplicará por primera vez a estudiantes de 2° básico",
@@ -267,10 +323,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/biobio-registra-7-644-nuevos-ocupados-mayores-de-55-anos-pero-persisten-dificultades-para-encontrar-trabajo.html",
-   "titulo": "Biobío registra 7.644 nuevos ocupados mayores de 55 años, pero persisten dificultades para encontrar trabajo",
-   "resumen": "SENCE informó que más del 94% de los cupos de Experiencia Mayor ya fueron adjudicados.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-17.23.13.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
+   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
+   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
@@ -281,10 +337,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
-   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
-   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/biobio-registra-7-644-nuevos-ocupados-mayores-de-55-anos-pero-persisten-dificultades-para-encontrar-trabajo.html",
+   "titulo": "Biobío registra 7.644 nuevos ocupados mayores de 55 años, pero persisten dificultades para encontrar trabajo",
+   "resumen": "SENCE informó que más del 94% de los cupos de Experiencia Mayor ya fueron adjudicados.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-17.23.13.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
@@ -858,25 +914,24 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/indespa-pesca-artesanal-equipos-viradores-lebu.html",
-   "titulo": "45 embarcaciones artesanales de Lebu incorporan viradores eléctricos a sus faenas de extracción de jibia",
-   "resumen": "Tecnología financiada por INDESPA sería clave para aliviar la carga física de los tripulantes al recoger de modo mecánico las líneas de pesca y captura, evitando lesiones y fatiga.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/911713702_1646747083575867_5259487904720144764_n.jpg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/prochile-expocorma-rueda-negocios-forestal-2026.html",
+   "titulo": "Prochile proyecta US$2,3 millones como resultados de ruedas de negocios realizadas en Expocorma 2026",
+   "resumen": "La actividad reunió a 37 empresas chilenas con nueve compradores de México, Costa Rica, Guatemala y Polonia, quienes mostraron especial interés en manufacturas de madera y soluciones constructivas de mayor valor agregado.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-21-at-12.33.55.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-22T08:40:18.857Z",
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
-    "regional",
-    "cultura"
+    "regional"
    ],
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/prochile-expocorma-rueda-negocios-forestal-2026.html",
-   "titulo": "Prochile proyecta US$2,3 millones como resultados de ruedas de negocios realizadas en Expocorma 2026",
-   "resumen": "La actividad reunió a 37 empresas chilenas con nueve compradores de México, Costa Rica, Guatemala y Polonia, quienes mostraron especial interés en manufacturas de madera y soluciones constructivas de mayor valor agregado.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-21-at-12.33.55.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/22/casonas-historicas-tome-monumentos-nacionales.html",
+   "titulo": "Declaratoria pendiente en Monumentos Nacionales: ciudadanía de Tomé busca proteger sus casonas históricas",
+   "resumen": "Organizaciones y vecinos advierten sobre la pérdida de construcciones que forman parte de la historia comunal llaman a fortalecer las acciones para su conservación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casona.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-22T08:40:18.857Z",
@@ -901,16 +956,17 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/22/casonas-historicas-tome-monumentos-nacionales.html",
-   "titulo": "Declaratoria pendiente en Monumentos Nacionales: ciudadanía de Tomé busca proteger sus casonas históricas",
-   "resumen": "Organizaciones y vecinos advierten sobre la pérdida de construcciones que forman parte de la historia comunal llaman a fortalecer las acciones para su conservación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/casona.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/indespa-pesca-artesanal-equipos-viradores-lebu.html",
+   "titulo": "45 embarcaciones artesanales de Lebu incorporan viradores eléctricos a sus faenas de extracción de jibia",
+   "resumen": "Tecnología financiada por INDESPA sería clave para aliviar la carga física de los tripulantes al recoger de modo mecánico las líneas de pesca y captura, evitando lesiones y fatiga.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/911713702_1646747083575867_5259487904720144764_n.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-22T08:40:18.857Z",
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
-    "regional"
+    "regional",
+    "cultura"
    ],
    "local": true
   },
@@ -1545,48 +1601,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-20T20:47:45.000Z",
    "visto": "2026-11-20T20:50:18.728Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/acusan-sobreexigencia-laboral-tras-muerte-de-mujer-que-habria-trabajado-10-dias-seguidos-en-mall.shtml",
-   "titulo": "Acusan sobreexigencia laboral tras muerte de mujer que habría trabajado 10 días seguidos en mall",
-   "resumen": "Una trabajadora de 57 años murió tras sufrir graves problemas de salud que, según acusa una querella presentada ante el...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027067-mallplaza.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-20T19:20:01.000Z",
-   "visto": "2026-11-20T19:20:29.307Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/campana-vph-hablemos-hoy-concepcion.html",
-   "titulo": "“VPH: Hablemos Hoy”: la nueva campaña impulsada desde Concepción para prevenir el virus del papiloma humano",
-   "resumen": "Con el respaldo de instituciones públicas y privadas de salud, la iniciativa estrenó su primer capítulo en la cuarta temporada del podcast Salvé el Mundo Hoy para educar y promover el acceso a controles preventivos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/papiloma-humano-e1795201375270.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T19:10:23.509Z",
-   "visto": "2026-11-20T19:10:23.509Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/concepcion-tala-eucalipto-centenario-lorenzo-arenas.html",
-   "titulo": "Cuando el viento traía su aroma: la nostalgia por la tala del centenario eucalipto de Lorenzo Arenas",
-   "resumen": "La eliminación del ejemplar, ubicado en el antiguo terreno de la Aldea Infantil SOS, significó la pérdida de un refugio para la biodiversidad ligado a los recuerdos de generaciones de residentes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-arbol-talado-en-Concepci%C3%B3n-foto-montserrat-serra-e1795199650355.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T19:00:32.533Z",
-   "visto": "2026-11-20T19:00:32.533Z",
    "cats": [
     "regional"
    ],
@@ -2566,36 +2580,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-18T15:40:24.563Z",
    "visto": "2026-11-18T15:40:24.563Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/18/intoxicacion-alumnos-hualpen.html",
-   "titulo": "Seremi de Salud inicia investigación en terreno para esclarecer el origen de las emanaciones que afectaron a escolares en Hualpén",
-   "resumen": "Un grupo de alumnos de entre 10 y 13 años presentó mareos y dolores estomacales. La autoridad sanitaria ya se encuentra investigando la situación en terreno.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/intoxicacion-alumnos-hualpen-e1795015014126.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T15:30:27.335Z",
-   "visto": "2026-11-18T15:30:27.335Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/diversos-gremios-participan-en-manifestacion-en-plaza-de-la-independencia-penquista-contra-el-gobierno.shtml",
-   "titulo": "Diversos gremios participan en manifestación en Plaza de la Independencia penquista contra el Gobierno",
-   "resumen": "Diversos gremios se han manifestado la mañana de este miércoles en la Plaza de la Independencia de Concepción, ...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7023790-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-18T15:24:50.000Z",
-   "visto": "2026-11-18T15:30:27.335Z",
    "cats": [
     "regional",
     "politica"
