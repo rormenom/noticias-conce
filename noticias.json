@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T23:30:24.531Z",
+ "generado": "2026-11-23T23:40:23.961Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/terreno-fiscal-chiguayante-infraestructura-odesur-2030.html",
+   "titulo": "Chiguayante podría recibir infraestructura de los ODESUR 2030: analizan factibilidad de terreno fiscal frente a Lonco",
+   "resumen": "La Seremi de Bienes Nacionales y el Gobierno Regional del Biobío revisan la factibilidad técnica y jurídica del predio ubicado en Chiguayante, además de levantar un catastro en distintas comunas para proyectar recintos deportivos, villas atléticas o apoyo…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/evaluan-terreno-fiscal-chiguayante-infraestructura-odesur-2030-e1795476838277.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T23:40:23.961Z",
+   "visto": "2026-11-23T23:40:23.961Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/gran-concepcion-esta-semana-abren-puntos-de-venta-y-de-atencion-para-el-pago-electronico-de-micros",
    "titulo": "Gran Concepción habilita esta semana lugares para comprar y recargar la tarjeta de pago electrónico de micros",
@@ -876,7 +890,7 @@
   },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/mujeres-mapuche-de-la-provincia-de-concepcion-culminan-exitosamente-la-escuela-de-negocios-promoviendo-el-buen-vivir/",
-   "titulo": "Mujeres mapuche culminan exitosamente la “Escuela de Negocios Promoviendo el Buen Vivir”",
+   "titulo": "Mujeres mapuche culminan la “Escuela de Negocios Promoviendo el Buen Vivir”",
    "resumen": "De la Provincia de Concepción. La iniciativa, impulsada por la Fundación Trabajo para un Hermano en alianza con la Seremi de la Mujer y la Equidad de Género y ONU Mujeres (Programa Originaria), concluyó su proceso de formación presencial enfocado en potenciar…",
    "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Foto-Escuela-3-768x432.jpeg",
    "fuente": "El Conquistador",
@@ -1425,20 +1439,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/prochile-expocorma-rueda-negocios-forestal-2026.html",
-   "titulo": "Prochile proyecta US$2,3 millones como resultados de ruedas de negocios realizadas en Expocorma 2026",
-   "resumen": "La actividad reunió a 37 empresas chilenas con nueve compradores de México, Costa Rica, Guatemala y Polonia, quienes mostraron especial interés en manufacturas de madera y soluciones constructivas de mayor valor agregado.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-21-at-12.33.55.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T15:00:00.000Z",
-   "visto": "2026-11-23T23:20:23.249Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
    "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
    "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
@@ -1447,6 +1447,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-22T15:00:00.000Z",
    "visto": "2026-11-23T23:30:24.531Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/prochile-expocorma-rueda-negocios-forestal-2026.html",
+   "titulo": "Prochile proyecta US$2,3 millones como resultados de ruedas de negocios realizadas en Expocorma 2026",
+   "resumen": "La actividad reunió a 37 empresas chilenas con nueve compradores de México, Costa Rica, Guatemala y Polonia, quienes mostraron especial interés en manufacturas de madera y soluciones constructivas de mayor valor agregado.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-21-at-12.33.55.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T15:00:00.000Z",
+   "visto": "2026-11-23T23:20:23.249Z",
    "cats": [
     "regional"
    ],
