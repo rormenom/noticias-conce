@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T17:00:28.136Z",
+ "generado": "2026-11-23T17:10:27.307Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
+    "enlaces": 55,
     "leidas": 1,
     "errores": 0,
     "robots": 0
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 57,
+    "enlaces": 156,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/quiero-llevar-la-bandera-chilena-a-rumania-el-sueno-del-nadador-penquista-que-necesita-apoyo",
+   "titulo": "\"Quiero llevar la bandera chilena a Rumanía\": el sueño del nadador penquista que necesita apoyo",
+   "resumen": "Fernando Aguilera, kinesiólogo de 26 años, se quedó a 0,70 milésimas de una medalla en el glaciar Perito Moreno. Hoy busca el dinero para ir a buscarla a Europa, tras ganarse un cupo para el campeonato mundial de nado en aguas gélidas en Rumanía, fijado para…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/nadador.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T17:10:27.307Z",
+   "visto": "2026-11-23T17:10:27.307Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/aviso-altas-temperaturas-biobio-32-grados-incendios.html",
    "titulo": "Hasta 32 grados y ráfagas de 50 km/h: pronostican calor intenso en el Biobío.",
@@ -1425,6 +1439,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/21/corma-expocorma-2026-balance-positivo-industria.html",
+   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
+   "resumen": "El presidente nacional del gremio, Rodrigo O’Ryan, valoró la invitación del gobernador regional Sergio Giacaman para trabajar junto al mundo público y la academia de cara a los Juegos Odesur 2030, en un evento que convocó a decenas de empresas y proveedores.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T15:00:00.000Z",
+   "visto": "2026-11-23T17:00:28.136Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/pesadilla-aurinegra-fernandez-vial-fue-goleado-por-puente-alto-y-se-farreo-el-ascenso.html",
    "titulo": "Pesadilla aurinegra: Fernández Vial fue goleado por Puente Alto y se farreó el ascenso",
    "resumen": "Los de José Zapata tenían que ganar o empatar para subir de categoría. En lugar de eso, se vuelven de Santiago con un 1-5 en contra que los condenará a otro año en Tercera B.",
@@ -1439,14 +1467,14 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/21/corma-expocorma-2026-balance-positivo-industria.html",
-   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
-   "resumen": "El presidente nacional del gremio, Rodrigo O’Ryan, valoró la invitación del gobernador regional Sergio Giacaman para trabajar junto al mundo público y la academia de cara a los Juegos Odesur 2030, en un evento que convocó a decenas de empresas y proveedores.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/centralismo-y-violencia-digital-los-desafios-que-enfrenta-el-periodismo.html",
+   "titulo": "Centralismo y violencia digital: los desafíos que enfrenta el periodismo",
+   "resumen": "Directivos de medios analizaron el papel de las comunicaciones y la prensa fuera de Santiago.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T15:00:00.000Z",
-   "visto": "2026-11-23T17:00:28.136Z",
+   "visto": "2026-11-23T17:10:27.307Z",
    "cats": [
     "regional"
    ],
@@ -1525,20 +1553,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/21/lancha-estaba-en-construccion-y-cayo-lo-que-se-sabe-de-muerte-de-2-personas-aplastadas-en-talcahuano",
-   "titulo": "Revelan que la lancha que causó dos muertes en Talcahuano fue construida en una ocupación ilegal",
-   "resumen": "Han surgido nuevos antecedentes sobre el fatal accidente en el que dos personas murieron aplastadas por una lancha en Talcahuano. Según la Armada, la embarcación estaba siendo construida en un terreno privado que correspondería a una “ocupación ilegal”. El…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-1-por-lancha-estaba-en-construccion-y-cayo_-lo-que-se-sabe-de-muerte-de-2-personas-aplastadas-en-talcahuano.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-21T11:10:19.706Z",
-   "visto": "2026-11-21T11:10:19.706Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/un-vial-con-ganas-de-fiesta-a-90-minutos-del-gran-desahogo.html",
    "titulo": "Un Vial con ganas de fiesta: a 90 minutos del gran desahogo",
    "resumen": "Llega a Santiago con ventaja de 2-1 en la ida sobre Puente Alto, pero entendiendo que no puede ir a especular. No se logró contra Mejillones, pero el Inmortal tiene otra oportunidad y no va a dejarla pasar.",
@@ -1605,20 +1619,6 @@
    "visto": "2026-11-21T08:40:23.479Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/la-vega-sistema-aguas-lluvia-inundaciones.html",
-   "titulo": "Inundaciones en calle La Vega: prevén licitar en 2027 estudios para el sistema de aguas lluvia",
-   "resumen": "Residentes de este sector de Talcahuano exigen acelerar el proceso que ponga término a los anegamientos de cada jornada de precipitaciones. Exigen mesa técnica entre todos los actores correspondientes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-calle-la-vega-foto-isidoro.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T08:40:23.479Z",
-   "visto": "2026-11-21T08:40:23.479Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
