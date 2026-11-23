@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T17:20:20.521Z",
+ "generado": "2026-11-23T17:30:25.980Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 56,
+    "enlaces": 152,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cortes-de-agua-luz-san-pedro-de-la-paz.html",
+   "titulo": "San Pedro de la Paz: programan cortes de agua y luz para esta semana",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-18.03.21-e1794259797214.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T17:30:25.980Z",
+   "visto": "2026-11-23T17:30:25.980Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/homicidios-caen-14-por-ciento-biobio-balance-policial.html",
    "titulo": "Homicidios caen un 14% en el Biobío: autoridades detallan balance policial, operativo en Arauco y avance por robo a Banco BCI",
@@ -281,10 +295,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/42-mujeres-capacitacion-emprendimientos-los-alamos.html",
-   "titulo": "Formalización y financiamiento: los desafíos de 42 emprendedoras de Los Álamos",
-   "resumen": "Marketing digital, formalización y financiamiento fueron parte de la capacitación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Academia-de-Mujeres-Empresarias-impulsa-el-desarrollo-de-42-emprendedoras-en-Los-A%CC%81lamos.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
+   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T15:30:24.736Z",
@@ -295,10 +309,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
-   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/42-mujeres-capacitacion-emprendimientos-los-alamos.html",
+   "titulo": "Formalización y financiamiento: los desafíos de 42 emprendedoras de Los Álamos",
+   "resumen": "Marketing digital, formalización y financiamiento fueron parte de la capacitación.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Academia-de-Mujeres-Empresarias-impulsa-el-desarrollo-de-42-emprendedoras-en-Los-A%CC%81lamos.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T15:30:24.736Z",
@@ -1453,14 +1467,14 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/centralismo-y-violencia-digital-los-desafios-que-enfrenta-el-periodismo.html",
-   "titulo": "Centralismo y violencia digital: los desafíos que enfrenta el periodismo",
-   "resumen": "Directivos de medios analizaron el papel de las comunicaciones y la prensa fuera de Santiago.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/la-vega-sistema-aguas-lluvia-inundaciones.html",
+   "titulo": "Inundaciones en calle La Vega: prevén licitar en 2027 estudios para el sistema de aguas lluvia",
+   "resumen": "Residentes de este sector de Talcahuano exigen acelerar el proceso que ponga término a los anegamientos de cada jornada de precipitaciones. Exigen mesa técnica entre todos los actores correspondientes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-calle-la-vega-foto-isidoro.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T15:00:00.000Z",
-   "visto": "2026-11-23T17:10:27.307Z",
+   "visto": "2026-11-23T17:20:20.521Z",
    "cats": [
     "regional"
    ],
@@ -1495,14 +1509,14 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/la-vega-sistema-aguas-lluvia-inundaciones.html",
-   "titulo": "Inundaciones en calle La Vega: prevén licitar en 2027 estudios para el sistema de aguas lluvia",
-   "resumen": "Residentes de este sector de Talcahuano exigen acelerar el proceso que ponga término a los anegamientos de cada jornada de precipitaciones. Exigen mesa técnica entre todos los actores correspondientes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-calle-la-vega-foto-isidoro.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/21/centralismo-y-violencia-digital-los-desafios-que-enfrenta-el-periodismo.html",
+   "titulo": "Centralismo y violencia digital: los desafíos que enfrenta el periodismo",
+   "resumen": "Directivos de medios analizaron el papel de las comunicaciones y la prensa fuera de Santiago.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-Desaf%C3%ADos-de-la-prensa-en-la-sociedad-contempor%C3%A1nea-foto-carolina.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T15:00:00.000Z",
-   "visto": "2026-11-23T17:20:20.521Z",
+   "visto": "2026-11-23T17:10:27.307Z",
    "cats": [
     "regional"
    ],
@@ -2582,20 +2596,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-18T18:10:21.950Z",
    "visto": "2026-11-18T18:10:21.950Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/18/gastos-traslacion-parlamentarios-biobio.html",
-   "titulo": "Entre el trabajo en terreno y la promesa de austeridad: las explicaciones de los parlamentarios del Biobío por sus gastos en combustibles",
-   "resumen": "Entre marzo y agosto de 2026, los congresistas de la región rindieron millonarios montos en combustible, peajes, arriendo de vehículos y pasajes aéreos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/gastos-bencina-congresistas-biobio-e1795022564482.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-18T17:30:25.942Z",
-   "visto": "2026-11-18T17:30:25.942Z",
    "cats": [
     "politica"
    ],
