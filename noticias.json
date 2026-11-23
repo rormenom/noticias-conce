@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T11:00:28.675Z",
+ "generado": "2026-11-23T11:10:20.805Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
-    "leidas": 57,
+    "enlaces": 157,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/acusan-al-partido-cristiano-de-chantajear-a-kast-con-las-cartas-de-renuncia-de-autoridades-en-bio-bio.shtml",
+   "titulo": "Acusan al Partido Cristiano de chantajear a Kast con las cartas de renuncia de autoridades en Bío Bío",
+   "resumen": "Diversas reacciones ha generado la “renuncia frustrada” o “renuncia con elástico”, como se la ha denominado, a la salida del...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028602-renuncias-frustradas-autoridades-partido-cristiano-presion-chantaje-gobierno.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-23T11:02:37.000Z",
+   "visto": "2026-11-23T11:10:20.805Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/vecinos-de-los-angeles-se-movilizan-contra-reconstruir-la-carcel-danada-en-el-terremoto-de-2010",
    "titulo": "Vecinos de Los Ángeles se movilizan contra reconstruir la cárcel dañada en el terremoto de 2010",
@@ -1529,20 +1544,6 @@
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-83.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
-   "fecha": "2026-11-20T17:10:20.916Z",
-   "visto": "2026-11-20T17:10:20.916Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/tala-eucalipto-centenario-lorenzo-arenas.html",
-   "titulo": "Cuando el viento traía su aroma: la nostalgia por la tala del centenario eucalipto de Lorenzo Arenas",
-   "resumen": "La eliminación del ejemplar, ubicado en el antiguo terreno de la Aldea Infantil SOS, significó la pérdida de un refugio para la biodiversidad ligado a los recuerdos de generaciones de residentes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/tala-eucalipto-centenario-lorenzo-arenas.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-20T17:10:20.916Z",
    "visto": "2026-11-20T17:10:20.916Z",
    "cats": [
