@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T14:30:27.109Z",
+ "generado": "2026-11-23T14:50:21.148Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 57,
+    "enlaces": 152,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -2599,20 +2599,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/fiesta-del-libro-regresa-a-concepcion-con-27-editoriales-y-una-programacion-gratuita-para-toda-la-familia/",
-   "titulo": "Fiesta del Libro regresa a Concepción con 27 editoriales y una programación gratuita para toda la familia",
-   "resumen": "Con una programación que busca acercar la creación literaria a […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/FiestaL-2°-768x512.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-18T14:50:48.000Z",
-   "visto": "2026-11-18T15:00:29.325Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   }
