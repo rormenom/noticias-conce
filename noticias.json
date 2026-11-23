@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T16:40:22.716Z",
+ "generado": "2026-11-23T16:50:21.990Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 56,
+    "enlaces": 155,
+    "leidas": 54,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,78 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/aviso-altas-temperaturas-biobio-32-grados-incendios.html",
+   "titulo": "Hasta 32 grados y ráfagas de 50 km/h: pronostican calor intenso en el Biobío.",
+   "resumen": "Una ola de calor además de fuertes vientos se esperan para sectores desde el litoral hasta la precordillera en la Región del Biobío, de acuerdo al aviso de la Dirección Meteorológica de Chile",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/JAime-Rendon-2.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T16:50:21.990Z",
+   "visto": "2026-11-23T16:50:21.990Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/23/impresion-3d-repuestos-descontinuados-chile-2026.html",
+   "titulo": "De $65.000 más IVA a $2.000: el auge de la impresión 3D para fabricar repuestos descontinuados y reducir basura electrónica",
+   "resumen": "Entre enero y mediados de noviembre de 2026, la comercialización de impresoras 3D aumentó un 55% respecto de igual período de 2025, impulsada por hogares, emprendedores y pymes que buscan abaratar costos de mantención y evitar el desecho prematuro de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/impresion-3d-repuestos-descontinuados-chile-2026.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T16:50:21.990Z",
+   "visto": "2026-11-23T16:50:21.990Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/teatro-misterio-y-almas-en-pena-estrenan-las-animas-en-talcahuano",
+   "titulo": "Teatro, misterio y almas en pena: estrenan «Las Ánimas» en Talcahuano",
+   "resumen": "Cinco ánimas, o almas en pena, siguen sin poder volver a casa. Vagan por un territorio sin nombre y reviven una contienda que acabó hace medio siglo. Así parte Las Ánimas, que se estrenará el viernes 27 y el sábado 28 de noviembre en el Teatro Dante de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/animas.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T16:50:21.990Z",
+   "visto": "2026-11-23T16:50:21.990Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/visita-de-biministro-alvarado-al-biobio-aumenta-presion-por-nombramiento-de-delegado-presidencial",
+   "titulo": "Visita de biministro Alvarado al Biobío aumenta presión por nombramiento de delegado presidencial",
+   "resumen": "A casi un mes de la renuncia de Julio Anativia, autoridades regionales cuestionaron la demora del Gobierno en designar a su reemplazante. La llegada del biministro Claudio Alvarado a Talcahuano genera expectativas sobre un eventual anuncio, mientras persisten…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Diseno-sin-titulo-3-e1795452041262.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T16:50:21.990Z",
+   "visto": "2026-11-23T16:50:21.990Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/con-forado-y-tras-desconectar-camaras-roban-10-millones-desde-ferreteria-del-centro-de-concepcion.shtml",
+   "titulo": "Con forado y tras desconectar cámaras: roban $10 millones desde ferretería del centro de Concepción",
+   "resumen": "Delincuentes robaron alrededor de 10 millones de pesos desde una ferretería ubicada en el centro de Concepción, región del Bío...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029205-foto-contexto-nota-bbcl-2026-11-23t134646-208.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-23T16:48:19.000Z",
+   "visto": "2026-11-23T16:50:21.990Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/alejandro-sanz-confirma-concierto-en-concepcion-el-6-de-marzo-y-su-preventa-parte-el-1-de-diciembre",
    "titulo": "Alejandro Sanz confirma concierto en Concepción el 6 de marzo y su preventa parte el 1 de diciembre",
@@ -1551,20 +1623,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/21/corma-expocorma-2026-balance-positivo-industria.html",
-   "titulo": "Sector forestal apuesta por la infraestructura en madera y la reactivación tras Expocorma 2026",
-   "resumen": "El presidente nacional del gremio, Rodrigo O’Ryan, valoró la invitación del gobernador regional Sergio Giacaman para trabajar junto al mundo público y la academia de cara a los Juegos Odesur 2030, en un evento que convocó a decenas de empresas y proveedores.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-expositor-expocorma-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T08:40:23.479Z",
-   "visto": "2026-11-21T08:40:23.479Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/21/agustina-bazterrica-visita-concepcion-la-butaca-entrevista-bibliotecas-udec-100-anos.html",
    "titulo": "Agustina Bazterrica: “Mi universo literario es de violencia y oscuridad, pero también hay mucho humor”",
    "resumen": "En su primera visita a Concepción, la autora argentina compartió con más de 300 personas en la Biblioteca Central UdeC. En conversación con Diario Concepción, abordó las temáticas que cruzan su obra, el impacto internacional de “Cadáver exquisito” y sus…",
@@ -1590,48 +1648,6 @@
    "cats": [
     "tecnologia",
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/20/lancha-estaba-en-construccion-y-cayo-lo-que-se-sabe-de-muerte-de-2-personas-aplastadas-en-talcahuano.shtml",
-   "titulo": "Lancha estaba en construcción y cayó: Lo que se sabe de muerte de 2 personas aplastadas en Talcahuano",
-   "resumen": "Un trágico accidente ha conmocionado la tarde de este viernes a la comuna de Talcahuano, región del...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027436-a-1-por-lancha-estaba-en-construccion-y-cayo_-lo-que-se-sabe-de-muerte-de-2-personas-aplastadas-en-talcahuano.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-21T00:21:14.000Z",
-   "visto": "2026-11-21T00:30:23.514Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/20/talcahuano-accidente-caleta-infiernillo.html",
-   "titulo": "Talcahuano: accidente con embarcación en Caleta Infiernillo deja dos personas fallecidas y un herido",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/images-_2_-1.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T22:40:26.895Z",
-   "visto": "2026-11-20T22:40:26.895Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/cpc-biobio-mesa-defensa-empleo-reunion-crisis-laboral.html",
-   "titulo": "CPC Biobío y Mesa por la Defensa del Empleo se reúnen para enfrentar crisis laboral",
-   "resumen": "La CPC Biobío y los sindicatos de la Mesa por la Defensa del Empleo sostuvieron una primera reunión para analizar el desempleo en el Biobío y proyectaron nuevas citas para buscar propuestas en conjunto",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/dosprime-800x534.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T22:30:31.487Z",
-   "visto": "2026-11-20T22:30:31.487Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
