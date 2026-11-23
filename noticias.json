@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T15:10:28.161Z",
+ "generado": "2026-11-23T15:20:23.442Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,11 +60,10 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 57,
-    "errores": 1,
-    "robots": 0,
-    "ultimoError": "This operation was aborted (https://www.biobiochile.cl/noticias/nacional/chile/2026/11/23/abogado-de-rabat-niega-que-mintiera-y-sugiere-presion-sobre-jueces-que-cambiaron-votos-en-rebajas.shtml)"
+    "enlaces": 152,
+    "leidas": 58,
+    "errores": 0,
+    "robots": 0
    }
   },
   {
@@ -268,10 +267,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
-   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
-   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/biobio-registra-7-644-nuevos-ocupados-mayores-de-55-anos-pero-persisten-dificultades-para-encontrar-trabajo.html",
+   "titulo": "Biobío registra 7.644 nuevos ocupados mayores de 55 años, pero persisten dificultades para encontrar trabajo",
+   "resumen": "SENCE informó que más del 94% de los cupos de Experiencia Mayor ya fueron adjudicados.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-17.23.13.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
@@ -282,10 +281,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/biobio-registra-7-644-nuevos-ocupados-mayores-de-55-anos-pero-persisten-dificultades-para-encontrar-trabajo.html",
-   "titulo": "Biobío registra 7.644 nuevos ocupados mayores de 55 años, pero persisten dificultades para encontrar trabajo",
-   "resumen": "SENCE informó que más del 94% de los cupos de Experiencia Mayor ya fueron adjudicados.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-17.23.13.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
+   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
+   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
