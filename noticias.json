@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T08:50:19.640Z",
+ "generado": "2026-11-23T09:10:21.222Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 59,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 35,
-    "leidas": 10,
+    "enlaces": 36,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/mujer-muere-tras-sufrir-paro-cardiorrespiratorio-en-restaurante-de-caleta-lenga",
+   "titulo": "Una mujer fallece tras sufrir un paro cardiorrespiratorio en un restaurante de Caleta Lenga",
+   "resumen": "Una mujer murió luego de sufrir un paro cardiorrespiratorio dentro del restaurante La Barca, conocido establecimiento situado en Calenga, comuna de Hualpén, región del Bío Bío. El restaurante confirmó el fallecimiento mediante sus redes sociales. El…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/restore-mujer-muere-tras-sufrir-paro-cardiorrespiratorio-en-restaurante-de-caleta-lenga.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T09:10:21.222Z",
+   "visto": "2026-11-23T09:10:21.222Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/biobio-registra-7-644-nuevos-ocupados-mayores-de-55-anos-pero-persisten-dificultades-para-encontrar-trabajo.html",
    "titulo": "Biobío registra 7.644 nuevos ocupados mayores de 55 años, pero persisten dificultades para encontrar trabajo",
