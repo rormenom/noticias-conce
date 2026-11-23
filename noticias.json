@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-23T19:00:28.973Z",
+ "generado": "2026-11-23T19:10:21.029Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -60,7 +61,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 150,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -81,6 +82,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/homicidios-disminuyen-un-14-en-biobio-autoridades-reportan-76-casos-en-lo-que-va-del-ano",
+   "titulo": "Homicidios disminuyen un 14% en Biobío: autoridades reportan 76 casos en lo que va del año",
+   "resumen": "La cifra representa 12 homicidios menos que en igual periodo de 2025. Durante un nuevo Comité Policial, las autoridades también informaron la detención de 54 personas en operativos realizados durante el fin de semana en las tres provincias de la región. Una…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/file_20190827073717.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T19:10:21.029Z",
+   "visto": "2026-11-23T19:10:21.029Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/23/reabren-sorpresivamente-paso-pichachen-en-antuco-municipio-cuestiona-falta-de-informacion-del-gobierno",
    "titulo": "Reabren sorpresivamente Paso Pichachén en Antuco: municipio cuestiona falta de información del Gobierno",
@@ -1514,20 +1529,6 @@
    "titulo": "Dos menores habrían activado gas pimienta y afectado a otros siete en una escuela rural de Los Ángeles",
    "resumen": "Nueve alumnos de la escuela rural Las Parcelas, en Los Ángeles, región del Bío Bío, se vieron afectados por gas pimienta, lo que provocó una emergencia dentro del establecimiento. Los estudiantes, con edades de 11 a 13 años, recibieron atención en el SAR…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/9-alumnos-fueron-afectados-por-gas-pimienta-en-escuela-rural-de-los-angeles_-2-lo-habrian-activado-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-21T17:00:35.469Z",
-   "visto": "2026-11-21T17:00:35.469Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/21/decretan-prohibicion-de-bano-en-3-playas-de-la-region-del-bio-bio-por-presencia-de-fragata-portuguesa",
-   "titulo": "Prohíben el baño en tres playas del Bío Bío por presencia de fragatas portuguesas",
-   "resumen": "La Seremi de Salud del Bío Bío decretó la prohibición de bañarse en tres playas de la región tras detectarse fragata portuguesa. De acuerdo con lo informado, la restricción rige en la playa de Caleta Lenga, en Hualpén. También afecta a Playa Larga y Boca…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/fragata.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-21T17:00:35.469Z",
