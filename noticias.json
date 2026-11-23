@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22T23:30:22.772Z",
+ "generado": "2026-11-23T00:10:20.355Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
+    "enlaces": 158,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -82,10 +82,10 @@
  ],
  "items": [
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/22/un-poemario-que-cruza-memoria-identidad-y-resistencia-nicole-camille-hace-su-debut-literario-con-sonata-en-azul-sin-blanco.html",
-   "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
+   "url": "https://www.tvu.cl/prensa/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
+   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-Nicole-Camille-poeta-y-artista-visual-foto-cedida-Editorial-Mujeres-de-Letras.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-22T23:26:00.650Z",
@@ -96,10 +96,10 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
-   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
+   "url": "https://www.tvu.cl/prensa/2026/11/22/un-poemario-que-cruza-memoria-identidad-y-resistencia-nicole-camille-hace-su-debut-literario-con-sonata-en-azul-sin-blanco.html",
+   "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
    "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-1-Nicole-Camille-poeta-y-artista-visual-foto-cedida-Editorial-Mujeres-de-Letras.jpg",
    "fuente": "TVU",
    "fuenteId": "tvu",
    "fecha": "2026-11-22T23:26:00.650Z",
