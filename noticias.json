@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T14:20:20.247Z",
+ "generado": "2026-11-24T14:30:27.749Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 36,
+    "enlaces": 35,
     "leidas": 8,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/detienen-a-profesor-acusado-de-violar-a-estudiante-de-16-anos-en-tome",
+   "titulo": "Arrestan en Tomé a docente acusado de agredir sexualmente a una alumna de 16 años",
+   "resumen": "La Policía de Investigaciones (PDI) arrestó a un docente acusado de violar a una alumna de 16 años en Tomé, en la región del Bío Bío. El procedimiento fue realizado por detectives de la Brigada de Investigación Criminal, quienes detuvieron al hombre, de 50…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/profesor-detenido-violacion-estudiante-16anos.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T14:30:27.749Z",
+   "visto": "2026-11-24T14:30:27.749Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/seguridad-hualpen-refuerza-prevencion-contra-el-microtrafico-y-amplia-monitoreo-municipal",
    "titulo": "Seguridad: Hualpén refuerza prevención contra el microtráfico y amplía monitoreo municipal",
@@ -111,7 +125,7 @@
   },
   {
    "url": "https://www.radioudec.cl/carlos-pena-rector-este-exceso-de-informacion-amenaza-a-los-medios-y-les-revela-cual-es-su-deber/",
-   "titulo": "Carlos Peña, rector: “Este exceso de información amenaza a los medios y les revela cuál es su deber”",
+   "titulo": "Carlos Peña, rector UDP: “Este exceso de información amenaza a los medios y les revela cuál es su deber”",
    "resumen": "La primera Semana de las Comunicaciones de la Universidad de […]",
    "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/carlos-pena-768x452.jpeg",
    "fuente": "Radio UdeC",
@@ -2507,20 +2521,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T15:00:00.000Z",
    "visto": "2026-11-20T00:40:25.158Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/19/d-concepcion-encabeza-la-lista-de-clubes-que-arriesgan-resta-de-puntos/",
-   "titulo": "D. Concepción encabeza la lista de clubes que arriesgan resta de puntos",
-   "resumen": "Por la regla Sub-21.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Foto-D.Concepción-Minutos-Sub-21-768x540.webp",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-19T14:25:08.000Z",
-   "visto": "2026-11-19T17:10:23.014Z",
    "cats": [
     "deportes"
    ],
