@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T19:10:19.671Z",
+ "generado": "2026-11-24T19:30:28.523Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 58,
+    "enlaces": 155,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 11,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/santa-juana-plazoleta-villa-santa-lucia.html",
+   "titulo": "Santa Juana recupera la plazoleta de Villa Santa Lucía con inversión superior a $100 millones",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/plazoleta-santa-juana.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T19:30:28.523Z",
+   "visto": "2026-11-24T19:30:28.523Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/camaras-trampa-captan-a-tres-huemules-juveniles-en-sectores-cordilleranos-del-bio-bio",
+   "titulo": "Cámaras trampa captan a tres huemules juveniles en sectores cordilleranos del Bío Bío",
+   "resumen": "El hallazgo se produjo en sectores cercanos al Parque Nacional Laguna del Laja que no habían sido monitoreados anteriormente. El registro permitirá fortalecer las estrategias de conservación de una especie cuya población en Chile central se encuentra en…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/plantilla-1920x1080-97-1536x864-1-e1795547771814.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T19:30:28.523Z",
+   "visto": "2026-11-24T19:30:28.523Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/segunda-quincena-de-diciembre-se-instalara-primera-piedra-de-reconstruccion-de-rios-de-chile-en-penco",
    "titulo": "La reconstrucción de Ríos de Chile en Penco comenzará con la primera piedra en la segunda quincena de diciembre",
@@ -1408,20 +1436,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
-   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T15:30:24.736Z",
-   "visto": "2026-11-23T15:30:24.736Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.radioudec.cl/queremos-mas-tiempo-para-leer-la-furia-del-libro-de-verano-2026-anuncia-sus-primeros-confirmados/",
    "titulo": "“Queremos más tiempo para leer”: La Furia del Libro de verano 2026 anuncia sus primeros confirmados",
    "resumen": "En nuestro país se leen 5,5 libros por persona al […]",
@@ -1432,20 +1446,6 @@
    "visto": "2026-11-23T15:30:24.736Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/impulso-lector-2026-evaluacion-se-aplicara-por-primera-vez-a-estudiantes-de-2-basico/",
-   "titulo": "Impulso Lector 2026: evaluación se aplicará por primera vez a estudiantes de 2° básico",
-   "resumen": "Con una participación que contempla a más de 278.000 estudiantes […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/IMG_5634.JPG-768x432.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-23T15:08:05.000Z",
-   "visto": "2026-11-23T15:10:28.161Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
