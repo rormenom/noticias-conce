@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T16:20:22.057Z",
+ "generado": "2026-11-24T16:30:26.468Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 62,
+    "enlaces": 156,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 8,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/24/academia-danzas-soraya-selaive-nueva-edicion-bellyfest.html",
+   "titulo": "Academia de Danzas Soraya Selaive prepara nueva edición del BellyFest",
+   "resumen": "Evento se desarrollará del 27 al 29 de noviembre en el Hotel Dorado, abierto para toda la comunidad penquista.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Academia-Soraya-Selaive.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T16:30:26.468Z",
+   "visto": "2026-11-24T16:30:26.468Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/masiva-fila-en-plaza-independencia-por-feria-laboral-en-concepcion-a-cualquier-puesto-que-encuentre",
+   "titulo": "Masiva fila en Plaza Independencia por feria laboral en Concepción: “Cualquier puesto que encuentre”",
+   "resumen": "La actividad, organizada por la Municipalidad de Concepción a través de su OMIL, convocó a decenas de personas en busca de empleo en medio del 10,5% de desocupación que registra la Región del Biobío. Una extensa fila se formó en pleno centro de Concepción, en…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-11.51.30-AM-e1795537656277.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T16:30:26.468Z",
+   "visto": "2026-11-24T16:30:26.468Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/levantan-prohibicion-bano-fragata-portuguesa-playas-lebu.html",
    "titulo": "Tras 48 horas sin ejemplares: dejan sin efecto prohibición por fragata portuguesa en playas de Lebu",
@@ -2171,20 +2199,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/destacando-la-escena-musical-regional-festival-son-del-biobio-desplegara-manana-su-octava-version.html",
-   "titulo": "Destacando la escena musical regional: Festival Son del Biobío desplegará mañana su octava versión",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-TVU.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T08:40:20.882Z",
-   "visto": "2026-11-20T08:40:20.882Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/20/habitar-el-cerebro-comunidad-podra-experimentar-y-comprender-como-funciona-el-organo-vital.html",
    "titulo": "“Habitar el Cerebro”: comunidad podrá experimentar y comprender cómo funciona el órgano vital",
    "resumen": "Una experiencia lúdica e interactiva y gratuita se ofrecerá este sábado 21 de noviembre en el Cicat UdeC.",
@@ -2209,6 +2223,20 @@
    "visto": "2026-11-20T08:40:20.882Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/destacando-la-escena-musical-regional-festival-son-del-biobio-desplegara-manana-su-octava-version.html",
+   "titulo": "Destacando la escena musical regional: Festival Son del Biobío desplegará mañana su octava versión",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-TVU.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-20T08:40:20.882Z",
+   "visto": "2026-11-20T08:40:20.882Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -2465,20 +2493,6 @@
    "visto": "2026-11-19T16:50:22.840Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/11/19/tecnologia-desarrollada-en-el-bio-bio-logra-degradar-hasta-un-80-de-hidrocarburos-en-solo-24-horas.shtml",
-   "titulo": "Tecnología desarrollada en el Bío Bío logra degradar hasta un 80% de hidrocarburos en solo 24 horas",
-   "resumen": "¿Qué pasaría si los residuos industriales contaminados con hidrocarburos pudieran tratarse mediante procesos biológicos, en lugar de terminar confinados en...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025302-degradar-hidrocarburos-.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-19T16:30:35.000Z",
-   "visto": "2026-11-19T16:40:21.683Z",
-   "cats": [
-    "tecnologia"
    ],
    "local": true
   }
