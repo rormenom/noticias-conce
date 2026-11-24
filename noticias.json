@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-24T10:40:21.257Z",
+ "generado": "2026-11-24T10:50:25.240Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -61,7 +62,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 66,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +75,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 4,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/docentes-y-trabajadores-de-los-angeles-se-suman-al-paro-nacional-contra-los-recortes-en-educacion",
+   "titulo": "Docentes y trabajadores de Los Ángeles se suman al paro nacional contra los recortes en educación",
+   "resumen": "Gremios educativos y de trabajadores de Los Ángeles confirmaron que se suman al paro y marcha nacional de este martes 24 de noviembre, convocados por el Colegio de Profesores, la organización que agrupa a los docentes del país. La protesta apunta contra una…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2025/04/Captura-de-pantalla-2025-04-30-a-las-7.57.53%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T10:50:25.240Z",
+   "visto": "2026-11-24T10:50:25.240Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/robo-de-8-500-millones-al-bci-en-concepcion-la-fiscalia-afina-su-investigacion",
    "titulo": "Robo de $8.500 millones al BCI en Concepción: la Fiscalía afina su investigación",
@@ -1541,20 +1556,6 @@
    "titulo": "Robo al BCI en Concepción: Fiscalía no descarta hipótesis y mantiene reserva de diligencias",
    "resumen": "A dos semanas del millonario robo a una sucursal del BCI en Concepción, la investigación sigue sin resultados. El fiscal regional del Bío Bío, Roberto Garrido, afirmó que el Ministerio Público no ha descartado ninguna hipótesis y que las diligencias continúan…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/diligencias-robo-banco-bci-concepcion.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T17:50:20.127Z",
-   "visto": "2026-11-22T17:50:20.127Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/alerta-por-calor-en-el-bio-bio-maximas-sobre-lo-normal-que-llegarian-hasta-el-fin-de-semana",
-   "titulo": "Alerta por calor en el Bío Bío: máximas sobre lo normal que llegarían hasta el fin de semana",
-   "resumen": "La región del Bío Bío quedó bajo una advertencia meteorológica por calor, con valores que en ciertas zonas superarían los 30 °C. Así lo explicó Arnaldo Zuñiga, meteorólogo de difusión del Centro Nacional de Análisis, quien detalló que el alza comenzaría el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/calor.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-22T17:50:20.127Z",
