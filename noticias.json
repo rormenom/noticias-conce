@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T08:50:20.672Z",
+ "generado": "2026-11-24T09:10:22.717Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 64,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 6,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/detienen-a-3-adultos-y-1-adolescente-por-homicidio-ocurrido-en-concepcion-y-ataque-armado-en-hualpen",
+   "titulo": "Detienen a cuatro personas por homicidio en Concepción y ataque armado en Hualpén",
+   "resumen": "Este lunes, la Fiscalía Regional del Bío Bío informó que cuatro personas fueron detenidas por su presunta participación en dos violentos delitos, uno de ellos un homicidio, perpetrados entre fines de septiembre y comienzos de octubre en el Gran Concepción,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-1-cntxt-por-detienen-a-3-adultos-y-1-adolescente-por-homicidio-ocurrido-en-concepcion-y-ataque-a-tiros-en-hualpen-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T09:10:22.717Z",
+   "visto": "2026-11-24T09:10:22.717Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/24/armada-isla-quiriquina-pdi-extraccion-madera.html",
    "titulo": "La PDI realiza diligencias sobre la Armada tras observaciones por faenas forestales en la Isla Quiriquina",
@@ -1573,20 +1587,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-22T15:00:00.000Z",
    "visto": "2026-11-23T23:30:24.531Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/prochile-expocorma-rueda-negocios-forestal-2026.html",
-   "titulo": "Prochile proyecta US$2,3 millones como resultados de ruedas de negocios realizadas en Expocorma 2026",
-   "resumen": "La actividad reunió a 37 empresas chilenas con nueve compradores de México, Costa Rica, Guatemala y Polonia, quienes mostraron especial interés en manufacturas de madera y soluciones constructivas de mayor valor agregado.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-21-at-12.33.55.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T15:00:00.000Z",
-   "visto": "2026-11-23T23:20:23.249Z",
    "cats": [
     "regional"
    ],
