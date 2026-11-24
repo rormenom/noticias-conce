@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T16:40:22.427Z",
+ "generado": "2026-11-24T16:50:24.107Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 60,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -999,10 +999,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/reabren-paso-pichachen-proyectan-finalizar-obras-del-complejo-fronterizo-pichachen-en-marzo.html",
-   "titulo": "Reabren paso Pichachén: proyectan finalizar obras del Complejo Fronterizo Pichachén en marzo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pag-12-paso-pichachen-foto-cedida.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cge-condona-deudas-electricas-damnificados-penco-lirquen.html",
+   "titulo": "A 10 meses de los incendios: condonan deudas eléctricas hasta mayo a más de 2 mil familias de Penco y Lirquén y repactarán cobros de junio a septiembre",
+   "resumen": "Diez meses después de la emergencia registrada en enero de 2026, autoridades informaron la anulación de saldos previos a mayo, mientras que los consumos entre junio y septiembre se facturarán en cuotas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cge-condona-deudas-electricas-damnificados-penco-lirquen-e1795456767162.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T18:10:19.858Z",
@@ -1013,10 +1013,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cge-condona-deudas-electricas-damnificados-penco-lirquen.html",
-   "titulo": "A 10 meses de los incendios: condonan deudas eléctricas hasta mayo a más de 2 mil familias de Penco y Lirquén y repactarán cobros de junio a septiembre",
-   "resumen": "Diez meses después de la emergencia registrada en enero de 2026, autoridades informaron la anulación de saldos previos a mayo, mientras que los consumos entre junio y septiembre se facturarán en cuotas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cge-condona-deudas-electricas-damnificados-penco-lirquen-e1795456767162.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/reabren-paso-pichachen-proyectan-finalizar-obras-del-complejo-fronterizo-pichachen-en-marzo.html",
+   "titulo": "Reabren paso Pichachén: proyectan finalizar obras del Complejo Fronterizo Pichachén en marzo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pag-12-paso-pichachen-foto-cedida.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T18:10:19.858Z",
@@ -1125,20 +1125,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/aviso-altas-temperaturas-biobio-32-grados-incendios.html",
-   "titulo": "Hasta 32 grados y ráfagas de 50 km/h: pronostican calor intenso en el Biobío.",
-   "resumen": "Una ola de calor además de fuertes vientos se esperan para sectores desde el litoral hasta la precordillera en la Región del Biobío, de acuerdo al aviso de la Dirección Meteorológica de Chile",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/JAime-Rendon-2.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T16:50:21.990Z",
-   "visto": "2026-11-23T16:50:21.990Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/23/impresion-3d-repuestos-descontinuados-chile-2026.html",
    "titulo": "De $65.000 más IVA a $2.000: el auge de la impresión 3D para fabricar repuestos descontinuados y reducir basura electrónica",
    "resumen": "Entre enero y mediados de noviembre de 2026, la comercialización de impresoras 3D aumentó un 55% respecto de igual período de 2025, impulsada por hogares, emprendedores y pymes que buscan abaratar costos de mantención y evitar el desecho prematuro de…",
@@ -1149,6 +1135,20 @@
    "visto": "2026-11-23T16:50:21.990Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/aviso-altas-temperaturas-biobio-32-grados-incendios.html",
+   "titulo": "Hasta 32 grados y ráfagas de 50 km/h: pronostican calor intenso en el Biobío.",
+   "resumen": "Una ola de calor además de fuertes vientos se esperan para sectores desde el litoral hasta la precordillera en la Región del Biobío, de acuerdo al aviso de la Dirección Meteorológica de Chile",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/JAime-Rendon-2.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T16:50:21.990Z",
+   "visto": "2026-11-23T16:50:21.990Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -2462,35 +2462,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-19T16:59:23.000Z",
    "visto": "2026-11-19T17:00:29.286Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/teorema-en-el-parque-ecuador-festival-son-del-biobio-prepara-una-gran-fiesta-musical",
-   "titulo": "¡Teorema en el Parque Ecuador! festival \"Son del Biobío\" prepara una gran fiesta musical",
-   "resumen": "La octava versión del festival Son del Biobío se realizará el sábado 21 de noviembre en el Parque Ecuador de Concepción. Su directora, Sofía Rosenkranz, conversó sobre la organización del evento y los cambios de esta edición. El encuentro coincide con otras…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/teorema.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T16:50:22.840Z",
-   "visto": "2026-11-19T16:50:22.840Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/19/sergio-giacaman-gobernado-bio-bio-juegos-odesur-2030.shtml",
-   "titulo": "Tres alternativas para Villa y comunas ya confirmadas como sede: así avanza Bío Bío para Odesur 2030",
-   "resumen": "Sergio Giacaman, gobernador de la región del Bío Bío, dio detalles de las obras que se realizarán para albergar los...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025205-sergio-giacaman-gobernado-bio-bio-juegos-odesur-2030.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-19T16:40:56.000Z",
-   "visto": "2026-11-19T16:50:22.840Z",
    "cats": [
     "deportes"
    ],
