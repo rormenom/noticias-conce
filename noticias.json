@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T14:50:24.586Z",
+ "generado": "2026-11-24T15:00:30.272Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 63,
+    "enlaces": 154,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 35,
-    "leidas": 7,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/preuniversitario-gratuito-formo-a-120-jovenes-de-region-del-bio-bio-con-apoyo-academico-y-vocacional",
+   "titulo": "Un preuniversitario gratuito apoyó la preparación académica y vocacional de 120 jóvenes del Biobío",
+   "resumen": "120 jóvenes de Nacimiento y Negrete completaron la Escuela de Formación para el Ingreso a Educación Superior (Efies), un preuniversitario gratuito e integral impulsado por Formando Chile junto a CMPC para contribuir a ampliar el acceso a la educación…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/preuniversitario-region-del-bio-bio-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T15:00:30.272Z",
+   "visto": "2026-11-24T15:00:30.272Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/estudiante-de-18-anos-es-detenido-por-almacenar-material-de-explotacion-sexual-infantil-en-laja",
+   "titulo": "Detienen en Laja a estudiante de 18 años por almacenar material de explotación sexual infantil",
+   "resumen": "Un alumno de 18 años fue arrestado en Laja, en la región del Bío Bío, por guardar en su teléfono celular material de explotación sexual infantil. El hecho se conoció después de que el joven revisara contenido de ese tipo en un computador de un liceo de la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T15:00:30.272Z",
+   "visto": "2026-11-24T15:00:30.272Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/conaf-confirma-presencia-de-huemules-en-el-parque-nacional-laguna-del-laja/",
    "titulo": "Conaf confirma presencia de huemules en el Parque Nacional Laguna del Laja",
@@ -90,6 +118,20 @@
    "fuenteId": "radioudec",
    "fecha": "2026-11-24T14:47:23.000Z",
    "visto": "2026-11-24T14:50:24.586Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/estudiante-de-18-anos-es-detenido-por-almacenar-material-de-explotacion-sexual-infantil-en-laja.shtml",
+   "titulo": "Estudiante de 18 años es detenido por almacenar material de explotación sexual infantil en Laja",
+   "resumen": "Un estudiante de 18 años es detenido por almacenar material de explotación sexual infantil en su teléfono celular en Laja,...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7030360-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-24T14:41:39.000Z",
+   "visto": "2026-11-24T15:00:30.272Z",
    "cats": [
     "regional"
    ],
@@ -1467,48 +1509,6 @@
    "local": true
   },
   {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/operativo-en-arauco-permite-detencion-de-22-personas-y-la-incautacion-de-mas-de-20-kilos-de-droga/",
-   "titulo": "Arauco: Operativo deja 22 detenidos y más de 20 kilos de droga incautados",
-   "resumen": "16 de ellos quedaron en prisión preventiva.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/pdi-operativo-cofradia-del-golfo-768x405.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-23T07:12:47.000Z",
-   "visto": "2026-11-23T11:20:25.046Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/mop-confirma-para-enero-de-2027-inicio-de-la-pavimentacion-de-14-kilometros-en-cuatro-caminos-rurales-de-bulnes/",
-   "titulo": "MOP confirma inicio de pavimentación de 14 kilómetros en cuatro caminos rurales de Bulnes",
-   "resumen": "Para enero de 2027.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/mop-pavimentacion-nuble--768x432.avif",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-23T06:47:39.000Z",
-   "visto": "2026-11-23T12:00:29.493Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/mujer-muere-tras-sufrir-paro-cardiorrespiratorio-en-restaurante-de-caleta-lenga.shtml",
-   "titulo": "Mujer muere tras sufrir paro cardiorrespiratorio en restaurante de Caleta Lenga",
-   "resumen": "Una mujer falleció tras sufrir un paro cardiorrespiratorio al interior del restaurante La Barca, reconocido local ubicado...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028487-restore-mujer-muere-tras-sufrir-paro-cardiorrespiratorio-en-restaurante-de-caleta-lenga-1200x633.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-23T01:55:21.000Z",
-   "visto": "2026-11-23T02:00:25.740Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.tvu.cl/prensa/2026/11/22/agricultura-proyecta-veto-a-ley-de-incendios-para-diciembre-y-anuncia-despliegue-de-548-brigadistas-en-el-biobio.html",
    "titulo": "Agricultura proyecta veto a ley de incendios para diciembre y anuncia despliegue de 548 brigadistas en el Biobío",
    "resumen": "",
@@ -2480,49 +2480,6 @@
    "cats": [
     "cultura",
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/arqueologia-bajo-el-puente-industrial-presentan-libro-con-los-hallazgos-hallados-durante-la-obra",
-   "titulo": "Arqueología bajo el Puente Industrial: presentan libro con los hallazgos hallados durante la obra",
-   "resumen": "Los restos arqueológicos recuperados durante la construcción del Puente Industrial en el Gran Concepción quedaron reunidos en un libro divulgativo que busca acercar la historia local a la comunidad, a establecimientos educacionales y a la red de bibliotecas.…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-19-at-11.22.17-e1795099219520.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T15:00:29.402Z",
-   "visto": "2026-11-19T15:00:29.402Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/nano-diaz-renovacion-2027-concepcion.html",
-   "titulo": "“Se analizaron las posibilidades de 2027”: Presidente del Conce sobre “Nano” Díaz",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/nano-diaz-colo-colo.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T15:00:00.000Z",
-   "visto": "2026-11-20T01:00:27.861Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/diego-livingstone-tesorero-anfp.html",
-   "titulo": "Diego Livingstone deja Deportes Concepción para asumir tesorería de la ANFP",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/download-6.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T15:00:00.000Z",
-   "visto": "2026-11-20T00:40:25.158Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
