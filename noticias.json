@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T18:00:37.804Z",
+ "generado": "2026-11-24T18:10:25.027Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
-    "leidas": 3,
+    "enlaces": 56,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 58,
+    "enlaces": 155,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/24/extensas-filas-feria-laboral-concepcion-desempleo-biobio.html",
+   "titulo": "Más de 1.200 vacantes y filas en Plaza Independencia: el rostro del desempleo en la séptima feria laboral penquista",
+   "resumen": "La séptima versión de la feria impulsada por la Municipalidad de Concepción ofreció más de 1.200 puestos de trabajo y apoyo para imprimir currículums.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/extensas-filas-feria-laboral-concepcion-desempleo-biobio.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T18:00:37.804Z",
+   "visto": "2026-11-24T18:00:37.804Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/concepcion-persona-fallece-aplastada-arbol.html",
    "titulo": "Concepción: persona mayor fallece tras ser aplastada por árbol",
@@ -106,20 +120,6 @@
    "visto": "2026-11-24T18:00:37.804Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/24/extensas-filas-feria-laboral-concepcion-desempleo-biobio.html",
-   "titulo": "Más de 1.200 vacantes y filas en Plaza Independencia: el rostro del desempleo en la séptima feria laboral penquista",
-   "resumen": "La séptima versión de la feria impulsada por la Municipalidad de Concepción ofreció más de 1.200 puestos de trabajo y apoyo para imprimir currículums.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/extensas-filas-feria-laboral-concepcion-desempleo-biobio.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T18:00:37.804Z",
-   "visto": "2026-11-24T18:00:37.804Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
