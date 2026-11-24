@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T18:20:23.558Z",
+ "generado": "2026-11-24T18:40:22.444Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 61,
+    "enlaces": 155,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/segunda-quincena-de-diciembre-se-instalara-primera-piedra-de-reconstruccion-de-rios-de-chile-en-penco",
+   "titulo": "La reconstrucción de Ríos de Chile en Penco comenzará con la primera piedra en la segunda quincena de diciembre",
+   "resumen": "Ya se conocen plazos más definidos para el plan de reconstrucción del conjunto habitacional Ríos de Chile, destruido por completo en el incendio forestal que afectó a Penco el verano pasado. De esta manera, las familias cuentan con mayor claridad respecto de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/reconstruccion-rios-de-chile-penco.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T18:40:22.444Z",
+   "visto": "2026-11-24T18:40:22.444Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/11/24/teatro-biobio-cierra-el-ano-con-danza-funcion-gratuita-de-espiral-y-debut-del-ballet-nacional-chileno.shtml",
    "titulo": "Teatro Biobío cierra el año con danza: función gratuita de Espiral y debut del Ballet Nacional Chileno",
@@ -1464,20 +1478,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/biobio-registra-7-644-nuevos-ocupados-mayores-de-55-anos-pero-persisten-dificultades-para-encontrar-trabajo.html",
-   "titulo": "Biobío registra 7.644 nuevos ocupados mayores de 55 años, pero persisten dificultades para encontrar trabajo",
-   "resumen": "SENCE informó que más del 94% de los cupos de Experiencia Mayor ya fueron adjudicados.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-17.23.13.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T15:00:00.000Z",
-   "visto": "2026-11-24T15:50:26.539Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/el-duro-golpe-que-condena-a-fernandez-vial-a-seguir-en-tercera-b/",
    "titulo": "El duro golpe que condena a Fernández Vial a seguir en Tercera B",
    "resumen": "Goleado en Santiago y un futuro lleno de dudas.",
@@ -2435,20 +2435,6 @@
    "visto": "2026-11-19T18:50:22.023Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/presupuesto-2027-educacion-acuerdos.html",
-   "titulo": "“Yo Elijo Mi PC” y Aporte Fiscal Directo: las claves del Presupuesto 2027 en Educación",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/05/pag-5-sala-de-clases-foto-archivo.jpg-e1779153332750.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T18:40:20.867Z",
-   "visto": "2026-11-19T18:40:20.867Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
