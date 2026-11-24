@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T15:40:24.640Z",
+ "generado": "2026-11-24T15:50:26.539Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 61,
+    "enlaces": 156,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,29 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 34,
-    "leidas": 9,
-    "errores": 0,
-    "robots": 0
+    "enlaces": 33,
+    "leidas": 8,
+    "errores": 1,
+    "robots": 0,
+    "ultimoError": "HTTP 404 (https://www.canal9.cl/episodios/2026/11/24/mi-hija-no-deberia-perder-sus-derechos-por-tener-sindrome-de-down-el-padre-de-javiera-busca-cambiar-la-ley-en-chile)"
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/mi-hija-no-deberia-perder-sus-derechos-por-tener-sindrome-de-down-el-padre-de-javiera-busca-cambiar-la-ley-en-chile",
+   "titulo": "“Mi hija no debería perder sus derechos por tener síndrome de Down”: el padre de Javiera busca cambiar la ley en Chile",
+   "resumen": "",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-11.14.54-AM.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T15:50:26.539Z",
+   "visto": "2026-11-24T15:50:26.539Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/persona-muere-tras-caerle-un-arbol-mientras-realizaba-labores-de-corte-en-concepcion",
    "titulo": "Persona muere tras caerle un árbol mientras realizaba labores de corte en Concepción",
@@ -110,10 +125,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/padre-de-joven-declarada-interdicta-impulsa-cambios-legales-para-proteger-coberturas-y-derechos-tras-la-mayoria-de-edad",
-   "titulo": "Padre de joven declarada interdicta impulsa cambios legales para proteger coberturas y derechos tras la mayoría de edad",
-   "resumen": "La historia de Javiera, una joven de 22 años con síndrome de Down y lenguaje no verbal que fue declarada interdicta al cumplir la mayoría de edad, abrió un debate sobre los vacíos y topes que enfrenta su familia en materia de coberturas, beneficios y respaldo…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-11.14.54-1.jpeg",
+   "url": "https://www.canal9.cl/episodios/2026/11/24/de-los-costillares-del-bavaria-a-las-barras-de-proteina",
+   "titulo": "De los costillares del Bavaria a las barras de proteína",
+   "resumen": "Los diputados republicanos Sebastián Zamora, Javiera Rodríguez e Ignacio Urrutia llegaron a una comisaría en Valparaíso cargados de bebidas energéticas y barras de proteína, y se grabaron haciéndolo. Lo hicieron con orgullo, para las redes. Por eso presenté…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/de-los-costillares-del-bavaria-a-las-barras-de-proteina.webp",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-24T15:20:24.118Z",
@@ -124,10 +139,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/de-los-costillares-del-bavaria-a-las-barras-de-proteina",
-   "titulo": "De los costillares del Bavaria a las barras de proteína",
-   "resumen": "Los diputados republicanos Sebastián Zamora, Javiera Rodríguez e Ignacio Urrutia llegaron a una comisaría en Valparaíso cargados de bebidas energéticas y barras de proteína, y se grabaron haciéndolo. Lo hicieron con orgullo, para las redes. Por eso presenté…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/de-los-costillares-del-bavaria-a-las-barras-de-proteina.webp",
+   "url": "https://www.canal9.cl/episodios/2026/11/24/padre-de-joven-declarada-interdicta-impulsa-cambios-legales-para-proteger-coberturas-y-derechos-tras-la-mayoria-de-edad",
+   "titulo": "Padre de joven declarada interdicta impulsa cambios legales para proteger coberturas y derechos tras la mayoría de edad",
+   "resumen": "La historia de Javiera, una joven de 22 años con síndrome de Down y lenguaje no verbal que fue declarada interdicta al cumplir la mayoría de edad, abrió un debate sobre los vacíos y topes que enfrenta su familia en materia de coberturas, beneficios y respaldo…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-11.14.54-1.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-24T15:20:24.118Z",
@@ -1296,6 +1311,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/biobio-registra-7-644-nuevos-ocupados-mayores-de-55-anos-pero-persisten-dificultades-para-encontrar-trabajo.html",
+   "titulo": "Biobío registra 7.644 nuevos ocupados mayores de 55 años, pero persisten dificultades para encontrar trabajo",
+   "resumen": "SENCE informó que más del 94% de los cupos de Experiencia Mayor ya fueron adjudicados.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-17.23.13.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T15:00:00.000Z",
+   "visto": "2026-11-24T15:50:26.539Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/23/forado-en-la-pared-y-camaras-cortadas-millonario-robo-a-ferreteria-en-pleno-centro-de-concepcion",
    "titulo": "Forado en la pared y cámaras cortadas: millonario robo a ferretería en pleno centro de Concepción",
    "resumen": "Un robo avaluado preliminarmente entre 10 y 20 millones de pesos afectó durante la tarde del domingo 22 de noviembre a la ferretería Ríos y Ríos, ubicada en calle Maipú, en pleno centro de Concepción. El hecho ocurrió a plena luz del día, entre las 16:00 y…",
@@ -1449,20 +1478,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/mujer-muere-tras-sufrir-paro-cardiorrespiratorio-en-restaurante-de-caleta-lenga",
-   "titulo": "Una mujer fallece tras sufrir un paro cardiorrespiratorio en un restaurante de Caleta Lenga",
-   "resumen": "Una mujer murió luego de sufrir un paro cardiorrespiratorio dentro del restaurante La Barca, conocido establecimiento situado en Calenga, comuna de Hualpén, región del Bío Bío. El restaurante confirmó el fallecimiento mediante sus redes sociales. El…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/restore-mujer-muere-tras-sufrir-paro-cardiorrespiratorio-en-restaurante-de-caleta-lenga.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T09:10:21.222Z",
-   "visto": "2026-11-23T09:10:21.222Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
