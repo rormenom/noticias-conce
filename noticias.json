@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T17:40:21.631Z",
+ "generado": "2026-11-24T17:50:21.169Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
+    "enlaces": 156,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/segunda-quincena-de-diciembre-se-instalara-primera-piedra-de-reconstruccion-de-rios-de-chile-en-penco.shtml",
+   "titulo": "Segunda quincena de diciembre se instalará primera piedra de reconstrucción de Ríos de Chile en Penco",
+   "resumen": "La segunda quincena de diciembre se instalará la primera piedra del proyecto de reconstrucción del sector Ríos de Chile, en Penco, zona destruida tras los incendios forestales del pasado verano.",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7030705-reconstruccion-rios-de-chile-penco.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-24T17:43:39.000Z",
+   "visto": "2026-11-24T17:50:21.169Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/confirma-presencia-huemules-parque-nacional-laguna-laja.html",
    "titulo": "Cámaras trampa registran por primera vez tres huemules juveniles en zonas cordilleranas del Biobío",
