@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T12:30:25.870Z",
+ "generado": "2026-11-24T13:10:22.043Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 156,
     "leidas": 65,
     "errores": 0,
     "robots": 0
@@ -2538,20 +2538,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/yasmani-acosta-posterga-retiro-biobio-2030.html",
-   "titulo": "“No hay mejor escenario para decir adiós que en casa”: Yasmani Acosta confirma que buscará cerrar su carrera en los Odesur Biobío 2030",
-   "resumen": "Tras confirmarse que la Región del Biobío albergará los Juegos Suramericanos 2030, el deportista nacional anunció que dejó atrás la idea de retirarse en Los Ángeles 2028 para despedirse tras más de 30 años de trayectoria frente al público chileno.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/yasmani-campos-juegos-ol%C3%ADmpicos-paris-e1795093195847.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T13:10:22.385Z",
-   "visto": "2026-11-19T13:10:22.385Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
