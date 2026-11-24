@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T21:00:27.931Z",
+ "generado": "2026-11-24T21:30:25.961Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 59,
+    "enlaces": 58,
     "leidas": 2,
     "errores": 0,
     "robots": 0
@@ -2394,20 +2394,6 @@
    "visto": "2026-11-19T21:40:20.537Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/principales-panoramas-culturales-proximos-dias-gran-concepcion-2.html",
-   "titulo": "Estos son los principales panoramas culturales para los próximos días en el Gran Concepción",
-   "resumen": "La agenda cultural artística cultural penquista viene cargada de eventos y actividades para lo que queda de noviembre. La música destaca en sus más diversos géneros, con presentaciones estelares y propuestas que prometen sorprender y emeocionar.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/JUEVES.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T21:30:26.949Z",
-   "visto": "2026-11-19T21:30:26.949Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   }
