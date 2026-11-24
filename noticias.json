@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T09:10:22.717Z",
+ "generado": "2026-11-24T09:20:20.786Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/gobierno-da-por-superado-el-problema-de-las-renuncias-con-elastico-en-el-bio-bio-y-niega-presiones",
+   "titulo": "Gobierno da por superado el problema de las renuncias con elástico en el Bío Bío y niega presiones",
+   "resumen": "El Gobierno reconoció que hubo un impasse por las llamadas «renuncias con elástico» de la seremi de Salud, Isabel Rojas, y de la directora del Servicio Nacional del Adulto Mayor (Senama), Antaris Varela, ambas en la región del Bío Bío. Sin embargo, aseguró…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/SEREMI-SALUD-Y-SENAMA-.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T09:20:20.786Z",
+   "visto": "2026-11-24T09:20:20.786Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/detienen-a-3-adultos-y-1-adolescente-por-homicidio-ocurrido-en-concepcion-y-ataque-armado-en-hualpen",
    "titulo": "Detienen a cuatro personas por homicidio en Concepción y ataque armado en Hualpén",
@@ -1573,20 +1588,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-22T15:10:19.838Z",
    "visto": "2026-11-22T15:10:19.838Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/forbes-chile-periodismo-inteligencia-artificial.html",
-   "titulo": "Directora de Forbes Chile plantea los desafíos del periodismo ante el avance de la IA",
-   "resumen": "La periodista del medio internacional, Claudia Guzmán, destacó el valor de las historias locales, la conexión con las audiencias y el potencial de la digitalización para romper con el centralismo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/claudia-guzman-directora-forbes-chile.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T15:00:00.000Z",
-   "visto": "2026-11-23T23:30:24.531Z",
    "cats": [
     "regional"
    ],
