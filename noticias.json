@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T17:20:22.404Z",
+ "generado": "2026-11-24T17:40:21.631Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -2422,20 +2422,6 @@
    "cats": [
     "regional",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/subsecretaria-ciencias-rossi-renuncia.html",
-   "titulo": "Subsecretaria de Ciencias, Carolina Rossi, presentó su renuncia al cargo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/7QL7BGQU5BDX3IEJDTQXWK45YI.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T17:40:21.965Z",
-   "visto": "2026-11-19T17:40:21.965Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
