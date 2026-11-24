@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T19:40:26.939Z",
+ "generado": "2026-11-24T19:50:23.733Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
-    "leidas": 1,
+    "enlaces": 57,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 57,
+    "enlaces": 156,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/restringen-quemas-controladas-biobio-2.html",
+   "titulo": "Por vientos y altas temperaturas: restringen uso del fuego para quemas controladas en Biobío",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/11/Conaf-proh%C3%ADbe-quemas-controladas-en-el-Biob%C3%ADo-multas-llegan-hasta-50-UTM-e1763067346302.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T19:50:23.733Z",
+   "visto": "2026-11-24T19:50:23.733Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/comite-regional-de-infraestructura-define-23-proyectos-prioritarios-para-destrabar-y-acelerar-iniciativas/",
    "titulo": "Comité Regional de Infraestructura define 23 proyectos prioritarios para destrabar y acelerar iniciativas",
@@ -1416,20 +1430,6 @@
    "fuenteId": "radioudec",
    "fecha": "2026-11-23T15:36:26.000Z",
    "visto": "2026-11-23T15:40:23.007Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/42-mujeres-capacitacion-emprendimientos-los-alamos.html",
-   "titulo": "Formalización y financiamiento: los desafíos de 42 emprendedoras de Los Álamos",
-   "resumen": "Marketing digital, formalización y financiamiento fueron parte de la capacitación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Academia-de-Mujeres-Empresarias-impulsa-el-desarrollo-de-42-emprendedoras-en-Los-A%CC%81lamos.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T15:30:24.736Z",
-   "visto": "2026-11-23T15:30:24.736Z",
    "cats": [
     "regional"
    ],
