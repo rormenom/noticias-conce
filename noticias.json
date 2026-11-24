@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T15:30:26.782Z",
+ "generado": "2026-11-24T15:40:24.640Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 63,
+    "enlaces": 155,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/persona-muere-tras-caerle-un-arbol-mientras-realizaba-labores-de-corte-en-concepcion",
+   "titulo": "Persona muere tras caerle un árbol mientras realizaba labores de corte en Concepción",
+   "resumen": "Una persona falleció durante la jornada de este martes tras ser impactada por un árbol en el sector San Jorge, en la comuna de Concepción, región del Bío Bío. De acuerdo con información preliminar, la víctima se encontraba realizando labores de corte de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ahora-c9-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T15:40:24.640Z",
+   "visto": "2026-11-24T15:40:24.640Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/gran-concepcion-pdi-detiene-a-cuatro-implicados-en-dos-homicidios-consumados-y-un-ataque-frustrado-con-arma-de-fuego",
+   "titulo": "Gran Concepción: PDI detiene a cuatro implicados en dos homicidios consumados y un ataque frustrado con arma de fuego",
+   "resumen": "La Brigada de Homicidios de la Policía de Investigaciones (PDI), en conjunto con su equipo de fuerza de tarea y en coordinación con el Equipo de Crimen Organizado y Homicidios (ECOH) del Ministerio Público, concretó la detención de cuatro personas, tres…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-1-cntxt-por-funcionario-pdi-activo-y-otro-en-retiro-quedan-en-prision-por-corrupcion-en-la-araucania-y-los-lagos.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T15:40:24.640Z",
+   "visto": "2026-11-24T15:40:24.640Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/padre-de-joven-declarada-interdicta-impulsa-cambios-legales-para-proteger-coberturas-y-derechos-tras-la-mayoria-de-edad",
    "titulo": "Padre de joven declarada interdicta impulsa cambios legales para proteger coberturas y derechos tras la mayoría de edad",
@@ -1463,34 +1491,6 @@
    "visto": "2026-11-23T08:40:21.730Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/biobio-registra-7-644-nuevos-ocupados-mayores-de-55-anos-pero-persisten-dificultades-para-encontrar-trabajo.html",
-   "titulo": "Biobío registra 7.644 nuevos ocupados mayores de 55 años, pero persisten dificultades para encontrar trabajo",
-   "resumen": "SENCE informó que más del 94% de los cupos de Experiencia Mayor ya fueron adjudicados.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-17.23.13.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T08:40:21.730Z",
-   "visto": "2026-11-23T08:40:21.730Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/estudio-chorlo-campo-isla-santa-maria-fondo-internacional.html",
-   "titulo": "Fondo internacional financiará estudio sobre el chorlo de campo en la Isla Santa María",
-   "resumen": "La iniciativa liderada obtuvo US$3.000 del programa Pequeños Fondos Manomet para investigar durante 22 meses los movimientos y la ecología de invernada de esta ave migratoria",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-16.03.05.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T08:40:21.730Z",
-   "visto": "2026-11-23T08:40:21.730Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
