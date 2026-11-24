@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T16:00:30.288Z",
+ "generado": "2026-11-24T16:10:22.318Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
+    "enlaces": 157,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/levantan-prohibicion-bano-fragata-portuguesa-playas-lebu.html",
+   "titulo": "Tras 48 horas sin ejemplares: dejan sin efecto prohibición por fragata portuguesa en playas de Lebu",
+   "resumen": "Este martes 24 de noviembre se levantó la medida sanitaria que regía desde el pasado viernes en Playa Boca Lebu y Playa Larga.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Pag-10.-Playa-Lebu-Enrique-Pe%C3%B1a-Morales.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T16:10:22.318Z",
+   "visto": "2026-11-24T16:10:22.318Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/calor-extremo-hualqui-santa-juana.html",
    "titulo": "Calor extremo en Biobío: se alcanzarán los 35° en Hualqui y Santa Juana este jueves",
@@ -1434,20 +1448,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/carriel-sur-duplicaria-su-capacidad-de-pasajeros-el-mop-parte-estudio-de-1-245-millones",
-   "titulo": "Carriel Sur duplicaría su capacidad de pasajeros: el MOP parte estudio de $1.245 millones",
-   "resumen": "El aeropuerto Carriel Sur, de Concepción, podría duplicar su capacidad de pasajeros y ampliar su zona de carga. Así lo analizará un estudio de ingeniería que puso en marcha el Ministerio de Obras Públicas (MOP), con una inversión superior a los 1.245 millones…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2019/10/carriel-sur.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T10:40:24.678Z",
-   "visto": "2026-11-23T10:40:24.678Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
