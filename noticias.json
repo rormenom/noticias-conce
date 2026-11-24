@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-24T10:50:25.240Z",
+ "generado": "2026-11-24T11:00:33.056Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -61,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
+    "enlaces": 155,
     "leidas": 65,
     "errores": 0,
     "robots": 0
@@ -82,6 +81,35 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/atacan-camioneta-que-repartia-medicamentos-en-chiguayante-y-gremio-de-la-salud-exige-seguridad",
+   "titulo": "Atacan camioneta que repartía medicamentos en Chiguayante y gremio de la salud exige seguridad",
+   "resumen": "Los trabajadores de la salud municipal de Chiguayante denuncian una semana marcada por hechos de violencia que han afectado la atención a los pacientes. Entre ellos, mencionan personas baleadas dentro de un centro asistencial y un ataque contra un vehículo…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-23-at-16.26.40.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T11:00:33.056Z",
+   "visto": "2026-11-24T11:00:33.056Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/region-del-bio-bio-sigue-sin-delegado-presidencial-alvarado-dice-que-estan-trabajando-en-nombramiento.shtml",
+   "titulo": "Región del Bío Bío sigue sin delegado presidencial: Alvarado dice que están trabajando en nombramiento",
+   "resumen": "El ministro del Interior, Claudio Alvarado, aseguró que el Presidente José Antonio Kast está trabajando en la designación de un...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029965-delegado-presidencial-bio-bio-todavia-no-es-designado.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-24T10:58:39.000Z",
+   "visto": "2026-11-24T11:00:33.056Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/docentes-y-trabajadores-de-los-angeles-se-suman-al-paro-nacional-contra-los-recortes-en-educacion",
    "titulo": "Docentes y trabajadores de Los Ángeles se suman al paro nacional contra los recortes en educación",
@@ -1532,34 +1560,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-22T18:00:28.526Z",
    "visto": "2026-11-22T18:00:28.526Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/rampa-a-isla-santa-maria-lleva-16-de-avance-y-costara-mas-de-14-mil-millones",
-   "titulo": "Rampa a Isla Santa María lleva 16% de avance y costará más de $14 mil millones",
-   "resumen": "El proyecto de la rampa multipropósito entre Punta Lavapié y la Isla Santa María alcanza un 16% de avance, según detalló el seremi de Obras Públicas, José Piña. La obra apunta a mejorar la conexión entre el territorio continental y la isla, en la Provincia de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2020/02/Isla-Santa-Maria-jose-leniz-850x400.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T17:54:29.849Z",
-   "visto": "2026-11-22T17:54:29.849Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/robo-al-bci-en-concepcion-fiscalia-no-descarta-hipotesis-y-mantiene-reserva-de-diligencias",
-   "titulo": "Robo al BCI en Concepción: Fiscalía no descarta hipótesis y mantiene reserva de diligencias",
-   "resumen": "A dos semanas del millonario robo a una sucursal del BCI en Concepción, la investigación sigue sin resultados. El fiscal regional del Bío Bío, Roberto Garrido, afirmó que el Ministerio Público no ha descartado ninguna hipótesis y que las diligencias continúan…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/diligencias-robo-banco-bci-concepcion.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T17:50:20.127Z",
-   "visto": "2026-11-22T17:50:20.127Z",
    "cats": [
     "regional"
    ],
