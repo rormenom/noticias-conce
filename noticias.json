@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T17:50:21.169Z",
+ "generado": "2026-11-24T18:00:37.804Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 61,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,48 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/concepcion-persona-fallece-aplastada-arbol.html",
+   "titulo": "Concepción: persona mayor fallece tras ser aplastada por árbol",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Carabineros-A1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T18:00:37.804Z",
+   "visto": "2026-11-24T18:00:37.804Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/24/basquet-udec-campeonas-de-adesup-y-agenda-cargada-pensando-en-la-liga.html",
+   "titulo": "Básquet UdeC: campeonas de Adesup y agenda cargada pensando en la Liga",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/basquet-udec-adesup.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T18:00:37.804Z",
+   "visto": "2026-11-24T18:00:37.804Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/24/extensas-filas-feria-laboral-concepcion-desempleo-biobio.html",
+   "titulo": "Más de 1.200 vacantes y filas en Plaza Independencia: el rostro del desempleo en la séptima feria laboral penquista",
+   "resumen": "La séptima versión de la feria impulsada por la Municipalidad de Concepción ofreció más de 1.200 puestos de trabajo y apoyo para imprimir currículums.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/extensas-filas-feria-laboral-concepcion-desempleo-biobio.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T18:00:37.804Z",
+   "visto": "2026-11-24T18:00:37.804Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/segunda-quincena-de-diciembre-se-instalara-primera-piedra-de-reconstruccion-de-rios-de-chile-en-penco.shtml",
    "titulo": "Segunda quincena de diciembre se instalará primera piedra de reconstrucción de Ríos de Chile en Penco",
@@ -1422,20 +1464,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/forado-en-la-pared-y-camaras-cortadas-millonario-robo-a-ferreteria-en-pleno-centro-de-concepcion",
-   "titulo": "Forado en la pared y cámaras cortadas: millonario robo a ferretería en pleno centro de Concepción",
-   "resumen": "Un robo avaluado preliminarmente entre 10 y 20 millones de pesos afectó durante la tarde del domingo 22 de noviembre a la ferretería Ríos y Ríos, ubicada en calle Maipú, en pleno centro de Concepción. El hecho ocurrió a plena luz del día, entre las 16:00 y…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/FERRETERIA-e1795443557270.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T14:30:27.109Z",
-   "visto": "2026-11-23T14:30:27.109Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/el-duro-golpe-que-condena-a-fernandez-vial-a-seguir-en-tercera-b/",
    "titulo": "El duro golpe que condena a Fernández Vial a seguir en Tercera B",
    "resumen": "Goleado en Santiago y un futuro lleno de dudas.",
@@ -1446,20 +1474,6 @@
    "visto": "2026-11-23T22:00:25.857Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/postulaciones-finalizan-hoy-si-vives-en-una-de-estas-19-comunas-accede-a-un-aire-acondicionado",
-   "titulo": "Hoy vence el plazo para solicitar un aire acondicionado en 19 comunas del país: incluyen todas las del Gran Concepción",
-   "resumen": "El Ministerio del Medio Ambiente tiene abiertas las postulaciones al Programa de Recambio de Calefactores, que ayuda a las familias a sustituir sus antiguos artefactos a leña por equipos más eficientes y menos contaminantes. El beneficio puede representar un…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/recambio-de-calefactores-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T13:50:20.242Z",
-   "visto": "2026-11-23T13:50:20.242Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
