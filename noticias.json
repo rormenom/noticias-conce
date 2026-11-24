@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T19:50:23.733Z",
+ "generado": "2026-11-24T20:00:32.207Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 2,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 56,
+    "enlaces": 155,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/caminata-animalista-biobio-proteccion-animales-esterilizacion.html",
+   "titulo": "Agrupaciones animalistas del Biobío marcharán por protección y apoyo para los animales",
+   "resumen": "La tercera versión de la caminata reunirá a organizaciones y rescatistas independientes de Concepción y sus alrededores.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-24-at-15.28.15.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T20:00:32.207Z",
+   "visto": "2026-11-24T20:00:32.207Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/restringen-quemas-controladas-biobio-2.html",
    "titulo": "Por vientos y altas temperaturas: restringen uso del fuego para quemas controladas en Biobío",
@@ -180,20 +194,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/concepcion-persona-fallece-aplastada-arbol.html",
-   "titulo": "Concepción: persona mayor fallece tras ser aplastada por árbol",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Carabineros-A1.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T18:00:37.804Z",
-   "visto": "2026-11-24T18:00:37.804Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/24/basquet-udec-campeonas-de-adesup-y-agenda-cargada-pensando-en-la-liga.html",
    "titulo": "Básquet UdeC: campeonas de Adesup y agenda cargada pensando en la Liga",
    "resumen": "",
@@ -208,6 +208,35 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/concepcion-persona-fallece-aplastada-arbol.html",
+   "titulo": "Concepción: persona mayor fallece tras ser aplastada por árbol",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Carabineros-A1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T18:00:37.804Z",
+   "visto": "2026-11-24T18:00:37.804Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/24/gobierno-regional-suma-ocho-centros-integrales-de-la-mujer-operativos-en-nuble/",
+   "titulo": "Gobierno Regional suma ocho Centros Integrales de la Mujer operativos en Ñuble",
+   "resumen": "En el marco del Día Internacional de la Eliminación de la Violencia contra la Mujer se desarrolló en Quillón el 2º Encuentro Programático de los Centros Integrales de la Mujer.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/IMG_6345.JPG-768x512.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-24T17:54:20.000Z",
+   "visto": "2026-11-24T20:00:32.207Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/segunda-quincena-de-diciembre-se-instalara-primera-piedra-de-reconstruccion-de-rios-de-chile-en-penco.shtml",
    "titulo": "Segunda quincena de diciembre se instalará primera piedra de reconstrucción de Ríos de Chile en Penco",
    "resumen": "La segunda quincena de diciembre se instalará la primera piedra del proyecto de reconstrucción del sector Ríos de Chile, en Penco, zona destruida tras los incendios forestales del pasado verano.",
@@ -218,6 +247,21 @@
    "visto": "2026-11-24T17:50:21.169Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/24/seremi-de-salud-biobio-realizo-61-fiscalizaciones-a-rellenos-sanitarios-vertederos-y-plantas-de-transferencia-en-2026/",
+   "titulo": "Seremi de Salud Biobío realizó 61 fiscalizaciones a rellenos sanitarios, vertederos y plantas de transferencia en 2026",
+   "resumen": "Balance regional contempla 46 inspecciones a rellenos sanitarios, 12 a vertederos y 3 a plantas de transferencia, que derivaron en dos sumarios sanitarios.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/discalizaciones-seremi-salud-biobio-2026-768x512.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-24T16:57:36.000Z",
+   "visto": "2026-11-24T20:00:32.207Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -1366,34 +1410,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/andan-robando-tanto-acusan-robo-de-letras-adornos-y-estatuas-en-cementerio-general-de-concepcion.shtml",
-   "titulo": "\"Andan robando tanto\": acusan robo de letras, adornos y estatuas en Cementerio General de Concepción",
-   "resumen": "Robo de letras, adornos florales y estatuas religiosas es lo que denuncian familiares de personas sepultadas en el Cementerio General...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029110-cementerio-concepcion.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-23T16:36:04.000Z",
-   "visto": "2026-11-23T16:40:22.716Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/proyectos-de-tierras-raras-generan-rechazo-en-nacimiento-vecinos-advierten-riesgos-ambientales-y-para-la-salud",
-   "titulo": "Proyectos de tierras raras generan rechazo en Nacimiento: vecinos advierten riesgos ambientales y para la salud",
-   "resumen": "La preocupación por el avance de concesiones mineras mantiene en alerta a comunidades rurales de Nacimiento, en la provincia de Biobío. Organizaciones ciudadanas advierten posibles impactos sobre los recursos hídricos, las actividades productivas y la salud…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-23-at-11.19.58-AM-e1795450135769.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T16:20:21.788Z",
-   "visto": "2026-11-23T16:20:21.788Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/23/alejandro-sanz-confirma-concierto-en-concepcion-revisa-cuando-comienza-la-venta-de-entradas.shtml",
    "titulo": "¡Alejandro Sanz confirma concierto en Concepción! Revisa cuándo comienza la venta de entradas",
    "resumen": "La espera terminó para los fanáticos de Alejandro Sanz en Chile. Y es que el cantante español confirmó su regreso...",
@@ -1418,20 +1434,6 @@
    "visto": "2026-11-23T15:40:23.007Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/talcahuano-reconoce-a-los-bunkers-como-vecinos-ilustres-en-los-premios-municipales-2026/",
-   "titulo": "Talcahuano reconoce a Los Bunkers como Vecinos Ilustres en los Premios Municipales 2026",
-   "resumen": "En una ceremonia realizada en el Teatro Dante, la Municipalidad […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/foto-banda-rojo-768x522.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-23T15:36:26.000Z",
-   "visto": "2026-11-23T15:40:23.007Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
