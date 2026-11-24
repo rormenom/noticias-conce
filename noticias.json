@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T11:10:22.212Z",
+ "generado": "2026-11-24T11:30:31.532Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/un-7-de-avance-lleva-el-mercado-de-talcahuano-a-dos-meses-del-inicio-de-los-trabajos/",
+   "titulo": "Un 7% de avance lleva el Mercado de Talcahuano a dos meses del inicio de los trabajos",
+   "resumen": "En plena faena se encuentran las obras de construcción del […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/2O8A8225-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-24T11:21:22.000Z",
+   "visto": "2026-11-24T11:30:31.532Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/ola-de-robos-golpea-a-20-iglesias-de-lota-en-un-mes-y-solo-ocho-llegaron-a-denuncia",
    "titulo": "Ola de robos golpea a 20 iglesias de Lota en un mes y sólo ocho llegaron a denuncia",
@@ -1548,20 +1562,6 @@
    "visto": "2026-11-22T18:20:22.134Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/registro-civil-abre-orientacion-por-videollamada-y-ya-atendio-a-mas-de-2-mil-personas",
-   "titulo": "Registro Civil abre orientación por videollamada y ya atendió a más de 2 mil personas",
-   "resumen": "El Servicio de Registro Civil e Identificación puso en marcha un canal de atención remota que entrega orientación sobre trámites por videoconferencia, de modo que no sea necesario ir a una oficina. Eso sí, hay que agendar antes un horario en el sitio web de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2019/03/registro-civil.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T18:10:20.444Z",
-   "visto": "2026-11-22T18:10:20.444Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
