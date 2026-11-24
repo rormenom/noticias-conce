@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T20:50:21.200Z",
+ "generado": "2026-11-24T21:00:27.931Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 59,
-    "leidas": 3,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 55,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -344,6 +344,20 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-24T16:30:26.468Z",
    "visto": "2026-11-24T16:30:26.468Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/24/gran-concepcion-detienen-a-cuatro-implicados-en-tres-homicidios/",
+   "titulo": "Gran Concepción: Detienen a cuatro implicados en tres homicidios",
+   "resumen": "Los hechos se registraron en San Pedro de la Paz, Concepción y Hualpén. Además, se incautaron armas de fuego y municiones.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2025/07/pdi-detenido-hualpen-768x507.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-24T16:13:06.000Z",
+   "visto": "2026-11-24T21:00:27.931Z",
    "cats": [
     "regional"
    ],
