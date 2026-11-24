@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T00:50:22.742Z",
+ "generado": "2026-11-24T01:20:20.995Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 9,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/detienen-a-3-adultos-y-1-adolescente-por-homicidio-ocurrido-en-concepcion-y-ataque-armado-en-hualpen.shtml",
+   "titulo": "Detienen a 3 adultos y 1 adolescente por homicidio ocurrido en Concepción y ataque a tiros en Hualpén",
+   "resumen": "La Fiscalía Regional del Bío Bío confirmó este lunes la detención de cuatro sujetos presuntamente involucrados en dos graves...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029834-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-24T01:13:20.000Z",
+   "visto": "2026-11-24T01:20:20.995Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/terreno-fiscal-chiguayante-infraestructura-odesur-2030.html",
    "titulo": "Chiguayante podría recibir infraestructura de los ODESUR 2030: analizan factibilidad de terreno fiscal frente a Lonco",
@@ -1545,20 +1559,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-22T11:26:18.000Z",
    "visto": "2026-11-22T11:30:24.778Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/detectan-fragata-portuguesa-en-caleta-de-coronel-es-la-tercera-comuna-afectada-en-el-bio-bio",
-   "titulo": "Confirman la presencia de fragata portuguesa en Coronel, la tercera comuna afectada del Biobío",
-   "resumen": "La Capitanía de Puerto confirmó la detección de fragata portuguesa en caleta Maule, comuna de Coronel. El ejemplar fue avistado durante una inspección en terreno efectuada por la Policía Marítima, que ya coordinó las acciones pertinentes con la autoridad…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detectan-fragata-portuguesa-en-caleta-de-coronel-es-la-tercera-comuna-afectada-en-el-bio-bio.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T10:50:19.516Z",
-   "visto": "2026-11-22T10:50:19.516Z",
    "cats": [
     "regional"
    ],
