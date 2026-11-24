@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T09:20:20.786Z",
+ "generado": "2026-11-24T09:30:25.256Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/chantaje-y-desorden-politico-la-dura-reaccion-transversal-por-las-renuncias-en-el-partido-cristiano",
+   "titulo": "Chantaje y desorden político: la dura reacción transversal por las renuncias en el Partido Cristiano",
+   "resumen": "Dirigentes del oficialismo y de la oposición coincidieron en criticar las renuncias en el Partido Cristiano en la Región del Bío Bío. Las calificaron como un episodio lamentable que distrae de los asuntos de fondo. Desde ambos sectores advirtieron además que…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-24-a-las-6.22.18%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T09:30:25.256Z",
+   "visto": "2026-11-24T09:30:25.256Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/gobierno-da-por-superado-el-problema-de-las-renuncias-con-elastico-en-el-bio-bio-y-niega-presiones",
    "titulo": "Gobierno da por superado el problema de las renuncias con elástico en el Bío Bío y niega presiones",
@@ -177,6 +191,20 @@
    "visto": "2026-11-24T08:40:20.857Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/24/cge-da-a-conocer-importante-ayuda-para-los-damnificados-por-los-incendios-forestales/",
+   "titulo": "CGE da a conocer importante ayuda para los damnificados por los incendios forestales",
+   "resumen": "De enero del 2026: Como una manera de apoyar el proceso de reconstrucción, la distribuidora eléctrica no cobrará los consumos registrados hasta el mes de mayo de 2026 a los clientes directamente afectados por los siniestros en la región.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/cge-ayuda-incendios-2026-300x169.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-24T07:22:28.000Z",
+   "visto": "2026-11-24T09:30:25.256Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1552,20 +1580,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/fiscalia-cumple-dos-semanas-de-diligencias-por-millonario-robo-en-banco-bci-en-concepcion.shtml",
-   "titulo": "Fiscalía cumple dos semanas de diligencias por millonario robo en banco BCI en Concepción",
-   "resumen": "A dos semanas del millonario robo al banco BCI en Concepción, el Ministerio Público en Bío Bío mantiene las diligencias...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028268-diligencias-robo-banco-bci-concepcion.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-22T17:12:40.000Z",
-   "visto": "2026-11-22T17:20:19.561Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/sociedad/viral/2026/11/22/periodista-asegura-que-fue-despedido-de-hospital-tras-publicar-video-contra-ministro-quiroz.shtml",
    "titulo": "Periodista asegura que fue despedido de hospital tras publicar video contra ministro Quiroz",
    "resumen": "El periodista y creador de contenido conocido en redes sociales como El Gabo acusó que el Hospital de Curanilahue puso...",
@@ -1576,20 +1590,6 @@
    "visto": "2026-11-22T16:40:23.649Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/22/accidente-fatal-ruta-p60r-dos-fallecidos-canete.html",
-   "titulo": "Dos personas fallecieron al chocar vehículo contra árboles en ruta de Cañete",
-   "resumen": "El accidente ocurrió cerca de las 7:20 horas, a la altura del kilómetro 27. El Ministerio Público instruyó peritajes para esclarecer las causas del hecho.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/05/pag-4-patrulla-de-carabineros-foto-raphael.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T15:10:19.838Z",
-   "visto": "2026-11-22T15:10:19.838Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2535,21 +2535,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-19T10:40:23.637Z",
    "visto": "2026-11-19T10:40:23.637Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/municipio-san-pedro-de-la-paz-faltan-mas-de-60-carabineros-casi-un-32-de-la-dotacion-real",
-   "titulo": "Municipio San Pedro de la Paz: faltan más de 60 carabineros, casi un 32% de la dotación real",
-   "resumen": "A casi dos meses del anuncio del Plan Escudo de Barrio por parte del presidente José Antonio Kast y su presentación en el territorio por el ministro de Seguridad Pública, Martín Arrau, surgen dudas sobre su funcionamiento en el sector de Boca Sur, en San…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/joven-de-18-anos-es-asesinado-a-disparos-en-nacimiento-presunto-culpable-se-entrego-a-carabineros.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T09:30:25.420Z",
-   "visto": "2026-11-19T09:30:25.420Z",
    "cats": [
     "regional",
     "politica"
