@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T23:40:23.961Z",
+ "generado": "2026-11-24T00:10:20.437Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
+    "enlaces": 153,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -757,6 +757,20 @@
    "visto": "2026-11-23T15:10:28.161Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/colegio-profesores-biobio-rechaza-dichos-bobadilla.html",
+   "titulo": "Diputado del Biobío pide descontar día de paro y gremio marchará en Concepción desde las 17:00",
+   "resumen": "Desde el Biobío, el gremio de profesores calificó los dichos como una medida de presión y confirmó la marcha en Concepción desde las 17:00 horas, fuera del horario laboral.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/colegio-profesores-biobio-rechaza-dichos-bobadilla-e1795478793502.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T15:00:00.000Z",
+   "visto": "2026-11-24T00:10:20.437Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
