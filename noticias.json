@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T00:10:20.437Z",
+ "generado": "2026-11-24T00:20:24.239Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -446,6 +446,20 @@
    "visto": "2026-11-23T20:30:31.722Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/biobio-fue-escenario-del-campeonato-nacional-de-remo-master-2026/",
+   "titulo": "Biobío fue escenario del Campeonato Nacional de Remo Máster 2026",
+   "resumen": "Reunió a deportistas de hasta 90 años.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/remo-biobio-2026-768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-23T17:56:40.000Z",
+   "visto": "2026-11-24T00:20:24.239Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
