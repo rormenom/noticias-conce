@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T13:10:22.043Z",
+ "generado": "2026-11-24T13:50:21.968Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 65,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 5,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/seminario-esto-es-biobio-reunio-a-autoridades-y-lideres-regionales-para-abordar-los-desafios-del-desarrollo/",
+   "titulo": "Seminario “Esto es Biobío” reunió a autoridades y líderes regionales para abordar los desafíos del desarrollo",
+   "resumen": "Una región con un fuerte sentido de pertenencia y un […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/DSCF5567-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-24T13:49:49.000Z",
+   "visto": "2026-11-24T13:50:21.968Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/24/fallece-actriz-delfina-guzman.html",
    "titulo": "Fallece a los 98 años la destacada actriz Delfina Guzmán",
@@ -1552,20 +1566,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/cementerios-al-borde-del-colapso-en-bio-bio-consejero-pide-comprar-terrenos-con-fondos-regionales",
-   "titulo": "Cementerios al borde del colapso en Bío Bío: consejero pide comprar terrenos con fondos regionales",
-   "resumen": "Robert Córdova, consejero regional por la provincia de Bío Bío, planteó que el Gobierno Regional destine recursos a comprar suelo para levantar nuevos cementerios. Su argumento es que varios recintos de la zona están llegando al límite de su capacidad, entre…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2018/10/cementerio-de-lota.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T18:20:22.134Z",
-   "visto": "2026-11-22T18:20:22.134Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/22/huachipato-y-concepcion-igualaron-por-la-liga-de-primera-arquero-del-leon-atajo-un-penal",
    "titulo": "Huachipato y Deportes Concepción empataron en La Liga de Primera tras un penal atajado por el arquero del León",
    "resumen": "Huachipato y Deportes Concepción no lograron sacarse ventaja y empataron 0-0 este domingo, por la fecha 28 de La Liga de Primera. Fue un encuentro disputado y con escasas oportunidades de gol. La ocasión más clara para el local en el CAP llegó desde el punto…",
@@ -2523,21 +2523,6 @@
    "visto": "2026-11-19T17:10:23.014Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/gobernador-por-juegos-suramericanos-2030-en-bio-bio-una-enorme-oportunidad-para-atraer-inversion-y-generar-empleo",
-   "titulo": "Gobernador por Juegos Suramericanos 2030 en Bío Bío: \"una enorme oportunidad para atraer inversión y generar empleo\"",
-   "resumen": "La Organización Deportiva Suramericana (Odesur) ratificó a la Región del Biobío como sede de los XIV Juegos Suramericanos 2030, tras la reunión de su comité ejecutivo realizada el miércoles 18 de noviembre de 2026. El anuncio, seguido en directo desde el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-19-at-10.38.08-1-e1795095772772.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T13:50:23.182Z",
-   "visto": "2026-11-19T13:50:23.182Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
