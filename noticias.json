@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T15:50:26.539Z",
+ "generado": "2026-11-24T16:00:30.288Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 60,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -75,13 +75,40 @@
     "paginas": 3,
     "enlaces": 33,
     "leidas": 8,
-    "errores": 1,
-    "robots": 0,
-    "ultimoError": "HTTP 404 (https://www.canal9.cl/episodios/2026/11/24/mi-hija-no-deberia-perder-sus-derechos-por-tener-sindrome-de-down-el-padre-de-javiera-busca-cambiar-la-ley-en-chile)"
+    "errores": 0,
+    "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/calor-extremo-hualqui-santa-juana.html",
+   "titulo": "Calor extremo en Biobío: se alcanzarán los 35° en Hualqui y Santa Juana este jueves",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2024/11/Calor-temperatura-tiempo-clima-850x500-1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T16:00:30.288Z",
+   "visto": "2026-11-24T16:00:30.288Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/hombre-muere-tras-ser-aplastado-por-un-arbol-en-concepcion.shtml",
+   "titulo": "Hombre muere tras ser aplastado por un árbol en Concepción",
+   "resumen": "Un hombre murió tras ser impactado por un árbol frente al sector de San Jorge, ubicado en la comuna de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7030548-noticia-en-desarrollo-47.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-24T15:54:09.000Z",
+   "visto": "2026-11-24T16:00:30.288Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/mi-hija-no-deberia-perder-sus-derechos-por-tener-sindrome-de-down-el-padre-de-javiera-busca-cambiar-la-ley-en-chile",
    "titulo": "“Mi hija no debería perder sus derechos por tener síndrome de Down”: el padre de Javiera busca cambiar la ley en Chile",
@@ -125,10 +152,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/de-los-costillares-del-bavaria-a-las-barras-de-proteina",
-   "titulo": "De los costillares del Bavaria a las barras de proteína",
-   "resumen": "Los diputados republicanos Sebastián Zamora, Javiera Rodríguez e Ignacio Urrutia llegaron a una comisaría en Valparaíso cargados de bebidas energéticas y barras de proteína, y se grabaron haciéndolo. Lo hicieron con orgullo, para las redes. Por eso presenté…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/de-los-costillares-del-bavaria-a-las-barras-de-proteina.webp",
+   "url": "https://www.canal9.cl/episodios/2026/11/24/padre-de-joven-declarada-interdicta-impulsa-cambios-legales-para-proteger-coberturas-y-derechos-tras-la-mayoria-de-edad",
+   "titulo": "Padre de joven declarada interdicta impulsa cambios legales para proteger coberturas y derechos tras la mayoría de edad",
+   "resumen": "La historia de Javiera, una joven de 22 años con síndrome de Down y lenguaje no verbal que fue declarada interdicta al cumplir la mayoría de edad, abrió un debate sobre los vacíos y topes que enfrenta su familia en materia de coberturas, beneficios y respaldo…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-11.14.54-1.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-24T15:20:24.118Z",
@@ -139,10 +166,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/padre-de-joven-declarada-interdicta-impulsa-cambios-legales-para-proteger-coberturas-y-derechos-tras-la-mayoria-de-edad",
-   "titulo": "Padre de joven declarada interdicta impulsa cambios legales para proteger coberturas y derechos tras la mayoría de edad",
-   "resumen": "La historia de Javiera, una joven de 22 años con síndrome de Down y lenguaje no verbal que fue declarada interdicta al cumplir la mayoría de edad, abrió un debate sobre los vacíos y topes que enfrenta su familia en materia de coberturas, beneficios y respaldo…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-11.14.54-1.jpeg",
+   "url": "https://www.canal9.cl/episodios/2026/11/24/de-los-costillares-del-bavaria-a-las-barras-de-proteina",
+   "titulo": "De los costillares del Bavaria a las barras de proteína",
+   "resumen": "Los diputados republicanos Sebastián Zamora, Javiera Rodríguez e Ignacio Urrutia llegaron a una comisaría en Valparaíso cargados de bebidas energéticas y barras de proteína, y se grabaron haciéndolo. Lo hicieron con orgullo, para las redes. Por eso presenté…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/de-los-costillares-del-bavaria-a-las-barras-de-proteina.webp",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-24T15:20:24.118Z",
@@ -520,10 +547,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/plaga-ratones-afecta-salud-familia-penco.html",
-   "titulo": "Penco: Serviu tramita subsidio para familia afectada por plaga de ratones tras megaincendio",
-   "resumen": "Los damnificados informaron que la situación no les permite llevar una vida digna.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PAG-7-contexto-de-plaga-de-ratones-foto-pexels-ardeshir-etemad.jpg-e1795482458463.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/medidas-preventivas-incendios-calor-biobio.html",
+   "titulo": "Fuerza de tarea, poda y grifos: así afinan Bomberos y servicios su respuesta ante incendios forestales",
+   "resumen": "Ante los anuncios oficiales de un verano complejo en materia de olas de calor, las acciones preventivas son de vital importancia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/1-y-6-archivo-diario-concepci%C3%B3n.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T08:40:20.857Z",
@@ -534,10 +561,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/medidas-preventivas-incendios-calor-biobio.html",
-   "titulo": "Fuerza de tarea, poda y grifos: así afinan Bomberos y servicios su respuesta ante incendios forestales",
-   "resumen": "Ante los anuncios oficiales de un verano complejo en materia de olas de calor, las acciones preventivas son de vital importancia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/1-y-6-archivo-diario-concepci%C3%B3n.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/plaga-ratones-afecta-salud-familia-penco.html",
+   "titulo": "Penco: Serviu tramita subsidio para familia afectada por plaga de ratones tras megaincendio",
+   "resumen": "Los damnificados informaron que la situación no les permite llevar una vida digna.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PAG-7-contexto-de-plaga-de-ratones-foto-pexels-ardeshir-etemad.jpg-e1795482458463.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T08:40:20.857Z",
@@ -1419,34 +1446,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-23T10:40:24.678Z",
    "visto": "2026-11-23T10:40:24.678Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/caso-convenios-tribunal-reprograma-ahora-la-preparacion-de-juicio-en-arista-mi-hogar-asuncionista.shtml",
-   "titulo": "Caso Convenios: tribunal reprograma ahora la preparación de juicio en arista Mi Hogar Asuncionista",
-   "resumen": "Nuevamente una preparación de juicio en el caso Convenios es reprogramada, ahora en la arista Mi Hogar Asuncionista, tras la...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028595-juzgado-de-garantia-concepcion.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-23T10:40:01.000Z",
-   "visto": "2026-11-23T10:40:24.678Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/politicos-acusan-chantaje-por-renuncias-que-no-se-concretaron-en-salud-y-senama-del-bio-bio",
-   "titulo": "Políticos acusan chantaje por renuncias que no se concretaron en Salud y Senama del Bío Bío",
-   "resumen": "Las renuncias anunciadas por la seremi de Salud del Bío Bío, Isabel Rojas, y la directora regional del Servicio Nacional del Adulto Mayor (SENAMA), Antaris Varela, finalmente no se concretaron, pero dejaron una ola de críticas de parlamentarios de distintos…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/SALUD-SENAMA-BIOBIO.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T09:40:21.389Z",
-   "visto": "2026-11-23T09:40:21.389Z",
    "cats": [
     "regional"
    ],
