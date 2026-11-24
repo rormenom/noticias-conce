@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T01:20:20.995Z",
+ "generado": "2026-11-24T01:40:20.043Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 60,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
@@ -733,12 +733,12 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
-   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
+   "url": "https://www.canal9.cl/episodios/2026/11/23/penco-cge-condona-deuda-electrica-a-2-553-familias-damnificadas-por-incendios",
+   "titulo": "Penco: CGE condona deuda eléctrica a 2.553 familias damnificadas por incendios",
+   "resumen": "La Compañía General de Electricidad (CGE) anunció la condonación total de las deudas y consumos eléctricos acumulados hasta mayo para 2.553 familias de la Región del Biobío, principalmente de la comuna de Penco, que resultaron afectadas por los incendios…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Sin-titulo-6-e1795446935128.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
    "fecha": "2026-11-23T15:30:24.736Z",
    "visto": "2026-11-23T15:30:24.736Z",
    "cats": [
@@ -747,12 +747,12 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/penco-cge-condona-deuda-electrica-a-2-553-familias-damnificadas-por-incendios",
-   "titulo": "Penco: CGE condona deuda eléctrica a 2.553 familias damnificadas por incendios",
-   "resumen": "La Compañía General de Electricidad (CGE) anunció la condonación total de las deudas y consumos eléctricos acumulados hasta mayo para 2.553 familias de la Región del Biobío, principalmente de la comuna de Penco, que resultaron afectadas por los incendios…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Sin-titulo-6-e1795446935128.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
+   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T15:30:24.736Z",
    "visto": "2026-11-23T15:30:24.736Z",
    "cats": [
