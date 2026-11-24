@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T18:40:22.444Z",
+ "generado": "2026-11-24T18:50:21.127Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
@@ -2419,20 +2419,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-19T19:10:31.194Z",
    "visto": "2026-11-19T19:10:31.194Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/19/pese-a-encabezar-repunte-lila-fernando-diaz-dejo-potente-senal-sobre-su-futuro-en-dep-concepcion.shtml",
-   "titulo": "Pese a encabezar repunte ’lila’: Fernando Díaz dejó potente señal sobre su futuro en Dep. Concepción",
-   "resumen": "El gran repunte de Deportes Concepción bajo la conducción de Fernando Díaz contrasta con la incertidumbre que rodea la continuidad...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025572-concepcion-fernando-diaz-renovacion.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-19T18:45:59.000Z",
-   "visto": "2026-11-19T18:50:22.023Z",
    "cats": [
     "deportes"
    ],
