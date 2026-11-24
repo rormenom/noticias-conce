@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T08:30:29.021Z",
+ "generado": "2026-11-24T08:40:20.857Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
-    "leidas": 0,
+    "enlaces": 58,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
@@ -47,7 +47,7 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 20,
+    "enlaces": 19,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,83 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 6,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/medidas-preventivas-incendios-calor-biobio.html",
+   "titulo": "Fuerza de tarea, poda y grifos: así afinan Bomberos y servicios su respuesta ante incendios forestales",
+   "resumen": "Ante los anuncios oficiales de un verano complejo en materia de olas de calor, las acciones preventivas son de vital importancia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/1-y-6-archivo-diario-concepci%C3%B3n.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T08:40:20.857Z",
+   "visto": "2026-11-24T08:40:20.857Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/24/armada-isla-quiriquina-pdi-extraccion-madera.html",
+   "titulo": "La PDI realiza diligencias sobre la Armada tras observaciones por faenas forestales en la Isla Quiriquina",
+   "resumen": "El Ministerio Público despachó una orden de investigar a la BIDEMA, tras recibir antecedentes de Contraloría sobre falencias en procesos de contratación, pagos y control de recursos vinculados a la ampliación de la Escuela de Grumetes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Isla-Quiriquina-foto-mop.jpg-e1795482260431.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T08:40:20.857Z",
+   "visto": "2026-11-24T08:40:20.857Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/24/mop-chile-despega-contrataciones-biobio-2027.html",
+   "titulo": "MOP proyecta iniciar en enero la contratación de hasta 3 mil trabajadores por obras de Chile Despega",
+   "resumen": "Las primeras iniciativas se adjudicarían el próximo mes y comenzarían su ejecución en el inicio de 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/trabajo-construccion-foto-carolina.jpg-e1795482508589.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T08:40:20.857Z",
+   "visto": "2026-11-24T08:40:20.857Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/24/sinfonica-udec-semanas-musicales-frutillar.html",
+   "titulo": "Sinfónica UdeC interpretará la novena de Beethoven en Semanas Musicales de Frutillar",
+   "resumen": "La agrupación, bajo la dirección de Luis Toro Araya, se presentará el 30 de enero de 2027 en el Teatro del Lago, en la 59° versión del certamen musical.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Sinf%C3%B3nica-UdeC-cedida-Corcudec-1-e1795482541887.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T08:40:20.857Z",
+   "visto": "2026-11-24T08:40:20.857Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/plaga-ratones-afecta-salud-familia-penco.html",
+   "titulo": "Penco: Serviu tramita subsidio para familia afectada por plaga de ratones tras megaincendio",
+   "resumen": "Los damnificados informaron que la situación no les permite llevar una vida digna.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PAG-7-contexto-de-plaga-de-ratones-foto-pexels-ardeshir-etemad.jpg-e1795482458463.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T08:40:20.857Z",
+   "visto": "2026-11-24T08:40:20.857Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/detienen-a-3-adultos-y-1-adolescente-por-homicidio-ocurrido-en-concepcion-y-ataque-armado-en-hualpen.shtml",
    "titulo": "Detienen a 3 adultos y 1 adolescente por homicidio ocurrido en Concepción y ataque a tiros en Hualpén",
@@ -253,10 +323,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/obras-mercado-talcahuano-7-por-ciento-avance.html",
-   "titulo": "Reconstrucción del Mercado de Talcahuano lleva 7% de avance tras 62 días de faenas y llegará a 100 operarios en marzo",
-   "resumen": "A 62 días del comienzo de las faenas el pasado 21 de septiembre, los trabajos se concentran en el mejoramiento de terreno mediante perforaciones a 15 metros de profundidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/obras-mercado-talcahuano-7-por-ciento-avance.png",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/adultos-mayores-vacunacion-neumococo-chile.html",
+   "titulo": "Seis de cada diez adultos mayores en Chile no están vacunados contra el neumococo",
+   "resumen": "Los casos de enfermedades neumocócicas invasivas pasaron de 400 a 773 en tres años.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-23-at-4.54.26-PM-e1795465116989.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T20:20:21.619Z",
@@ -267,10 +337,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/adultos-mayores-vacunacion-neumococo-chile.html",
-   "titulo": "Seis de cada diez adultos mayores en Chile no están vacunados contra el neumococo",
-   "resumen": "Los casos de enfermedades neumocócicas invasivas pasaron de 400 a 773 en tres años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-23-at-4.54.26-PM-e1795465116989.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/obras-mercado-talcahuano-7-por-ciento-avance.html",
+   "titulo": "Reconstrucción del Mercado de Talcahuano lleva 7% de avance tras 62 días de faenas y llegará a 100 operarios en marzo",
+   "resumen": "A 62 días del comienzo de las faenas el pasado 21 de septiembre, los trabajos se concentran en el mejoramiento de terreno mediante perforaciones a 15 metros de profundidad.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/obras-mercado-talcahuano-7-por-ciento-avance.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T20:20:21.619Z",
@@ -422,10 +492,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/reabren-paso-pichachen-proyectan-finalizar-obras-del-complejo-fronterizo-pichachen-en-marzo.html",
-   "titulo": "Reabren paso Pichachén: proyectan finalizar obras del Complejo Fronterizo Pichachén en marzo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pag-12-paso-pichachen-foto-cedida.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cge-condona-deudas-electricas-damnificados-penco-lirquen.html",
+   "titulo": "A 10 meses de los incendios: condonan deudas eléctricas hasta mayo a más de 2 mil familias de Penco y Lirquén y repactarán cobros de junio a septiembre",
+   "resumen": "Diez meses después de la emergencia registrada en enero de 2026, autoridades informaron la anulación de saldos previos a mayo, mientras que los consumos entre junio y septiembre se facturarán en cuotas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cge-condona-deudas-electricas-damnificados-penco-lirquen-e1795456767162.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T18:10:19.858Z",
@@ -436,10 +506,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cge-condona-deudas-electricas-damnificados-penco-lirquen.html",
-   "titulo": "A 10 meses de los incendios: condonan deudas eléctricas hasta mayo a más de 2 mil familias de Penco y Lirquén y repactarán cobros de junio a septiembre",
-   "resumen": "Diez meses después de la emergencia registrada en enero de 2026, autoridades informaron la anulación de saldos previos a mayo, mientras que los consumos entre junio y septiembre se facturarán en cuotas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cge-condona-deudas-electricas-damnificados-penco-lirquen-e1795456767162.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/reabren-paso-pichachen-proyectan-finalizar-obras-del-complejo-fronterizo-pichachen-en-marzo.html",
+   "titulo": "Reabren paso Pichachén: proyectan finalizar obras del Complejo Fronterizo Pichachén en marzo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pag-12-paso-pichachen-foto-cedida.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T18:10:19.858Z",
@@ -719,6 +789,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
+   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T15:30:24.736Z",
+   "visto": "2026-11-23T15:30:24.736Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/42-mujeres-capacitacion-emprendimientos-los-alamos.html",
    "titulo": "Formalización y financiamiento: los desafíos de 42 emprendedoras de Los Álamos",
    "resumen": "Marketing digital, formalización y financiamiento fueron parte de la capacitación.",
@@ -739,20 +823,6 @@
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Sin-titulo-6-e1795446935128.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
-   "fecha": "2026-11-23T15:30:24.736Z",
-   "visto": "2026-11-23T15:30:24.736Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
-   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T15:30:24.736Z",
    "visto": "2026-11-23T15:30:24.736Z",
    "cats": [
@@ -988,30 +1058,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/estudio-chorlo-campo-isla-santa-maria-fondo-internacional.html",
-   "titulo": "Fondo internacional financiará estudio sobre el chorlo de campo en la Isla Santa María",
-   "resumen": "La iniciativa liderada obtuvo US$3.000 del programa Pequeños Fondos Manomet para investigar durante 22 meses los movimientos y la ecología de invernada de esta ave migratoria",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-16.03.05.jpeg",
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/campeones-despues-de-los-75-mas-vivos-que-nunca-bajo-el-aro.html",
+   "titulo": "Campeones después de los 75: más vivos que nunca bajo el aro",
+   "resumen": "Equipo de Maxiconce es el mejor de Chile por séptima vez. Un ejemplo de amor por el deporte, disciplina, compañerismo y mucho esfuerzo porque ya no trabajan, pero igualmente deben costearse cada viaje.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/maxiconce-75.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
    "visto": "2026-11-23T08:40:21.730Z",
    "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
-   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
-   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T08:40:21.730Z",
-   "visto": "2026-11-23T08:40:21.730Z",
-   "cats": [
-    "regional"
+    "deportes"
    ],
    "local": true
   },
@@ -1044,16 +1100,30 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/campeones-despues-de-los-75-mas-vivos-que-nunca-bajo-el-aro.html",
-   "titulo": "Campeones después de los 75: más vivos que nunca bajo el aro",
-   "resumen": "Equipo de Maxiconce es el mejor de Chile por séptima vez. Un ejemplo de amor por el deporte, disciplina, compañerismo y mucho esfuerzo porque ya no trabajan, pero igualmente deben costearse cada viaje.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/maxiconce-75.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/estudio-chorlo-campo-isla-santa-maria-fondo-internacional.html",
+   "titulo": "Fondo internacional financiará estudio sobre el chorlo de campo en la Isla Santa María",
+   "resumen": "La iniciativa liderada obtuvo US$3.000 del programa Pequeños Fondos Manomet para investigar durante 22 meses los movimientos y la ecología de invernada de esta ave migratoria",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-16.03.05.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T08:40:21.730Z",
    "visto": "2026-11-23T08:40:21.730Z",
    "cats": [
-    "deportes"
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
+   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
+   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T08:40:21.730Z",
+   "visto": "2026-11-23T08:40:21.730Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1517,48 +1587,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-22T15:00:00.000Z",
    "visto": "2026-11-23T23:20:23.249Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/dos-muertos-deja-un-accidente-de-transito-en-el-ingreso-sur-de-canete",
-   "titulo": "Accidente en el acceso sur de Cañete deja dos fallecidos tras choque de un vehículo contra un árbol",
-   "resumen": "Un accidente de tránsito dejó dos personas fallecidas la mañana de este domingo en el acceso sur a Cañete. El hecho ocurrió en el sector de Santa Rosa, en la Ruta P60 R, a cerca de 3 kilómetros del área urbana. Por motivos que se encuentran bajo…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/dos-muertos-ruta-canete-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T14:50:18.698Z",
-   "visto": "2026-11-22T14:50:18.698Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/dos-muertos-deja-un-accidente-de-transito-en-el-ingreso-sur-de-canete.shtml",
-   "titulo": "Dos muertos deja un accidente de tránsito en el ingreso sur de Cañete",
-   "resumen": "Dos personas murieron en un accidente de tránsito que se registró en el ingreso sur de Cañete, en la región...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028084-dos-muertos-ruta.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-22T11:37:09.000Z",
-   "visto": "2026-11-22T11:40:21.135Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/22/sudafrica-chile-y-los-desafio-del-hemisferio-sur-embajador-monyemangene-aborda-el-escenario-mundial.shtml",
-   "titulo": "Sudáfrica, Chile y los desafíos del Hemisferio Sur: Embajador Monyemangene aborda el escenario mundial",
-   "resumen": "En el contexto de su reciente visita a Concepción para asistir a Expocorma 2026, el embajador de...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028071-embajador-de-sudafrica-en-chile.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-22T11:26:18.000Z",
-   "visto": "2026-11-22T11:30:24.778Z",
    "cats": [
     "regional"
    ],
@@ -2524,105 +2552,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/cicat-udec-curioteca-primeras-infancias-biobio.html",
-   "titulo": "Cicat UdeC abre Curioteca: un espacio dedicado a las primeras infancias del Biobío",
-   "resumen": "Es el primer espacio del recinto pensado especialmente a niños y niñas de 2 a 6 años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/BREVE.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/19/bebidas-energeticas-bajo-la-lupa-la-energia-prestada-que-puede-ocultar-grandes-costos.html",
-   "titulo": "Bebidas energéticas bajo la lupa: la energía prestada que puede ocultar grandes costos",
-   "resumen": "Especialistas advierten que sus sustancias tienen efecto que enmascara el cansancio, interfiere con el sueño, eleva la presión  y favorece alteraciones del ritmo cardiaco.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-bebida-energetica-bajo-la-lupa-foto-cedida.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/biobio-municipios-funcionarios-publicos-condenados.html",
-   "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
-   "resumen": "El listado también incluye los servicios de Salud Arauco y Concepción, además del SLEP Andalién Sur. Con 12 instituciones en total, el Biobío se ubica tercero a nivel nacional.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fachada-contraloria-region.biobio.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/19/corma-inaugura-expocorma-2026-coronel-biobio.html",
-   "titulo": "Con foco en innovación y prevención de incendios, inauguran ExpoCorma 2026",
-   "resumen": "La XXIII versión del principal encuentro forestal del país reúne a 160 expositores hasta el viernes 20 de noviembre.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-inauguracion-Expo-Corma-2026-foto-carolina.jpg-1.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "regional",
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/escuela-de-verano-udec-2027-el-tiempo-como-punto-de-encuentro-entre-ciencias-artes-comunidad-universitaria.html",
-   "titulo": "Escuela de Verano UdeC 2027: “El Tiempo” como punto de encuentro entre las ciencias, las artes y la comunidad universitaria",
-   "resumen": "Entre el 11 y el 22 de enero, la edición número 72 de esta tradicional cita académica y cultural desplegará su programación en torno a este concepto en los tres campus de la Universidad de Concepción. Un congreso con la participación del Premio Nobel de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-nota-Mauricio-Maldonado.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/vial-y-una-historia-de-ascensos-cinco-recordados-festejos-y-otro-que-debio-ser.html",
-   "titulo": "Vial y una historia de ascensos: cinco recordados festejos y otro que debió ser",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ascenso-Fernandez-Vial-.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/los-ex-udec-seran-chile-en-el-mundial-de-maxibasket.html",
-   "titulo": "Los Ex UdeC serán Chile en el Mundial de Maxibasket",
-   "resumen": "Jorge Vásquez, base del equipo que clasificó en Puerto Montt, habló de esta campaña con los +40 que sacaron boleto para Fortaleza y esta nueva etapa que todos viven con alegría y nostalgia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Maxibasquetbol.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T08:40:23.244Z",
-   "visto": "2026-11-19T08:40:23.244Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
