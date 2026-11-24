@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T20:20:26.147Z",
+ "generado": "2026-11-24T20:30:25.426Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/esto-es-biobio-estudio-economico.html",
+   "titulo": "“Esto es Biobío”: estudio destacó orgullo regional y preocupación económica",
+   "resumen": "Los resultados dan cuenta de una evaluación negativa de la situación del empleo y un 90% considera que existen proyectos e ideas, pero falta inversión para concretarlos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-conversatorio-Esto-es-Biobio-foto-isidoro-2.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T20:30:25.426Z",
+   "visto": "2026-11-24T20:30:25.426Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/buses-tucapel-puzzle-boletos.html",
    "titulo": "Con lugares icónicos de Concepción: Buses Tucapel lanzará su último puzzle de boletos este jueves",
