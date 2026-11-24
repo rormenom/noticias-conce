@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T00:40:21.512Z",
+ "generado": "2026-11-24T00:50:22.742Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 59,
+    "enlaces": 154,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 11,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
@@ -783,6 +783,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T15:00:00.000Z",
    "visto": "2026-11-24T00:10:20.437Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/biministro-alvarado-delegado-titular-biobio-interinato.html",
+   "titulo": "Biministro Alvarado no entregó el nombre del delegado presidencial regional  titular de Biobío",
+   "resumen": "En el seminario \"Esto es Biobío\", el biministro del Interior y Segegob evitó dar nombres para la Delegación Presidencial Regional, asegurando que se resolverá \"en un plazo relativamente prudente\" y que no han ingresado dimisiones en Interior.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/biministro-alvarado-delegado-titular-biobio-interinato-e1795480924583.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T15:00:00.000Z",
+   "visto": "2026-11-24T00:50:22.742Z",
    "cats": [
     "politica"
    ],
