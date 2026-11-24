@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T14:40:23.460Z",
+ "generado": "2026-11-24T14:50:24.586Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 62,
+    "enlaces": 155,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/conaf-confirma-presencia-de-huemules-en-el-parque-nacional-laguna-del-laja/",
+   "titulo": "Conaf confirma presencia de huemules en el Parque Nacional Laguna del Laja",
+   "resumen": "Tres ejemplares juveniles de huemul (Hippocamelus bisulcus) fueron registrados por […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Huemul-1-768x432.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-24T14:47:23.000Z",
+   "visto": "2026-11-24T14:50:24.586Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/laja-detienen-a-sujeto-por-almacenar-material-de-explotacion-sexual-infantil-en-su-telefono.html",
    "titulo": "Laja: detienen a sujeto por almacenar material de explotación sexual infantil en su teléfono",
@@ -1489,20 +1503,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-23T01:55:21.000Z",
    "visto": "2026-11-23T02:00:25.740Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
-   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-22T23:26:00.650Z",
-   "visto": "2026-11-22T23:26:00.650Z",
    "cats": [
     "regional"
    ],
