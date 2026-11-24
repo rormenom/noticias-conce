@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T20:00:32.207Z",
+ "generado": "2026-11-24T20:20:26.147Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 58,
     "leidas": 3,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 153,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/buses-tucapel-puzzle-boletos.html",
+   "titulo": "Con lugares icónicos de Concepción: Buses Tucapel lanzará su último puzzle de boletos este jueves",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-36-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T20:20:26.147Z",
+   "visto": "2026-11-24T20:20:26.147Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/caminata-animalista-biobio-proteccion-animales-esterilizacion.html",
    "titulo": "Agrupaciones animalistas del Biobío marcharán por protección y apoyo para los animales",
@@ -1396,20 +1410,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/marejadas-afectarian-a-la-costa-chilena-entre-este-martes-y-jueves-revisa-horarios-de-mayor-actividad",
-   "titulo": "Marejadas llegarían a las costas de Chile entre martes y jueves: conoce cuándo serán más intensas",
-   "resumen": "Nuevamente, el Centro Zonal de Meteorología Marina de Valparaíso informó de marejadas que afectarían durante los próximos días a buena parte del litoral chileno. Aunque no corresponde a un fenómeno «anormal», como el pronosticado para el fin de semana pasado,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/marejadas-24-de-noviembre.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T16:40:22.716Z",
-   "visto": "2026-11-23T16:40:22.716Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/23/alejandro-sanz-confirma-concierto-en-concepcion-revisa-cuando-comienza-la-venta-de-entradas.shtml",
    "titulo": "¡Alejandro Sanz confirma concierto en Concepción! Revisa cuándo comienza la venta de entradas",
    "resumen": "La espera terminó para los fanáticos de Alejandro Sanz en Chile. Y es que el cantante español confirmó su regreso...",
@@ -2380,20 +2380,6 @@
    "visto": "2026-11-19T21:30:26.949Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/19/escaladores-biobio-final-nacional-santiago.html",
-   "titulo": "Semillero en altura: delegación infantil y juvenil del Biobío afina detalles para competir en la Final Nacional de Escalada",
-   "resumen": "Entre el 27 y 29 de noviembre, jóvenes escaladores del Biobío viajarán a Cerrillos para disputar la Final Nacional Escolar de la disciplina.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/escaladores-biobio-final-nacional-santiago-3-e1795118569337.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T20:20:23.937Z",
-   "visto": "2026-11-19T20:20:23.937Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
