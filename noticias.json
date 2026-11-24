@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T10:30:26.117Z",
+ "generado": "2026-11-24T10:40:21.257Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/robo-de-8-500-millones-al-bci-en-concepcion-la-fiscalia-afina-su-investigacion",
+   "titulo": "Robo de $8.500 millones al BCI en Concepción: la Fiscalía afina su investigación",
+   "resumen": "La Fiscalía maneja una pista más definida sobre el robo de 8.500 millones de pesos al banco BCI en el centro de Concepción, ocurrido hace más de dos semanas. Así lo informó el seremi de Seguridad, Richard Soto, quien además adelantó que esta semana el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ROBO-BCI.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T10:40:21.257Z",
+   "visto": "2026-11-24T10:40:21.257Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/gobierno-revela-que-las-renuncias-de-la-seremi-de-salud-y-la-jefa-del-senama-nunca-se-tramitaron",
    "titulo": "Gobierno revela que las renuncias de la seremi de Salud y la jefa del Senama nunca se tramitaron",
@@ -2535,21 +2549,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-19T11:02:09.000Z",
    "visto": "2026-11-19T11:10:20.736Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/alcalde-de-hualpen-tres-de-los-cuatro-funcionarios-con-condenas-dejaron-el-municipio-en-2017",
-   "titulo": "Alcalde de Hualpén: tres de los cuatro funcionarios con condenas dejaron el municipio en 2017",
-   "resumen": "Un informe de la Contraloría identificó a 315 personas que, pese a cumplir condenas, trabajarían actualmente en el aparato público. Entre ellas figuran cuatro funcionarios de la Municipalidad de Hualpén, caso sobre el que el alcalde Miguel Rivera entregó su…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2024/10/Captura-de-pantalla-2024-10-15-a-las-7.42.29%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T10:40:23.637Z",
-   "visto": "2026-11-19T10:40:23.637Z",
    "cats": [
     "regional",
     "politica"
