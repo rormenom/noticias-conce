@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T18:50:21.127Z",
+ "generado": "2026-11-24T19:10:19.671Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 156,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -2390,35 +2390,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T20:20:23.937Z",
    "visto": "2026-11-19T20:20:23.937Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/19/viaje-florianopolis-brasil-cancun-mexico.html",
-   "titulo": "¿Playa en Brasil o México? Paquete a Florianópolis vs. paquetes a Cancún",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/playa-en-brasil-o-mexico-paquete-a-florianopolis-vs-paquetes-a-cancun-145350.jpg.jpeg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-19T19:10:31.194Z",
-   "visto": "2026-11-19T19:10:31.194Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/19/pese-a-encabezar-repunte-lila-fernando-diaz-dejo-potente-senal-sobre-su-futuro-en-dep-concepcion",
-   "titulo": "Aunque lideró el repunte lila, Fernando Díaz dejó una clara señal sobre su futuro en Deportes Concepción",
-   "resumen": "El notable repunte de Deportes Concepción con Fernando Díaz al mando se contrapone a las dudas sobre la continuidad del técnico. En medio de la lucha del equipo por conseguir un lugar en la Copa Sudamericana, el entrenador chileno dio a entender que su etapa…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/concepcion-fernando-diaz-renovacion.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-19T19:10:31.194Z",
-   "visto": "2026-11-19T19:10:31.194Z",
    "cats": [
     "deportes"
    ],
