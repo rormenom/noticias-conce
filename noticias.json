@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T19:30:28.523Z",
+ "generado": "2026-11-24T19:40:26.939Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 55,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/comite-regional-de-infraestructura-define-23-proyectos-prioritarios-para-destrabar-y-acelerar-iniciativas/",
+   "titulo": "Comité Regional de Infraestructura define 23 proyectos prioritarios para destrabar y acelerar iniciativas",
+   "resumen": "Con el objetivo de fortalecer la coordinación entre los distintos […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/mop-reactivacion-768x512.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-24T19:35:50.000Z",
+   "visto": "2026-11-24T19:40:26.939Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/santa-juana-plazoleta-villa-santa-lucia.html",
    "titulo": "Santa Juana recupera la plazoleta de Villa Santa Lucía con inversión superior a $100 millones",
@@ -1414,20 +1428,6 @@
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/Academia-de-Mujeres-Empresarias-impulsa-el-desarrollo-de-42-emprendedoras-en-Los-A%CC%81lamos.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T15:30:24.736Z",
-   "visto": "2026-11-23T15:30:24.736Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/penco-cge-condona-deuda-electrica-a-2-553-familias-damnificadas-por-incendios",
-   "titulo": "Penco: CGE condona deuda eléctrica a 2.553 familias damnificadas por incendios",
-   "resumen": "La Compañía General de Electricidad (CGE) anunció la condonación total de las deudas y consumos eléctricos acumulados hasta mayo para 2.553 familias de la Región del Biobío, principalmente de la comuna de Penco, que resultaron afectadas por los incendios…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Sin-titulo-6-e1795446935128.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
    "fecha": "2026-11-23T15:30:24.736Z",
    "visto": "2026-11-23T15:30:24.736Z",
    "cats": [
