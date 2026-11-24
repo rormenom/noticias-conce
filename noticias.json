@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T08:40:20.857Z",
+ "generado": "2026-11-24T08:50:20.672Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 58,
-    "leidas": 5,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 1,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/24/armada-isla-quiriquina-pdi-extraccion-madera.html",
+   "titulo": "La PDI realiza diligencias sobre la Armada tras observaciones por faenas forestales en la Isla Quiriquina",
+   "resumen": "El Ministerio Público despachó una orden de investigar a la BIDEMA, tras recibir antecedentes de Contraloría sobre falencias en procesos de contratación, pagos y control de recursos vinculados a la ampliación de la Escuela de Grumetes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Isla-Quiriquina-foto-mop.jpg-e1795482260431.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T08:40:20.857Z",
+   "visto": "2026-11-24T08:40:20.857Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/medidas-preventivas-incendios-calor-biobio.html",
    "titulo": "Fuerza de tarea, poda y grifos: así afinan Bomberos y servicios su respuesta ante incendios forestales",
@@ -96,16 +110,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/24/armada-isla-quiriquina-pdi-extraccion-madera.html",
-   "titulo": "La PDI realiza diligencias sobre la Armada tras observaciones por faenas forestales en la Isla Quiriquina",
-   "resumen": "El Ministerio Público despachó una orden de investigar a la BIDEMA, tras recibir antecedentes de Contraloría sobre falencias en procesos de contratación, pagos y control de recursos vinculados a la ampliación de la Escuela de Grumetes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Isla-Quiriquina-foto-mop.jpg-e1795482260431.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/plaga-ratones-afecta-salud-familia-penco.html",
+   "titulo": "Penco: Serviu tramita subsidio para familia afectada por plaga de ratones tras megaincendio",
+   "resumen": "Los damnificados informaron que la situación no les permite llevar una vida digna.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PAG-7-contexto-de-plaga-de-ratones-foto-pexels-ardeshir-etemad.jpg-e1795482458463.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T08:40:20.857Z",
    "visto": "2026-11-24T08:40:20.857Z",
    "cats": [
-    "politica"
+    "regional"
    ],
    "local": true
   },
@@ -134,20 +148,6 @@
    "visto": "2026-11-24T08:40:20.857Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/plaga-ratones-afecta-salud-familia-penco.html",
-   "titulo": "Penco: Serviu tramita subsidio para familia afectada por plaga de ratones tras megaincendio",
-   "resumen": "Los damnificados informaron que la situación no les permite llevar una vida digna.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PAG-7-contexto-de-plaga-de-ratones-foto-pexels-ardeshir-etemad.jpg-e1795482458463.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T08:40:20.857Z",
-   "visto": "2026-11-24T08:40:20.857Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
