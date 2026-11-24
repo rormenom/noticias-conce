@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T21:40:20.499Z",
+ "generado": "2026-11-24T21:50:21.189Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 59,
-    "leidas": 4,
+    "enlaces": 58,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -47,7 +47,7 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 19,
+    "enlaces": 18,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 54,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -82,10 +82,10 @@
  ],
  "items": [
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/cambios-transito-concepcion-apertura-caleteras-viaducto.html",
-   "titulo": "Modificaciones viales en Concepción: revisa los cambios en Av. Padre Hurtado, Cochrane y Av. Prat desde este jueves",
-   "resumen": "Las modificaciones informadas por el municipio regirán de manera progresiva entre este jueves 26 y viernes 27 de noviembre.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cambios-transito-concepcion-apertura-caleteras-viaducto-5-e1795555839379.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/realizan-61-fiscalizaciones-a-rellenos-sanitarios-vertederos-y-plantas-de-transferencia-en-2026.html",
+   "titulo": "Realizan 61 fiscalizaciones a rellenos sanitarios, vertederos y plantas de transferencia en 2026",
+   "resumen": "Balance regional contempla 46 inspecciones a rellenos sanitarios, 12 a vertederos y 3 a plantas de transferencia, que derivaron en dos sumarios sanitarios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fiscalizaci%C3%B3n.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T21:40:20.499Z",
@@ -96,10 +96,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/realizan-61-fiscalizaciones-a-rellenos-sanitarios-vertederos-y-plantas-de-transferencia-en-2026.html",
-   "titulo": "Realizan 61 fiscalizaciones a rellenos sanitarios, vertederos y plantas de transferencia en 2026",
-   "resumen": "Balance regional contempla 46 inspecciones a rellenos sanitarios, 12 a vertederos y 3 a plantas de transferencia, que derivaron en dos sumarios sanitarios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fiscalizaci%C3%B3n.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/cambios-transito-concepcion-apertura-caleteras-viaducto.html",
+   "titulo": "Modificaciones viales en Concepción: revisa los cambios en Av. Padre Hurtado, Cochrane y Av. Prat desde este jueves",
+   "resumen": "Las modificaciones informadas por el municipio regirán de manera progresiva entre este jueves 26 y viernes 27 de noviembre.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cambios-transito-concepcion-apertura-caleteras-viaducto-5-e1795555839379.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T21:40:20.499Z",
@@ -668,6 +668,20 @@
    "visto": "2026-11-24T13:50:21.968Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/24/noche-de-museos-2026-registro-mas-de-3-400-visitas-en-nuble/",
+   "titulo": "Noche de Museos 2026 registró más de 3.400 visitas en Ñuble",
+   "resumen": "Y aumentó su convocatoria en un 40%",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/noche-museos-nuble--768x430.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-24T13:48:24.000Z",
+   "visto": "2026-11-24T21:50:21.189Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -2378,20 +2392,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-19T22:20:20.233Z",
    "visto": "2026-11-19T22:20:20.233Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/19/catalina-y-las-bordonas-de-oro-haran-su-debut-en-teatro-biobio.html",
-   "titulo": "Catalina y Las Bordonas de Oro harán su debut en Teatro Biobío",
-   "resumen": "La banda se presentará este sábado 21 de noviembre -a las 19.00 horas- en la sala principal del espacio cultural local de Avenida Costanera. Show que se enmarca dentro de la presentación de su nuevo y tercer álbum \"La alegría de los que lloran\".",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/catalina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T21:50:20.486Z",
-   "visto": "2026-11-19T21:50:20.486Z",
    "cats": [
     "cultura"
    ],
