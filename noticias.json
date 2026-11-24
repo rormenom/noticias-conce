@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T15:20:24.118Z",
+ "generado": "2026-11-24T15:30:26.782Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 61,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 9,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
@@ -463,10 +463,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/plaga-ratones-afecta-salud-familia-penco.html",
-   "titulo": "Penco: Serviu tramita subsidio para familia afectada por plaga de ratones tras megaincendio",
-   "resumen": "Los damnificados informaron que la situación no les permite llevar una vida digna.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PAG-7-contexto-de-plaga-de-ratones-foto-pexels-ardeshir-etemad.jpg-e1795482458463.jpeg",
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/24/mop-chile-despega-contrataciones-biobio-2027.html",
+   "titulo": "MOP proyecta iniciar en enero la contratación de hasta 3 mil trabajadores por obras de Chile Despega",
+   "resumen": "Las primeras iniciativas se adjudicarían el próximo mes y comenzarían su ejecución en el inicio de 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/trabajo-construccion-foto-carolina.jpg-e1795482508589.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T08:40:20.857Z",
@@ -477,10 +477,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/24/mop-chile-despega-contrataciones-biobio-2027.html",
-   "titulo": "MOP proyecta iniciar en enero la contratación de hasta 3 mil trabajadores por obras de Chile Despega",
-   "resumen": "Las primeras iniciativas se adjudicarían el próximo mes y comenzarían su ejecución en el inicio de 2027.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/trabajo-construccion-foto-carolina.jpg-e1795482508589.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/plaga-ratones-afecta-salud-familia-penco.html",
+   "titulo": "Penco: Serviu tramita subsidio para familia afectada por plaga de ratones tras megaincendio",
+   "resumen": "Los damnificados informaron que la situación no les permite llevar una vida digna.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PAG-7-contexto-de-plaga-de-ratones-foto-pexels-ardeshir-etemad.jpg-e1795482458463.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T08:40:20.857Z",
@@ -873,10 +873,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cge-condona-deudas-electricas-damnificados-penco-lirquen.html",
-   "titulo": "A 10 meses de los incendios: condonan deudas eléctricas hasta mayo a más de 2 mil familias de Penco y Lirquén y repactarán cobros de junio a septiembre",
-   "resumen": "Diez meses después de la emergencia registrada en enero de 2026, autoridades informaron la anulación de saldos previos a mayo, mientras que los consumos entre junio y septiembre se facturarán en cuotas.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cge-condona-deudas-electricas-damnificados-penco-lirquen-e1795456767162.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/reabren-paso-pichachen-proyectan-finalizar-obras-del-complejo-fronterizo-pichachen-en-marzo.html",
+   "titulo": "Reabren paso Pichachén: proyectan finalizar obras del Complejo Fronterizo Pichachén en marzo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pag-12-paso-pichachen-foto-cedida.jpg.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T18:10:19.858Z",
@@ -887,10 +887,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/reabren-paso-pichachen-proyectan-finalizar-obras-del-complejo-fronterizo-pichachen-en-marzo.html",
-   "titulo": "Reabren paso Pichachén: proyectan finalizar obras del Complejo Fronterizo Pichachén en marzo",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pag-12-paso-pichachen-foto-cedida.jpg.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cge-condona-deudas-electricas-damnificados-penco-lirquen.html",
+   "titulo": "A 10 meses de los incendios: condonan deudas eléctricas hasta mayo a más de 2 mil familias de Penco y Lirquén y repactarán cobros de junio a septiembre",
+   "resumen": "Diez meses después de la emergencia registrada en enero de 2026, autoridades informaron la anulación de saldos previos a mayo, mientras que los consumos entre junio y septiembre se facturarán en cuotas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cge-condona-deudas-electricas-damnificados-penco-lirquen-e1795456767162.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T18:10:19.858Z",
