@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T15:00:30.272Z",
+ "generado": "2026-11-24T15:20:24.118Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 35,
+    "enlaces": 34,
     "leidas": 9,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/padre-de-joven-declarada-interdicta-impulsa-cambios-legales-para-proteger-coberturas-y-derechos-tras-la-mayoria-de-edad",
+   "titulo": "Padre de joven declarada interdicta impulsa cambios legales para proteger coberturas y derechos tras la mayoría de edad",
+   "resumen": "La historia de Javiera, una joven de 22 años con síndrome de Down y lenguaje no verbal que fue declarada interdicta al cumplir la mayoría de edad, abrió un debate sobre los vacíos y topes que enfrenta su familia en materia de coberturas, beneficios y respaldo…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-11.14.54-1.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T15:20:24.118Z",
+   "visto": "2026-11-24T15:20:24.118Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/de-los-costillares-del-bavaria-a-las-barras-de-proteina",
+   "titulo": "De los costillares del Bavaria a las barras de proteína",
+   "resumen": "Los diputados republicanos Sebastián Zamora, Javiera Rodríguez e Ignacio Urrutia llegaron a una comisaría en Valparaíso cargados de bebidas energéticas y barras de proteína, y se grabaron haciéndolo. Lo hicieron con orgullo, para las redes. Por eso presenté…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/de-los-costillares-del-bavaria-a-las-barras-de-proteina.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T15:20:24.118Z",
+   "visto": "2026-11-24T15:20:24.118Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/preuniversitario-gratuito-formo-a-120-jovenes-de-region-del-bio-bio-con-apoyo-academico-y-vocacional",
    "titulo": "Un preuniversitario gratuito apoyó la preparación académica y vocacional de 120 jóvenes del Biobío",
@@ -190,6 +218,20 @@
    "visto": "2026-11-24T14:20:20.247Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/24/con-tres-bajas-azules-y-mas-de-12-mil-hinchas-lilas-el-favorable-escenario-de-deportes-concepcion-ante-la-u/",
+   "titulo": "Con tres bajas azules y más de 12 mil hinchas lilas: el favorable escenario de Deportes Concepción ante la “U”",
+   "resumen": "Por Camilo Bravo Ortiz.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/D.-Concepcion-bajas-U-de-Chile-768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-24T14:17:20.000Z",
+   "visto": "2026-11-24T15:20:24.118Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1453,20 +1495,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/plaza-peru-concepcion-comercio-ruido-polvo-obras.html",
-   "titulo": "Exceso de ruido y polvo en suspensión afectan a comercio de Plaza Perú en medio de reapertura parcial",
-   "resumen": "A pesar del término del contrato entre el municipio y la constructora a cargo de la remodelación, trabajadores de los locales gastronómicos aledaños aseguran que los accesos habilitados han impactado de forma marginal en relación a las ventas y el empleo.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.43.50.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T08:40:21.730Z",
-   "visto": "2026-11-23T08:40:21.730Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/huachipato-y-deportes-concepcion-no-se-hicieron-dano-en-talcahuano/",
    "titulo": "Huachipato y Deportes Concepción no se hicieron daño en Talcahuano",
    "resumen": "El clásico regional terminó 0-0 en el Estadio Huachipato CAP, en un encuentro marcado por el penal que Nicolás Araya le contuvo a Lionel Altamirano y la expulsión de Fausto Grillo.",
@@ -1491,20 +1519,6 @@
    "visto": "2026-11-23T11:50:24.660Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/dos-personas-fallecen-en-accidente-de-transito-en-la-ruta-q-60-r-en-canete/",
-   "titulo": "Dos personas fallecen en accidente de tránsito en la ruta Q-60-R, en Cañete",
-   "resumen": "Las víctimas serían dos hombres adultos.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/accidente-ruta-Q-60-R-Canete-768x406.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-23T07:23:35.000Z",
-   "visto": "2026-11-23T11:30:26.278Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
