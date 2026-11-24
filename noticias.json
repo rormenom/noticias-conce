@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T09:30:25.256Z",
+ "generado": "2026-11-24T10:30:26.117Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 65,
+    "leidas": 66,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 5,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/gobierno-revela-que-las-renuncias-de-la-seremi-de-salud-y-la-jefa-del-senama-nunca-se-tramitaron",
+   "titulo": "Gobierno revela que las renuncias de la seremi de Salud y la jefa del Senama nunca se tramitaron",
+   "resumen": "Las renuncias de la seremi de Salud del Bío Bío, Isabel Rojas, y de la directora regional del Servicio Nacional del Adulto Mayor (SENAMA), Antaris Varela, nunca fueron tramitadas por el gobierno. Así lo aclaró el delegado presidencial (s) Juan Pablo Mellado.…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/JUAN-PABLO-MELLADO.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T10:30:26.117Z",
+   "visto": "2026-11-24T10:30:26.117Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/chantaje-y-desorden-politico-la-dura-reaccion-transversal-por-las-renuncias-en-el-partido-cristiano",
    "titulo": "Chantaje y desorden político: la dura reacción transversal por las renuncias en el Partido Cristiano",
