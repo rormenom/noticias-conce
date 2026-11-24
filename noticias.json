@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T11:00:33.056Z",
+ "generado": "2026-11-24T11:10:22.212Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 65,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 36,
-    "leidas": 5,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/24/ola-de-robos-golpea-a-20-iglesias-de-lota-en-un-mes-y-solo-ocho-llegaron-a-denuncia",
+   "titulo": "Ola de robos golpea a 20 iglesias de Lota en un mes y sólo ocho llegaron a denuncia",
+   "resumen": "Unas 20 iglesias de distintos credos han sido blanco de robos en lo que va de noviembre en Lota, en la Región del Bío Bío. Sin embargo, menos de la mitad de los casos ha sido denunciada formalmente. La Fiscalía y Carabineros registran sólo ocho denuncias…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/06/exmiembros-iglesia-evangelica-denuncian-malversacion-millones.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-24T11:10:22.212Z",
+   "visto": "2026-11-24T11:10:22.212Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/24/atacan-camioneta-que-repartia-medicamentos-en-chiguayante-y-gremio-de-la-salud-exige-seguridad",
    "titulo": "Atacan camioneta que repartía medicamentos en Chiguayante y gremio de la salud exige seguridad",
@@ -1552,20 +1566,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/se-posterga-otra-vez-el-caso-convenios-defensa-de-tamara-vidal-frena-arista-mi-hogar-asuncionista",
-   "titulo": "Se posterga otra vez el caso Convenios: defensa de Tamara Vidal frena arista Mi Hogar Asuncionista",
-   "resumen": "La preparación del juicio por la arista Mi Hogar Asuncionista, del caso Convenios, fue reprogramada para el 16 de marzo de 2027. Así lo resolvió el Juzgado de Garantía de Concepción, que acogió una solicitud de la Defensoría Penal Pública, según informó la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2025/07/Captura-de-pantalla-2025-07-01-a-las-7.45.33%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T18:00:28.526Z",
-   "visto": "2026-11-22T18:00:28.526Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/22/seremi-de-salud-y-directora-del-senama-en-el-bio-bio-retiran-renuncias-tras-cita-con-su-partido-2",
    "titulo": "Seremi de Salud y directora del Senama en el Bío Bío retiran renuncias tras cita con su partido",
    "resumen": "La seremi de Salud del Bío Bío, Isabel Rojas, y la directora regional del Senama, Antaris Varela, retiraron sus renuncias y seguirán en sus cargos. Ambas militan en el Partido Cristiano y habían firmado sus cartas tres días antes, argumentando motivos…",
@@ -2538,21 +2538,6 @@
    "visto": "2026-11-19T13:10:22.385Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/19/tras-informe-de-cgr-municipio-de-hualpen-descarta-casos-de-funcionarios-condenados-en-servicio.shtml",
-   "titulo": "Tras informe de CGR: Municipio de Hualpén descarta casos de funcionarios condenados en servicio",
-   "resumen": "Tres de los cuatro funcionarios que la Contraloría sindica como condenados y con contrato en la Municipalidad de Hualpén...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7024770-tras-informe-de-contraloria_-municipio-de-hualpen-descarta-tener-trabajadores-condenados-en-servicio.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-19T11:02:09.000Z",
-   "visto": "2026-11-19T11:10:20.736Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
