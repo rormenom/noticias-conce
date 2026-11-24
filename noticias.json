@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T16:10:22.318Z",
+ "generado": "2026-11-24T16:20:22.057Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 61,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -2479,35 +2479,6 @@
    "visto": "2026-11-19T16:40:21.683Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/subdere-asigna-7571-millones-municipios-biobio.html",
-   "titulo": "Subdere asigna $7.571 millones a 23 municipios del Biobío para ejecutar 52 proyectos de infraestructura local",
-   "resumen": "Los recursos financiarán obras de alumbrado público, veredas, sedes vecinales, multicanchas y soluciones de agua potable en 23 de las 33 comunas de la región.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/millones-municipios-biobio-aerea-Concepcion-foto-raphael.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T16:20:22.986Z",
-   "visto": "2026-11-19T16:20:22.986Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/orquesta-sinfonica-udec-despide-la-temporada-2026-con-una-noche-de-gala/",
-   "titulo": "Orquesta Sinfónica UdeC despide la Temporada 2026 con una noche de gala",
-   "resumen": "Una temporada de grandes encuentros, destacados solistas, descubrimientos musicales y […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/IMG_5813-768x431.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-19T16:16:37.000Z",
-   "visto": "2026-11-16T16:20:35.186Z",
-   "cats": [
-    "cultura",
-    "regional"
    ],
    "local": true
   }
