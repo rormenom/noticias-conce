@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T20:30:25.426Z",
+ "generado": "2026-11-24T20:50:21.200Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 58,
+    "enlaces": 59,
     "leidas": 3,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 155,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/mop-adjudica-estudio-nuevo-puente-reemplazo-juan-pablo-ii.html",
+   "titulo": "MOP adjudica estudio para proyectar nuevo puente sobre el río Biobío que reemplazará al Juan Pablo II",
+   "resumen": "La consultoría analizará la factibilidad técnica, económica, social y ambiental de una nueva estructura en el eje Alessandri ante el término de la vida útil y las restricciones de carga del actual viaducto.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/mop-adjudica-estudio-nuevo-puente-reemplazo-juan-pablo-ii-e1795553199183.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T20:50:21.200Z",
+   "visto": "2026-11-24T20:50:21.200Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/esto-es-biobio-estudio-economico.html",
    "titulo": "“Esto es Biobío”: estudio destacó orgullo regional y preocupación económica",
@@ -1391,20 +1405,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/con-forado-y-tras-desconectar-camaras-roban-10-millones-desde-ferreteria-del-centro-de-concepcion.shtml",
-   "titulo": "Con forado y tras desconectar cámaras: roban $10 millones desde ferretería del centro de Concepción",
-   "resumen": "Delincuentes robaron alrededor de 10 millones de pesos desde una ferretería ubicada en el centro de Concepción, región del Bío...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029205-foto-contexto-nota-bbcl-2026-11-23t134646-208.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-23T16:48:19.000Z",
-   "visto": "2026-11-23T16:50:21.990Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
