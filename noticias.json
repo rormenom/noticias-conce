@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-24T12:20:21.305Z",
+ "generado": "2026-11-24T12:30:25.870Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -35,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 58,
+    "enlaces": 57,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -975,20 +974,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
-   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T15:30:24.736Z",
-   "visto": "2026-11-23T15:30:24.736Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/42-mujeres-capacitacion-emprendimientos-los-alamos.html",
    "titulo": "Formalización y financiamiento: los desafíos de 42 emprendedoras de Los Álamos",
    "resumen": "Marketing digital, formalización y financiamiento fueron parte de la capacitación.",
@@ -1009,6 +994,20 @@
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Sin-titulo-6-e1795446935128.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
+   "fecha": "2026-11-23T15:30:24.736Z",
+   "visto": "2026-11-23T15:30:24.736Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/despedida-boletos-micro-talcahuano.html",
+   "titulo": "Despedida a los boletos de micro: organizan evento de exposiciones e intercambio en Talcahuano",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/02/Boletos-de-micro.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T15:30:24.736Z",
    "visto": "2026-11-23T15:30:24.736Z",
    "cats": [
