@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T11:30:31.532Z",
+ "generado": "2026-11-24T11:40:20.076Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 154,
     "leidas": 64,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/cge-dejara-de-cobrar-mas-de-450-millones-a-familias-afectadas-por-los-incendios-de-penco-y-lirquen/",
+   "titulo": "CGE dejará de cobrar más de 450 millones a familias afectadas por los incendios de Penco y Lirquén",
+   "resumen": "En Lirquén, CGE confirmó que no cobrará las deudas eléctricas […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/FOTO_02-2-768x576.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-24T11:33:59.000Z",
+   "visto": "2026-11-24T11:40:20.076Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/un-7-de-avance-lleva-el-mercado-de-talcahuano-a-dos-meses-del-inicio-de-los-trabajos/",
    "titulo": "Un 7% de avance lleva el Mercado de Talcahuano a dos meses del inicio de los trabajos",
@@ -1528,20 +1542,6 @@
    "titulo": "Cementerios al borde del colapso en Bío Bío: consejero pide comprar terrenos con fondos regionales",
    "resumen": "Robert Córdova, consejero regional por la provincia de Bío Bío, planteó que el Gobierno Regional destine recursos a comprar suelo para levantar nuevos cementerios. Su argumento es que varios recintos de la zona están llegando al límite de su capacidad, entre…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2018/10/cementerio-de-lota.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T18:20:22.134Z",
-   "visto": "2026-11-22T18:20:22.134Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/aprueban-casi-200-millones-para-61-proyectos-de-seguridad-vecinal-en-los-angeles",
-   "titulo": "Aprueban casi $200 millones para 61 proyectos de seguridad vecinal en Los Ángeles",
-   "resumen": "El Concejo Municipal de Los Ángeles aprobó casi 200 millones de pesos para financiar 61 proyectos de seguridad ciudadana, que se ejecutarán con recursos del Fondo de Desarrollo Vecinal (Fondeve), un fondo municipal al que postulan organizaciones de la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2020/07/ALARMA.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-22T18:20:22.134Z",
