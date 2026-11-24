@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T21:30:25.961Z",
+ "generado": "2026-11-24T21:40:20.499Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 58,
-    "leidas": 2,
+    "enlaces": 59,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 56,
+    "enlaces": 154,
+    "leidas": 54,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/cambios-transito-concepcion-apertura-caleteras-viaducto.html",
+   "titulo": "Modificaciones viales en Concepción: revisa los cambios en Av. Padre Hurtado, Cochrane y Av. Prat desde este jueves",
+   "resumen": "Las modificaciones informadas por el municipio regirán de manera progresiva entre este jueves 26 y viernes 27 de noviembre.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cambios-transito-concepcion-apertura-caleteras-viaducto-5-e1795555839379.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T21:40:20.499Z",
+   "visto": "2026-11-24T21:40:20.499Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/realizan-61-fiscalizaciones-a-rellenos-sanitarios-vertederos-y-plantas-de-transferencia-en-2026.html",
+   "titulo": "Realizan 61 fiscalizaciones a rellenos sanitarios, vertederos y plantas de transferencia en 2026",
+   "resumen": "Balance regional contempla 46 inspecciones a rellenos sanitarios, 12 a vertederos y 3 a plantas de transferencia, que derivaron en dos sumarios sanitarios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fiscalizaci%C3%B3n.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T21:40:20.499Z",
+   "visto": "2026-11-24T21:40:20.499Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/mop-adjudica-estudio-nuevo-puente-reemplazo-juan-pablo-ii.html",
    "titulo": "MOP adjudica estudio para proyectar nuevo puente sobre el río Biobío que reemplazará al Juan Pablo II",
@@ -1379,20 +1407,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/aviso-altas-temperaturas-biobio-32-grados-incendios.html",
-   "titulo": "Hasta 32 grados y ráfagas de 50 km/h: pronostican calor intenso en el Biobío.",
-   "resumen": "Una ola de calor además de fuertes vientos se esperan para sectores desde el litoral hasta la precordillera en la Región del Biobío, de acuerdo al aviso de la Dirección Meteorológica de Chile",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/JAime-Rendon-2.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T16:50:21.990Z",
-   "visto": "2026-11-23T16:50:21.990Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/23/teatro-misterio-y-almas-en-pena-estrenan-las-animas-en-talcahuano",
    "titulo": "Teatro, misterio y almas en pena: estrenan «Las Ánimas» en Talcahuano",
    "resumen": "Cinco ánimas, o almas en pena, siguen sin poder volver a casa. Vagan por un territorio sin nombre y reviven una contienda que acabó hace medio siglo. Así parte Las Ánimas, que se estrenará el viernes 27 y el sábado 28 de noviembre en el Teatro Dante de…",
@@ -2380,20 +2394,6 @@
    "visto": "2026-11-19T21:50:20.486Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/19/enap-hualpen-pericias-diputado-rivas.html",
-   "titulo": "Tras intoxicación en Hualpén: diputado Rivas asegura que ENAP comprometió nuevas pericias",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/enap-diputado-rivas.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-19T21:40:20.537Z",
-   "visto": "2026-11-19T21:40:20.537Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
