@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T16:40:21.073Z",
+ "generado": "2026-11-25T16:50:20.620Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 62,
+    "enlaces": 155,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/prision-preventiva-disparos-galeria-ohiggins-concepcion.html",
+   "titulo": "VIDEO | Lo que se sabe del ataque armado en Galería O’Higgins que terminó con tres detenidos en Hualpén",
+   "resumen": "El ataque ocurrió la madrugada del sábado tras un conato previo en el recinto del centro penquista, sin dejar personas lesionadas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/prision-preventiva-disparos-galeria-ohiggins-concepcion.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T16:50:20.620Z",
+   "visto": "2026-11-25T16:50:20.620Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/nueva-etiqueta-eficiencia-refrigeradores.html",
    "titulo": "¿Tu refrigerador es realmente eficiente? Nueva etiqueta cambia la clasificación de estos electrodomésticos",
@@ -1375,20 +1390,6 @@
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-24T14:20:20.247Z",
-   "visto": "2026-11-24T14:20:20.247Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/detienen-a-profesor-acusado-de-violar-a-estudiante-de-16-anos-en-tome.shtml",
-   "titulo": "Detienen a profesor acusado de violar a estudiante de 16 años en Tomé",
-   "resumen": "La Policía de Investigaciones (PDI) detuvo a un profesor acusado de violar a una estudiante de 16 años en Tomé,...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7030310-profesor-detenido-violacion-estudiante-16anos.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-24T14:17:49.000Z",
    "visto": "2026-11-24T14:20:20.247Z",
    "cats": [
     "regional"
