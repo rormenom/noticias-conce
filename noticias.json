@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T21:20:19.942Z",
+ "generado": "2026-11-25T21:30:23.086Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 2,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 56,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/juegos-agua-parque-ecuador-concepcion-apertura.html",
+   "titulo": "Juegos de agua abrirán la próxima semana en Parque Ecuador",
+   "resumen": "Municipalidad trabaja en la mantención de los juegos de agua para ofrecer este esperado disfrute a partir del 2 o 3 de diciembre.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-juegos-de-agua-en-parque-ecuador-foto-carolina.jpg-1-e1795642122154.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T21:30:23.086Z",
+   "visto": "2026-11-25T21:30:23.086Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/destrozos-tras-protesta-en-plaza-peru-vecinos-acusan-abandono-del-sector-y-municipio-se-querellara.shtml",
    "titulo": "Destrozos tras protesta en Plaza Perú: vecinos acusan abandono del sector y municipio se querellará",
@@ -437,20 +451,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/siete-de-la-zona-entre-los-mejores-del-ano-que-posibilidades-tienen-de-ganar.html",
-   "titulo": "Siete de la zona entre los mejores del año: ¿Qué posibilidades tienen de ganar?",
-   "resumen": "Nominación al \"Once Ideal\" de la temporada futbolera incluye 2 figuras de Huachipato y 5 de D. Concepción. Tres de ellos son delanteros y en el arco habrá pelea entre el \"1\" lila y su vecino acerero.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-37-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T15:40:22.292Z",
-   "visto": "2026-11-25T15:40:22.292Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/biobio-4404-familias-egresan-programa-fosis.html",
    "titulo": "Más de 4.400 familias del Biobío finalizaron programa de acompañamiento tras inversión de $2.970 millones",
    "resumen": "El programa llegó a hogares del 40% más vulnerable del Registro Social de Hogares.",
@@ -461,6 +461,20 @@
    "visto": "2026-11-25T15:40:22.292Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/siete-de-la-zona-entre-los-mejores-del-ano-que-posibilidades-tienen-de-ganar.html",
+   "titulo": "Siete de la zona entre los mejores del año: ¿Qué posibilidades tienen de ganar?",
+   "resumen": "Nominación al \"Once Ideal\" de la temporada futbolera incluye 2 figuras de Huachipato y 5 de D. Concepción. Tres de ellos son delanteros y en el arco habrá pelea entre el \"1\" lila y su vecino acerero.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-37-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:40:22.292Z",
+   "visto": "2026-11-25T15:40:22.292Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1425,20 +1439,6 @@
    "visto": "2026-11-24T16:30:26.468Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/masiva-fila-en-plaza-independencia-por-feria-laboral-en-concepcion-a-cualquier-puesto-que-encuentre",
-   "titulo": "Masiva fila en Plaza Independencia por feria laboral en Concepción: “Cualquier puesto que encuentre”",
-   "resumen": "La actividad, organizada por la Municipalidad de Concepción a través de su OMIL, convocó a decenas de personas en busca de empleo en medio del 10,5% de desocupación que registra la Región del Biobío. Una extensa fila se formó en pleno centro de Concepción, en…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-11.51.30-AM-e1795537656277.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T16:30:26.468Z",
-   "visto": "2026-11-24T16:30:26.468Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
