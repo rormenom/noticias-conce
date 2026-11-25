@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T04:10:21.430Z",
+ "generado": "2026-11-25T04:20:19.844Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 153,
     "leidas": 58,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome-la-habria-trasladado-a-cabana.shtml",
+   "titulo": "Prisión preventiva para profesor acusado de violar a estudiante en Tomé: la habría trasladado a cabaña",
+   "resumen": "En prisión preventiva quedó un profesor formalizado el martes por la violación de una estudiante en Tomé, ...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7031222-wiki-a-1-cntxt-por-prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome_-la-habria-trasladado-a-cabana.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T04:13:59.000Z",
+   "visto": "2026-11-25T04:20:19.844Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/detienen-en-tirua-a-felipe-ancalao-ancalao-profugo-por-homicidio-del-comunero-manuel-huenupil-antileo.shtml",
    "titulo": "Detienen en Tirúa a Felipe Ancalao Ancalao, prófugo por homicidio del comunero Manuel Huenupil Antileo",
@@ -1389,20 +1403,6 @@
    "visto": "2026-11-24T00:20:24.239Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/abren-el-paso-picachen-y-proyectan-finalizar-nuevo-complejo-fronterizo-en-marzo/",
-   "titulo": "Abren el Paso Pichachén y proyectan finalizar nuevo complejo fronterizo en marzo",
-   "resumen": "La habilitación del principal paso fronterizo cordillerano de la Región permitirá fortalecer el intercambio turístico y económico con Argentina. En paralelo, las obras del nuevo inmueble presentan un alto nivel de avance y deberán estar concluidas, a más…",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/paso-pichachen-biobio--768x428.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-23T17:55:02.000Z",
-   "visto": "2026-11-23T20:00:27.885Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
