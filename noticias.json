@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T20:30:30.873Z",
+ "generado": "2026-11-25T20:40:21.250Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 58,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 10,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/corte-de-concepcion-confirma-expulsion-de-estudiante-de-odontologia-de-la-udd-que-copio-con-chatgpt",
+   "titulo": "Corte de Concepción ratifica expulsión de alumno de Odontología de la UDD por copiar con ChatGPT",
+   "resumen": "La Corte de Apelaciones de Concepción ratificó la expulsión de una alumna de Odontología de la Universidad del Desarrollo (UDD), luego de que fuera detectada usando ChatGPT para contestar una prueba presencial. El tribunal también tomó en cuenta una segunda…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-25t171123-639.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T20:40:21.250Z",
+   "visto": "2026-11-25T20:40:21.250Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/25/encuentran-orquidea-nativa-chloraea-crispa-en-campus-udec-llaman-a-proteger-la-flora.html",
    "titulo": "Encuentran orquídea nativa Chloraea Crispa en campus UdeC: llaman a proteger la flora",
@@ -1407,20 +1421,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-24T15:54:09.000Z",
    "visto": "2026-11-24T16:00:30.288Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/mi-hija-no-deberia-perder-sus-derechos-por-tener-sindrome-de-down-el-padre-de-javiera-busca-cambiar-la-ley-en-chile",
-   "titulo": "“Mi hija no debería perder sus derechos por tener síndrome de Down”: el padre de Javiera busca cambiar la ley en Chile",
-   "resumen": "",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-11.14.54-AM.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T15:50:26.539Z",
-   "visto": "2026-11-24T15:50:26.539Z",
    "cats": [
     "regional"
    ],
