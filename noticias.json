@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T01:10:20.646Z",
+ "generado": "2026-11-25T01:40:19.642Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 59,
+    "enlaces": 58,
     "leidas": 2,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 152,
     "leidas": 56,
     "errores": 0,
     "robots": 0
@@ -1609,20 +1609,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/campeones-despues-de-los-75-mas-vivos-que-nunca-bajo-el-aro.html",
-   "titulo": "Campeones después de los 75: más vivos que nunca bajo el aro",
-   "resumen": "Equipo de Maxiconce es el mejor de Chile por séptima vez. Un ejemplo de amor por el deporte, disciplina, compañerismo y mucho esfuerzo porque ya no trabajan, pero igualmente deben costearse cada viaje.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/maxiconce-75.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T08:40:21.730Z",
-   "visto": "2026-11-23T08:40:21.730Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/carlos-pena-critica-gestion-kast-renuncias-gobierno-prensa-regional.html",
    "titulo": "“La política es un arte de hipocresía”: Carlos Peña aborda el homenaje a Ho Chi Minh y las renuncias en el Gobierno",
    "resumen": "El rector de la UDP analizó la gestión de Kast, las dificultades para conformar equipos de Gobierno, la relación entre política y ejercicio del poder, y el papel de los medios regionales en la construcción de una opinión pública informada.",
@@ -1633,6 +1619,20 @@
    "visto": "2026-11-23T08:40:21.730Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/campeones-despues-de-los-75-mas-vivos-que-nunca-bajo-el-aro.html",
+   "titulo": "Campeones después de los 75: más vivos que nunca bajo el aro",
+   "resumen": "Equipo de Maxiconce es el mejor de Chile por séptima vez. Un ejemplo de amor por el deporte, disciplina, compañerismo y mucho esfuerzo porque ya no trabajan, pero igualmente deben costearse cada viaje.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/maxiconce-75.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T08:40:21.730Z",
+   "visto": "2026-11-23T08:40:21.730Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
