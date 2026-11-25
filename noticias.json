@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T15:10:25.570Z",
+ "generado": "2026-11-25T15:20:23.768Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
-    "leidas": 0,
+    "enlaces": 57,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 63,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 31,
-    "leidas": 7,
+    "enlaces": 30,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/dia-tecnico-paramedico-tens-chile-25-noviembre.html",
+   "titulo": "De las ambulancias a los hospitales: Chile conmemora el Día del Técnico Paramédico y TENS",
+   "resumen": "El 25 de noviembre de cada año en Chile se conmemora conjuntamente a ambos técnicos de la salud, agradeciendo su compromiso y vocación por cuidar la vida y la salud de las personas en todo Chile",
+   "imagen": "https://assets.diarioconcepcion.cl/2024/11/D%C3%ADa-del-Tens.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:20:23.768Z",
+   "visto": "2026-11-25T15:20:23.768Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/talcahuano-reconstruccion-del-mercado-alcanza-un-7-de-avance-y-proyecta-su-apertura-para-junio-de-2028",
    "titulo": "Talcahuano: reconstrucción del Mercado alcanza un 7% de avance y proyecta su apertura para junio de 2028",
@@ -396,10 +410,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/el-puente-juan-pablo-ii-tendra-un-reemplazo-ya-se-analiza-un-nuevo-viaducto-sobre-el-bio-bio",
-   "titulo": "El puente Juan Pablo II tendrá un reemplazo: ya se analiza un nuevo viaducto sobre el Bío Bío",
-   "resumen": "Ya se inició el estudio de prefactibilidad para reemplazar el puente Juan Pablo II, la estructura de 52 años que cruza el río Bío Bío y que sufrió serios daños tras el terremoto. Es decir, se está evaluando si construir un nuevo viaducto es viable, antes de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/05/juan-pablo-ii.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/25/acusan-al-director-de-mejor-ninez-en-bio-bio-de-exponer-en-un-acto-estando-con-licencia-medica",
+   "titulo": "Acusan al director de Mejor Niñez en Bío Bío de exponer en un acto estando con licencia médica",
+   "resumen": "Trabajadores de Mejor Niñez en la región acusan una posible falta de probidad administrativa del director regional (s), Elías Ramos. Su asociación gremial sostiene que el profesional expuso en una actividad institucional pese a tener licencia médica. La…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ELIAS-RAMOS-MEJOR-NINEZ-.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-25T09:20:20.694Z",
@@ -410,10 +424,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/acusan-al-director-de-mejor-ninez-en-bio-bio-de-exponer-en-un-acto-estando-con-licencia-medica",
-   "titulo": "Acusan al director de Mejor Niñez en Bío Bío de exponer en un acto estando con licencia médica",
-   "resumen": "Trabajadores de Mejor Niñez en la región acusan una posible falta de probidad administrativa del director regional (s), Elías Ramos. Su asociación gremial sostiene que el profesional expuso en una actividad institucional pese a tener licencia médica. La…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ELIAS-RAMOS-MEJOR-NINEZ-.jpeg",
+   "url": "https://www.canal9.cl/episodios/2026/11/25/el-puente-juan-pablo-ii-tendra-un-reemplazo-ya-se-analiza-un-nuevo-viaducto-sobre-el-bio-bio",
+   "titulo": "El puente Juan Pablo II tendrá un reemplazo: ya se analiza un nuevo viaducto sobre el Bío Bío",
+   "resumen": "Ya se inició el estudio de prefactibilidad para reemplazar el puente Juan Pablo II, la estructura de 52 años que cruza el río Bío Bío y que sufrió serios daños tras el terremoto. Es decir, se está evaluando si construir un nuevo viaducto es viable, antes de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/05/juan-pablo-ii.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-25T09:20:20.694Z",
@@ -1390,20 +1404,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-24T11:10:22.212Z",
    "visto": "2026-11-24T11:10:22.212Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/atacan-camioneta-que-repartia-medicamentos-en-chiguayante-y-gremio-de-la-salud-exige-seguridad",
-   "titulo": "Atacan camioneta que repartía medicamentos en Chiguayante y gremio de la salud exige seguridad",
-   "resumen": "Los trabajadores de la salud municipal de Chiguayante denuncian una semana marcada por hechos de violencia que han afectado la atención a los pacientes. Entre ellos, mencionan personas baleadas dentro de un centro asistencial y un ataque contra un vehículo…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-23-at-16.26.40.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T11:00:33.056Z",
-   "visto": "2026-11-24T11:00:33.056Z",
    "cats": [
     "regional"
    ],
