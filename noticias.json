@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T21:30:23.086Z",
+ "generado": "2026-11-25T21:50:21.417Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 56,
     "leidas": 3,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 153,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/canete-busqueda-pescador-desaparecido-playa-paicavi.html",
+   "titulo": "Pescador permanece desaparecido en playa Paicaví: familia pide apoyo para búsqueda",
+   "resumen": "Richard Fuentes Órdenes desapareció mientras realizaba labores de pesca artesanal en la desembocadura del río Paicaví. Mientras su familia solicita equipos especializados, desde la Delegación Provincial de Arauco informaron que se mantienen operativos de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261125-WA0076-e1795641938659.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T21:50:21.417Z",
+   "visto": "2026-11-25T21:50:21.417Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/juegos-agua-parque-ecuador-concepcion-apertura.html",
    "titulo": "Juegos de agua abrirán la próxima semana en Parque Ecuador",
@@ -1411,20 +1425,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/confirma-presencia-huemules-parque-nacional-laguna-laja.html",
-   "titulo": "Cámaras trampa registran por primera vez tres huemules juveniles en zonas cordilleranas del Biobío",
-   "resumen": "Para enero de 2027, CONAF proyecta desplegar otros 20 dispositivos en el predio El Fuerte para estudiar corredores biológicos en la cordillera.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-24-at-12.45.36-e1795537327211.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T16:40:22.427Z",
-   "visto": "2026-11-24T16:40:22.427Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
