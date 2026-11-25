@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T18:30:25.225Z",
+ "generado": "2026-11-25T19:00:28.884Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/ampliacion-de-mallplaza-trebol-alcalde-de-talcahuano-pide-medidas-para-evitar-congestion-ante-navidad",
+   "titulo": "Ampliación de Mallplaza Trébol: alcalde de Talcahuano pide medidas para evitar congestión ante Navidad",
+   "resumen": "En plena ejecución se encuentran las obras de ampliación de Mallplaza Trébol, proyecto que sumará 26 mil metros cuadrados al centro comercial. Ante la disminución de estacionamientos y la cercanía de las fiestas de fin de año, el alcalde de Talcahuano…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/MALL-e1795632654361.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T19:00:28.884Z",
+   "visto": "2026-11-25T19:00:28.884Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/novakimen-justicia-reprograma-para-el-proximo-ano-juicio-en-caso-por-radiografias-falsas",
    "titulo": "La Justicia aplaza hasta el próximo año el juicio por las radiografías falsas de Novakimen",
@@ -522,10 +537,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/reagendan-para-marzo-el-juicio-a-medico-venezolana-por-mamografias-falsas-en-el-bio-bio",
-   "titulo": "Reagendan para marzo el juicio a médico venezolana por mamografías falsas en el Bío Bío",
-   "resumen": "El Tribunal Oral de Concepción reprogramó para el 8 de marzo el juicio contra la médico venezolana Carmen Martínez, acusada en el caso Novakimen. El inicio estaba fijado originalmente para el 31 de diciembre próximo. La Fiscalía solicita 6 años de cárcel para…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/09/archiv-a-1-por-novakimen-mas-de-mil-ecografias-falsas_-dueno-de-novakimen-evita-juicio-oral-y-fiscalia-ofrece-5-anos-de-carcel.png",
+   "url": "https://www.canal9.cl/episodios/2026/11/25/acusan-a-directora-de-salud-de-los-angeles-de-recibir-asignacion-millonaria-que-no-le-correspondia",
+   "titulo": "Acusan a directora de salud de Los Ángeles de recibir asignación millonaria que no le correspondía",
+   "resumen": "La Central Unitaria de Trabajadores (CUT) de la provincia de Bío Bío denunció el retiro discrecional de las asignaciones del artículo 45 a funcionarios de la salud municipal de Los Ángeles. Los dirigentes también acusan a la directora del servicio comunal de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/MARTA-ARAVENA-SALUD-LOS-ANGELES-.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-25T11:10:20.497Z",
@@ -536,10 +551,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/acusan-a-directora-de-salud-de-los-angeles-de-recibir-asignacion-millonaria-que-no-le-correspondia",
-   "titulo": "Acusan a directora de salud de Los Ángeles de recibir asignación millonaria que no le correspondía",
-   "resumen": "La Central Unitaria de Trabajadores (CUT) de la provincia de Bío Bío denunció el retiro discrecional de las asignaciones del artículo 45 a funcionarios de la salud municipal de Los Ángeles. Los dirigentes también acusan a la directora del servicio comunal de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/MARTA-ARAVENA-SALUD-LOS-ANGELES-.jpg",
+   "url": "https://www.canal9.cl/episodios/2026/11/25/reagendan-para-marzo-el-juicio-a-medico-venezolana-por-mamografias-falsas-en-el-bio-bio",
+   "titulo": "Reagendan para marzo el juicio a médico venezolana por mamografías falsas en el Bío Bío",
+   "resumen": "El Tribunal Oral de Concepción reprogramó para el 8 de marzo el juicio contra la médico venezolana Carmen Martínez, acusada en el caso Novakimen. El inicio estaba fijado originalmente para el 31 de diciembre próximo. La Fiscalía solicita 6 años de cárcel para…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/09/archiv-a-1-por-novakimen-mas-de-mil-ecografias-falsas_-dueno-de-novakimen-evita-juicio-oral-y-fiscalia-ofrece-5-anos-de-carcel.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-25T11:10:20.497Z",
@@ -1377,20 +1392,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T15:00:00.000Z",
    "visto": "2026-11-25T14:00:30.374Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/conaf-confirma-presencia-de-huemules-en-el-parque-nacional-laguna-del-laja/",
-   "titulo": "Conaf confirma presencia de huemules en el Parque Nacional Laguna del Laja",
-   "resumen": "Tres ejemplares juveniles de huemul (Hippocamelus bisulcus) fueron registrados por […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Huemul-1-768x432.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-24T14:47:23.000Z",
-   "visto": "2026-11-24T14:50:24.586Z",
    "cats": [
     "regional"
    ],
