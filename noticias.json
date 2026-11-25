@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T17:00:30.263Z",
+ "generado": "2026-11-25T18:10:22.520Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 58,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 61,
+    "enlaces": 155,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/delincuentes-roban-arma-personal-a-carabinero-de-franco-en-coronel-funcionario-estaba-con-su-pareja.shtml",
+   "titulo": "Delincuentes roban arma personal a carabinero de franco en Coronel: funcionario estaba con su pareja",
+   "resumen": "Un carabinero que se encontraba de franco y en compañía de su pareja fue asaltado por dos individuos armados en...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032110-robo-arma-carabinero-franco-coronel.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T18:07:28.000Z",
+   "visto": "2026-11-25T18:10:22.520Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/novakimen-justicia-reprograma-para-el-proximo-ano-juicio-en-caso-por-radiografias-falsas.shtml",
+   "titulo": "Novakimen: Justicia reprograma para el próximo año juicio en caso por radiografías falsas",
+   "resumen": "El Tribunal Oral de Concepción, en la región del Bío Bío, reagendó el juicio en el caso Novakimen, juicio que...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032129-novakimen.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T18:05:41.000Z",
+   "visto": "2026-11-25T18:10:22.520Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/navidad-con-corazon-busca-donaciones-concepcion.html",
    "titulo": "¿Quieres cumplir un deseo navideño? Campaña “Navidad con Corazón” busca reunir 100 regalos para niños",
@@ -1369,34 +1397,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/laja-detienen-a-sujeto-por-almacenar-material-de-explotacion-sexual-infantil-en-su-telefono.html",
-   "titulo": "Laja: detienen a sujeto por almacenar material de explotación sexual infantil en su teléfono",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pdi-descarta-terceros-joven-fallecida-concepcion-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T14:40:23.460Z",
-   "visto": "2026-11-24T14:40:23.460Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/detienen-a-profesor-acusado-de-violar-a-estudiante-de-16-anos-en-tome",
-   "titulo": "Arrestan en Tomé a docente acusado de agredir sexualmente a una alumna de 16 años",
-   "resumen": "La Policía de Investigaciones (PDI) arrestó a un docente acusado de violar a una alumna de 16 años en Tomé, en la región del Bío Bío. El procedimiento fue realizado por detectives de la Brigada de Investigación Criminal, quienes detuvieron al hombre, de 50…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/profesor-detenido-violacion-estudiante-16anos.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T14:30:27.749Z",
-   "visto": "2026-11-24T14:30:27.749Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/24/con-tres-bajas-azules-y-mas-de-12-mil-hinchas-lilas-el-favorable-escenario-de-deportes-concepcion-ante-la-u/",
    "titulo": "Con tres bajas azules y más de 12 mil hinchas lilas: el favorable escenario de Deportes Concepción ante la “U”",
    "resumen": "Por Camilo Bravo Ortiz.",
@@ -2339,21 +2339,6 @@
    "fecha": "2026-11-21T08:40:23.479Z",
    "visto": "2026-11-21T08:40:23.479Z",
    "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/diputados-cuestionan-renuncias-no-ratificadas-de-autoridades-en-el-biobio-acusan-falta-de-seriedad-y-compromiso-politico",
-   "titulo": "Diputados cuestionan renuncias no ratificadas de autoridades en el Biobío: acusan falta de seriedad y compromiso político",
-   "resumen": "Las renuncias de la seremi de Salud, Isabel Rojas, y de la directora regional del Senama, Antaris Varela, generaron críticas entre parlamentarios oficialistas y de oposición. Mientras el Partido Cristiano de Chile anunció una reunión para evaluar la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Diseno-sin-titulo-1-1-e1795197771619.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T18:10:26.529Z",
-   "visto": "2026-11-20T18:10:26.529Z",
-   "cats": [
-    "regional",
     "politica"
    ],
    "local": true
