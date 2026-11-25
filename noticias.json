@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T23:30:23.403Z",
+ "generado": "2026-11-25T00:00:29.515Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -208,12 +208,12 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/santa-juana-plazoleta-villa-santa-lucia.html",
-   "titulo": "Santa Juana recupera la plazoleta de Villa Santa Lucía con inversión superior a $100 millones",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/plazoleta-santa-juana.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
+   "url": "https://www.canal9.cl/episodios/2026/11/24/camaras-trampa-captan-a-tres-huemules-juveniles-en-sectores-cordilleranos-del-bio-bio",
+   "titulo": "Cámaras trampa captan a tres huemules juveniles en sectores cordilleranos del Bío Bío",
+   "resumen": "El hallazgo se produjo en sectores cercanos al Parque Nacional Laguna del Laja que no habían sido monitoreados anteriormente. El registro permitirá fortalecer las estrategias de conservación de una especie cuya población en Chile central se encuentra en…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/plantilla-1920x1080-97-1536x864-1-e1795547771814.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
    "fecha": "2026-11-24T19:30:28.523Z",
    "visto": "2026-11-24T19:30:28.523Z",
    "cats": [
@@ -222,12 +222,12 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/camaras-trampa-captan-a-tres-huemules-juveniles-en-sectores-cordilleranos-del-bio-bio",
-   "titulo": "Cámaras trampa captan a tres huemules juveniles en sectores cordilleranos del Bío Bío",
-   "resumen": "El hallazgo se produjo en sectores cercanos al Parque Nacional Laguna del Laja que no habían sido monitoreados anteriormente. El registro permitirá fortalecer las estrategias de conservación de una especie cuya población en Chile central se encuentra en…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/plantilla-1920x1080-97-1536x864-1-e1795547771814.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/santa-juana-plazoleta-villa-santa-lucia.html",
+   "titulo": "Santa Juana recupera la plazoleta de Villa Santa Lucía con inversión superior a $100 millones",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/plazoleta-santa-juana.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T19:30:28.523Z",
    "visto": "2026-11-24T19:30:28.523Z",
    "cats": [
@@ -540,6 +540,20 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-24T15:00:30.272Z",
    "visto": "2026-11-24T15:00:30.272Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/laguna-canicura-busca-ser-area-protegida-biobio.html",
+   "titulo": "Proyectan convertir 50 mil hectáreas de la Cordillera del Tricauco en área protegida tras recuperación de la Laguna Cañicura",
+   "resumen": "A 10 meses de iniciar el resguardo del sector, los gestores del Área de Conservación preparan una solicitud ante el Servicio de Biodiversidad y Áreas Protegidas para obtener el reconocimiento estatal, con la meta futura de proteger las 50 mil hectáreas de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/9-1-e1795564438112.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T15:00:00.000Z",
+   "visto": "2026-11-25T00:00:29.515Z",
    "cats": [
     "regional"
    ],
@@ -1387,20 +1401,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T17:30:25.980Z",
    "visto": "2026-11-23T17:30:25.980Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/homicidios-caen-14-por-ciento-biobio-balance-policial.html",
-   "titulo": "Homicidios caen un 14% en el Biobío: autoridades detallan balance policial, operativo en Arauco y avance por robo a Banco BCI",
-   "resumen": "Tras una nueva sesión del Comité Policial Regional, se informó que la zona contabiliza 76 homicidios frente a los 88 del mismo período del año anterior.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/detenido.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T17:20:20.521Z",
-   "visto": "2026-11-23T17:20:20.521Z",
    "cats": [
     "regional"
    ],
