@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T20:50:24.404Z",
+ "generado": "2026-11-25T21:00:28.778Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 2,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 152,
     "leidas": 56,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/25/con-hito-en-centro-cultural-la-moneda-instituto-de-ecologia-y-biodiversidad-celebrara-sus-20-anos.html",
+   "titulo": "Con hito en Centro Cultural La Moneda: Instituto de Ecología y Biodiversidad celebrará sus 20 años",
+   "resumen": "Este jueves 26 de noviembre, desde las 8 horas, se desarrollará una jornada que incluirá una feria, lanzamiento de un libro y una charla magistral.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/BREVE-WEB.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T21:00:28.778Z",
+   "visto": "2026-11-25T21:00:28.778Z",
+   "cats": [
+    "tecnologia",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/suspenden-formalizacion-de-mujer-que-se-habria-quedado-con-120-millones-del-centro-de-padres-del-ihc.shtml",
+   "titulo": "Suspenden formalización de mujer que se habría quedado con $120 millones del centro de padres del IHC",
+   "resumen": "Este miércoles la Fiscalía debía formalizar por apropiación indebida y administración desleal a la abogada Katherine García, tras acreditar el...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032383-hospital-nuevo-villarrica-13-3.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T20:57:13.000Z",
+   "visto": "2026-11-25T21:00:28.778Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/persisten-irregularidades-en-extraccion-de-aridos-desde-el-rio-bio-bio-en-hualpen",
    "titulo": "Persisten irregularidades en extracción de áridos desde el río Bío Bío en Hualpén",
@@ -1407,20 +1436,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T16:10:22.318Z",
    "visto": "2026-11-24T16:10:22.318Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/calor-extremo-hualqui-santa-juana.html",
-   "titulo": "Calor extremo en Biobío: se alcanzarán los 35° en Hualqui y Santa Juana este jueves",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2024/11/Calor-temperatura-tiempo-clima-850x500-1.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T16:00:30.288Z",
-   "visto": "2026-11-24T16:00:30.288Z",
    "cats": [
     "regional"
    ],
