@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T21:50:21.417Z",
+ "generado": "2026-11-25T22:40:21.149Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 152,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/congreso-despacha-ley-de-presupuestos-2027.html",
+   "titulo": "Con 43 votos a favor en el Senado: Congreso despacha la Ley de Presupuestos 2027",
+   "resumen": "El primer erario fiscal de la administración del presidente José Antonio Kast quedó en condiciones de ser promulgado.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/congreso-despacha-ley-de-presupuestos-2027-e1795646173591.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T22:40:21.149Z",
+   "visto": "2026-11-25T22:40:21.149Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/manifestacion-feminista-se-desarrolla-en-concepcion-en-el-marco-de-la-conmemoracion-del-25n.shtml",
+   "titulo": "Manifestación feminista se desarrolla en Concepción en el marco de la conmemoración del 25N",
+   "resumen": "Durante la tarde de este miércoles se desarrolla una manifestación feminista en el centro de Concepción, en la región del...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032549-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T22:31:51.000Z",
+   "visto": "2026-11-25T22:40:21.149Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/canete-busqueda-pescador-desaparecido-playa-paicavi.html",
    "titulo": "Pescador permanece desaparecido en playa Paicaví: familia pide apoyo para búsqueda",
@@ -2117,20 +2145,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/22/subsecretario-agricultura-ley-incendios-forestales.html",
-   "titulo": "Agricultura proyecta veto a ley de incendios para diciembre y anuncia despliegue de 548 brigadistas en el Biobío",
-   "resumen": "La cartera busca cerrar la tramitación normativa incorporando compensaciones por cortafuegos y penas más duras contra la intencionalidad. En paralelo, destacan el rol clave de la región en captura de carbono y preparan una ley de plantaciones para 2027.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Francesco-Venezian-subsecretario-de-Agricultura-foto-minagri.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/poemario-cruza-memoria-identidad-resistencia-nicole-camille-debut-literario-sonata-en-azul-sin-blanco.html",
    "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
    "resumen": "La poeta y artista visual tomecina presenta su primer libro, una obra que enlaza la experiencia personal con una mirada crítica sobre las desigualdades, los mandatos de género y la memoria popular. Publicado por Editorial Mujeres de Letras, el poemario cuenta…",
@@ -2155,6 +2169,20 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/22/subsecretario-agricultura-ley-incendios-forestales.html",
+   "titulo": "Agricultura proyecta veto a ley de incendios para diciembre y anuncia despliegue de 548 brigadistas en el Biobío",
+   "resumen": "La cartera busca cerrar la tramitación normativa incorporando compensaciones por cortafuegos y penas más duras contra la intencionalidad. En paralelo, destacan el rol clave de la región en captura de carbono y preparan una ley de plantaciones para 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Francesco-Venezian-subsecretario-de-Agricultura-foto-minagri.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
