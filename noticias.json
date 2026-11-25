@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T09:00:29.280Z",
+ "generado": "2026-11-25T09:10:21.025Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,36 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/gobierno-revierte-en-horas-el-despido-de-tres-concejales-de-proempleo-en-el-bio-bio",
+   "titulo": "Gobierno revierte en horas el despido de tres concejales de Proempleo en el Bío Bío",
+   "resumen": "Los despidos de concejales que trabajan en el programa estatal de empleo Proempleo duraron apenas unas horas. La Delegación Presidencial del Bío Bío retrocedió el mismo día en la desvinculación de los ediles, y el caso ya abrió un cruce político entre el…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2025/04/Captura-de-pantalla-2025-04-03-a-las-9.08.04%E2%80%AFp.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T09:10:21.025Z",
+   "visto": "2026-11-25T09:10:21.025Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/kast-viaja-y-el-bio-bio-sigue-sin-delegado-presidencial-diputados-dividen-aguas",
+   "titulo": "Kast viaja y el Bío Bío sigue sin delegado presidencial; diputados dividen aguas",
+   "resumen": "La Delegación Presidencial del Bío Bío atribuyó a las giras al extranjero del presidente José Antonio Kast la demora en nombrar a su delegado titular, cargo vacante desde la renuncia de Julio Anativia. La explicación no convenció a todos los parlamentarios de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Delegacion-presidencial-del-Biobio-e1794856240888.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T09:10:21.025Z",
+   "visto": "2026-11-25T09:10:21.025Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome-la-habria-trasladado-a-cabana",
    "titulo": "Decretan prisión preventiva para docente acusado de violar a una estudiante en Tomé y llevarla a una cabaña",
@@ -1432,34 +1462,6 @@
    "visto": "2026-11-23T19:40:19.546Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/pago-electronico-en-micros-del-gran-concepcion-comienza-el-1-de-diciembre-conozca-donde-comprar-y-cargar-la-tarjeta",
-   "titulo": "Pago electrónico en micros del Gran Concepción comienza el 1 de diciembre: conozca dónde comprar y cargar la tarjeta",
-   "resumen": "El nuevo sistema iniciará su marcha blanca el próximo martes, permitiendo pagar el pasaje con tarjetas o efectivo. Además, se habilitarán centros de atención y 490 puntos de venta y recarga en distintos sectores del Gran Concepción. Comenzó la cuenta…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/pago-electronico-tne-1000x528-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T19:40:19.546Z",
-   "visto": "2026-11-23T19:40:19.546Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/homicidios-disminuyen-un-14-en-biobio-autoridades-reportan-76-casos-en-lo-que-va-del-ano",
-   "titulo": "Homicidios disminuyen un 14% en Biobío: autoridades reportan 76 casos en lo que va del año",
-   "resumen": "La cifra representa 12 homicidios menos que en igual periodo de 2025. Durante un nuevo Comité Policial, las autoridades también informaron la detención de 54 personas en operativos realizados durante el fin de semana en las tres provincias de la región. Una…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/file_20190827073717.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T19:10:21.029Z",
-   "visto": "2026-11-23T19:10:21.029Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
