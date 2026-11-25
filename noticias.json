@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T09:10:21.025Z",
+ "generado": "2026-11-25T09:20:20.694Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/el-puente-juan-pablo-ii-tendra-un-reemplazo-ya-se-analiza-un-nuevo-viaducto-sobre-el-bio-bio",
+   "titulo": "El puente Juan Pablo II tendrá un reemplazo: ya se analiza un nuevo viaducto sobre el Bío Bío",
+   "resumen": "Ya se inició el estudio de prefactibilidad para reemplazar el puente Juan Pablo II, la estructura de 52 años que cruza el río Bío Bío y que sufrió serios daños tras el terremoto. Es decir, se está evaluando si construir un nuevo viaducto es viable, antes de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/05/juan-pablo-ii.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T09:20:20.694Z",
+   "visto": "2026-11-25T09:20:20.694Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/acusan-al-director-de-mejor-ninez-en-bio-bio-de-exponer-en-un-acto-estando-con-licencia-medica",
+   "titulo": "Acusan al director de Mejor Niñez en Bío Bío de exponer en un acto estando con licencia médica",
+   "resumen": "Trabajadores de Mejor Niñez en la región acusan una posible falta de probidad administrativa del director regional (s), Elías Ramos. Su asociación gremial sostiene que el profesional expuso en una actividad institucional pese a tener licencia médica. La…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ELIAS-RAMOS-MEJOR-NINEZ-.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T09:20:20.694Z",
+   "visto": "2026-11-25T09:20:20.694Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/gobierno-revierte-en-horas-el-despido-de-tres-concejales-de-proempleo-en-el-bio-bio",
    "titulo": "Gobierno revierte en horas el despido de tres concejales de Proempleo en el Bío Bío",
@@ -1410,20 +1438,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/obras-mercado-talcahuano-7-por-ciento-avance.html",
-   "titulo": "Reconstrucción del Mercado de Talcahuano lleva 7% de avance tras 62 días de faenas y llegará a 100 operarios en marzo",
-   "resumen": "A 62 días del comienzo de las faenas el pasado 21 de septiembre, los trabajos se concentran en el mejoramiento de terreno mediante perforaciones a 15 metros de profundidad.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/obras-mercado-talcahuano-7-por-ciento-avance.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T20:20:21.619Z",
-   "visto": "2026-11-23T20:20:21.619Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/23/gobierno-asegura-que-hay-plena-afinidad-con-el-partido-cristiano-tras-amago-de-renuncias-en-bio-bio.shtml",
    "titulo": "Gobierno asegura que hay \"plena afinidad\" con el Partido Cristiano tras amago de renuncias en Bío Bío",
    "resumen": "El subsecretario general de Gobierno, Gonzalo Arenas, aseguró que existe una “plena afinidad” entre el Ejecutivo y el Partido...",
@@ -1434,20 +1448,6 @@
    "visto": "2026-11-23T20:20:21.619Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/ucsc-proclama-nueva-federacion-de-estudiantes-lista-avanzar-liderara-organizacion-durante-2026-2027",
-   "titulo": "UCSC proclama nueva Federación de Estudiantes: lista “Avanzar” liderará organización durante 2026-2027",
-   "resumen": "Tras un proceso electoral que no alcanzó el quórum mínimo de participación, el Consejo General de Federación ratificó a la lista única “Avanzar” como nueva conducción estudiantil de la Universidad Católica de la Santísima Concepción. La organización reúne a…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/FEUCSC-8.jpg-scaled-e1795463937440.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T20:00:27.885Z",
-   "visto": "2026-11-23T20:00:27.885Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
