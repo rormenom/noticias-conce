@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T14:30:27.111Z",
+ "generado": "2026-11-25T14:40:23.117Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 148,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/talcahuano-reconstruccion-del-mercado-alcanza-un-7-de-avance-y-proyecta-su-apertura-para-junio-de-2028",
+   "titulo": "Talcahuano: reconstrucción del Mercado alcanza un 7% de avance y proyecta su apertura para junio de 2028",
+   "resumen": "Las obras de reconstrucción del Mercado de Talcahuano registran un 7% de avance tras dos meses desde el inicio de los trabajos, el pasado 21 de septiembre. El alcalde de la comuna puerto, Eduardo Saavedra, destacó que la faena avanza según lo planificado y…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-25-at-11.07.13-1-e1795617128624.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T14:40:23.117Z",
+   "visto": "2026-11-25T14:40:23.117Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/seminario-esto-es-biobio-reunio-a-autoridades-para-abordar-los-desafios-del-desarrollo-regional.shtml",
+   "titulo": "Seminario \"Esto es Biobío\" reunió a autoridades para abordar los desafíos del desarrollo regional",
+   "resumen": "Una región con un fuerte sentido de pertenencia y un importante potencial productivo, pero que enfrenta desafíos relacionados con el...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7031711-esto-es-biobio.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T14:31:47.000Z",
+   "visto": "2026-11-25T14:40:23.117Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/la-participacion-de-los-napoleonicos-en-la-independencia-de-chile-y-la-llegada-de-jean-francois-de-la-perouse-a-talcahuano",
    "titulo": "La participación de los napoleónicos en la independencia de Chile y la llegada de Jean-François de La Pérouse a Talcahuano",
@@ -1393,20 +1421,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/docentes-y-trabajadores-de-los-angeles-se-suman-al-paro-nacional-contra-los-recortes-en-educacion",
-   "titulo": "Docentes y trabajadores de Los Ángeles se suman al paro nacional contra los recortes en educación",
-   "resumen": "Gremios educativos y de trabajadores de Los Ángeles confirmaron que se suman al paro y marcha nacional de este martes 24 de noviembre, convocados por el Colegio de Profesores, la organización que agrupa a los docentes del país. La protesta apunta contra una…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2025/04/Captura-de-pantalla-2025-04-30-a-las-7.57.53%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T10:50:25.240Z",
-   "visto": "2026-11-24T10:50:25.240Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
