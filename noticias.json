@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T14:56:16.183Z",
+ "generado": "2026-11-25T15:10:25.570Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 149,
+    "enlaces": 150,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 32,
+    "enlaces": 31,
     "leidas": 7,
     "errores": 0,
     "robots": 0
@@ -2368,21 +2368,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-20T15:40:21.185Z",
    "visto": "2026-11-20T15:40:21.185Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/20/protesta-hualpen-dragado-enap-san-vicente.html",
-   "titulo": "“Nuestras fuentes de trabajo están en peligro”: pescadores artesanales se movilizan por dragado en la bahía de San Vicente",
-   "resumen": "Desde la estatal afirmaron que el proyecto está en evaluación y cuenta con medidas de mitigación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Imagen-pag-1-puerto-San-Vicente-foto-archivo-carolina-e1795187129242.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T15:10:20.136Z",
-   "visto": "2026-11-20T15:10:20.136Z",
    "cats": [
     "regional",
     "cultura"
