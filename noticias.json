@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T10:50:19.962Z",
+ "generado": "2026-11-25T11:10:20.497Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 61,
+    "enlaces": 157,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,42 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
-    "leidas": 9,
+    "enlaces": 34,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/reagendan-para-marzo-el-juicio-a-medico-venezolana-por-mamografias-falsas-en-el-bio-bio",
+   "titulo": "Reagendan para marzo el juicio a médico venezolana por mamografías falsas en el Bío Bío",
+   "resumen": "El Tribunal Oral de Concepción reprogramó para el 8 de marzo el juicio contra la médico venezolana Carmen Martínez, acusada en el caso Novakimen. El inicio estaba fijado originalmente para el 31 de diciembre próximo. La Fiscalía solicita 6 años de cárcel para…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/09/archiv-a-1-por-novakimen-mas-de-mil-ecografias-falsas_-dueno-de-novakimen-evita-juicio-oral-y-fiscalia-ofrece-5-anos-de-carcel.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T11:10:20.497Z",
+   "visto": "2026-11-25T11:10:20.497Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/acusan-a-directora-de-salud-de-los-angeles-de-recibir-asignacion-millonaria-que-no-le-correspondia",
+   "titulo": "Acusan a directora de salud de Los Ángeles de recibir asignación millonaria que no le correspondía",
+   "resumen": "La Central Unitaria de Trabajadores (CUT) de la provincia de Bío Bío denunció el retiro discrecional de las asignaciones del artículo 45 a funcionarios de la salud municipal de Los Ángeles. Los dirigentes también acusan a la directora del servicio comunal de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/MARTA-ARAVENA-SALUD-LOS-ANGELES-.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T11:10:20.497Z",
+   "visto": "2026-11-25T11:10:20.497Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/talcahuano-parte-su-carnaval-con-siete-murgas-y-una-semana-de-desfiles-por-los-barrios",
    "titulo": "Talcahuano parte su carnaval con siete murgas y una semana de desfiles por los barrios",
@@ -1406,34 +1434,6 @@
    "visto": "2026-11-23T21:30:24.981Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/detienen-sujeto-contrabando-caiman-yacare-talcahuano.html",
-   "titulo": "Talcahuano: imputado habría arrojado peces modificados y un caimán al desagüe en operativo PDI",
-   "resumen": "Mientras se tramitaba la orden judicial de ingreso, el imputado habría desechado peces modificados genéticamente y eventualmente al propio caimán por el desagüe de su domicilio.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/detienen-sujeto-contrabando-caiman-yacare-talcahuano-e1795468291662.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T21:20:20.553Z",
-   "visto": "2026-11-23T21:20:20.553Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/hombre-ofrecia-caiman-yacare-por-750-mil-en-hualpen-habria-lanzado-especies-por-wc-al-llegar-la-pdi.shtml",
-   "titulo": "Hombre ofrecía caimán yacaré por $750 mil en Hualpén: Habría lanzado especies por WC al llegar la PDI",
-   "resumen": "La Policía de Investigaciones (PDI) detuvo a un hombre en Hualpén, región del Bío Bío, por su presunta responsabilidad en...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029560-foto-contexto-nota-bbcl-2026-11-23t172653-718.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-23T20:30:46.000Z",
-   "visto": "2026-11-23T20:40:20.349Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
