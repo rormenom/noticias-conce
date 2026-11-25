@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T14:20:23.095Z",
+ "generado": "2026-11-25T14:30:27.111Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 149,
-    "leidas": 61,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/la-participacion-de-los-napoleonicos-en-la-independencia-de-chile-y-la-llegada-de-jean-francois-de-la-perouse-a-talcahuano",
+   "titulo": "La participación de los napoleónicos en la independencia de Chile y la llegada de Jean-François de La Pérouse a Talcahuano",
+   "resumen": "Dos actividades agendadas para este miércoles 25 y jueves 26 de noviembre, invitan a los penquistas a repasar la historia y sorprenderse con los vínculos de Francia con Chile y la región del Biobío. 240 años de la llegada de La Pérouse a Talcahuano La…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/LUIS-XVI.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T14:30:27.111Z",
+   "visto": "2026-11-25T14:30:27.111Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/destrozos-en-plaza-peru-tras-violenta-jornada-de-protestas-en-concepcion-anuncian-querella.shtml",
+   "titulo": "Destrozos en Plaza Perú tras violenta jornada de protestas en Concepción: anuncian querella",
+   "resumen": "Con graves destrozos terminó la Plaza Perú tras una violenta jornada de protesta de estudiantes en Concepción, en la ...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7031678-destrozos-plaza-peru-obras-mejoramiento.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T14:19:26.000Z",
+   "visto": "2026-11-25T14:30:27.111Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/obras-podrian-comenzar-en-2030-ruta-150-obtiene-rs-y-avanza-hacia-su-ingenieria-de-detalles/",
    "titulo": "Obras podrían comenzar en 2030: Ruta 150 obtiene RS y avanza hacia su ingeniería de detalles",
@@ -179,6 +207,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/25/mop-adjudica-estudio-para-proyectar-nuevo-puente-sobre-el-rio-biobio/",
+   "titulo": "MOP adjudica estudio para proyectar nuevo puente sobre el río Biobío",
+   "resumen": "Que reemplazará al actual Juan Pablo II",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/JP-II-768x432.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-25T12:19:10.000Z",
+   "visto": "2026-11-25T14:30:27.111Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1369,20 +1411,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/robo-de-8-500-millones-al-bci-en-concepcion-la-fiscalia-afina-su-investigacion",
-   "titulo": "Robo de $8.500 millones al BCI en Concepción: la Fiscalía afina su investigación",
-   "resumen": "La Fiscalía maneja una pista más definida sobre el robo de 8.500 millones de pesos al banco BCI en el centro de Concepción, ocurrido hace más de dos semanas. Así lo informó el seremi de Seguridad, Richard Soto, quien además adelantó que esta semana el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ROBO-BCI.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T10:40:21.257Z",
-   "visto": "2026-11-24T10:40:21.257Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/24/gobierno-revela-que-las-renuncias-de-la-seremi-de-salud-y-la-jefa-del-senama-nunca-se-tramitaron",
    "titulo": "Gobierno revela que las renuncias de la seremi de Salud y la jefa del Senama nunca se tramitaron",
    "resumen": "Las renuncias de la seremi de Salud del Bío Bío, Isabel Rojas, y de la directora regional del Servicio Nacional del Adulto Mayor (SENAMA), Antaris Varela, nunca fueron tramitadas por el gobierno. Así lo aclaró el delegado presidencial (s) Juan Pablo Mellado.…",
@@ -1394,20 +1422,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/chantaje-y-desorden-politico-la-dura-reaccion-transversal-por-las-renuncias-en-el-partido-cristiano",
-   "titulo": "Chantaje y desorden político: la dura reacción transversal por las renuncias en el Partido Cristiano",
-   "resumen": "Dirigentes del oficialismo y de la oposición coincidieron en criticar las renuncias en el Partido Cristiano en la Región del Bío Bío. Las calificaron como un episodio lamentable que distrae de los asuntos de fondo. Desde ambos sectores advirtieron además que…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-24-a-las-6.22.18%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T09:30:25.256Z",
-   "visto": "2026-11-24T09:30:25.256Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
