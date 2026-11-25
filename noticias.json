@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-25T15:50:21.619Z",
+ "generado": "2026-11-25T16:00:35.070Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -36,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -62,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 62,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -82,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/fomento-productivo-provincia-arauco.html",
+   "titulo": "Fomento productivo en Arauco: buscan definir apoyos para MiPymes y turismo de cara a 2027",
+   "resumen": "El encuentro reunió a municipios y servicios públicos para abordar necesidades productivas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-25-at-7.14.07-AM-3.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T16:00:35.070Z",
+   "visto": "2026-11-25T16:00:35.070Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/25/gran-corrida-ubb-reunio-a-la-comunidad-runner-del-gran-concepcion/",
+   "titulo": "Gran Corrida UBB reunió a la comunidad runner del Gran Concepción",
+   "resumen": "Tercera versión de la carrera fuera del Campus Concepción reunió a cerca de 2 mil personas entre atletas, familias y asistentes conectando a miembros de la universidad con las familias de la intercomuna.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/corrida-ubb-2026-768x512.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-25T15:48:49.000Z",
+   "visto": "2026-11-25T16:00:35.070Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/siete-de-la-zona-entre-los-mejores-del-ano-que-posibilidades-tienen-de-ganar.html",
    "titulo": "Siete de la zona entre los mejores del año: ¿Qué posibilidades tienen de ganar?",
@@ -1376,20 +1403,6 @@
    "fuente": "Radio UdeC",
    "fuenteId": "radioudec",
    "fecha": "2026-11-24T14:16:52.000Z",
-   "visto": "2026-11-24T14:20:20.247Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/preuniversitario-gratuito-formo-a-120-jovenes-de-region-del-bio-bio-con-apoyo-academico-y-vocacional.shtml",
-   "titulo": "Preuniversitario gratuito formó a 120 jóvenes de región del Bío Bío con apoyo académico y vocacional",
-   "resumen": "120 estudiantes de Nacimiento y Negrete finalizaron la Escuela de Formación para el Ingreso a Educación Superior (Efies), un preuniversitario...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7030213-preuniversitario-region-del-bio-bio-1.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-24T14:15:55.000Z",
    "visto": "2026-11-24T14:20:20.247Z",
    "cats": [
     "regional"
