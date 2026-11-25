@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T21:00:28.778Z",
+ "generado": "2026-11-25T21:10:24.836Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 3,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 56,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 11,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/suspenden-formalizacion-de-mujer-que-se-habria-quedado-con-120-millones-del-centro-de-padres-del-ihc",
+   "titulo": "Aplazan la formalización de una mujer acusada de apropiarse de $120 millones del centro de padres del IHC",
+   "resumen": "Este miércoles, la Fiscalía tenía previsto formalizar a la abogada Katherine García por apropiación indebida y administración desleal, luego de acreditar el fraude que habría cometido cuando presidió el Centro de Padres del Instituto Humanidades. No obstante,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/hospital-nuevo-villarrica-13-3.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T21:10:24.836Z",
+   "visto": "2026-11-25T21:10:24.836Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/25/con-hito-en-centro-cultural-la-moneda-instituto-de-ecologia-y-biodiversidad-celebrara-sus-20-anos.html",
    "titulo": "Con hito en Centro Cultural La Moneda: Instituto de Ecología y Biodiversidad celebrará sus 20 años",
@@ -1422,20 +1436,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-24T16:13:06.000Z",
    "visto": "2026-11-24T21:00:27.931Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/levantan-prohibicion-bano-fragata-portuguesa-playas-lebu.html",
-   "titulo": "Tras 48 horas sin ejemplares: dejan sin efecto prohibición por fragata portuguesa en playas de Lebu",
-   "resumen": "Este martes 24 de noviembre se levantó la medida sanitaria que regía desde el pasado viernes en Playa Boca Lebu y Playa Larga.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Pag-10.-Playa-Lebu-Enrique-Pe%C3%B1a-Morales.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T16:10:22.318Z",
-   "visto": "2026-11-24T16:10:22.318Z",
    "cats": [
     "regional"
    ],
