@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T10:10:23.656Z",
+ "generado": "2026-11-25T10:30:27.257Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 57,
+    "enlaces": 156,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/alcalde-de-nacimiento-no-quiere-una-zona-de-sacrificio-y-apoya-el-rechazo-a-la-mineria",
+   "titulo": "Alcalde de Nacimiento no quiere una zona de sacrificio y apoya el rechazo a la minería",
+   "resumen": "Comunidades indígenas y organizaciones vecinales de Nacimiento, en la región del Bío Bío, pidieron que se haga una consulta y que se modifiquen los proyectos de explotación minera de tierras raras, por el riesgo que, afirman, representarían para la salud de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/06/tierras-raras-comision-de-evaluacion-ambiental-define-este-lunes-el-futuro-del-proyecto-minero.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T10:30:27.257Z",
+   "visto": "2026-11-25T10:30:27.257Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/viaducto-que-une-el-puente-bicentenario-con-avenida-chacabuco-abriria-antes-de-navidad",
    "titulo": "Viaducto que une el puente Bicentenario con avenida Chacabuco abriría antes de Navidad",
@@ -1424,20 +1439,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/ofrecia-un-caiman-por-750-mil-en-marketplace-pdi-investiga-si-fue-arrojado-por-el-bano-en-hualpen",
-   "titulo": "Ofrecía un caimán por $750 mil en Marketplace: PDI investiga si fue arrojado por el baño en Hualpén",
-   "resumen": "Un hombre fue detenido por la PDI tras ser descubierto comercializando un caimán yacaré, especie protegida internacionalmente. Durante el allanamiento de su departamento, el imputado habría arrojado animales por el inodoro para evitar que fueran encontrados…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/yacare4-e1795465244831.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T20:30:31.722Z",
-   "visto": "2026-11-23T20:30:31.722Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/23/gobierno-asegura-que-hay-plena-afinidad-con-el-partido-cristiano-tras-amago-de-renuncias-en-bio-bio.shtml",
    "titulo": "Gobierno asegura que hay \"plena afinidad\" con el Partido Cristiano tras amago de renuncias en Bío Bío",
    "resumen": "El subsecretario general de Gobierno, Gonzalo Arenas, aseguró que existe una “plena afinidad” entre el Ejecutivo y el Partido...",
@@ -2322,21 +2323,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-20T10:50:24.377Z",
    "visto": "2026-11-20T10:50:24.377Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/dos-nuevas-salidas-en-el-gobierno-renuncian-la-seremi-de-salud-y-la-directora-del-senama-en-bio-bio",
-   "titulo": "Renuncian la seremi de Salud y la directora del Senama en la región del Bío Bío",
-   "resumen": "El gobierno del presidente José Antonio Kast enfrenta dos nuevas renuncias, esta vez en la región del Bío Bío. Ambas autoridades pertenecen al Partido Cristiano de Chile, y una de ellas se desempeñaba como seremi. En las últimas horas, la seremi de Salud,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/renuncia-seremi-senama.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T10:30:24.112Z",
-   "visto": "2026-11-20T10:30:24.112Z",
    "cats": [
     "regional",
     "politica"
