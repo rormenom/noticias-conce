@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T10:30:27.257Z",
+ "generado": "2026-11-25T10:40:20.767Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 60,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/talcahuano-parte-su-carnaval-con-siete-murgas-y-una-semana-de-desfiles-por-los-barrios",
+   "titulo": "Talcahuano parte su carnaval con siete murgas y una semana de desfiles por los barrios",
+   "resumen": "La playa El Morro fue el escenario del arranque de las celebraciones por los 262 años de Talcahuano. Con música y baile, la comuna puerto inauguró su carnaval aniversario frente a cientos de personas, y allí se presentaron las siete murgas, agrupaciones…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-16.08.07.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T10:40:20.767Z",
+   "visto": "2026-11-25T10:40:20.767Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/alcalde-de-nacimiento-no-quiere-una-zona-de-sacrificio-y-apoya-el-rechazo-a-la-mineria",
    "titulo": "Alcalde de Nacimiento no quiere una zona de sacrificio y apoya el rechazo a la minería",
