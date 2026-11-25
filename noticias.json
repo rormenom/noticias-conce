@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T09:20:20.694Z",
+ "generado": "2026-11-25T09:30:25.243Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 14,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/viaducto-que-une-el-puente-bicentenario-con-avenida-chacabuco-abriria-antes-de-navidad",
+   "titulo": "Viaducto que une el puente Bicentenario con avenida Chacabuco abriría antes de Navidad",
+   "resumen": "Los automovilistas de Concepción y San Pedro de la Paz podrían estrenar antes de Navidad el nuevo viaducto de avenida Chacabuco, que se enlaza con el puente Bicentenario. Lo adelantó el seremi de Obras Públicas, José Piña. «Esperamos que sea antes de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-14.44.21.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T09:30:25.243Z",
+   "visto": "2026-11-25T09:30:25.243Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/el-puente-juan-pablo-ii-tendra-un-reemplazo-ya-se-analiza-un-nuevo-viaducto-sobre-el-bio-bio",
    "titulo": "El puente Juan Pablo II tendrá un reemplazo: ya se analiza un nuevo viaducto sobre el Bío Bío",
@@ -1424,20 +1438,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/adultos-mayores-vacunacion-neumococo-chile.html",
-   "titulo": "Seis de cada diez adultos mayores en Chile no están vacunados contra el neumococo",
-   "resumen": "Los casos de enfermedades neumocócicas invasivas pasaron de 400 a 773 en tres años.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-23-at-4.54.26-PM-e1795465116989.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T20:20:21.619Z",
-   "visto": "2026-11-23T20:20:21.619Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/23/gobierno-asegura-que-hay-plena-afinidad-con-el-partido-cristiano-tras-amago-de-renuncias-en-bio-bio.shtml",
    "titulo": "Gobierno asegura que hay \"plena afinidad\" con el Partido Cristiano tras amago de renuncias en Bío Bío",
    "resumen": "El subsecretario general de Gobierno, Gonzalo Arenas, aseguró que existe una “plena afinidad” entre el Ejecutivo y el Partido...",
@@ -2355,20 +2355,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/20/plan-biobio-2030-las-comunas-que-ya-tienen-un-deporte-predefinido-para-odesur-y-los-recintos-en-lista.shtml",
-   "titulo": "Plan Biobío 2030: las comunas que ya tienen un deporte predefinido para Odesur y los recintos en lista",
-   "resumen": "La Región del Biobío consolidó su calidad de ciudad deportiva al adjudicarse los Juegos Sudamericanos (Odesur) para el año 2030,...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7025534-odesur-2030-en-la-region-del-biobio-foto-de-contexto-1.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-20T09:30:54.000Z",
-   "visto": "2026-11-20T09:40:20.358Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
