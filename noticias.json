@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T13:50:29.983Z",
+ "generado": "2026-11-25T14:00:30.374Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 9,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/obras-podrian-comenzar-en-2030-ruta-150-obtiene-rs-y-avanza-hacia-su-ingenieria-de-detalles/",
+   "titulo": "Obras podrían comenzar en 2030: Ruta 150 obtiene RS y avanza hacia su ingeniería de detalles",
+   "resumen": "Un nuevo paso para mejorar la conectividad y la movilidad […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/ruta-150-768x576.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-25T13:52:59.000Z",
+   "visto": "2026-11-25T14:00:30.374Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/concepcion-vecinos-de-barrio-norte-denuncian-alza-de-robos-y-exigen-mayor-patrullaje",
    "titulo": "Concepción: vecinos de Barrio Norte denuncian alza de robos y exigen mayor patrullaje",
@@ -1088,6 +1102,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/24/mop-chile-despega-contrataciones-biobio-2027.html",
+   "titulo": "MOP proyecta iniciar en enero la contratación de hasta 3 mil trabajadores por obras de Chile Despega",
+   "resumen": "Las primeras iniciativas se adjudicarían el próximo mes y comenzarían su ejecución en el inicio de 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/trabajo-construccion-foto-carolina.jpg-e1795482508589.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T15:00:00.000Z",
+   "visto": "2026-11-25T14:00:30.374Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.radioudec.cl/conaf-confirma-presencia-de-huemules-en-el-parque-nacional-laguna-del-laja/",
    "titulo": "Conaf confirma presencia de huemules en el Parque Nacional Laguna del Laja",
    "resumen": "Tres ejemplares juveniles de huemul (Hippocamelus bisulcus) fueron registrados por […]",
@@ -1395,20 +1423,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/detienen-a-3-adultos-y-1-adolescente-por-homicidio-ocurrido-en-concepcion-y-ataque-armado-en-hualpen",
-   "titulo": "Detienen a cuatro personas por homicidio en Concepción y ataque armado en Hualpén",
-   "resumen": "Este lunes, la Fiscalía Regional del Bío Bío informó que cuatro personas fueron detenidas por su presunta participación en dos violentos delitos, uno de ellos un homicidio, perpetrados entre fines de septiembre y comienzos de octubre en el Gran Concepción,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-1-cntxt-por-detienen-a-3-adultos-y-1-adolescente-por-homicidio-ocurrido-en-concepcion-y-ataque-a-tiros-en-hualpen-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T09:10:22.717Z",
-   "visto": "2026-11-24T09:10:22.717Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
