@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T12:10:24.715Z",
+ "generado": "2026-11-25T12:20:25.538Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 64,
+    "enlaces": 156,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,58 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 5,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/disparos-en-galeria-ohiggins-en-concepcion-prision-preventiva-para-pistolero-y-otros-dos-implicados",
+   "titulo": "Tres imputados quedan en prisión preventiva tras balacera en la Galería O’Higgins de Concepción",
+   "resumen": "Tres hombres quedaron en prisión preventiva por su presunta participación en los disparos realizados dentro de la Galería O’Higgins, en el centro de Concepción. El incidente ocurrió durante la madrugada del sábado. Según los antecedentes, uno de los imputados…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/disparos-galeria-ohiggins.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T12:20:25.538Z",
+   "visto": "2026-11-25T12:20:25.538Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/tras-manifestaciones-estudiantiles-alcalde-de-concepcion-anuncia-querella-por-destrozos-en-plaza-peru",
+   "titulo": "Tras manifestaciones estudiantiles: alcalde de Concepción anuncia querella por destrozos en Plaza Perú",
+   "resumen": "El edil, Héctor Muñoz, calificó como un hecho «lamentable y grave» la destrucción registrada tras los incidentes posteriores a una manifestación en el sector de Plaza Perú. Según detalló la autoridad comunal, los daños fueron significativos y obligarán a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-25-at-07.38.26-e1795608594555.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T12:20:25.538Z",
+   "visto": "2026-11-25T12:20:25.538Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/delegado-s-insiste-que-ausencias-de-kast-en-el-pais-han-impedido-nombramiento-en-el-bio-bio",
+   "titulo": "Delegado subrogante afirma que las ausencias de Kast en Chile han retrasado su nombramiento en el Bío Bío",
+   "resumen": "La Delegación Presidencial del Bío Bío explicó que el nombramiento del titular de esa repartición se ha demorado debido a que el Presidente de la República, José Antonio Kast, ha estado fuera del país por sus recientes viajes al extranjero. El diputado del…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/jose-antonio-kast.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T12:20:25.538Z",
+   "visto": "2026-11-25T12:20:25.538Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/presupuesto-2027-reforestacion-sustentable.html",
    "titulo": "Presupuesto 2027: acuerdan destinar $40 mil millones a la reforestación sustentable del Biobío",
@@ -1376,48 +1421,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T08:40:20.857Z",
    "visto": "2026-11-24T08:40:20.857Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/plaga-ratones-afecta-salud-familia-penco.html",
-   "titulo": "Penco: Serviu tramita subsidio para familia afectada por plaga de ratones tras megaincendio",
-   "resumen": "Los damnificados informaron que la situación no les permite llevar una vida digna.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PAG-7-contexto-de-plaga-de-ratones-foto-pexels-ardeshir-etemad.jpg-e1795482458463.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T08:40:20.857Z",
-   "visto": "2026-11-24T08:40:20.857Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/24/cge-da-a-conocer-importante-ayuda-para-los-damnificados-por-los-incendios-forestales/",
-   "titulo": "CGE da a conocer importante ayuda para los damnificados por los incendios forestales",
-   "resumen": "De enero del 2026: Como una manera de apoyar el proceso de reconstrucción, la distribuidora eléctrica no cobrará los consumos registrados hasta el mes de mayo de 2026 a los clientes directamente afectados por los siniestros en la región.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/cge-ayuda-incendios-2026-300x169.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-24T07:22:28.000Z",
-   "visto": "2026-11-24T09:30:25.256Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/detienen-a-3-adultos-y-1-adolescente-por-homicidio-ocurrido-en-concepcion-y-ataque-armado-en-hualpen.shtml",
-   "titulo": "Detienen a 3 adultos y 1 adolescente por homicidio ocurrido en Concepción y ataque a tiros en Hualpén",
-   "resumen": "La Fiscalía Regional del Bío Bío confirmó este lunes la detención de cuatro sujetos presuntamente involucrados en dos graves...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029834-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-24T01:13:20.000Z",
-   "visto": "2026-11-24T01:20:20.995Z",
    "cats": [
     "regional"
    ],
