@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T16:30:26.188Z",
+ "generado": "2026-11-25T16:40:21.073Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -2354,21 +2354,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/nosotras-en-la-musica-biobio-2026.html",
-   "titulo": "‘Nosotras en la Música’ realizará segunda edición con paneles sobre creación, tecnología e industria musical",
-   "resumen": "El encuentro reunirá a artistas, gestoras, productoras y profesionales del sector en tres paneles de conversación sobre los desafíos de las mujeres en la música, además de un plenario con mesas de trabajo. La actividad se realizará este sábado 21 de noviembre…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/3-2-e1795192507972.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T16:40:23.182Z",
-   "visto": "2026-11-20T16:40:23.182Z",
-   "cats": [
-    "cultura",
-    "tecnologia"
    ],
    "local": true
   }
