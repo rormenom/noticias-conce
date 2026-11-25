@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T12:00:29.869Z",
+ "generado": "2026-11-25T12:10:24.715Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 65,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,35 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/presupuesto-2027-reforestacion-sustentable.html",
+   "titulo": "Presupuesto 2027: acuerdan destinar $40 mil millones a la reforestación sustentable del Biobío",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/04/Lanzan-concurso-para-fortalecer-la-conservaci%C3%B3n-y-manejo-del-bosque-nativo.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T12:10:24.715Z",
+   "visto": "2026-11-25T12:10:24.715Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/disparos-en-galeria-ohiggins-en-concepcion-prision-preventiva-para-pistolero-y-otros-dos-implicados.shtml",
+   "titulo": "Disparos en Galería O’Higgins en Concepción: prisión preventiva para pistolero y otros dos implicados",
+   "resumen": "Con la medida cautelar de prisión preventiva quedaron tres sujetos por su participación en los disparos efectuados al interior de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7031497-disparos-galeria-ohiggins.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T12:08:22.000Z",
+   "visto": "2026-11-25T12:10:24.715Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/delegado-s-insiste-que-ausencias-de-kast-en-el-pais-han-impedido-nombramiento-en-el-bio-bio.shtml",
    "titulo": "Delegado (s) insiste que ausencias de Kast en el país han impedido nombramiento en el Bío Bío",
@@ -339,20 +368,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/movilizacion-colegio-profesores-biobio-presupuesto-2027.html",
-   "titulo": "Docentes del Biobío se suman a movilización contra ajustes presupuestarios y eventuales recortes al sector",
-   "resumen": "El profesorado advirtió por la eventual reducción de 83 mil horas docentes a nivel nacional y cuestionó los ajustes al financiamiento de la educación pública.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/marcha-docentes-concepcion-e1795568633655.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T08:40:25.404Z",
-   "visto": "2026-11-25T08:40:25.404Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/ominami-izquierda-progresismo-derecha.html",
    "titulo": "“La izquierda se volvió cobarde”: ME-O sobre el progresismo frente al desencanto con la derecha",
    "resumen": "Marco Enríquez-Ominami exploró el papel de las redes sociales y las estrategias de comunicación en la política. Además, cuestionó la gestión del Gobierno y advirtió sobre el desgaste de las promesas radicales.",
@@ -377,6 +392,20 @@
    "visto": "2026-11-25T08:40:25.404Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/movilizacion-colegio-profesores-biobio-presupuesto-2027.html",
+   "titulo": "Docentes del Biobío se suman a movilización contra ajustes presupuestarios y eventuales recortes al sector",
+   "resumen": "El profesorado advirtió por la eventual reducción de 83 mil horas docentes a nivel nacional y cuestionó los ajustes al financiamiento de la educación pública.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/marcha-docentes-concepcion-e1795568633655.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T08:40:25.404Z",
+   "visto": "2026-11-25T08:40:25.404Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1297,20 +1326,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/24/armada-isla-quiriquina-pdi-extraccion-madera.html",
-   "titulo": "La PDI realiza diligencias sobre la Armada tras observaciones por faenas forestales en la Isla Quiriquina",
-   "resumen": "El Ministerio Público despachó una orden de investigar a la BIDEMA, tras recibir antecedentes de Contraloría sobre falencias en procesos de contratación, pagos y control de recursos vinculados a la ampliación de la Escuela de Grumetes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Isla-Quiriquina-foto-mop.jpg-e1795482260431.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T08:40:20.857Z",
-   "visto": "2026-11-24T08:40:20.857Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/24/mop-chile-despega-contrataciones-biobio-2027.html",
    "titulo": "MOP proyecta iniciar en enero la contratación de hasta 3 mil trabajadores por obras de Chile Despega",
    "resumen": "Las primeras iniciativas se adjudicarían el próximo mes y comenzarían su ejecución en el inicio de 2027.",
@@ -1321,6 +1336,20 @@
    "visto": "2026-11-24T08:40:20.857Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/24/armada-isla-quiriquina-pdi-extraccion-madera.html",
+   "titulo": "La PDI realiza diligencias sobre la Armada tras observaciones por faenas forestales en la Isla Quiriquina",
+   "resumen": "El Ministerio Público despachó una orden de investigar a la BIDEMA, tras recibir antecedentes de Contraloría sobre falencias en procesos de contratación, pagos y control de recursos vinculados a la ampliación de la Escuela de Grumetes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Isla-Quiriquina-foto-mop.jpg-e1795482260431.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T08:40:20.857Z",
+   "visto": "2026-11-24T08:40:20.857Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1405,20 +1434,6 @@
    "visto": "2026-11-23T23:40:23.961Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/gran-concepcion-esta-semana-abren-puntos-de-venta-y-de-atencion-para-el-pago-electronico-de-micros",
-   "titulo": "Gran Concepción habilita esta semana lugares para comprar y recargar la tarjeta de pago electrónico de micros",
-   "resumen": "La marcha blanca del pago electrónico en el transporte público del Gran Concepción se iniciará el martes 1 de diciembre. Durante este periodo, los pasajeros podrán pagar en efectivo o con tarjeta. Esta semana estarán habilitados todos los centros de atención…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/gran-concepcion_-esta-semana-abren-puntos-de-venta-y-de-atencion-para-el-pago-electronico-de-micros.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T23:10:25.915Z",
-   "visto": "2026-11-23T23:10:25.915Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2198,20 +2213,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/21/nombramiento-delegado-presidencial-biobio-ministro-alvarado.html",
-   "titulo": "Visita del ministro Alvarado reaviva expectativas por nombramiento de un delegado titular en Biobío",
-   "resumen": "Dirigentes oficialistas y opositores plantearon la urgencia de resolver la vacante que dejó Julio Anativia. En tanto, las renuncias de la seremi de Salud y la directora regional del Senama suman nuevas tensiones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-alvarado-delegacion-biobio.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T08:40:23.479Z",
-   "visto": "2026-11-21T08:40:23.479Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/21/agustina-bazterrica-visita-concepcion-la-butaca-entrevista-bibliotecas-udec-100-anos.html",
    "titulo": "Agustina Bazterrica: “Mi universo literario es de violencia y oscuridad, pero también hay mucho humor”",
    "resumen": "En su primera visita a Concepción, la autora argentina compartió con más de 300 personas en la Biblioteca Central UdeC. En conversación con Diario Concepción, abordó las temáticas que cruzan su obra, el impacto internacional de “Cadáver exquisito” y sus…",
@@ -2237,6 +2238,20 @@
    "cats": [
     "tecnologia",
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/21/nombramiento-delegado-presidencial-biobio-ministro-alvarado.html",
+   "titulo": "Visita del ministro Alvarado reaviva expectativas por nombramiento de un delegado titular en Biobío",
+   "resumen": "Dirigentes oficialistas y opositores plantearon la urgencia de resolver la vacante que dejó Julio Anativia. En tanto, las renuncias de la seremi de Salud y la directora regional del Senama suman nuevas tensiones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/ministro-alvarado-delegacion-biobio.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-21T08:40:23.479Z",
+   "visto": "2026-11-21T08:40:23.479Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -2324,20 +2339,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-20T13:33:42.000Z",
    "visto": "2026-11-20T19:30:23.599Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/20/musica-teatro-danza-y-artes-visuales-udec-anuncia-fechas-para-el-congreso-internacional-en-investigacion-de-las-artes-2027.html",
-   "titulo": "Música, teatro, danza y artes visuales: UdeC anuncia fechas para el Congreso Internacional en Investigación de las Artes 2027",
-   "resumen": "El encuentro se desarrollará los días 13, 14 y 15 de enero de 2027 en la Facultad de Humanidades y Arte y el Departamento de Artes Plásticas, con 21 mesas temáticas y asistencia gratuita para todo público.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/CINIA_3d%C3%ADa_57-e1795175880987.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T12:10:19.889Z",
-   "visto": "2026-11-20T12:10:19.889Z",
    "cats": [
     "cultura"
    ],
