@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T08:40:25.404Z",
+ "generado": "2026-11-25T08:50:21.305Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 8,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 57,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 5,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/robo-a-bci-fiscal-jefe-del-bio-bio-desmiente-a-seremi-y-niega-haber-informado-avances-en-indagatoria",
+   "titulo": "Robo a BCI: Fiscal jefe del Biobío rechaza dichos de la Seremi sobre avances de la investigación",
+   "resumen": "Una nueva controversia se instaló en el Bío Bío, esta vez entre el Ministerio de Seguridad y la Fiscalía Regional. El fiscal jefe del Ministerio Público en la zona negó tajantemente lo señalado por el seremi de Seguridad, quien el día anterior afirmó que…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/capturas-cedidos-por-robo-a-bci-fiscal-jefe-del-bio-bio-desmiente-a-seremi-y-niega-haber-informado-avances-en-indagatoria.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T08:50:21.305Z",
+   "visto": "2026-11-25T08:50:21.305Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/chiguayante-seguridad-municipal-acompana-funcionarios-cesfam-leonera.html",
+   "titulo": "Chiguayante: Seguridad Municipal acompaña en visitas domiciliarias a funcionarios de Cesfam Leonera",
+   "resumen": "El municipio comprometió asistencia a los equipos de salud tras episodio ocurrido a inicios de esta semana. En el sector hay cerca de 100 pacientes postrados que requieren estas atenciones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-cesfam-leonera-foto-facebook-municipalidad-de-chiguayante.jpg-e1795568541898.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T08:40:25.404Z",
+   "visto": "2026-11-25T08:40:25.404Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/giacaman-detalla-los-tres-lugares-estrategicos-para-recibir-los-odesur.html",
    "titulo": "Giacaman detalla los tres lugares estratégicos para recibir los Odesur",
@@ -106,20 +135,6 @@
    "visto": "2026-11-25T08:40:25.404Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/chiguayante-seguridad-municipal-acompana-funcionarios-cesfam-leonera.html",
-   "titulo": "Chiguayante: Seguridad Municipal acompaña en visitas domiciliarias a funcionarios de Cesfam Leonera",
-   "resumen": "El municipio comprometió asistencia a los equipos de salud tras episodio ocurrido a inicios de esta semana. En el sector hay cerca de 100 pacientes postrados que requieren estas atenciones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-cesfam-leonera-foto-facebook-municipalidad-de-chiguayante.jpg-e1795568541898.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T08:40:25.404Z",
-   "visto": "2026-11-25T08:40:25.404Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1280,20 +1295,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/ofrecia-un-caiman-por-750-mil-en-marketplace-pdi-investiga-si-fue-arrojado-por-el-bano-en-hualpen",
-   "titulo": "Ofrecía un caimán por $750 mil en Marketplace: PDI investiga si fue arrojado por el baño en Hualpén",
-   "resumen": "Un hombre fue detenido por la PDI tras ser descubierto comercializando un caimán yacaré, especie protegida internacionalmente. Durante el allanamiento de su departamento, el imputado habría arrojado animales por el inodoro para evitar que fueran encontrados…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/yacare4-e1795465244831.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T20:30:31.722Z",
-   "visto": "2026-11-23T20:30:31.722Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/23/gobierno-asegura-que-hay-plena-afinidad-con-el-partido-cristiano-tras-amago-de-renuncias-en-bio-bio",
    "titulo": "El Gobierno afirma que mantiene plena sintonía con el Partido Cristiano tras amenazas de renuncia en Bío Bío",
    "resumen": "El subsecretario general de Gobierno, Gonzalo Arenas, afirmó que el Ejecutivo y el Partido Cristiano mantienen una “plena afinidad”, después de que dos autoridades de esa colectividad en la región del Bío Bío comunicaran que dejarían sus cargos. La medida fue…",
@@ -1305,6 +1306,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/23/ofrecia-un-caiman-por-750-mil-en-marketplace-pdi-investiga-si-fue-arrojado-por-el-bano-en-hualpen",
+   "titulo": "Ofrecía un caimán por $750 mil en Marketplace: PDI investiga si fue arrojado por el baño en Hualpén",
+   "resumen": "Un hombre fue detenido por la PDI tras ser descubierto comercializando un caimán yacaré, especie protegida internacionalmente. Durante el allanamiento de su departamento, el imputado habría arrojado animales por el inodoro para evitar que fueran encontrados…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/yacare4-e1795465244831.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-23T20:30:31.722Z",
+   "visto": "2026-11-23T20:30:31.722Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1458,20 +1473,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-23T18:29:06.000Z",
    "visto": "2026-11-23T18:30:25.105Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/andan-robando-tanto-acusan-robo-de-letras-adornos-y-estatuas-en-cementerio-general-de-concepcion",
-   "titulo": "Denuncian el robo de letras, adornos y estatuas en el Cementerio General de Concepción",
-   "resumen": "El hurto de letras, ornamentos florales y figuras religiosas fue denunciado por familiares de personas sepultadas en el Cementerio General de Concepción. La administración admitió que han ocurrido estos hechos, aunque afirmó que la situación está bajo control…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/cementerio-concepcion.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T18:20:28.522Z",
-   "visto": "2026-11-23T18:20:28.522Z",
    "cats": [
     "regional"
    ],
