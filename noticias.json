@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T19:50:21.710Z",
+ "generado": "2026-11-25T20:00:28.808Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 58,
-    "leidas": 1,
+    "enlaces": 59,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 59,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/cisne-hualpen-habitat-natural.html",
+   "titulo": "VIDEO | Fue encontrado en Hualpén: devuelven a cisne a su hábitat natural",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-38.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T20:00:28.808Z",
+   "visto": "2026-11-25T20:00:28.808Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/vecinos-de-vilumanque-presentan-querella-contra-inmobiliaria-fg-por-delitos-medioambientales-tras-inundaciones",
+   "titulo": "Vecinos de Vilumanque presentan querella contra inmobiliaria FG por delitos medioambientales tras inundaciones",
+   "resumen": "Una querella por presuntos delitos contra el medioambiente presentaron vecinos del sector Vilumanque, en Concepción, quienes responsabilizan a la inmobiliaria FG por las inundaciones que afectaron a sus viviendas durante las intensas lluvias registradas entre…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/pag-10-barro-en-toda-la-calle-foto-enrique-zamora-850x500-1-e1795636643579.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T20:00:28.808Z",
+   "visto": "2026-11-25T20:00:28.808Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/los-angeles-refuerza-medidas-para-prevenir-incendios-forestales-y-anuncia-multas-por-acumulacion-de-pastizales",
    "titulo": "Los Ángeles refuerza medidas para prevenir incendios forestales y anuncia multas por acumulación de pastizales",
@@ -1378,34 +1406,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-24T15:20:24.118Z",
    "visto": "2026-11-24T15:20:24.118Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/preuniversitario-gratuito-formo-a-120-jovenes-de-region-del-bio-bio-con-apoyo-academico-y-vocacional",
-   "titulo": "Un preuniversitario gratuito apoyó la preparación académica y vocacional de 120 jóvenes del Biobío",
-   "resumen": "120 jóvenes de Nacimiento y Negrete completaron la Escuela de Formación para el Ingreso a Educación Superior (Efies), un preuniversitario gratuito e integral impulsado por Formando Chile junto a CMPC para contribuir a ampliar el acceso a la educación…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/preuniversitario-region-del-bio-bio-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T15:00:30.272Z",
-   "visto": "2026-11-24T15:00:30.272Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/estudiante-de-18-anos-es-detenido-por-almacenar-material-de-explotacion-sexual-infantil-en-laja",
-   "titulo": "Detienen en Laja a estudiante de 18 años por almacenar material de explotación sexual infantil",
-   "resumen": "Un alumno de 18 años fue arrestado en Laja, en la región del Bío Bío, por guardar en su teléfono celular material de explotación sexual infantil. El hecho se conoció después de que el joven revisara contenido de ese tipo en un computador de un liceo de la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T15:00:30.272Z",
-   "visto": "2026-11-24T15:00:30.272Z",
    "cats": [
     "regional"
    ],
