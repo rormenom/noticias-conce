@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T02:20:19.685Z",
+ "generado": "2026-11-25T03:40:19.212Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 58,
-    "leidas": 2,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 56,
+    "enlaces": 154,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 11,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/detienen-en-tirua-a-felipe-ancalao-ancalao-profugo-por-homicidio-del-comunero-manuel-huenupil-antileo.shtml",
+   "titulo": "Detienen en Tirúa a Felipe Ancalao Ancalao, prófugo por homicidio del comunero Manuel Huenupil Antileo",
+   "resumen": "La Policía de Investigaciones (PDI) concretó la captura de Felipe Ancalao Ancalao en la comuna de Tirúa, provincia de Arauco,...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7031322-detienen-en-tirua-a-felipe-ancalao-ancalao-profugo-por-homicidio-del-comunero-manuel-huenupil-antileo.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T03:40:28.000Z",
+   "visto": "2026-11-25T03:40:19.212Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/videos-reportan-barricadas-incendiarias-y-enfrentamientos-con-carabineros-frente-a-udec-en-concepcion.shtml",
    "titulo": "VIDEOS| Reportan barricadas incendiarias y enfrentamientos con Carabineros frente a UdeC en Concepción",
@@ -1387,20 +1401,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-23T17:55:02.000Z",
    "visto": "2026-11-23T20:00:27.885Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/amplian-quiero-mi-barrio-lord-cochrane-penco.html",
-   "titulo": "Amplían cobertura de Quiero Mi Barrio en Penco a 1.100 viviendas tras incendios de enero",
-   "resumen": "Las primeras faenas contemplan recambio de luminarias, cámaras en los accesos y mejoras en las rutas de evacuación.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/amplian-quiero-mi-barrio-lord-cochrane-penco-1-e1795455237535.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T17:40:21.893Z",
-   "visto": "2026-11-23T17:40:21.893Z",
    "cats": [
     "regional"
    ],
