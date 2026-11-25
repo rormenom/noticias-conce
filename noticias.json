@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T14:40:23.117Z",
+ "generado": "2026-11-25T14:56:16.183Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 148,
-    "leidas": 62,
+    "enlaces": 149,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -73,8 +73,8 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
-    "leidas": 8,
+    "enlaces": 32,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
@@ -454,20 +454,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome-la-habria-trasladado-a-cabana",
-   "titulo": "Decretan prisión preventiva para docente acusado de violar a una estudiante en Tomé y llevarla a una cabaña",
-   "resumen": "Un docente formalizado el martes por la violación de una estudiante en Tomé quedó en prisión preventiva, en la región del Bío Bío. Durante la tarde, el Juzgado de Garantía de esa comuna impuso la medida cautelar más gravosa al hombre, de 50 años. La decisión…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/wiki-a-1-cntxt-por-prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome_-la-habria-trasladado-a-cabana.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T09:00:29.280Z",
-   "visto": "2026-11-25T09:00:29.280Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/25/detienen-en-tirua-a-felipe-ancalao-ancalao-profugo-por-homicidio-del-comunero-manuel-huenupil-antileo",
    "titulo": "Capturan en Tirúa a Felipe Ancalao, buscado por el homicidio del comunero Manuel Huenupil Antileo",
    "resumen": "La Policía de Investigaciones (PDI) detuvo a Felipe Ancalao Ancalao en la comuna de Tirúa, provincia de Arauco, región del Bío Bío. El hombre tenía una orden de arresto vigente por su eventual responsabilidad en el homicidio del comunero mapuche Manuel…",
@@ -486,6 +472,20 @@
    "titulo": "VIDEOS | Incendios y choques con Carabineros marcan incidentes frente a la UdeC en Concepción",
    "resumen": "La tarde de este martes se levantaron barricadas incendiarias en las afueras de la Universidad de Concepción (UdeC), en la capital de la región del Bío Bío. Hasta ahora, se ha informado de al menos cuatro detenidos. De acuerdo con antecedentes de Radio Bío…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/rbb-por-videos_-reportan-barricadas-incendiarias-y-enfrentamientos-con-carabineros-frente-a-udec-en-concepcion.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T09:00:29.280Z",
+   "visto": "2026-11-25T09:00:29.280Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome-la-habria-trasladado-a-cabana",
+   "titulo": "Decretan prisión preventiva para docente acusado de violar a una estudiante en Tomé y llevarla a una cabaña",
+   "resumen": "Un docente formalizado el martes por la violación de una estudiante en Tomé quedó en prisión preventiva, en la región del Bío Bío. Durante la tarde, el Juzgado de Garantía de esa comuna impuso la medida cautelar más gravosa al hombre, de 50 años. La decisión…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/wiki-a-1-cntxt-por-prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome_-la-habria-trasladado-a-cabana.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-25T09:00:29.280Z",
