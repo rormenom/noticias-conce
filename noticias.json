@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T16:00:35.070Z",
+ "generado": "2026-11-25T16:20:21.208Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/nueva-etiqueta-eficiencia-refrigeradores.html",
+   "titulo": "¿Tu refrigerador es realmente eficiente? Nueva etiqueta cambia la clasificación de estos electrodomésticos",
+   "resumen": "La nueva clasificación elimina los signos \"+\" y utiliza mediciones más exigentes.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/29.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T16:20:21.208Z",
+   "visto": "2026-11-25T16:20:21.208Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/fomento-productivo-provincia-arauco.html",
    "titulo": "Fomento productivo en Arauco: buscan definir apoyos para MiPymes y turismo de cara a 2027",
@@ -1392,20 +1406,6 @@
    "visto": "2026-11-24T15:20:24.118Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/carlos-pena-rector-este-exceso-de-informacion-amenaza-a-los-medios-y-les-revela-cual-es-su-deber/",
-   "titulo": "Carlos Peña, rector UDP: “Este exceso de información amenaza a los medios y les revela cuál es su deber”",
-   "resumen": "La primera Semana de las Comunicaciones de la Universidad de […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/carlos-pena-768x452.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-24T14:16:52.000Z",
-   "visto": "2026-11-24T14:20:20.247Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
