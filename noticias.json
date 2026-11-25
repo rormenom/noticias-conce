@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T20:20:19.987Z",
+ "generado": "2026-11-25T20:30:30.873Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 58,
-    "leidas": 3,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 19,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 57,
+    "leidas": 58,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 9,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
@@ -217,6 +217,20 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-25T18:30:25.225Z",
    "visto": "2026-11-25T18:30:25.225Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/25/biobio-alcanza-3-909-cupos-del-bono-estipendio-con-una-inversion-social-de-1-566-millones/",
+   "titulo": "Biobío alcanza 3.909 cupos del Bono Estipendio con una inversión social de $1.566 millones",
+   "resumen": "Para cuidadoras y cuidadores.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/PHOTO-2026-11-25-15-20-17-768x512.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-25T18:20:24.000Z",
+   "visto": "2026-11-25T20:30:30.873Z",
    "cats": [
     "regional"
    ],
@@ -1407,20 +1421,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-24T15:50:26.539Z",
    "visto": "2026-11-24T15:50:26.539Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/persona-muere-tras-caerle-un-arbol-mientras-realizaba-labores-de-corte-en-concepcion",
-   "titulo": "Persona muere tras caerle un árbol mientras realizaba labores de corte en Concepción",
-   "resumen": "Una persona falleció durante la jornada de este martes tras ser impactada por un árbol en el sector San Jorge, en la comuna de Concepción, región del Bío Bío. De acuerdo con información preliminar, la víctima se encontraba realizando labores de corte de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ahora-c9-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T15:40:24.640Z",
-   "visto": "2026-11-24T15:40:24.640Z",
    "cats": [
     "regional"
    ],
