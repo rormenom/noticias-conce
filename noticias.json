@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T16:50:20.620Z",
+ "generado": "2026-11-25T17:00:30.263Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 58,
     "leidas": 1,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 154,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/navidad-con-corazon-busca-donaciones-concepcion.html",
+   "titulo": "¿Quieres cumplir un deseo navideño? Campaña “Navidad con Corazón” busca reunir 100 regalos para niños",
+   "resumen": "El voluntariado espera beneficiar a 200 niños del sector Pedro del Río.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_6145.JPG-e1795625413496.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T17:00:30.263Z",
+   "visto": "2026-11-25T17:00:30.263Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/prision-preventiva-disparos-galeria-ohiggins-concepcion.html",
    "titulo": "VIDEO | Lo que se sabe del ataque armado en Galería O’Higgins que terminó con tres detenidos en Hualpén",
@@ -1377,20 +1391,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-24T14:30:27.749Z",
    "visto": "2026-11-24T14:30:27.749Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/seguridad-hualpen-refuerza-prevencion-contra-el-microtrafico-y-amplia-monitoreo-municipal",
-   "titulo": "Seguridad: Hualpén refuerza prevención contra el microtráfico y amplía monitoreo municipal",
-   "resumen": "La comuna de Hualpén ha intensificado su estrategia preventiva frente al consumo y microtráfico de drogas, combinando el trabajo territorial de la Cuarta Comisaría de Carabineros con el monitoreo telemático y patrullaje municipal amparado en la Ley N° 21.802,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-09.33.19.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T14:20:20.247Z",
-   "visto": "2026-11-24T14:20:20.247Z",
    "cats": [
     "regional"
    ],
