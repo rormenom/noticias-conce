@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T15:20:23.768Z",
+ "generado": "2026-11-25T15:30:26.489Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 151,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 30,
-    "leidas": 8,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/seminario-esto-es-biobio-reunio-a-autoridades-para-abordar-los-desafios-del-desarrollo-regional",
+   "titulo": "Autoridades analizaron los retos del desarrollo regional en el seminario «Esto es Biobío»",
+   "resumen": "Una zona marcada por un fuerte sentido de pertenencia y un gran potencial productivo, aunque también por dificultades en materia de empleo, inversión y centralismo. Ese es parte del panorama que trazó la encuesta “Esto es Biobío”. Sus resultados se dieron a…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/esto-es-biobio.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T15:30:26.489Z",
+   "visto": "2026-11-25T15:30:26.489Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/dia-tecnico-paramedico-tens-chile-25-noviembre.html",
    "titulo": "De las ambulancias a los hospitales: Chile conmemora el Día del Técnico Paramédico y TENS",
@@ -1390,20 +1404,6 @@
    "fuenteId": "radioudec",
    "fecha": "2026-11-24T11:21:22.000Z",
    "visto": "2026-11-24T11:30:31.532Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/ola-de-robos-golpea-a-20-iglesias-de-lota-en-un-mes-y-solo-ocho-llegaron-a-denuncia",
-   "titulo": "Ola de robos golpea a 20 iglesias de Lota en un mes y sólo ocho llegaron a denuncia",
-   "resumen": "Unas 20 iglesias de distintos credos han sido blanco de robos en lo que va de noviembre en Lota, en la Región del Bío Bío. Sin embargo, menos de la mitad de los casos ha sido denunciada formalmente. La Fiscalía y Carabineros registran sólo ocho denuncias…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/06/exmiembros-iglesia-evangelica-denuncian-malversacion-millones.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T11:10:22.212Z",
-   "visto": "2026-11-24T11:10:22.212Z",
    "cats": [
     "regional"
    ],
