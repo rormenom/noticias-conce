@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T20:00:28.808Z",
+ "generado": "2026-11-25T20:20:19.987Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 59,
+    "enlaces": 58,
     "leidas": 3,
     "errores": 0,
     "robots": 0
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 18,
-    "leidas": 0,
+    "enlaces": 19,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 151,
     "leidas": 57,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,55 @@
    "diag": {
     "paginas": 3,
     "enlaces": 31,
-    "leidas": 10,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/25/encuentran-orquidea-nativa-chloraea-crispa-en-campus-udec-llaman-a-proteger-la-flora.html",
+   "titulo": "Encuentran orquídea nativa Chloraea Crispa en campus UdeC: llaman a proteger la flora",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/2-orqu%C3%ADdea-nativa-Chloraea-Crispa.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T20:20:19.987Z",
+   "visto": "2026-11-25T20:20:19.987Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/25/registran-orquidea-nativa-chloraea-crispa-en-campus-udec-llaman-a-proteger-la-flora.html",
+   "titulo": "Registran orquídea nativa Chloraea Crispa en campus UdeC: llaman a proteger la flora",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/2-orqu%C3%ADdea-nativa-Chloraea-Crispa.jpg.jpeg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-25T20:20:19.987Z",
+   "visto": "2026-11-25T20:20:19.987Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/corte-de-concepcion-confirma-expulsion-de-estudiante-de-odontologia-de-la-udd-que-copio-con-chatgpt.shtml",
+   "titulo": "Corte de Concepción confirma expulsión de estudiante de odontología de la UDD que copió con ChatGPT",
+   "resumen": "La Corte de Apelaciones de Concepción confirmó la expulsión de una estudiante de Odontología de la Universidad del Desarrollo (UDD),...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032326-foto-contexto-nota-bbcl-2026-11-25t171123-639.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T20:14:28.000Z",
+   "visto": "2026-11-25T20:20:19.987Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/cisne-hualpen-habitat-natural.html",
    "titulo": "VIDEO | Fue encontrado en Hualpén: devuelven a cisne a su hábitat natural",
@@ -204,6 +246,21 @@
    "fecha": "2026-11-25T18:05:41.000Z",
    "visto": "2026-11-25T18:10:22.520Z",
    "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/25/beach-tennis-mtb-y-lucha-de-brazos-los-megaeventos-deportivos-que-recibira-nuble/",
+   "titulo": "Beach Tennis, MTB y Lucha de brazos: los megaeventos deportivos que recibirá Ñuble",
+   "resumen": "Con apoyo del Gobierno Regional, Gracias a la nueva línea de eventos del Fondo de Deporte 8%, organizaciones locales concretarán torneos gratuitos y de estándar internacional en distintas comunas, convocando a cientos de deportistas y visitantes de Chile y el…",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/PHOTO-2026-11-25-14-09-27-768x512.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-25T17:12:55.000Z",
+   "visto": "2026-11-25T20:20:19.987Z",
+   "cats": [
+    "deportes",
     "regional"
    ],
    "local": true
@@ -1364,48 +1421,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-24T15:40:24.640Z",
    "visto": "2026-11-24T15:40:24.640Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/gran-concepcion-pdi-detiene-a-cuatro-implicados-en-dos-homicidios-consumados-y-un-ataque-frustrado-con-arma-de-fuego",
-   "titulo": "Gran Concepción: PDI detiene a cuatro implicados en dos homicidios consumados y un ataque frustrado con arma de fuego",
-   "resumen": "La Brigada de Homicidios de la Policía de Investigaciones (PDI), en conjunto con su equipo de fuerza de tarea y en coordinación con el Equipo de Crimen Organizado y Homicidios (ECOH) del Ministerio Público, concretó la detención de cuatro personas, tres…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/a-1-cntxt-por-funcionario-pdi-activo-y-otro-en-retiro-quedan-en-prision-por-corrupcion-en-la-araucania-y-los-lagos.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T15:40:24.640Z",
-   "visto": "2026-11-24T15:40:24.640Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/padre-de-joven-declarada-interdicta-impulsa-cambios-legales-para-proteger-coberturas-y-derechos-tras-la-mayoria-de-edad",
-   "titulo": "Padre de joven declarada interdicta impulsa cambios legales para proteger coberturas y derechos tras la mayoría de edad",
-   "resumen": "La historia de Javiera, una joven de 22 años con síndrome de Down y lenguaje no verbal que fue declarada interdicta al cumplir la mayoría de edad, abrió un debate sobre los vacíos y topes que enfrenta su familia en materia de coberturas, beneficios y respaldo…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-11.14.54-1.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T15:20:24.118Z",
-   "visto": "2026-11-24T15:20:24.118Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/de-los-costillares-del-bavaria-a-las-barras-de-proteina",
-   "titulo": "De los costillares del Bavaria a las barras de proteína",
-   "resumen": "Los diputados republicanos Sebastián Zamora, Javiera Rodríguez e Ignacio Urrutia llegaron a una comisaría en Valparaíso cargados de bebidas energéticas y barras de proteína, y se grabaron haciéndolo. Lo hicieron con orgullo, para las redes. Por eso presenté…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/de-los-costillares-del-bavaria-a-las-barras-de-proteina.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T15:20:24.118Z",
-   "visto": "2026-11-24T15:20:24.118Z",
    "cats": [
     "regional"
    ],
