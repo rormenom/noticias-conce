@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T19:30:25.446Z",
+ "generado": "2026-11-25T19:50:21.710Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 30,
+    "enlaces": 31,
     "leidas": 10,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/los-angeles-refuerza-medidas-para-prevenir-incendios-forestales-y-anuncia-multas-por-acumulacion-de-pastizales",
+   "titulo": "Los Ángeles refuerza medidas para prevenir incendios forestales y anuncia multas por acumulación de pastizales",
+   "resumen": "Ante las altas temperaturas y las fuertes ráfagas de viento, la Municipalidad de Los Ángeles convocó a un Comité para la Gestión del Riesgo de Desastres (Cogrid) comunal, con el objetivo de reforzar las medidas preventivas frente a eventuales incendios…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/images-1-e1795635928396.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T19:50:21.710Z",
+   "visto": "2026-11-25T19:50:21.710Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/olimpiadas-educacion-especial-biobio.html",
    "titulo": "Inclusión y deporte: realizan Olimpiadas de Centros Laborales de Educación Especial en el Biobío",
@@ -1392,20 +1406,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-24T15:00:30.272Z",
    "visto": "2026-11-24T15:00:30.272Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/laguna-canicura-busca-ser-area-protegida-biobio.html",
-   "titulo": "Proyectan convertir 50 mil hectáreas de la Cordillera del Tricauco en área protegida tras recuperación de la Laguna Cañicura",
-   "resumen": "A 10 meses de iniciar el resguardo del sector, los gestores del Área de Conservación preparan una solicitud ante el Servicio de Biodiversidad y Áreas Protegidas para obtener el reconocimiento estatal, con la meta futura de proteger las 50 mil hectáreas de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/9-1-e1795564438112.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T15:00:00.000Z",
-   "visto": "2026-11-25T00:00:29.515Z",
    "cats": [
     "regional"
    ],
