@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T22:40:21.149Z",
+ "generado": "2026-11-25T22:50:24.222Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
+    "enlaces": 151,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 12,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/manifestacion-feminista-se-desarrolla-en-concepcion-en-el-marco-de-la-conmemoracion-del-25n",
+   "titulo": "Concepción acoge manifestación feminista por la conmemoración del 25N",
+   "resumen": "Una manifestación feminista tiene lugar la tarde de este miércoles en el centro de Concepción, región del Biobío, como parte de la conmemoración del Día Internacional de la Eliminación de la Violencia contra la Mujer. Decenas de personas participan en la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T22:50:24.222Z",
+   "visto": "2026-11-25T22:50:24.222Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/cierre-de-produccion-de-azucar-de-remolacha-de-iansa-provoca-alarma-por-golpe-a-la-agricultura.shtml",
+   "titulo": "Cierre de producción de azúcar de remolacha de Iansa provoca alarma por golpe a la agricultura",
+   "resumen": "El anuncio del término definitivo de la producción de azúcar de remolacha de Empresas Iansa generó reacciones de pesar y...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032540-agenciauno-67.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T22:43:12.000Z",
+   "visto": "2026-11-25T22:50:24.222Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/congreso-despacha-ley-de-presupuestos-2027.html",
    "titulo": "Con 43 votos a favor en el Senado: Congreso despacha la Ley de Presupuestos 2027",
@@ -1424,20 +1452,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/segunda-quincena-de-diciembre-se-instalara-primera-piedra-de-reconstruccion-de-rios-de-chile-en-penco.shtml",
-   "titulo": "Segunda quincena de diciembre se instalará primera piedra de reconstrucción de Ríos de Chile en Penco",
-   "resumen": "La segunda quincena de diciembre se instalará la primera piedra del proyecto de reconstrucción del sector Ríos de Chile, en Penco, zona destruida tras los incendios forestales del pasado verano.",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7030705-reconstruccion-rios-de-chile-penco.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-24T17:43:39.000Z",
-   "visto": "2026-11-24T17:50:21.169Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
