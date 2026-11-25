@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T13:20:25.839Z",
+ "generado": "2026-11-25T13:40:20.616Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 64,
+    "enlaces": 151,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 6,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
@@ -2343,20 +2343,6 @@
    "visto": "2026-11-20T15:10:20.136Z",
    "cats": [
     "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/20/chiguayante-vuelve-a-celebrar-la-fiesta-de-la-primavera-con-carros-alegoricos-musica-y-humor/",
-   "titulo": "Chiguayante vuelve a celebrar la Fiesta de la Primavera con carros alegóricos, música y humor",
-   "resumen": "Tras quince años sin realizarse, la tradicional actividad comunal comienza hoy con un desfile de 16 carros por las calles de la ciudad y continuará todo el fin de semana en el Parque Ribera Biobío con comida, artesanía y espectáculos gratuitos.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/fiesta-de-la-primavera-chiguayante--768x514.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-20T13:33:42.000Z",
-   "visto": "2026-11-20T19:30:23.599Z",
-   "cats": [
     "cultura"
    ],
    "local": true
