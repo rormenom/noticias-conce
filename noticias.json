@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T00:10:24.207Z",
+ "generado": "2026-11-25T01:10:20.646Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 153,
     "leidas": 56,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/videos-reportan-barricadas-incendiarias-y-enfrentamientos-con-carabineros-frente-a-udec-en-concepcion.shtml",
+   "titulo": "VIDEOS| Reportan barricadas incendiarias y enfrentamientos con Carabineros frente a UdeC en Concepción",
+   "resumen": "Barricadas incendiarias se registraron la tarde de este martes afuera de la Universidad de Concepción (UdeC), en la capital de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7031229-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T01:07:31.000Z",
+   "visto": "2026-11-25T01:10:20.646Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/simulacro-accidente-transito-puente-industrial.html",
    "titulo": "Anuncian simulacro de accidente de tránsito en el ingreso al Puente Industrial para este miércoles",
@@ -1387,20 +1401,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T17:40:21.893Z",
    "visto": "2026-11-23T17:40:21.893Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/cortes-de-agua-luz-san-pedro-de-la-paz.html",
-   "titulo": "San Pedro de la Paz: programan cortes de agua y luz para esta semana",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-09-at-18.03.21-e1794259797214.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T17:30:25.980Z",
-   "visto": "2026-11-23T17:30:25.980Z",
    "cats": [
     "regional"
    ],
