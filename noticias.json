@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T20:40:21.250Z",
+ "generado": "2026-11-25T20:50:24.404Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 58,
+    "enlaces": 57,
     "leidas": 2,
     "errores": 0,
     "robots": 0
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 31,
+    "enlaces": 32,
     "leidas": 12,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/persisten-irregularidades-en-extraccion-de-aridos-desde-el-rio-bio-bio-en-hualpen",
+   "titulo": "Persisten irregularidades en extracción de áridos desde el río Bío Bío en Hualpén",
+   "resumen": "Un informe de la Dirección General de Aguas (DGA) confirmó irregularidades en la extracción de áridos y agua, además de intervenciones no autorizadas en la ribera del río Bío Bío en Hualpén. Pese a las sanciones aplicadas, el diputado Antonio Rivas cuestionó…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/hualpen-aridos-2.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T20:50:24.404Z",
+   "visto": "2026-11-25T20:50:24.404Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/corte-de-concepcion-confirma-expulsion-de-estudiante-de-odontologia-de-la-udd-que-copio-con-chatgpt",
    "titulo": "Corte de Concepción ratifica expulsión de alumno de Odontología de la UDD por copiar con ChatGPT",
@@ -1406,20 +1420,6 @@
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T16:00:30.288Z",
-   "visto": "2026-11-24T16:00:30.288Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/hombre-muere-tras-ser-aplastado-por-un-arbol-en-concepcion.shtml",
-   "titulo": "Hombre muere tras ser aplastado por un árbol en Concepción",
-   "resumen": "Un hombre murió tras ser impactado por un árbol frente al sector de San Jorge, ubicado en la comuna de...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7030548-noticia-en-desarrollo-47.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-24T15:54:09.000Z",
    "visto": "2026-11-24T16:00:30.288Z",
    "cats": [
     "regional"
