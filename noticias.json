@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T04:20:19.844Z",
+ "generado": "2026-11-25T08:30:24.986Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 58,
-    "leidas": 0,
+    "enlaces": 56,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 58,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -955,20 +955,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/plaga-ratones-afecta-salud-familia-penco.html",
-   "titulo": "Penco: Serviu tramita subsidio para familia afectada por plaga de ratones tras megaincendio",
-   "resumen": "Los damnificados informaron que la situación no les permite llevar una vida digna.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PAG-7-contexto-de-plaga-de-ratones-foto-pexels-ardeshir-etemad.jpg-e1795482458463.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T08:40:20.857Z",
-   "visto": "2026-11-24T08:40:20.857Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/medidas-preventivas-incendios-calor-biobio.html",
    "titulo": "Fuerza de tarea, poda y grifos: así afinan Bomberos y servicios su respuesta ante incendios forestales",
    "resumen": "Ante los anuncios oficiales de un verano complejo en materia de olas de calor, las acciones preventivas son de vital importancia.",
@@ -993,6 +979,20 @@
    "visto": "2026-11-24T08:40:20.857Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/plaga-ratones-afecta-salud-familia-penco.html",
+   "titulo": "Penco: Serviu tramita subsidio para familia afectada por plaga de ratones tras megaincendio",
+   "resumen": "Los damnificados informaron que la situación no les permite llevar una vida digna.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PAG-7-contexto-de-plaga-de-ratones-foto-pexels-ardeshir-etemad.jpg-e1795482458463.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-24T08:40:20.857Z",
+   "visto": "2026-11-24T08:40:20.857Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
