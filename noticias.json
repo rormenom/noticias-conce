@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T12:50:21.698Z",
+ "generado": "2026-11-25T13:00:29.970Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 157,
-    "leidas": 64,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/chiguayante-trekking-cerro-manquimavida.html",
+   "titulo": "Chiguayante: organizan trekking nocturno en Cerro Manquimávida",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pexels-jaganjijo-8373458.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T13:00:29.970Z",
+   "visto": "2026-11-25T13:00:29.970Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/disparos-en-galeria-ohiggins-en-concepcion-prision-preventiva-para-pistolero-y-otros-dos-implicados",
    "titulo": "Tres imputados quedan en prisión preventiva tras balacera en la Galería O’Higgins de Concepción",
@@ -1409,20 +1423,6 @@
    "visto": "2026-11-24T08:40:20.857Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/medidas-preventivas-incendios-calor-biobio.html",
-   "titulo": "Fuerza de tarea, poda y grifos: así afinan Bomberos y servicios su respuesta ante incendios forestales",
-   "resumen": "Ante los anuncios oficiales de un verano complejo en materia de olas de calor, las acciones preventivas son de vital importancia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/1-y-6-archivo-diario-concepci%C3%B3n.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T08:40:20.857Z",
-   "visto": "2026-11-24T08:40:20.857Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
