@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T15:30:26.489Z",
+ "generado": "2026-11-25T15:40:22.292Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 61,
+    "enlaces": 152,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,62 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/biobio-4404-familias-egresan-programa-fosis.html",
+   "titulo": "Más de 4.400 familias del Biobío finalizaron programa de acompañamiento tras inversión de $2.970 millones",
+   "resumen": "El programa llegó a hogares del 40% más vulnerable del Registro Social de Hogares.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO-12.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:40:22.292Z",
+   "visto": "2026-11-25T15:40:22.292Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/siete-de-la-zona-entre-los-mejores-del-ano-que-posibilidades-tienen-de-ganar.html",
+   "titulo": "Siete de la zona entre los mejores del año: ¿Qué posibilidades tienen de ganar?",
+   "resumen": "Nominación al \"Once Ideal\" de la temporada futbolera incluye 2 figuras de Huachipato y 5 de D. Concepción. Tres de ellos son delanteros y en el arco habrá pelea entre el \"1\" lila y su vecino acerero.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-37-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:40:22.292Z",
+   "visto": "2026-11-25T15:40:22.292Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/asaltan-a-carabinero-de-franco-y-le-roban-su-arma-personal-en-coronel",
+   "titulo": "Asaltan a carabinero de franco y le roban su arma personal en Coronel",
+   "resumen": "Un funcionario de Carabineros que se encontraba de franco junto a su pareja fue víctima de un asalto a mano armada durante la tarde de este martes en el sector Laguna Quiñenco, en la comuna de Coronel. Según los antecedentes que maneja la Fiscalía, la pareja…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/file_20260314155210.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T15:40:22.292Z",
+   "visto": "2026-11-25T15:40:22.292Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/concurso-de-foto-relatos-conmemora-los-diez-anos-del-eje-central-del-campus-udec-como-monumento-nacional/",
+   "titulo": "Concurso de foto-relatos conmemora los diez años del Eje Central del Campus UdeC como Monumento Nacional",
+   "resumen": "Con motivo del décimo aniversario de la declaratoria del Eje […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/05/foto_generica_udec-768x458.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-25T15:34:44.000Z",
+   "visto": "2026-11-25T15:40:22.292Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/seminario-esto-es-biobio-reunio-a-autoridades-para-abordar-los-desafios-del-desarrollo-regional",
    "titulo": "Autoridades analizaron los retos del desarrollo regional en el seminario «Esto es Biobío»",
@@ -567,16 +623,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/chiguayante-seguridad-municipal-acompana-funcionarios-cesfam-leonera.html",
-   "titulo": "Chiguayante: Seguridad Municipal acompaña en visitas domiciliarias a funcionarios de Cesfam Leonera",
-   "resumen": "El municipio comprometió asistencia a los equipos de salud tras episodio ocurrido a inicios de esta semana. En el sector hay cerca de 100 pacientes postrados que requieren estas atenciones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-cesfam-leonera-foto-facebook-municipalidad-de-chiguayante.jpg-e1795568541898.jpeg",
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/movilizacion-colegio-profesores-biobio-presupuesto-2027.html",
+   "titulo": "Docentes del Biobío se suman a movilización contra ajustes presupuestarios y eventuales recortes al sector",
+   "resumen": "El profesorado advirtió por la eventual reducción de 83 mil horas docentes a nivel nacional y cuestionó los ajustes al financiamiento de la educación pública.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/marcha-docentes-concepcion-e1795568633655.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-25T08:40:25.404Z",
    "visto": "2026-11-25T08:40:25.404Z",
    "cats": [
-    "regional"
+    "politica"
    ],
    "local": true
   },
@@ -595,16 +651,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/movilizacion-colegio-profesores-biobio-presupuesto-2027.html",
-   "titulo": "Docentes del Biobío se suman a movilización contra ajustes presupuestarios y eventuales recortes al sector",
-   "resumen": "El profesorado advirtió por la eventual reducción de 83 mil horas docentes a nivel nacional y cuestionó los ajustes al financiamiento de la educación pública.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/marcha-docentes-concepcion-e1795568633655.jpeg",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/chiguayante-seguridad-municipal-acompana-funcionarios-cesfam-leonera.html",
+   "titulo": "Chiguayante: Seguridad Municipal acompaña en visitas domiciliarias a funcionarios de Cesfam Leonera",
+   "resumen": "El municipio comprometió asistencia a los equipos de salud tras episodio ocurrido a inicios de esta semana. En el sector hay cerca de 100 pacientes postrados que requieren estas atenciones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-cesfam-leonera-foto-facebook-municipalidad-de-chiguayante.jpg-e1795568541898.jpeg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-25T08:40:25.404Z",
    "visto": "2026-11-25T08:40:25.404Z",
    "cats": [
-    "politica"
+    "regional"
    ],
    "local": true
   },
@@ -1340,20 +1396,6 @@
    "local": true
   },
   {
-   "url": "https://www.radioudec.cl/seminario-esto-es-biobio-reunio-a-autoridades-y-lideres-regionales-para-abordar-los-desafios-del-desarrollo/",
-   "titulo": "Seminario “Esto es Biobío” reunió a autoridades y líderes regionales para abordar los desafíos del desarrollo",
-   "resumen": "Una región con un fuerte sentido de pertenencia y un […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/DSCF5567-768x512.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-24T13:49:49.000Z",
-   "visto": "2026-11-24T13:50:21.968Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/24/noche-de-museos-2026-registro-mas-de-3-400-visitas-en-nuble/",
    "titulo": "Noche de Museos 2026 registró más de 3.400 visitas en Ñuble",
    "resumen": "Y aumentó su convocatoria en un 40%",
@@ -1378,34 +1420,6 @@
    "visto": "2026-11-24T12:00:31.363Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/cge-dejara-de-cobrar-mas-de-450-millones-a-familias-afectadas-por-los-incendios-de-penco-y-lirquen/",
-   "titulo": "CGE dejará de cobrar más de 450 millones a familias afectadas por los incendios de Penco y Lirquén",
-   "resumen": "En Lirquén, CGE confirmó que no cobrará las deudas eléctricas […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/FOTO_02-2-768x576.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-24T11:33:59.000Z",
-   "visto": "2026-11-24T11:40:20.076Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/un-7-de-avance-lleva-el-mercado-de-talcahuano-a-dos-meses-del-inicio-de-los-trabajos/",
-   "titulo": "Un 7% de avance lleva el Mercado de Talcahuano a dos meses del inicio de los trabajos",
-   "resumen": "En plena faena se encuentran las obras de construcción del […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/2O8A8225-768x512.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-24T11:21:22.000Z",
-   "visto": "2026-11-24T11:30:31.532Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -2056,21 +2070,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/indespa-pesca-artesanal-equipos-viradores-lebu.html",
-   "titulo": "45 embarcaciones artesanales de Lebu incorporan viradores eléctricos a sus faenas de extracción de jibia",
-   "resumen": "Tecnología financiada por INDESPA sería clave para aliviar la carga física de los tripulantes al recoger de modo mecánico las líneas de pesca y captura, evitando lesiones y fatiga.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/911713702_1646747083575867_5259487904720144764_n.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/poemario-cruza-memoria-identidad-resistencia-nicole-camille-debut-literario-sonata-en-azul-sin-blanco.html",
    "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
    "resumen": "La poeta y artista visual tomecina presenta su primer libro, una obra que enlaza la experiencia personal con una mirada crítica sobre las desigualdades, los mandatos de género y la memoria popular. Publicado por Editorial Mujeres de Letras, el poemario cuenta…",
@@ -2095,6 +2094,21 @@
    "visto": "2026-11-22T08:40:18.857Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/indespa-pesca-artesanal-equipos-viradores-lebu.html",
+   "titulo": "45 embarcaciones artesanales de Lebu incorporan viradores eléctricos a sus faenas de extracción de jibia",
+   "resumen": "Tecnología financiada por INDESPA sería clave para aliviar la carga física de los tripulantes al recoger de modo mecánico las líneas de pesca y captura, evitando lesiones y fatiga.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/911713702_1646747083575867_5259487904720144764_n.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-22T08:40:18.857Z",
+   "visto": "2026-11-22T08:40:18.857Z",
+   "cats": [
+    "regional",
+    "cultura"
    ],
    "local": true
   },
@@ -2356,21 +2370,6 @@
    "cats": [
     "cultura",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/20/ii-festival-flamenco-del-bio-bio-diez-academias-daran-vida-a-jornada-gratuita-este-sabado-en-anfiteatro-de-spp",
-   "titulo": "II Festival Flamenco del Bío Bío: diez academias darán vida a jornada gratuita este sábado en Anfiteatro de SPP",
-   "resumen": "El encuentro se realizará este sábado 21 de noviembre desde las 16:00 horas en el anfiteatro de la comuna, con entrada liberada y elencos provenientes de distintos puntos del país. La convocatoria reunirá a diez academias llegadas desde distintas partes de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/flamenco-e1795188817822.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-20T15:40:21.185Z",
-   "visto": "2026-11-20T15:40:21.185Z",
-   "cats": [
-    "regional",
-    "cultura"
    ],
    "local": true
   }
