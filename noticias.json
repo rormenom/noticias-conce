@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T11:10:20.497Z",
+ "generado": "2026-11-25T11:20:22.829Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/25/decretan-prision-preventiva-para-profesor-acusado-de-violar-a-alumna-en-tome/",
+   "titulo": "Decretan prisión preventiva para profesor acusado de violar a alumna en Tomé",
+   "resumen": "Serán tres meses de investigación.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Foto-Profesor-Tome-300x198.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-25T11:13:50.000Z",
+   "visto": "2026-11-25T11:20:22.829Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/presentan-a-gremios-propuestas-para-enfrentar-crisis-estructural-de-empleo/",
+   "titulo": "Presentan a gremios propuestas para enfrentar crisis estructural de empleo",
+   "resumen": "La mesa de expertos sobre el empleo, convocada por el […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/image00008-768x512.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-25T11:13:06.000Z",
+   "visto": "2026-11-25T11:20:22.829Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/reagendan-para-marzo-el-juicio-a-medico-venezolana-por-mamografias-falsas-en-el-bio-bio",
    "titulo": "Reagendan para marzo el juicio a médico venezolana por mamografías falsas en el Bío Bío",
@@ -1395,20 +1423,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/23/exportaciones-forestales-biobio-septiembre-2026.html",
-   "titulo": "Exportaciones forestales del Biobío superaron los US$217 millones en septiembre",
-   "resumen": "China, Estados Unidos y Corea del Sur concentraron el 75,8% de los envíos forestales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/09/pag-14-forestal-madera-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T21:40:22.315Z",
-   "visto": "2026-11-23T21:40:22.315Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/llegada-de-alvarado-al-bio-bio-genera-expectacion-por-posible-anuncio-del-nuevo-delegado-presidencial.shtml",
    "titulo": "Llegada de Alvarado al Bío Bío genera expectación por posible anuncio del nuevo delegado presidencial",
    "resumen": "La llegada del biministro Claudio Alvarado a la región del Bío Bío ha generado expectación puesto que ha trascendido que...",
@@ -2311,20 +2325,6 @@
    "visto": "2026-11-20T12:10:19.889Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/20/renuncias-seremi-salud-senama-biobio.html",
-   "titulo": "Nuevas renuncias: motivos personales marcan la salida de dos autoridades regionales del Biobío en Salud y Senama",
-   "resumen": "Las dimisiones de Isabel Rojas y Antaris Varela, ambas militantes del Partido Cristiano de Chile se suman a otras renuncias en la administración regional del Presidente José Antonio Kast.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Nuevo-remez%C3%B3n-en-el-gabinete-regional-del-Biob%C3%ADo-dimiten-titulares-de-Salud-y-Senama.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-20T11:20:27.354Z",
-   "visto": "2026-11-20T11:20:27.354Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
