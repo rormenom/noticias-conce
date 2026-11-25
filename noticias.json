@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T11:40:20.136Z",
+ "generado": "2026-11-25T11:50:21.992Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 56,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -296,20 +296,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/chiguayante-seguridad-municipal-acompana-funcionarios-cesfam-leonera.html",
-   "titulo": "Chiguayante: Seguridad Municipal acompaña en visitas domiciliarias a funcionarios de Cesfam Leonera",
-   "resumen": "El municipio comprometió asistencia a los equipos de salud tras episodio ocurrido a inicios de esta semana. En el sector hay cerca de 100 pacientes postrados que requieren estas atenciones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-cesfam-leonera-foto-facebook-municipalidad-de-chiguayante.jpg-e1795568541898.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T08:40:25.404Z",
-   "visto": "2026-11-25T08:40:25.404Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/giacaman-detalla-los-tres-lugares-estrategicos-para-recibir-los-odesur.html",
    "titulo": "Giacaman detalla los tres lugares estratégicos para recibir los Odesur",
    "resumen": "Gobernador del Biobío habló de los recintos deportivos que serán sede, mejoras en la conectividad y alternativas para construir la Villa Olímpica. Los Juegos 2030 empiezan a tomar forma.",
@@ -320,6 +306,20 @@
    "visto": "2026-11-25T08:40:25.404Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/chiguayante-seguridad-municipal-acompana-funcionarios-cesfam-leonera.html",
+   "titulo": "Chiguayante: Seguridad Municipal acompaña en visitas domiciliarias a funcionarios de Cesfam Leonera",
+   "resumen": "El municipio comprometió asistencia a los equipos de salud tras episodio ocurrido a inicios de esta semana. En el sector hay cerca de 100 pacientes postrados que requieren estas atenciones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-cesfam-leonera-foto-facebook-municipalidad-de-chiguayante.jpg-e1795568541898.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T08:40:25.404Z",
+   "visto": "2026-11-25T08:40:25.404Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
