@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T22:50:24.222Z",
+ "generado": "2026-11-25T23:00:28.535Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 152,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/empresas-iansa-fin-definitivo-azucar-remolacha.html",
+   "titulo": "Fin de una era agroindustrial: Iansa termina definitivamente con la producción de azúcar de remolacha en Chile",
+   "resumen": "Pese al cierre de esta histórica línea iniciada en 1953, la firma seguirá operando su planta de San Carlos mediante el procesamiento de azúcar cruda importada.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/iansa-cedida-iansa-e1795647023109.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T23:00:28.535Z",
+   "visto": "2026-11-25T23:00:28.535Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/manifestacion-feminista-se-desarrolla-en-concepcion-en-el-marco-de-la-conmemoracion-del-25n",
    "titulo": "Concepción acoge manifestación feminista por la conmemoración del 25N",
@@ -1423,20 +1437,6 @@
    "visto": "2026-11-24T18:00:37.804Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/concepcion-persona-fallece-aplastada-arbol.html",
-   "titulo": "Concepción: persona mayor fallece tras ser aplastada por árbol",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Carabineros-A1.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T18:00:37.804Z",
-   "visto": "2026-11-24T18:00:37.804Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
