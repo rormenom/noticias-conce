@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T13:00:29.970Z",
+ "generado": "2026-11-25T13:20:25.839Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
-    "leidas": 63,
+    "enlaces": 156,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/25/justicia-resolvera-querella-de-crespo-contra-concejala-de-puente-alto-que-lo-llamo-asesino-y-mutilador.shtml",
+   "titulo": "Justicia resolverá querella de Crespo contra concejala de Puente Alto que lo llamó asesino y mutilador",
+   "resumen": "En el Séptimo Juzgado de Garantía de Santiago y en un juicio simplificado se resolverá la querella del exteniente coronel...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7031592-crespo-concejala-montoya.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-25T13:12:30.000Z",
+   "visto": "2026-11-25T13:20:25.839Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/chiguayante-trekking-cerro-manquimavida.html",
    "titulo": "Chiguayante: organizan trekking nocturno en Cerro Manquimávida",
