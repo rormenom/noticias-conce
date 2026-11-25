@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T23:00:28.535Z",
+ "generado": "2026-11-25T23:30:22.595Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
+    "enlaces": 153,
     "leidas": 55,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/joaquin-larrivey-anuncia-ultimo-partido-concepcion.html",
+   "titulo": "Figura lila se despide del Ester Roa: Joaquín Larrivey jugará su último encuentro en casa frente a Universidad de Chile",
+   "resumen": "Tras lograr el ascenso y consolidar al club en Primera División, el referente llamó a la hinchada a llenar el recinto penquista en la recta final por un cupo a torneos internacionales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Joaqu%C3%ADn-Larrivey-e1795648777731.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T23:30:22.595Z",
+   "visto": "2026-11-25T23:30:22.595Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/empresas-iansa-fin-definitivo-azucar-remolacha.html",
    "titulo": "Fin de una era agroindustrial: Iansa termina definitivamente con la producción de azúcar de remolacha en Chile",
