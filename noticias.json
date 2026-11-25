@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T08:50:21.305Z",
+ "generado": "2026-11-25T09:00:29.280Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,55 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 13,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome-la-habria-trasladado-a-cabana",
+   "titulo": "Decretan prisión preventiva para docente acusado de violar a una estudiante en Tomé y llevarla a una cabaña",
+   "resumen": "Un docente formalizado el martes por la violación de una estudiante en Tomé quedó en prisión preventiva, en la región del Bío Bío. Durante la tarde, el Juzgado de Garantía de esa comuna impuso la medida cautelar más gravosa al hombre, de 50 años. La decisión…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/wiki-a-1-cntxt-por-prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome_-la-habria-trasladado-a-cabana.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T09:00:29.280Z",
+   "visto": "2026-11-25T09:00:29.280Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/detienen-en-tirua-a-felipe-ancalao-ancalao-profugo-por-homicidio-del-comunero-manuel-huenupil-antileo",
+   "titulo": "Capturan en Tirúa a Felipe Ancalao, buscado por el homicidio del comunero Manuel Huenupil Antileo",
+   "resumen": "La Policía de Investigaciones (PDI) detuvo a Felipe Ancalao Ancalao en la comuna de Tirúa, provincia de Arauco, región del Bío Bío. El hombre tenía una orden de arresto vigente por su eventual responsabilidad en el homicidio del comunero mapuche Manuel…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detienen-en-tirua-a-felipe-ancalao-ancalao-profugo-por-homicidio-del-comunero-manuel-huenupil-antileo.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T09:00:29.280Z",
+   "visto": "2026-11-25T09:00:29.280Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/25/videos-reportan-barricadas-incendiarias-y-enfrentamientos-con-carabineros-frente-a-udec-en-concepcion",
+   "titulo": "VIDEOS | Incendios y choques con Carabineros marcan incidentes frente a la UdeC en Concepción",
+   "resumen": "La tarde de este martes se levantaron barricadas incendiarias en las afueras de la Universidad de Concepción (UdeC), en la capital de la región del Bío Bío. Hasta ahora, se ha informado de al menos cuatro detenidos. De acuerdo con antecedentes de Radio Bío…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/rbb-por-videos_-reportan-barricadas-incendiarias-y-enfrentamientos-con-carabineros-frente-a-udec-en-concepcion.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-25T09:00:29.280Z",
+   "visto": "2026-11-25T09:00:29.280Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/25/robo-a-bci-fiscal-jefe-del-bio-bio-desmiente-a-seremi-y-niega-haber-informado-avances-en-indagatoria",
    "titulo": "Robo a BCI: Fiscal jefe del Biobío rechaza dichos de la Seremi sobre avances de la investigación",
@@ -1437,20 +1479,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/23/recorrido-carnaval-talcahuano-2026.html",
-   "titulo": "Comienza este domingo: conoce el recorrido del Carnaval de Talcahuano 2026",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2023/01/carnaval-de-talcahuano.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T18:50:20.275Z",
-   "visto": "2026-11-23T18:50:20.275Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/morados-y-acereros-quien-gano-con-el-empate-en-cap.html",
    "titulo": "Morados y acereros: ¿Quién ganó con el empate en CAP?",
    "resumen": "Técnicos Fernando Díaz y Jaime García se refirieron al 0-0 en el puerto que dejó a Deportes Concepción a un punto de copas internacionales y a Huachipato en el puesto 11 de la tabla.",
@@ -1461,20 +1489,6 @@
    "visto": "2026-11-23T18:40:20.395Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/23/fiscalia-tiene-linea-de-indagacion-mas-precisa-sobre-robo-de-8-500-millones-desde-banco-en-concepcion.shtml",
-   "titulo": "Fiscalía tiene línea de indagación más precisa sobre robo de $8.500 millones desde banco en Concepción",
-   "resumen": "La Fiscalía tiene una línea de investigación más precisa sobre el millonario robo de $8.500 millones al Banco BCI hace...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029311-robo-banco-concepcion-4.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-23T18:29:06.000Z",
-   "visto": "2026-11-23T18:30:25.105Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
