@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T15:30:26.013Z",
+ "generado": "2026-11-26T15:40:15.051Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 67,
+    "enlaces": 150,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,55 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 3,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/larrivey-38-goles-en-el-leon-114-en-chile-y-283-en-una-carrera-sonada.html",
+   "titulo": "Larrivey: 38 goles en el “León”, 114 en Chile y 283 en una carrera soñada",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/08/Deportes-Concepci%C3%B3n-X-Deportes-Concepci%C3%B3n.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T15:40:15.051Z",
+   "visto": "2026-11-26T15:40:15.051Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/joven-de-19-anos-muere-tras-ser-atropellada-por-un-bus-en-la-ruta-160-en-san-pedro-de-la-paz",
+   "titulo": "San Pedro de la Paz: Joven de 19 años muere tras ser atropellada por bus en Ruta 160",
+   "resumen": "Una joven de 19 años falleció durante esta jornada tras ser atropellada por un bus en la comuna de San Pedro de la Paz, en la región del Bío Bío. El fatal accidente se registró en la Ruta 160, específicamente a la altura de la intersección con Avenida Los…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-26-at-12.32.13-e1795707192197.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T15:40:15.051Z",
+   "visto": "2026-11-26T15:40:15.051Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/sociedad-agricola-del-bio-bio-y-decision-de-iansa-lo-mas-grave-es-dejar-de-sembrar-remolacha",
+   "titulo": "Sociedad Agrícola del Bío Bío advierte sobre el impacto de la decisión de Iansa en el cultivo de remolacha",
+   "resumen": "El presidente de la Sociedad Agrícola del Bío Bío, José Miguel Stegmaier, expresó su pesar por la decisión de Iansa de poner fin a la producción de azúcar de remolacha y alertó sobre el efecto que tendrá en el sector agrícola. La medida también provocó…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/sociedad-agricola-del-bio-bio-y-decision-de-iansa_-_lo-mas-grave_-es-dejar-de-sembrar-remolacha-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T15:40:15.051Z",
+   "visto": "2026-11-26T15:40:15.051Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/mujer-muere-tras-ser-atropellada-por-bus-en-la-ruta-160-en-san-pedro-de-la-paz.shtml",
    "titulo": "Mujer muere tras ser atropellada por bus en la Ruta 160 en San Pedro de la Paz",
@@ -465,20 +507,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/el-leon-versus-la-u-dos-de-los-mejores-equipos-de-la-segunda-rueda.html",
-   "titulo": "El “León” versus la “U”: dos de los mejores equipos de la segunda rueda",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-18-UChile-vs-Deportes-Concepcion-foto-Comunicaciones-Deportes-Concepci%C3%B3n-e1795653008138.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/municipio-concepcion-querellas-vandalismo-plaza-peru.html",
    "titulo": "Municipio de Concepción se querellará por actos vandálicos en Plaza Perú",
    "resumen": "Confirman acciones judiciales contra los seis detenidos por los daños a baldosas, hormigón y estructuras instaladas en el espacio público. Vecinos y locatarios cuestionaron el actuar de Carabineros durante los incidentes.",
@@ -490,6 +518,20 @@
    "cats": [
     "regional",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/el-leon-versus-la-u-dos-de-los-mejores-equipos-de-la-segunda-rueda.html",
+   "titulo": "El “León” versus la “U”: dos de los mejores equipos de la segunda rueda",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-18-UChile-vs-Deportes-Concepcion-foto-Comunicaciones-Deportes-Concepci%C3%B3n-e1795653008138.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1031,20 +1073,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/siete-de-la-zona-entre-los-mejores-del-ano-que-posibilidades-tienen-de-ganar.html",
-   "titulo": "Siete de la zona entre los mejores del año: ¿Qué posibilidades tienen de ganar?",
-   "resumen": "Nominación al \"Once Ideal\" de la temporada futbolera incluye 2 figuras de Huachipato y 5 de D. Concepción. Tres de ellos son delanteros y en el arco habrá pelea entre el \"1\" lila y su vecino acerero.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-37-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T15:40:22.292Z",
-   "visto": "2026-11-25T15:40:22.292Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/biobio-4404-familias-egresan-programa-fosis.html",
    "titulo": "Más de 4.400 familias del Biobío finalizaron programa de acompañamiento tras inversión de $2.970 millones",
    "resumen": "El programa llegó a hogares del 40% más vulnerable del Registro Social de Hogares.",
@@ -1055,6 +1083,20 @@
    "visto": "2026-11-25T15:40:22.292Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/siete-de-la-zona-entre-los-mejores-del-ano-que-posibilidades-tienen-de-ganar.html",
+   "titulo": "Siete de la zona entre los mejores del año: ¿Qué posibilidades tienen de ganar?",
+   "resumen": "Nominación al \"Once Ideal\" de la temporada futbolera incluye 2 figuras de Huachipato y 5 de D. Concepción. Tres de ellos son delanteros y en el arco habrá pelea entre el \"1\" lila y su vecino acerero.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-37-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:40:22.292Z",
+   "visto": "2026-11-25T15:40:22.292Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1115,20 +1157,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/senado-despacha-ley-sala-cuna-universal.html",
-   "titulo": "Fin al límite de 20 mujeres por empresa: proyecto de Sala Cuna Universal queda listo para ser promulgado",
-   "resumen": "La normativa establece un aporte del 0,30% con cargo al empleador y un sistema de suplementos estatales según el Registro Social de Hogares.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-sala-cuna-universal-foto-cc-1-e1795656396478.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T15:00:00.000Z",
-   "visto": "2026-11-26T01:30:26.584Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027.html",
    "titulo": "Presidente Kast valora despacho de Sala Cuna Universal y Presupuesto 2027 en mensaje a la nación: “Cuando Chile se une, Chile cumple”",
    "resumen": "En un mensaje emitido la noche de este miércoles, el Presidente José Antonio Kast celebró la aprobación en el Congreso de la Ley de Sala Cuna Universal y del Presupuesto 2027.",
@@ -1137,6 +1165,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-25T15:00:00.000Z",
    "visto": "2026-11-26T01:20:20.843Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/senado-despacha-ley-sala-cuna-universal.html",
+   "titulo": "Fin al límite de 20 mujeres por empresa: proyecto de Sala Cuna Universal queda listo para ser promulgado",
+   "resumen": "La normativa establece un aporte del 0,30% con cargo al empleador y un sistema de suplementos estatales según el Registro Social de Hogares.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-sala-cuna-universal-foto-cc-1-e1795656396478.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:00:00.000Z",
+   "visto": "2026-11-26T01:30:26.584Z",
    "cats": [
     "politica"
    ],
@@ -1465,34 +1507,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-25T09:30:25.243Z",
    "visto": "2026-11-25T09:30:25.243Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/acusan-al-director-de-mejor-ninez-en-bio-bio-de-exponer-en-un-acto-estando-con-licencia-medica",
-   "titulo": "Acusan al director de Mejor Niñez en Bío Bío de exponer en un acto estando con licencia médica",
-   "resumen": "Trabajadores de Mejor Niñez en la región acusan una posible falta de probidad administrativa del director regional (s), Elías Ramos. Su asociación gremial sostiene que el profesional expuso en una actividad institucional pese a tener licencia médica. La…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ELIAS-RAMOS-MEJOR-NINEZ-.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T09:20:20.694Z",
-   "visto": "2026-11-25T09:20:20.694Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/el-puente-juan-pablo-ii-tendra-un-reemplazo-ya-se-analiza-un-nuevo-viaducto-sobre-el-bio-bio",
-   "titulo": "El puente Juan Pablo II tendrá un reemplazo: ya se analiza un nuevo viaducto sobre el Bío Bío",
-   "resumen": "Ya se inició el estudio de prefactibilidad para reemplazar el puente Juan Pablo II, la estructura de 52 años que cruza el río Bío Bío y que sufrió serios daños tras el terremoto. Es decir, se está evaluando si construir un nuevo viaducto es viable, antes de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/05/juan-pablo-ii.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T09:20:20.694Z",
-   "visto": "2026-11-25T09:20:20.694Z",
    "cats": [
     "regional"
    ],
