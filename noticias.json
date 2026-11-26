@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T11:20:19.617Z",
+ "generado": "2026-11-26T11:40:20.796Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 56,
+    "enlaces": 152,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -331,6 +331,20 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-26T07:14:33.000Z",
    "visto": "2026-11-26T11:20:19.617Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/26/exportaciones-de-nuble-totalizaron-5451-millones-de-dolares-durante-el-tercer-trimestre-de-2026/",
+   "titulo": "Exportaciones de Ñuble totalizaron $545,1 millones de dólares durante el tercer trimestre de 2026",
+   "resumen": "El Instituto Nacional de Estadísticas (INE) dio a conocer las cifras de exportaciones de la Región de Ñuble correspondientes al tercer trimestre de 2026, las que totalizaron US$545,1 millones y crecieron un 14,0% en comparación al mismo periodo del 2025.…",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/exportaciones-nuble-2026-768x513.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-26T07:12:00.000Z",
+   "visto": "2026-11-26T11:40:20.796Z",
    "cats": [
     "regional"
    ],
@@ -1508,20 +1522,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-25T04:13:59.000Z",
    "visto": "2026-11-25T04:20:19.844Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/detienen-en-tirua-a-felipe-ancalao-ancalao-profugo-por-homicidio-del-comunero-manuel-huenupil-antileo.shtml",
-   "titulo": "Detienen en Tirúa a Felipe Ancalao Ancalao, prófugo por homicidio del comunero Manuel Huenupil Antileo",
-   "resumen": "La Policía de Investigaciones (PDI) concretó la captura de Felipe Ancalao Ancalao en la comuna de Tirúa, provincia de Arauco,...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7031322-detienen-en-tirua-a-felipe-ancalao-ancalao-profugo-por-homicidio-del-comunero-manuel-huenupil-antileo.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-25T03:40:28.000Z",
-   "visto": "2026-11-25T03:40:19.212Z",
    "cats": [
     "regional"
    ],
