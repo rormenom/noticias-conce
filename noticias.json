@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T11:40:20.796Z",
+ "generado": "2026-11-26T11:50:20.008Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 57,
+    "enlaces": 153,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 12,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/cantautor-poeta-valdiviano-camilo-eque-presentara-nuevo-album-galope-teatro-lihuen.html",
+   "titulo": "Artista valdiviano Camilo Eque presentará hoy su nuevo álbum “Galope” en Teatro Lihuén",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-Camilo-Eque-e1795653272338.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T11:50:20.008Z",
+   "visto": "2026-11-26T11:50:20.008Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/26/seremi-ctci-el-acuerdo-no-autoriza-a-openai-a-acceder-a-bases-de-datos-del-estado-ni-datos-de-los-chilenos.html",
+   "titulo": "Seremi CTCI: “El acuerdo no autoriza a OpenAI a acceder a bases de datos del Estado ni datos de los chilenos”",
+   "resumen": "Pedro Ramírez, autoridad regional del Ministerio de Ciencia, abordó los alcances de convenio suscrito con OpenAI.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-10-openAI-foto-cc.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T11:50:20.008Z",
+   "visto": "2026-11-26T11:50:20.008Z",
+   "cats": [
+    "tecnologia",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/minvu-anuncia-reapertura-de-avenida-padre-hurtado-y-mejora-la-conectividad-vial-entre-concepcion-y-chiguayante/",
    "titulo": "Minvu anuncia reapertura de avenida Padre Hurtado y mejora la conectividad vial entre Concepción y Chiguayante",
@@ -1443,10 +1472,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/25/teatro-biobio-vecinas-poblacion-aurora-de-chile-presentan-audio-recorrido-aurora-ecos-del-rio.html",
-   "titulo": "Teatro Biobío y vecinas de la población Aurora de Chile presentan el audio-recorrido “Aurora, ecos del río”",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-TBB-e1795568837512.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/25/reencuentro-publico-penquista-nico-ruiz-llega-con-gira-instinto-teatro-udec.html",
+   "titulo": "Reencuentro con el público penquista: Nico Ruiz llega con su gira “Instinto” al escenario del Teatro UdeC",
+   "resumen": "Tras su presentación en el Festival REC 2026, y un aplaudido show en el Teatro Oriente de Santiago, el cantante penquista regresará a su ciudad natal para desplegar un concierto cargado de temas propios y versiones de algunos de los artistas que han marcado…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-e1795568783196.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-25T08:40:25.404Z",
@@ -1457,10 +1486,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/25/reencuentro-publico-penquista-nico-ruiz-llega-con-gira-instinto-teatro-udec.html",
-   "titulo": "Reencuentro con el público penquista: Nico Ruiz llega con su gira “Instinto” al escenario del Teatro UdeC",
-   "resumen": "Tras su presentación en el Festival REC 2026, y un aplaudido show en el Teatro Oriente de Santiago, el cantante penquista regresará a su ciudad natal para desplegar un concierto cargado de temas propios y versiones de algunos de los artistas que han marcado…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-e1795568783196.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/25/teatro-biobio-vecinas-poblacion-aurora-de-chile-presentan-audio-recorrido-aurora-ecos-del-rio.html",
+   "titulo": "Teatro Biobío y vecinas de la población Aurora de Chile presentan el audio-recorrido “Aurora, ecos del río”",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-TBB-e1795568837512.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-25T08:40:25.404Z",
