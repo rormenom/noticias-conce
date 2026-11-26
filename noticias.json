@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T10:30:25.966Z",
+ "generado": "2026-11-26T10:40:29.651Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
+    "enlaces": 34,
     "leidas": 13,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/familia-de-daysi-jaramillo-clama-por-ayuda-tras-mas-de-un-mes-de-busqueda-en-san-pedro-de-la-paz",
+   "titulo": "Familia de Daysi Jaramillo clama por ayuda tras más de un mes de búsqueda en San Pedro de la Paz",
+   "resumen": "La familia de Daysi Jaramillo Lecerf, mujer y madre de 40 años desaparecida desde el 20 de octubre en San Pedro de la Paz, pidió la intervención de las autoridades para encontrarla lo antes posible. Los parientes ya agotaron sus recursos personales para…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/DAISY.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T10:40:29.651Z",
+   "visto": "2026-11-26T10:40:29.651Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/26/violencia-digital-que-dice-la-ley-chilena-y-donde-denunciar-si-manipulan-tus-imagenes-con-ia",
    "titulo": "Violencia digital: qué dice la ley chilena y dónde denunciar si manipulan tus imágenes con IA",
@@ -1513,20 +1527,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/mop-adjudica-estudio-nuevo-puente-reemplazo-juan-pablo-ii.html",
-   "titulo": "MOP adjudica estudio para proyectar nuevo puente sobre el río Biobío que reemplazará al Juan Pablo II",
-   "resumen": "La consultoría analizará la factibilidad técnica, económica, social y ambiental de una nueva estructura en el eje Alessandri ante el término de la vida útil y las restricciones de carga del actual viaducto.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/mop-adjudica-estudio-nuevo-puente-reemplazo-juan-pablo-ii-e1795553199183.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T20:50:21.200Z",
-   "visto": "2026-11-24T20:50:21.200Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/11/24/teatro-biobio-cierra-el-ano-con-danza-funcion-gratuita-de-espiral-y-debut-del-ballet-nacional-chileno.shtml",
    "titulo": "Teatro Biobío cierra el año con danza: función gratuita de Espiral y debut del Ballet Nacional Chileno",
    "resumen": "Con 41 años de trayectoria, la Compañía de Danza Espiral llevará a 17 intérpretes a escena con Folie. Una semana después, el Ballet Nacional Chileno presentará De una luz a otra, la obra con que Mathieu Guilhaumon cerró sus trece años como director artístico…",
@@ -2483,20 +2483,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-21T10:50:21.561Z",
    "visto": "2026-11-21T10:50:21.561Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/laguna-chica-de-san-pedro-recibe-a-los-mejores-del-remo-master-nacional.html",
-   "titulo": "Laguna Chica de San Pedro recibe a los mejores del Remo Master nacional",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/remo-master.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T10:40:23.516Z",
-   "visto": "2026-11-21T10:40:23.516Z",
    "cats": [
     "deportes"
    ],
