@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T16:40:20.713Z",
+ "generado": "2026-11-26T16:50:21.753Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 66,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 4,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/joven-muere-atropellada-ruta-160.html",
+   "titulo": "Joven de 19 años murió atropellada por bus en la Ruta 160 en San Pedro de la Paz",
+   "resumen": "Conductor de bus quedó detenido tras atropello.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/934959417_1467147818083168_1728981611473866334_n.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T16:50:21.753Z",
+   "visto": "2026-11-26T16:50:21.753Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/decretan-prision-preventiva-para-dueno-de-automotora-hdr-tras-ser-formalizado-por-26-casos-de-estafa",
+   "titulo": "Decretan prisión preventiva para dueño de automotora HDR tras ser formalizado por 26 casos de estafa",
+   "resumen": "El Juzgado de Garantía decretó la prisión preventiva de Reinaldo Larajara, propietario de la automotora HDR, tras ser formalizado por el delito de estafa reiterada. Los afectados corresponden a personas que pagaron por vehículos adaptados para personas con…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-26-at-12.57.16-PM-e1795711350959.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T16:50:21.753Z",
+   "visto": "2026-11-26T16:50:21.753Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/parte-estudio-de-prefactibilidad-para-reemplazar-el-puente-juan-pablo-ii-en-el-gran-concepcion.shtml",
    "titulo": "Parte estudio de prefactibilidad para reemplazar el puente Juan Pablo II en el Gran Concepción",
@@ -492,20 +520,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/ola-calor-biobio-temperaturas-autocuidado-infraestructura-verde.html",
-   "titulo": "Ola de calor: se esperan hasta 32 °C y expertos llaman a reforzar autocuidado e infraestructura verde",
-   "resumen": "Personas mayores, niños pequeños y pacientes con enfermedades crónicas están entre los grupos más vulnerables. Especialistas entregaron recomendaciones para prevenir complicaciones de salud y destacaron el rol de la vegetación en la regulación de las…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-mujer-tomando-agua-foto-carolina-e1795652803377.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
    "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
    "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
@@ -516,6 +530,20 @@
    "visto": "2026-11-26T08:40:22.866Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/ola-calor-biobio-temperaturas-autocuidado-infraestructura-verde.html",
+   "titulo": "Ola de calor: se esperan hasta 32 °C y expertos llaman a reforzar autocuidado e infraestructura verde",
+   "resumen": "Personas mayores, niños pequeños y pacientes con enfermedades crónicas están entre los grupos más vulnerables. Especialistas entregaron recomendaciones para prevenir complicaciones de salud y destacaron el rol de la vegetación en la regulación de las…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-mujer-tomando-agua-foto-carolina-e1795652803377.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1492,20 +1520,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-25T11:10:20.497Z",
    "visto": "2026-11-25T11:10:20.497Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/talcahuano-parte-su-carnaval-con-siete-murgas-y-una-semana-de-desfiles-por-los-barrios",
-   "titulo": "Talcahuano parte su carnaval con siete murgas y una semana de desfiles por los barrios",
-   "resumen": "La playa El Morro fue el escenario del arranque de las celebraciones por los 262 años de Talcahuano. Con música y baile, la comuna puerto inauguró su carnaval aniversario frente a cientos de personas, y allí se presentaron las siete murgas, agrupaciones…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-16.08.07.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T10:40:20.767Z",
-   "visto": "2026-11-25T10:40:20.767Z",
    "cats": [
     "regional"
    ],
