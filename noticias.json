@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T17:50:20.644Z",
+ "generado": "2026-11-26T18:00:28.371Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 152,
     "leidas": 66,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/prision-preventiva-para-dueno-de-automotora-que-habria-estafado-a-30-discapacitados-en-el-bio-bio.shtml",
+   "titulo": "Prisión preventiva para dueño de automotora que habría estafado a 30 discapacitados en el Bío Bío",
+   "resumen": "En prisión preventiva quedó Reinaldo Lara Jara, dueño de la automotora HDR, imputado por estafas reiteradas relacionadas con la...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7033509-prision-preventiva-para-dueno-de-automotora-que-habria-estafado-a-30-discapacitados-en-el-bio-bio-1.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-26T17:56:36.000Z",
+   "visto": "2026-11-26T18:00:28.371Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/11/26/cantera-nomade-ii-encuentro-latinoamericano-de-ceramistas-se-realizara-en-concepcion.shtml",
    "titulo": "Cantera Nómade: II Encuentro Latinoamericano de Ceramistas se realizará en Concepción",
@@ -1530,20 +1544,6 @@
    "titulo": "Acusan a directora de salud de Los Ángeles de recibir asignación millonaria que no le correspondía",
    "resumen": "La Central Unitaria de Trabajadores (CUT) de la provincia de Bío Bío denunció el retiro discrecional de las asignaciones del artículo 45 a funcionarios de la salud municipal de Los Ángeles. Los dirigentes también acusan a la directora del servicio comunal de…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/MARTA-ARAVENA-SALUD-LOS-ANGELES-.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T11:10:20.497Z",
-   "visto": "2026-11-25T11:10:20.497Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/reagendan-para-marzo-el-juicio-a-medico-venezolana-por-mamografias-falsas-en-el-bio-bio",
-   "titulo": "Reagendan para marzo el juicio a médico venezolana por mamografías falsas en el Bío Bío",
-   "resumen": "El Tribunal Oral de Concepción reprogramó para el 8 de marzo el juicio contra la médico venezolana Carmen Martínez, acusada en el caso Novakimen. El inicio estaba fijado originalmente para el 31 de diciembre próximo. La Fiscalía solicita 6 años de cárcel para…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/09/archiv-a-1-por-novakimen-mas-de-mil-ecografias-falsas_-dueno-de-novakimen-evita-juicio-oral-y-fiscalia-ofrece-5-anos-de-carcel.png",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-25T11:10:20.497Z",
