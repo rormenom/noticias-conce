@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T00:00:28.464Z",
+ "generado": "2026-11-26T00:10:19.355Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 155,
     "leidas": 56,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/25/joaquin-larrivey-anuncia-su-adios-a-deportes-concepcion-duelo-ante-la-u-sera-su-ultimo-de-local.shtml",
+   "titulo": "Joaquín Larrivey anuncia su adiós a Deportes Concepción: duelo ante La U será su último de local",
+   "resumen": "El experimentado delantero de Deportes Concepción, Joaquín Larrivey, anunció este miércoles su adiós al elenco penquista a través de una...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032609-joaquin-larrivey-en-deportes-concepcion.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-26T00:04:15.000Z",
+   "visto": "2026-11-26T00:10:19.355Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/joaquin-larrivey-anuncia-ultimo-partido-concepcion.html",
    "titulo": "Figura lila se despide del Ester Roa: Joaquín Larrivey jugará su último encuentro en casa frente a Universidad de Chile",
