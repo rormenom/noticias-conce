@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T08:50:22.005Z",
+ "generado": "2026-11-26T09:20:20.928Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 56,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,42 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 32,
-    "leidas": 12,
+    "enlaces": 33,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/seis-detenidos-y-destrozos-en-la-plaza-peru-tras-una-protesta-en-el-centro-de-concepcion",
+   "titulo": "Seis detenidos y destrozos en la Plaza Perú tras una protesta en el centro de Concepción",
+   "resumen": "Seis personas fueron detenidas, dos de ellas menores de edad, tras una protesta en el centro de Concepción que terminó con disturbios en el frontis de la Universidad de Concepción y con daños en las obras de la Plaza Perú. La manifestación se realizó durante…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-25-at-07.38.26-1.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T09:20:20.928Z",
+   "visto": "2026-11-26T09:20:20.928Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/bio-bio-presenta-17-propuestas-para-enfrentar-la-crisis-de-empleo-y-recuperar-9-mil-puestos-perdidos",
+   "titulo": "Bío Bío presenta 17 propuestas para enfrentar la crisis de empleo y recuperar 9 mil puestos perdidos",
+   "resumen": "El Gobierno Regional del Bío Bío y una mesa de expertos presentaron a los gremios productivos de la región 17 propuestas para generar empleo, ordenadas en seis ejes. El objetivo es enfrentar la crisis laboral que afecta a la zona. Entre las medidas figuran…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/08/IMAGEN-DESEMPLEO-e1788191822888.webp",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T09:20:20.928Z",
+   "visto": "2026-11-26T09:20:20.928Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/ola-calor-biobio-temperaturas-autocuidado-infraestructura-verde.html",
    "titulo": "Ola de calor: se esperan hasta 32 °C y expertos llaman a reforzar autocuidado e infraestructura verde",
@@ -1493,34 +1521,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T19:50:23.733Z",
    "visto": "2026-11-24T19:50:23.733Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/comite-regional-de-infraestructura-define-23-proyectos-prioritarios-para-destrabar-y-acelerar-iniciativas/",
-   "titulo": "Comité Regional de Infraestructura define 23 proyectos prioritarios para destrabar y acelerar iniciativas",
-   "resumen": "Con el objetivo de fortalecer la coordinación entre los distintos […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/mop-reactivacion-768x512.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-24T19:35:50.000Z",
-   "visto": "2026-11-24T19:40:26.939Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/24/camaras-trampa-captan-a-tres-huemules-juveniles-en-sectores-cordilleranos-del-bio-bio",
-   "titulo": "Cámaras trampa captan a tres huemules juveniles en sectores cordilleranos del Bío Bío",
-   "resumen": "El hallazgo se produjo en sectores cercanos al Parque Nacional Laguna del Laja que no habían sido monitoreados anteriormente. El registro permitirá fortalecer las estrategias de conservación de una especie cuya población en Chile central se encuentra en…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/plantilla-1920x1080-97-1536x864-1-e1795547771814.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-24T19:30:28.523Z",
-   "visto": "2026-11-24T19:30:28.523Z",
    "cats": [
     "regional"
    ],
