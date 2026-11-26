@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T09:20:20.928Z",
+ "generado": "2026-11-26T09:30:27.000Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 14,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/bio-bio-registra-dos-femicidios-consumados-este-ano-la-misma-cifra-de-2025",
+   "titulo": "Bío Bío registra dos femicidios consumados este año: la misma cifra de 2025",
+   "resumen": "En el marco del Día Internacional de la Eliminación de la Violencia contra la Mujer, que se conmemora cada 25 de noviembre, la seremi de la Mujer y la Equidad de Género de la región del Bío Bío, Michelle Vera, hizo un balance del año. El Ministerio de la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2021/03/violencia.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T09:30:27.000Z",
+   "visto": "2026-11-26T09:30:27.000Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/26/seis-detenidos-y-destrozos-en-la-plaza-peru-tras-una-protesta-en-el-centro-de-concepcion",
    "titulo": "Seis detenidos y destrozos en la Plaza Perú tras una protesta en el centro de Concepción",
@@ -1507,20 +1521,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T20:00:32.207Z",
    "visto": "2026-11-24T20:00:32.207Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/restringen-quemas-controladas-biobio-2.html",
-   "titulo": "Por vientos y altas temperaturas: restringen uso del fuego para quemas controladas en Biobío",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2025/11/Conaf-proh%C3%ADbe-quemas-controladas-en-el-Biob%C3%ADo-multas-llegan-hasta-50-UTM-e1763067346302.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T19:50:23.733Z",
-   "visto": "2026-11-24T19:50:23.733Z",
    "cats": [
     "regional"
    ],
