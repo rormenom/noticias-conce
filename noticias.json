@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T21:40:19.878Z",
+ "generado": "2026-11-26T22:00:26.011Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 63,
+    "enlaces": 152,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -2637,20 +2637,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-22T01:33:39.000Z",
    "visto": "2026-11-22T01:40:20.769Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/un-2026-lila-el-invicto-de-este-ano-de-deportes-concepcion-sobre-huachipato.html",
-   "titulo": "Un 2026 lila: el invicto de este año de Deportes Concepción sobre Huachipato",
-   "resumen": "El León y los Acereros han jugado 4 veces este año y los de Talcahuano, locales mañana, jamás han podido ganar.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Aldrix-Jara-Deportes-Concepci%C3%B3n-vs-Huachipato-foto-carolina-e1794357998303.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T22:00:25.594Z",
-   "visto": "2026-11-21T22:00:25.594Z",
    "cats": [
     "deportes"
    ],
