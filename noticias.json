@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T18:10:20.811Z",
+ "generado": "2026-11-26T18:20:20.930Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 19,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/empleo-360-biobio-sistema-inversion.html",
+   "titulo": "Empleo 360: nuevo sistema conectará inversión del Biobío con oportunidades reales de trabajo",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/10/pag-12-Desempleo-regional-llega-del-bio-bio-foto-contexto.jpg-e1793407690686.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T18:20:20.930Z",
+   "visto": "2026-11-26T18:20:20.930Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/26/dr-daniel-villarroel-lanzo-libro-sobre-liderazgo-educativo-en-contextos-vulnerables.html",
    "titulo": "Dr. Daniel Villarroel lanzó libro sobre liderazgo educativo en contextos vulnerables",
@@ -1534,20 +1548,6 @@
    "fuente": "El Conquistador",
    "fuenteId": "conquistador",
    "fecha": "2026-11-25T11:13:50.000Z",
-   "visto": "2026-11-25T11:20:22.829Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/presentan-a-gremios-propuestas-para-enfrentar-crisis-estructural-de-empleo/",
-   "titulo": "Presentan a gremios propuestas para enfrentar crisis estructural de empleo",
-   "resumen": "La mesa de expertos sobre el empleo, convocada por el […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/image00008-768x512.jpeg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-25T11:13:06.000Z",
    "visto": "2026-11-25T11:20:22.829Z",
    "cats": [
     "regional"
