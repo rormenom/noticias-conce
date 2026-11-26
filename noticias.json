@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T19:30:25.436Z",
+ "generado": "2026-11-26T19:40:19.540Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 65,
+    "enlaces": 152,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/navidad-consumo-presupuesto-2026.html",
+   "titulo": "Navidad más austera: 43% de los consumidores gastará menos en regalos este año",
+   "resumen": "El presupuesto promedio para regalos bajó a $117.300, según encuesta de la CNC.",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/12/Compras-navide%C3%B1as-Navidad-comercio-Concepci%C3%B3n-e1766521517983.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T19:40:19.540Z",
+   "visto": "2026-11-26T19:40:19.540Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/nueva-costanera-a-chiguayante-alcanza-un-90-de-avance-y-proyectan-habilitarla-en-diciembre",
+   "titulo": "Nueva Costanera a Chiguayante alcanza un 90% de avance y proyectan habilitarla en diciembre",
+   "resumen": "Desde el Ministerio de Obras Públicas señalaron que las obras se encuentran en su etapa final, con trabajos de demarcación, alumbrado público y la construcción de un mirador frente al río Bío Bío. Cerca de un 90% de avance registran las obras de la nueva…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/COSTANERA-CHIGUAYANTE.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T19:40:19.540Z",
+   "visto": "2026-11-26T19:40:19.540Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/26/prevencion-de-incendios-trabajos-de-cortafuegos-alcanzan-un-75-de-avance-en-el-bio-bio",
    "titulo": "Prevención de incendios: trabajos de cortafuegos alcanzan un 75% de avance en el Bío Bío",
