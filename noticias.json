@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T21:20:19.719Z",
+ "generado": "2026-11-26T21:40:19.878Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 151,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/en-el-transporte-publico-y-con-codigo-qr-lanzan-campana-talcahuano-se-mueve-sin-violencia.html",
+   "titulo": "En el transporte público y con código QR: lanzan campaña “Talcahuano se mueve sin violencia”",
+   "resumen": "La iniciativa busca entregar información y orientación a la comunidad en general sobre la violencia de género, usando el transporte público y un código QR para hacer llegar el mensaje.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-25-at-6.34.07-PM-e1795728640742.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T21:40:19.878Z",
+   "visto": "2026-11-26T21:40:19.878Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/festival-leufu-teatro-biobio-artistas-gratis.html",
    "titulo": "Festival Leufü celebrará su tercera edición gratuita en el estacionamiento del Teatro Biobío",
@@ -1515,20 +1529,6 @@
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-25T15:40:22.292Z",
-   "visto": "2026-11-25T15:40:22.292Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/concurso-de-foto-relatos-conmemora-los-diez-anos-del-eje-central-del-campus-udec-como-monumento-nacional/",
-   "titulo": "Concurso de foto-relatos conmemora los diez años del Eje Central del Campus UdeC como Monumento Nacional",
-   "resumen": "Con motivo del décimo aniversario de la declaratoria del Eje […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/05/foto_generica_udec-768x458.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-25T15:34:44.000Z",
    "visto": "2026-11-25T15:40:22.292Z",
    "cats": [
     "regional"
