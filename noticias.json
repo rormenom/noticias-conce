@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T09:50:19.934Z",
+ "generado": "2026-11-26T10:20:20.345Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 56,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,41 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 12,
+    "leidas": 14,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/tres-hombres-en-prision-preventiva-por-asesinatos-en-el-gran-concepcion-menor-de-15-queda-internado",
+   "titulo": "Tres hombres en prisión preventiva por asesinatos en el Gran Concepción; menor de 15 queda internado",
+   "resumen": "Tres hombres de 19, 23 y 37 años quedaron privados de libertad mientras avanza la investigación por distintos asesinatos cometidos en el Gran Concepción. A ellos se suma un adolescente de 15 años, a quien se le atribuyen un intento de homicidio y delitos…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/imputado-prision-preventiva-incendio-casa-pareja-durmiendo-fresia.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T10:20:20.345Z",
+   "visto": "2026-11-26T10:20:20.345Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/busqueda-de-pescador-en-canete-suma-nuevas-medidas-tras-resultados-negativos-familia-pide-mas-equipos",
+   "titulo": "Búsqueda de pescador en Cañete suma nuevas medidas tras resultados negativos: familia pide más equipos",
+   "resumen": "El pescador artesanal Richard Fuentes Órdenes, de 33 años, sigue sin aparecer en Cañete, en la Provincia de Arauco. Cayó al agua el pasado domingo en la boca del río Paicaví, mientras trabajaba, y la búsqueda no ha dado resultados. Su familia pidió a las…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-26-a-las-7.14.42%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T10:20:20.345Z",
+   "visto": "2026-11-26T10:20:20.345Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/26/bio-bio-registra-dos-femicidios-consumados-este-ano-la-misma-cifra-de-2025",
    "titulo": "Bío Bío registra dos femicidios consumados este año: la misma cifra de 2025",
@@ -1493,34 +1521,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T20:30:25.426Z",
    "visto": "2026-11-24T20:30:25.426Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/buses-tucapel-puzzle-boletos.html",
-   "titulo": "Con lugares icónicos de Concepción: Buses Tucapel lanzará su último puzzle de boletos este jueves",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-36-1.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T20:20:26.147Z",
-   "visto": "2026-11-24T20:20:26.147Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/caminata-animalista-biobio-proteccion-animales-esterilizacion.html",
-   "titulo": "Agrupaciones animalistas del Biobío marcharán por protección y apoyo para los animales",
-   "resumen": "La tercera versión de la caminata reunirá a organizaciones y rescatistas independientes de Concepción y sus alrededores.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-24-at-15.28.15.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T20:00:32.207Z",
-   "visto": "2026-11-24T20:00:32.207Z",
    "cats": [
     "regional"
    ],
