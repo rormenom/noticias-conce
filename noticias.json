@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T15:40:15.051Z",
+ "generado": "2026-11-26T15:50:20.749Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 150,
-    "leidas": 63,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 6,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/panoramas-cilturales-proximos-dias-gran-concepcion-miscelanea-agenda.html",
+   "titulo": "Estos son los principales panoramas culturales para los próximos días en el Gran Concepción",
+   "resumen": "Teatro, cine, música y más es lo que trae la agenda cultural penquista para cerrar noviembre y partir diciembre con interesantes propuestas artísticas.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/VIERNES-1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T15:50:20.749Z",
+   "visto": "2026-11-26T15:50:20.749Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/larrivey-38-goles-en-el-leon-114-en-chile-y-283-en-una-carrera-sonada.html",
    "titulo": "Larrivey: 38 goles en el “León”, 114 en Chile y 283 en una carrera soñada",
@@ -464,20 +478,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/ola-calor-biobio-temperaturas-autocuidado-infraestructura-verde.html",
-   "titulo": "Ola de calor: se esperan hasta 32 °C y expertos llaman a reforzar autocuidado e infraestructura verde",
-   "resumen": "Personas mayores, niños pequeños y pacientes con enfermedades crónicas están entre los grupos más vulnerables. Especialistas entregaron recomendaciones para prevenir complicaciones de salud y destacaron el rol de la vegetación en la regulación de las…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-mujer-tomando-agua-foto-carolina-e1795652803377.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
    "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
    "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
@@ -488,6 +488,20 @@
    "visto": "2026-11-26T08:40:22.866Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/ola-calor-biobio-temperaturas-autocuidado-infraestructura-verde.html",
+   "titulo": "Ola de calor: se esperan hasta 32 °C y expertos llaman a reforzar autocuidado e infraestructura verde",
+   "resumen": "Personas mayores, niños pequeños y pacientes con enfermedades crónicas están entre los grupos más vulnerables. Especialistas entregaron recomendaciones para prevenir complicaciones de salud y destacaron el rol de la vegetación en la regulación de las…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-mujer-tomando-agua-foto-carolina-e1795652803377.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
