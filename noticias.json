@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T00:30:25.086Z",
+ "generado": "2026-11-26T01:20:20.843Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 56,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -643,6 +643,20 @@
    "visto": "2026-11-25T15:20:23.768Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027.html",
+   "titulo": "Presidente Kast valora despacho de Sala Cuna Universal y Presupuesto 2027 en mensaje a la nación: “Cuando Chile se une, Chile cumple”",
+   "resumen": "En un mensaje emitido la noche de este miércoles, el Presidente José Antonio Kast celebró la aprobación en el Congreso de la Ley de Sala Cuna Universal y del Presupuesto 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027-2.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:00:00.000Z",
+   "visto": "2026-11-26T01:20:20.843Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -1974,20 +1988,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/carlos-pena-critica-gestion-kast-renuncias-gobierno-prensa-regional.html",
-   "titulo": "“La política es un arte de hipocresía”: Carlos Peña aborda el homenaje a Ho Chi Minh y las renuncias en el Gobierno",
-   "resumen": "El rector de la UDP analizó la gestión de Kast, las dificultades para conformar equipos de Gobierno, la relación entre política y ejercicio del poder, y el papel de los medios regionales en la construcción de una opinión pública informada.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.04.21.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T08:40:21.730Z",
-   "visto": "2026-11-23T08:40:21.730Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/campeones-despues-de-los-75-mas-vivos-que-nunca-bajo-el-aro.html",
    "titulo": "Campeones después de los 75: más vivos que nunca bajo el aro",
    "resumen": "Equipo de Maxiconce es el mejor de Chile por séptima vez. Un ejemplo de amor por el deporte, disciplina, compañerismo y mucho esfuerzo porque ya no trabajan, pero igualmente deben costearse cada viaje.",
@@ -1998,6 +1998,20 @@
    "visto": "2026-11-23T08:40:21.730Z",
    "cats": [
     "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/carlos-pena-critica-gestion-kast-renuncias-gobierno-prensa-regional.html",
+   "titulo": "“La política es un arte de hipocresía”: Carlos Peña aborda el homenaje a Ho Chi Minh y las renuncias en el Gobierno",
+   "resumen": "El rector de la UDP analizó la gestión de Kast, las dificultades para conformar equipos de Gobierno, la relación entre política y ejercicio del poder, y el papel de los medios regionales en la construcción de una opinión pública informada.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.04.21.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-23T08:40:21.730Z",
+   "visto": "2026-11-23T08:40:21.730Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
