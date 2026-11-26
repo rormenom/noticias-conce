@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-26T13:40:20.739Z",
+ "generado": "2026-11-26T13:50:20.012Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -60,8 +61,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 63,
+    "enlaces": 153,
+    "leidas": 66,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +75,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/udec-conmemoro-dia-internacional-de-la-eliminacion-de-la-violencia-contra-la-mujer-con-actividades-en-los-3-campus/",
+   "titulo": "UdeC conmemoró Día Internacional de la Eliminación de la Violencia contra la Mujer con actividades en los 3 campus",
+   "resumen": "El teatro, el diálogo y la creación colectiva fueron parte […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Acto-central-25N-Dia-Internacional-de-la-Eliminacion-de-la-Violencia-hacia-la-Mujer-768x512.webp",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-26T13:46:24.000Z",
+   "visto": "2026-11-26T13:50:20.012Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/canete-sigue-busqueda-de-pescador-artesanal-que-desaparecio-en-desembocadura-de-rio-paicavi.shtml",
    "titulo": "Cañete: sigue búsqueda de pescador artesanal que desapareció en desembocadura de río Paicaví",
@@ -295,6 +310,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
+   "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
+   "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-25-at-4.28.43-PM-e1795653042182.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/ola-calor-biobio-temperaturas-autocuidado-infraestructura-verde.html",
    "titulo": "Ola de calor: se esperan hasta 32 °C y expertos llaman a reforzar autocuidado e infraestructura verde",
    "resumen": "Personas mayores, niños pequeños y pacientes con enfermedades crónicas están entre los grupos más vulnerables. Especialistas entregaron recomendaciones para prevenir complicaciones de salud y destacaron el rol de la vegetación en la regulación de las…",
@@ -334,20 +363,6 @@
    "visto": "2026-11-26T08:40:22.866Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
-   "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
-   "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-25-at-4.28.43-PM-e1795653042182.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   },
