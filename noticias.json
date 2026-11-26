@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T01:50:19.658Z",
+ "generado": "2026-11-26T08:30:26.183Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 56,
+    "leidas": 55,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/26/cazadores-de-galaxias-equipo-de-astronomia-udec-llevo-la-ciencia-a-escolares-de-tome.html",
+   "titulo": "“Cazadores de Galaxias: equipo de Astronomía UdeC llevó la ciencia a escolares de Tomé",
+   "resumen": "En el Liceo Vicente Palacios se desarrolló el proyecto de extensión que incluyó una\r\ncharla de divulgación y talleres.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-cazadores-de-galaxias-llevo-la-ciencia-a-escolares-de-Tom%C3%A9-foto-cedida-Astronom%C3%ADa-UdeC-e1795657475335.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:30:26.183Z",
+   "visto": "2026-11-26T08:30:26.183Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/25/joaquin-larrivey-anuncia-su-adios-a-deportes-concepcion-duelo-ante-la-u-sera-su-ultimo-de-local.shtml",
    "titulo": "Joaquín Larrivey anuncia su adiós a Deportes Concepción: duelo ante La U será su último de local",
