@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T22:00:26.011Z",
+ "generado": "2026-11-26T22:10:21.241Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 64,
+    "enlaces": 151,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/consultas-documentos-patrimoniales-biobio-santiago-despidos-serpat.html",
+   "titulo": "Consultas y acceso a documentos patrimoniales del Biobío se atenderán en Santiago tras despido de equipo local",
+   "resumen": "Desde la Seremi de las Culturas del Biobío confirmaron a Diario Concepción que cinco trabajadores de la zona forman parte de los 38 despidos notificados a nivel nacional por el Serpat.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Servicio-Nacional-del-Patrimonio-Cultural-foto-captura-de-imagen.jpg-e1795730400860.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T22:10:21.241Z",
+   "visto": "2026-11-26T22:10:21.241Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/en-el-transporte-publico-y-con-codigo-qr-lanzan-campana-talcahuano-se-mueve-sin-violencia.html",
    "titulo": "En el transporte público y con código QR: lanzan campaña “Talcahuano se mueve sin violencia”",
@@ -1536,20 +1550,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027.html",
-   "titulo": "Presidente Kast valora despacho de Sala Cuna Universal y Presupuesto 2027 en mensaje a la nación: “Cuando Chile se une, Chile cumple”",
-   "resumen": "En un mensaje emitido la noche de este miércoles, el Presidente José Antonio Kast celebró la aprobación en el Congreso de la Ley de Sala Cuna Universal y del Presupuesto 2027.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027-2.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T15:00:00.000Z",
-   "visto": "2026-11-26T01:20:20.843Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/senado-despacha-ley-sala-cuna-universal.html",
    "titulo": "Fin al límite de 20 mujeres por empresa: proyecto de Sala Cuna Universal queda listo para ser promulgado",
    "resumen": "La normativa establece un aporte del 0,30% con cargo al empleador y un sistema de suplementos estatales según el Registro Social de Hogares.",
@@ -1558,6 +1558,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-25T15:00:00.000Z",
    "visto": "2026-11-26T01:30:26.584Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027.html",
+   "titulo": "Presidente Kast valora despacho de Sala Cuna Universal y Presupuesto 2027 en mensaje a la nación: “Cuando Chile se une, Chile cumple”",
+   "resumen": "En un mensaje emitido la noche de este miércoles, el Presidente José Antonio Kast celebró la aprobación en el Congreso de la Ley de Sala Cuna Universal y del Presupuesto 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027-2.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:00:00.000Z",
+   "visto": "2026-11-26T01:20:20.843Z",
    "cats": [
     "politica"
    ],
