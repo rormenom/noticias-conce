@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T09:30:27.000Z",
+ "generado": "2026-11-26T09:50:19.934Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 55,
+    "enlaces": 155,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -96,10 +96,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/seis-detenidos-y-destrozos-en-la-plaza-peru-tras-una-protesta-en-el-centro-de-concepcion",
-   "titulo": "Seis detenidos y destrozos en la Plaza Perú tras una protesta en el centro de Concepción",
-   "resumen": "Seis personas fueron detenidas, dos de ellas menores de edad, tras una protesta en el centro de Concepción que terminó con disturbios en el frontis de la Universidad de Concepción y con daños en las obras de la Plaza Perú. La manifestación se realizó durante…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-25-at-07.38.26-1.jpeg",
+   "url": "https://www.canal9.cl/episodios/2026/11/26/bio-bio-presenta-17-propuestas-para-enfrentar-la-crisis-de-empleo-y-recuperar-9-mil-puestos-perdidos",
+   "titulo": "Bío Bío presenta 17 propuestas para enfrentar la crisis de empleo y recuperar 9 mil puestos perdidos",
+   "resumen": "El Gobierno Regional del Bío Bío y una mesa de expertos presentaron a los gremios productivos de la región 17 propuestas para generar empleo, ordenadas en seis ejes. El objetivo es enfrentar la crisis laboral que afecta a la zona. Entre las medidas figuran…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/08/IMAGEN-DESEMPLEO-e1788191822888.webp",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-26T09:20:20.928Z",
@@ -110,10 +110,10 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/bio-bio-presenta-17-propuestas-para-enfrentar-la-crisis-de-empleo-y-recuperar-9-mil-puestos-perdidos",
-   "titulo": "Bío Bío presenta 17 propuestas para enfrentar la crisis de empleo y recuperar 9 mil puestos perdidos",
-   "resumen": "El Gobierno Regional del Bío Bío y una mesa de expertos presentaron a los gremios productivos de la región 17 propuestas para generar empleo, ordenadas en seis ejes. El objetivo es enfrentar la crisis laboral que afecta a la zona. Entre las medidas figuran…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/08/IMAGEN-DESEMPLEO-e1788191822888.webp",
+   "url": "https://www.canal9.cl/episodios/2026/11/26/seis-detenidos-y-destrozos-en-la-plaza-peru-tras-una-protesta-en-el-centro-de-concepcion",
+   "titulo": "Seis detenidos y destrozos en la Plaza Perú tras una protesta en el centro de Concepción",
+   "resumen": "Seis personas fueron detenidas, dos de ellas menores de edad, tras una protesta en el centro de Concepción que terminó con disturbios en el frontis de la Universidad de Concepción y con daños en las obras de la Plaza Perú. La manifestación se realizó durante…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-25-at-07.38.26-1.jpeg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-26T09:20:20.928Z",
