@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T18:20:20.930Z",
+ "generado": "2026-11-26T18:30:27.445Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 154,
     "leidas": 65,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/superpensiones-fondos-matrices.html",
+   "titulo": "Fondos generacionales: Superintendencia de Pensiones publica propuesta para regular inversiones de AFP",
+   "resumen": "La propuesta busca facilitar el paso desde los multifondos al sistema de fondos generacionales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2024/12/pag-8-pago-de-pensiones-foto-raphael-e1735614161497.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T18:30:27.445Z",
+   "visto": "2026-11-26T18:30:27.445Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/empleo-360-biobio-sistema-inversion.html",
    "titulo": "Empleo 360: nuevo sistema conectará inversión del Biobío con oportunidades reales de trabajo",
@@ -1537,20 +1551,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/25/decretan-prision-preventiva-para-profesor-acusado-de-violar-a-alumna-en-tome/",
-   "titulo": "Decretan prisión preventiva para profesor acusado de violar a alumna en Tomé",
-   "resumen": "Serán tres meses de investigación.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Foto-Profesor-Tome-300x198.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-25T11:13:50.000Z",
-   "visto": "2026-11-25T11:20:22.829Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
