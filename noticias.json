@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T19:00:29.918Z",
+ "generado": "2026-11-26T19:30:25.436Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
+    "enlaces": 154,
     "leidas": 65,
     "errores": 0,
     "robots": 0
@@ -73,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
+    "enlaces": 34,
     "leidas": 5,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/prevencion-de-incendios-trabajos-de-cortafuegos-alcanzan-un-75-de-avance-en-el-bio-bio",
+   "titulo": "Prevención de incendios: trabajos de cortafuegos alcanzan un 75% de avance en el Bío Bío",
+   "resumen": "El Ministerio de Obras Públicas comprometió la intervención de 800 kilómetros de carreteras y caminos rurales en la región, mientras que Conaf mantiene cerca de 16 comunas priorizadas por la recurrencia de incendios forestales. En el marco de los preparativos…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/G7FzLiUXgAAip4n.jpg__1200x630_q85_ALIAS-og_image_crop_subsampling-2.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T19:30:25.436Z",
+   "visto": "2026-11-26T19:30:25.436Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/conaf-y-mop-proyectan-mas-de-1-200-kilometros-de-cortafuegos-en-biobio/",
+   "titulo": "CONAF y MOP proyectan más de 1.200 kilómetros de cortafuegos en Biobío",
+   "resumen": "Un total de 1.262,9 kilómetros de Obras de Eliminación de […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-26-at-2.53.18-PM-768x432.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-26T19:28:00.000Z",
+   "visto": "2026-11-26T19:30:25.436Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/26/remolacheros-lamentan-fin-de-produccion-de-azucar-de-remolacha-en-iansa-y-alertan-por-impacto-laboral",
    "titulo": "Remolacheros lamentan el cierre de la producción de azúcar de remolacha de Iansa y advierten sobre su impacto laboral",
@@ -477,6 +505,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/cantautor-poeta-valdiviano-camilo-eque-presentara-nuevo-album-galope-teatro-lihuen.html",
+   "titulo": "Artista valdiviano Camilo Eque presentará hoy su nuevo álbum “Galope” en Teatro Lihuén",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-Camilo-Eque-e1795653272338.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T11:50:20.008Z",
+   "visto": "2026-11-26T11:50:20.008Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/26/seremi-ctci-el-acuerdo-no-autoriza-a-openai-a-acceder-a-bases-de-datos-del-estado-ni-datos-de-los-chilenos.html",
    "titulo": "Seremi CTCI: “El acuerdo no autoriza a OpenAI a acceder a bases de datos del Estado ni datos de los chilenos”",
    "resumen": "Pedro Ramírez, autoridad regional del Ministerio de Ciencia, abordó los alcances de convenio suscrito con OpenAI.",
@@ -488,20 +530,6 @@
    "cats": [
     "tecnologia",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/cantautor-poeta-valdiviano-camilo-eque-presentara-nuevo-album-galope-teatro-lihuen.html",
-   "titulo": "Artista valdiviano Camilo Eque presentará hoy su nuevo álbum “Galope” en Teatro Lihuén",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-Camilo-Eque-e1795653272338.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T11:50:20.008Z",
-   "visto": "2026-11-26T11:50:20.008Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   },
@@ -1535,20 +1563,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/25/mop-adjudica-estudio-para-proyectar-nuevo-puente-sobre-el-rio-biobio/",
-   "titulo": "MOP adjudica estudio para proyectar nuevo puente sobre el río Biobío",
-   "resumen": "Que reemplazará al actual Juan Pablo II",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/JP-II-768x432.jpeg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-25T12:19:10.000Z",
-   "visto": "2026-11-25T14:30:27.111Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
