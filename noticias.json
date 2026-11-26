@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T17:20:21.049Z",
+ "generado": "2026-11-26T17:30:29.933Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 65,
+    "enlaces": 153,
+    "leidas": 66,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/11/26/cantera-nomade-ii-encuentro-latinoamericano-de-ceramistas-se-realizara-en-concepcion.shtml",
+   "titulo": "Cantera Nómade: II Encuentro Latinoamericano de Ceramistas se realizará en Concepción",
+   "resumen": "Del 5 al 8 de diciembre 2026 se realizará la segunda edición de <strong>Cantera Nómade</strong> en la <strong>Escuela Lagos de Chile</strong>, barrio Collao, y otros espacios de este sector de <strong>Concepción</strong>.",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7033484-cantera-nomade-2.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-26T17:23:17.000Z",
+   "visto": "2026-11-26T17:30:29.933Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/fernandez-vial-balance-proyeccion-2027.html",
    "titulo": "Vial jugará 2027 en El Morro y busca técnico para ascender",
