@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T20:10:21.259Z",
+ "generado": "2026-11-26T20:20:25.885Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 65,
+    "enlaces": 151,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 5,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/problema-tecnico-operacional-obliga-a-modificar-recorridos-de-lineas-1-y-2-del-biotren",
+   "titulo": "Falla operativa obliga a cambiar los recorridos de las líneas 1 y 2 del Biotren",
+   "resumen": "Una falla técnica operacional llevó a cambiar los trayectos de las líneas 1 y 2 del Biotren durante la tarde de este jueves en el Gran Concepción. Según comunicó el servicio ferroviario, los trenes de la Línea 2, que une Coronel y Concepción, funcionarán en…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T20:20:25.885Z",
+   "visto": "2026-11-26T20:20:25.885Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/problema-tecnico-operacional-obliga-a-modificar-recorridos-de-lineas-1-y-2-del-biotren.shtml",
    "titulo": "Problema técnico operacional obliga a modificar recorridos de líneas 1 y 2 del Biotren en Concepción",
@@ -174,6 +188,20 @@
    "fuenteId": "radioudec",
    "fecha": "2026-11-26T19:28:00.000Z",
    "visto": "2026-11-26T19:30:25.436Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/26/biobio-duplica-la-incautacion-de-marihuana-elaborada-en-2026/",
+   "titulo": "Biobío duplica la incautación de marihuana elaborada en 2026",
+   "resumen": "Durante su visita a la región, la subsecretaria de Seguridad Pública, Pilar Giannini, destacó que las incautaciones de esta sustancia aumentaron un 109% respecto del mismo período de 2025.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/incautacion-canabiss-autoridades-biobio--768x432.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-26T19:18:34.000Z",
+   "visto": "2026-11-26T20:20:25.885Z",
    "cats": [
     "regional"
    ],
@@ -1502,34 +1530,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-25T14:31:47.000Z",
    "visto": "2026-11-25T14:40:23.117Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/la-participacion-de-los-napoleonicos-en-la-independencia-de-chile-y-la-llegada-de-jean-francois-de-la-perouse-a-talcahuano",
-   "titulo": "La participación de los napoleónicos en la independencia de Chile y la llegada de Jean-François de La Pérouse a Talcahuano",
-   "resumen": "Dos actividades agendadas para este miércoles 25 y jueves 26 de noviembre, invitan a los penquistas a repasar la historia y sorprenderse con los vínculos de Francia con Chile y la región del Biobío. 240 años de la llegada de La Pérouse a Talcahuano La…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/LUIS-XVI.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T14:30:27.111Z",
-   "visto": "2026-11-25T14:30:27.111Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/destrozos-en-plaza-peru-tras-violenta-jornada-de-protestas-en-concepcion-anuncian-querella.shtml",
-   "titulo": "Destrozos en Plaza Perú tras violenta jornada de protestas en Concepción: anuncian querella",
-   "resumen": "Con graves destrozos terminó la Plaza Perú tras una violenta jornada de protesta de estudiantes en Concepción, en la ...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7031678-destrozos-plaza-peru-obras-mejoramiento.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-25T14:19:26.000Z",
-   "visto": "2026-11-25T14:30:27.111Z",
    "cats": [
     "regional"
    ],
