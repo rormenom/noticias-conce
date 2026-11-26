@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T14:20:26.923Z",
+ "generado": "2026-11-26T14:40:23.989Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 153,
     "leidas": 67,
     "errores": 0,
     "robots": 0
@@ -352,20 +352,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
-   "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
-   "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-25-at-4.28.43-PM-e1795653042182.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/enap-dragado-san-vicente-rechazo-pescadores.html",
    "titulo": "Pesca artesanal pide despejar dudas sobre áreas de manejo y mitigación ante proyecto de dragado de Enap",
    "resumen": "La estatal asegura que se contemplan “medidas de control, mitigación y compensación ambientales para resguardar los ecosistemas marinos”.",
@@ -405,6 +391,20 @@
    "visto": "2026-11-26T08:40:22.866Z",
    "cats": [
     "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
+   "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
+   "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-25-at-4.28.43-PM-e1795653042182.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
     "politica"
    ],
    "local": true
