@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T10:40:29.651Z",
+ "generado": "2026-11-26T10:50:21.584Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 56,
+    "enlaces": 154,
+    "leidas": 57,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,35 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/seremi-de-justicia-defiende-que-la-polemica-carcel-de-los-angeles-se-inicio-en-el-gobierno-anterior",
+   "titulo": "Seremi de Justicia defiende que la polémica cárcel de Los Ángeles se inició en el gobierno anterior",
+   "resumen": "El seremi de Justicia y Derechos Humanos del Bío Bío, Robert Contreras, aclaró que el polémico proyecto de una nueva cárcel en Los Ángeles se inició y comenzó a tramitarse durante el gobierno de Gabriel Boric, a raíz de un requerimiento de seguridad de esa…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-26-a-las-7.40.11%E2%80%AFa.-m.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T10:50:21.584Z",
+   "visto": "2026-11-26T10:50:21.584Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/se-mantienen-irregularidades-por-extraccion-de-aridos-en-la-ribera-del-rio-bio-bio-en-hualpen.shtml",
+   "titulo": "Se mantienen irregularidades por extracción de áridos en la ribera del río Bío Bío en Hualpén",
+   "resumen": "Se mantienen las irregularidades en la extracción de áridos desde el río Bío Bío en la comuna de Hualpén, según...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032840-extraccion-aridos.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-26T10:41:17.000Z",
+   "visto": "2026-11-26T10:50:21.584Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/26/familia-de-daysi-jaramillo-clama-por-ayuda-tras-mas-de-un-mes-de-busqueda-en-san-pedro-de-la-paz",
    "titulo": "Familia de Daysi Jaramillo clama por ayuda tras más de un mes de búsqueda en San Pedro de la Paz",
@@ -1499,34 +1528,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/cambios-transito-concepcion-apertura-caleteras-viaducto.html",
-   "titulo": "Modificaciones viales en Concepción: revisa los cambios en Av. Padre Hurtado, Cochrane y Av. Prat desde este jueves",
-   "resumen": "Las modificaciones informadas por el municipio regirán de manera progresiva entre este jueves 26 y viernes 27 de noviembre.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cambios-transito-concepcion-apertura-caleteras-viaducto-5-e1795555839379.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T21:40:20.499Z",
-   "visto": "2026-11-24T21:40:20.499Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/realizan-61-fiscalizaciones-a-rellenos-sanitarios-vertederos-y-plantas-de-transferencia-en-2026.html",
-   "titulo": "Realizan 61 fiscalizaciones a rellenos sanitarios, vertederos y plantas de transferencia en 2026",
-   "resumen": "Balance regional contempla 46 inspecciones a rellenos sanitarios, 12 a vertederos y 3 a plantas de transferencia, que derivaron en dos sumarios sanitarios.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/fiscalizaci%C3%B3n.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T21:40:20.499Z",
-   "visto": "2026-11-24T21:40:20.499Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/11/24/teatro-biobio-cierra-el-ano-con-danza-funcion-gratuita-de-espiral-y-debut-del-ballet-nacional-chileno.shtml",
    "titulo": "Teatro Biobío cierra el año con danza: función gratuita de Espiral y debut del Ballet Nacional Chileno",
    "resumen": "Con 41 años de trayectoria, la Compañía de Danza Espiral llevará a 17 intérpretes a escena con Folie. Una semana después, el Ballet Nacional Chileno presentará De una luz a otra, la obra con que Mathieu Guilhaumon cerró sus trece años como director artístico…",
@@ -2443,48 +2444,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/un-vial-con-ganas-de-fiesta-a-90-minutos-del-gran-desahogo.html",
-   "titulo": "Un Vial con ganas de fiesta: a 90 minutos del gran desahogo",
-   "resumen": "Llega a Santiago con ventaja de 2-1 en la ida sobre Puente Alto, pero entendiendo que no puede ir a especular. No se logró contra Mejillones, pero el Inmortal tiene otra oportunidad y no va a dejarla pasar.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Vial-vs-Puente-Alto.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T10:50:21.561Z",
-   "visto": "2026-11-21T10:50:21.561Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/no-hay-margen-de-error-udec-sale-a-quitarse-la-soga-del-cuello.html",
-   "titulo": "No hay margen de error: UdeC sale a quitarse la soga del cuello",
-   "resumen": "Equipo de Cristián Muñoz tiene solo tres partidos para salir del fondo y arrancar del descenso. Triunfos de Cobresal y La Calera lo dejaron en último lugar antes de enfrentar hoy a Ñublense.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/UdeC-vs-%C3%91ublense.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T10:50:21.561Z",
-   "visto": "2026-11-21T10:50:21.561Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/basquet-femenino-udec-vuelve-a-casa-para-bajar-al-puntero-sportiva.html",
-   "titulo": "Basquet femenino UdeC vuelve a casa para bajar al puntero Sportiva",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/basket-UdeC-Femenina-vs-Sportiva.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T10:50:21.561Z",
-   "visto": "2026-11-21T10:50:21.561Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
