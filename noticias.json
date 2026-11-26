@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T10:20:20.345Z",
+ "generado": "2026-11-26T10:30:25.966Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 55,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 14,
+    "leidas": 13,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/violencia-digital-que-dice-la-ley-chilena-y-donde-denunciar-si-manipulan-tus-imagenes-con-ia",
+   "titulo": "Violencia digital: qué dice la ley chilena y dónde denunciar si manipulan tus imágenes con IA",
+   "resumen": "En el Día Internacional de la Eliminación de la Violencia contra la Mujer, que se conmemora este 25 de noviembre, vuelve a la conversación una pregunta incómoda: ¿las leyes chilenas han quedado cortas frente a la violencia digital? El debate se reactiva por…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/FOTOS-IA-VIOLENCIA-DIGITAL.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T10:30:25.966Z",
+   "visto": "2026-11-26T10:30:25.966Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/26/tres-hombres-en-prision-preventiva-por-asesinatos-en-el-gran-concepcion-menor-de-15-queda-internado",
    "titulo": "Tres hombres en prisión preventiva por asesinatos en el Gran Concepción; menor de 15 queda internado",
@@ -1507,20 +1521,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-24T20:50:21.200Z",
    "visto": "2026-11-24T20:50:21.200Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/esto-es-biobio-estudio-economico.html",
-   "titulo": "“Esto es Biobío”: estudio destacó orgullo regional y preocupación económica",
-   "resumen": "Los resultados dan cuenta de una evaluación negativa de la situación del empleo y un 90% considera que existen proyectos e ideas, pero falta inversión para concretarlos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-conversatorio-Esto-es-Biobio-foto-isidoro-2.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T20:30:25.426Z",
-   "visto": "2026-11-24T20:30:25.426Z",
    "cats": [
     "regional"
    ],
