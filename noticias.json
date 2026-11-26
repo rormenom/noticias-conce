@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T21:10:19.156Z",
+ "generado": "2026-11-26T21:20:19.719Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/festival-leufu-teatro-biobio-artistas-gratis.html",
+   "titulo": "Festival Leufü celebrará su tercera edición gratuita en el estacionamiento del Teatro Biobío",
+   "resumen": "El encuentro musical reunirá este domingo 29 de noviembre a cinco proyectos -entre ellos Dinastía Moon, Dulce y Agraz, Metalengua, Suaaaaaave y Bitácora Celeste- con el objetivo de acercar las creaciones locales a la comunidad y el territorio.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-26-at-18.02.44-e1795727314471.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T21:20:19.719Z",
+   "visto": "2026-11-26T21:20:19.719Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/26/reabren-padre-hurtado-poniente-en-concepcion-y-viaducto-chacabuco-se-acerca-a-su-puesta-en-servicio",
    "titulo": "Reabren Padre Hurtado Poniente en Concepción y Viaducto Chacabuco se acerca a su puesta en servicio",
