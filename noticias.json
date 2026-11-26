@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T15:20:20.788Z",
+ "generado": "2026-11-26T15:30:26.013Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 152,
     "leidas": 67,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/mujer-muere-tras-ser-atropellada-por-bus-en-la-ruta-160-en-san-pedro-de-la-paz.shtml",
+   "titulo": "Mujer muere tras ser atropellada por bus en la Ruta 160 en San Pedro de la Paz",
+   "resumen": "Una mujer murió la mañana de este jueves tras ser atropellada por un bus en la Ruta 160 en San...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7033331-ahora-288.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-26T15:30:16.000Z",
+   "visto": "2026-11-26T15:30:26.013Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/continua-busqueda-de-daysi-jaramillo-mujer-desaparecida-hace-mas-de-un-mes-en-san-pedro-de-la-paz.shtml",
+   "titulo": "Continúa búsqueda de Daysi Jaramillo, mujer desaparecida hace más de un mes en San Pedro de la Paz",
+   "resumen": "Continúa la búsqueda de Daysi Jaramillo Lecerf en San Pedro de la Paz, región del Bío Bío, mujer y madre...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7033240-busqueda-daisy-jaramillo.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-26T15:26:41.000Z",
+   "visto": "2026-11-26T15:30:26.013Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/la-otra-cara-del-empleo-estudio-analiza-como-evoluciono-la-informalidad-laboral-en-biobio/",
    "titulo": "La otra cara del empleo: Estudio analiza cómo evolucionó la informalidad laboral en Biobío",
@@ -1087,20 +1115,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027.html",
-   "titulo": "Presidente Kast valora despacho de Sala Cuna Universal y Presupuesto 2027 en mensaje a la nación: “Cuando Chile se une, Chile cumple”",
-   "resumen": "En un mensaje emitido la noche de este miércoles, el Presidente José Antonio Kast celebró la aprobación en el Congreso de la Ley de Sala Cuna Universal y del Presupuesto 2027.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027-2.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T15:00:00.000Z",
-   "visto": "2026-11-26T01:20:20.843Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/senado-despacha-ley-sala-cuna-universal.html",
    "titulo": "Fin al límite de 20 mujeres por empresa: proyecto de Sala Cuna Universal queda listo para ser promulgado",
    "resumen": "La normativa establece un aporte del 0,30% con cargo al empleador y un sistema de suplementos estatales según el Registro Social de Hogares.",
@@ -1109,6 +1123,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-25T15:00:00.000Z",
    "visto": "2026-11-26T01:30:26.584Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027.html",
+   "titulo": "Presidente Kast valora despacho de Sala Cuna Universal y Presupuesto 2027 en mensaje a la nación: “Cuando Chile se une, Chile cumple”",
+   "resumen": "En un mensaje emitido la noche de este miércoles, el Presidente José Antonio Kast celebró la aprobación en el Congreso de la Ley de Sala Cuna Universal y del Presupuesto 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027-2.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:00:00.000Z",
+   "visto": "2026-11-26T01:20:20.843Z",
    "cats": [
     "politica"
    ],
