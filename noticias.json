@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T22:30:24.020Z",
+ "generado": "2026-11-26T22:50:22.486Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 63,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/mientras-mas-reservadas-mejor-avanzan-fiscal-valencia-aborda-indagatoria-por-robo-a-bci-concepcion.shtml",
+   "titulo": "\"Mientras más reservadas, mejor avanzan\": Fiscal Valencia aborda indagatoria por robo a BCI Concepción",
+   "resumen": "Por el momento se sigue buscando a los responsables del millonario robo al Banco BCI en la sucursal de Concepción,...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7034027-agenciauno-1-1.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-26T22:47:17.000Z",
+   "visto": "2026-11-26T22:50:22.486Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/anfa-sanciona-fernandez-vial-dos-anos-suspension.html",
    "titulo": "Inédito castigo en Tercera División: ANFA suspende por dos años a Fernández Vial tras lanzamiento de bengala en Puente Alto",
@@ -1546,20 +1560,6 @@
    "visto": "2026-11-25T15:40:22.292Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/asaltan-a-carabinero-de-franco-y-le-roban-su-arma-personal-en-coronel",
-   "titulo": "Asaltan a carabinero de franco y le roban su arma personal en Coronel",
-   "resumen": "Un funcionario de Carabineros que se encontraba de franco junto a su pareja fue víctima de un asalto a mano armada durante la tarde de este martes en el sector Laguna Quiñenco, en la comuna de Coronel. Según los antecedentes que maneja la Fiscalía, la pareja…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/file_20260314155210.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T15:40:22.292Z",
-   "visto": "2026-11-25T15:40:22.292Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
