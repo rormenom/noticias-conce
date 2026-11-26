@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-26T13:50:20.012Z",
+ "generado": "2026-11-26T14:00:30.861Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": false,
-   "error": "fetch failed",
+   "ok": true,
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -61,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 66,
     "errores": 0,
     "robots": 0
@@ -74,7 +73,7 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 34,
+    "enlaces": 33,
     "leidas": 4,
     "errores": 0,
     "robots": 0
@@ -82,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/aclara-incorpora-a-alta-funcionaria-del-gobierno-de-ee-uu-para-fortalecer-su-estrategia-de-tierras-raras",
+   "titulo": "Aclara incorpora a alta funcionaria del Gobierno de EE.UU. para fortalecer su estrategia de tierras raras",
+   "resumen": "Lisa Kenna, exembajadora estadounidense en Perú y quien se desempeñó como secretaria ejecutiva del Departamento de Estado bajo el mando de Marco Rubio, asumirá un cargo directivo en la minera que impulsa el proyecto de extracción de tierras raras en Penco. La…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Diseno-sin-titulo-2-1-e1795701586802.png",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T14:00:30.861Z",
+   "visto": "2026-11-26T14:00:30.861Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/udec-conmemoro-dia-internacional-de-la-eliminacion-de-la-violencia-contra-la-mujer-con-actividades-en-los-3-campus/",
    "titulo": "UdeC conmemoró Día Internacional de la Eliminación de la Violencia contra la Mujer con actividades en los 3 campus",
@@ -1558,20 +1572,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/chiguayante-seguridad-municipal-acompana-funcionarios-cesfam-leonera.html",
-   "titulo": "Chiguayante: Seguridad Municipal acompaña en visitas domiciliarias a funcionarios de Cesfam Leonera",
-   "resumen": "El municipio comprometió asistencia a los equipos de salud tras episodio ocurrido a inicios de esta semana. En el sector hay cerca de 100 pacientes postrados que requieren estas atenciones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-cesfam-leonera-foto-facebook-municipalidad-de-chiguayante.jpg-e1795568541898.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T08:40:25.404Z",
-   "visto": "2026-11-25T08:40:25.404Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/robo-a-bci-fiscal-jefe-del-bio-bio-desmiente-a-seremi-y-niega-haber-informado-avances-en-indagatoria.shtml",
    "titulo": "Robo a BCI: Fiscal jefe del Bío Bío desmiente a Seremi y niega haber \"ventilado\" avance en indagatoria",
    "resumen": "Una nueva polémica surgió en el Bío Bío; ahora entre el Ministerio de Seguridad y la Fiscalía...",
@@ -2473,21 +2473,6 @@
    "visto": "2026-11-22T00:50:21.258Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/21/investigan-disparos-al-interior-de-galeria-ohiggins-en-pleno-centro-de-concepcion",
-   "titulo": "Investigan disparos en una galería del centro de Concepción; tres personas fueron detenidas",
-   "resumen": "La madrugada de este sábado hubo disparos dentro de un local del Centro Comercial O’Higgins, ubicado en el centro de Concepción. Funcionarios especializados de Labocar y del OS9 de Carabineros investigan lo ocurrido y realizan distintas diligencias en el…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-21T14:00:27.809Z",
-   "visto": "2026-11-21T14:00:27.809Z",
-   "cats": [
-    "regional",
-    "cultura"
    ],
    "local": true
   }
