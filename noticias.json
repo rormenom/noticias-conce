@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T18:30:27.445Z",
+ "generado": "2026-11-26T18:40:19.422Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/sala-cuna-universal-beneficiara-15-mil-mujeres-biobio.html",
+   "titulo": "Sala Cuna Universal beneficiará a más de 15 mil mujeres en el Biobío tras despacho del Congreso",
+   "resumen": "En la región 11.057 mujeres actualmente no buscan empleo por labores de cuidado y 3.949 trabajan sin contar con este derecho legal.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/sala-cuna-universal-beneficiara-15-mil-mujeres-biobio-1-e1795717521838.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T18:40:19.422Z",
+   "visto": "2026-11-26T18:40:19.422Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/superpensiones-fondos-matrices.html",
    "titulo": "Fondos generacionales: Superintendencia de Pensiones publica propuesta para regular inversiones de AFP",
