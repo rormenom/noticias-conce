@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T08:40:22.866Z",
+ "generado": "2026-11-26T08:50:22.005Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 6,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 55,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 32,
-    "leidas": 9,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
@@ -111,6 +111,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/el-leon-versus-la-u-dos-de-los-mejores-equipos-de-la-segunda-rueda.html",
+   "titulo": "El “León” versus la “U”: dos de los mejores equipos de la segunda rueda",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-18-UChile-vs-Deportes-Concepcion-foto-Comunicaciones-Deportes-Concepci%C3%B3n-e1795653008138.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
    "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
    "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
@@ -136,20 +150,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/el-leon-versus-la-u-dos-de-los-mejores-equipos-de-la-segunda-rueda.html",
-   "titulo": "El “León” versus la “U”: dos de los mejores equipos de la segunda rueda",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-18-UChile-vs-Deportes-Concepcion-foto-Comunicaciones-Deportes-Concepci%C3%B3n-e1795653008138.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   },
