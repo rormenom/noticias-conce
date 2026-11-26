@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T14:50:25.383Z",
+ "generado": "2026-11-26T15:00:29.764Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 19,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 66,
+    "enlaces": 155,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 4,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/26/tendra-uno-mas-que-este-ano-conoce-los-feriados-que-traera-el-2027.html",
+   "titulo": "Tendrá uno más que este año: conoce los feriados que traerá el 2027",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/05/feriado-chile.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-26T15:00:29.764Z",
+   "visto": "2026-11-26T15:00:29.764Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/26/biobio-toma-la-delantera-encuentro-erede-busca-cerrar-el-ano-con-una-mirada-propositiva",
    "titulo": "\"Biobío toma la delantera\": Encuentro EREDE busca cerrar el año con una mirada propositiva",
@@ -1073,6 +1087,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/seremi-salud-cierra-playa-lenga-fragata-portuguesa.html",
+   "titulo": "Cierre de playas por fragata portuguesa impacta en el turismo costero y gastronómico",
+   "resumen": "La prohibición de baño en Lenga está generando mermas en la afluencia de público a semanas del inicio de la temporada estival. Expertos advierten que el fenómeno oceanográfico podría extenderse y golpear un rubro que concentra el 15 % de los empleos…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-aerea-de-Lenga-foto-carolina.jpg-e1795568719671.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:00:00.000Z",
+   "visto": "2026-11-26T15:00:29.764Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/25/talcahuano-reconstruccion-del-mercado-alcanza-un-7-de-avance-y-proyecta-su-apertura-para-junio-de-2028",
    "titulo": "Talcahuano: reconstrucción del Mercado alcanza un 7% de avance y proyecta su apertura para junio de 2028",
    "resumen": "Las obras de reconstrucción del Mercado de Talcahuano registran un 7% de avance tras dos meses desde el inicio de los trabajos, el pasado 21 de septiembre. El alcalde de la comuna puerto, Eduardo Saavedra, destacó que la faena avanza según lo planificado y…",
@@ -1463,20 +1491,6 @@
    "titulo": "VIDEOS | Incendios y choques con Carabineros marcan incidentes frente a la UdeC en Concepción",
    "resumen": "La tarde de este martes se levantaron barricadas incendiarias en las afueras de la Universidad de Concepción (UdeC), en la capital de la región del Bío Bío. Hasta ahora, se ha informado de al menos cuatro detenidos. De acuerdo con antecedentes de Radio Bío…",
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/rbb-por-videos_-reportan-barricadas-incendiarias-y-enfrentamientos-con-carabineros-frente-a-udec-en-concepcion.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T09:00:29.280Z",
-   "visto": "2026-11-25T09:00:29.280Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome-la-habria-trasladado-a-cabana",
-   "titulo": "Decretan prisión preventiva para docente acusado de violar a una estudiante en Tomé y llevarla a una cabaña",
-   "resumen": "Un docente formalizado el martes por la violación de una estudiante en Tomé quedó en prisión preventiva, en la región del Bío Bío. Durante la tarde, el Juzgado de Garantía de esa comuna impuso la medida cautelar más gravosa al hombre, de 50 años. La decisión…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/wiki-a-1-cntxt-por-prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome_-la-habria-trasladado-a-cabana.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
    "fecha": "2026-11-25T09:00:29.280Z",
@@ -2459,34 +2473,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/colista-absoluto-la-udec-cayo-contra-nublense-y-esta-con-un-pie-en-la-b.html",
-   "titulo": "Colista absoluto: La UdeC cayó contra Ñublense y está con un pie en la B",
-   "resumen": "La Universidad de Concepción cayó de local contra los Diablos Rojos y ya derechamente necesita un milagro para no perder la categoría.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/%C3%91ublense-vs-UDeC-%C3%91ublense.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T15:00:00.000Z",
-   "visto": "2026-11-22T02:00:27.509Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/21/pesadilla-aurinegra-fernandez-vial-fue-goleado-por-puente-alto-y-se-farreo-el-ascenso.html",
-   "titulo": "Pesadilla aurinegra: Fernández Vial fue goleado por Puente Alto y se farreó el ascenso",
-   "resumen": "Los de José Zapata tenían que ganar o empatar para subir de categoría. En lugar de eso, se vuelven de Santiago con un 1-5 en contra que los condenará a otro año en Tercera B.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Fernandez-Vial-vs-Puente-Alto-foto-carolina.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-21T15:00:00.000Z",
-   "visto": "2026-11-22T00:50:21.258Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
