@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T19:40:19.540Z",
+ "generado": "2026-11-26T19:50:20.528Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/inauguran-pasarela-los-chenques-alto-biobio.html",
+   "titulo": "Habilitan pasarela peatonal sobre el río Queuco para 419 vecinos del sector Cauñicú en Alto Biobío",
+   "resumen": "La infraestructura peatonal colgante permite restablecer el tránsito seguro de 419 habitantes que anteriormente dependían de un carro que solía quedar varado durante las crecidas del cauce.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/inauguran-pasarela-los-chenques-alto-biobio-1-e1795722575562.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T19:50:20.528Z",
+   "visto": "2026-11-26T19:50:20.528Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/pelea-entre-dos-apoderadas-en-liceo-de-negrete-deja-a-una-de-ellas-herida-con-arma-blanca.shtml",
+   "titulo": "Pelea entre dos apoderadas en liceo de Negrete deja a una de ellas herida con arma blanca",
+   "resumen": "Una pelea entre dos apoderadas en el acceso de un establecimiento educacional terminó con una de ellas herida con arma...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7033765-liceo-polivalente-la-frontera-redes-sociales.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-26T19:49:16.000Z",
+   "visto": "2026-11-26T19:50:20.528Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/navidad-consumo-presupuesto-2026.html",
    "titulo": "Navidad más austera: 43% de los consumidores gastará menos en regalos este año",
@@ -1508,20 +1536,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/concepcion-vecinos-de-barrio-norte-denuncian-alza-de-robos-y-exigen-mayor-patrullaje",
-   "titulo": "Concepción: vecinos de Barrio Norte denuncian alza de robos y exigen mayor patrullaje",
-   "resumen": "Dirigentes y residentes de Barrio Norte en Concepción realizaron un punto de prensa con Canal 9 para advertir sobre un marcado aumento de los delitos y exigir mayor presencia policial y municipal en el sector. Los vecinos aseguraron que durante el último año…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-25-at-10.21.27-e1795613914455.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T13:50:29.983Z",
-   "visto": "2026-11-25T13:50:29.983Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/25/justicia-resolvera-querella-de-crespo-contra-concejala-de-puente-alto-que-lo-llamo-asesino-y-mutilador.shtml",
    "titulo": "Justicia resolverá querella de Crespo contra concejala de Puente Alto que lo llamó asesino y mutilador",
    "resumen": "En el Séptimo Juzgado de Garantía de Santiago y en un juicio simplificado se resolverá la querella del exteniente coronel...",
@@ -1532,20 +1546,6 @@
    "visto": "2026-11-25T13:20:25.839Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/chiguayante-trekking-cerro-manquimavida.html",
-   "titulo": "Chiguayante: organizan trekking nocturno en Cerro Manquimávida",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pexels-jaganjijo-8373458.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T13:00:29.970Z",
-   "visto": "2026-11-25T13:00:29.970Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
