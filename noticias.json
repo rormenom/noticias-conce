@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T14:40:23.989Z",
+ "generado": "2026-11-26T14:50:25.383Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 67,
+    "enlaces": 154,
+    "leidas": 66,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,28 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
-    "leidas": 3,
+    "enlaces": 34,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/26/biobio-toma-la-delantera-encuentro-erede-busca-cerrar-el-ano-con-una-mirada-propositiva",
+   "titulo": "\"Biobío toma la delantera\": Encuentro EREDE busca cerrar el año con una mirada propositiva",
+   "resumen": "El próximo 3 de diciembre se realizará en la región del Biobío la XXXVIII versión del Encuentro Regional de la Empresa, EREDE 2026, organizado por IRADE bajo el lema «Biobío toma la delantera». El encuentro convocará a autoridades, economistas, líderes…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/EREDE.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-26T14:50:25.383Z",
+   "visto": "2026-11-26T14:50:25.383Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/un-cardumen-de-colores-muestra-talcahuano.html",
    "titulo": "FOTOS | Muestra “Un Cardumen de Colores” promueve a artistas visuales de Talcahuano",
@@ -352,6 +366,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
+   "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
+   "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-25-at-4.28.43-PM-e1795653042182.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/enap-dragado-san-vicente-rechazo-pescadores.html",
    "titulo": "Pesca artesanal pide despejar dudas sobre áreas de manejo y mitigación ante proyecto de dragado de Enap",
    "resumen": "La estatal asegura que se contemplan “medidas de control, mitigación y compensación ambientales para resguardar los ecosistemas marinos”.",
@@ -391,20 +419,6 @@
    "visto": "2026-11-26T08:40:22.866Z",
    "cats": [
     "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
-   "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
-   "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-25-at-4.28.43-PM-e1795653042182.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
     "politica"
    ],
    "local": true
@@ -1512,20 +1526,6 @@
    "visto": "2026-11-25T08:40:25.404Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/seremi-salud-cierra-playa-lenga-fragata-portuguesa.html",
-   "titulo": "Cierre de playas por fragata portuguesa impacta en el turismo costero y gastronómico",
-   "resumen": "La prohibición de baño en Lenga está generando mermas en la afluencia de público a semanas del inicio de la temporada estival. Expertos advierten que el fenómeno oceanográfico podría extenderse y golpear un rubro que concentra el 15 % de los empleos…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-aerea-de-Lenga-foto-carolina.jpg-e1795568719671.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T08:40:25.404Z",
-   "visto": "2026-11-25T08:40:25.404Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
