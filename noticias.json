@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T20:30:28.135Z",
+ "generado": "2026-11-26T20:50:22.228Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 61,
+    "enlaces": 151,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 8,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/radiografia-de-genero-del-biobio-2026-aumenta-la-participacion-femenina-pero-persisten-brechas-en-espacios-de-decision.html",
+   "titulo": "Radiografía de Género del Biobío 2026: pese a mayor participación femenina, persisten brechas en espacios de decisión",
+   "resumen": "La medición revela que las mujeres representan el 33% de las dotaciones de las organizaciones participantes, pero ocupan solo el 23% de las gerencias de primera línea. Aunque aumentan las políticas de igualdad de género, apenas el 13% destina recursos…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Radiograf%C3%ADa-de-Genero-2026_04.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T20:50:22.228Z",
+   "visto": "2026-11-26T20:50:22.228Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/biotren-por-problemas-tecnicos-modifican-recorridos-de-las-lineas-1-y-2.html",
    "titulo": "Biotren: por problemas técnicos modifican recorridos de las líneas 1 y 2",
@@ -555,6 +569,20 @@
    "visto": "2026-11-26T14:50:25.383Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/26/escolares-de-coronel-participaron-en-clinicas-deportivas-camanchaca-lota-schwager/",
+   "titulo": "Escolares de Coronel participaron en clínicas deportivas Camanchaca-Lota Schwager",
+   "resumen": "Más de 500: La iniciativa, desarrollada entre agosto y noviembre en seis establecimientos educacionales de la comuna, buscó fomentar la vida sana, el trabajo en equipo y el vínculo con la identidad deportiva local.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/cierre-clinicas-lota-schwager-768x351.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-26T14:48:03.000Z",
+   "visto": "2026-11-26T20:50:22.228Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -1488,20 +1516,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-25T15:30:26.489Z",
    "visto": "2026-11-25T15:30:26.489Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/dia-tecnico-paramedico-tens-chile-25-noviembre.html",
-   "titulo": "De las ambulancias a los hospitales: Chile conmemora el Día del Técnico Paramédico y TENS",
-   "resumen": "El 25 de noviembre de cada año en Chile se conmemora conjuntamente a ambos técnicos de la salud, agradeciendo su compromiso y vocación por cuidar la vida y la salud de las personas en todo Chile",
-   "imagen": "https://assets.diarioconcepcion.cl/2024/11/D%C3%ADa-del-Tens.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T15:20:23.768Z",
-   "visto": "2026-11-25T15:20:23.768Z",
    "cats": [
     "regional"
    ],
