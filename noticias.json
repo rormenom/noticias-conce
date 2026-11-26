@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T16:10:21.027Z",
+ "generado": "2026-11-26T16:40:20.713Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/parte-estudio-de-prefactibilidad-para-reemplazar-el-puente-juan-pablo-ii-en-el-gran-concepcion.shtml",
+   "titulo": "Parte estudio de prefactibilidad para reemplazar el puente Juan Pablo II en el Gran Concepción",
+   "resumen": "Se inició el estudio de prefactibilidad para reemplazar el puente Juan Pablo II que une a Concepción y San Pedro...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7033385-puente-juan-pablo.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-26T16:30:30.000Z",
+   "visto": "2026-11-26T16:40:20.713Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/panoramas-cilturales-proximos-dias-gran-concepcion-miscelanea-agenda.html",
    "titulo": "Estos son los principales panoramas culturales para los próximos días en el Gran Concepción",
@@ -1509,20 +1523,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/viaducto-que-une-el-puente-bicentenario-con-avenida-chacabuco-abriria-antes-de-navidad",
-   "titulo": "Viaducto que une el puente Bicentenario con avenida Chacabuco abriría antes de Navidad",
-   "resumen": "Los automovilistas de Concepción y San Pedro de la Paz podrían estrenar antes de Navidad el nuevo viaducto de avenida Chacabuco, que se enlaza con el puente Bicentenario. Lo adelantó el seremi de Obras Públicas, José Piña. «Esperamos que sea antes de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-24-at-14.44.21.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T09:30:25.243Z",
-   "visto": "2026-11-25T09:30:25.243Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
