@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T17:40:20.411Z",
+ "generado": "2026-11-26T17:50:20.644Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 153,
     "leidas": 66,
     "errores": 0,
     "robots": 0
@@ -2540,22 +2540,6 @@
    "visto": "2026-11-21T22:00:25.594Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/eric-goles-se-puede-ser-cientifico-intelectual-y-de-exito-sin-ser-genio-ni-uniformemente-exitoso.html",
-   "titulo": "Eric Goles: “Se puede ser científico, intelectual y de éxito sin ser genio ni uniformemente exitoso”",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-9-Eric-Goles-foto-carolina-850x500.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-21T17:50:23.854Z",
-   "visto": "2026-11-21T17:50:23.854Z",
-   "cats": [
-    "regional",
-    "deportes",
-    "tecnologia"
    ],
    "local": true
   }
