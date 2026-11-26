@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T17:30:29.933Z",
+ "generado": "2026-11-26T17:40:20.411Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 155,
     "leidas": 66,
     "errores": 0,
     "robots": 0
@@ -2556,21 +2556,6 @@
     "regional",
     "deportes",
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/21/visita-del-ministro-alvarado-reaviva-expectativas-por-nombramiento-de-un-delegado-titular-en-biobio.html",
-   "titulo": "Visita del ministro Alvarado reaviva expectativas por nombramiento de un delegado titular en Biobío",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/ministro-alvarado-delegacion-biobio-850x500.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-21T17:40:05.428Z",
-   "visto": "2026-11-21T17:40:05.428Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
