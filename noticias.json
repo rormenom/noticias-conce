@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T15:50:20.749Z",
+ "generado": "2026-11-26T16:10:21.027Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 65,
+    "enlaces": 152,
+    "leidas": 66,
     "errores": 0,
     "robots": 0
    }
@@ -478,20 +478,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
-   "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
-   "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-25-at-4.28.43-PM-e1795653042182.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/ola-calor-biobio-temperaturas-autocuidado-infraestructura-verde.html",
    "titulo": "Ola de calor: se esperan hasta 32 °C y expertos llaman a reforzar autocuidado e infraestructura verde",
    "resumen": "Personas mayores, niños pequeños y pacientes con enfermedades crónicas están entre los grupos más vulnerables. Especialistas entregaron recomendaciones para prevenir complicaciones de salud y destacaron el rol de la vegetación en la regulación de las…",
@@ -502,6 +488,20 @@
    "visto": "2026-11-26T08:40:22.866Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
+   "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
+   "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-25-at-4.28.43-PM-e1795653042182.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
