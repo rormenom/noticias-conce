@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T22:10:21.241Z",
+ "generado": "2026-11-26T22:30:24.020Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/anfa-sanciona-fernandez-vial-dos-anos-suspension.html",
+   "titulo": "Inédito castigo en Tercera División: ANFA suspende por dos años a Fernández Vial tras lanzamiento de bengala en Puente Alto",
+   "resumen": "La medida responde al lanzamiento de fuegos de artificio desde la barra visitante en el duelo ante Municipal Puente Alto, proyectil que impactó al propio jugador vialino Ramiro Pavez.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fern%C3%A1ndez-Vial-e1795732102452.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T22:30:24.020Z",
+   "visto": "2026-11-26T22:30:24.020Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/consultas-documentos-patrimoniales-biobio-santiago-despidos-serpat.html",
    "titulo": "Consultas y acceso a documentos patrimoniales del Biobío se atenderán en Santiago tras despido de equipo local",
