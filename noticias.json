@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T13:10:21.052Z",
+ "generado": "2026-11-26T13:20:22.114Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 152,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -93,6 +93,20 @@
    "cats": [
     "regional",
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/26/tras-dos-anos-y-un-historico-ascenso-joaquin-larrivey-anuncia-su-salida-de-deportes-concepcion/",
+   "titulo": "Tras dos años y un histórico ascenso: Joaquín Larrivey anuncia su salida de Deportes Concepción",
+   "resumen": "Por Camilo Bravo Ortiz.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Foto-Larrivey-768x474.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-26T12:13:48.000Z",
+   "visto": "2026-11-26T13:20:22.114Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
@@ -2456,21 +2470,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-21T14:00:27.809Z",
    "visto": "2026-11-21T14:00:27.809Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/21/investigan-disparos-al-interior-de-galeria-ohiggins-en-pleno-centro-de-concepcion.shtml",
-   "titulo": "Investigan disparos al interior de galería O’Higgins, en pleno centro de Concepción",
-   "resumen": "Disparos se registraron durante la madrugada de este sábado al interior de un local del Centro Comercial O’Higgins, en...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7027647-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-21T13:11:49.000Z",
-   "visto": "2026-11-21T13:20:21.348Z",
    "cats": [
     "regional",
     "cultura"
