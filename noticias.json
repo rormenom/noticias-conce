@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T10:50:21.584Z",
+ "generado": "2026-11-26T11:20:19.617Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 57,
+    "enlaces": 153,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 13,
+    "leidas": 12,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/minvu-anuncia-reapertura-de-avenida-padre-hurtado-y-mejora-la-conectividad-vial-entre-concepcion-y-chiguayante/",
+   "titulo": "Minvu anuncia reapertura de avenida Padre Hurtado y mejora la conectividad vial entre Concepción y Chiguayante",
+   "resumen": "Una importante noticia para la conectividad vial del Gran Concepción […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/03/congestion-concepcion-768x450.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-26T11:19:20.000Z",
+   "visto": "2026-11-26T11:20:19.617Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/26/seremi-de-justicia-defiende-que-la-polemica-carcel-de-los-angeles-se-inicio-en-el-gobierno-anterior",
    "titulo": "Seremi de Justicia defiende que la polémica cárcel de Los Ángeles se inició en el gobierno anterior",
@@ -305,6 +319,20 @@
    "visto": "2026-11-26T08:30:26.183Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/26/55437/",
+   "titulo": "Anuncian reapertura de Avenida Padre Hurtado en Concepción",
+   "resumen": "Y se restablece conexión por Pedro de Valdivia hacia Chiguayante.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/apertura-caleteras-viaducto-5-850x500-1-768x452.jpeg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-26T07:14:33.000Z",
+   "visto": "2026-11-26T11:20:19.617Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1494,34 +1522,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-25T03:40:28.000Z",
    "visto": "2026-11-25T03:40:19.212Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/24/videos-reportan-barricadas-incendiarias-y-enfrentamientos-con-carabineros-frente-a-udec-en-concepcion.shtml",
-   "titulo": "VIDEOS| Reportan barricadas incendiarias y enfrentamientos con Carabineros frente a UdeC en Concepción",
-   "resumen": "Barricadas incendiarias se registraron la tarde de este martes afuera de la Universidad de Concepción (UdeC), en la capital de...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7031229-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-25T01:07:31.000Z",
-   "visto": "2026-11-25T01:10:20.646Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/24/simulacro-accidente-transito-puente-industrial.html",
-   "titulo": "Anuncian simulacro de accidente de tránsito en el ingreso al Puente Industrial para este miércoles",
-   "resumen": "El ejercicio se desarrollará a partir de las 09:00 horas en el acceso en dirección a Hualpén.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/PUENTE-INDUSTRIAL-e1795562654656.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-24T23:30:23.403Z",
-   "visto": "2026-11-24T23:30:23.403Z",
    "cats": [
     "regional"
    ],
