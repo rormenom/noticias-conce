@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T22:50:22.486Z",
+ "generado": "2026-11-26T23:00:27.912Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 64,
+    "enlaces": 152,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/seis-carreras-udec-sustentabilidad-conservacion-medioambiente.html",
+   "titulo": "Elige la UdeC y lidera el cambio hacia un futuro sustentable",
+   "resumen": "En el marco de una etapa institucional marcada por la creación de su Dirección de Sustentabilidad y proyectos como Campus Naturaleza, la Universidad de Concepción cuenta con diversas alternativas de pregrado en sus campus de Concepción, Chillán y Los Ángeles…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/campus-naturaleza-agencia-gradual-c-e1795733638764.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T23:00:27.912Z",
+   "visto": "2026-11-26T23:00:27.912Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/mientras-mas-reservadas-mejor-avanzan-fiscal-valencia-aborda-indagatoria-por-robo-a-bci-concepcion.shtml",
    "titulo": "\"Mientras más reservadas, mejor avanzan\": Fiscal Valencia aborda indagatoria por robo a BCI Concepción",
@@ -1536,20 +1550,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/biobio-4404-familias-egresan-programa-fosis.html",
-   "titulo": "Más de 4.400 familias del Biobío finalizaron programa de acompañamiento tras inversión de $2.970 millones",
-   "resumen": "El programa llegó a hogares del 40% más vulnerable del Registro Social de Hogares.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/FOTO-12.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T15:40:22.292Z",
-   "visto": "2026-11-25T15:40:22.292Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/siete-de-la-zona-entre-los-mejores-del-ano-que-posibilidades-tienen-de-ganar.html",
    "titulo": "Siete de la zona entre los mejores del año: ¿Qué posibilidades tienen de ganar?",
    "resumen": "Nominación al \"Once Ideal\" de la temporada futbolera incluye 2 figuras de Huachipato y 5 de D. Concepción. Tres de ellos son delanteros y en el arco habrá pelea entre el \"1\" lila y su vecino acerero.",
@@ -1564,20 +1564,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/senado-despacha-ley-sala-cuna-universal.html",
-   "titulo": "Fin al límite de 20 mujeres por empresa: proyecto de Sala Cuna Universal queda listo para ser promulgado",
-   "resumen": "La normativa establece un aporte del 0,30% con cargo al empleador y un sistema de suplementos estatales según el Registro Social de Hogares.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-sala-cuna-universal-foto-cc-1-e1795656396478.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T15:00:00.000Z",
-   "visto": "2026-11-26T01:30:26.584Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027.html",
    "titulo": "Presidente Kast valora despacho de Sala Cuna Universal y Presupuesto 2027 en mensaje a la nación: “Cuando Chile se une, Chile cumple”",
    "resumen": "En un mensaje emitido la noche de este miércoles, el Presidente José Antonio Kast celebró la aprobación en el Congreso de la Ley de Sala Cuna Universal y del Presupuesto 2027.",
@@ -1586,6 +1572,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-25T15:00:00.000Z",
    "visto": "2026-11-26T01:20:20.843Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/senado-despacha-ley-sala-cuna-universal.html",
+   "titulo": "Fin al límite de 20 mujeres por empresa: proyecto de Sala Cuna Universal queda listo para ser promulgado",
+   "resumen": "La normativa establece un aporte del 0,30% con cargo al empleador y un sistema de suplementos estatales según el Registro Social de Hogares.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-sala-cuna-universal-foto-cc-1-e1795656396478.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:00:00.000Z",
+   "visto": "2026-11-26T01:30:26.584Z",
    "cats": [
     "politica"
    ],
