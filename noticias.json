@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-26T01:20:20.843Z",
+ "generado": "2026-11-26T01:30:26.584Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 507",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -655,6 +656,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-25T15:00:00.000Z",
    "visto": "2026-11-26T01:20:20.843Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/senado-despacha-ley-sala-cuna-universal.html",
+   "titulo": "Fin al límite de 20 mujeres por empresa: proyecto de Sala Cuna Universal queda listo para ser promulgado",
+   "resumen": "La normativa establece un aporte del 0,30% con cargo al empleador y un sistema de suplementos estatales según el Registro Social de Hogares.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-sala-cuna-universal-foto-cc-1-e1795656396478.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:00:00.000Z",
+   "visto": "2026-11-26T01:30:26.584Z",
    "cats": [
     "politica"
    ],
