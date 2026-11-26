@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T23:30:22.595Z",
+ "generado": "2026-11-26T00:00:28.464Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 55,
+    "leidas": 56,
     "errores": 0,
     "robots": 0
    }
@@ -1090,6 +1090,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/chiguayante-seguridad-municipal-acompana-funcionarios-cesfam-leonera.html",
+   "titulo": "Chiguayante: Seguridad Municipal acompaña en visitas domiciliarias a funcionarios de Cesfam Leonera",
+   "resumen": "El municipio comprometió asistencia a los equipos de salud tras episodio ocurrido a inicios de esta semana. En el sector hay cerca de 100 pacientes postrados que requieren estas atenciones.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-cesfam-leonera-foto-facebook-municipalidad-de-chiguayante.jpg-e1795568541898.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T08:40:25.404Z",
+   "visto": "2026-11-25T08:40:25.404Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/movilizacion-colegio-profesores-biobio-presupuesto-2027.html",
    "titulo": "Docentes del Biobío se suman a movilización contra ajustes presupuestarios y eventuales recortes al sector",
    "resumen": "El profesorado advirtió por la eventual reducción de 83 mil horas docentes a nivel nacional y cuestionó los ajustes al financiamiento de la educación pública.",
@@ -1114,20 +1128,6 @@
    "visto": "2026-11-25T08:40:25.404Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/chiguayante-seguridad-municipal-acompana-funcionarios-cesfam-leonera.html",
-   "titulo": "Chiguayante: Seguridad Municipal acompaña en visitas domiciliarias a funcionarios de Cesfam Leonera",
-   "resumen": "El municipio comprometió asistencia a los equipos de salud tras episodio ocurrido a inicios de esta semana. En el sector hay cerca de 100 pacientes postrados que requieren estas atenciones.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-7-cesfam-leonera-foto-facebook-municipalidad-de-chiguayante.jpg-e1795568541898.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T08:40:25.404Z",
-   "visto": "2026-11-25T08:40:25.404Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
