@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T16:50:21.753Z",
+ "generado": "2026-11-26T17:20:21.049Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 64,
+    "enlaces": 154,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 5,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/fernandez-vial-balance-proyeccion-2027.html",
+   "titulo": "Vial jugará 2027 en El Morro y busca técnico para ascender",
+   "resumen": "César Torres, presidente de Fernández Vial, analizó esta temporada en lo deportivo y fuera de la cancha, además de proyectar un año que será complicado por el cierre del estadio Ester Roa.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Instagram-Fernandezvialcd.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T17:20:21.049Z",
+   "visto": "2026-11-26T17:20:21.049Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/joven-muere-atropellada-ruta-160.html",
    "titulo": "Joven de 19 años murió atropellada por bus en la Ruta 160 en San Pedro de la Paz",
