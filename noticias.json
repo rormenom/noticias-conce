@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-26T12:00:28.142Z",
+ "generado": "2026-11-26T12:10:19.853Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 507",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -35,7 +36,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +61,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 153,
     "leidas": 59,
     "errores": 0,
     "robots": 0
@@ -74,13 +75,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 11,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/indice-confianza-pagos-digitales.html",
+   "titulo": "Chile obtiene 74 puntos sobre 100 en el primer Índice de Confianza en Pagos Digitales",
+   "resumen": "El estudio mide la confianza de los usuarios de pagos digitales a través de cinco dimensiones. Mientras la claridad del importe final y la protección de datos encabezan las prioridades, la mayor reserva de los encuestados aparece frente a pagos ejecutados…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Resultados-Chile-Rapyd-Trust-in-DP-Index.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T12:10:19.853Z",
+   "visto": "2026-11-26T12:10:19.853Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/26/seremi-ctci-el-acuerdo-no-autoriza-a-openai-a-acceder-a-bases-de-datos-del-estado-ni-datos-de-los-chilenos.html",
    "titulo": "Seremi CTCI: “El acuerdo no autoriza a OpenAI a acceder a bases de datos del Estado ni datos de los chilenos”",
@@ -1537,20 +1552,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-25T07:14:08.000Z",
    "visto": "2026-11-25T11:40:20.136Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome-la-habria-trasladado-a-cabana.shtml",
-   "titulo": "Prisión preventiva para profesor acusado de violar a estudiante en Tomé: la habría trasladado a cabaña",
-   "resumen": "En prisión preventiva quedó un profesor formalizado el martes por la violación de una estudiante en Tomé, ...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7031222-wiki-a-1-cntxt-por-prision-preventiva-para-profesor-acusado-de-violar-a-estudiante-en-tome_-la-habria-trasladado-a-cabana.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-25T04:13:59.000Z",
-   "visto": "2026-11-25T04:20:19.844Z",
    "cats": [
     "regional"
    ],
