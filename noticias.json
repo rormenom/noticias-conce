@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T18:30:23.847Z",
+ "generado": "2026-11-27T19:00:30.519Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
-    "leidas": 63,
+    "enlaces": 156,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 27,
-    "leidas": 6,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/gamecon-fest-concepcion-feria-videojuegos-anime-horarios.html",
+   "titulo": "Diario Concepción. El Valor de la Opinión.",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/SaveClip.App_902592051_18145651390606975_4221467011568655191_n-e1795805517939-420x290.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T19:00:30.519Z",
+   "visto": "2026-11-27T19:00:30.519Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/27/red-promocion-salud-universidades.html",
    "titulo": "Con 15 casas de estudios superiores: formalizan red colaborativa por promoción de la salud",
@@ -650,20 +664,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/musico-max-tupper-llega-con-su-tour-el-verso-es-una-paloma-a-la-capital-regional.html",
-   "titulo": "Músico Max Tupper llega con su tour “El verso es una paloma” a la capital regional",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-Bernardita-Freire-e1795741859992.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/turistas-banan-caleta-lenga-fragata-portuguesa.html",
    "titulo": "Pese al cierre de playa por fragata portuguesa: turistas continúan bañándose en Caleta Lenga",
    "resumen": "Por desconocimiento, distintas personas se mantienen realizando distintas actividades recreativas en la costa. Expertos hacen un llamado a tener precaución con la especie.",
@@ -674,6 +674,20 @@
    "visto": "2026-11-27T08:40:20.233Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/musico-max-tupper-llega-con-su-tour-el-verso-es-una-paloma-a-la-capital-regional.html",
+   "titulo": "Músico Max Tupper llega con su tour “El verso es una paloma” a la capital regional",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-Bernardita-Freire-e1795741859992.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -1602,20 +1616,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-26T10:20:20.345Z",
    "visto": "2026-11-26T10:20:20.345Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/bio-bio-registra-dos-femicidios-consumados-este-ano-la-misma-cifra-de-2025",
-   "titulo": "Bío Bío registra dos femicidios consumados este año: la misma cifra de 2025",
-   "resumen": "En el marco del Día Internacional de la Eliminación de la Violencia contra la Mujer, que se conmemora cada 25 de noviembre, la seremi de la Mujer y la Equidad de Género de la región del Bío Bío, Michelle Vera, hizo un balance del año. El Ministerio de la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2021/03/violencia.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-26T09:30:27.000Z",
-   "visto": "2026-11-26T09:30:27.000Z",
    "cats": [
     "regional"
    ],
