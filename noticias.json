@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T14:40:27.142Z",
+ "generado": "2026-11-27T14:50:22.930Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 65,
+    "enlaces": 156,
+    "leidas": 67,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 4,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/after-office-finco-reunio-a-mas-de-400-personas-interesadas-en-comprar-vivienda-en-el-gran-concepcion/",
+   "titulo": "After Office Finco reunió a más de 400 personas interesadas en comprar vivienda en el Gran Concepción",
+   "resumen": "Más de 400 personas llegaron al Hotel MDS para participar […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/6658aa46-7c51-4f28-a5a6-c0c311ad43b1-768x432.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-27T14:48:25.000Z",
+   "visto": "2026-11-27T14:50:22.930Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/avenida-21-de-mayo-transito-suspendido-concepcion.html",
    "titulo": "Concepción: suspenden tránsito en corredor de transporte público de Av. 21 de Mayo por este fin de semana",
@@ -1629,20 +1643,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-25T20:50:24.404Z",
    "visto": "2026-11-25T20:50:24.404Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/corte-de-concepcion-confirma-expulsion-de-estudiante-de-odontologia-de-la-udd-que-copio-con-chatgpt",
-   "titulo": "Corte de Concepción ratifica expulsión de alumno de Odontología de la UDD por copiar con ChatGPT",
-   "resumen": "La Corte de Apelaciones de Concepción ratificó la expulsión de una alumna de Odontología de la Universidad del Desarrollo (UDD), luego de que fuera detectada usando ChatGPT para contestar una prueba presencial. El tribunal también tomó en cuenta una segunda…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-25t171123-639.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T20:40:21.250Z",
-   "visto": "2026-11-25T20:40:21.250Z",
    "cats": [
     "regional"
    ],
