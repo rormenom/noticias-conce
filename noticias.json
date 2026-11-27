@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T20:10:25.470Z",
+ "generado": "2026-11-27T20:30:25.237Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 56,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 64,
+    "enlaces": 154,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 28,
-    "leidas": 6,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
@@ -651,6 +651,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/nuevo-puente-biobio-alcaldes-alertan-plazos-ejecucion.html",
+   "titulo": "Nuevo puente sobre el Biobío: municipios valoran iniciativa pero piden garantías para su ejecución",
+   "resumen": "Tras el anuncio del estudio de prefactibilidad impulsado por el MOP, los alcaldes de Concepción y San Pedro de la Paz destacaron la necesidad de mejorar la conectividad, aunque manifestaron preocupación por los tiempos que podría tomar el desarrollo de la…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-Puente-Juan-Pablo-II-foto-carolina-e1795721344758.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/ley-sala-cuna-universal-impacto-empleo-femenino-biobio.html",
    "titulo": "Gobierno prevé que Sala Cuna facilitará ingreso laboral de 11 mil cuidadoras en el Biobío",
    "resumen": "La iniciativa beneficiará inicialmente a cerca de 15 mil mujeres en la región y tendrá una implementación gradual de cuatro años. Mientras el Observatorio Laboral proyecta un aumento del 13,5 % en la fuerza de trabajo, vecinas y sindicatos valoran el fin de…",
@@ -662,20 +676,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/nuevo-puente-biobio-alcaldes-alertan-plazos-ejecucion.html",
-   "titulo": "Nuevo puente sobre el Biobío: municipios valoran iniciativa pero piden garantías para su ejecución",
-   "resumen": "Tras el anuncio del estudio de prefactibilidad impulsado por el MOP, los alcaldes de Concepción y San Pedro de la Paz destacaron la necesidad de mejorar la conectividad, aunque manifestaron preocupación por los tiempos que podría tomar el desarrollo de la…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-Puente-Juan-Pablo-II-foto-carolina-e1795721344758.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
