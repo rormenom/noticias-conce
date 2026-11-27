@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T19:40:23.855Z",
+ "generado": "2026-11-27T19:50:21.597Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 155,
     "leidas": 64,
     "errores": 0,
     "robots": 0
@@ -2813,20 +2813,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-22T21:38:37.000Z",
    "visto": "2026-11-22T21:40:21.679Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/22/huachipato-y-deportes-concepcion-reparten-puntos-en-un-empate-que-no-le-sirve-a-nadie.html",
-   "titulo": "Huachipato y Deportes Concepción reparten puntos en un empate que no le sirve a nadie",
-   "resumen": "El Acero y el León no se hicieron daño y se quedaron cada uno con un punto que le deja en bandeja la tabla a otros equipos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_4386.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T19:50:23.648Z",
-   "visto": "2026-11-22T19:50:23.648Z",
    "cats": [
     "deportes"
    ],
