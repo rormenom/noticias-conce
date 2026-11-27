@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T18:00:28.844Z",
+ "generado": "2026-11-27T18:18:55.849Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 65,
+    "enlaces": 158,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 27,
-    "leidas": 5,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/27/vial-explica-apelacion-y-surgen-pistas-sobre-quien-tiro-la-bengala.html",
+   "titulo": "Vial explica apelación y surgen pistas sobre quién tiró la bengala",
+   "resumen": "Presidente aurinegro César Torres habló del drástico castigo de dos años sin jugar torneos Anfa y la existencia de un video que podría ayudar a encontrar al culpable. Habrá querella criminal contra el responsable.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-FernandezViasl-vs-Puente-Alto-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T18:18:55.849Z",
+   "visto": "2026-11-27T18:18:55.849Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/delegacion-del-bio-bio-remueve-y-recontrata-a-concejales-que-trabajan-en-el-programa-proempleo",
+   "titulo": "Delegación del Bío Bío desvincula y vuelve a contratar a concejales del programa Proempleo",
+   "resumen": "En cuestión de horas, la Delegación Presidencial del Bío Bío dejó sin efecto los despidos que había comunicado a tres concejales vinculados al programa Proempleo. El delegado subrogante, Juan Pablo Mellado, y uno de los ediles negaron que la determinación…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/delegacion-bio-bio.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T18:18:55.849Z",
+   "visto": "2026-11-27T18:18:55.849Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/27/es-totalmente-desmedido-fernandez-vial-busca-revertir-historica-sancion-de-anfa-y-alista-apelacion.shtml",
    "titulo": "\"Es totalmente desmedido\": Fernández Vial busca revertir histórica sanción de ANFA y alista apelación",
@@ -593,20 +622,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/27/hospital-regional-estudio-internacional-sepsis-pediatria.html",
-   "titulo": "Hospital Regional aportó en estudio internacional que evaluó magnitud de la sepsis en pediatría",
-   "resumen": "El doctor Raúl Bustos de la UCI Pediátrica del HGGB, fue coordinador nacional de proyecto para generar una base de datos para cuantificar la prevalencia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-hospital-regional-aporto-estudio-internacional-en-evaluo-magnitud-sepsis-en-pediatria-foto-HGGB-e1795741935259.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/turistas-banan-caleta-lenga-fragata-portuguesa.html",
    "titulo": "Pese al cierre de playa por fragata portuguesa: turistas continúan bañándose en Caleta Lenga",
    "resumen": "Por desconocimiento, distintas personas se mantienen realizando distintas actividades recreativas en la costa. Expertos hacen un llamado a tener precaución con la especie.",
@@ -617,6 +632,20 @@
    "visto": "2026-11-27T08:40:20.233Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/27/hospital-regional-estudio-internacional-sepsis-pediatria.html",
+   "titulo": "Hospital Regional aportó en estudio internacional que evaluó magnitud de la sepsis en pediatría",
+   "resumen": "El doctor Raúl Bustos de la UCI Pediátrica del HGGB, fue coordinador nacional de proyecto para generar una base de datos para cuantificar la prevalencia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-hospital-regional-aporto-estudio-internacional-en-evaluo-magnitud-sepsis-en-pediatria-foto-HGGB-e1795741935259.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
@@ -1565,34 +1594,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/seis-detenidos-y-destrozos-en-la-plaza-peru-tras-una-protesta-en-el-centro-de-concepcion",
-   "titulo": "Seis detenidos y destrozos en la Plaza Perú tras una protesta en el centro de Concepción",
-   "resumen": "Seis personas fueron detenidas, dos de ellas menores de edad, tras una protesta en el centro de Concepción que terminó con disturbios en el frontis de la Universidad de Concepción y con daños en las obras de la Plaza Perú. La manifestación se realizó durante…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-25-at-07.38.26-1.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-26T09:20:20.928Z",
-   "visto": "2026-11-26T09:20:20.928Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/el-leon-versus-la-u-dos-de-los-mejores-equipos-de-la-segunda-rueda.html",
-   "titulo": "El “León” versus la “U”: dos de los mejores equipos de la segunda rueda",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-18-UChile-vs-Deportes-Concepcion-foto-Comunicaciones-Deportes-Concepci%C3%B3n-e1795653008138.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
    "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
    "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
@@ -1618,6 +1619,20 @@
    "cats": [
     "regional",
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/el-leon-versus-la-u-dos-de-los-mejores-equipos-de-la-segunda-rueda.html",
+   "titulo": "El “León” versus la “U”: dos de los mejores equipos de la segunda rueda",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-18-UChile-vs-Deportes-Concepcion-foto-Comunicaciones-Deportes-Concepci%C3%B3n-e1795653008138.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
