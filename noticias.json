@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T12:40:20.396Z",
+ "generado": "2026-11-27T12:50:19.610Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 62,
+    "enlaces": 152,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/talcahuano-vecinos-de-leonor-mascayano-se-manifiestan-por-riesgo-sanitario-ante-rebalses-de-aguas-servidas",
+   "titulo": "\"Vivimos con excrementos en nuestro alrededor\": vecinos de Leonor Mascayano se manifiestan por riesgo sanitario ante rebalses",
+   "resumen": "Residentes de la población Leonor Mascayano, en la comuna de Talcahuano, volvieron a movilizarse para exigir soluciones estructurales frente a los recurrentes rebalses de aguas servidas que afectan al sector, una problemática que los habitantes denuncian…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-27-at-08.56.24-e1795780671845.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T12:50:19.610Z",
+   "visto": "2026-11-27T12:50:19.610Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/desocupacion-biobio-trimestre-agosto-octubre.html",
    "titulo": "Desocupación en Biobío alcanzó el 10,6% en el trimestre agosto-octubre",
@@ -1626,20 +1640,6 @@
    "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-38.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T20:00:28.808Z",
-   "visto": "2026-11-25T20:00:28.808Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/vecinos-de-vilumanque-presentan-querella-contra-inmobiliaria-fg-por-delitos-medioambientales-tras-inundaciones",
-   "titulo": "Vecinos de Vilumanque presentan querella contra inmobiliaria FG por delitos medioambientales tras inundaciones",
-   "resumen": "Una querella por presuntos delitos contra el medioambiente presentaron vecinos del sector Vilumanque, en Concepción, quienes responsabilizan a la inmobiliaria FG por las inundaciones que afectaron a sus viviendas durante las intensas lluvias registradas entre…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/pag-10-barro-en-toda-la-calle-foto-enrique-zamora-850x500-1-e1795636643579.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
    "fecha": "2026-11-25T20:00:28.808Z",
    "visto": "2026-11-25T20:00:28.808Z",
    "cats": [
