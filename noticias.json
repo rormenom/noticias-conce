@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T15:50:21.085Z",
+ "generado": "2026-11-27T16:00:30.190Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 66,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 3,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/retrasan-vacaciones-de-invierno-por-modificacion-de-calendario-escolar-2027-revisa-los-detalles.html",
+   "titulo": "Retrasan vacaciones de invierno por modificación de Calendario Escolar 2027: revisa los detalles",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2025/04/pag-4-jovenes-alumnos-colegio-contexto-estudiantes-foto-raphael.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T16:00:30.190Z",
+   "visto": "2026-11-27T16:00:30.190Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.radioudec.cl/caso-firmas-diputado-rivas-ps-lamento-exceso-de-confianzas-y-reconocio-danos-en-el-partido/",
+   "titulo": "«Caso Firmas»: Diputado Rivas (PS) lamentó «exceso de confianzas» y reconoció daños en el partido",
+   "resumen": "Tras la polémica instalada en el Partido Socialista a raíz […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/diputado-rivas-768x432.jpeg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-27T15:53:38.000Z",
+   "visto": "2026-11-27T16:00:30.190Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/teatro-biobio-dos-destacadas-obras-danza-contemporanea-cerrar-el-ano.html",
    "titulo": "Teatro Biobío presentará dos destacadas obras de danza contemporánea para cerrar el año",
@@ -661,20 +690,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/biotren-por-problemas-tecnicos-modifican-recorridos-de-las-lineas-1-y-2.html",
-   "titulo": "Biotren: por problemas técnicos modifican recorridos de las líneas 1 y 2",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/08/proyecto-eximir-efe-cobros-municipales-biotren-foto-carolina-e1786993776137.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T20:30:28.135Z",
-   "visto": "2026-11-26T20:30:28.135Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.canal9.cl/episodios/2026/11/26/pelea-entre-dos-apoderadas-en-liceo-de-negrete-deja-a-una-de-ellas-herida-con-arma-blanca",
    "titulo": "Una apoderada resulta herida con arma blanca tras pelea en un liceo de Negrete",
    "resumen": "Una disputa entre dos apoderadas en la entrada de un recinto educativo dejó a una de ellas con heridas provocadas por un arma blanca en la comuna de Negrete, región del Bío Bío. El incidente tuvo lugar durante esta jornada en el Liceo Polivalente La Frontera…",
@@ -695,6 +710,20 @@
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/aviso-de-altas-temperaturas.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
+   "fecha": "2026-11-26T20:30:28.135Z",
+   "visto": "2026-11-26T20:30:28.135Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/biotren-por-problemas-tecnicos-modifican-recorridos-de-las-lineas-1-y-2.html",
+   "titulo": "Biotren: por problemas técnicos modifican recorridos de las líneas 1 y 2",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/08/proyecto-eximir-efe-cobros-municipales-biotren-foto-carolina-e1786993776137.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-26T20:30:28.135Z",
    "visto": "2026-11-26T20:30:28.135Z",
    "cats": [
@@ -1606,20 +1635,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/cierre-de-produccion-de-azucar-de-remolacha-de-iansa-provoca-alarma-por-golpe-a-la-agricultura.shtml",
-   "titulo": "Cierre de producción de azúcar de remolacha de Iansa provoca alarma por golpe a la agricultura",
-   "resumen": "El anuncio del término definitivo de la producción de azúcar de remolacha de Empresas Iansa generó reacciones de pesar y...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032540-agenciauno-67.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-25T22:43:12.000Z",
-   "visto": "2026-11-25T22:50:24.222Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/congreso-despacha-ley-de-presupuestos-2027.html",
    "titulo": "Con 43 votos a favor en el Senado: Congreso despacha la Ley de Presupuestos 2027",
    "resumen": "El primer erario fiscal de la administración del presidente José Antonio Kast quedó en condiciones de ser promulgado.",
@@ -1630,20 +1645,6 @@
    "visto": "2026-11-25T22:40:21.149Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/manifestacion-feminista-se-desarrolla-en-concepcion-en-el-marco-de-la-conmemoracion-del-25n.shtml",
-   "titulo": "Manifestación feminista se desarrolla en Concepción en el marco de la conmemoración del 25N",
-   "resumen": "Durante la tarde de este miércoles se desarrolla una manifestación feminista en el centro de Concepción, en la región del...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032549-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-25T22:31:51.000Z",
-   "visto": "2026-11-25T22:40:21.149Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
