@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T21:50:20.764Z",
+ "generado": "2026-11-27T22:00:25.429Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 62,
+    "enlaces": 153,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -2787,20 +2787,6 @@
    "visto": "2026-11-22T22:10:19.297Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/joaquin-montecinos-fue-detenido-por-carabineros-tras-empate-de-concepcion",
-   "titulo": "Carabineros detuvo a Joaquín Montecinos tras el empate entre Concepción y Huachipato en Talcahuano",
-   "resumen": "Joaquín Montecinos, jugador de Deportes Concepción, fue arrestado por Carabineros después del duelo frente a Huachipato, que terminó 0-0 este domingo en Talcahuano. De acuerdo con información de La Radio, el atacante del conjunto lila fue detenido en…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/joaquin-montecinos-fue-detenido-por-carabineros-2.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T22:00:26.784Z",
-   "visto": "2026-11-22T22:00:26.784Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
