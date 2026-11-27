@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T08:40:20.233Z",
+ "generado": "2026-11-27T08:50:21.972Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 8,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 0,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/ley-sala-cuna-universal-impacto-empleo-femenino-biobio.html",
+   "titulo": "Gobierno prevé que Sala Cuna facilitará ingreso laboral de 11 mil cuidadoras en el Biobío",
+   "resumen": "La iniciativa beneficiará inicialmente a cerca de 15 mil mujeres en la región y tendrá una implementación gradual de cuatro años. Mientras el Observatorio Laboral proyecta un aumento del 13,5 % en la fuerza de trabajo, vecinas y sindicatos valoran el fin de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-sala-cuna-foto-cedida.jpg-e1795741648470.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/turistas-banan-caleta-lenga-fragata-portuguesa.html",
    "titulo": "Pese al cierre de playa por fragata portuguesa: turistas continúan bañándose en Caleta Lenga",
@@ -96,16 +111,15 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/ley-sala-cuna-universal-impacto-empleo-femenino-biobio.html",
-   "titulo": "Gobierno prevé que Sala Cuna facilitará ingreso laboral de 11 mil cuidadoras en el Biobío",
-   "resumen": "La iniciativa beneficiará inicialmente a cerca de 15 mil mujeres en la región y tendrá una implementación gradual de cuatro años. Mientras el Observatorio Laboral proyecta un aumento del 13,5 % en la fuerza de trabajo, vecinas y sindicatos valoran el fin de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-sala-cuna-foto-cedida.jpg-e1795741648470.jpeg",
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/27/biobio-discusion-presupuesto-2027.html",
+   "titulo": "Biobío: educación, obras públicas, transporte y cultura marcaron la discusión presupuestaria 2027",
+   "resumen": "El Congreso finalmente despachó la iniciativa tras restituir recursos en áreas específicas sumando flexibilidad regional y fijando compromisos de seguimiento para planes en la Región.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/presupuesto-2027-e1795743367481.png",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-27T08:40:20.233Z",
    "visto": "2026-11-27T08:40:20.233Z",
    "cats": [
-    "regional",
     "politica"
    ],
    "local": true
@@ -135,20 +149,6 @@
    "visto": "2026-11-27T08:40:20.233Z",
    "cats": [
     "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/27/biobio-discusion-presupuesto-2027.html",
-   "titulo": "Biobío: educación, obras públicas, transporte y cultura marcaron la discusión presupuestaria 2027",
-   "resumen": "El Congreso finalmente despachó la iniciativa tras restituir recursos en áreas específicas sumando flexibilidad regional y fijando compromisos de seguimiento para planes en la Región.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/presupuesto-2027-e1795743367481.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   },
