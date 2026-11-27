@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T13:00:29.846Z",
+ "generado": "2026-11-27T13:20:20.461Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 153,
-    "leidas": 64,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/desempleo-en-el-bio-bio-alcanza-el-106-supera-el-promedio-nacional-y-se-agudiza-la-perdida-de-empleo-formal",
+   "titulo": "Desempleo en el Bío Bío alcanza el 10,6%: supera el promedio nacional y se agudiza la pérdida de empleo formal",
+   "resumen": "La región registra la cuarta tasa de desempleo más alta del país. La caída de la ocupación en la industria manufacturera, las dificultades laborales entre los jóvenes y el avance de la informalidad dan cuenta de un deterioro del mercado laboral regional. El…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-16-at-11.19.42-e1794840593840-1.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T13:20:20.461Z",
+   "visto": "2026-11-27T13:20:20.461Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/27/doblete-del-basquet-udec-varones-se-coronaron-comandados-por-rivera.html",
    "titulo": "Doblete del Básquet UdeC: varones se coronaron comandados por Rivera",
@@ -1642,20 +1656,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-25T20:14:28.000Z",
    "visto": "2026-11-25T20:20:19.987Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/cisne-hualpen-habitat-natural.html",
-   "titulo": "VIDEO | Fue encontrado en Hualpén: devuelven a cisne a su hábitat natural",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-38.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T20:00:28.808Z",
-   "visto": "2026-11-25T20:00:28.808Z",
    "cats": [
     "regional"
    ],
