@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T11:10:22.104Z",
+ "generado": "2026-11-27T11:30:24.825Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 63,
+    "enlaces": 154,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/27/festival-plural-celebrara-sus-11-anos-en-la-fabrica-bellavista-oveja-tome/",
+   "titulo": "Festival Plural celebrará sus 11 años en la Fábrica Bellavista Oveja Tomé",
+   "resumen": "Por Camilo Bravo Ortiz.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Foto-Festival-Plural-768x959.jpg",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-27T11:26:47.000Z",
+   "visto": "2026-11-27T11:30:24.825Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/27/anfa-suspende-por-dos-anos-a-fernandez-vial/",
+   "titulo": "ANFA suspende por dos años a Fernández Vial",
+   "resumen": "Por incidentes con pirotecnia en Puente Alto.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/Foto-Suspension-Fernandez-Vial-768x432.webp",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-27T11:23:28.000Z",
+   "visto": "2026-11-27T11:30:24.825Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/27/un-75-de-avance-lleva-el-plan-regional-de-cortafuegos-en-el-bio-bio.shtml",
    "titulo": "Un 75% de avance lleva el Plan Regional de Cortafuegos en el Bío Bío",
