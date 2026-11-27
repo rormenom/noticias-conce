@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T10:40:24.801Z",
+ "generado": "2026-11-27T10:50:23.134Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
+    "enlaces": 158,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -2710,20 +2710,6 @@
    "visto": "2026-11-22T16:40:23.649Z",
    "cats": [
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/nublense-vencio-a-la-udec-en-el-ester-roa-y-la-hundio-en-la-liga-de-primera-campanil-es-colista",
-   "titulo": "Ñublense derrotó a la UdeC en el Ester Roa y la dejó última en La Liga de Primera",
-   "resumen": "El ‘Campanil’ no logra levantar cabeza. La UdeC perdió este sábado frente a Ñublense en el estadio Ester Roa Rebolledo y quedó en el último puesto de La Liga de Primera. El cuadro de Chillán fue un rival difícil para los locales y se llevó el triunfo por 3-2…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/udec-nublense-la-liga-de-primera.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T10:50:19.516Z",
-   "visto": "2026-11-22T10:50:19.516Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
