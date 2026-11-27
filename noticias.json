@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T17:20:19.754Z",
+ "generado": "2026-11-27T17:30:24.464Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 65,
+    "enlaces": 154,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,72 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 29,
-    "leidas": 5,
+    "enlaces": 27,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/27/deportes-concepcion-universidad-de-chile-seguridad.html",
+   "titulo": "El “Conce” contra la “U” contará con apertura anticipada de puertas y aforo de casi 25 mil hinchas locales",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/u-de-chile-vs-deportes-concepcion-Universidad-de-Chile.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T17:30:24.464Z",
+   "visto": "2026-11-27T17:30:24.464Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/20-anos-de-la-escuela-de-arquitectura-de-la-universidad-san-sebastian-innovacion-y-vinculacion-con-las-comunidades",
+   "titulo": "20 años de la escuela de arquitectura de la Universidad San Sebastián: Innovación y vinculación con las comunidades",
+   "resumen": "Con dos décadas de trayectoria, la Escuela de Arquitectura de la Universidad San Sebastián (USS) destaca en su aporte a la formación de profesionales y al desarrollo de proyectos con impacto territorial y social. Durante estos años, la carrera ha consolidado…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Casa-Colmena-5.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T17:30:24.464Z",
+   "visto": "2026-11-27T17:30:24.464Z",
+   "cats": [
+    "regional",
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/detienen-a-sujeto-que-habria-agredido-e-intentado-atropellar-a-su-expareja-en-cercanias-de-la-udec",
+   "titulo": "Arrestan a hombre acusado de agredir e intentar atropellar a su expareja cerca de la UdeC",
+   "resumen": "Carabineros de la Primera Comisaría de Concepción, en la región del Bío Bío, arrestó a un hombre acusado de golpear con una muleta e intentar atropellar a una mujer de 28 años cerca de la Universidad de Concepción, en calle Victoria. El sujeto había escapado…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/detienen-a-sujeto-que-habria-agredido-e-intentado-atropellar-a-su-expareja-en-cercanias-de-la-udec.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T17:30:24.464Z",
+   "visto": "2026-11-27T17:30:24.464Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/27/delegacion-del-bio-bio-remueve-y-recontrata-a-concejales-que-trabajan-en-el-programa-proempleo.shtml",
+   "titulo": "Delegación del Bío Bío remueve y recontrata a concejales que trabajan en el programa Proempleo",
+   "resumen": "La Delegación Presidencial del Bío Bío revirtió en sólo horas los despidos que había notificado a tres concejales que se...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7034712-delegacion-bio-bio.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-27T17:25:53.000Z",
+   "visto": "2026-11-27T17:30:24.464Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/27/de-talcahuano-a-australia-la-historia-de-chilena-que-vive-en-una-isla-donde-los-cangrejos-tienen-prioridad",
    "titulo": "De Talcahuano a Australia: la historia de chilena que vive en una isla donde los cangrejos tienen prioridad",
@@ -1550,20 +1608,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/ola-calor-biobio-temperaturas-autocuidado-infraestructura-verde.html",
-   "titulo": "Ola de calor: se esperan hasta 32 °C y expertos llaman a reforzar autocuidado e infraestructura verde",
-   "resumen": "Personas mayores, niños pequeños y pacientes con enfermedades crónicas están entre los grupos más vulnerables. Especialistas entregaron recomendaciones para prevenir complicaciones de salud y destacaron el rol de la vegetación en la regulación de las…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-mujer-tomando-agua-foto-carolina-e1795652803377.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/municipio-concepcion-querellas-vandalismo-plaza-peru.html",
    "titulo": "Municipio de Concepción se querellará por actos vandálicos en Plaza Perú",
    "resumen": "Confirman acciones judiciales contra los seis detenidos por los daños a baldosas, hormigón y estructuras instaladas en el espacio público. Vecinos y locatarios cuestionaron el actuar de Carabineros durante los incidentes.",
@@ -1589,20 +1633,6 @@
    "visto": "2026-11-26T08:30:26.183Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/26/55437/",
-   "titulo": "Anuncian reapertura de Avenida Padre Hurtado en Concepción",
-   "resumen": "Y se restablece conexión por Pedro de Valdivia hacia Chiguayante.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/apertura-caleteras-viaducto-5-850x500-1-768x452.jpeg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-26T07:14:33.000Z",
-   "visto": "2026-11-26T11:20:19.617Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1985,20 +2015,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/canottieri-se-lucio-en-nacional-de-remo-master-en-san-pedro.html",
-   "titulo": "Canottieri se lució en Nacional de Remo Master en San Pedro",
-   "resumen": "La Laguna Chica de San Pedro de la Paz recibió 229 competidores, representando a 15 clubes, y el Club Italiano se alzó como el mejor en la general después de dos días de intensa competencia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Canottieri-Italiano-e1795568960365.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T08:40:25.404Z",
-   "visto": "2026-11-25T08:40:25.404Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/25/reencuentro-publico-penquista-nico-ruiz-llega-con-gira-instinto-teatro-udec.html",
    "titulo": "Reencuentro con el público penquista: Nico Ruiz llega con su gira “Instinto” al escenario del Teatro UdeC",
    "resumen": "Tras su presentación en el Festival REC 2026, y un aplaudido show en el Teatro Oriente de Santiago, el cantante penquista regresará a su ciudad natal para desplegar un concierto cargado de temas propios y versiones de algunos de los artistas que han marcado…",
@@ -2009,6 +2025,20 @@
    "visto": "2026-11-25T08:40:25.404Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/canottieri-se-lucio-en-nacional-de-remo-master-en-san-pedro.html",
+   "titulo": "Canottieri se lució en Nacional de Remo Master en San Pedro",
+   "resumen": "La Laguna Chica de San Pedro de la Paz recibió 229 competidores, representando a 15 clubes, y el Club Italiano se alzó como el mejor en la general después de dos días de intensa competencia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Canottieri-Italiano-e1795568960365.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T08:40:25.404Z",
+   "visto": "2026-11-25T08:40:25.404Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
