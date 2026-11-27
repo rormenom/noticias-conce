@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T11:50:20.753Z",
+ "generado": "2026-11-27T12:40:20.396Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 61,
+    "enlaces": 151,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 9,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/desocupacion-biobio-trimestre-agosto-octubre.html",
+   "titulo": "Desocupación en Biobío alcanzó el 10,6% en el trimestre agosto-octubre",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/06/pag-12-foto-secundaria-cesantia-foto-raphael.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T12:40:20.396Z",
+   "visto": "2026-11-27T12:40:20.396Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/27/levantan-prohibicion-de-bano-en-playa-lenga-tras-no-hallar-presencia-de-fragata-portuguesa-en-48-horas",
    "titulo": "Autorizan el baño en playa Lenga tras 48 horas sin detectar fragatas portuguesas",
@@ -167,21 +181,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/ley-sala-cuna-universal-impacto-empleo-femenino-biobio.html",
-   "titulo": "Gobierno prevé que Sala Cuna facilitará ingreso laboral de 11 mil cuidadoras en el Biobío",
-   "resumen": "La iniciativa beneficiará inicialmente a cerca de 15 mil mujeres en la región y tendrá una implementación gradual de cuatro años. Mientras el Observatorio Laboral proyecta un aumento del 13,5 % en la fuerza de trabajo, vecinas y sindicatos valoran el fin de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-sala-cuna-foto-cedida.jpg-e1795741648470.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/27/biobio-discusion-presupuesto-2027.html",
    "titulo": "Biobío: educación, obras públicas, transporte y cultura marcaron la discusión presupuestaria 2027",
    "resumen": "El Congreso finalmente despachó la iniciativa tras restituir recursos en áreas específicas sumando flexibilidad regional y fijando compromisos de seguimiento para planes en la Región.",
@@ -206,6 +205,21 @@
    "visto": "2026-11-27T08:40:20.233Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/ley-sala-cuna-universal-impacto-empleo-femenino-biobio.html",
+   "titulo": "Gobierno prevé que Sala Cuna facilitará ingreso laboral de 11 mil cuidadoras en el Biobío",
+   "resumen": "La iniciativa beneficiará inicialmente a cerca de 15 mil mujeres en la región y tendrá una implementación gradual de cuatro años. Mientras el Observatorio Laboral proyecta un aumento del 13,5 % en la fuerza de trabajo, vecinas y sindicatos valoran el fin de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-sala-cuna-foto-cedida.jpg-e1795741648470.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "regional",
+    "politica"
    ],
    "local": true
   },
@@ -1628,20 +1642,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-25T20:00:28.808Z",
    "visto": "2026-11-25T20:00:28.808Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/los-angeles-refuerza-medidas-para-prevenir-incendios-forestales-y-anuncia-multas-por-acumulacion-de-pastizales",
-   "titulo": "Los Ángeles refuerza medidas para prevenir incendios forestales y anuncia multas por acumulación de pastizales",
-   "resumen": "Ante las altas temperaturas y las fuertes ráfagas de viento, la Municipalidad de Los Ángeles convocó a un Comité para la Gestión del Riesgo de Desastres (Cogrid) comunal, con el objetivo de reforzar las medidas preventivas frente a eventuales incendios…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/images-1-e1795635928396.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T19:50:21.710Z",
-   "visto": "2026-11-25T19:50:21.710Z",
    "cats": [
     "regional"
    ],
