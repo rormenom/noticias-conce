@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T17:40:19.076Z",
+ "generado": "2026-11-27T18:00:28.844Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
+    "enlaces": 153,
     "leidas": 65,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/27/es-totalmente-desmedido-fernandez-vial-busca-revertir-historica-sancion-de-anfa-y-alista-apelacion.shtml",
+   "titulo": "\"Es totalmente desmedido\": Fernández Vial busca revertir histórica sanción de ANFA y alista apelación",
+   "resumen": "Fernández Vial apelará a la sanción de dos años sin competir que le aplicó la ANFA tras los incidentes...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7035117-fernandez-vial-hinchas-foto-de-contexto.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-27T17:58:22.000Z",
+   "visto": "2026-11-27T18:00:28.844Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/27/fiscalia-pedira-aumentar-cautelar-para-dueno-de-empresas-talcamo-imputado-por-estafa.shtml",
+   "titulo": "Fiscalía pedirá aumentar cautelar para dueño de empresas Talcamo imputado por estafa",
+   "resumen": "La fiscal que investiga una millonaria estafa en Florida, región del Bío Bío, en relación a casi...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7035148-fiscalia.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-27T17:55:14.000Z",
+   "visto": "2026-11-27T18:00:28.844Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/27/deportes-concepcion-universidad-de-chile-seguridad.html",
    "titulo": "El “Conce” contra la “U” contará con apertura anticipada de puertas y aforo de casi 25 mil hinchas locales",
