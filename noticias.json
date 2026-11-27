@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T16:00:30.190Z",
+ "generado": "2026-11-27T16:20:21.508Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/emprendedora-angelina-gana-revolucion-maderera.html",
+   "titulo": "Emprendedora de Los Ángeles gana concurso con muebles fabricados de cartón",
+   "resumen": "La iniciativa utiliza cartón corrugado e impresión 3D para fabricar muebles modulares.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fernanda-Cid-1.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T16:20:21.508Z",
+   "visto": "2026-11-27T16:20:21.508Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/retrasan-vacaciones-de-invierno-por-modificacion-de-calendario-escolar-2027-revisa-los-detalles.html",
    "titulo": "Retrasan vacaciones de invierno por modificación de Calendario Escolar 2027: revisa los detalles",
@@ -1615,20 +1629,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-25T23:00:28.535Z",
    "visto": "2026-11-25T23:00:28.535Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/manifestacion-feminista-se-desarrolla-en-concepcion-en-el-marco-de-la-conmemoracion-del-25n",
-   "titulo": "Concepción acoge manifestación feminista por la conmemoración del 25N",
-   "resumen": "Una manifestación feminista tiene lugar la tarde de este miércoles en el centro de Concepción, región del Biobío, como parte de la conmemoración del Día Internacional de la Eliminación de la Violencia contra la Mujer. Decenas de personas participan en la…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/ahora-c9.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T22:50:24.222Z",
-   "visto": "2026-11-25T22:50:24.222Z",
    "cats": [
     "regional"
    ],
