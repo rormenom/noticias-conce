@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T17:10:21.910Z",
+ "generado": "2026-11-27T17:20:19.754Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
+    "enlaces": 57,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 64,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -73,8 +73,8 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 30,
-    "leidas": 6,
+    "enlaces": 29,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
@@ -732,6 +732,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/biotren-por-problemas-tecnicos-modifican-recorridos-de-las-lineas-1-y-2.html",
+   "titulo": "Biotren: por problemas técnicos modifican recorridos de las líneas 1 y 2",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/08/proyecto-eximir-efe-cobros-municipales-biotren-foto-carolina-e1786993776137.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T20:30:28.135Z",
+   "visto": "2026-11-26T20:30:28.135Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.canal9.cl/episodios/2026/11/26/pelea-entre-dos-apoderadas-en-liceo-de-negrete-deja-a-una-de-ellas-herida-con-arma-blanca",
    "titulo": "Una apoderada resulta herida con arma blanca tras pelea en un liceo de Negrete",
    "resumen": "Una disputa entre dos apoderadas en la entrada de un recinto educativo dejó a una de ellas con heridas provocadas por un arma blanca en la comuna de Negrete, región del Bío Bío. El incidente tuvo lugar durante esta jornada en el Liceo Polivalente La Frontera…",
@@ -752,20 +766,6 @@
    "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/aviso-de-altas-temperaturas.jpg",
    "fuente": "Canal 9",
    "fuenteId": "canal9",
-   "fecha": "2026-11-26T20:30:28.135Z",
-   "visto": "2026-11-26T20:30:28.135Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/biotren-por-problemas-tecnicos-modifican-recorridos-de-las-lineas-1-y-2.html",
-   "titulo": "Biotren: por problemas técnicos modifican recorridos de las líneas 1 y 2",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/08/proyecto-eximir-efe-cobros-municipales-biotren-foto-carolina-e1786993776137.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-26T20:30:28.135Z",
    "visto": "2026-11-26T20:30:28.135Z",
    "cats": [
@@ -2770,20 +2770,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/huachipato-y-concepcion-igualaron-por-la-liga-de-primera-arquero-del-leon-atajo-un-penal.shtml",
-   "titulo": "Huachipato y Concepción igualaron por La Liga de Primera: arquero del ’León’ atajó un penal",
-   "resumen": "No se sacaron diferencia. Huachipato y Deportes Concepción igualaron este domingo, sin goles, en duelo válido por la fecha 28...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7028264-huachipato-concepcion-la-liga-de-primera.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-22T17:12:58.000Z",
-   "visto": "2026-11-22T17:20:19.561Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
