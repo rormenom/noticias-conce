@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T18:20:21.831Z",
+ "generado": "2026-11-27T18:30:23.847Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 158,
-    "leidas": 64,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,34 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/27/red-promocion-salud-universidades.html",
+   "titulo": "Con 15 casas de estudios superiores: formalizan red colaborativa por promoción de la salud",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fotos-para-web-40.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T18:30:23.847Z",
+   "visto": "2026-11-27T18:30:23.847Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/es-totalmente-desmedido-fernandez-vial-busca-revertir-historica-sancion-de-anfa-y-alista-apelacion",
+   "titulo": "Fernández Vial apelará para revertir la histórica sanción de ANFA, que considera «totalmente desmedida»",
+   "resumen": "Fernández Vial recurrirá el castigo de dos años sin competir impuesto por la ANFA luego de los incidentes frente a Municipal Puente Alto. El partido por el ascenso a Tercera División tuvo que ser suspendido antes de tiempo después de que se lanzara pirotecnia…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/fernandez-vial-hinchas-foto-de-contexto.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T18:30:23.847Z",
+   "visto": "2026-11-27T18:30:23.847Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/27/fiscalia-pedira-aumentar-cautelar-para-dueno-de-empresas-talcamo-imputado-por-estafa",
    "titulo": "Fiscalía solicitará endurecer las medidas cautelares contra el dueño de Talcamo, imputado por estafa.",
