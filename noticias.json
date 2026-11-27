@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T21:40:19.881Z",
+ "generado": "2026-11-27T21:50:20.764Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 63,
+    "enlaces": 156,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/filas-confusion-tarjetas-electronicas-concepcion.html",
+   "titulo": "Largas filas y confusión por horarios marcan apertura de punto de venta de tarjetas electrónicas en Concepción",
+   "resumen": "Personas de la tercera edad indicaron estar desde las 7:00 horas en la fila. Desde las autoridades hicieron un llamado a la calma, puesto que el proceso de adquisición durará tres meses.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-fila-para-tarjeta-electronica-de-microbuses-foto-Manuel-Mena.jpg-e1795815157882.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T21:50:20.764Z",
+   "visto": "2026-11-27T21:50:20.764Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/27/diputados-cuestionan-nombramiento-de-exdiplomatica-de-ee-uu-en-aclara-y-advierten-posible-injerencia-extranjera",
    "titulo": "Diputados del Biobío cuestionan nombramiento de exdiplomática de EE.UU. en Aclara y advierten posible injerencia extranjera",
@@ -680,20 +694,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/escenika-cumple-19-anos-y-reunira-cuatro-propuestas-de-danza-y-teatro-en-el-biobio.html",
-   "titulo": "Escénika cumple 19 años y reunirá cuatro propuestas de danza y teatro en el Biobío",
-   "resumen": "El encuentro organizado por Balmaceda Arte Joven contempla funciones para estudiantes y presentaciones abiertas a la comunidad, con obras que abordan desde las experiencias personales hasta la memoria de figuras y colectivos de relevancia social. Con entrada…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Principal-cedida-BAJ-Biob%C3%ADo-e1795741789197.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/turistas-banan-caleta-lenga-fragata-portuguesa.html",
    "titulo": "Pese al cierre de playa por fragata portuguesa: turistas continúan bañándose en Caleta Lenga",
    "resumen": "Por desconocimiento, distintas personas se mantienen realizando distintas actividades recreativas en la costa. Expertos hacen un llamado a tener precaución con la especie.",
@@ -704,6 +704,20 @@
    "visto": "2026-11-27T08:40:20.233Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/escenika-cumple-19-anos-y-reunira-cuatro-propuestas-de-danza-y-teatro-en-el-biobio.html",
+   "titulo": "Escénika cumple 19 años y reunirá cuatro propuestas de danza y teatro en el Biobío",
+   "resumen": "El encuentro organizado por Balmaceda Arte Joven contempla funciones para estudiantes y presentaciones abiertas a la comunidad, con obras que abordan desde las experiencias personales hasta la memoria de figuras y colectivos de relevancia social. Con entrada…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Principal-cedida-BAJ-Biob%C3%ADo-e1795741789197.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -1604,20 +1618,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-26T10:40:29.651Z",
    "visto": "2026-11-26T10:40:29.651Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/violencia-digital-que-dice-la-ley-chilena-y-donde-denunciar-si-manipulan-tus-imagenes-con-ia",
-   "titulo": "Violencia digital: qué dice la ley chilena y dónde denunciar si manipulan tus imágenes con IA",
-   "resumen": "En el Día Internacional de la Eliminación de la Violencia contra la Mujer, que se conmemora este 25 de noviembre, vuelve a la conversación una pregunta incómoda: ¿las leyes chilenas han quedado cortas frente a la violencia digital? El debate se reactiva por…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/FOTOS-IA-VIOLENCIA-DIGITAL.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-26T10:30:25.966Z",
-   "visto": "2026-11-26T10:30:25.966Z",
    "cats": [
     "regional"
    ],
