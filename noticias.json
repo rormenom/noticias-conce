@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T15:00:28.666Z",
+ "generado": "2026-11-27T15:10:23.777Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 66,
+    "enlaces": 156,
+    "leidas": 65,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,42 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 3,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/pago-electronico-en-micros-con-extensas-filas-abrio-centro-de-atencion-en-concepcion-para-obtener-tarjeta",
+   "titulo": "Pago electrónico en micros: con extensas filas abrió centro de atención en Concepción para obtener tarjeta",
+   "resumen": "Con extensas filas, compuestas principalmente por adultos mayores, inició su funcionamiento este viernes en el centro de Concepción uno de los centros de atención a usuarios del nuevo sistema de recaudo electrónico del transporte público del Gran Concepción.…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-27-at-12.02.19-e1795791953781.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T15:10:23.777Z",
+   "visto": "2026-11-27T15:10:23.777Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/organizacion-de-ddhh-acusa-al-gobierno-de-facilitar-libertad-de-cinco-exagentes-del-dictador-pinochet",
+   "titulo": "Organización de derechos humanos denuncia que el gobierno permitió liberar a cinco exagentes de Pinochet",
+   "resumen": "En los últimos meses, al menos cinco antiguos agentes de la dictadura cívico-militar de Augusto Pinochet han accedido a la libertad anticipada. La situación ha generado críticas de organizaciones de derechos humanos al gobierno de José Antonio Kast, por no…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/bbcl-119.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T15:10:23.777Z",
+   "visto": "2026-11-27T15:10:23.777Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/conaf-empleo-prevencion-incendios-concepcion.html",
    "titulo": "Programa de Emergencia de Empleo de CONAF refuerza prevención de incendios forestales en sectores rurales de la provincia de Concepción",
@@ -1606,20 +1635,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/suspenden-formalizacion-de-mujer-que-se-habria-quedado-con-120-millones-del-centro-de-padres-del-ihc",
-   "titulo": "Aplazan la formalización de una mujer acusada de apropiarse de $120 millones del centro de padres del IHC",
-   "resumen": "Este miércoles, la Fiscalía tenía previsto formalizar a la abogada Katherine García por apropiación indebida y administración desleal, luego de acreditar el fraude que habría cometido cuando presidió el Centro de Padres del Instituto Humanidades. No obstante,…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/hospital-nuevo-villarrica-13-3.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T21:10:24.836Z",
-   "visto": "2026-11-25T21:10:24.836Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/25/con-hito-en-centro-cultural-la-moneda-instituto-de-ecologia-y-biodiversidad-celebrara-sus-20-anos.html",
    "titulo": "Con hito en Centro Cultural La Moneda: Instituto de Ecología y Biodiversidad celebrará sus 20 años",
    "resumen": "Este jueves 26 de noviembre, desde las 8 horas, se desarrollará una jornada que incluirá una feria, lanzamiento de un libro y una charla magistral.",
@@ -1631,20 +1646,6 @@
    "cats": [
     "tecnologia",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/suspenden-formalizacion-de-mujer-que-se-habria-quedado-con-120-millones-del-centro-de-padres-del-ihc.shtml",
-   "titulo": "Suspenden formalización de mujer que se habría quedado con $120 millones del centro de padres del IHC",
-   "resumen": "Este miércoles la Fiscalía debía formalizar por apropiación indebida y administración desleal a la abogada Katherine García, tras acreditar el...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032383-hospital-nuevo-villarrica-13-3.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-25T20:57:13.000Z",
-   "visto": "2026-11-25T21:00:28.778Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
