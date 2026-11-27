@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T01:10:20.600Z",
+ "generado": "2026-11-27T01:20:20.696Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 2,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 61,
+    "enlaces": 153,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/levantan-prohibicion-de-bano-en-playa-lenga-tras-no-hallar-presencia-de-fragata-portuguesa-en-48-horas.shtml",
+   "titulo": "Levantan prohibición de baño en playa Lenga tras no hallar presencia de fragata portuguesa en 48 horas",
+   "resumen": "Tras el monitoreo realizado por la Armada sin encontrar en 48 horas continúas la presencia de fragata portuguesa en playa...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7034117-archiv-a-1-por-levantan-prohibicion-de-bano-en-playa-lenga-tras-no-hallar-presencia-de-fragata-portuguesa-en-48-horas.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-27T01:17:18.000Z",
+   "visto": "2026-11-27T01:20:20.696Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/poblacion-libertad-de-talcahuano-ingresa-formalmente-a-plan-de-seguridad-del-gobierno/",
    "titulo": "Población Libertad de Talcahuano ingresa formalmente a Plan de Seguridad del Gobierno",
@@ -1041,6 +1055,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/el-leon-versus-la-u-dos-de-los-mejores-equipos-de-la-segunda-rueda.html",
+   "titulo": "El “León” versus la “U”: dos de los mejores equipos de la segunda rueda",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-18-UChile-vs-Deportes-Concepcion-foto-Comunicaciones-Deportes-Concepci%C3%B3n-e1795653008138.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/municipio-concepcion-querellas-vandalismo-plaza-peru.html",
    "titulo": "Municipio de Concepción se querellará por actos vandálicos en Plaza Perú",
    "resumen": "Confirman acciones judiciales contra los seis detenidos por los daños a baldosas, hormigón y estructuras instaladas en el espacio público. Vecinos y locatarios cuestionaron el actuar de Carabineros durante los incidentes.",
@@ -1052,20 +1080,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/el-leon-versus-la-u-dos-de-los-mejores-equipos-de-la-segunda-rueda.html",
-   "titulo": "El “León” versus la “U”: dos de los mejores equipos de la segunda rueda",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-18-UChile-vs-Deportes-Concepcion-foto-Comunicaciones-Deportes-Concepci%C3%B3n-e1795653008138.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   },
@@ -1593,20 +1607,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027.html",
-   "titulo": "Presidente Kast valora despacho de Sala Cuna Universal y Presupuesto 2027 en mensaje a la nación: “Cuando Chile se une, Chile cumple”",
-   "resumen": "En un mensaje emitido la noche de este miércoles, el Presidente José Antonio Kast celebró la aprobación en el Congreso de la Ley de Sala Cuna Universal y del Presupuesto 2027.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027-2.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T15:00:00.000Z",
-   "visto": "2026-11-26T01:20:20.843Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/senado-despacha-ley-sala-cuna-universal.html",
    "titulo": "Fin al límite de 20 mujeres por empresa: proyecto de Sala Cuna Universal queda listo para ser promulgado",
    "resumen": "La normativa establece un aporte del 0,30% con cargo al empleador y un sistema de suplementos estatales según el Registro Social de Hogares.",
@@ -1615,6 +1615,20 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-25T15:00:00.000Z",
    "visto": "2026-11-26T01:30:26.584Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027.html",
+   "titulo": "Presidente Kast valora despacho de Sala Cuna Universal y Presupuesto 2027 en mensaje a la nación: “Cuando Chile se une, Chile cumple”",
+   "resumen": "En un mensaje emitido la noche de este miércoles, el Presidente José Antonio Kast celebró la aprobación en el Congreso de la Ley de Sala Cuna Universal y del Presupuesto 2027.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/presidente-kast-mensaje-nacion-sala-cuna-presupuesto-2027-2.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T15:00:00.000Z",
+   "visto": "2026-11-26T01:20:20.843Z",
    "cats": [
     "politica"
    ],
