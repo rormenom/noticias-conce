@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T01:20:20.696Z",
+ "generado": "2026-11-27T01:30:24.087Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 3,
+    "leidas": 4,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
-    "leidas": 60,
+    "enlaces": 154,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -722,6 +722,20 @@
    "fuenteId": "tvu",
    "fecha": "2026-11-26T15:00:29.764Z",
    "visto": "2026-11-26T15:00:29.764Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/centros-atencion-pago-electronico-concepcion-talcahuano.html",
+   "titulo": "Pago electrónico en el Gran Concepción: este viernes abren centros de atención para retirar tarjetas en Concepción y Talcahuano",
+   "resumen": "Durante este viernes 27 de noviembre atenderán desde las 12:30 hasta las 19:30 horas, mientras que el funcionamiento habitual incluirá fines de semana y festivos.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pago-electr%C3%B3nico-qr-concepci%C3%B3n-micros-transporte-2.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T15:00:00.000Z",
+   "visto": "2026-11-27T01:30:24.087Z",
    "cats": [
     "regional"
    ],
@@ -1545,20 +1559,6 @@
    "visto": "2026-11-25T20:20:19.987Z",
    "cats": [
     "deportes",
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/navidad-con-corazon-busca-donaciones-concepcion.html",
-   "titulo": "¿Quieres cumplir un deseo navideño? Campaña “Navidad con Corazón” busca reunir 100 regalos para niños",
-   "resumen": "El voluntariado espera beneficiar a 200 niños del sector Pedro del Río.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG_6145.JPG-e1795625413496.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T17:00:30.263Z",
-   "visto": "2026-11-25T17:00:30.263Z",
-   "cats": [
     "regional"
    ],
    "local": true
