@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T22:50:21.359Z",
+ "generado": "2026-11-27T23:10:19.879Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 63,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/27/bono-termino-conflicto-funcionarios-biobio.html",
+   "titulo": "Funcionarios públicos del Biobío accederán a bonos de hasta $180 mil y reajuste de 4,6% tras pacto con el Ejecutivo",
+   "resumen": "El proyecto de ley ingresará en los próximos días al Congreso.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Vista-a%C3%A9rea-de-Concepci%C3%B3n-e1795820715633.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T23:10:19.879Z",
+   "visto": "2026-11-27T23:10:19.879Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/27/vuelta-del-biobio-marca-estelar-regreso-de-ciclismo-de-ruta-uci-a-chile-cita-se-celebra-en-diciembre.shtml",
    "titulo": "Vuelta del Biobío marca estelar regreso de ciclismo de ruta UCI a Chile: cita se celebra en diciembre",
@@ -2088,20 +2102,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/ominami-izquierda-progresismo-derecha.html",
-   "titulo": "“La izquierda se volvió cobarde”: ME-O sobre el progresismo frente al desencanto con la derecha",
-   "resumen": "Marco Enríquez-Ominami exploró el papel de las redes sociales y las estrategias de comunicación en la política. Además, cuestionó la gestión del Gobierno y advirtió sobre el desgaste de las promesas radicales.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/me-o-e1795568659426.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T08:40:25.404Z",
-   "visto": "2026-11-25T08:40:25.404Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/25/reencuentro-publico-penquista-nico-ruiz-llega-con-gira-instinto-teatro-udec.html",
    "titulo": "Reencuentro con el público penquista: Nico Ruiz llega con su gira “Instinto” al escenario del Teatro UdeC",
    "resumen": "Tras su presentación en el Festival REC 2026, y un aplaudido show en el Teatro Oriente de Santiago, el cantante penquista regresará a su ciudad natal para desplegar un concierto cargado de temas propios y versiones de algunos de los artistas que han marcado…",
@@ -2112,6 +2112,20 @@
    "visto": "2026-11-25T08:40:25.404Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/ominami-izquierda-progresismo-derecha.html",
+   "titulo": "“La izquierda se volvió cobarde”: ME-O sobre el progresismo frente al desencanto con la derecha",
+   "resumen": "Marco Enríquez-Ominami exploró el papel de las redes sociales y las estrategias de comunicación en la política. Además, cuestionó la gestión del Gobierno y advirtió sobre el desgaste de las promesas radicales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/me-o-e1795568659426.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T08:40:25.404Z",
+   "visto": "2026-11-25T08:40:25.404Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
