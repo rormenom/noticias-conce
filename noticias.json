@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T11:00:28.040Z",
+ "generado": "2026-11-27T11:10:22.104Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
+    "enlaces": 156,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 6,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/27/un-75-de-avance-lleva-el-plan-regional-de-cortafuegos-en-el-bio-bio.shtml",
+   "titulo": "Un 75% de avance lleva el Plan Regional de Cortafuegos en el Bío Bío",
+   "resumen": "Un 75% de avance lleva el Plan Regional de Cortafuegos, el cual pretende realizar cortafuegos en 800 kilómetros de carreteras...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7034330-cortafuegos.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-27T11:06:13.000Z",
+   "visto": "2026-11-27T11:10:22.104Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/gremios-salud-cuestionan-presupuesto-minsal-2027.html",
    "titulo": "Gremios de la salud cuestionan Presupuesto para el Minsal y advierten estar en estado de alerta",
@@ -1617,20 +1631,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/novakimen-justicia-reprograma-para-el-proximo-ano-juicio-en-caso-por-radiografias-falsas",
-   "titulo": "La Justicia aplaza hasta el próximo año el juicio por las radiografías falsas de Novakimen",
-   "resumen": "El Tribunal Oral de Concepción, en la región del Bío Bío, aplazó el juicio del caso Novakimen, cuyo inicio estaba previsto para el próximo 31 de diciembre y que tiene entre sus acusadas a una médica venezolana. La causa se relaciona con radiografías…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/novakimen.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T18:30:25.225Z",
-   "visto": "2026-11-25T18:30:25.225Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
