@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T18:18:55.849Z",
+ "generado": "2026-11-27T18:20:21.831Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 158,
-    "leidas": 63,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/fiscalia-pedira-aumentar-cautelar-para-dueno-de-empresas-talcamo-imputado-por-estafa",
+   "titulo": "Fiscalía solicitará endurecer las medidas cautelares contra el dueño de Talcamo, imputado por estafa.",
+   "resumen": "La persecutora que indaga una estafa millonaria en Florida, región del Bío Bío, vinculada con el pago de casi 200 millones de pesos por viviendas prefabricadas que nunca fueron entregadas, pidió una audiencia para endurecer la medida cautelar del empresario…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/fiscalia.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T18:20:21.831Z",
+   "visto": "2026-11-27T18:20:21.831Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/27/vial-explica-apelacion-y-surgen-pistas-sobre-quien-tiro-la-bengala.html",
    "titulo": "Vial explica apelación y surgen pistas sobre quién tiró la bengala",
@@ -1580,20 +1594,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/bio-bio-presenta-17-propuestas-para-enfrentar-la-crisis-de-empleo-y-recuperar-9-mil-puestos-perdidos",
-   "titulo": "Bío Bío presenta 17 propuestas para enfrentar la crisis de empleo y recuperar 9 mil puestos perdidos",
-   "resumen": "El Gobierno Regional del Bío Bío y una mesa de expertos presentaron a los gremios productivos de la región 17 propuestas para generar empleo, ordenadas en seis ejes. El objetivo es enfrentar la crisis laboral que afecta a la zona. Entre las medidas figuran…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/08/IMAGEN-DESEMPLEO-e1788191822888.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-26T09:20:20.928Z",
-   "visto": "2026-11-26T09:20:20.928Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/26/mop-biobio-comite-obras-emblematicas-puente.html",
    "titulo": "MOP impulsa estudio de prefactibilidad para nuevo puente sobre el río Biobío",
    "resumen": "La cartera adjudicó por $1.518 millones para el analizar la viabilidad de otro viaducto entre Concepción y San Pedro de la Paz, la estructura es contigua al Puente Juan Pablo II.",
@@ -2797,20 +2797,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-22T19:50:23.648Z",
    "visto": "2026-11-22T19:50:23.648Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/22/huachipato-y-concepcion-igualaron-por-la-liga-de-primera-arquero-del-leon-atajo-un-penal",
-   "titulo": "Huachipato y Deportes Concepción empataron en La Liga de Primera tras un penal atajado por el arquero del León",
-   "resumen": "Huachipato y Deportes Concepción no lograron sacarse ventaja y empataron 0-0 este domingo, por la fecha 28 de La Liga de Primera. Fue un encuentro disputado y con escasas oportunidades de gol. La ocasión más clara para el local en el CAP llegó desde el punto…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/huachipato-concepcion-la-liga-de-primera.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-22T18:20:22.134Z",
-   "visto": "2026-11-22T18:20:22.134Z",
    "cats": [
     "deportes"
    ],
