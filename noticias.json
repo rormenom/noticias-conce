@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-26T23:30:24.783Z",
+ "generado": "2026-11-27T01:10:20.600Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 61,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.radioudec.cl/poblacion-libertad-de-talcahuano-ingresa-formalmente-a-plan-de-seguridad-del-gobierno/",
+   "titulo": "Población Libertad de Talcahuano ingresa formalmente a Plan de Seguridad del Gobierno",
+   "resumen": "En una reunión de trabajo entre el seremi de Seguridad […]",
+   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/2O8A4342-768x512.jpg",
+   "fuente": "Radio UdeC",
+   "fuenteId": "radioudec",
+   "fecha": "2026-11-27T01:08:17.000Z",
+   "visto": "2026-11-27T01:10:20.600Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/26/anfa-castiga-con-dos-anos-sin-jugar-a-fernandez-vial-tras-incidente-con-bengala-club-apelara-sancion",
    "titulo": "Fernández Vial recibe dos años de suspensión tras incidente con bengala y apelará la sanción",
@@ -1546,20 +1561,6 @@
    "cats": [
     "regional",
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/nueva-etiqueta-eficiencia-refrigeradores.html",
-   "titulo": "¿Tu refrigerador es realmente eficiente? Nueva etiqueta cambia la clasificación de estos electrodomésticos",
-   "resumen": "La nueva clasificación elimina los signos \"+\" y utiliza mediciones más exigentes.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/29.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T16:20:21.208Z",
-   "visto": "2026-11-25T16:20:21.208Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
