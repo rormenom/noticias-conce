@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T19:00:30.519Z",
+ "generado": "2026-11-27T19:30:25.310Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 64,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,44 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 27,
-    "leidas": 5,
+    "enlaces": 28,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/diputados-cuestionan-nombramiento-de-exdiplomatica-de-ee-uu-en-aclara-y-advierten-posible-injerencia-extranjera",
+   "titulo": "Diputados del Biobío cuestionan nombramiento de exdiplomática de EE.UU. en Aclara y advierten posible injerencia extranjera",
+   "resumen": "El nombramiento de una exembajadora de Estados Unidos en Perú en un alto cargo ejecutivo de Aclara, empresa que impulsa el proyecto de tierras raras en Penco, generó cuestionamientos entre parlamentarios de oposición, quienes advierten sobre los intereses…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/images-1-1.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T19:30:25.310Z",
+   "visto": "2026-11-27T19:30:25.310Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/alcaldes-del-bio-bio-enfrentan-diferencias-por-falta-de-delegado-presidencial-titular-tras-reeleccion-de-ricardo-fuentes",
+   "titulo": "Alcaldes del Bío Bío enfrentan diferencias por falta de delegado presidencial titular tras reelección de Ricardo Fuentes",
+   "resumen": "Por siete votos contra cinco, el alcalde de Hualqui, Ricardo Fuentes, fue reelecto como presidente de la Asociación de Municipios de la Región del Bío Bío, mientras que su principal contendiente, el jefe comunal de Santa Juana, Ángel Castro, asumirá la…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/B0UFkqt7OYSzfPdNB218cm6MDPOnDPty2deq_z9ACuGOMwa0bdx11m0pznMbWrAugA7-taPOOPTsfnfIarj7D47xd11rMc7GeomsiHHQlo-nsLrndHkFUpFXnxkXDj5I0BbRp-K4qDWYa1Z38nuLZHEoB3duJQhzxnPD5TRUPg1iwg6yj63WMqv8G52pi4ow.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T19:30:25.310Z",
+   "visto": "2026-11-27T19:30:25.310Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/gamecon-fest-concepcion-feria-videojuegos-anime-horarios.html",
    "titulo": "Diario Concepción. El Valor de la Opinión.",
@@ -1588,34 +1618,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-26T10:30:25.966Z",
    "visto": "2026-11-26T10:30:25.966Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/tres-hombres-en-prision-preventiva-por-asesinatos-en-el-gran-concepcion-menor-de-15-queda-internado",
-   "titulo": "Tres hombres en prisión preventiva por asesinatos en el Gran Concepción; menor de 15 queda internado",
-   "resumen": "Tres hombres de 19, 23 y 37 años quedaron privados de libertad mientras avanza la investigación por distintos asesinatos cometidos en el Gran Concepción. A ellos se suma un adolescente de 15 años, a quien se le atribuyen un intento de homicidio y delitos…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/imputado-prision-preventiva-incendio-casa-pareja-durmiendo-fresia.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-26T10:20:20.345Z",
-   "visto": "2026-11-26T10:20:20.345Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/busqueda-de-pescador-en-canete-suma-nuevas-medidas-tras-resultados-negativos-familia-pide-mas-equipos",
-   "titulo": "Búsqueda de pescador en Cañete suma nuevas medidas tras resultados negativos: familia pide más equipos",
-   "resumen": "El pescador artesanal Richard Fuentes Órdenes, de 33 años, sigue sin aparecer en Cañete, en la Provincia de Arauco. Cayó al agua el pasado domingo en la boca del río Paicaví, mientras trabajaba, y la búsqueda no ha dado resultados. Su familia pidió a las…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Captura-de-pantalla-2026-11-26-a-las-7.14.42%E2%80%AFa.-m.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-26T10:20:20.345Z",
-   "visto": "2026-11-26T10:20:20.345Z",
    "cats": [
     "regional"
    ],
