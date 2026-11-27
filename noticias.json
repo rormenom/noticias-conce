@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T16:40:23.398Z",
+ "generado": "2026-11-27T16:50:19.989Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 56,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 153,
+    "enlaces": 154,
     "leidas": 66,
     "errores": 0,
     "robots": 0
@@ -999,12 +999,12 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/joven-muere-atropellada-ruta-160.html",
-   "titulo": "Joven de 19 años murió atropellada por bus en la Ruta 160 en San Pedro de la Paz",
-   "resumen": "Conductor de bus quedó detenido tras atropello.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/934959417_1467147818083168_1728981611473866334_n.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
+   "url": "https://www.canal9.cl/episodios/2026/11/26/decretan-prision-preventiva-para-dueno-de-automotora-hdr-tras-ser-formalizado-por-26-casos-de-estafa",
+   "titulo": "Decretan prisión preventiva para dueño de automotora HDR tras ser formalizado por 26 casos de estafa",
+   "resumen": "El Juzgado de Garantía decretó la prisión preventiva de Reinaldo Larajara, propietario de la automotora HDR, tras ser formalizado por el delito de estafa reiterada. Los afectados corresponden a personas que pagaron por vehículos adaptados para personas con…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-26-at-12.57.16-PM-e1795711350959.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
    "fecha": "2026-11-26T16:50:21.753Z",
    "visto": "2026-11-26T16:50:21.753Z",
    "cats": [
@@ -1013,12 +1013,12 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/decretan-prision-preventiva-para-dueno-de-automotora-hdr-tras-ser-formalizado-por-26-casos-de-estafa",
-   "titulo": "Decretan prisión preventiva para dueño de automotora HDR tras ser formalizado por 26 casos de estafa",
-   "resumen": "El Juzgado de Garantía decretó la prisión preventiva de Reinaldo Larajara, propietario de la automotora HDR, tras ser formalizado por el delito de estafa reiterada. Los afectados corresponden a personas que pagaron por vehículos adaptados para personas con…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-26-at-12.57.16-PM-e1795711350959.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/joven-muere-atropellada-ruta-160.html",
+   "titulo": "Joven de 19 años murió atropellada por bus en la Ruta 160 en San Pedro de la Paz",
+   "resumen": "Conductor de bus quedó detenido tras atropello.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/934959417_1467147818083168_1728981611473866334_n.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-26T16:50:21.753Z",
    "visto": "2026-11-26T16:50:21.753Z",
    "cats": [
