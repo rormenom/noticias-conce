@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T01:40:20.233Z",
+ "generado": "2026-11-27T08:40:20.233Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
-    "leidas": 3,
+    "enlaces": 57,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 60,
+    "enlaces": 157,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,126 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/turistas-banan-caleta-lenga-fragata-portuguesa.html",
+   "titulo": "Pese al cierre de playa por fragata portuguesa: turistas continúan bañándose en Caleta Lenga",
+   "resumen": "Por desconocimiento, distintas personas se mantienen realizando distintas actividades recreativas en la costa. Expertos hacen un llamado a tener precaución con la especie.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-playa-Lenga-no-apta-para-ba%C3%B1arse-por-fragata-portuguesa-foto-captura-de-imagen-e1795740449794.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/ley-sala-cuna-universal-impacto-empleo-femenino-biobio.html",
+   "titulo": "Gobierno prevé que Sala Cuna facilitará ingreso laboral de 11 mil cuidadoras en el Biobío",
+   "resumen": "La iniciativa beneficiará inicialmente a cerca de 15 mil mujeres en la región y tendrá una implementación gradual de cuatro años. Mientras el Observatorio Laboral proyecta un aumento del 13,5 % en la fuerza de trabajo, vecinas y sindicatos valoran el fin de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-sala-cuna-foto-cedida.jpg-e1795741648470.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/escenika-cumple-19-anos-y-reunira-cuatro-propuestas-de-danza-y-teatro-en-el-biobio.html",
+   "titulo": "Escénika cumple 19 años y reunirá cuatro propuestas de danza y teatro en el Biobío",
+   "resumen": "El encuentro organizado por Balmaceda Arte Joven contempla funciones para estudiantes y presentaciones abiertas a la comunidad, con obras que abordan desde las experiencias personales hasta la memoria de figuras y colectivos de relevancia social. Con entrada…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Principal-cedida-BAJ-Biob%C3%ADo-e1795741789197.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/nuevo-puente-biobio-alcaldes-alertan-plazos-ejecucion.html",
+   "titulo": "Nuevo puente sobre el Biobío: municipios valoran iniciativa pero piden garantías para su ejecución",
+   "resumen": "Tras el anuncio del estudio de prefactibilidad impulsado por el MOP, los alcaldes de Concepción y San Pedro de la Paz destacaron la necesidad de mejorar la conectividad, aunque manifestaron preocupación por los tiempos que podría tomar el desarrollo de la…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-Puente-Juan-Pablo-II-foto-carolina-e1795721344758.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/27/biobio-discusion-presupuesto-2027.html",
+   "titulo": "Biobío: educación, obras públicas, transporte y cultura marcaron la discusión presupuestaria 2027",
+   "resumen": "El Congreso finalmente despachó la iniciativa tras restituir recursos en áreas específicas sumando flexibilidad regional y fijando compromisos de seguimiento para planes en la Región.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/presupuesto-2027-e1795743367481.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/musico-max-tupper-llega-con-su-tour-el-verso-es-una-paloma-a-la-capital-regional.html",
+   "titulo": "Músico Max Tupper llega con su tour “El verso es una paloma” a la capital regional",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-Bernardita-Freire-e1795741859992.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/27/hospital-regional-estudio-internacional-sepsis-pediatria.html",
+   "titulo": "Hospital Regional aportó en estudio internacional que evaluó magnitud de la sepsis en pediatría",
+   "resumen": "El doctor Raúl Bustos de la UCI Pediátrica del HGGB, fue coordinador nacional de proyecto para generar una base de datos para cuantificar la prevalencia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-hospital-regional-aporto-estudio-internacional-en-evaluo-magnitud-sepsis-en-pediatria-foto-HGGB-e1795741935259.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/27/dichato-carnaval-biodiversidad-marina-udec.html",
+   "titulo": "Hoy en Dichato: Carnaval de la Biodiversidad Marina UdeC invita a disfrutar las ciencias del mar",
+   "resumen": "Este viernes 27 de noviembre, la Estación de Biología Marina abrirá sus puertas a la comunidad para acercar el conocimiento de forma práctica y lúdica.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-carnaval-de-la-biodversidad-marina-UdeC-foto-DOCE-UdeC-e1795741992768.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/levantan-prohibicion-de-bano-en-playa-lenga-tras-no-hallar-presencia-de-fragata-portuguesa-en-48-horas.shtml",
    "titulo": "Levantan prohibición de baño en playa Lenga tras no hallar presencia de fragata portuguesa en 48 horas",
@@ -1054,6 +1167,20 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/el-leon-versus-la-u-dos-de-los-mejores-equipos-de-la-segunda-rueda.html",
+   "titulo": "El “León” versus la “U”: dos de los mejores equipos de la segunda rueda",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-18-UChile-vs-Deportes-Concepcion-foto-Comunicaciones-Deportes-Concepci%C3%B3n-e1795653008138.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/enap-dragado-san-vicente-rechazo-pescadores.html",
    "titulo": "Pesca artesanal pide despejar dudas sobre áreas de manejo y mitigación ante proyecto de dragado de Enap",
    "resumen": "La estatal asegura que se contemplan “medidas de control, mitigación y compensación ambientales para resguardar los ecosistemas marinos”.",
@@ -1069,16 +1196,16 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/el-leon-versus-la-u-dos-de-los-mejores-equipos-de-la-segunda-rueda.html",
-   "titulo": "El “León” versus la “U”: dos de los mejores equipos de la segunda rueda",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-18-UChile-vs-Deportes-Concepcion-foto-Comunicaciones-Deportes-Concepci%C3%B3n-e1795653008138.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/plataforma-artes-integradas-dosel-estrena-primer-montaje-cartas-de-amor.html",
+   "titulo": "Plataforma de Artes Integradas DOSEL estrena su primer montaje “Cartas de Amor”",
+   "resumen": "La primera creación interdisciplinar de este colectivo escénico local, transportará al público al universo de los recuerdos y testimonios que puedan emerger de las cartas que alguna vez han escrito o recibido. Propuesta que fuera de Concepción también se…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fot-principal-cr%C3%A9dito-Antu-Miranda-e1795653196386.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-26T08:40:22.866Z",
    "visto": "2026-11-26T08:40:22.866Z",
    "cats": [
-    "deportes"
+    "cultura"
    ],
    "local": true
   },
@@ -1094,20 +1221,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/plataforma-artes-integradas-dosel-estrena-primer-montaje-cartas-de-amor.html",
-   "titulo": "Plataforma de Artes Integradas DOSEL estrena su primer montaje “Cartas de Amor”",
-   "resumen": "La primera creación interdisciplinar de este colectivo escénico local, transportará al público al universo de los recuerdos y testimonios que puedan emerger de las cartas que alguna vez han escrito o recibido. Propuesta que fuera de Concepción también se…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Fot-principal-cr%C3%A9dito-Antu-Miranda-e1795653196386.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   },
@@ -1521,34 +1634,6 @@
    "local": true
   },
   {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/delincuentes-roban-arma-personal-a-carabinero-de-franco-en-coronel-funcionario-estaba-con-su-pareja.shtml",
-   "titulo": "Delincuentes roban arma personal a carabinero de franco en Coronel: funcionario estaba con su pareja",
-   "resumen": "Un carabinero que se encontraba de franco y en compañía de su pareja fue asaltado por dos individuos armados en...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032110-robo-arma-carabinero-franco-coronel.jpg",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-25T18:07:28.000Z",
-   "visto": "2026-11-25T18:10:22.520Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/novakimen-justicia-reprograma-para-el-proximo-ano-juicio-en-caso-por-radiografias-falsas.shtml",
-   "titulo": "Novakimen: Justicia reprograma para el próximo año juicio en caso por radiografías falsas",
-   "resumen": "El Tribunal Oral de Concepción, en la región del Bío Bío, reagendó el juicio en el caso Novakimen, juicio que...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032129-novakimen.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-25T18:05:41.000Z",
-   "visto": "2026-11-25T18:10:22.520Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/25/beach-tennis-mtb-y-lucha-de-brazos-los-megaeventos-deportivos-que-recibira-nuble/",
    "titulo": "Beach Tennis, MTB y Lucha de brazos: los megaeventos deportivos que recibirá Ñuble",
    "resumen": "Con apoyo del Gobierno Regional, Gracias a la nueva línea de eventos del Fondo de Deporte 8%, organizaciones locales concretarán torneos gratuitos y de estándar internacional en distintas comunas, convocando a cientos de deportistas y visitantes de Chile y el…",
@@ -1812,20 +1897,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/movilizacion-colegio-profesores-biobio-presupuesto-2027.html",
-   "titulo": "Docentes del Biobío se suman a movilización contra ajustes presupuestarios y eventuales recortes al sector",
-   "resumen": "El profesorado advirtió por la eventual reducción de 83 mil horas docentes a nivel nacional y cuestionó los ajustes al financiamiento de la educación pública.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/marcha-docentes-concepcion-e1795568633655.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T08:40:25.404Z",
-   "visto": "2026-11-25T08:40:25.404Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/canottieri-se-lucio-en-nacional-de-remo-master-en-san-pedro.html",
    "titulo": "Canottieri se lució en Nacional de Remo Master en San Pedro",
    "resumen": "La Laguna Chica de San Pedro de la Paz recibió 229 competidores, representando a 15 clubes, y el Club Italiano se alzó como el mejor en la general después de dos días de intensa competencia.",
@@ -1878,6 +1949,20 @@
    "visto": "2026-11-25T08:40:25.404Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/25/movilizacion-colegio-profesores-biobio-presupuesto-2027.html",
+   "titulo": "Docentes del Biobío se suman a movilización contra ajustes presupuestarios y eventuales recortes al sector",
+   "resumen": "El profesorado advirtió por la eventual reducción de 83 mil horas docentes a nivel nacional y cuestionó los ajustes al financiamiento de la educación pública.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/marcha-docentes-concepcion-e1795568633655.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T08:40:25.404Z",
+   "visto": "2026-11-25T08:40:25.404Z",
+   "cats": [
+    "politica"
    ],
    "local": true
   },
@@ -2639,63 +2724,6 @@
    "visto": "2026-11-22T10:50:19.516Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/22/de-la-experiencia-al-aprendizaje-cientos-de-escolares-y-familias-vivieron-habitar-el-cerebro.html",
-   "titulo": "De la experiencia al aprendizaje: cientos de escolares y familias vivieron “Habitar el Cerebro”",
-   "resumen": "Propuesta de divulgación científica lúdica e interactiva se desplegó el 20 y 21 de noviembre en el Cicat UdeC.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-1-rectora-Jacqueline-Sep%C3%BAlveda-con-robot-en-Cicat-foto-carolina.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/22/poemario-cruza-memoria-identidad-resistencia-nicole-camille-debut-literario-sonata-en-azul-sin-blanco.html",
-   "titulo": "Un poemario que cruza memoria, identidad y resistencia: Nicole Camille hace su debut literario con “Sonata en azul sin blanco”",
-   "resumen": "La poeta y artista visual tomecina presenta su primer libro, una obra que enlaza la experiencia personal con una mirada crítica sobre las desigualdades, los mandatos de género y la memoria popular. Publicado por Editorial Mujeres de Letras, el poemario cuenta…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-principal-cedida-Editorial-Mujeres-de-Letras.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/22/subsecretario-agricultura-ley-incendios-forestales.html",
-   "titulo": "Agricultura proyecta veto a ley de incendios para diciembre y anuncia despliegue de 548 brigadistas en el Biobío",
-   "resumen": "La cartera busca cerrar la tramitación normativa incorporando compensaciones por cortafuegos y penas más duras contra la intencionalidad. En paralelo, destacan el rol clave de la región en captura de carbono y preparan una ley de plantaciones para 2027.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-4-Francesco-Venezian-subsecretario-de-Agricultura-foto-minagri.jpg.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/22/indespa-pesca-artesanal-equipos-viradores-lebu.html",
-   "titulo": "45 embarcaciones artesanales de Lebu incorporan viradores eléctricos a sus faenas de extracción de jibia",
-   "resumen": "Tecnología financiada por INDESPA sería clave para aliviar la carga física de los tripulantes al recoger de modo mecánico las líneas de pesca y captura, evitando lesiones y fatiga.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/911713702_1646747083575867_5259487904720144764_n.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-22T08:40:18.857Z",
-   "visto": "2026-11-22T08:40:18.857Z",
-   "cats": [
-    "regional",
-    "cultura"
    ],
    "local": true
   }
