@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T11:30:24.825Z",
+ "generado": "2026-11-27T11:40:21.266Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
-    "leidas": 2,
+    "enlaces": 57,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 61,
+    "enlaces": 155,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/prohibicion-bano-fragata-portuguesa-lenga.html",
+   "titulo": "Tras 48 horas sin hallar fragata portuguesa: levantan prohibición de baño en Lenga",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-aerea-de-Lenga-foto-carolina.jpg-e1795568719671.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T11:40:21.266Z",
+   "visto": "2026-11-27T11:40:21.266Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/27/festival-plural-celebrara-sus-11-anos-en-la-fabrica-bellavista-oveja-tome/",
    "titulo": "Festival Plural celebrará sus 11 años en la Fábrica Bellavista Oveja Tomé",
@@ -150,20 +164,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/turistas-banan-caleta-lenga-fragata-portuguesa.html",
-   "titulo": "Pese al cierre de playa por fragata portuguesa: turistas continúan bañándose en Caleta Lenga",
-   "resumen": "Por desconocimiento, distintas personas se mantienen realizando distintas actividades recreativas en la costa. Expertos hacen un llamado a tener precaución con la especie.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-playa-Lenga-no-apta-para-ba%C3%B1arse-por-fragata-portuguesa-foto-captura-de-imagen-e1795740449794.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -248,6 +248,20 @@
    "visto": "2026-11-27T08:40:20.233Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/turistas-banan-caleta-lenga-fragata-portuguesa.html",
+   "titulo": "Pese al cierre de playa por fragata portuguesa: turistas continúan bañándose en Caleta Lenga",
+   "resumen": "Por desconocimiento, distintas personas se mantienen realizando distintas actividades recreativas en la costa. Expertos hacen un llamado a tener precaución con la especie.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-playa-Lenga-no-apta-para-ba%C3%B1arse-por-fragata-portuguesa-foto-captura-de-imagen-e1795740449794.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
