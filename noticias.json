@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T10:50:23.134Z",
+ "generado": "2026-11-27T11:00:28.040Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
-    "leidas": 0,
+    "enlaces": 56,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 158,
+    "enlaces": 157,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/gremios-salud-cuestionan-presupuesto-minsal-2027.html",
+   "titulo": "Gremios de la salud cuestionan Presupuesto para el Minsal y advierten estar en estado de alerta",
+   "resumen": "Dirigentes de Fenpruss, Fenats y Confusam valoraron la reposición de recursos para la Ley Ricarte Soto, pero criticaron el financiamiento de la salud pública.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-sala-espera-hospita-regional-foto-isidoro.jpg-e1795741680520.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T11:00:28.040Z",
+   "visto": "2026-11-27T11:00:28.040Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/ley-sala-cuna-universal-impacto-empleo-femenino-biobio.html",
    "titulo": "Gobierno prevé que Sala Cuna facilitará ingreso laboral de 11 mil cuidadoras en el Biobío",
@@ -1139,20 +1154,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/ola-calor-biobio-temperaturas-autocuidado-infraestructura-verde.html",
-   "titulo": "Ola de calor: se esperan hasta 32 °C y expertos llaman a reforzar autocuidado e infraestructura verde",
-   "resumen": "Personas mayores, niños pequeños y pacientes con enfermedades crónicas están entre los grupos más vulnerables. Especialistas entregaron recomendaciones para prevenir complicaciones de salud y destacaron el rol de la vegetación en la regulación de las…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-mujer-tomando-agua-foto-carolina-e1795652803377.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/el-leon-versus-la-u-dos-de-los-mejores-equipos-de-la-segunda-rueda.html",
    "titulo": "El “León” versus la “U”: dos de los mejores equipos de la segunda rueda",
    "resumen": "",
@@ -1206,6 +1207,20 @@
    "visto": "2026-11-26T08:40:22.866Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/ola-calor-biobio-temperaturas-autocuidado-infraestructura-verde.html",
+   "titulo": "Ola de calor: se esperan hasta 32 °C y expertos llaman a reforzar autocuidado e infraestructura verde",
+   "resumen": "Personas mayores, niños pequeños y pacientes con enfermedades crónicas están entre los grupos más vulnerables. Especialistas entregaron recomendaciones para prevenir complicaciones de salud y destacaron el rol de la vegetación en la regulación de las…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-mujer-tomando-agua-foto-carolina-e1795652803377.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1614,20 +1629,6 @@
    "fuenteId": "canal9",
    "fecha": "2026-11-25T18:30:25.225Z",
    "visto": "2026-11-25T18:30:25.225Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/25/biobio-alcanza-3-909-cupos-del-bono-estipendio-con-una-inversion-social-de-1-566-millones/",
-   "titulo": "Biobío alcanza 3.909 cupos del Bono Estipendio con una inversión social de $1.566 millones",
-   "resumen": "Para cuidadoras y cuidadores.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/PHOTO-2026-11-25-15-20-17-768x512.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-25T18:20:24.000Z",
-   "visto": "2026-11-25T20:30:30.873Z",
    "cats": [
     "regional"
    ],
