@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T15:30:26.709Z",
+ "generado": "2026-11-27T15:50:21.085Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 65,
+    "enlaces": 154,
+    "leidas": 66,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 33,
-    "leidas": 5,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/teatro-biobio-dos-destacadas-obras-danza-contemporanea-cerrar-el-ano.html",
+   "titulo": "Teatro Biobío presentará dos destacadas obras de danza contemporánea para cerrar el año",
+   "resumen": "Este sábado 28 de noviembre, se presentará \"Folie\", icónico montaje de los coreógrafos franceses Claude Brumachon y Benjamin Lamarche que ha recorrido diversos escenarios del mundo. Mientras que el 5 de diciembre, el Ballet Nacional Chileno (BANCH), la…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/cedida-Manu-Rojas.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T15:50:21.085Z",
+   "visto": "2026-11-27T15:50:21.085Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/27/yumbel-roban-30-millones-en-equipos-en-sucursal-de-wom",
    "titulo": "Yumbel: roban $30 millones en equipos en sucursal de WOM",
