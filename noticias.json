@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T16:50:19.989Z",
+ "generado": "2026-11-27T17:10:21.910Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 66,
+    "enlaces": 155,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -73,14 +73,42 @@
    "ok": true,
    "diag": {
     "paginas": 3,
-    "enlaces": 33,
-    "leidas": 4,
+    "enlaces": 30,
+    "leidas": 6,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/de-talcahuano-a-australia-la-historia-de-chilena-que-vive-en-una-isla-donde-los-cangrejos-tienen-prioridad",
+   "titulo": "De Talcahuano a Australia: la historia de chilena que vive en una isla donde los cangrejos tienen prioridad",
+   "resumen": "Hay días en que, para llegar a casa, primero hay que ayudar a un cangrejo a cruzar la calle. Y después a otro, y a otro más. Así lo vive Carolina Merino Wells, nacida en Talcahuano y radicada en Christmas Island, un territorio australiano en pleno océano…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-27-at-12.17.22.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T17:10:21.910Z",
+   "visto": "2026-11-27T17:10:21.910Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/27/detienen-a-sujeto-que-habria-agredido-e-intentado-atropellar-a-su-expareja-en-cercanias-de-la-udec.shtml",
+   "titulo": "Detienen a sujeto que habría agredido e intentado atropellar a su expareja en cercanías de la UdeC",
+   "resumen": "Carabineros de la Primera Comisaría de Concepción, en la región del Bío Bío, detuvo a un...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7035065-detienen-a-sujeto-que-habria-agredido-e-intentado-atropellar-a-su-expareja-en-cercanias-de-la-udec.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-27T17:04:33.000Z",
+   "visto": "2026-11-27T17:10:21.910Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/emprendedora-angelina-gana-revolucion-maderera.html",
    "titulo": "Emprendedora de Los Ángeles gana concurso con muebles fabricados de cartón",
@@ -1579,20 +1607,6 @@
    "local": true
   },
   {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/26/exportaciones-de-nuble-totalizaron-5451-millones-de-dolares-durante-el-tercer-trimestre-de-2026/",
-   "titulo": "Exportaciones de Ñuble totalizaron $545,1 millones de dólares durante el tercer trimestre de 2026",
-   "resumen": "El Instituto Nacional de Estadísticas (INE) dio a conocer las cifras de exportaciones de la Región de Ñuble correspondientes al tercer trimestre de 2026, las que totalizaron US$545,1 millones y crecieron un 14,0% en comparación al mismo periodo del 2025.…",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/exportaciones-nuble-2026-768x513.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-26T07:12:00.000Z",
-   "visto": "2026-11-26T11:40:20.796Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/25/joaquin-larrivey-anuncia-su-adios-a-deportes-concepcion-duelo-ante-la-u-sera-su-ultimo-de-local.shtml",
    "titulo": "Joaquín Larrivey anuncia su adiós a Deportes Concepción: duelo ante La U será su último de local",
    "resumen": "El experimentado delantero de Deportes Concepción, Joaquín Larrivey, anunció este miércoles su adiós al elenco penquista a través de una...",
@@ -1617,20 +1631,6 @@
    "visto": "2026-11-25T23:30:22.595Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/25/empresas-iansa-fin-definitivo-azucar-remolacha.html",
-   "titulo": "Fin de una era agroindustrial: Iansa termina definitivamente con la producción de azúcar de remolacha en Chile",
-   "resumen": "Pese al cierre de esta histórica línea iniciada en 1953, la firma seguirá operando su planta de San Carlos mediante el procesamiento de azúcar cruda importada.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/iansa-cedida-iansa-e1795647023109.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T23:00:28.535Z",
-   "visto": "2026-11-25T23:00:28.535Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
