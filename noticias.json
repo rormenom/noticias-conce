@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T19:50:21.597Z",
+ "generado": "2026-11-27T20:10:25.470Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -680,20 +680,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/turistas-banan-caleta-lenga-fragata-portuguesa.html",
-   "titulo": "Pese al cierre de playa por fragata portuguesa: turistas continúan bañándose en Caleta Lenga",
-   "resumen": "Por desconocimiento, distintas personas se mantienen realizando distintas actividades recreativas en la costa. Expertos hacen un llamado a tener precaución con la especie.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-playa-Lenga-no-apta-para-ba%C3%B1arse-por-fragata-portuguesa-foto-captura-de-imagen-e1795740449794.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/escenika-cumple-19-anos-y-reunira-cuatro-propuestas-de-danza-y-teatro-en-el-biobio.html",
    "titulo": "Escénika cumple 19 años y reunirá cuatro propuestas de danza y teatro en el Biobío",
    "resumen": "El encuentro organizado por Balmaceda Arte Joven contempla funciones para estudiantes y presentaciones abiertas a la comunidad, con obras que abordan desde las experiencias personales hasta la memoria de figuras y colectivos de relevancia social. Con entrada…",
@@ -704,6 +690,20 @@
    "visto": "2026-11-27T08:40:20.233Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/turistas-banan-caleta-lenga-fragata-portuguesa.html",
+   "titulo": "Pese al cierre de playa por fragata portuguesa: turistas continúan bañándose en Caleta Lenga",
+   "resumen": "Por desconocimiento, distintas personas se mantienen realizando distintas actividades recreativas en la costa. Expertos hacen un llamado a tener precaución con la especie.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-playa-Lenga-no-apta-para-ba%C3%B1arse-por-fragata-portuguesa-foto-captura-de-imagen-e1795740449794.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
