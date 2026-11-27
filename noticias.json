@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T12:50:19.610Z",
+ "generado": "2026-11-27T13:00:29.846Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
-    "leidas": 63,
+    "enlaces": 153,
+    "leidas": 64,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 5,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/27/doblete-del-basquet-udec-varones-se-coronaron-comandados-por-rivera.html",
+   "titulo": "Doblete del Básquet UdeC: varones se coronaron comandados por Rivera",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-basket-udec-universitario-campeon-foto-isidoro.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T13:00:29.846Z",
+   "visto": "2026-11-27T13:00:29.846Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/27/talcahuano-vecinos-de-leonor-mascayano-se-manifiestan-por-riesgo-sanitario-ante-rebalses-de-aguas-servidas",
    "titulo": "\"Vivimos con excrementos en nuestro alrededor\": vecinos de Leonor Mascayano se manifiestan por riesgo sanitario ante rebalses",
@@ -209,20 +223,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/escenika-cumple-19-anos-y-reunira-cuatro-propuestas-de-danza-y-teatro-en-el-biobio.html",
-   "titulo": "Escénika cumple 19 años y reunirá cuatro propuestas de danza y teatro en el Biobío",
-   "resumen": "El encuentro organizado por Balmaceda Arte Joven contempla funciones para estudiantes y presentaciones abiertas a la comunidad, con obras que abordan desde las experiencias personales hasta la memoria de figuras y colectivos de relevancia social. Con entrada…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Principal-cedida-BAJ-Biob%C3%ADo-e1795741789197.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/ley-sala-cuna-universal-impacto-empleo-femenino-biobio.html",
    "titulo": "Gobierno prevé que Sala Cuna facilitará ingreso laboral de 11 mil cuidadoras en el Biobío",
    "resumen": "La iniciativa beneficiará inicialmente a cerca de 15 mil mujeres en la región y tendrá una implementación gradual de cuatro años. Mientras el Observatorio Laboral proyecta un aumento del 13,5 % en la fuerza de trabajo, vecinas y sindicatos valoran el fin de…",
@@ -248,6 +248,20 @@
    "visto": "2026-11-27T08:40:20.233Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/escenika-cumple-19-anos-y-reunira-cuatro-propuestas-de-danza-y-teatro-en-el-biobio.html",
+   "titulo": "Escénika cumple 19 años y reunirá cuatro propuestas de danza y teatro en el Biobío",
+   "resumen": "El encuentro organizado por Balmaceda Arte Joven contempla funciones para estudiantes y presentaciones abiertas a la comunidad, con obras que abordan desde las experiencias personales hasta la memoria de figuras y colectivos de relevancia social. Con entrada…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Principal-cedida-BAJ-Biob%C3%ADo-e1795741789197.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -280,20 +294,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/27/dichato-carnaval-biodiversidad-marina-udec.html",
-   "titulo": "Hoy en Dichato: Carnaval de la Biodiversidad Marina UdeC invita a disfrutar las ciencias del mar",
-   "resumen": "Este viernes 27 de noviembre, la Estación de Biología Marina abrirá sus puertas a la comunidad para acercar el conocimiento de forma práctica y lúdica.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-carnaval-de-la-biodversidad-marina-UdeC-foto-DOCE-UdeC-e1795741992768.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/turistas-banan-caleta-lenga-fragata-portuguesa.html",
    "titulo": "Pese al cierre de playa por fragata portuguesa: turistas continúan bañándose en Caleta Lenga",
    "resumen": "Por desconocimiento, distintas personas se mantienen realizando distintas actividades recreativas en la costa. Expertos hacen un llamado a tener precaución con la especie.",
@@ -304,6 +304,20 @@
    "visto": "2026-11-27T08:40:20.233Z",
    "cats": [
     "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/27/dichato-carnaval-biodiversidad-marina-udec.html",
+   "titulo": "Hoy en Dichato: Carnaval de la Biodiversidad Marina UdeC invita a disfrutar las ciencias del mar",
+   "resumen": "Este viernes 27 de noviembre, la Estación de Biología Marina abrirá sus puertas a la comunidad para acercar el conocimiento de forma práctica y lúdica.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-carnaval-de-la-biodversidad-marina-UdeC-foto-DOCE-UdeC-e1795741992768.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
@@ -1954,20 +1968,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/giacaman-detalla-los-tres-lugares-estrategicos-para-recibir-los-odesur.html",
-   "titulo": "Giacaman detalla los tres lugares estratégicos para recibir los Odesur",
-   "resumen": "Gobernador del Biobío habló de los recintos deportivos que serán sede, mejoras en la conectividad y alternativas para construir la Villa Olímpica. Los Juegos 2030 empiezan a tomar forma.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/laguna-san-pedro-e1795568573723.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T08:40:25.404Z",
-   "visto": "2026-11-25T08:40:25.404Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/25/reencuentro-publico-penquista-nico-ruiz-llega-con-gira-instinto-teatro-udec.html",
    "titulo": "Reencuentro con el público penquista: Nico Ruiz llega con su gira “Instinto” al escenario del Teatro UdeC",
    "resumen": "Tras su presentación en el Festival REC 2026, y un aplaudido show en el Teatro Oriente de Santiago, el cantante penquista regresará a su ciudad natal para desplegar un concierto cargado de temas propios y versiones de algunos de los artistas que han marcado…",
@@ -1992,6 +1992,20 @@
    "visto": "2026-11-25T08:40:25.404Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/25/giacaman-detalla-los-tres-lugares-estrategicos-para-recibir-los-odesur.html",
+   "titulo": "Giacaman detalla los tres lugares estratégicos para recibir los Odesur",
+   "resumen": "Gobernador del Biobío habló de los recintos deportivos que serán sede, mejoras en la conectividad y alternativas para construir la Villa Olímpica. Los Juegos 2030 empiezan a tomar forma.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/laguna-san-pedro-e1795568573723.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-25T08:40:25.404Z",
+   "visto": "2026-11-25T08:40:25.404Z",
+   "cats": [
+    "deportes"
    ],
    "local": true
   },
