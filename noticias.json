@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T15:10:23.777Z",
+ "generado": "2026-11-27T15:30:26.709Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
+    "enlaces": 155,
     "leidas": 65,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,48 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/yumbel-roban-30-millones-en-equipos-en-sucursal-de-wom",
+   "titulo": "Yumbel: roban $30 millones en equipos en sucursal de WOM",
+   "resumen": "La Brigada Investigadora de Robos (BIRO) de la Policía de Investigaciones (PDI) confirmó el millonario robo que afectó a una sucursal de la empresa de telecomunicaciones WOM en la comuna de Yumbel, en la provincia de Biobío, donde antisociales sustrajeron…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-27-at-10.15.36-e1795792856523.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T15:30:26.709Z",
+   "visto": "2026-11-27T15:30:26.709Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/mulchen-pdi-desarticula-puntos-de-venta-de-droga-y-cigarrillos-de-contrabando",
+   "titulo": "Mulchén: PDI desarticula puntos de venta de droga y cigarrillos de contrabando",
+   "resumen": "Detectives del equipo Modelo Territorial Cero (MT-0) de la Brigada de Investigación Criminal (Bicrim) de Mulchén desarticularon dos puntos dedicados al microtráfico de drogas y a la venta ilegal de cigarrillos en esa comuna de la provincia de Biobío,…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-27-at-12.06.38-e1795792679192.jpeg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T15:30:26.709Z",
+   "visto": "2026-11-27T15:30:26.709Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.elconquistadorconcepcion.cl/2026/11/27/comienza-la-entrega-de-tarjetas-de-pago-electronico-en-concepcion-y-talcahuano-conoce-los-lugares-y-horarios/",
+   "titulo": "Comienza la entrega de tarjetas de pago electrónico en Concepción y Talcahuano",
+   "resumen": "Conoce los lugares y horarios: Los nuevos centros abren a las 12:30 horas y el sistema iniciará su marcha blanca el 1 de diciembre, mientras que el efectivo seguirá vigente hasta marzo de 2027.",
+   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/tarjetas-micros-biobio--768x405.png",
+   "fuente": "El Conquistador",
+   "fuenteId": "conquistador",
+   "fecha": "2026-11-27T15:22:38.000Z",
+   "visto": "2026-11-27T15:30:26.709Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/27/pago-electronico-en-micros-con-extensas-filas-abrio-centro-de-atencion-en-concepcion-para-obtener-tarjeta",
    "titulo": "Pago electrónico en micros: con extensas filas abrió centro de atención en Concepción para obtener tarjeta",
@@ -1586,34 +1628,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-25T22:31:51.000Z",
    "visto": "2026-11-25T22:40:21.149Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/canete-busqueda-pescador-desaparecido-playa-paicavi.html",
-   "titulo": "Pescador permanece desaparecido en playa Paicaví: familia pide apoyo para búsqueda",
-   "resumen": "Richard Fuentes Órdenes desapareció mientras realizaba labores de pesca artesanal en la desembocadura del río Paicaví. Mientras su familia solicita equipos especializados, desde la Delegación Provincial de Arauco informaron que se mantienen operativos de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/IMG-20261125-WA0076-e1795641938659.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T21:50:21.417Z",
-   "visto": "2026-11-25T21:50:21.417Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/25/juegos-agua-parque-ecuador-concepcion-apertura.html",
-   "titulo": "Juegos de agua abrirán la próxima semana en Parque Ecuador",
-   "resumen": "Municipalidad trabaja en la mantención de los juegos de agua para ofrecer este esperado disfrute a partir del 2 o 3 de diciembre.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WEB-juegos-de-agua-en-parque-ecuador-foto-carolina.jpg-1-e1795642122154.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-25T21:30:23.086Z",
-   "visto": "2026-11-25T21:30:23.086Z",
    "cats": [
     "regional"
    ],
