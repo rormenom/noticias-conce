@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T23:10:19.879Z",
+ "generado": "2026-11-27T23:30:23.448Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 154,
-    "leidas": 62,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -2786,21 +2786,6 @@
    "visto": "2026-11-23T11:50:24.660Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.tvu.cl/prensa/2026/11/22/agricultura-proyecta-veto-a-ley-de-incendios-para-diciembre-y-anuncia-despliegue-de-548-brigadistas-en-el-biobio.html",
-   "titulo": "Agricultura proyecta veto a ley de incendios para diciembre y anuncia despliegue de 548 brigadistas en el Biobío",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/11/pag-4-Francesco-Venezian-subsecretario-de-Agricultura-foto-minagri.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-22T23:26:00.650Z",
-   "visto": "2026-11-22T23:26:00.650Z",
-   "cats": [
-    "regional",
-    "cultura"
    ],
    "local": true
   }
