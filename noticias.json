@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T14:50:22.930Z",
+ "generado": "2026-11-27T15:00:28.666Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 156,
-    "leidas": 67,
+    "enlaces": 155,
+    "leidas": 66,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/27/conaf-empleo-prevencion-incendios-concepcion.html",
+   "titulo": "Programa de Emergencia de Empleo de CONAF refuerza prevención de incendios forestales en sectores rurales de la provincia de Concepción",
+   "resumen": "A través de cupos adicionales del Programa para el período octubre - diciembre, las comunas de Santa Juana y Tomé desarrollan labores de silvicultura preventiva para proteger sus comunidades.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-1.png",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T15:00:28.666Z",
+   "visto": "2026-11-27T15:00:28.666Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.radioudec.cl/after-office-finco-reunio-a-mas-de-400-personas-interesadas-en-comprar-vivienda-en-el-gran-concepcion/",
    "titulo": "After Office Finco reunió a más de 400 personas interesadas en comprar vivienda en el Gran Concepción",
@@ -1629,20 +1643,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-25T20:57:13.000Z",
    "visto": "2026-11-25T21:00:28.778Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/persisten-irregularidades-en-extraccion-de-aridos-desde-el-rio-bio-bio-en-hualpen",
-   "titulo": "Persisten irregularidades en extracción de áridos desde el río Bío Bío en Hualpén",
-   "resumen": "Un informe de la Dirección General de Aguas (DGA) confirmó irregularidades en la extracción de áridos y agua, además de intervenciones no autorizadas en la ribera del río Bío Bío en Hualpén. Pese a las sanciones aplicadas, el diputado Antonio Rivas cuestionó…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/hualpen-aridos-2.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T20:50:24.404Z",
-   "visto": "2026-11-25T20:50:24.404Z",
    "cats": [
     "regional"
    ],
