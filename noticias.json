@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T11:40:21.266Z",
+ "generado": "2026-11-27T11:50:20.753Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
-    "leidas": 62,
+    "enlaces": 152,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 34,
-    "leidas": 7,
+    "leidas": 9,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/27/levantan-prohibicion-de-bano-en-playa-lenga-tras-no-hallar-presencia-de-fragata-portuguesa-en-48-horas",
+   "titulo": "Autorizan el baño en playa Lenga tras 48 horas sin detectar fragatas portuguesas",
+   "resumen": "Después de que la Armada monitoreara la playa Lenga durante 48 horas seguidas sin detectar fragata portuguesa, en la comuna de Hualpén, la Seremi de Salud del Bío Bío puso fin a la prohibición de ingresar al agua para bañarse y realizar actividades…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/archiv-a-1-por-levantan-prohibicion-de-bano-en-playa-lenga-tras-no-hallar-presencia-de-fragata-portuguesa-en-48-horas.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-27T11:50:20.753Z",
+   "visto": "2026-11-27T11:50:20.753Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/prohibicion-bano-fragata-portuguesa-lenga.html",
    "titulo": "Tras 48 horas sin hallar fragata portuguesa: levantan prohibición de baño en Lenga",
@@ -1644,20 +1658,6 @@
    "visto": "2026-11-25T19:30:25.446Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/25/pago-electronico-en-micros-del-gran-concepcion-habilitan-425-puntos-de-venta-y-recarga-de-tarjetas",
-   "titulo": "Pago electrónico en micros del Gran Concepción: habilitan 425 puntos de venta y recarga de tarjetas",
-   "resumen": "A partir del próximo martes 1 de diciembre comenzará la implementación gradual del sistema de pago electrónico en el transporte público del Gran Concepción, uno de los mayores cambios en el funcionamiento de las micros de la intercomuna. En total, 425 puntos…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/pago-electronico-del-transporte-en-el-gran-concepcion-1-768x405-1.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-25T19:30:25.446Z",
-   "visto": "2026-11-25T19:30:25.446Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
