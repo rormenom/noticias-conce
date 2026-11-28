@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T18:20:24.258Z",
+ "generado": "2026-11-28T18:30:26.323Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
-    "leidas": 1,
+    "enlaces": 56,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 28,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
@@ -1050,20 +1050,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/nuevo-puente-biobio-alcaldes-alertan-plazos-ejecucion.html",
-   "titulo": "Nuevo puente sobre el Biobío: municipios valoran iniciativa pero piden garantías para su ejecución",
-   "resumen": "Tras el anuncio del estudio de prefactibilidad impulsado por el MOP, los alcaldes de Concepción y San Pedro de la Paz destacaron la necesidad de mejorar la conectividad, aunque manifestaron preocupación por los tiempos que podría tomar el desarrollo de la…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-Puente-Juan-Pablo-II-foto-carolina-e1795721344758.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/27/biobio-discusion-presupuesto-2027.html",
    "titulo": "Biobío: educación, obras públicas, transporte y cultura marcaron la discusión presupuestaria 2027",
    "resumen": "El Congreso finalmente despachó la iniciativa tras restituir recursos en áreas específicas sumando flexibilidad regional y fijando compromisos de seguimiento para planes en la Región.",
@@ -1145,6 +1131,20 @@
    "visto": "2026-11-27T08:40:20.233Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/nuevo-puente-biobio-alcaldes-alertan-plazos-ejecucion.html",
+   "titulo": "Nuevo puente sobre el Biobío: municipios valoran iniciativa pero piden garantías para su ejecución",
+   "resumen": "Tras el anuncio del estudio de prefactibilidad impulsado por el MOP, los alcaldes de Concepción y San Pedro de la Paz destacaron la necesidad de mejorar la conectividad, aunque manifestaron preocupación por los tiempos que podría tomar el desarrollo de la…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-Puente-Juan-Pablo-II-foto-carolina-e1795721344758.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
