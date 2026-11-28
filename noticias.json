@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T09:40:21.338Z",
+ "generado": "2026-11-28T10:50:20.723Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 157,
+    "enlaces": 159,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -2810,21 +2810,6 @@
    "fuenteId": "biobiochile",
    "fecha": "2026-11-23T11:02:37.000Z",
    "visto": "2026-11-23T11:10:20.805Z",
-   "cats": [
-    "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/alcalde-de-quilaco-llama-a-prevenir-incendios-ante-alza-de-temperaturas-en-la-cordillera-de-bio-bio",
-   "titulo": "Alcalde de Quilaco llama a prevenir incendios ante alza de temperaturas en la cordillera de Bío Bío",
-   "resumen": "El presidente de la Asociación de Municipios Cordilleranos, Amcordi, y alcalde de Quilaco, Pablo Urrutia, llamó a cuidar los entornos, revisar los cortafuegos, despejar los sitios eriazos y practicar el autocuidado entre quienes viven y transitan por sectores…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/05/incendio-forestal-afecta-al-sector-cordillerano-de-quillaileo-en-santa-barbara.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T10:50:21.877Z",
-   "visto": "2026-11-23T10:50:21.877Z",
    "cats": [
     "regional",
     "politica"
