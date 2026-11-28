@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T08:00:29.726Z",
+ "generado": "2026-11-28T08:40:20.542Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
-    "leidas": 0,
+    "enlaces": 57,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 62,
+    "leidas": 54,
     "errores": 0,
     "robots": 0
    }
@@ -81,6 +81,119 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/28/oficio-de-la-armada-fija-remuneracion-desde-octubre-a-seremi-del-trabajo-autoridad-niega-doble-sueldo.html",
+   "titulo": "Oficio de la Armada fija remuneración desde octubre a seremi del Trabajo: autoridad niega doble sueldo",
+   "resumen": "Documentos oficiales y declaraciones mantienen abiertas dudas sobre relación de la secretaria ministerial con la entidad castrense.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-5-Camila-Alvarez-seremi-de-trabajo-foto-carolina.jpg-e1795825773518.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-28T08:40:20.542Z",
+   "visto": "2026-11-28T08:40:20.542Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/28/udec-inaugura-laboratorio-analisis-sensorial-alimentos.html",
+   "titulo": "Sabor, aroma y textura: UdeC inaugura laboratorio para evaluar nuevos alimentos",
+   "resumen": "El recinto permitirá estudiar la aceptabilidad de productos entre consumidores y apoyar procesos de innovación alimentaria, con posibilidades de colaboración con empresas y emprendedores.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-laboratorio-foto-cedida-e1795808400788.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-28T08:40:20.542Z",
+   "visto": "2026-11-28T08:40:20.542Z",
+   "cats": [
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/28/apuestas-online-aportes-talcahuano-biobio.html",
+   "titulo": "Regulación de apuestas online abre dudas por eventual baja de aportes de casino a Talcahuano y Gore",
+   "resumen": "La Municipalidad del puerto recibió $3.753 millones por impuesto al juego durante 2025.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-Casino-Marina-del-Sol-foto-archivo-diario-concepcion.JPG-e1795826158983.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-28T08:40:20.542Z",
+   "visto": "2026-11-28T08:40:20.542Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/28/impulso-lector-prueba-lectura-segundo-basico-biobio.html",
+   "titulo": "Biobío: por primera vez realizan prueba de lectura para estudiantes de 2º básico",
+   "resumen": "En la Región, algunos establecimientos ya se encuentran trabajando con innovaciones en la enseñanza y esperan los resultados de este análisis para detectar las dificultades que deben mejorar.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-procursores-de-la-lectura-foto-mineduc.jpg-e1795826851206.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-28T08:40:20.542Z",
+   "visto": "2026-11-28T08:40:20.542Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/28/cambio-plan-regulador-carcel-los-angeles.html",
+   "titulo": "Cambio al Plan Regulador para reconstruir cárcel en Los Ángeles avanza en medio de rechazo vecinal y municipal",
+   "resumen": "El recinto quedó fuera de operaciones a consecuencia del terremoto de 2010. Se encuentra en un sector residencial que incluye supermercados y establecimientos educacionales.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-6-carcel-de-los-angeles-foto-captura-de-imagen-e1795827083917.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-28T08:40:20.542Z",
+   "visto": "2026-11-28T08:40:20.542Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/28/cinco-atletas-del-biobio-viajaron-para-buscar-medallas-en-guayaquil.html",
+   "titulo": "Cinco atletas del Biobío viajaron para buscar medallas en Guayaquil",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-16-atletismo-de-Biob%C3%ADo-competira-en-Sudamericano-Escolar-foto-ind-e1795826815394.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-28T08:40:20.542Z",
+   "visto": "2026-11-28T08:40:20.542Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/28/machuca-gufi-y-los-tetas-encabezan-la-cuarta-edicion-del-festival-feriosa.html",
+   "titulo": "Machuca, Gufi y Los Tetas encabezan la cuarta edición del Festival Feriosa",
+   "resumen": "El evento familiar se desplegará durante tres jornadas en el Parque Bicentenario, con 17 artistas y bandas que recorrerán distintos estilos y generaciones. La propuesta también contempla cervecerías, gastronomía y emprendimientos locales, con entrada…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Principal-cr%C3%A9dito-@prensarockchile-e1795826629227.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-28T08:40:20.542Z",
+   "visto": "2026-11-28T08:40:20.542Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/28/biobio-gremios-no-renovacion-contratas-sector-publico.html",
+   "titulo": "Tensión en el sector público: Gremios del Biobío acusan falta de garantías ante no renovación de contratas",
+   "resumen": "Funcionarios se manifestaron en Concepción y alertaron por desvinculaciones en distintos servicios.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/manifestacion-gremios-e1795826197455.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-28T08:40:20.542Z",
+   "visto": "2026-11-28T08:40:20.542Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/27/denuncian-despidos-en-seremi-de-educacion-del-bio-bio-entre-criticas-por-nuevas-contrataciones.shtml",
    "titulo": "Denuncian despidos en Seremi de Educación del Bío Bío entre críticas por nuevas contrataciones",
@@ -778,20 +891,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/escenika-cumple-19-anos-y-reunira-cuatro-propuestas-de-danza-y-teatro-en-el-biobio.html",
-   "titulo": "Escénika cumple 19 años y reunirá cuatro propuestas de danza y teatro en el Biobío",
-   "resumen": "El encuentro organizado por Balmaceda Arte Joven contempla funciones para estudiantes y presentaciones abiertas a la comunidad, con obras que abordan desde las experiencias personales hasta la memoria de figuras y colectivos de relevancia social. Con entrada…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Principal-cedida-BAJ-Biob%C3%ADo-e1795741789197.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/musico-max-tupper-llega-con-su-tour-el-verso-es-una-paloma-a-la-capital-regional.html",
    "titulo": "Músico Max Tupper llega con su tour “El verso es una paloma” a la capital regional",
    "resumen": "",
@@ -806,10 +905,24 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/27/hospital-regional-estudio-internacional-sepsis-pediatria.html",
-   "titulo": "Hospital Regional aportó en estudio internacional que evaluó magnitud de la sepsis en pediatría",
-   "resumen": "El doctor Raúl Bustos de la UCI Pediátrica del HGGB, fue coordinador nacional de proyecto para generar una base de datos para cuantificar la prevalencia.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-hospital-regional-aporto-estudio-internacional-en-evaluo-magnitud-sepsis-en-pediatria-foto-HGGB-e1795741935259.jpg",
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/escenika-cumple-19-anos-y-reunira-cuatro-propuestas-de-danza-y-teatro-en-el-biobio.html",
+   "titulo": "Escénika cumple 19 años y reunirá cuatro propuestas de danza y teatro en el Biobío",
+   "resumen": "El encuentro organizado por Balmaceda Arte Joven contempla funciones para estudiantes y presentaciones abiertas a la comunidad, con obras que abordan desde las experiencias personales hasta la memoria de figuras y colectivos de relevancia social. Con entrada…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Principal-cedida-BAJ-Biob%C3%ADo-e1795741789197.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/27/dichato-carnaval-biodiversidad-marina-udec.html",
+   "titulo": "Hoy en Dichato: Carnaval de la Biodiversidad Marina UdeC invita a disfrutar las ciencias del mar",
+   "resumen": "Este viernes 27 de noviembre, la Estación de Biología Marina abrirá sus puertas a la comunidad para acercar el conocimiento de forma práctica y lúdica.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-carnaval-de-la-biodversidad-marina-UdeC-foto-DOCE-UdeC-e1795741992768.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-27T08:40:20.233Z",
@@ -820,10 +933,10 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/27/dichato-carnaval-biodiversidad-marina-udec.html",
-   "titulo": "Hoy en Dichato: Carnaval de la Biodiversidad Marina UdeC invita a disfrutar las ciencias del mar",
-   "resumen": "Este viernes 27 de noviembre, la Estación de Biología Marina abrirá sus puertas a la comunidad para acercar el conocimiento de forma práctica y lúdica.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-carnaval-de-la-biodversidad-marina-UdeC-foto-DOCE-UdeC-e1795741992768.jpg",
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/27/hospital-regional-estudio-internacional-sepsis-pediatria.html",
+   "titulo": "Hospital Regional aportó en estudio internacional que evaluó magnitud de la sepsis en pediatría",
+   "resumen": "El doctor Raúl Bustos de la UCI Pediátrica del HGGB, fue coordinador nacional de proyecto para generar una base de datos para cuantificar la prevalencia.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-11-hospital-regional-aporto-estudio-internacional-en-evaluo-magnitud-sepsis-en-pediatria-foto-HGGB-e1795741935259.jpg",
    "fuente": "Diario Concepción",
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-27T08:40:20.233Z",
@@ -1608,20 +1721,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/indice-confianza-pagos-digitales.html",
-   "titulo": "Chile obtiene 74 puntos sobre 100 en el primer Índice de Confianza en Pagos Digitales",
-   "resumen": "El estudio mide la confianza de los usuarios de pagos digitales a través de cinco dimensiones. Mientras la claridad del importe final y la protección de datos encabezan las prioridades, la mayor reserva de los encuestados aparece frente a pagos ejecutados…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Resultados-Chile-Rapyd-Trust-in-DP-Index.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T12:10:19.853Z",
-   "visto": "2026-11-26T12:10:19.853Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/cantautor-poeta-valdiviano-camilo-eque-presentara-nuevo-album-galope-teatro-lihuen.html",
    "titulo": "Artista valdiviano Camilo Eque presentará hoy su nuevo álbum “Galope” en Teatro Lihuén",
    "resumen": "",
@@ -1647,20 +1746,6 @@
    "cats": [
     "tecnologia",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/minvu-anuncia-reapertura-de-avenida-padre-hurtado-y-mejora-la-conectividad-vial-entre-concepcion-y-chiguayante/",
-   "titulo": "Minvu anuncia reapertura de avenida Padre Hurtado y mejora la conectividad vial entre Concepción y Chiguayante",
-   "resumen": "Una importante noticia para la conectividad vial del Gran Concepción […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/03/congestion-concepcion-768x450.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-26T11:19:20.000Z",
-   "visto": "2026-11-26T11:20:19.617Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
@@ -1694,21 +1779,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/enap-dragado-san-vicente-rechazo-pescadores.html",
-   "titulo": "Pesca artesanal pide despejar dudas sobre áreas de manejo y mitigación ante proyecto de dragado de Enap",
-   "resumen": "La estatal asegura que se contemplan “medidas de control, mitigación y compensación ambientales para resguardar los ecosistemas marinos”.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-puerto-san-vicente-foto-carolina.jpg-e1795652849870.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T08:40:22.866Z",
-   "visto": "2026-11-26T08:40:22.866Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/deportes/2026/11/26/el-leon-versus-la-u-dos-de-los-mejores-equipos-de-la-segunda-rueda.html",
    "titulo": "El “León” versus la “U”: dos de los mejores equipos de la segunda rueda",
    "resumen": "",
@@ -1732,6 +1802,21 @@
    "fecha": "2026-11-26T08:40:22.866Z",
    "visto": "2026-11-26T08:40:22.866Z",
    "cats": [
+    "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/enap-dragado-san-vicente-rechazo-pescadores.html",
+   "titulo": "Pesca artesanal pide despejar dudas sobre áreas de manejo y mitigación ante proyecto de dragado de Enap",
+   "resumen": "La estatal asegura que se contemplan “medidas de control, mitigación y compensación ambientales para resguardar los ecosistemas marinos”.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-12-puerto-san-vicente-foto-carolina.jpg-e1795652849870.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T08:40:22.866Z",
+   "visto": "2026-11-26T08:40:22.866Z",
+   "cats": [
+    "regional",
     "cultura"
    ],
    "local": true
@@ -2757,34 +2842,6 @@
    "visto": "2026-11-23T09:30:24.945Z",
    "cats": [
     "regional",
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/campeones-despues-de-los-75-mas-vivos-que-nunca-bajo-el-aro.html",
-   "titulo": "Campeones después de los 75: más vivos que nunca bajo el aro",
-   "resumen": "Equipo de Maxiconce es el mejor de Chile por séptima vez. Un ejemplo de amor por el deporte, disciplina, compañerismo y mucho esfuerzo porque ya no trabajan, pero igualmente deben costearse cada viaje.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/maxiconce-75.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T08:40:21.730Z",
-   "visto": "2026-11-23T08:40:21.730Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/carlos-pena-critica-gestion-kast-renuncias-gobierno-prensa-regional.html",
-   "titulo": "“La política es un arte de hipocresía”: Carlos Peña aborda el homenaje a Ho Chi Minh y las renuncias en el Gobierno",
-   "resumen": "El rector de la UDP analizó la gestión de Kast, las dificultades para conformar equipos de Gobierno, la relación entre política y ejercicio del poder, y el papel de los medios regionales en la construcción de una opinión pública informada.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/WhatsApp-Image-2026-11-22-at-15.04.21.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T08:40:21.730Z",
-   "visto": "2026-11-23T08:40:21.730Z",
-   "cats": [
     "politica"
    ],
    "local": true
