@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T16:40:19.753Z",
+ "generado": "2026-11-28T16:50:20.162Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -48,7 +48,7 @@
    "diag": {
     "paginas": 5,
     "enlaces": 20,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 61,
+    "leidas": 63,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 28,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
@@ -2688,50 +2688,6 @@
    "visto": "2026-11-24T00:20:24.239Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/23/impresion-3d-repuestos-descontinuados-chile-2026.html",
-   "titulo": "De $65.000 más IVA a $2.000: el auge de la impresión 3D para fabricar repuestos descontinuados y reducir basura electrónica",
-   "resumen": "Entre enero y mediados de noviembre de 2026, la comercialización de impresoras 3D aumentó un 55% respecto de igual período de 2025, impulsada por hogares, emprendedores y pymes que buscan abaratar costos de mantención y evitar el desecho prematuro de…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/impresion-3d-repuestos-descontinuados-chile-2026.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T16:50:21.990Z",
-   "visto": "2026-11-23T16:50:21.990Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/teatro-misterio-y-almas-en-pena-estrenan-las-animas-en-talcahuano",
-   "titulo": "Teatro, misterio y almas en pena: estrenan «Las Ánimas» en Talcahuano",
-   "resumen": "Cinco ánimas, o almas en pena, siguen sin poder volver a casa. Vagan por un territorio sin nombre y reviven una contienda que acabó hace medio siglo. Así parte Las Ánimas, que se estrenará el viernes 27 y el sábado 28 de noviembre en el Teatro Dante de…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/animas.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T16:50:21.990Z",
-   "visto": "2026-11-23T16:50:21.990Z",
-   "cats": [
-    "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/visita-de-biministro-alvarado-al-biobio-aumenta-presion-por-nombramiento-de-delegado-presidencial",
-   "titulo": "Visita de biministro Alvarado al Biobío aumenta presión por nombramiento de delegado presidencial",
-   "resumen": "A casi un mes de la renuncia de Julio Anativia, autoridades regionales cuestionaron la demora del Gobierno en designar a su reemplazante. La llegada del biministro Claudio Alvarado a Talcahuano genera expectativas sobre un eventual anuncio, mientras persisten…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/Diseno-sin-titulo-3-e1795452041262.png",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T16:50:21.990Z",
-   "visto": "2026-11-23T16:50:21.990Z",
-   "cats": [
-    "regional",
-    "politica"
    ],
    "local": true
   }
