@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T18:30:26.323Z",
+ "generado": "2026-11-28T18:40:24.385Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -2675,20 +2675,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/deportes/2026/11/23/morados-y-acereros-quien-gano-con-el-empate-en-cap.html",
-   "titulo": "Morados y acereros: ¿Quién ganó con el empate en CAP?",
-   "resumen": "Técnicos Fernando Díaz y Jaime García se refirieron al 0-0 en el puerto que dejó a Deportes Concepción a un punto de copas internacionales y a Huachipato en el puesto 11 de la tabla.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/conce-huachipato-e1795458378706.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T18:40:20.395Z",
-   "visto": "2026-11-23T18:40:20.395Z",
-   "cats": [
-    "deportes"
    ],
    "local": true
   }
