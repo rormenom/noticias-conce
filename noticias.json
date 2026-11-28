@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T11:10:23.433Z",
+ "generado": "2026-11-28T13:00:28.181Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 56,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 159,
+    "enlaces": 155,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/28/bio-bio-supera-el-10-de-desempleo-y-sigue-entre-las-regiones-con-peores-cifras-del-pais.shtml",
+   "titulo": "Bío Bío supera el 10% de desempleo y sigue entre las regiones con peores cifras del país",
+   "resumen": "La región del Bío Bío registró una tasa de desempleo de 10,6% durante el trimestre agosto-octubre, manteniéndose por sobre el...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7035757-foto-contexto-nota-bbcl-2026-11-28t095740-691.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-28T12:59:05.000Z",
+   "visto": "2026-11-28T13:00:28.181Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/28/oficio-de-la-armada-fija-remuneracion-desde-octubre-a-seremi-del-trabajo-autoridad-niega-doble-sueldo.html",
    "titulo": "Oficio de la Armada fija remuneración desde octubre a seremi del Trabajo: autoridad niega doble sueldo",
@@ -1688,20 +1702,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/udec-conmemoro-dia-internacional-de-la-eliminacion-de-la-violencia-contra-la-mujer-con-actividades-en-los-3-campus/",
-   "titulo": "UdeC conmemoró Día Internacional de la Eliminación de la Violencia contra la Mujer con actividades en los 3 campus",
-   "resumen": "El teatro, el diálogo y la creación colectiva fueron parte […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/Acto-central-25N-Dia-Internacional-de-la-Eliminacion-de-la-Violencia-hacia-la-Mujer-768x512.webp",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-26T13:46:24.000Z",
-   "visto": "2026-11-26T13:50:20.012Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
