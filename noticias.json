@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T23:30:23.448Z",
+ "generado": "2026-11-28T00:10:19.563Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,8 +34,8 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
-    "leidas": 0,
+    "enlaces": 57,
+    "leidas": 2,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 154,
-    "leidas": 63,
+    "enlaces": 156,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,7 +74,7 @@
    "diag": {
     "paginas": 3,
     "enlaces": 28,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
@@ -495,6 +495,34 @@
    "local": true
   },
   {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/actividad-gratuita-en-laguna-chica-regata-de-bote-dragon-visibilizara-el-riesgo-de-recurrencia-del-cancer-de-mama.html",
+   "titulo": "Actividad gratuita en Laguna Chica: regata de bote dragón visibilizará el riesgo de recurrencia del cáncer de mama",
+   "resumen": "La jornada gratuita, impulsada por la Fundación Mujeres por un Lazo y Novartis, se realizará este sábado 28 de noviembre en la Laguna Chica y reunirá a agrupaciones de sobrevivientes para destacar el deporte como herramienta de prevención y promover el…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/San-Pedro-Cendyr-Nautico-e1795823988898.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T15:00:00.000Z",
+   "visto": "2026-11-28T00:10:19.563Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/postulaciones-tarjeta-banco-materiales-biobio.html",
+   "titulo": "Plazo vence el miércoles 9 de diciembre: llaman a familias del Biobío a postular a subsidios para arreglos del hogar",
+   "resumen": "La convocatoria nacional dispone de 20 mil cupos y permite financiar materiales para reparaciones de baja complejidad en techumbres, baños, pisos y cierres perimetrales. El trámite se realiza en línea en minvu.cl con RUT y Clave Única.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/postulaciones-tarjeta-banco-materiales-biobio-e1795824467752.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T15:00:00.000Z",
+   "visto": "2026-11-28T00:10:19.563Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
    "url": "https://www.radioudec.cl/after-office-finco-reunio-a-mas-de-400-personas-interesadas-en-comprar-vivienda-en-el-gran-concepcion/",
    "titulo": "After Office Finco reunió a más de 400 personas interesadas en comprar vivienda en el Gran Concepción",
    "resumen": "Más de 400 personas llegaron al Hotel MDS para participar […]",
@@ -722,20 +750,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/turistas-banan-caleta-lenga-fragata-portuguesa.html",
-   "titulo": "Pese al cierre de playa por fragata portuguesa: turistas continúan bañándose en Caleta Lenga",
-   "resumen": "Por desconocimiento, distintas personas se mantienen realizando distintas actividades recreativas en la costa. Expertos hacen un llamado a tener precaución con la especie.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-playa-Lenga-no-apta-para-ba%C3%B1arse-por-fragata-portuguesa-foto-captura-de-imagen-e1795740449794.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T08:40:20.233Z",
-   "visto": "2026-11-27T08:40:20.233Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/27/escenika-cumple-19-anos-y-reunira-cuatro-propuestas-de-danza-y-teatro-en-el-biobio.html",
    "titulo": "Escénika cumple 19 años y reunirá cuatro propuestas de danza y teatro en el Biobío",
    "resumen": "El encuentro organizado por Balmaceda Arte Joven contempla funciones para estudiantes y presentaciones abiertas a la comunidad, con obras que abordan desde las experiencias personales hasta la memoria de figuras y colectivos de relevancia social. Con entrada…",
@@ -788,6 +802,20 @@
    "visto": "2026-11-27T08:40:20.233Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/turistas-banan-caleta-lenga-fragata-portuguesa.html",
+   "titulo": "Pese al cierre de playa por fragata portuguesa: turistas continúan bañándose en Caleta Lenga",
+   "resumen": "Por desconocimiento, distintas personas se mantienen realizando distintas actividades recreativas en la costa. Expertos hacen un llamado a tener precaución con la especie.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-playa-Lenga-no-apta-para-ba%C3%B1arse-por-fragata-portuguesa-foto-captura-de-imagen-e1795740449794.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T08:40:20.233Z",
+   "visto": "2026-11-27T08:40:20.233Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
@@ -1620,34 +1648,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/se-mantienen-irregularidades-por-extraccion-de-aridos-en-la-ribera-del-rio-bio-bio-en-hualpen.shtml",
-   "titulo": "Se mantienen irregularidades por extracción de áridos en la ribera del río Bío Bío en Hualpén",
-   "resumen": "Se mantienen las irregularidades en la extracción de áridos desde el río Bío Bío en la comuna de Hualpén, según...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7032840-extraccion-aridos.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-26T10:41:17.000Z",
-   "visto": "2026-11-26T10:50:21.584Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/familia-de-daysi-jaramillo-clama-por-ayuda-tras-mas-de-un-mes-de-busqueda-en-san-pedro-de-la-paz",
-   "titulo": "Familia de Daysi Jaramillo clama por ayuda tras más de un mes de búsqueda en San Pedro de la Paz",
-   "resumen": "La familia de Daysi Jaramillo Lecerf, mujer y madre de 40 años desaparecida desde el 20 de octubre en San Pedro de la Paz, pidió la intervención de las autoridades para encontrarla lo antes posible. Los parientes ya agotaron sus recursos personales para…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/10/DAISY.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-26T10:40:29.651Z",
-   "visto": "2026-11-26T10:40:29.651Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
