@@ -1,11 +1,12 @@
 {
- "generado": "2026-11-28T03:00:27.702Z",
+ "generado": "2026-11-28T07:40:21.259Z",
  "fuentes": [
   {
    "id": "conquistador",
    "nombre": "El Conquistador",
    "url": "https://www.elconquistadorconcepcion.cl/",
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "diag": {
     "paginas": 0,
     "enlaces": 0,
@@ -60,7 +61,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 156,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -2798,20 +2799,6 @@
    "fuenteId": "conquistador",
    "fecha": "2026-11-23T08:00:16.000Z",
    "visto": "2026-11-23T11:40:22.945Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/la-udec-queda-ultima-y-su-permanencia-en-primera-esta-en-serio-riesgo/",
-   "titulo": "La UdeC al borde del descenso: Se juega la permanencia en dos finales",
-   "resumen": "El Campanil atraviesa uno de los momentos más delicados de su temporada 2026. Tras caer ante Ñublense, el conjunto penquista quedó como colista de la Liga de Primera y ahora necesita sumar en las dos jornadas restantes para evitar el descenso a Primera B.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/udec-peligra-permanencia-liga-2026-768x399.png",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-23T07:39:43.000Z",
-   "visto": "2026-11-23T11:50:24.660Z",
    "cats": [
     "deportes"
    ],
