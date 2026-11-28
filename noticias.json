@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T16:50:20.162Z",
+ "generado": "2026-11-28T17:00:29.660Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -1768,20 +1768,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/cantautor-poeta-valdiviano-camilo-eque-presentara-nuevo-album-galope-teatro-lihuen.html",
-   "titulo": "Artista valdiviano Camilo Eque presentará hoy su nuevo álbum “Galope” en Teatro Lihuén",
-   "resumen": "",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-Camilo-Eque-e1795653272338.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T11:50:20.008Z",
-   "visto": "2026-11-26T11:50:20.008Z",
-   "cats": [
-    "cultura"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/26/seremi-ctci-el-acuerdo-no-autoriza-a-openai-a-acceder-a-bases-de-datos-del-estado-ni-datos-de-los-chilenos.html",
    "titulo": "Seremi CTCI: “El acuerdo no autoriza a OpenAI a acceder a bases de datos del Estado ni datos de los chilenos”",
    "resumen": "Pedro Ramírez, autoridad regional del Ministerio de Ciencia, abordó los alcances de convenio suscrito con OpenAI.",
@@ -1793,6 +1779,20 @@
    "cats": [
     "tecnologia",
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/26/cantautor-poeta-valdiviano-camilo-eque-presentara-nuevo-album-galope-teatro-lihuen.html",
+   "titulo": "Artista valdiviano Camilo Eque presentará hoy su nuevo álbum “Galope” en Teatro Lihuén",
+   "resumen": "",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Foto-secundaria-cedida-Camilo-Eque-e1795653272338.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T11:50:20.008Z",
+   "visto": "2026-11-26T11:50:20.008Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
