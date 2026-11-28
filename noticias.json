@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T15:40:19.870Z",
+ "generado": "2026-11-28T16:10:20.379Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -47,8 +47,8 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 19,
-    "leidas": 0,
+    "enlaces": 18,
+    "leidas": 3,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 151,
-    "leidas": 60,
+    "leidas": 59,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,56 @@
    "diag": {
     "paginas": 3,
     "enlaces": 28,
-    "leidas": 10,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/28/autoridad-niega-doble-sueldo-oficio-de-la-armada-fija-remuneracion-desde-octubre-a-seremi-del-trabajo.html",
+   "titulo": "Autoridad niega doble sueldo: Oficio de la Armada fija remuneración desde octubre a seremi del Trabajo",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-5-Camila-Alvarez-seremi-de-trabajo-foto-carolina.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-28T16:10:20.379Z",
+   "visto": "2026-11-28T16:10:20.379Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/28/plazo-vence-el-miercoles-9-de-diciembre-llaman-a-familias-de-la-region-a-postular-a-subsidios-para-arreglos-del-hogar.html",
+   "titulo": "Plazo vence el miércoles 9 de diciembre: llaman a familias de la Región a postular a subsidios para arreglos del hogar",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/postulaciones-tarjeta-banco-materiales-biobio-850x500.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-28T16:10:20.379Z",
+   "visto": "2026-11-28T16:10:20.379Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/28/funcionarios-publicos-de-la-region-accederan-a-bonos-de-hasta-180-mil-y-reajuste-de-46-tras-pacto-con-el-ejecutivo.html",
+   "titulo": "Funcionarios públicos de la Región accederán a bonos de hasta $180 mil y reajuste de 4,6% tras pacto con el Ejecutivo",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/Vista-a%C3%A9rea-de-Concepci%C3%B3n-850x500.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-28T16:10:20.379Z",
+   "visto": "2026-11-28T16:10:20.379Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/28/conductor-de-micro-ebrio-choco-en-talcahuano-marco-157-en-alcotest-y-llevaba-mas-de-10-pasajeros.shtml",
    "titulo": "Conductor de micro ebrio chocó en Talcahuano: marcó 1,57 en alcotest y llevaba más de 10 pasajeros",
@@ -1650,48 +1693,6 @@
    "local": true
   },
   {
-   "url": "https://www.tvu.cl/prensa/2026/11/26/tendra-uno-mas-que-este-ano-conoce-los-feriados-que-traera-el-2027.html",
-   "titulo": "Tendrá uno más que este año: conoce los feriados que traerá el 2027",
-   "resumen": "",
-   "imagen": "https://assets.tvu.cl/2026/05/feriado-chile.jpg",
-   "fuente": "TVU",
-   "fuenteId": "tvu",
-   "fecha": "2026-11-26T15:00:29.764Z",
-   "visto": "2026-11-26T15:00:29.764Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/indice-confianza-pagos-digitales.html",
-   "titulo": "Chile obtiene 74 puntos sobre 100 en el primer Índice de Confianza en Pagos Digitales",
-   "resumen": "El estudio mide la confianza de los usuarios de pagos digitales a través de cinco dimensiones. Mientras la claridad del importe final y la protección de datos encabezan las prioridades, la mayor reserva de los encuestados aparece frente a pagos ejecutados…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Resultados-Chile-Rapyd-Trust-in-DP-Index.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T15:00:00.000Z",
-   "visto": "2026-11-28T08:50:21.707Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/26/centros-atencion-pago-electronico-concepcion-talcahuano.html",
-   "titulo": "Pago electrónico en el Gran Concepción: este viernes abren centros de atención para retirar tarjetas en Concepción y Talcahuano",
-   "resumen": "Durante este viernes 27 de noviembre atenderán desde las 12:30 hasta las 19:30 horas, mientras que el funcionamiento habitual incluirá fines de semana y festivos.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pago-electr%C3%B3nico-qr-concepci%C3%B3n-micros-transporte-2.png",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-26T15:00:00.000Z",
-   "visto": "2026-11-27T01:30:24.087Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/26/escolares-de-coronel-participaron-en-clinicas-deportivas-camanchaca-lota-schwager/",
    "titulo": "Escolares de Coronel participaron en clínicas deportivas Camanchaca-Lota Schwager",
    "resumen": "Más de 500: La iniciativa, desarrollada entre agosto y noviembre en seis establecimientos educacionales de la comuna, buscó fomentar la vida sana, el trabajo en equipo y el vínculo con la identidad deportiva local.",
@@ -2742,20 +2743,6 @@
    "visto": "2026-11-23T16:40:22.716Z",
    "cats": [
     "regional",
-    "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/23/alejandro-sanz-confirma-concierto-en-concepcion-revisa-cuando-comienza-la-venta-de-entradas.shtml",
-   "titulo": "¡Alejandro Sanz confirma concierto en Concepción! Revisa cuándo comienza la venta de entradas",
-   "resumen": "La espera terminó para los fanáticos de Alejandro Sanz en Chile. Y es que el cantante español confirmó su regreso...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7029090-alejandro-sanz.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-23T16:02:22.000Z",
-   "visto": "2026-11-23T16:10:23.792Z",
-   "cats": [
     "cultura"
    ],
    "local": true
