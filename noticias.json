@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T14:10:24.552Z",
+ "generado": "2026-11-28T14:40:21.055Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
+    "enlaces": 150,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/28/conductor-de-micro-ebrio-choco-en-talcahuano-marco-157-en-alcotest-y-llevaba-mas-de-10-pasajeros.shtml",
+   "titulo": "Conductor de micro ebrio chocó en Talcahuano: marcó 1,57 en alcotest y llevaba más de 10 pasajeros",
+   "resumen": "Un conductor de un taxibús de la línea Ruta del Mar fue detenido tras protagonizar un accidente de tránsito mientras...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7035819-foto-contexto-nota-bbcl-2026-11-28t113656-355.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-28T14:38:44.000Z",
+   "visto": "2026-11-28T14:40:21.055Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.canal9.cl/episodios/2026/11/28/denuncian-despidos-en-seremi-de-educacion-del-bio-bio-entre-criticas-por-nuevas-contrataciones",
    "titulo": "Acusan despidos en la Seremi de Educación del Bío Bío mientras cuestionan nuevas contrataciones",
@@ -1672,20 +1686,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-26T15:00:00.000Z",
    "visto": "2026-11-27T01:30:24.087Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/biobio-toma-la-delantera-encuentro-erede-busca-cerrar-el-ano-con-una-mirada-propositiva",
-   "titulo": "\"Biobío toma la delantera\": Encuentro EREDE busca cerrar el año con una mirada propositiva",
-   "resumen": "El próximo 3 de diciembre se realizará en la región del Biobío la XXXVIII versión del Encuentro Regional de la Empresa, EREDE 2026, organizado por IRADE bajo el lema «Biobío toma la delantera». El encuentro convocará a autoridades, economistas, líderes…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/EREDE.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-26T14:50:25.383Z",
-   "visto": "2026-11-26T14:50:25.383Z",
    "cats": [
     "regional"
    ],
