@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T00:20:22.089Z",
+ "generado": "2026-11-28T00:30:25.820Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 1,
+    "leidas": 0,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 155,
-    "leidas": 61,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -509,20 +509,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/actividad-gratuita-en-laguna-chica-regata-de-bote-dragon-visibilizara-el-riesgo-de-recurrencia-del-cancer-de-mama.html",
-   "titulo": "Actividad gratuita en Laguna Chica: regata de bote dragón visibilizará el riesgo de recurrencia del cáncer de mama",
-   "resumen": "La jornada gratuita, impulsada por la Fundación Mujeres por un Lazo y Novartis, se realizará este sábado 28 de noviembre en la Laguna Chica y reunirá a agrupaciones de sobrevivientes para destacar el deporte como herramienta de prevención y promover el…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/San-Pedro-Cendyr-Nautico-e1795823988898.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-27T15:00:00.000Z",
-   "visto": "2026-11-28T00:10:19.563Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/27/aprueban-equipamiento-brigadas-incendios-santa-juana.html",
    "titulo": "Aprueban $334 millones para equipar a brigadas comunitarias ante incendios forestales en Santa Juana",
    "resumen": "La iniciativa contempla 28 carros de arrastre con herramientas forestales y 10 estanques de 45 mil litros de agua para reforzar el control temprano del fuego en sectores rurales ubicados hasta a 50 kilómetros del radio urbano.",
@@ -533,6 +519,20 @@
    "visto": "2026-11-28T00:20:22.089Z",
    "cats": [
     "politica"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/27/actividad-gratuita-en-laguna-chica-regata-de-bote-dragon-visibilizara-el-riesgo-de-recurrencia-del-cancer-de-mama.html",
+   "titulo": "Actividad gratuita en Laguna Chica: regata de bote dragón visibilizará el riesgo de recurrencia del cáncer de mama",
+   "resumen": "La jornada gratuita, impulsada por la Fundación Mujeres por un Lazo y Novartis, se realizará este sábado 28 de noviembre en la Laguna Chica y reunirá a agrupaciones de sobrevivientes para destacar el deporte como herramienta de prevención y promover el…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/San-Pedro-Cendyr-Nautico-e1795823988898.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-27T15:00:00.000Z",
+   "visto": "2026-11-28T00:10:19.563Z",
+   "cats": [
+    "regional"
    ],
    "local": true
   },
