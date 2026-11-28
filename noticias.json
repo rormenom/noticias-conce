@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T00:30:25.820Z",
+ "generado": "2026-11-28T01:40:20.411Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 57,
+    "enlaces": 56,
     "leidas": 0,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/27/denuncian-despidos-en-seremi-de-educacion-del-bio-bio-entre-criticas-por-nuevas-contrataciones.shtml",
+   "titulo": "Denuncian despidos en Seremi de Educación del Bío Bío entre críticas por nuevas contrataciones",
+   "resumen": "Funcionarios de la Seremi de Educación del Bío Bío alertaron el despido de personal que comenzó en la cartera, medida...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7035596-seremi-educacion.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-28T01:40:14.000Z",
+   "visto": "2026-11-28T01:40:20.411Z",
+   "cats": [
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/politica/2026/11/27/bono-termino-conflicto-funcionarios-biobio.html",
    "titulo": "Funcionarios públicos del Biobío accederán a bonos de hasta $180 mil y reajuste de 4,6% tras pacto con el Ejecutivo",
