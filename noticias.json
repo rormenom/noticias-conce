@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T17:10:21.535Z",
+ "generado": "2026-11-28T18:00:31.372Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 56,
-    "leidas": 0,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 151,
-    "leidas": 63,
+    "enlaces": 150,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,56 @@
    "diag": {
     "paginas": 3,
     "enlaces": 28,
-    "leidas": 7,
+    "leidas": 8,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/28/festival-santiago-wild-desplegara-inedita-version-udec-exhibiciones-films-reflexion-cientifica.html",
+   "titulo": "Festival Santiago Wild desplegará inédita versión en la UdeC con exhibiciones de films y reflexión científica",
+   "resumen": "La cita, que fusiona proyecciones de documentales y cortos con conversatorios con expertos científicos, se realizará por primera vez en Concepción este 30 de noviembre desde las 14.00 horas en el Auditorio de Humanidades y Arte de la Universidad de…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Pumas-de-la-Estepa.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-28T18:00:31.372Z",
+   "visto": "2026-11-28T18:00:31.372Z",
+   "cats": [
+    "cultura",
+    "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/28/conductor-de-micro-ebrio-choco-en-talcahuano-marco-157-en-alcotest-y-llevaba-mas-de-10-pasajeros",
+   "titulo": "Chofer de micro protagonizó choque en Talcahuano con 1,57 en el alcotest y más de 10 pasajeros a bordo",
+   "resumen": "Un chofer de un taxibús de la línea Ruta del Mar fue arrestado luego de verse involucrado en un choque en Talcahuano mientras manejaba ebrio y fuera de su recorrido regular. El conductor, de 29 años, impactó a un automóvil y causó lesiones a dos de sus…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-28t113656-355.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-28T18:00:31.372Z",
+   "visto": "2026-11-28T18:00:31.372Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/28/detienen-a-hombre-por-provocar-incendio-forestal-que-afecto-terreno-de-forestal-arauco-en-lebu",
+   "titulo": "Arrestan a hombre acusado de iniciar incendio forestal en predio de Forestal Arauco, en Lebu",
+   "resumen": "Un hombre fue arrestado tras originar un incendio forestal en el sector Millongue de Lebu, en la provincia de Arauco. Una quema de pastizales se salió de control por acción del viento y dañó 0,03 hectáreas de regeneración natural de eucaliptos, propiedad de…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/foto-contexto-nota-bbcl-2026-11-28t140047-410.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-28T18:00:31.372Z",
+   "visto": "2026-11-28T18:00:31.372Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/28/detienen-a-hombre-por-provocar-incendio-forestal-que-afecto-terreno-de-forestal-arauco-en-lebu.shtml",
    "titulo": "Detienen a hombre por provocar incendio forestal que afectó terreno de Forestal Arauco en Lebu",
@@ -1668,34 +1711,6 @@
    "local": true
   },
   {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/sociedad-agricola-del-bio-bio-y-decision-de-iansa-lo-mas-grave-es-dejar-de-sembrar-remolacha",
-   "titulo": "Sociedad Agrícola del Bío Bío advierte sobre el impacto de la decisión de Iansa en el cultivo de remolacha",
-   "resumen": "El presidente de la Sociedad Agrícola del Bío Bío, José Miguel Stegmaier, expresó su pesar por la decisión de Iansa de poner fin a la producción de azúcar de remolacha y alertó sobre el efecto que tendrá en el sector agrícola. La medida también provocó…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/sociedad-agricola-del-bio-bio-y-decision-de-iansa_-_lo-mas-grave_-es-dejar-de-sembrar-remolacha-1.jpg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-26T15:40:15.051Z",
-   "visto": "2026-11-26T15:40:15.051Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/mujer-muere-tras-ser-atropellada-por-bus-en-la-ruta-160-en-san-pedro-de-la-paz.shtml",
-   "titulo": "Mujer muere tras ser atropellada por bus en la Ruta 160 en San Pedro de la Paz",
-   "resumen": "Una mujer murió la mañana de este jueves tras ser atropellada por un bus en la Ruta 160 en San...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7033331-ahora-288.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-26T15:30:16.000Z",
-   "visto": "2026-11-26T15:30:26.013Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/26/escolares-de-coronel-participaron-en-clinicas-deportivas-camanchaca-lota-schwager/",
    "titulo": "Escolares de Coronel participaron en clínicas deportivas Camanchaca-Lota Schwager",
    "resumen": "Más de 500: La iniciativa, desarrollada entre agosto y noviembre en seis establecimientos educacionales de la comuna, buscó fomentar la vida sana, el trabajo en equipo y el vínculo con la identidad deportiva local.",
@@ -2672,20 +2687,6 @@
    "fuenteId": "diarioconcepcion",
    "fecha": "2026-11-23T18:40:20.395Z",
    "visto": "2026-11-23T18:40:20.395Z",
-   "cats": [
-    "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.elconquistadorconcepcion.cl/2026/11/23/biobio-fue-escenario-del-campeonato-nacional-de-remo-master-2026/",
-   "titulo": "Biobío fue escenario del Campeonato Nacional de Remo Máster 2026",
-   "resumen": "Reunió a deportistas de hasta 90 años.",
-   "imagen": "https://www.elconquistadorconcepcion.cl/wp-content/uploads/2026/11/remo-biobio-2026-768x432.jpg",
-   "fuente": "El Conquistador",
-   "fuenteId": "conquistador",
-   "fecha": "2026-11-23T17:56:40.000Z",
-   "visto": "2026-11-24T00:20:24.239Z",
    "cats": [
     "deportes"
    ],
