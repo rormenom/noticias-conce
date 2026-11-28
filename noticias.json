@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T13:10:20.641Z",
+ "generado": "2026-11-28T13:30:25.119Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 152,
-    "leidas": 62,
+    "leidas": 60,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,28 @@
    "diag": {
     "paginas": 3,
     "enlaces": 28,
-    "leidas": 8,
+    "leidas": 10,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.canal9.cl/episodios/2026/11/28/denuncian-despidos-en-seremi-de-educacion-del-bio-bio-entre-criticas-por-nuevas-contrataciones",
+   "titulo": "Acusan despidos en la Seremi de Educación del Bío Bío mientras cuestionan nuevas contrataciones",
+   "resumen": "Trabajadores de la Seremi de Educación del Bío Bío denunciaron que comenzaron los despidos en el servicio. La Anef aseguró que la medida también se aplica en otras reparticiones y que continuará hasta el próximo lunes. Cuestionan la aparente inconsistencia…",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/seremi-educacion.jpg",
+   "fuente": "Canal 9",
+   "fuenteId": "canal9",
+   "fecha": "2026-11-28T13:30:25.119Z",
+   "visto": "2026-11-28T13:30:25.119Z",
+   "cats": [
+    "regional",
+    "politica"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/deportes/basquetbol/2026/11/28/tension-en-la-nba-un-hincha-empujo-a-luka-doncic-tras-spurs-vs-lakers-y-fue-expulsado-del-estadio.shtml",
    "titulo": "Tensión en la NBA: un hincha empujó a Luka Doncic tras Spurs vs. Lakers y fue expulsado del estadio",
