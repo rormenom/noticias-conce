@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T15:00:28.144Z",
+ "generado": "2026-11-28T15:30:24.538Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
+    "enlaces": 151,
     "leidas": 60,
     "errores": 0,
     "robots": 0
@@ -2771,20 +2771,6 @@
    "visto": "2026-11-23T15:40:23.007Z",
    "cats": [
     "tecnologia"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.radioudec.cl/queremos-mas-tiempo-para-leer-la-furia-del-libro-de-verano-2026-anuncia-sus-primeros-confirmados/",
-   "titulo": "“Queremos más tiempo para leer”: La Furia del Libro de verano 2026 anuncia sus primeros confirmados",
-   "resumen": "En nuestro país se leen 5,5 libros por persona al […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/2022-·-Publico-y-feria-·-Edison-Araya-·-DSC0066-768x534.jpg",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-23T15:22:40.000Z",
-   "visto": "2026-11-23T15:30:24.736Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   }
