@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T13:00:28.181Z",
+ "generado": "2026-11-28T13:10:20.641Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 155,
+    "enlaces": 152,
     "leidas": 62,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/deportes/basquetbol/2026/11/28/tension-en-la-nba-un-hincha-empujo-a-luka-doncic-tras-spurs-vs-lakers-y-fue-expulsado-del-estadio.shtml",
+   "titulo": "Tensión en la NBA: un hincha empujó a Luka Doncic tras Spurs vs. Lakers y fue expulsado del estadio",
+   "resumen": "Luka Doncic, jugador de Los Ángeles Lakers, fue empujado por un espectador cuando se dirigía al vestuario tras la derrota...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7035764-nba-luka-doncic-empujon-aficionado.jpg",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-28T13:05:09.000Z",
+   "visto": "2026-11-28T13:10:20.641Z",
+   "cats": [
+    "deportes"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/28/bio-bio-supera-el-10-de-desempleo-y-sigue-entre-las-regiones-con-peores-cifras-del-pais.shtml",
    "titulo": "Bío Bío supera el 10% de desempleo y sigue entre las regiones con peores cifras del país",
