@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T14:40:21.055Z",
+ "generado": "2026-11-28T15:00:28.144Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -2785,34 +2785,6 @@
    "visto": "2026-11-23T15:30:24.736Z",
    "cats": [
     "cultura"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/biministro-alvarado-delegado-titular-biobio-interinato.html",
-   "titulo": "Biministro Alvarado no entregó el nombre del delegado presidencial regional  titular de Biobío",
-   "resumen": "En el seminario \"Esto es Biobío\", el biministro del Interior y Segegob evitó dar nombres para la Delegación Presidencial Regional, asegurando que se resolverá \"en un plazo relativamente prudente\" y que no han ingresado dimisiones en Interior.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/biministro-alvarado-delegado-titular-biobio-interinato-e1795480924583.jpeg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T15:00:00.000Z",
-   "visto": "2026-11-24T00:50:22.742Z",
-   "cats": [
-    "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/politica/2026/11/23/colegio-profesores-biobio-rechaza-dichos-bobadilla.html",
-   "titulo": "Diputado del Biobío pide descontar día de paro y gremio marchará en Concepción desde las 17:00",
-   "resumen": "Desde el Biobío, el gremio de profesores calificó los dichos como una medida de presión y confirmó la marcha en Concepción desde las 17:00 horas, fuera del horario laboral.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/colegio-profesores-biobio-rechaza-dichos-bobadilla-e1795478793502.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-23T15:00:00.000Z",
-   "visto": "2026-11-24T00:10:20.437Z",
-   "cats": [
-    "politica"
    ],
    "local": true
   }
