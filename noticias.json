@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T16:30:24.302Z",
+ "generado": "2026-11-28T16:40:19.753Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -47,7 +47,7 @@
    "ok": true,
    "diag": {
     "paginas": 5,
-    "enlaces": 19,
+    "enlaces": 20,
     "leidas": 1,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,21 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.tvu.cl/prensa/2026/11/28/festival-feriosa-machuca-gufi-y-los-tetas-encabezan-la-cuarta-edicion.html",
+   "titulo": "Festival Feriosa: Machuca, Gufi y Los Tetas encabezan la cuarta edición",
+   "resumen": "",
+   "imagen": "https://assets.tvu.cl/2026/11/pag-15-cuarta-edicion-del-Festival-Feriosa-foto-@prensarockchile.jpg",
+   "fuente": "TVU",
+   "fuenteId": "tvu",
+   "fecha": "2026-11-28T16:40:19.753Z",
+   "visto": "2026-11-28T16:40:19.753Z",
+   "cats": [
+    "regional",
+    "cultura"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/28/sabor-aroma-y-textura-udec-inaugura-laboratorio-para-evaluar-nuevos-alimentos.html",
    "titulo": "Sabor, aroma y textura: UdeC inaugura laboratorio para evaluar nuevos alimentos",
@@ -1681,20 +1696,6 @@
    "local": true
   },
   {
-   "url": "https://www.radioudec.cl/la-otra-cara-del-empleo-estudio-analiza-como-evoluciono-la-informalidad-laboral-en-biobio/",
-   "titulo": "La otra cara del empleo: Estudio analiza cómo evolucionó la informalidad laboral en Biobío",
-   "resumen": "El Biobío tiene menos personas trabajando de manera formal que […]",
-   "imagen": "https://www.radioudec.cl/wp-content/uploads/2026/11/puesto-frutas-callejero-peatones-ciudad-768x512.webp",
-   "fuente": "Radio UdeC",
-   "fuenteId": "radioudec",
-   "fecha": "2026-11-26T15:18:12.000Z",
-   "visto": "2026-11-26T15:20:20.788Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.elconquistadorconcepcion.cl/2026/11/26/escolares-de-coronel-participaron-en-clinicas-deportivas-camanchaca-lota-schwager/",
    "titulo": "Escolares de Coronel participaron en clínicas deportivas Camanchaca-Lota Schwager",
    "resumen": "Más de 500: La iniciativa, desarrollada entre agosto y noviembre en seis establecimientos educacionales de la comuna, buscó fomentar la vida sana, el trabajo en equipo y el vínculo con la identidad deportiva local.",
@@ -2731,21 +2732,6 @@
    "cats": [
     "regional",
     "politica"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/23/alejandro-sanz-confirma-concierto-en-concepcion-el-6-de-marzo-y-su-preventa-parte-el-1-de-diciembre",
-   "titulo": "Alejandro Sanz confirma concierto en Concepción el 6 de marzo y su preventa parte el 1 de diciembre",
-   "resumen": "El cantante español Alejandro Sanz confirmó que volverá a Chile con un concierto el 6 de marzo de 2027 en el estadio Ester Roa de Concepción, que será la única sede del país dentro de su nueva gira. La preventa de entradas comienza el 1 de diciembre, según…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/alejandro-sanz.webp",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-23T16:40:22.716Z",
-   "visto": "2026-11-23T16:40:22.716Z",
-   "cats": [
-    "regional",
-    "cultura"
    ],
    "local": true
   }
