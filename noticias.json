@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T18:00:31.372Z",
+ "generado": "2026-11-28T18:20:24.258Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -34,7 +34,7 @@
    "ok": true,
    "diag": {
     "paginas": 7,
-    "enlaces": 56,
+    "enlaces": 57,
     "leidas": 1,
     "errores": 0,
     "robots": 0
@@ -60,8 +60,8 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 150,
-    "leidas": 61,
+    "enlaces": 152,
+    "leidas": 62,
     "errores": 0,
     "robots": 0
    }
@@ -74,13 +74,27 @@
    "diag": {
     "paginas": 3,
     "enlaces": 28,
-    "leidas": 8,
+    "leidas": 7,
     "errores": 0,
     "robots": 0
    }
   }
  ],
  "items": [
+  {
+   "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/28/paes-regular-2026-inscritos-biobio-recomendaciones.html",
+   "titulo": "PAES Regular: cerca de 27 mil estudiantes darán importante prueba en Biobío",
+   "resumen": "A días de la aplicación, que se realizará entre el 30 de noviembre y el 2 de diciembre, especialistas recomiendan cuidar el sueño, la alimentación y el bienestar emocional.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-8-rindiendo-la-Paes-foto-carolina.jpg.jpeg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-28T18:20:24.258Z",
+   "visto": "2026-11-28T18:20:24.258Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/28/festival-santiago-wild-desplegara-inedita-version-udec-exhibiciones-films-reflexion-cientifica.html",
    "titulo": "Festival Santiago Wild desplegará inédita versión en la UdeC con exhibiciones de films y reflexión científica",
@@ -284,20 +298,6 @@
    "local": true
   },
   {
-   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/28/udec-inaugura-laboratorio-analisis-sensorial-alimentos.html",
-   "titulo": "Sabor, aroma y textura: UdeC inaugura laboratorio para evaluar nuevos alimentos",
-   "resumen": "El recinto permitirá estudiar la aceptabilidad de productos entre consumidores y apoyar procesos de innovación alimentaria, con posibilidades de colaboración con empresas y emprendedores.",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-laboratorio-foto-cedida-e1795808400788.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-28T08:40:20.542Z",
-   "visto": "2026-11-28T08:40:20.542Z",
-   "cats": [
-    "tecnologia"
-   ],
-   "local": true
-  },
-  {
    "url": "https://www.diarioconcepcion.cl/cultura/2026/11/28/machuca-gufi-y-los-tetas-encabezan-la-cuarta-edicion-del-festival-feriosa.html",
    "titulo": "Machuca, Gufi y Los Tetas encabezan la cuarta edición del Festival Feriosa",
    "resumen": "El evento familiar se desplegará durante tres jornadas en el Parque Bicentenario, con 17 artistas y bandas que recorrerán distintos estilos y generaciones. La propuesta también contempla cervecerías, gastronomía y emprendimientos locales, con entrada…",
@@ -308,6 +308,20 @@
    "visto": "2026-11-28T08:40:20.542Z",
    "cats": [
     "cultura"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2026/11/28/udec-inaugura-laboratorio-analisis-sensorial-alimentos.html",
+   "titulo": "Sabor, aroma y textura: UdeC inaugura laboratorio para evaluar nuevos alimentos",
+   "resumen": "El recinto permitirá estudiar la aceptabilidad de productos entre consumidores y apoyar procesos de innovación alimentaria, con posibilidades de colaboración con empresas y emprendedores.",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-9-laboratorio-foto-cedida-e1795808400788.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-28T08:40:20.542Z",
+   "visto": "2026-11-28T08:40:20.542Z",
+   "cats": [
+    "tecnologia"
    ],
    "local": true
   },
@@ -1693,20 +1707,6 @@
    "visto": "2026-11-26T15:40:15.051Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.canal9.cl/episodios/2026/11/26/joven-de-19-anos-muere-tras-ser-atropellada-por-un-bus-en-la-ruta-160-en-san-pedro-de-la-paz",
-   "titulo": "San Pedro de la Paz: Joven de 19 años muere tras ser atropellada por bus en Ruta 160",
-   "resumen": "Una joven de 19 años falleció durante esta jornada tras ser atropellada por un bus en la comuna de San Pedro de la Paz, en la región del Bío Bío. El fatal accidente se registró en la Ruta 160, específicamente a la altura de la intersección con Avenida Los…",
-   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/WhatsApp-Image-2026-11-26-at-12.32.13-e1795707192197.jpeg",
-   "fuente": "Canal 9",
-   "fuenteId": "canal9",
-   "fecha": "2026-11-26T15:40:15.051Z",
-   "visto": "2026-11-26T15:40:15.051Z",
-   "cats": [
-    "regional"
    ],
    "local": true
   },
