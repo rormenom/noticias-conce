@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T08:40:20.542Z",
+ "generado": "2026-11-28T08:50:21.707Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -35,7 +35,7 @@
    "diag": {
     "paginas": 7,
     "enlaces": 57,
-    "leidas": 8,
+    "leidas": 1,
     "errores": 0,
     "robots": 0
    }
@@ -61,7 +61,7 @@
    "diag": {
     "paginas": 4,
     "enlaces": 156,
-    "leidas": 54,
+    "leidas": 61,
     "errores": 0,
     "robots": 0
    }
@@ -106,6 +106,20 @@
    "visto": "2026-11-28T08:40:20.542Z",
    "cats": [
     "tecnologia"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/28/machuca-gufi-y-los-tetas-encabezan-la-cuarta-edicion-del-festival-feriosa.html",
+   "titulo": "Machuca, Gufi y Los Tetas encabezan la cuarta edición del Festival Feriosa",
+   "resumen": "El evento familiar se desplegará durante tres jornadas en el Parque Bicentenario, con 17 artistas y bandas que recorrerán distintos estilos y generaciones. La propuesta también contempla cervecerías, gastronomía y emprendimientos locales, con entrada…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Principal-cr%C3%A9dito-@prensarockchile-e1795826629227.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-28T08:40:20.542Z",
+   "visto": "2026-11-28T08:40:20.542Z",
+   "cats": [
+    "cultura"
    ],
    "local": true
   },
@@ -163,20 +177,6 @@
    "visto": "2026-11-28T08:40:20.542Z",
    "cats": [
     "deportes"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.diarioconcepcion.cl/cultura/2026/11/28/machuca-gufi-y-los-tetas-encabezan-la-cuarta-edicion-del-festival-feriosa.html",
-   "titulo": "Machuca, Gufi y Los Tetas encabezan la cuarta edición del Festival Feriosa",
-   "resumen": "El evento familiar se desplegará durante tres jornadas en el Parque Bicentenario, con 17 artistas y bandas que recorrerán distintos estilos y generaciones. La propuesta también contempla cervecerías, gastronomía y emprendimientos locales, con entrada…",
-   "imagen": "https://assets.diarioconcepcion.cl/2026/11/Principal-cr%C3%A9dito-@prensarockchile-e1795826629227.jpg",
-   "fuente": "Diario Concepción",
-   "fuenteId": "diarioconcepcion",
-   "fecha": "2026-11-28T08:40:20.542Z",
-   "visto": "2026-11-28T08:40:20.542Z",
-   "cats": [
-    "cultura"
    ],
    "local": true
   },
@@ -1601,6 +1601,20 @@
    "fuenteId": "tvu",
    "fecha": "2026-11-26T15:00:29.764Z",
    "visto": "2026-11-26T15:00:29.764Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
+  {
+   "url": "https://www.diarioconcepcion.cl/economia/2026/11/26/indice-confianza-pagos-digitales.html",
+   "titulo": "Chile obtiene 74 puntos sobre 100 en el primer Índice de Confianza en Pagos Digitales",
+   "resumen": "El estudio mide la confianza de los usuarios de pagos digitales a través de cinco dimensiones. Mientras la claridad del importe final y la protección de datos encabezan las prioridades, la mayor reserva de los encuestados aparece frente a pagos ejecutados…",
+   "imagen": "https://assets.diarioconcepcion.cl/2026/11/pag-15-Resultados-Chile-Rapyd-Trust-in-DP-Index.jpg",
+   "fuente": "Diario Concepción",
+   "fuenteId": "diarioconcepcion",
+   "fecha": "2026-11-26T15:00:00.000Z",
+   "visto": "2026-11-28T08:50:21.707Z",
    "cats": [
     "regional"
    ],
