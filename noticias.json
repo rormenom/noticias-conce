@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-28T17:00:29.660Z",
+ "generado": "2026-11-28T17:10:21.535Z",
  "fuentes": [
   {
    "id": "conquistador",
@@ -60,7 +60,7 @@
    "ok": true,
    "diag": {
     "paginas": 4,
-    "enlaces": 152,
+    "enlaces": 151,
     "leidas": 63,
     "errores": 0,
     "robots": 0
@@ -81,6 +81,20 @@
   }
  ],
  "items": [
+  {
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/28/detienen-a-hombre-por-provocar-incendio-forestal-que-afecto-terreno-de-forestal-arauco-en-lebu.shtml",
+   "titulo": "Detienen a hombre por provocar incendio forestal que afectó terreno de Forestal Arauco en Lebu",
+   "resumen": "Un hombre fue detenido por provocar un incendio forestal en el sector Millongue de Lebu, provincia de Arauco, luego de...",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7035871-foto-contexto-nota-bbcl-2026-11-28t140047-410.png",
+   "fuente": "BioBioChile",
+   "fuenteId": "biobiochile",
+   "fecha": "2026-11-28T17:01:17.000Z",
+   "visto": "2026-11-28T17:10:21.535Z",
+   "cats": [
+    "regional"
+   ],
+   "local": true
+  },
   {
    "url": "https://www.tvu.cl/prensa/2026/11/28/festival-feriosa-machuca-gufi-y-los-tetas-encabezan-la-cuarta-edicion.html",
    "titulo": "Festival Feriosa: Machuca, Gufi y Los Tetas encabezan la cuarta edición",
@@ -1675,20 +1689,6 @@
    "fuente": "BioBioChile",
    "fuenteId": "biobiochile",
    "fecha": "2026-11-26T15:30:16.000Z",
-   "visto": "2026-11-26T15:30:26.013Z",
-   "cats": [
-    "regional"
-   ],
-   "local": true
-  },
-  {
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/continua-busqueda-de-daysi-jaramillo-mujer-desaparecida-hace-mas-de-un-mes-en-san-pedro-de-la-paz.shtml",
-   "titulo": "Continúa búsqueda de Daysi Jaramillo, mujer desaparecida hace más de un mes en San Pedro de la Paz",
-   "resumen": "Continúa la búsqueda de Daysi Jaramillo Lecerf en San Pedro de la Paz, región del Bío Bío, mujer y madre...",
-   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7033240-busqueda-daisy-jaramillo.png",
-   "fuente": "BioBioChile",
-   "fuenteId": "biobiochile",
-   "fecha": "2026-11-26T15:26:41.000Z",
    "visto": "2026-11-26T15:30:26.013Z",
    "cats": [
     "regional"
